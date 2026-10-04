@@ -1,0 +1,8 @@
+data/raw/
+data/cleaned/
+data/features/
+models/
+__pycache__/
+*.pyc
+.env
+logs/

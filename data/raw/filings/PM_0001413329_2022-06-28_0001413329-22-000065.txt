@@ -1,0 +1,195 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of
+The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+June 23, 2022
+
+Philip Morris International Inc.
+
+(Exact name of registrant as specified in its charter)
+Virginia
+1-33708
+13-3435103
+(State or other jurisdiction
+of incorporation)
+(Commission File Number)
+(I.R.S. Employer
+Identification No.)
+120 Park Avenue
+New York
+New York
+10017-5592
+(Address of principal executive offices)
+(Zip Code)
+Registrant's telephone number, including area code: (
+917
+)
+663-2000
+
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, no par value
+PM
+New York Stock Exchange
+2.375% Notes due 2022
+PM22B
+New York Stock Exchange
+2.500% Notes due 2022
+PM22
+New York Stock Exchange
+2.500% Notes due 2022
+PM22C
+New York Stock Exchange
+2.625% Notes due 2023
+PM23
+New York Stock Exchange
+2.125% Notes due 2023
+PM23B
+New York Stock Exchange
+3.600% Notes due 2023
+PM23A
+New York Stock Exchange
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+2.875% Notes due 2024
+PM24
+New York Stock Exchange
+2.875% Notes due 2024
+PM24C
+New York Stock Exchange
+0.625% Notes due 2024
+PM24B
+New York Stock Exchange
+3.250% Notes due 2024
+PM24A
+New York Stock Exchange
+2.750% Notes due 2025
+PM25
+New York Stock Exchange
+3.375% Notes due 2025
+PM25A
+New York Stock Exchange
+2.750% Notes due 2026
+PM26A
+New York Stock Exchange
+2.875% Notes due 2026
+PM26
+New York Stock Exchange
+0.125% Notes due 2026
+PM26B
+New York Stock Exchange
+3.125% Notes due 2027
+PM27
+New York Stock Exchange
+3.125% Notes due 2028
+PM28
+New York Stock Exchange
+2.875% Notes due 2029
+PM29
+New York Stock Exchange
+3.375% Notes due 2029
+PM29A
+New York Stock Exchange
+0.800% Notes due 2031
+PM31
+New York Stock Exchange
+3.125% Notes due 2033
+PM33
+New York Stock Exchange
+2.000% Notes due 2036
+PM36
+New York Stock Exchange
+1.875% Notes due 2037
+PM37A
+New York Stock Exchange
+6.375% Notes due 2038
+PM38
+New York Stock Exchange
+1.450% Notes due 2039
+PM39
+New York Stock Exchange
+4.375% Notes due 2041
+PM41
+New York Stock Exchange
+4.500% Notes due 2042
+PM42
+New York Stock Exchange
+3.875% Notes due 2042
+PM42A
+New York Stock Exchange
+4.125% Notes due 2043
+PM43
+New York Stock Exchange
+4.875% Notes due 2043
+PM43A
+New York Stock Exchange
+4.250% Notes due 2044
+PM44
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+Item 1.01.
+Entry into a Material Definitive Agreement.
+On June
+23
+, 2022, Philip Morris International Inc. (the “Company”) entered into a credit agreement (the “Credit Agreement”) relating to a senior unsecured term loan facility (the “Term Loan Facility”) with the lenders named therein and Citibank Europe PLC, UK Branch, as facility agent. The Term Loan Facility provides for borrowings up to an aggregate principal amount of €5,500,000,000
+(approximately $5.8 billion at the date of signing)
+, €3,000,000,000
+(approximately $3.2 billion at the date of signing)
+of which expires 3 years after the occurrence of certain events as further described in the Credit Agreement, and €2,500,000,000
+(approximately $2.6 billion at the date of signing)
+of which expires on June 23, 2027.
+
+The Credit Agreement was entered into in connection with the Company’s all-cash recommended public offer to the shareholders of Swedish Match AB, a public limited liability company organized under the laws of the Kingdom of Sweden (“Swedish Match”), for all the outstanding shares of Swedish Match (the “Offer”).
+
+In connection with the Term Loan Facility, the aggregate principal amount of commitments was reduced to $11,000,000,000 under that certain 364-day bridge credit agreement, dated as of May 11, 2022 (as amended or modified from time to time prior to the date hereof, the “Bridge Credit Agreement”) among the Company, the lenders from time to time party thereto and Citibank Europe PLC, UK Branch as facility agent, which was also entered into in connection with the Offer. The Bridge Credit Agreement and the Credit Agreement collectively provide for borrowings up to a total aggregate principal amount of approximately the equivalent of $16,800,000,000.
+Interest rates on borrowings under the Term Loan Facility will be based on prevailing interest rates for Euro and as further described in the Credit Agreement.
+
+The Term Loan Facility will be used, directly or indirectly, to finance the Offer, including currency exchange or other hedging arrangements and to pay fees and expenses incurred in connection with the Offer.
+The Credit Agreement contains certain events of default customary for credit facilities of this type (with customary grace periods, as applicable), including nonpayment of principal or interest when due; material incorrectness of representations and warranties when made; breach of covenants; bankruptcy and insolvency; unsatisfied ERISA obligations; unstayed material judgment beyond specified periods; acceleration or payment default of other material indebtedness; and invalidation of the Company’s guaranty of subsidiary borrowings.
+If any events of default occur and are not cured within applicable grace periods or waived, any outstanding loans may be accelerated and the lenders’ commitments may be terminated. The occurrence of a bankruptcy and insolvency event of default will result in the automatic termination of commitments and acceleration of outstanding loans under the Credit Agreement.
+Certain of the lenders under the Credit Agreement and their respective affiliates have, from time to time, performed, and may in the future perform, various financial advisory, commercial and investment banking services for the Company, for which they received or will receive customary fees and expenses. Certain affiliates of the lenders are underwriters of certain of the Company’s note issuances. The Company and some of its subsidiaries may enter into foreign exchange and other derivative arrangements with certain of the lenders and their affiliates. In addition, certain of the lenders and their respective affiliates act as dealers in connection with the Company’s commercial paper programs.
+The description above is a summary and is qualified in its entirety by the Credit Agreement, which is filed as Exhibit 10.1 to this report and is incorporated herein by reference.
+Item 9.01.
+Financial Statements and Exhibits.
+(d)
+Exhibits.
+10.1
+Credit Agreement relating to the Term Loan Facility, between Philip Morris International Inc., the lenders named therein and Citibank Europe PLC, UK Bra
+nch, as facility agent, dated June 23, 2022.
+104
+Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document and contained in Exhibit 101)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+PHILIP MORRIS INTERNATIONAL INC.
+By:
+/s/ DARLENE QUASHIE HENRY
+Name:
+Darlene Quashie Henry
+Title:
+Vice President, Associate General Counsel & Corporate Secretary
+Date: June 28, 2022

@@ -1,0 +1,101 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+October 2, 2023
+
+INTEL CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+000-06217
+94-1672743
+(State or other jurisdiction
+(Commission
+(IRS Employer
+of incorporation)
+File Number)
+Identification No.)
+
+2200 Mission College Boulevard
+,
+Santa Clara
+,
+CA
+95054-1549
+(Address of principal executive offices)
+(Zip Code)
+Registrant's telephone number, including area code:
+(408)
+
+765-8080
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, $0.001 par value
+INTC
+Nasdaq Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+Item 5.02
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(b), (e)
+Appointment of Sandra L. Rivera as Chief Executive Officer of Programmable Solutions Group
+On October 3, 2023, Intel Corporation (“Intel”) announced that Sandra L. Rivera will assume the role of Chief Executive Officer of Programmable Solutions Group (“PSG”), an Intel standalone business, and the effective date of this transition (“Effective Date”) is anticipated to occur on January 1, 2024. Ms. Rivera will continue to lead the Data Center and AI Group until a new leader is identified.
+In connection with her appointment as PSG Chief Executive Officer, Intel entered into an offer letter with Ms. Rivera (the “Offer Letter”) setting forth the terms of her employment with PSG. Commencing on January 1, 2024, Ms. Rivera’s annual base salary will be set at $900,000, and she will be eligible for an annual incentive cash bonus with a target amount of 150% of her base salary or $1,350,000. The Offer Letter further provides for annual long-term incentive (“LTI”) equity awards with respect to PSG’s equity, beginning in 2024, with an initial aggregate target value of approximately $11,250,000 (determined as set forth in the Offer Letter), comprised of approximately 60% PSG performance stock units (“PSUs”) and 40% PSG time-based restricted stock units (“RSUs”). These initial LTI equity awards will receive accelerated vesting in the event of Ms. Rivera’s death or Disablement (as defined in the Offer Letter).
+In addition, the Offer Letter provides for “staking grants” with respect to PSG’s equity to be provided to Ms. Rivera with an aggregate target value of approximately $25,000,000 (determined as set forth in the Offer Letter), comprised of 80% PSUs and 20% RSUs. The Offer Letter further provides that Ms. Rivera will have the opportunity to purchase up to $5,000,000 in PSG’s equity, for which she will receive an equal number of matching PSG RSUs.
+The Offer Letter also provides that in the event Ms. Rivera’s employment is terminated without Cause (as defined in the Offer Letter) or she voluntarily resigns for Good Reason (as defined in the Offer Letter) and she signs and does not revoke a release of claims, she will be entitled to severance payments equal to one times her then-base salary and then-target bonus opportunity. In addition, in the event a Change in Control (as defined in the Offer Letter) occurs within five years of the Effective Date and her employment is terminated without Cause or she voluntarily resigns for Good Reason within one year of the Change in Control, and she signs and does not revoke a release of claims, Ms. Rivera will be entitled to (A) full acceleration of any unvested PSG RSUs referenced in the Offer Letter and (B) pro-rata vesting (determined as set forth in the Offer Letter) of the target number of any outstanding PSG PSUs referenced in the Offer Letter.
+The foregoing description of Ms. Rivera’s compensation arrangements is qualified in its entirety by reference to the Offer Letter, which is attached as Exhibit 10.1 to this report.
+Item 7.01 Regulation FD Disclosure.
+Intel’s press release, dated October 3, 2023, announcing the appointment of Ms. Rivera as PSG’s Chief Executive Officer as of the Effective Date is furnished as Exhibit 99.1 to this report.
+The information in Item 7.01 of this report is furnished and shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+Item 9.01
+
+Financial Statements and Exhibits.
+(d)
+
+Exhibits.
+The following exhibits are provided as part of this Report:
+Exhibit Number
+Description
+10.1
+Offer Letter with Sandra L. Rivera dated October 2, 2023.
+99.1
+Press release, dated October 3, 2023, issued by Intel Corporation announcing the appointment of Ms. Rivera as PSG's Chief Executive Officer.
+104
+Cover Page Interactive Data File, formatted in Inline XBRL and included as Exhibit 101.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+INTEL CORPORATION
+(Registrant)
+Date:
+October 5, 2023
+By:
+/s/ April Miller Boise
+April Miller Boise
+Executive Vice President and Chief Legal Officer

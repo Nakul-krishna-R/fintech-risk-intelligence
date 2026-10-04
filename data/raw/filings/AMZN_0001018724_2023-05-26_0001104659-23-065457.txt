@@ -1,0 +1,757 @@
+Table of Contents
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant
+to Section 13 or 15(d) of the
+
+Securities
+Exchange Act of 1934
+
+May 24, 2023
+
+Date of Report
+
+(Date of earliest event reported)
+
+AMAZON.COM, INC.
+
+(Exact name of registrant as specified in its
+charter)
+
+Delaware
+
+000-22513
+
+91-1646860
+
+(State
+or other jurisdiction of
+
+incorporation)
+
+(Commission
+File Number)
+
+(IRS
+Employer Identification No.)
+
+410 Terry Avenue North
+,
+Seattle
+,
+Washington
+
+98109-5210
+
+(Address of principal
+executive offices, including Zip Code)
+
+(206)
+
+266-1000
+
+(Registrant’s
+telephone number, including area code)
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of
+the Act:
+
+Title of Each Class
+
+Trading Symbol(s)
+
+Name of Each Exchange on Which Registered
+
+Common Stock, par value $.01 per share
+
+AMZN
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+
+¨
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+¨
+
+Table of Contents
+
+TABLE
+OF CONTENTS
+
+ITEM 5.07. SUBMISSION OF MATTERS TO A
+VOTE OF SECURITY HOLDERS.
+
+3
+
+SIGNATURES
+
+6
+
+Table of Contents
+
+ITEM 5.07. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+On May 24, 2023, Amazon.com, Inc. (the
+“Company”) held its Annual Meeting of Shareholders.
+
+The following nominees were elected as directors,
+each to hold office until the next Annual Meeting of Shareholders or until his or her successor is elected and qualified, by the vote
+set forth below:
+
+Nominee
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+Jeffrey P. Bezos
+
+6,980,639,941
+
+367,108,287
+
+20,661,618
+
+1,298,652,951
+
+Andrew R. Jassy
+
+7,283,404,084
+
+72,396,902
+
+12,608,860
+
+1,298,652,951
+
+Keith B. Alexander
+
+7,228,610,746
+
+124,509,220
+
+15,289,880
+
+1,298,652,951
+
+Edith W. Cooper
+
+5,973,207,683
+
+1,374,647,815
+
+20,554,348
+
+1,298,652,951
+
+Jamie S. Gorelick
+
+7,063,104,316
+
+290,448,441
+
+14,857,089
+
+1,298,652,951
+
+Daniel P. Huttenlocher
+
+5,951,607,777
+
+1,395,865,502
+
+20,936,567
+
+1,298,652,951
+
+Judith A. McGrath
+
+5,236,121,158
+
+2,112,024,911
+
+20,263,777
+
+1,298,652,951
+
+Indra K. Nooyi
+
+7,180,632,749
+
+134,049,727
+
+53,727,370
+
+1,298,652,951
+
+Jonathan J. Rubinstein
+
+7,071,567,313
+
+281,676,345
+
+15,166,188
+
+1,298,652,951
+
+Patricia Q. Stonesifer
+
+7,004,215,383
+
+349,470,037
+
+14,724,426
+
+1,298,652,951
+
+Wendell P. Weeks
+
+7,241,737,701
+
+111,441,435
+
+15,230,710
+
+1,298,652,951
+
+The appointment of Ernst & Young LLP
+as our independent auditors for the fiscal year ending December 31, 2023 was ratified by the vote set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+8,361,401,059
+
+287,140,557
+
+18,521,181
+
+—
+
+The compensation of our named executive officers
+as disclosed in the proxy statement was approved in an advisory vote, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+5,020,199,106
+
+2,322,673,390
+
+25,537,350
+
+1,298,652,951
+
+An advisory vote on the frequency of future advisory
+votes on executive compensation received the following votes:
+
+One Year
+
+Two Years
+
+Three Years
+
+Abstain
+
+Broker
+
+Non-Votes
+
+7,270,477,259
+
+11,671,932
+
+67,529,229
+
+18,731,426
+
+1,298,652,951
+
+In light of these voting results, the Company
+plans to hold future advisory votes on executive compensation annually until the next required vote on the frequency of such advisory
+votes, or until the Board of Directors of the Company otherwise determines that a different frequency is in the best interests of the
+Company and its shareholders.
+
+The Company’s 1997 Stock Incentive Plan,
+as amended and restated, was reapproved for purposes of French tax law, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+6,869,340,693
+
+480,249,860
+
+18,819,293
+
+1,298,652,951
+
+3
+
+Table of Contents
+
+A shareholder proposal requesting a report on retirement
+plan options was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+490,423,709
+
+6,284,800,004
+
+593,186,133
+
+1,298,652,951
+
+A shareholder proposal requesting a report on
+customer due diligence was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+2,498,413,873
+
+4,811,115,673
+
+58,880,300
+
+1,298,652,951
+
+A shareholder proposal requesting reporting on
+content and product removal/restrictions was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+754,724,764
+
+6,436,676,008
+
+177,009,074
+
+1,298,652,951
+
+A shareholder proposal requesting a report on
+content removal requests was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+117,299,300
+
+7,173,178,675
+
+77,931,871
+
+1,298,652,951
+
+A shareholder proposal requesting additional reporting
+on stakeholder impacts was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+1,988,671,364
+
+5,130,034,783
+
+249,703,699
+
+1,298,652,951
+
+A shareholder proposal requesting alternative
+tax reporting was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+1,293,326,053
+
+6,014,635,870
+
+60,447,923
+
+1,298,652,951
+
+A shareholder proposal requesting additional reporting
+on climate lobbying was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+1,734,559,291
+
+5,532,969,634
+
+100,880,921
+
+1,298,652,951
+
+A shareholder proposal requesting additional reporting
+on gender/racial pay was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+2,138,766,104
+
+5,174,973,947
+
+54,669,795
+
+1,298,652,951
+
+A shareholder proposal requesting an analysis
+of costs associated with diversity, equity, and inclusion programs was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+60,804,059
+
+7,256,490,940
+
+51,114,847
+
+1,298,652,951
+
+A shareholder proposal requesting an amendment
+to our bylaws to require shareholder approval for certain future amendments was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+844,044,010
+
+6,473,633,410
+
+50,732,426
+
+1,298,652,951
+
+4
+
+Table of Contents
+
+A shareholder proposal requesting additional reporting
+on freedom of association was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+2,551,640,467
+
+4,757,532,187
+
+59,237,192
+
+1,298,652,951
+
+A shareholder proposal requesting a new policy
+regarding our executive compensation process was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+476,336,491
+
+6,798,711,183
+
+93,362,172
+
+1,298,652,951
+
+A shareholder proposal requesting additional reporting
+on animal welfare standards was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+410,038,754
+
+6,878,186,316
+
+80,184,776
+
+1,298,652,951
+
+A shareholder proposal requesting an additional
+Board committee was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+462,033,238
+
+6,819,293,663
+
+87,082,945
+
+1,298,652,951
+
+A shareholder proposal requesting an alternative
+director candidate policy was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+1,349,994,843
+
+5,968,467,387
+
+49,947,616
+
+1,298,652,951
+
+A shareholder proposal requesting a report on
+warehouse working conditions was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+2,590,684,742
+
+4,722,460,838
+
+55,264,266
+
+1,298,652,951
+
+A shareholder proposal requesting a report on
+packaging materials was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+2,345,678,911
+
+4,921,660,303
+
+101,070,632
+
+1,298,652,951
+
+A shareholder proposal requesting a report on
+customer use of certain technologies was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+2,739,606,457
+
+4,569,643,496
+
+59,159,893
+
+1,298,652,951
+
+5
+
+Table of Contents
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+AMAZON.COM, INC. (REGISTRANT)
+
+By:
+
+/s/ David A. Zapolsky
+
+David A. Zapolsky
+
+Senior Vice President
+
+Dated: May 26, 2023
+
+6

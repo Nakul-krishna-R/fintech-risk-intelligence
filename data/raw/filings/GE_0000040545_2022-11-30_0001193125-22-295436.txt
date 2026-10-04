@@ -1,0 +1,232 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)
+November 30, 2022
+
+General Electric Company
+
+(Exact name of registrant as specified in its charter)
+
+New York
+
+001-00035
+
+14-0689340
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+5 Necco Street
+,
+Boston
+,
+MA
+
+02210
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(Registrant’s telephone number, including area code)
+(617)
+
+443-3000
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common stock, par value $0.01 per share
+
+GE
+
+New York Stock Exchange
+
+1.250% Notes due 2023
+
+GE 23E
+
+New York Stock Exchange
+
+0.875% Notes due 2025
+
+GE 25
+
+New York Stock Exchange
+
+1.875% Notes due 2027
+
+GE 27E
+
+New York Stock Exchange
+
+1.500% Notes due 2029
+
+GE 29
+
+New York Stock Exchange
+
+7 1/2% Guaranteed Subordinated Notes due 2035
+
+GE /35
+
+New York Stock Exchange
+
+2.125% Notes due 2037
+
+GE 37
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934 (§
+240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01
+
+Other Events
+
+Approval of
+Spin-Off
+
+On November 30, 2022, General Electric Company (“GE”) announced that its board of directors has approved the previously announced separation of GE Healthcare Holding LLC, a direct, wholly-owned subsidiary of GE. Prior to such separation, GE HealthCare is expected to be converted into a corporation and renamed GE HealthCare Technologies Inc. (“GE HealthCare”). GE also announced the timing and details regarding GE’s distribution of at least 80.1% of the shares of common stock, par value $0.01 per share, of GE HealthCare (the “GE HealthCare Common Stock”), to holders of GE common stock (“GE shareholders”) as a pro rata dividend in
+the spin-off.
+Following the distribution, GE will retain up to 19.9% of the outstanding GE HealthCare Common Stock. The distribution is expected to occur after U.S. market close on January 3, 2023, and GE HealthCare is expected to begin trading on The Nasdaq Stock Market LLC on January 4, 2023 under the ticker “GEHC.” Holders of GE common stock will be entitled to receive one share of GE HealthCare common stock for every three shares of GE common stock held on December 16, 2022, the record date for the distribution. The distribution is subject to the satisfaction or waiver of certain conditions. A copy of the press release is attached as Exhibit 99.1 and incorporated by reference herein.
+
+Tender Offer
+
+On November 30, 2022, GE issued a press release announcing the total consideration and amounts accepted in its previously announced tender offer to purchase for cash certain of the existing debt securities issued by GE or certain affiliates (and assumed or guaranteed by GE) (the “Tender Offer”). A copy of that press release is attached as Exhibit 99.2 and incorporated by reference herein.
+
+Item 9.01
+
+Financial Statements and Exhibits
+
+(d)
+
+Exhibits
+
+Exhibit
+
+Description
+
+99.1
+
+Press release, dated November 30, 2022 issued by GE regarding the
+spin-off
+approval.
+
+99.2
+
+Press release, dated November 30, 2022 issued by GE regarding the Tender Offer.
+
+104
+
+The cover page from this Current Report on Form
+8-K,
+formatted in Inline XBRL.
+
+Forward-looking statements.
+
+This document contains “forward-looking statements”—that is, statements related to future, not past, events. These forward-looking statements often address GE’s expected future business and financial performance and financial condition, and often contain words such as “expect,” “anticipate,” “intend,” “plan,” “believe,” “seek,” “see,” “will,” “would,” “estimate,” “forecast,” “target,” “preliminary,” or “range.” Forward-looking statements by their nature address matters that are, to different degrees, uncertain, and are subject to risks, uncertainties and assumptions. For GE, particular areas where risks or uncertainties could cause GE’s actual results to be materially different than those expressed in GE’s forward-looking statements include: GE’s success in executing and completing asset dispositions or other transactions, including GE’s plans to pursue the GE HealthCare
+spin-off
+and the
+spin-off
+its portfolio of energy businesses that are planned to be combined as GE Vernova (Renewable Energy, Power, Digital and Energy Financial Services), and sales or other dispositions of GE’s equity interests in Baker Hughes Company and AerCap Holdings N.V. and GE’s expected equity interest in GE Healthcare after its
+spin-off,
+the timing for such transactions, the ability to satisfy any applicable
+pre-conditions,
+and the expected proceeds, consideration and benefits to GE; changes in macroeconomic and market conditions and market volatility, including impacts related to the
+COVID-19
+pandemic, risk of recession, inflation, supply chain constraints or disruptions, rising interest rates, oil, natural gas and other commodity prices and exchange rates, and the impact of such changes and volatility on GE’s business operations, financial results and financial position; and GE’s
+de-leveraging
+and capital allocation plans, including with respect to actions to reduce its indebtedness, the capital structures of the three public companies that GE plans to form from its businesses, the timing and amount of dividends, share repurchases, organic investments, and other priorities; and other factors that are described in the “Risk Factors” section of GE’s Annual Report on
+Form 10-K
+for the year ended December 31, 2021 and its Quarterly Report on
+Form 10-Q
+for the quarter ended March 31, 2022, as such descriptions may be updated or amended in any future reports that GE files with the SEC. These or other uncertainties may cause GE’s actual future results to be materially different than those expressed in its forward-looking statements. GE does not undertake to update its forward-looking statements.
+
+(2)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+General Electric Company
+
+(Registrant)
+
+Date: November 30, 2022
+
+/s/ Brandon Smith
+
+Brandon Smith
+
+Vice President, Chief Corporate, Securities & Finance Counsel

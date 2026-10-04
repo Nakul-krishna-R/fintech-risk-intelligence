@@ -1,0 +1,120 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+__________________
+FORM
+8-K
+
+__________________
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+February 22, 2023
+
+__________________
+THE
+HOME DEPOT, INC.
+
+(Exact Name of Registrant as Specified in Charter)
+
+__________________
+Delaware
+
+1-8207
+
+95-3261426
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+2455 Paces Ferry Road
+,
+Atlanta
+,
+Georgia
+
+30339
+
+(Address of Principal Executive Offices) (Zip Code)
+(
+770
+)
+433-8211
+
+(Registrant’s Telephone Number, Including Area Code)
+Not Applicable
+(Former Name or Former Address, if Changed Since Last Report)
+
+__________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2 below):
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.05 Par Value Per Share
+HD
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On February 22, 2023, the Leadership Development and Compensation Committee (“LDC Committee”) of the Board of Directors (the “Board”) of The Home Depot, Inc. (the “Company”) adopted new forms of Executive Officer Equity Award Agreements (the “Award Agr
+eements”) with respect to the granting of performance shares, performance-based restricted stock, restricted stock, and nonqualified stock options
+under the The Home Depot, Inc. Omnibus Stock Incentive Plan, as Amended and Restated May 19, 2022 (the “Omnibus Plan”). The new Award Agreements will be used for all awards to executive officers made on or after February 23, 2023. The terms of the Award Agreements are substantially similar to those in the form of award agreements last approved by the LDC Committee in May 2022 and disclosed by the Company in its Current Report on Form 8-K filed on May 24, 2022, except for updates to the non-competition and confidentiality provisions, the addition of language to clarify that nothing in the Award Agreements infringes on an individual’s right to make a claim with the government, and other ministerial and conforming changes.
+The foregoing description of the Award Agreements is qualified in its entirety by reference to the Award Agreements, which are attached as Exhibits 10.1 and 10.2 to this Current Report on Form 8-K and incorporated by reference herein.
+Item 5.03. Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+On February 23, 2023, as part of its periodic review of corporate governance matters and legal changes that have taken effect to the Delaware General Corporation Law (the “DGCL”) and the rules and regulations promulgated by the U.S. Securities Exchange and Commission (the “SEC”) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), the Board approved and adopted amendments to the Company’s by-laws (as so amended and restated, the “By-Laws”), effective as of February 23, 2023.
+
+Among other things, the amendments update the procedures and disclosure requirements for the nomination of director candidates for election at meetings of shareholders, including to address the adoption by the SEC of new “universal proxy card” rules, as set forth in newly adopted Rule 14a-19 of the Exchange Act (the “Universal Proxy Card Rules”), and the information requirements applicable to shareholder director nominations.
+These amendments include (i) requiring nominating shareholders in an election contest to use a color other than white for their proxy cards and to comply with the Universal Proxy Card Rules, including requiring a shareholder delivering a nomination notice pursuant to the advance notice provisions of the By-Laws to solicit holders representing at least the minimum percentage of shares specified in the Universal Proxy Card Rules and provide reasonable evidence of such compliance with the law; (ii) requiring background information and the specified disclosures as set forth in the By-Laws when shareholders propose director nominees and business for a vote of the shareholders (with proposals submitted pursuant to Rule 14a-8 of the Exchange Act to continue to be governed by such rules); (iii) addressing regulation of the use of cell phones, audio or video recording devices, and similar devices at a meeting of the shareholders; (iv) updating requirements regarding director consents in accordance with Section 116 of the DGCL; and (v) updating requirements regarding the availability of shareholder lists in accordance with Section 219 of the DGCL.
+The foregoing summary of the amendments to the By-Laws does not purport to be complete and is qualified in its entirety by reference to the full text of the By-Laws, a copy of which is filed as Exhibit 3.2 hereto and incorporated herein by reference.
+Item 9.01. Financial Statements and Exhibits.
+(d)
+Exhibits
+Exhibit
+Description
+3.2
+B
+y-Laws of The Home
+Depot, Inc. (As Amended and Restated Effective
+February 23, 2023
+10.1
+Form of Executive Officer Equity Award Agreement (Performance Shares, Performance-Based Restricted Stock and Nonqualified Stock Options) Pursuant to The Home Depot, Inc. Omnibus Stock Incentive Plan, as Amended and Restated May 19, 2022
+10.2
+Form of Executive Officer Equity Award Agreement (Restricted Stock and Nonqualified Stock Options) Pursuant to The Home Depot, Inc. Omnibus Stock Incentive Plan, as Amended and Restated May 19, 2022
+104
+The cover page of this Current Report on Form 8-K formatted in Inline XBRL (included as Exhibit 101).
+2
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+THE HOME DEPOT, INC.
+Date: February 28, 2023
+By:
+/s/ Teresa Wynn Roseborough
+Name:
+Teresa Wynn Roseborough
+
+Title:
+Executive Vice President, General Counsel and Corporate Secretary
+3

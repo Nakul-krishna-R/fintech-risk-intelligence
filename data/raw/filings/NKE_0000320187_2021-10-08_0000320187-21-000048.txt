@@ -1,0 +1,209 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+October 6, 2021
+
+Date of Report (date of earliest event reported)
+NIKE, Inc.
+
+(Exact name of registrant as specified in its charter)
+Oregon
+1-10635
+93-0584541
+(State or other jurisdiction of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+ONE BOWERMAN DRIVE
+
+BEAVERTON
+,
+OR
+
+97005-6453
+
+(Address of principal executive offices and zip code)
+(
+503
+)
+671-6453
+
+Registrant's telephone number, including area code
+NO CHANGE
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Class B Common Stock
+NKE
+New York Stock Exchange
+(Title of each class)
+(Trading Symbol)
+(Name of each exchange on which registered)
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+o
+Item 5.07 -
+Submission of Matters to a Vote of Security Holders.
+The Company’s annual meeting of shareholders was held virtually on Wednesday, October 6, 2021. The following matters were submitted to a vote of the shareholders, the results of which were as follows:
+Proposal 1 - Election of Directors:
+Directors Elected by holders of Class A Common Stock:
+
+Votes Cast For
+
+Votes Withheld
+Broker Non-Votes
+Cathleen A. Benko
+297,600,672
+0
+0
+Elizabeth J. Comstock
+297,600,672
+0
+0
+John G. Connors
+297,600,672
+0
+0
+Timothy D. Cook
+297,600,672
+0
+0
+John J. Donahoe II
+297,600,672
+0
+0
+Thasunda B. Duckett
+297,600,672
+0
+0
+Travis A. Knight
+297,600,672
+0
+0
+Mark G. Parker
+297,600,672
+0
+0
+John W. Rogers, Jr.
+297,600,672
+0
+0
+Directors Elected by holders of Class B Common Stock:
+
+Votes Cast For
+
+Votes Withheld
+Broker Non-Votes
+Alan B. Graf, Jr.
+902,425,480
+80,518,436
+113,267,526
+Peter B. Henry
+955,643,744
+27,300,172
+113,267,526
+Michelle A. Peluso
+952,786,733
+30,157,183
+113,267,526
+
+Proposal 2 - Advisory Vote on Executive Compensation
+Class A and Class B Common Stock Voting Together:
+For
+Against
+Abstain
+Broker Non-Votes
+916,983,630
+358,364,918
+5,196,040
+113,267,526
+Proposal 3 - Ratify the appointment of PricewaterhouseCoopers LLP as the Company’s independent registered public accounting firm for fiscal year ending May 31, 2022
+Class A and Class B Common Stock Voting Together:
+For
+Against
+Abstain
+Broker Non-Votes
+1,334,125,893
+54,338,831
+5,347,390
+0
+Proposal 4 - Shareholder proposal regarding political contributions disclosure
+Class A and Class B Common Stock Voting Together:
+For
+Against
+Abstain
+Broker Non-Votes
+388,553,485
+884,256,856
+7,734,247
+113,267,526
+Proposal 5 - Shareholder proposal regarding a human rights impact assessment
+Class A and Class B Common Stock Voting Together:
+For
+Against
+Abstain
+Broker Non-Votes
+351,690,482
+917,694,719
+11,159,387
+113,267,526
+Proposal 6 - Shareholder proposal regarding supplemental pay equity disclosure
+Class A and Class B Common Stock Voting Together:
+For
+Against
+Abstain
+Broker Non-Votes
+223,403,742
+1,049,181,146
+7,959,700
+113,267,526
+Proposal 7 - Shareholder proposal regarding diversity and inclusion efforts reporting
+Class A and Class B Common Stock Voting Together:
+For
+Against
+Abstain
+Broker Non-Votes
+452,072,642
+816,110,904
+12,361,042
+113,267,526
+Item 9.01 –
+Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit No.
+Exhibit
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+NIKE, Inc.
+(Registrant)
+
+Date:
+October 8, 2021
+By:
+/s/ Matthew Friend
+
+Matthew Friend
+
+Executive Vice President and Chief Financial Officer

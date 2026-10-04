@@ -1,0 +1,154 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+February 16, 2021
+
+Date of Report (date of earliest event reported)
+
+salesforce.com, inc.
+
+(Exact name of Registrant as specified in its charter)
+
+Delaware
+
+001-32224
+
+94-3320693
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+Salesforce Tower
+
+415 Mission Street
+,
+3rd Fl
+
+San Francisco
+,
+CA
+
+94105
+
+(Address of principal executive offices)
+
+Registrant’s telephone number, including area code:
+(415)
+
+901-7000
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☒
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Exchange Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.001 per share
+
+CRM
+
+New York Stock Exchange, Inc.
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01 Other Events.
+
+As previously disclosed, on December 1, 2020, salesforce.com, inc. (the “Company”) entered into an Agreement and Plan of Merger (the “Merger Agreement”) by and among the Company, Slack Technologies, Inc. (“Slack”), a Delaware corporation, Skyline Strategies I Inc., a Delaware corporation and wholly owned subsidiary of the Company, and Skyline Strategies II LLC, a Delaware limited liability company and a wholly owned subsidiary of the Company, pursuant to which, and upon the terms and subject to the conditions therein, the Company has agreed to acquire Slack (the “Transaction”).
+
+The Transaction is conditioned on the expiration or termination of the waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended (the “HSR Act”). On December 14, 2020, the Company and Slack each filed a Notification and Report Form with respect to the transaction, and on January 13, 2021, the Company and Slack each voluntarily withdrew its HSR filing, and re-filed such forms on January 15, 2021. Pursuant to the HSR Act, on February 16, 2021, the Company and Slack each received a request for additional information and documentary material, often referred to as a “Second Request,” from the Antitrust Division of the Department of Justice (the “DOJ”). Issuance of the Second Request extends the waiting period under the HSR Act until 30 days after the Company and Slack have each substantially complied with the Second Request, unless the period for review is extended voluntarily by the parties and the DOJ or is terminated earlier by the DOJ. The Company and Slack have and will continue to cooperate fully with the DOJ in its review.
+
+The Company continues to anticipate completing the Transaction during its fiscal quarter ending July 31, 2021, subject to the satisfaction or waiver of the closing conditions specified in the Merger Agreement.
+
+Forward-Looking Statements
+
+This communication relates to a proposed business combination transaction between the Company and Slack. This communication includes forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements relate to future events and anticipated results of operations, business strategies, the anticipated benefits of the proposed transaction, the anticipated impact of the proposed transaction on the combined company’s business and future financial and operating results, the expected amount and timing of synergies from the proposed transaction, the anticipated closing date for the proposed transaction and other aspects of our operations or operating results. These forward-looking statements generally can be identified by phrases such as “will,” “expects,” “anticipates,” “foresees,” “forecasts,” “estimates” or other words or phrases of similar import. It is uncertain whether any of the events anticipated by the forward-looking statements will transpire or occur, or if any of them do, what impact they will have on the results of operations and financial condition of the combined companies or the price of the Company’s or Slack’s stock. These forward-looking statements involve certain risks and uncertainties, many of which are beyond the parties’ control, that could cause actual results to differ materially from those indicated in such forward-looking statements, including but not limited to: the impact of public health crises, such as pandemics (including coronavirus (COVID-19)) and epidemics and any related company or government policies and actions to protect the health and safety of individuals or government policies or actions to maintain the functioning of national or global economies and markets; the effect of the announcement of the merger on the ability of the Company or Slack to retain and hire key personnel and maintain relationships with customers, suppliers and others with whom Company or Slack do business, or on the Company’s or Slack’s operating results and business generally; risks that the merger disrupts current plans and operations and the potential difficulties in employee retention as a result of the merger; the outcome of any legal proceedings related to the merger; the ability of the parties to consummate the proposed transaction on a timely basis or at all; the satisfaction of the conditions precedent to consummation of the proposed transaction, including the ability to secure regulatory approvals on the terms expected, at all or in a timely manner; the ability of the Company to successfully integrate Slack’s operations; the ability of the Company to implement its plans, forecasts and other expectations with respect to the Company’s business after the completion of the transaction and realize expected synergies; and business disruption following the merger. These risks, as well as other risks related to the proposed transaction, are included in the registration statement on Form S-4 (as
+
+amended, the “Registration Statement”) that was filed by the Company with the Securities and Exchange Commission (“SEC”) and declared effective by the SEC on January 29, 2021, the prospectus that was filed by the Company with the SEC on January 29, 2021 (the “Prospectus”) and the definitive proxy statement that was filed by Slack with the SEC on January 29, 2021 (the “Proxy Statement”). While the list of factors presented here is, and the list of factors presented in the Registration Statement, Prospectus or Proxy Statement are, considered representative, no such list should be considered to be a complete statement of all potential risks and uncertainties. For additional information about other factors that could cause actual results to differ materially from those described in the forward-looking statements, please refer to the Company’s and Slack’s respective periodic reports and other filings with the SEC, including the risk factors identified in the Company’s and Slack’s most recent Quarterly Reports on Form 10-Q and Annual Reports on Form 10-K. The forward-looking statements included in this communication are made only as of the date hereof. Neither the Company nor Slack undertakes any obligation to update any forward-looking statements to reflect subsequent events or circumstances, except as required by law.
+
+No Offer or Solicitation
+
+This communication is not intended to and shall not constitute an offer to buy or sell or the solicitation of an offer to buy or sell any securities, or a solicitation of any vote or approval, nor shall there be any sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. No offering of securities shall be made, except by means of a prospectus meeting the requirements of Section 10 of the U.S. Securities Act of 1933, as amended.
+
+Additional Information about the Merger and Where to Find It
+
+In connection with the proposed transaction, the Company filed with the SEC the Registration Statement and the Prospectus, and Slack filed with the SEC the Proxy Statement. The Registration was declared effective on January 29, 2021 and the Prospectus and the Proxy Statement were first mailed to shareholders of Slack on or about January 29, 2021. Each of the Company and Slack may also file other relevant documents with the SEC regarding the proposed transaction. The information in the Prospectus and Proxy Statement may be changed. This document is not a substitute for the Registration Statement, the Prospectus and the Proxy Statement or any other document that the Company or Slack may file with the SEC. INVESTORS AND SECURITY HOLDERS ARE URGED TO READ THE REGISTRATION STATEMENT, THE PROSPECTUS AND THE PROXY STATEMENT AND ANY OTHER RELEVANT DOCUMENTS THAT MAY BE FILED WITH THE SEC, AS WELL AS ANY AMENDMENTS OR SUPPLEMENTS TO THESE DOCUMENTS, CAREFULLY AND IN THEIR ENTIRETY BECAUSE THEY CONTAIN OR WILL CONTAIN IMPORTANT INFORMATION ABOUT THE PROPOSED TRANSACTION. Investors and security holders are able to obtain free copies of the Registration Statement, the Prospectus and the Proxy Statement and all other documents containing important information about the Company, Slack and the proposed transaction, once such documents are filed with the SEC, through the website maintained by the SEC at http://www.sec.gov. Copies of the documents filed with the SEC by the Company may be obtained free of charge on the Company’s website at http://www.Salesforce.com/investor or by contacting the Company’s Investor Relations department at investor@Salesforce.com. Copies of the documents filed with the SEC by Slack may be obtained free of charge on Slack’s website at investor.Slackhq.com or by contacting Slack’s Investor Relations department at ir@Slack.com.
+
+Participants in the Solicitation
+
+The Company, Slack and certain of their respective directors and executive officers may be deemed to be participants in the solicitation of proxies in respect of the proposed transaction. Information about the directors and executive officers of the Company, including a description of their direct or indirect interests, by security holdings or otherwise, is set forth in the Company’s proxy statement for its 2020 Annual Meeting of Stockholders, which was filed with the SEC on May 1, 2020, and the Company’s Annual Report on Form 10-K for the fiscal year ended January 31, 2020, which was filed with the SEC on March 5, 2020, as well as in a Form 8-K filed by the Company with the SEC on June 1, 2020. Information about the directors and executive officers of Slack, including a description of their direct or indirect interests, by security holdings or otherwise, is set forth in Slack’s proxy statement for its 2020 Annual Meeting of Stockholders, which was filed with the SEC on May 5, 2020, and Slack’s
+
+-3-
+
+Annual Report on Form 10-K for the fiscal year ended January 31, 2020, which was filed with the SEC on March 12, 2020. Investors may obtain additional information regarding the interests of those persons and other persons who may be deemed participants in the proposed transaction by reading the Prospectus and the Proxy Statement and other relevant materials to be filed with the SEC regarding the proposed transaction when such materials become available. Investors should read the Prospectus and the Proxy Statement carefully before making any voting or investment decisions. You may obtain free copies of these documents from the Company or Slack using the sources indicated above.
+
+-4-
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+salesforce.com, inc.
+
+By:
+
+/s/ Amy Weaver
+
+Amy Weaver
+
+President and Chief Financial Officer
+
+Dated: February 16, 2021

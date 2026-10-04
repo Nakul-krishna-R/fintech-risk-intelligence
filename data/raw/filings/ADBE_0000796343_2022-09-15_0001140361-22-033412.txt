@@ -1,0 +1,299 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (date of earliest event reported):
+September 15, 2022
+
+ADOBE INC.
+
+(Exact name of Registrant as specified in its charter)
+
+Delaware
+
+0-15175
+
+77-0019522
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+345 Park Avenue
+
+San Jose
+,
+California
+
+95110-2704
+
+(Address of principal executive offices and zip code)
+
+Registrant’s telephone number, including area code: (
+408
+)
+536-6000
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+☒
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+
+Trading
+
+Symbol
+
+Name of Each Exchange
+
+on Which Registered
+
+Common Stock, $0.0001 par value per share
+
+ADBE
+
+NASDAQ Global Select Market
+
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or
+Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+Merger Agreement
+
+On September 15, 2022, Adobe Inc. (the “Company”) entered into an Agreement and Plan of Merger (the “Merger Agreement”) by and among the Company, Saratoga
+Merger Sub I, Inc., a Delaware corporation and wholly owned subsidiary of the Company (“Merger Sub I”), Saratoga Merger Sub II, LLC, a Delaware limited liability company and wholly owned subsidiary of the Company (“Merger Sub II”), Figma, Inc., a
+Delaware corporation (“Figma”), and Fortis Advisors LLC, a Delaware limited liability company, in its capacity as the representative of the Figma stockholders. Pursuant to the Merger Agreement, and upon the terms and subject to the conditions
+therein, Merger Sub I will merge with and into Figma (the “First Merger”), with Figma surviving the First Merger (the “Surviving Corporation”) and continuing as a wholly owned subsidiary of the Company. Immediately following the First Merger, the
+Surviving Corporation will merge with and into Merger Sub II (the “Second Merger” and, together with the First Merger, the “Mergers”), with Merger Sub II surviving the Second Merger (the “Surviving Company”) and continuing as a wholly owned
+subsidiary of the Company.
+
+Merger Consideration.
+Subject to the terms and
+conditions of the Merger Agreement, at the effective time of the First Merger (the “First Effective Time”), each issued and outstanding share of common stock, par value $0.00001 per share, of Figma (the “Figma Common Stock”), and each issued and
+outstanding share of preferred stock, par value $0.00001 per share, of Figma (the “Figma Preferred Stock” and, together with the Figma Common Stock, the “Figma Capital Stock”), in each case, other than treasury shares and shares of Figma Capital
+Stock as to which dissenters’ rights have been properly perfected, will be converted in the First Merger into the right to receive (i) 0.045263 shares of common stock, par value $0.0001 per share, of the Company (the “Company Shares”) and (ii)
+$22.4795 in cash, in each case, without interest and subject to adjustment in accordance with the terms of the Merger Agreement (together, the “Merger Consideration”). In the aggregate, together with the consideration received by holders of Figma
+equity awards and warrants, Figma stockholders will receive approximately $10 billion in cash and approximately $10 billion in Company Shares, based on the average closing price per share of Company Shares for the ten trading days ending on September
+13, 2022, subject to adjustments, including for cash, debt and transaction expenses, in accordance with the terms of the Merger Agreement.
+
+At the closing, the Company will deposit a portion of the aggregate purchase price in the amount of $65 million (the “Escrow Funds”) with an escrow agent to
+secure the obligations of former Figma stockholders and warrantholders under the Merger Agreement with respect to indemnification (described below), any post-closing purchase price adjustment and certain other specified liabilities. The balance of
+the Escrow Funds available and not subject to outstanding claims as of the applicable release dates will be released to former Figma stockholders and warrantholders in accordance with the terms of the Merger Agreement and the escrow agreement to be
+entered into concurrently with the closing of the Mergers.
+
+Company Post-Closing Equity Award Grants.
+In
+addition to the aggregate consideration payable in exchange for outstanding Figma Capital Stock, warrants and equity awards, the Company has agreed to grant restricted stock units (“Company RSUs”) relating to approximately six million Company Shares
+to Figma’s continuing employees, including Figma’s Co-Founder and Chief Executive Officer, following the closing of the transaction.
+
+Conditions to Closing.
+Under the terms of the Merger
+Agreement, the completion of the Mergers is subject to certain customary closing conditions, including: (i) the approval of the First Merger and adoption of the Merger Agreement by the affirmative vote of the holders of at least a majority of the
+voting power of (1) the outstanding shares of Figma Capital Stock and (2) the outstanding shares of Figma Preferred Stock; (ii) the approval for listing on the Nasdaq of the Company Shares to be issued in the First Merger; (iii) the effectiveness of
+a registration statement on Form S-4 (the “Form S-4”) to be filed by the Company registering the Company Shares to be issued in connection with the First Merger; (iv) the accuracy of the parties’ respective representations and warranties in the
+Merger Agreement, subject to specified materiality qualifications; (v) compliance by the parties with their respective covenants in the Merger Agreement in all material respects; (vi) the absence of any injunction, law or order making illegal,
+prohibiting or preventing the consummation of the Mergers; (vii) the expiration of the waiting period applicable to the Mergers under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, and receipt of other approvals and clearances
+under certain foreign antitrust laws; (viii) Dylan Field, Co-Founder and Chief Executive Officer of Figma, continuing to be an employee of Figma at the closing; (ix) termination of the existing stockholders agreements of Figma; and (x) the absence of
+a material adverse effect (as defined in the Merger Agreement) with respect to either the Company or Figma on or after the date of the Merger Agreement that is continuing as of immediately prior to the closing.
+
+2
+
+Financing
+. The cash portion of the Merger
+Consideration is expected to be financed with a combination of cash on the Company’s balance sheet and, if necessary, a term loan. The receipt of financing by the Company is not a condition to the Company’s obligations to complete the Mergers.
+
+Representations, Warranties and Covenants.
+The
+Merger Agreement contains customary representations, warranties and covenants made by each of the Company, Merger Sub I, Merger Sub II and Figma, including, among others, covenants regarding the conduct of Figma’s business during the pendency of the
+transactions contemplated by the Merger Agreement, public disclosures and other matters. Figma is required, among other things, not to solicit alternative business combination transactions.
+
+Indemnification.
+The Merger Agreement contains
+indemnification obligations of the former Figma stockholders and warrantholders for breaches of representations and warranties, pre-closing covenants and certain other specified matters, subject to certain limitations. Subject to certain exceptions,
+including for specified fundamental representations and warranties, certain matters relating to Figma’s capitalization and fraud, the indemnification obligations of the former Figma stockholders and warrantholders for breaches of representations and
+warranties is limited to $40 million in Escrow Funds. The Company has bound a customary representation and warranty insurance policy in connection with the execution of the Merger Agreement.
+
+Termination Rights
+. Both the Company and Figma may
+terminate the Merger Agreement under certain specified circumstances, including if the Mergers are not consummated by September 15, 2023 (the “Initial Outside Date”), subject to two extensions of three months each in order to obtain required
+antitrust approvals or clearances, or if there is a final, nonappealable legal restraint in respect of antitrust law that makes illegal, prohibits or prevents the consummation of the Mergers, in each case, provided all other conditions to closing
+have been satisfied or waived, as applicable, as of the Initial Outside Date (except for those conditions which by their nature are to be satisfied at closing, provided that such conditions shall then be capable of being satisfied if the closing were
+to take place on such date) (the “Outside Date”). If either the Company or Figma terminates the Merger Agreement due to the failure of the closing to occur by the Outside Date or due to a final, nonappealable legal restraint in respect of antitrust
+law that makes illegal, prohibits or prevents the consummation of the Mergers, and at the time of such termination the closing conditions relating to obtaining required antitrust approvals and clearances or the absence of any injunction, law or order
+under antitrust laws making illegal, prohibiting or preventing the consummation of the Mergers have not been satisfied, but all other conditions to closing have been satisfied or waived, as applicable (except for those conditions which by their
+nature are to be satisfied at closing, provided that such conditions would be satisfied if the closing were to take place on such date), the Company will be required to pay or cause to be paid to Figma a reverse termination fee of $1 billion in cash.
+
+The foregoing description of the Merger Agreement does not purport to be complete and is qualified in its entirety by the full text of the Merger Agreement, a
+copy of which is filed as Exhibit 2.1 hereto and is incorporated by reference herein. The Merger Agreement has been attached to provide investors with information regarding its terms. It is not intended to provide any other factual information about
+the Company, Merger Sub I, Merger Sub II or Figma. In particular, the assertions embodied in the representations and warranties contained in the Merger Agreement are qualified by information in confidential disclosure letters provided by each of the
+Company and Figma to each other in connection with the signing of the Merger Agreement or, in the case of the Company, in filings with the United States Securities and Exchange Commission (the “SEC”). These confidential disclosure letters contain
+information that modifies, qualifies and creates exceptions to the representations and warranties and certain covenants set forth in the Merger Agreement. Moreover, the representations and warranties in the Merger Agreement were used for the purposes
+of allocating risk between the Company and Figma rather than establishing matters of fact. Accordingly, the representations and warranties in the Merger Agreement should not be relied on as characterization of the actual state of facts about the
+Company, Merger Sub I, Merger Sub II or Figma.
+
+3
+
+Key Stockholder Voting Agreement
+
+Shortly after the execution of the Merger Agreement, certain stockholders of Figma (each, a “Key Stockholder”) entered into a Voting and Support Agreement
+(the “Key Stockholder Voting Agreement”) with the Company, pursuant to which, among other things, and subject to the terms and conditions of the Key Stockholder Voting Agreement, each Key Stockholder agreed to (i) following the effectiveness of the
+Form S-4, promptly execute and deliver (or cause to be executed and delivered) to Figma, with a copy to the Company, a written consent approving the adoption of the Merger Agreement and the transactions contemplated thereby, including the Mergers,
+with respect to all of such Key Stockholder’s shares of Figma Capital Stock entitled to act by written consent thereto, which in the aggregate represents as of the date of the Key Stockholder Voting Agreement a majority of the voting power of (1) the
+outstanding shares of Figma Capital Stock and (2) the outstanding shares of Figma Preferred Stock, in favor of the approval and adoption of the Merger Agreement and the transactions contemplated thereby, including the Mergers, and (ii) vote or cause
+to be voted all of such Key Stockholder’s shares of Figma Capital Stock against any acquisition proposal or any action or agreement that is intended, or would reasonably be expected, to impede, interfere with, delay, postpone, adversely affect or
+prevent the consummation of the transactions contemplated by the Merger Agreement, including the Mergers, in any material respect. The Key Stockholder Voting Agreement contains customary transfer restrictions, subject to certain exceptions. The Key
+Stockholder Voting Agreement terminates upon certain events, including the termination of the Merger Agreement in accordance with its terms.
+
+The foregoing description of the Key Stockholder Voting Agreement does not purport to be complete and is qualified in its entirety by the full text of the Key
+Stockholder Voting Agreement, a copy of which is filed as Exhibit 10.1 hereto and is incorporated by reference herein. The Key Stockholder Voting Agreement has been attached to provide investors with information regarding its terms. It is not
+intended to provide any other factual information about the Company or the Key Stockholders. Moreover, the representations and warranties in the Key Stockholder Voting Agreement were used for the purposes of allocating risk between the Company and
+the Key Stockholders rather than establishing matters of fact. Accordingly, the representations and warranties in the Key Stockholder Voting Agreement should not be relied on as characterization of the actual state of facts about the Company or any
+of the Key Stockholders.
+
+Item 8.01. Other Events.
+
+On September 15, 2022, the Company issued a press release announcing entry into the Merger Agreement. A copy of the press release is attached as Exhibit 99.1
+to this Current Report on Form 8-K and is incorporated by reference herein.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+
+Number
+
+Exhibit Description
+
+2.1*
+
+Agreement and Plan of Merger, dated as of September 15, 2022, by and among Adobe Inc., Figma, Inc., Saratoga Merger Sub I, Inc., Saratoga Merger Sub
+II, LLC and Fortis Advisors LLC.
+
+10.1*
+
+Voting and Support Agreement, dated as of September 15, 2022, by and among Adobe Inc. and the Key Stockholders party thereto.
+
+99.1
+
+Press Release issued by Adobe Inc., dated September 15, 2022.
+
+104
+
+Cover Page Interactive Data File (the instance document does not appear in the Interactive Data File because its XBRL tags are
+embedded within the Inline XBRL document).
+
+* Certain schedules and exhibits omitted pursuant to Item 601(a)(5) of Regulation S-K promulgated by the SEC. The
+Company agrees to furnish supplementally a copy of any omitted schedule or exhibit to the SEC upon request.
+
+4
+
+Forward-Looking Statements Disclosure
+
+In addition to historical information, this communication contains forward-looking statements within the meaning of applicable securities law, including
+statements regarding the expected timing, completion and effects of the proposed transaction, product plans, future growth, market opportunities, strategic initiatives, industry positioning, and customer acquisition and retention. In addition, when
+used in this communication, the words “will,” “expects,” “could,” “would,” “may,” “anticipates,” “intends,” “plans,” “believes,” “seeks,” “targets,” “estimates,” “looks for,” “looks to,” “continues” and similar expressions, as well as statements
+regarding our focus for the future, are generally intended to identify forward-looking statements. Each of the forward-looking statements we make in this communication involves risks and uncertainties that could cause actual results to differ
+materially from these forward-looking statements. Factors that might cause or contribute to such differences include, but are not limited to: expected revenues, cost savings, synergies and other benefits from the proposed transaction, such as the
+Company’s ability to enhance Creative Cloud by adding Figma’s collaboration-first product design capabilities and the effectiveness of Figma’s technology, might not be realized within the expected time frames or at all and costs or difficulties
+relating to integration matters, including but not limited to customer and employee retention, might be greater than expected; the requisite regulatory approvals and clearances for the proposed transaction may be delayed or may not be obtained (or
+may result in the imposition of conditions that could adversely affect the combined company or the expected benefits of the proposed transaction); the requisite approval of Figma stockholders may be delayed or may not be obtained, the other closing
+conditions to the transaction may be delayed or may not be obtained, or the merger agreement may be terminated; business disruption may occur following or in connection with the proposed transaction; the Company’s or Figma’s businesses may experience
+disruptions due to transaction-related uncertainty or other factors making it more difficult to maintain relationships with employees, customers, other business partners or governmental entities; the possibility that the proposed transaction is more
+expensive to complete than anticipated, including as a result of unexpected factors or events; diversion of management’s attention from ongoing business operations and opportunities as a result of the proposed transaction or otherwise and those
+factors discussed in the section titled “Risk Factors” in the Company’s Annual Report on Form 10-K and the Company’s Quarterly Reports on Form 10-Q. The risks described in this communication and in the Company’s filings with the SEC should be
+carefully reviewed. Undue reliance should not be placed on these forward-looking statements, which speak only as of the date they are made. The Company and Figma undertake no obligation to publicly release any revisions to the forward-looking
+statements or reflect events or circumstances after the date of this communication, except as required by law.
+
+No Offer or Solicitation
+
+This
+communication
+shall not constitute an offer to sell or the
+solicitation of an offer to buy any securities, nor shall there be any sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such
+jurisdiction. No offering of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the Securities Act of 1933, as amended.
+
+Additional Information and Where to Find It
+
+In connection with the proposed acquisition of Figma, the Company will file a registration statement on Form S-4 with the SEC to register the shares of the
+Company’s common stock to be issued in connection with the proposed transaction. The registration statement will include a consent solicitation statement/prospectus, which will be sent to the stockholders of Figma seeking their approval of the
+proposed transaction.
+
+INVESTORS AND SECURITY HOLDERS ARE URGED TO READ THE REGISTRATION STATEMENT ON FORM S-4, THE CONSENT SOLICITATION STATEMENT/PROSPECTUS INCLUDED WITHIN THE
+REGISTRATION STATEMENT ON FORM S-4 AND ANY OTHER RELEVANT DOCUMENTS FILED OR TO BE FILED WITH THE SEC IN CONNECTION WITH THE PROPOSED TRANSACTION WHEN THEY BECOME AVAILABLE BECAUSE THESE DOCUMENTS DO AND WILL CONTAIN IMPORTANT INFORMATION ABOUT THE
+COMPANY, FIGMA AND THE PROPOSED TRANSACTION.
+
+Investors and security holders may obtain copies of these documents, when available, as well as other documents filed by the Company with the SEC, free of
+charge from the SEC’s website at www.sec.gov or by accessing the Company’s website at http://www.adobe.com/investor-relations or by contacting the Company’s Investor Relations department by calling (408) 536-4700, by writing to Investor Relations,
+Adobe Inc., 345 Park Avenue, San Jose, California 95110-2704 or by sending an email to adobe@kpcorp.com.
+
+5
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+ADOBE INC.
+
+By:
+
+/s/ Dana Rao
+
+Dana Rao
+
+Executive Vice President, General Counsel
+
+& Corporate Secretary
+
+Date: September 15, 2022
+
+6

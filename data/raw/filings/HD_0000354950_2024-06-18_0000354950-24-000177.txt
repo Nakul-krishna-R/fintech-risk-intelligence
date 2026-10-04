@@ -1,0 +1,150 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+__________________
+FORM
+8-K
+
+__________________
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+June 18, 2024
+
+__________________
+THE
+HOME DEPOT, INC.
+
+(Exact Name of Registrant as Specified in Charter)
+
+__________________
+Delaware
+1-8207
+95-3261426
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+2455 Paces Ferry Road
+,
+Atlanta
+,
+Georgia
+
+30339
+
+(Address of Principal Executive Offices) (Zip Code)
+(
+770
+)
+433-8211
+
+(Registrant’s Telephone Number, Including Area Code)
+Not Applicable
+(Former Name or Former Address, if Changed Since Last Report)
+
+__________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.05 Par Value Per Share
+HD
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Introductory Note
+On June 18, 2024 (the “
+Closing Date
+”), The Home Depot, Inc., a Delaware corporation (the “
+Company
+”), completed its previously announced merger pursuant to the Agreement and Plan of Merger (the “
+Merger Agreement
+”), dated March 27, 2024, by and among the Company, Star Acquisition Merger Sub Inc., a Delaware corporation and wholly owned subsidiary of the Company (“
+Merger Sub
+”), Shingle Acquisition Holdings, Inc., a Delaware corporation (“
+SRS
+”), and Shingle Acquisition, LP, a Delaware limited partnership, solely in its capacity as the initial Holder Representative.
+On the Closing Date, pursuant to the terms of the Merger Agreement, Merger Sub merged with and into SRS, with SRS as the surviving entity (the “
+Surviving Entity
+”) and a wholly owned subsidiary of the Company (such merger, the “
+Merger
+”). Each capitalized term used herein but not otherwise defined has the meaning given to it in the Merger Agreement.
+Item 7.01 Regulation FD Disclosure.
+On the Closing Date, the Company issued a press release announcing the completion of the Merger. A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+The information in this Item 7.01, including Exhibit 99.1, is furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “
+Exchange Act
+”), or otherwise subject to the liabilities of that section, nor shall such information, including Exhibit 99.1, be deemed to be incorporated by reference in any filings of the Company under the Securities Act of 1933 or the Exchange Act, regardless of any general incorporation language in such filings.
+Item 8.01 Other Events.
+The information set forth in the Introductory Note of this Current Report on Form 8-K is incorporated herein by reference.
+On the Closing Date, following the satisfaction or waiver of the applicable closing conditions, including receipt of the requisite regulatory approvals, the Company completed the acquisition of SRS through the Merger. Pursuant to the Merger Agreement, the Company paid aggregate purchase price of $18,250,000,000, subject to customary adjustments for SRS’s debt, cash, transaction expenses and net working capital to determine the consideration paid to SRS equityholders (the “
+Merger Consideration
+”).
+At the effective time of the Merger (the “
+Effective Time
+”) (i) each share of Class A common stock, par value $0.0001 per share, of SRS (the “
+SRS Class A Common Stock
+”) and each share of SRS Class B common stock par value $0.0001 per share, of SRS (the “
+SRS Class B Common Stock
+”, and together with the SRS Class A Common Stock, the “
+SRS Common Stock
+”) issued and outstanding immediately prior to the Effective Time (each such share, a “
+Share
+”) was converted into the right to receive the applicable portion of the estimated Merger Consideration, (ii) each option (“
+Option
+”) to purchase Shares under the 2018 Option Plan of SRS that was (x) vested, unexercised and outstanding immediately prior to the Effective Time and (y) in-the-money (as determined through an iterative mathematical process pursuant to the Merger Agreement), in each case, immediately prior to the Effective Time (each such option, an “
+In-the-Money Option
+”) was canceled and converted into the right to receive the applicable portion of the estimated Merger Consideration and (iii) each Option that was not an In-the-Money Option terminated and was forfeited for no consideration. In connection with the Merger, certain members of SRS’s management team reinvested a portion of their respective after-tax proceeds from the Merger Consideration into shares of the Company’s common stock. A portion of such shares of Company common stock are subject to service-based vesting conditions, and all such shares are subject to transfer restrictions of various durations.
+The description of the Merger Agreement contained herein does not purport to be complete and is qualified in its entirety by reference to the Merger Agreement, a copy of which is filed as Exhibit 2.1 hereto and is incorporated herein by reference. This summary is not intended to modify or supplement any factual disclosures about the Company, and should not be relied upon as disclosure about the Company without consideration of the periodic and current reports and statements that the Company has filed and may file with the Securities and Exchange Commission. The terms of the Merger Agreement govern the contractual rights and relationships, and allocate risks, among the parties in relation to the transactions contemplated by the Merger Agreement. In particular, the representations and warranties made by the parties to each other in the Merger Agreement reflect negotiations between, and are solely for the benefit of, the parties thereto and may be limited or modified by a variety of factors, including: subsequent events, information included in public filings, disclosures made during negotiations, correspondence between the parties and disclosure schedules to the Merger Agreement. Accordingly, the representations and
+2
+warranties may not describe the actual state of affairs at the date they were made or at any other time and you should not rely on them as statements of fact.
+Item 9.01 Financial Statements and Exhibits.
+(d)
+Exhibits
+Exhibit
+Description
+2.1
+Agreement and Plan of Merger, dated as of March 27, 2024 by and among The Home Depot, Inc., Star Acquisition Merger Sub Inc., Shingle Acquisition Holdings, Inc. and Shingle Acquisition, LP (incorporated by reference from Exhibit 2.1 to the Form 10-Q filed by the Company on May 21, 2024)*
+99.1
+Press Release of The Home Depot, Inc.
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+*
+Certain schedules and other similar attachments to this exhibit have been omitted from this filing pursuant to Item 601(b)(2) of Regulation S-K. The registrant will provide a copy of such omitted documents to the Securities and Exchange Commission upon request.
+3
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+THE HOME DEPOT, INC.
+Date: June 18, 2024
+By:
+/s/ Richard V. McPhail
+Name:
+Richard V. McPhail
+
+Title:
+Executive Vice President and Chief Financial Officer
+4

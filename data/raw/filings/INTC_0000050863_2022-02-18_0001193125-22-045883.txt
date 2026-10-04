@@ -1,0 +1,179 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+February 17, 2022
+
+INTEL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+000-06217
+
+94-1672743
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+2200 Mission College Blvd.
+,
+Santa Clara
+,
+California
+
+95054-1549
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+(408)
+
+765-8080
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock, $0.001 par value
+
+INTC
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On February 17, 2022, Intel Corporation (“Intel”) presented business and financial information to institutional investors, analysts, members of the press and the general public at its previously announced 2022 Investor Meeting (the “Investor Meeting”). Attached hereto as exhibits and incorporated by reference herein are the Investor Meeting presentations made during the publicly available webcast keynote session by: (1) Pat Gelsinger, Chief Executive Officer; (2) Sandra Rivera, Executive Vice President, General Manager of the Datacenter and AI Group; (3) Michelle Johnston Holthaus, Executive Vice President, General Manager of the Client Computing Group, and Jim Johnson, Senior Vice President, Interim General Manager of the Client Computing Group; and (4) David Zinsner, Executive Vice President, Chief Financial Officer, respectively.
+
+During the course of the Investor Meeting, Intel’s executives discussed the company’s corporate strategy, advancing Moore’s law, financial performance and guidance, and business updates. The presentations include forward-looking statements and accompanying Risk Factors. These presentations are among the several presentations made by Intel executives at the Investor Meeting, each of which may be found at intc.com.
+
+On February 17, 2022, Intel also issued a press release discussing the Investor Meeting and providing its full-year financial guidance for 2022 and long-term growth strategy and guidance.
+
+The information in Item 7.01 of this report and the exhibits attached hereto are furnished and shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+The following exhibits are provided as part of this report:
+
+Exhibit
+
+Description
+
+99.1
+
+Press release titled “Intel Highlights 2022 and Long-Term Growth Strategy at Investor Meeting 2022,” issued by Intel on February 17, 2022
+
+99.2
+
+Investor Meeting Presentation by Pat Gelsinger, dated February 17, 2022
+
+99.3
+
+Investor Meeting Presentation by Sandra Rivera, dated February 17, 2022
+
+99.4
+
+Investor Meeting Presentation by Michelle Johnston Holthaus and Jim Johnson, dated February 17, 2022
+
+99.5
+
+Investor Meeting Presentation by David Zinsner, dated February 17, 2022
+
+104
+
+Cover Page Interactive Data File, formatted in Inline XBRL and included as Exhibit 101
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+INTEL CORPORATION
+
+(Registrant)
+
+Date: February 17, 2022
+
+/s/ Susie Giordano
+
+Susie Giordano
+
+Interim General Counsel, Corporate Vice President and Corporate Secretary

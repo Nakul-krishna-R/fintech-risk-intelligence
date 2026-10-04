@@ -1,0 +1,279 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+
+8-K
+
+Current Report
+
+Pursuant to Section 13
+or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date
+of earliest event reported):
+August 29, 2024
+
+CATERPILLAR
+INC.
+
+(Exact name of registrant
+as specified in its charter)
+
+Delaware
+
+1-768
+
+37-0602744
+
+(State
+or other jurisdiction of
+
+incorporation)
+
+(Commission
+File Number)
+
+(I.R.S
+Employer
+
+Identification No.)
+
+5205
+N. O'Connor Blvd.,
+
+Suite 100
+,
+
+Irving
+,
+
+Texas
+
+75039
+
+(Address
+of principal executive offices)
+
+(Zip
+Code)
+
+Registrant’s
+telephone number, including area code:
+(
+972
+)
+
+891-7700
+
+Former name or former
+address, if changed since last report:
+N/A
+
+¨
+
+Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+Title
+of each class
+
+Trading
+Symbol (s)
+
+Name
+of each exchange which registered
+
+Common
+Stock ($1.00 par value)
+
+CAT
+
+The
+New York Stock Exchange
+
+5.3%
+Debentures due September 15, 2035
+
+CAT35
+
+The
+New York Stock Exchange
+
+Check the appropriate
+box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+Indicate by check
+mark whether the registrant is an emerging growth company as defined by Rule 405 of the Securities Act of 1933 (17 CFR §230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2 of this chapter).
+
+Emerging
+growth company
+¨
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+
+Caterpillar: Confidential Green
+
+Item 1.01
+
+Entry into a Material Definitive Agreement
+
+Creation of Revolving Credit Facilities
+
+On August 29, 2024, Caterpillar Inc. (“Caterpillar”)
+entered into a Credit Agreement (the “364-Day Facility”) among Caterpillar, Caterpillar Financial Services Corporation (“Cat
+Financial”), Caterpillar International Finance Designated Activity Company (“CIF”) and Caterpillar Finance Kabushiki
+Kaisha (“CFKK” and, together with Caterpillar, Cat Financial and CIF, the “Borrowers”), certain financial institutions
+named therein (the “Banks”), Citibank, N.A. (the “Agent”), Citibank Europe PLC, UK Branch (the “Local Currency
+Agent”), and MUFG Bank, Ltd. (the “Japan Local Currency Agent”), which provides an unsecured revolving credit facility
+to the Borrowers in an aggregate amount of up to $3.15 billion (the “364-Day Aggregate Commitment”) that expires on August 28,
+2025. In addition, on August 29, 2024, Cat Financial, CIF, Local Currency Banks (as defined in the 364-Day Facility), the Agent and
+the Local Currency Agent, entered into a Local Currency Addendum that enables CIF to borrow in certain approved currencies including Pounds
+Sterling and Euros in an aggregate amount up to the equivalent of $100 million, and Cat Financial, CFKK, the Japan Local Currency Banks
+(as defined in the 364-Day Facility), the Agent and the Japan Local Currency Agent entered into a Japan Local Currency Addendum that enables
+CFKK to borrow Japanese Yen in an aggregate amount up to the equivalent of $100 million, as part of the 364-Day Aggregate Commitment.
+The 364-Day Facility replaces Caterpillar’s prior 364-Day Facility, which was entered into on August 31, 2023.
+
+Amendments to and Extensions of Existing Credit
+Agreements
+
+On August 29, 2024, Caterpillar entered into
+(i) Amendment No. 2 to Third Amended and Restated Credit Agreement (Three-Year Facility), dated August 29, 2024 (the “Three-Year
+Facility Amendment”), which amended the Third Amended and Restated Credit Agreement (Three-Year Facility) dated September 1,
+2022 (as amended prior thereto, the “Three-Year Facility”) and (ii) Amendment No. 2 to Third Amended and Restated
+Credit Agreement (Five-Year Facility), dated August 29, 2024 (the “Five-Year Facility Amendment”), which amended the
+Third Amended and Restated Five-Year Credit Agreement (Five-Year Facility) dated September 1, 2022 (as amended prior thereto, the
+“Five-Year Facility”; the 364-Day Facility, the Three-Year Facility, as amended by the Three-Year Facility Amendment, and
+the Five-Year Facility, as amended by the Five-Year Facility Amendment, are collectively referred to herein as the “Credit Facilities”).
+
+The Three-Year Facility Amendment, among other
+things, extends the expiration date of the Three-Year Facility to August 29, 2027, and the Five-Year Facility Amendment, among other
+things, extends the expiration date of the Five-Year Facility to August 29, 2029.
+
+The Credit Facilities are available for general
+corporate purposes. As of the date hereof, the Borrowers have not drawn on the Credit Facilities.
+
+The
+Credit Facilities contain certain representations and warranties, covenants and events of default, including financial covenants. Under
+the Credit Facilities, Caterpillar is required to maintain consolidated net worth not less than $9 billion at all times. Caterpillar’s
+consolidated net worth is defined as the consolidated stockholder’s equity including preferred stock but excluding the pension and
+other post-retirement benefits balance within Accumulated other comprehensive income (loss). Cat Financial is required to maintain an
+interest coverage ratio above 1.15 to 1, where the interest coverage ratio is defined as the ratio of (1) profit excluding income
+taxes, interest expense and net gain/(loss) from interest rate derivatives to (2) interest expense, calculated at the end of each
+
+fiscal quarter, for the prior four consecutive fiscal quarter period. Cat Financial is also required to maintain a leverage ratio
+(consolidated debt to consolidated net worth) not greater than 10.0 to 1, calculated (1) on a monthly basis as the average of the
+leverage ratios determined on the last day of each of the six preceding calendar months and (2) on each December 31. Drawings
+under the Credit Facilities are also subject to conditions precedent and the payment of certain facility fees.
+
+Certain of the lenders and agents party to the
+Credit Facilities, as well as certain of their respective affiliates, have performed, and may in the future perform, for Caterpillar and
+its subsidiaries, various commercial banking, investment banking, underwriting and other financial advisory services, for which they have
+received and may in the future receive customary fees and expenses.
+
+The foregoing description is qualified in its
+entirety by the terms and provisions of the (i) 364-Day Facility and the Local Currency Addendum and Japan Local Currency Addendum
+thereto; (ii) the Three-Year Facility Amendment; and (iii) the Five-Year Facility Amendment, which are filed as exhibits to
+this report, and incorporated herein by reference.
+
+Caterpillar:
+Confidential Green
+
+2
+
+Item 2.03
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+
+The information set forth under Item 1.01 of this
+report is hereby incorporated into this Item 2.03 by reference.
+
+Item 9.01
+
+Financial Statements and Exhibits
+
+(d)
+
+Exhibits:
+
+Exhibit
+
+Number
+
+Description
+
+10.1
+
+364-Day Credit Agreement
+
+10.2
+
+Local Currency Addendum to the 364-Day Credit Agreement
+
+10.3
+
+Japan Local Currency Addendum to the 364-Day Credit Agreement
+
+10.4
+
+Amendment No. 2 to Third Amended and Restated Credit Agreement (Three-Year Facility)
+
+10.5
+
+Amendment No. 2 to Third Amended and Restated Credit Agreement (Five-Year Facility)
+
+104
+
+The cover page from this Current Report on Form 8-K, formatted in Inline XBRL.
+
+Caterpillar:
+Confidential Green
+
+3
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+CATERPILLAR INC.
+
+September 4, 2024
+
+By:
+
+/s/Derek Owens
+
+Derek Owens
+
+Chief Legal Officer and General Counsel
+
+Caterpillar:
+Confidential Green
+
+4

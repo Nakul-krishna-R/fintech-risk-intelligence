@@ -1,0 +1,439 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+March 10, 2023
+
+Date of Report (Date of earliest event reported)
+
+Apple Inc.
+
+(Exact name of Registrant as specified in its charter)
+
+California
+
+001-36743
+
+94-2404110
+
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(I.R.S. Employer Identification No.)
+
+One Apple Park Way
+
+Cupertino
+,
+California
+
+95014
+
+(Address of principal executive offices) (Zip Code)
+
+(
+408
+)
+996-1010
+
+(Registrant’s telephone number, including area code)
+
+Not applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.00001 par value per share
+
+AAPL
+
+The Nasdaq Stock Market LLC
+
+1.375% Notes due 2024
+
+—
+
+The Nasdaq Stock Market LLC
+
+0.000% Notes due 2025
+
+—
+
+—
+
+—
+
+—
+
+—
+
+The Nasdaq Stock Market LLC
+
+0.875% Notes due 2025
+
+The Nasdaq Stock Market LLC
+
+1.625% Notes due 2026
+
+The Nasdaq Stock Market LLC
+
+2.000% Notes due 2027
+
+The Nasdaq Stock Market LLC
+
+1.375% Notes due 2029
+
+The Nasdaq Stock Market LLC
+
+3.050% Notes due 2029
+
+—
+
+—
+
+—
+
+The Nasdaq Stock Market LLC
+
+0.500% Notes due 2031
+
+The Nasdaq Stock Market LLC
+
+3.600% Notes due 2042
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the
+Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.07
+
+Submission of Matters to a Vote of Security Holders.
+
+The 2023 Annual Meeting of Shareholders (the “Annual Meeting”) of Apple Inc. (“Apple”) was held on March 10, 2023. At the Annual Meeting, Apple’s shareholders voted on the following
+nine proposals and cast their votes as described below.
+
+1.
+
+The individuals listed below were elected at the Annual Meeting to serve as directors of Apple until the next annual meeting of shareholders and until their successors are duly elected and qualified:
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Vote
+
+James Bell
+
+9,465,679,895
+
+66,756,373
+
+27,788,697
+
+3,199,709,505
+
+Tim Cook
+
+9,384,013,653
+
+154,755,524
+
+21,455,788
+
+3,199,709,505
+
+Al Gore
+
+8,717,788,168
+
+754,211,726
+
+88,225,071
+
+3,199,709,505
+
+Alex Gorsky
+
+9,345,154,817
+
+185,107,464
+
+29,962,684
+
+3,199,709,505
+
+Andrea Jung
+
+8,886,421,911
+
+638,629,879
+
+35,173,175
+
+3,199,709,505
+
+Art Levinson
+
+8,982,747,341
+
+549,024,146
+
+28,453,478
+
+3,199,709,505
+
+Monica Lozano
+
+9,470,339,256
+
+61,625,010
+
+28,260,699
+
+3,199,709,505
+
+Ron Sugar
+
+8,935,381,470
+
+595,179,126
+
+29,664,369
+
+3,199,709,505
+
+Sue Wagner
+
+9,172,832,824
+
+360,662,024
+
+26,730,117
+
+3,199,709,505
+
+2.
+
+A management proposal to ratify the appointment of Ernst & Young LLP as Apple’s independent registered public accounting firm for fiscal year 2023 was approved.
+
+For
+
+Against
+
+Abstained
+
+12,569,833,138
+
+154,378,601
+
+35,722,731
+
+3.
+
+An advisory resolution to approve executive compensation was approved.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Vote
+
+8,450,622,819
+
+1,037,238,044
+
+72,364,102
+
+3,199,709,505
+
+4.
+
+A majority of shareholders voted for 1 Year on an advisory vote on the frequency of advisory votes on executive compensation.
+
+1 Year
+
+2 Years
+
+3 Years
+
+Abstained
+
+9,373,118,972
+
+30,603,953
+
+122,956,354
+
+33,545,686
+
+Based on these results, and consistent with the recommendation of Apple’s board of directors (the “Board”), the Board has determined that Apple will hold an advisory vote
+on executive compensation every year.
+
+5.
+
+A shareholder proposal entitled “Civil Rights and Non-Discrimination Audit Proposal” was not approved.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Vote
+
+132,449,397
+
+9,322,879,571
+
+104,895,997
+
+3,199,709,505
+
+6.
+
+A shareholder proposal entitled “Communist China Audit” was not approved.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Vote
+
+413,232,649
+
+9,001,346,586
+
+145,645,730
+
+3,199,709,505
+
+7.
+
+A shareholder proposal on Board policy for communication with shareholder proponents was not approved.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Vote
+
+611,602,995
+
+8,865,309,276
+
+83,312,694
+
+3,199,709,505
+
+8.
+
+A shareholder proposal entitled “Racial and Gender Pay Gaps” was not approved.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Vote
+
+3,186,369,941
+
+6,227,476,677
+
+146,378,347
+
+3,199,709,505
+
+9.
+
+A shareholder proposal entitled “Shareholder Proxy Access Amendments” was not approved.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Vote
+
+2,934,328,973
+
+6,535,240,600
+
+90,655,392
+
+3,199,709,505
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly
+authorized.
+
+Date: March 10, 2023
+
+Apple Inc.
+
+By:
+
+/s/ Katherine Adams
+
+Katherine Adams
+
+Senior Vice President, General Counsel and Secretary

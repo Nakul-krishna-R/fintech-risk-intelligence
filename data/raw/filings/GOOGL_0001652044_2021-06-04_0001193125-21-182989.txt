@@ -1,0 +1,484 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)
+
+June 2, 2021
+
+ALPHABET INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-37580
+
+61-1767919
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+1600 Amphitheatre Parkway
+
+Mountain View
+,
+CA
+
+94043
+
+(Address of principal executive offices, including zip code)
+
+(650)
+
+253-0000
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Class A Common Stock, $0.001 par value
+
+GOOGL
+
+Nasdaq Stock Market LLC
+
+(Nasdaq Global Select Market)
+
+Class C Capital Stock, $0.001 par value
+
+GOOG
+
+Nasdaq Stock Market LLC
+
+none
+
+none
+
+(Nasdaq Global Select Market)
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02.
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+Alphabet Inc. 2021 Stock Plan
+
+At the Annual Meeting of Stockholders of Alphabet Inc. (“
+Alphabet
+”) held on June 2, 2021 (the “
+2021 Annual
+
+Meetin
+g”), Alphabet’s stockholders approved the Alphabet Inc. 2021 Stock Plan (the “
+2021 Stock Plan
+”).
+
+A description of the 2021 Stock Plan and related matters was set forth in Alphabet’s definitive proxy statement on Form 14A filed with the U.S. Securities and Exchange Commission on April 23, 2021 (the “
+2021 Proxy Statement
+”) and is qualified in its entirety by reference to the full text of the 2021 Stock Plan, a copy of which is being filed as Exhibit 10.01 to this Form
+8-K.
+
+Item 5.07.
+
+Submission of Matters to a Vote of Security Holders.
+
+At the 2021 Annual Meeting, Alphabet’s stockholders voted on eleven proposals as set forth below, all of which are described in detail in the 2021 Proxy Statement. Holders of the shares of Class A common stock were entitled to one vote per share held as of the close of business on April 6, 2021 (the “
+Record Date
+”) and holders of the shares of Class B common stock were entitled to ten votes per share held as of the Record Date. Holders of the shares of Class A common stock and holders of the shares of Class B common stock voted together as a single class on all matters (including the election of directors) submitted to a vote of stockholders at the 2021 Annual Meeting. The number of votes cast for and against and the number of abstentions and broker
+non-votes
+with respect to each matter voted upon are set forth below.
+
+1. The individuals listed below were elected at the 2021 Annual Meeting to serve as directors of Alphabet until the next annual meeting of stockholders or until their respective successors have been duly elected and qualified:
+
+Director Nominee
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+Larry Page
+
+608,535,148
+
+7,751,352
+
+425,450
+
+27,746,606
+
+Sergey Brin
+
+607,853,726
+
+8,432,758
+
+425,466
+
+27,746,606
+
+Sundar Pichai
+
+609,760,386
+
+6,519,285
+
+432,279
+
+27,746,606
+
+John L. Hennessy
+
+581,948,375
+
+34,252,772
+
+510,803
+
+27,746,606
+
+Frances H. Arnold
+
+605,217,216
+
+11,036,543
+
+458,191
+
+27,746,606
+
+L. John Doerr
+
+491,614,116
+
+124,255,318
+
+842,516
+
+27,746,606
+
+Roger W. Ferguson, Jr.
+
+611,387,216
+
+4,781,895
+
+542,839
+
+27,746,606
+
+Ann Mather
+
+484,058,192
+
+132,136,357
+
+517,401
+
+27,746,606
+
+Alan R. Mulally
+
+610,717,672
+
+5,539,456
+
+454,822
+
+27,746,606
+
+K. Ram Shriram
+
+544,638,920
+
+71,296,586
+
+776,444
+
+27,746,606
+
+Robin L. Washington
+
+547,764,694
+
+68,047,749
+
+899,507
+
+27,746,606
+
+2. The ratification of the appointment of Ernst & Young LLP as Alphabet’s independent registered public accounting firm for the fiscal year ending December 31, 2021. There were no broker
+non-votes
+on this matter. This proposal was approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+632,785,899
+
+11,111,117
+
+561,540
+
+3. The approval of Alphabet’s 2021 Stock Plan. This proposal was approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+516,810,091
+
+99,292,623
+
+609,236
+
+27,746,606
+
+4. A stockholder proposal regarding equal shareholder voting. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+193,599,041
+
+422,370,943
+
+741,966
+
+27,746,606
+
+5. A stockholder proposal regarding the nomination of human rights and/or civil rights expert to the board. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+63,390,940
+
+551,796,241
+
+1,524,769
+
+27,746,606
+
+6. A stockholder proposal regarding a report on sustainability metrics. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+75,316,803
+
+540,215,188
+
+1,179,959
+
+27,746,606
+
+7. A stockholder proposal regarding a report on takedown requests. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+81,852,985
+
+532,910,113
+
+1,948,852
+
+27,746,606
+
+8. A stockholder proposal regarding a report on whistleblower policies and practices. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+63,800,336
+
+551,052,472
+
+1,859,142
+
+27,746,606
+
+9. A stockholder proposal regarding a report on charitable contributions. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+3,437,527
+
+611,936,833
+
+1,337,590
+
+27,746,606
+
+10. A stockholder proposal regarding a report on risks related to anticompetitive practices. This is proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+76,185,971
+
+538,724,880
+
+1,801,099
+
+27,746,606
+
+11. A stockholder proposal regarding a transition to a public benefit corporation. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+7,167,274
+
+607,775,347
+
+1,769,329
+
+27,746,606
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit No.
+
+Description
+
+10.01
+
+Alphabet Inc. 2021 Stock Plan
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ALPHABET INC.
+
+Date: June 4, 2021
+
+/s/ KATHRYN W. HALL
+
+Kathryn W. Hall
+Assistant Secretary

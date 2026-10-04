@@ -1,0 +1,121 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported):
+April 14, 2024
+
+Tesla, Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+Delaware
+
+001-34756
+
+91-2197729
+
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission
+File Number)
+
+(I.R.S. Employer
+Identification No.)
+
+1 Tesla Road
+
+Austin
+,
+Texas
+78725
+
+(Address of Principal Executive Offices, and Zip Code)
+
+(
+512
+)
+516-8177
+
+Registrant’s Telephone Number, Including Area Code
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+
+☐
+
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communication pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communication pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock
+
+TSLA
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 5.02 Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers.
+
+Andrew Baglino, Senior Vice President, Powertrain and Energy Engineering of Tesla, Inc. (“
+Tesla
+,”, or the “
+Company
+”), resigned from Tesla, effective as of April 14, 2024. Mr. Baglino served in this position since October 2019, prior to which he served in various engineering positions continuously since joining Tesla in March 2006. Tesla is grateful to Mr. Baglino for his leadership and contributions to our significant innovation and growth over the course of his 18-year career.
+
+Item 8.01 Other Events
+
+On April 15, 2024, Tesla announced a company-wide restructuring that reduces our headcount by more than 10% globally. Over the years, we have grown rapidly with multiple factories scaling around the globe. With this rapid growth, there has been a duplication of roles and job functions in certain areas. We believe it is extremely important to look at every aspect of the Company for cost reductions and increasing productivity. This action will prepare Tesla for our next phase of growth, as we are developing some of the most revolutionary technologies in auto, energy and artificial intelligence.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+TESLA, INC.
+
+By:
+
+/s/ Vaibhav Taneja
+
+Vaibhav Taneja
+Chief Financial Officer
+
+Date: April 16, 2024

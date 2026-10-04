@@ -1,0 +1,205 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)
+
+January 20, 2023
+
+ALPHABET INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-37580
+
+61-1767919
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+1600 Amphitheatre Parkway
+
+Mountain View
+,
+CA
+
+94043
+
+(Address of principal executive offices, including zip code)
+
+(
+650
+)
+253-0000
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Class A Common Stock, $0.001 par value
+
+GOOGL
+
+Nasdaq Stock Market LLC
+
+(Nasdaq Global Select Market)
+
+Class C Capital Stock, $0.001 par value
+
+GOOG
+
+Nasdaq Stock Market LLC
+
+(Nasdaq Global Select Market)
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 7.01.
+
+Regulation FD Disclosure.
+
+On January 20, 2023, Sundar Pichai, Chief Executive Officer of Alphabet Inc. and Google LLC (“
+Google
+”), shared the following message with Google employees:
+
+Googlers,
+
+I have some difficult news to share. We’ve decided to reduce our workforce by approximately 12,000 roles. We’ve already sent a separate email to employees in the U.S. who are affected. In other countries, this process will take longer due to local laws and practices.
+
+This will mean saying goodbye to some incredibly talented people we worked hard to hire and have loved working with. I’m deeply sorry for that. The fact that these changes will impact the lives of Googlers weighs heavily on me, and I take full responsibility for the decisions that led us here.
+
+Over the past two years we’ve seen periods of dramatic growth. To match and fuel that growth, we hired for a different economic reality than the one we face today.
+
+I am confident about the huge opportunity in front of us thanks to the strength of our mission, the value of our products and services, and our early investments in AI. To fully capture it, we’ll need to make tough choices. So, we’ve undertaken a rigorous review across product areas and functions to ensure that our people and roles are aligned with our highest priorities as a company. The roles we’re eliminating reflect the outcome of that review. They cut across Alphabet, product areas, functions, levels and regions.
+
+To the Googlers who are leaving us: Thank you for working so hard to help people and businesses everywhere. Your contributions have been invaluable and we are grateful for them.
+
+While this transition won’t be easy, we’re going to support employees as they look for their next opportunity (you can find more detail here).
+
+In the U.S.:
+
+•
+
+We’ll pay employees during the full notification period (minimum 60 days).
+
+•
+
+We’ll also offer a severance package starting at 16 weeks salary plus two weeks for every additional year at Google, and accelerate at least 16 weeks of GSU vesting.
+
+•
+
+We’ll pay 2022 bonuses and remaining vacation time.
+
+•
+
+We’ll be offering 6 months of healthcare, job placement services, and immigration support for those affected.
+
+•
+
+Outside the U.S., we’ll support employees in line with local practices.
+
+As an almost
+25-year-old
+company, we’re bound to go through difficult economic cycles. These are important moments to sharpen our focus, reengineer our cost base, and direct our talent and capital to our highest priorities.
+
+Being constrained in some areas allows us to bet big on others. Pivoting the company to be
+AI-first
+years ago led to groundbreaking advances across our businesses and the whole industry.
+
+Thanks to those early investments, Google’s products are better than ever. And, we’re getting ready to share some entirely new experiences for users, developers and businesses, too. We have a substantial opportunity in front of us with AI across our products and are prepared to approach it boldly and responsibly.
+
+All this work is a continuation of the “healthy disregard for the impossible” that’s been core to our culture from the beginning. When I look around Google today, I see that same spirit and energy driving our efforts. That’s why I remain optimistic about our ability to deliver on our mission, even on our toughest days. Today is certainly one of them.
+
+I’m sure you have many questions about how we’ll move forward. We’ll be organizing a town hall on Monday. Check your calendar for details. Until then, please take good care of yourselves as you absorb this difficult news. As part of that, if you are just starting your work day, please feel free to work from home today.
+
+-Sundar
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ALPHABET INC.
+
+Date: January 20, 2023
+
+/s/ Kathryn W. Hall
+
+Kathryn W. Hall
+
+Assistant Secretary

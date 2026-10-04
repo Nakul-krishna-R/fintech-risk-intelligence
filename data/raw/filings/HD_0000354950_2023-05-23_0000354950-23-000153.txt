@@ -1,0 +1,257 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+__________________
+FORM
+8-K
+
+__________________
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+May 18, 2023
+
+__________________
+THE
+HOME DEPOT, INC.
+
+(Exact Name of Registrant as Specified in Charter)
+
+__________________
+Delaware
+
+1-8207
+
+95-3261426
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+2455 Paces Ferry Road
+,
+Atlanta
+,
+Georgia
+
+30339
+
+(Address of Principal Executive Offices) (Zip Code)
+(
+770
+)
+433-8211
+
+(Registrant’s Telephone Number, Including Area Code)
+Not Applicable
+(Former Name or Former Address, if Changed Since Last Report)
+
+__________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2 below):
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.05 Par Value Per Share
+HD
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+The 2023 Annual Meeting of Shareholders of The Home Depot, Inc. (the “Company”) was held on May 18, 2023. Below are the final vote results from the meeting.
+Proposal 1
+: The following nominees were elected by majority vote to serve on the Board of Directors of the Company:
+FOR
+AGAINST
+ABSTAIN
+BROKER
+NON-VOTES
+Gerard J. Arpey
+716,257,328
+9,827,357
+1,332,063
+138,414,748
+Ari Bousbib
+705,095,743
+20,991,758
+1,329,247
+138,414,748
+Jeffery H. Boyd
+699,662,962
+26,440,347
+1,313,439
+138,414,748
+Gregory D. Brenneman
+700,477,557
+25,640,560
+1,298,631
+138,414,748
+J. Frank Brown
+692,164,606
+33,943,033
+1,309,109
+138,414,748
+Albert P. Carey
+691,602,159
+34,466,842
+1,347,747
+138,414,748
+Edward P. Decker
+676,434,166
+48,265,105
+2,717,477
+138,414,748
+Linda R. Gooden
+713,373,778
+12,795,066
+1,247,904
+138,414,748
+Wayne M. Hewett
+713,098,942
+12,987,013
+1,330,793
+138,414,748
+Manuel Kadre
+717,147,371
+8,947,455
+1,321,922
+138,414,748
+Stephanie C. Linnartz
+714,067,251
+12,093,465
+1,256,032
+138,414,748
+Paula Santilli
+717,559,770
+8,628,963
+1,228,015
+138,414,748
+Caryn Seidman-Becker
+709,984,334
+16,149,032
+1,283,382
+138,414,748
+Proposal 2
+: The appointment of KPMG LLP as the Company's independent registered public accounting firm for the fiscal year ending January 28, 2024 was ratified.
+FOR
+AGAINST
+ABSTAIN
+BROKER
+NON-VOTE
+830,361,341
+33,948,474
+1,521,681
+N/A
+Proposal 3
+: An advisory vote on executive compensation (“Say-on-Pay”) was approved.
+FOR
+AGAINST
+ABSTAIN
+BROKER
+NON-VOTE
+691,751,094
+32,911,887
+2,753,767
+138,414,748
+Proposal 4
+: The votes cast on the proposal regarding the frequency of future Say-on-Pay votes were as follows:
+EVERY ONE YEAR
+EVERY TWO YEARS
+EVERY THREE YEARS
+ABSTAIN
+BROKER NON-VOTE
+712,868,471
+1,843,817
+10,829,827
+1,874,633
+138,414,748
+Proposal 5
+: A shareholder proposal regarding the amendment of the shareholder written consent right was not approved.
+FOR
+AGAINST
+ABSTAIN
+BROKER
+NON-VOTE
+268,749,556
+454,634,781
+4,032,411
+138,414,748
+Proposal 6
+: A shareholder proposal regarding an independent chair of the Board was not approved.
+FOR
+AGAINST
+ABSTAIN
+BROKER
+NON-VOTE
+190,568,732
+525,800,696
+11,047,320
+138,414,748
+2
+Proposal 7
+: A shareholder proposal regarding a political contributions congruency analysis was not approved.
+FOR
+AGAINST
+ABSTAIN
+BROKER
+NON-VOTE
+225,203,675
+494,356,100
+7,856,973
+138,414,748
+Proposal 8
+: A shareholder proposal regarding the rescission of the racial equity audit proposal vote was not approved.
+FOR
+AGAINST
+ABSTAIN
+BROKER
+NON-VOTE
+6,513,172
+715,127,428
+5,776,148
+138,414,748
+Proposal 9
+: A shareholder proposal regarding a senior management commitment to avoid political speech was not approved.
+FOR
+AGAINST
+ABSTAIN
+BROKER
+NON-VOTE
+11,989,659
+709,324,149
+6,102,940
+138,414,748
+3
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+THE HOME DEPOT, INC.
+Date: May 23, 2023
+By:
+/s/ Teresa Wynn Roseborough
+Name:
+Teresa Wynn Roseborough
+
+Title:
+Executive Vice President, General Counsel and Corporate Secretary
+4

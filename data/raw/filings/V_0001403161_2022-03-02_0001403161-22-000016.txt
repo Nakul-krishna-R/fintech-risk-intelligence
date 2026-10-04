@@ -1,0 +1,180 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+March 2, 2022
+
+VISA INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+Delaware
+
+001-33977
+
+26-0267673
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+Identification No.)
+
+P.O. Box 8999
+
+San Francisco,
+California
+
+94128-8999
+(Address of Principal Executive Offices)
+(Zip Code)
+Registrant’s Telephone Number, Including Area Code: (
+650
+)
+432-3200
+
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Class A common stock, par value $0.0001 per share
+V
+New York Stock Exchange
+(Title of each Class)
+(Trading Symbol)
+(Name of each exchange on which registered)
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 7.01
+Regulation FD Disclosure.
+Visa continues to monitor the COVID-19 impact globally. February U.S. payments volume was 145% of 2019, up 5 points from January, with Credit up 7 points to 135% and Debit at 154%, flat with January. Card not present excluding travel was 171%, and card present was 123% of 2019, up 3 and 5 points, respectively, from January. Across most categories relative to 2019, February spending rebounded from January, most notably with travel, entertainment and fuel up more than 8 points each.
+International market payments volume in February versus the same period in 2019 increased several points from January levels in most countries, with notable increases in India, Canada, Brazil, Italy and Germany. Some Asian markets declined from January relative to 2019 including Japan, Hong Kong and New Zealand.
+Cross-border volume excluding intra-Europe transactions improved 8 points from January to 112% of 2019 in February, with card not present excluding travel volume up 4 points from January to 169%. Total card present and card not present travel cross-border volume excluding intra-Europe transactions increased 10 points from January to 81% of 2019. As expected, many countries reopened their borders and reduced or removed restrictions and we saw several corridors quickly recover from January. Total February cross-border volume increased to 122% of 2019.
+Global processed transactions were 139% of 2019 in February, up one point from January.
+Regarding the invasion of Ukraine, our number one priority is ensuring the safety and security of our colleagues and their families who are directly impacted. Visa is in the process of complying with all applicable global sanctions. As part of that compliance, we have suspended access to Visa for certain clients. It is difficult to reasonably estimate the full potential financial impact of this situation on Visa at this time. In fiscal full-year 2021, total net revenues from Russia, including revenues driven by domestic as well as cross-border activities, were approximately 4% of Visa Inc. net revenues and total net revenues from Ukraine were approximately 1% of Visa Inc. net revenues.
+The tables below show the increase / (decrease) and indexed results in certain key metrics against the comparable 2021 and 2019 periods, respectively, for January, February and quarter-to-date (January 1 – February 28, 2022):
+Increase / (Decrease) Year-over-Year
+January
+February
+Quarter-to-Date
+U.S. Payments Volume
+14%
+21%
+17%
+Credit
+24%
+30%
+27%
+Debit
+5%
+15%
+10%
+Cross-Border Volume Excluding Intra-Europe Transactions*
+42%
+47%
+45%
+Cross-Border Volume Total*
+34%
+38%
+36%
+Processed Transactions
+18%
+22%
+20%
+Indexed to 2019 with a Baseline of 100
+January
+February
+Quarter-to-Date
+U.S. Payments Volume
+140
+145
+142
+Credit
+128
+135
+131
+Debit
+154
+154
+154
+Cross-Border Volume Excluding Intra-Europe Transactions*
+104
+112
+107
+Cross-Border Volume Total*
+114
+122
+118
+Processed Transactions
+138
+139
+138
+*In constant dollars
+Charts that follow provide growth and index trends by month for U.S. payments volumes, processed transactions and cross-border volumes. Growth trends are against the comparable prior year period. When indexed vs. 3 years ago, the baseline is 100.
+
+Appendix
+(provided for this quarter only)
+Charts that follow provide index trends vs. 2019 by month for U.S. payments volumes, processed transactions and cross-border volumes, with a baseline of 100.
+
+The foregoing information is preliminary in nature and has not been audited or reviewed by our auditors and is subject to change.
+All information in Item 7.01 is furnished but not filed and shall not be deemed to be incorporated by reference into any of Visa’s filings under the Securities Act of 1933 or the Securities Exchange Act of 1934 except to the extent otherwise set forth therein.
+Forward-Looking Statements
+This current report contains forward-looking statements within the meaning of the U.S. Private Securities Litigation Reform Act of 1995 that relate to, among other things, the impact on our underlying business drivers and other volume and transaction trends as a result of the ongoing effects of the coronavirus ("COVID-19") pandemic, the measures taken in response, including the reopening of borders and resumption of international travel, as well as the speed and strength of an economic recovery; our future operations, prospects, developments, strategies, business growth and anticipated timing and benefits of our acquisitions. Forward-looking statements generally are identified by words such as “anticipates,” “estimates,” “expects,” “intends,” “may,” “projects,” “outlook,” “could,” “should,” “will,” “continue” and other similar expressions. All statements other than statements of historical fact could be forward-looking statements, which speak only as of the date they are made, are not guarantees of future performance and are subject to certain risks, uncertainties and other factors, many of which are beyond our control and are difficult to predict.
+Actual results could differ materially from those expressed in, or implied by, our forward-looking statements due to a variety of factors, including, but not limited to:
+•
+impact of global economic, political, market, health and social events or conditions, including the ongoing effects of the COVID-19 pandemic and the evolving conflict between Russia and Ukraine;
+•
+increased oversight and regulation of the global payments industry and our business;
+•
+impact of government-imposed obligations and/or restrictions on international payment systems;
+•
+outcome of tax, litigation and governmental investigation matters;
+•
+increasingly intense competition in the payments industry, including competition for our clients and merchants;
+•
+proliferation and continuous evolution of new technologies and business models;
+•
+our ability to maintain relationships with our clients, acquirers, processors, merchants, payments facilitators, ecommerce platforms, fintechs and other third parties;
+•
+brand or reputational damage;
+•
+exposure to loss or illiquidity due to settlement guarantees;
+•
+a disruption, failure, breach or cyber-attack of our networks or systems;
+•
+risks, uncertainties and the failure to achieve the anticipated benefits with respect to our acquisitions and other strategic investments; and
+•
+other factors described in our filings with the U.S. Securities and Exchange Commission, including our Annual Report on Form 10-K for the year ended September 30, 2021, and our subsequent reports on Form 8-K.
+Except as required by law, we do not intend to update or revise any forward-looking statements as a result of new information, future events or otherwise.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VISA INC.
+
+Date: March 2, 2022
+
+By:
+
+/s/ Vasant M. Prabhu
+
+Vasant M. Prabhu
+Vice Chair, Chief Financial Officer

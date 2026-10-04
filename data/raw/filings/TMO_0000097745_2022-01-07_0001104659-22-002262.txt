@@ -1,0 +1,369 @@
+UNITED STATES SECURITIES AND EXCHANGE
+
+COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event
+reported):
+January 7, 2022
+
+THERMO FISHER SCIENTIFIC INC.
+
+(Exact name of Registrant as specified
+in its Charter)
+
+Delaware
+
+1-8002
+
+04-2209186
+
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(I.R.S.
+Employer Identification No.)
+
+168
+Third Avenue
+
+Waltham
+,
+
+Massachusetts
+
+02451
+
+(Address of principal
+executive offices) (Zip Code)
+
+Registrant’s telephone number, including
+area code: (
+781
+)
+622-1000
+
+Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+
+General Instruction A.2. below):
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities
+Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+(17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under
+the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under
+the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title
+of each class
+
+Trading
+Symbol(s)
+
+Name
+of each exchange on which
+
+registered
+
+Common
+Stock, $1.00 par value
+
+TMO
+
+New
+York Stock Exchange
+
+0.750%
+Notes due 2024
+
+TMO
+24A
+
+New
+York Stock Exchange
+
+0.125%
+Notes due 2025
+
+TMO
+25B
+
+New
+York Stock Exchange
+
+2.000%
+Notes due 2025
+
+TMO
+25
+
+New
+York Stock Exchange
+
+1.400%
+Notes due 2026
+
+TMO
+26A
+
+New
+York Stock Exchange
+
+1.450%
+Notes due 2027
+
+TMO
+27
+
+New
+York Stock Exchange
+
+1.750%
+Notes due 2027
+
+TMO
+27B
+
+New
+York Stock Exchange
+
+0.500%
+Notes due 2028
+
+TMO
+28A
+
+New
+York Stock Exchange
+
+1.375%
+Notes due 2028
+
+TMO
+28
+
+New
+York Stock Exchange
+
+1.950%
+Notes due 2029
+
+TMO
+29
+
+New
+York Stock Exchange
+
+0.875%
+Notes due 2031
+
+TMO
+31
+
+New
+York Stock Exchange
+
+2.375%
+Notes due 2032
+
+TMO
+32
+
+New
+York Stock Exchange
+
+2.875%
+Notes due 2037
+
+TMO
+37
+
+New
+York Stock Exchange
+
+1.500%
+Notes due 2039
+
+TMO
+39
+
+New
+York Stock Exchange
+
+1.875%
+Notes due 2049
+
+TMO
+49
+
+New
+York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+¨
+Emerging growth company
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+On January 7, 2022, Thermo Fisher Scientific
+Inc. (the “Company”) entered into a new $5.0 billion
+unsecured five-year revolving credit facility (the “Credit Facility”) pursuant to a Credit Agreement (the “Credit Agreement”),
+among the Company, certain Subsidiaries of the Company from time to time party thereto as Designated Borrowers, Bank of America, N.A.,
+as Administrative Agent and a syndicate of lenders from time to time party thereto. The Credit Facility replaces the Company’s existing $3.0 billion unsecured five-year revolving credit facility under that certain Credit
+Agreement dated December 4, 2020, among the Company, certain Subsidiaries of the Company from time to time party thereto as Designated
+Borrowers, Bank of America, N.A., as Administrative Agent and a syndicate of lenders from time to time party thereto, which terminated
+upon effectiveness of the Credit Facility. Capitalized terms used in this Form 8-K and not
+defined herein shall have the meanings ascribed to them in the Credit Agreement, which is attached to this Form 8-K as Exhibit 10.1.
+
+The Credit Facility expires, and any amounts outstanding thereunder will become due and payable, on January 7, 2027,
+subject to unlimited one-year extensions at the request of the Company and with the consent of the lenders. The Credit Facility also contains
+an expansion option permitting the Company to request increases of up to an aggregate additional $1.0 billion from lenders that elect
+to make such increase available, upon the satisfaction of certain conditions. The proceeds of the Loans under the Credit Facility may
+be used for working capital purposes, capital expenditures, acquisitions, repurchases of stock, debentures and other securities, the refinancing
+of present and future debt and other general corporate purposes. The Company expects to limit borrowings under the Credit Facility to
+amounts that would leave sufficient borrowing capacity under the CP Program (as defined below) so that it could borrow, if needed, to
+repay all of the outstanding CP Notes as they mature. If no Default or Event of Default has occurred, (i) each Term SOFR Loan, Alternative
+Currency Daily Rate Loan, and Alternative Currency Term Rate Loan (including each Swing Line Loan denominated in Euros), shall bear interest
+on the outstanding principal amount thereof for each Interest Period at a variable rate per annum equal to Term SOFR, the relevant Alternative
+Currency Daily Rate or the relevant Alternative Currency Term Rate, respectively, for such Interest Period
+plus
+a margin of 0.795%
+to 1.300% based on the Company’s long-term debt credit ratings and (ii) each Base Rate Committed Loan (including each Swing
+Line Loan denominated in Dollars) shall bear interest on the outstanding principal amount thereof from the applicable borrowing date at
+a variable rate per annum equal to the Base Rate
+plus
+a margin of 0.000% to 0.300% based on the Company’s long-term debt
+credit rating. In addition, the Company has agreed to pay a facility fee equal to a variable rate between 0.080% and 0.200% per year based
+on the Company’s long-term debt credit rating times the actual daily amount of the Commitments, regardless of usage, quarterly in
+arrears on the last business day of each March, June, September and December, commencing with the first such date to occur after
+the Closing Date.
+
+The Company has unconditionally and irrevocably
+guaranteed the obligations of each of its subsidiaries in the event a subsidiary is named a borrower under the Credit Facility. The Credit
+Agreement contains customary conditions precedent, representations and warranties, affirmative and negative covenants, events of default
+and indemnities. The negative covenants include restrictions on liens and fundamental changes. These covenants are subject to a number
+of important exceptions and qualifications. The Credit Agreement also requires a minimum consolidated net interest coverage ratio of 3.5
+to 1.0 as at the last day of any fiscal quarter. Certain changes of control with respect to the Company would constitute an event of default
+under the Credit Facility. Upon the occurrence and during the continuance of an event of default, the lenders may declare the outstanding
+advances and all other obligations under the Credit Facility immediately due and payable. Borrowings under the Credit Facility are prepayable
+at the Company’s option in whole or in part without premium or penalty.
+
+The foregoing description of the Credit Agreement
+is only a summary of the parties’ rights under such agreement and is qualified in its entirety by reference to the full text of
+the Credit Agreement (including exhibits), which is filed as Exhibit 10.1 and incorporated by reference herein.
+
+In the ordinary course of business, certain of
+the lenders under the Credit Agreement and their affiliates have provided, and may in the future provide, investment banking, commercial
+banking, cash management, foreign exchange or other financial services to the Company for which they have received compensation and may
+receive compensation in the future.
+
+Item 1.02. Termination of a Material Definitive Agreement.
+
+The information set forth above under Item 1.01
+is incorporated by reference into this Item 1.02.
+
+Item 2.03. Creation of a Direct Financial Obligation or an Obligation
+under an Off-Balance Sheet Arrangement of a Registrant.
+
+The information set forth above under Item 1.01
+is incorporated by reference into this Item 2.03.
+
+Item 8.01. Other Events.
+
+On or about January 10, 2022, the Company
+intends to increase the size of its U.S. commercial paper program (the “USCP Program”) and its euro-commercial paper programme
+(the “ECP Program” and together with the USCP Program, the “CP Program”) to permit the issuance of commercial
+paper notes (“CP Notes”) under the CP Program in an aggregate principal amount not to exceed $5 billion (or its equivalent
+in alternative currencies) outstanding at any time. Prior to this increase, the USCP Program permitted the Company to issue commercial
+paper notes in an aggregate principal amount not to exceed $1.5 billion at any time outstanding and the ECP Program permitted the Company
+to issue commercial paper notes in an aggregate principal amount not to exceed €1.5 billion at any time outstanding. Under the USCP
+Program, maturities may not exceed 397 days from the date of issue and are denominated in U.S. dollars. Under the ECP Program, maturities
+may not exceed 183 days and may be denominated in euro, U.S. dollars, Japanese yen, British pounds sterling, Swiss franc, Canadian dollars
+or other currencies. CP Notes are issued at a discount from par (or premium to par, in the case of negative interest rates), or, alternatively,
+are sold at par and bear varying interest rates on a fixed or floating basis.
+
+From time to time, the commercial paper dealers
+and certain of their affiliates under the CP Program have provided, and may in the future provide, commercial banking, investment banking
+and other financial advisory services to the Company and its affiliates for which the Dealers have received or will receive customary
+fees and expenses.
+
+The CP Notes will not be registered under the Securities
+Act or state securities laws. The CP Notes may not be offered or sold in the United States absent registration or an applicable exemption
+from the registration requirements of the Securities Act and applicable state laws. The information contained in this Current Report on
+Form 8-K is neither an offer to sell nor a solicitation of an offer to buy any securities.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+See
+Exhibit Index attached
+hereto.
+
+Exhibit
+
+Number
+
+Description
+
+10.1
+
+Credit Agreement, dated January 7, 2022, among Thermo Fisher Scientific Inc., certain Subsidiaries of Thermo Fisher Scientific Inc. from time to time party thereto, Bank of America, N.A., as Administrative Agent and each lender from time to time party thereto.
+
+104
+
+Cover Page Interactive Data File (embedded with the Inline XBRL
+document).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+Thermo Fisher Scientific Inc.
+
+Date: January 7, 2022
+
+By
+
+/s/ Michael A. Boxer
+
+Name:
+
+Michael A. Boxer
+
+Title:
+
+Senior Vice President, General Counsel and Secretary

@@ -1,0 +1,188 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+June 8, 2022
+
+Oracle Corporation
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-35992
+
+54-2185193
+
+(State or other jurisdiction of
+
+incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+2300 Oracle Way
+,
+Austin
+,
+Texas
+
+78741
+
+(Address of principal executive offices) (Zip Code)
+
+(737)
+
+867-1000
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock, par value $0.01 per share
+
+ORCL
+
+New York Stock Exchange
+
+3.125% senior notes due July 2025
+
+ORCL
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Section 2—Financial Information
+
+Item 2.01
+
+Completion of Acquisition or Disposition of Assets
+
+On June 8, 2022, Oracle Corporation, a Delaware corporation (“Oracle”), completed its acquisition of Cerner Corporation, a Delaware corporation (“Cerner”), pursuant to the Agreement and Plan of Merger (the “Merger Agreement”), dated December 20, 2021, among Oracle, Cerner, OC Acquisition LLC, a Delaware limited liability company and wholly owned subsidiary of Oracle (“Parent”), and Cedar Acquisition Corporation, a Delaware corporation and wholly owned subsidiary of Parent (“Purchaser”).
+
+Pursuant to the Merger Agreement and upon the terms and subject to the conditions thereof, on January 19, 2022, Purchaser commenced a tender offer (the “Offer”) to purchase all of the issued and outstanding shares of common stock, par value $0.01 per share (the “Shares”), of Cerner at a price of $95.00 per Share (the “Offer Price”), net to the holders thereof, in cash, without interest and subject to any required tax withholding.
+
+The Offer expired at 12:00 midnight, Eastern Time, at the end of the day on June 6, 2022 (the “Expiration Time”). According to American Stock Transfer & Trust Company, LLC, the depositary for the Offer, as of the Expiration Time, 194,816,290 Shares had been validly tendered into and not validly withdrawn from the Offer, representing approximately 66.0% of the outstanding Shares (not including 9,464,299 Shares delivered through Notices of Guaranteed Delivery, representing approximately 3.2% of the outstanding Shares). The number of Shares validly tendered (and not validly withdrawn) pursuant to the Offer satisfied the condition to the Offer that there be validly tendered (and not validly withdrawn) prior to the Expiration Time a number of Shares (excluding Shares tendered pursuant to guaranteed delivery procedures that have not yet been delivered in settlement or satisfaction of such guaranteed delivery procedures) that, together with any Shares owned by Oracle, Parent or Purchaser, represents a majority of the aggregate number of Shares issued and outstanding immediately prior to the first time Purchaser accepts any Shares for payment pursuant to the Offer. All conditions to the Offer having been satisfied or waived, Purchaser accepted for payment all Shares validly tendered and not validly withdrawn pursuant to the Offer.
+
+Following the consummation of the Offer, on June 8, 2022, Purchaser merged with and into Cerner (the “Merger”) upon the terms and subject to the conditions set forth in the Merger Agreement and pursuant to Section 251(h) of the General Corporation Law of the State of Delaware (the “DGCL”), with Cerner continuing as the surviving corporation and becoming an indirect, wholly owned subsidiary of Oracle. At the effective time of the Merger, each Share issued and outstanding immediately prior to the effective time of the Merger (other than (i) Shares held by Cerner as treasury stock or owned by Oracle, Parent, Purchaser or any subsidiary of Cerner, or (ii) Shares held by stockholders who properly exercised appraisal rights in accordance with Section 262 of the DGCL) was converted into the right to receive the Offer Price, net to the holder in cash, without interest thereon and subject to any required tax withholding.
+
+Pursuant to the terms of the Merger Agreement, at the effective time of the Merger, the unvested portion of each Cerner stock option, each Cerner restricted stock award, each Cerner time-based restricted stock unit award, and each Cerner performance-based restricted stock unit award (each, a “Cerner Compensatory Award”) that was outstanding immediately prior to the effective time of the Merger and held by an employee of Cerner or any of its subsidiaries was assumed by Oracle and converted automatically into a corresponding option, share of restricted stock, restricted stock unit award or performance share unit award, denominated in shares of Oracle common stock (with performance share unit awards converted to time-vested awards based on the greater of target or actual achievement of
+pro-rated
+performance goals through the effective time). The vested portion of each Cerner Compensatory Award (including any portion that pursuant to its terms became vested solely as a result of the transactions contemplated by the Merger Agreement) that was outstanding immediately prior to the effective time of the Merger was cancelled and extinguished and, in exchange therefor,
+
+each former holder of any such vested portion of a Cerner Compensatory Award has the right to receive (i) an amount in cash equal to the product of (x) the aggregate number of shares of Cerner common stock subject to such vested portion of the Cerner Compensatory Award immediately prior to the effective time of the Merger and (y) the Offer Price less any per share exercise or purchase price of such vested portion of the Cerner Compensatory Award immediately prior to such cancellation and (ii) an amount equal to any dividend equivalent rights payable with respect to such vested portion of the Cerner Compensatory Award. The unvested portion of each Cerner Compensatory Award that was outstanding immediately prior to the effective time of the Merger and held by a person who was not an employee of Cerner or any of its subsidiaries was cancelled for no consideration.
+
+Oracle, Cerner, Parent and Purchaser intend to cause the delisting of the Shares from the Nasdaq Global Select Market and the termination of the registration of the Shares under the Securities Exchange Act of 1934, as amended, as soon after completion of the Merger as the requirements for such delisting and termination of registration are satisfied.
+
+The foregoing description of the Merger Agreement and the transactions contemplated thereby does not purport to be complete, and is qualified in its entirety by reference to the full text of the Merger Agreement, which is incorporated by reference herein from
+Exhibit 2.1
+to the
+Current Report on Form
+8-K
+filed by Oracle with the Securities and Exchange Commission on December 21, 2021.
+
+Item 2.03
+
+Creation of a Direct Financial Obligation or an Obligation under an
+Off-Balance
+Sheet Arrangement of a Registrant
+
+As previously disclosed, on March 8, 2022, Oracle entered into a $15.7 billion delayed draw term loan credit agreement (the “Bridge Credit Agreement”), which provides for an unsecured $15.7 billion,
+364-day
+term loan commitment (the “Bridge Facility”) to Oracle, subject to the satisfaction of certain customary conditions.
+
+On June 8, 2022, Oracle borrowed $15,700,000,000 under the Bridge Facility to finance the acquisition of Cerner, repay certain indebtedness of Cerner or its subsidiaries in connection with such acquisition, and to pay related fees and expenses. All amounts borrowed under the Bridge Credit Agreement will become due on March 7, 2023, unless the commitments and outstanding loans are terminated or prepaid (as applicable) earlier (i) either at the request of Oracle, (ii) by the lenders if an event of default occurs, or (iii) if a mandatory prepayment event occurs. Interest is based on either (i) a Term SOFR-based formula plus a margin of 100.0 basis points to 137.5 basis points, depending on the credit rating assigned to Oracle’s long-term senior unsecured debt, or (ii) a Base Rate formula plus a margin of 0.0 basis points to 37.5 basis points, depending on the same such credit rating, each as set forth in the Bridge Credit Agreement.
+
+The foregoing description of the Bridge Credit Agreement does not purport to be complete, and is qualified in its entirety by reference to the full text of the Bridge Credit Agreement, which is incorporated by reference herein from
+Exhibit 10.17
+to the
+Quarterly Report on Form
+10-Q
+filed by Oracle with the Securities and Exchange Commission on March 11, 2022.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ORACLE CORPORATION
+
+Dated: June 8, 2022
+
+By:
+
+/s/ Brian S. Higgins
+
+Name: Brian S. Higgins
+
+Title: Senior Vice President

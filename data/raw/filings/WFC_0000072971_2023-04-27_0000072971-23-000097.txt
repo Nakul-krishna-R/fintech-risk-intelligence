@@ -1,0 +1,350 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (date of earliest event reported):
+April 25, 2023
+
+WELLS FARGO & COMPANY
+(Exact name of registrant as specified in its charter)
+Delaware
+
+001-02979
+
+No.
+41-0449260
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission File
+Number)
+
+(IRS Employer
+Identification No.)
+
+420 Montgomery Street
+,
+San Francisco
+,
+California
+
+94104
+
+(Address of principal executive offices) (Zip Code)
+Registrant's telephone number, including area code:
+1-
+866
+-
+249-3302
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol
+Name of Each Exchange
+on Which Registered
+Common Stock, par value $1-2/3
+WFC
+New York Stock
+Exchange
+(
+NYSE
+)
+7.5% Non-Cumulative Perpetual Convertible Class A Preferred Stock, Series L
+WFC.PRL
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of
+5.85% Fixed-to-Floating Rate Non-Cumulative Perpetual Class A Preferred Stock, Series Q
+WFC.PRQ
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of
+6.625% Fixed-to-Floating Rate Non-Cumulative Perpetual Class A Preferred Stock, Series R
+WFC.PRR
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Y
+WFC.PRY
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Z
+WFC.PRZ
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series AA
+WFC.PRA
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series CC
+WFC.PRC
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series DD
+WFC.PRD
+NYSE
+Guarantee of Medium-Term Notes, Series A, due October 30, 2028 of Wells Fargo Finance LLC
+WFC/28A
+NYSE
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act (17 CFR 230.405) or Rule 12b-2 of the Exchange Act (17 CFR 240.12b‑2).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+o
+Item 5.05 Amendments to the Registrant’s Code of Ethics, or Waiver of a Provision of the Code of Ethics.
+On April 25, 2023, the Board of Directors (the “Board”) of Wells Fargo & Company (the “Company”) approved the amendment and restatement of the Company’s Code of Ethics and Business Conduct, to be effective April 28, 2023, including a change in the name to the Code of Conduct (as amended and restated, the “Code”). The Code applies to all employees of the Company and its subsidiaries, including the Company’s principal executive officer, principal financial officer, and principal accounting officer. Additionally, as set forth therein, certain provisions of the Code apply to directors of the Company and its subsidiaries.
+
+The Code reflects the Company’s commitment to the highest standards of honesty, transparency, and acting with integrity. The Code contains principles, guidance, and employee responsibilities under the Code, including (a) the alignment of the Code with the Company’s expectations that guide employee conduct and decision-making, (b) the Company’s focus on fair and honest business dealings, (c) the Company’s non-retaliation policy and guidance on escalating to appropriate reporting channels, (d) compliance obligations under the laws and regulations within jurisdictions where the Company conducts business, and (e) the responsibilities of employees to identify, avoid or manage actual, potential or perceived conflicts of interest.
+A copy of the Code will be posted on the Leadership and Governance page of the Company’s website at
+www.wellsfargo.com/about/corporate/governance
+.
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+The Company held its annual meeting of shareholders on
+April 25, 2023
+. At the meeting, shareholders elected the 13 director nominees nominated by the Board as each director nominee received a greater number of votes cast “for” his or her election than votes cast “against” his or her election, as reflected below. In addition, shareholders approved, on an advisory basis, the compensation of the Company’s named executives as disclosed in the Proxy Statement; voted, on an advisory basis, to have future votes on named executives’ compensation every year; and ratified the appointment of KPMG LLP as the Company’s independent registered public accounting firm for 2023. A majority of shares present also voted in favor of shareholder proposals requesting the Company adopt a simple majority vote and publish an annual report on prevention of workplace harassment and discrimination. The other five shareholder proposals presented at the meeting described below did not receive majority support. The final voting results for each item presented at the meeting are set forth below. Voting results are, when applicable, reported by rounding fractional share voting up or down to the nearest round number.
+Election of Director Nominees
+DIRECTOR
+FOR
+%
+1
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+Steven D. Black
+2,697,825,515
+92.70%
+212,601,589
+16,788,287
+349,412,800
+Mark A. Chancy
+2,843,135,462
+97.70%
+67,014,632
+17,065,297
+349,412,800
+Celeste A. Clark
+2,801,298,452
+96.20%
+110,651,961
+15,264,978
+349,412,800
+Theodore F. Craver, Jr.
+2,826,780,375
+97.14%
+83,271,471
+17,163,546
+349,412,800
+Richard K. Davis
+2,857,392,824
+98.19%
+52,813,906
+17,008,661
+349,412,800
+Wayne M. Hewett
+2,682,396,938
+92.17%
+227,872,474
+16,945,979
+349,412,800
+CeCelia (“CeCe”) G. Morken
+2,837,934,315
+97.49%
+73,213,616
+16,067,460
+349,412,800
+Maria R. Morris
+2,829,183,759
+97.16%
+82,608,747
+15,422,885
+349,412,800
+Felicia F. Norwood
+2,836,074,370
+97.41%
+75,362,401
+15,778,620
+349,412,800
+Richard B. Payne, Jr.
+2,826,858,215
+97.14%
+83,245,718
+17,111,458
+349,412,800
+Ronald L. Sargent
+2,791,796,084
+95.94%
+118,201,961
+17,217,346
+349,412,800
+Charles W. Scharf
+2,839,466,803
+97.54%
+71,736,049
+16,012,539
+349,412,800
+Suzanne M. Vautrinot
+2,814,544,235
+96.67%
+97,078,564
+15,592,592
+349,412,800
+Advisory Resolution to Approve Executive Compensation (Say on Pay)
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+2,694,651,626
+92.06%
+212,420,469
+20,143,296
+349,412,800
+Advisory Resolution on the Frequency of Future Advisory Votes to Approve Executive Compensation (Say on Frequency)
+EVERY YEAR
+%
+2
+EVERY 2 YEARS
+EVERY 3 YEARS
+ABSTENTIONS
+BROKER
+NON-VOTES
+2,864,227,865
+97.85%
+10,016,323
+42,526,020
+10,445,184
+349,412,800
+In accordance with the Board’s recommendation and the voting results on this advisory proposal, the Company will hold an annual advisory vote to approve the compensation of its named executives.
+Ratify the Appointment of KPMG LLP as the Company’s Independent Registered Public Accounting Firm for 2023
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+3,079,955,440
+94.00%
+184,922,050
+11,750,700
+—
+Shareholder Proposal – Adopt Simple Majority Vote
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+1,463,638,799
+50.00%
+1,445,330,742
+18,245,850
+349,412,800
+_________________________________
+1
+Votes cast for the proposal as a percentage of total votes cast for and against.
+2
+Votes cast for the proposal as a percentage of total votes cast for and against and abstentions.
+Shareholder Proposal – Report on Congruency of Political Spending
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+826,936,722
+28.25%
+2,072,243,068
+28,035,601
+349,412,800
+Shareholder Proposal – Climate Lobbying Report
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+937,616,378
+32.03%
+1,961,705,583
+27,893,430
+349,412,800
+Shareholder Proposal – Climate Transition Report
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+901,414,723
+30.79%
+1,997,595,188
+28,205,480
+349,412,800
+Shareholder Proposal – Fossil Fuel Lending Policy
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+248,827,799
+8.50%
+2,629,078,280
+49,309,312
+349,412,800
+Shareholder Proposal – Annual Report on Prevention of Workplace Harrassment and Discrimination
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+1,530,134,599
+52.27%
+1,250,639,775
+146,441,018
+349,412,800
+Shareholder Proposal – Policy on Freedom of Association and Collective Bargaining
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+997,300,155
+34.07%
+1,800,697,211
+129,218,026
+349,412,800
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated:
+April 26, 2023
+WELLS FARGO & COMPANY
+By:
+/s/ TANGELA S. RICHTER
+Tangela S. Richter
+Executive Vice President, Deputy General Counsel and Secretary

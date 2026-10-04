@@ -1,0 +1,115 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of report (Date of earliest event reported):
+July 24, 2024
+PFIZER INC
+.
+(Exact name of registrant as specified in its charter)
+Delaware
+1-3619
+13-5315170
+(State or other
+(Commission File
+(I.R.S. Employer
+jurisdiction of
+Number)
+Identification No.)
+incorporation)
+
+66 Hudson Boulevard East
+10001-2192
+New York,
+
+New York
+
+(Zip Code)
+(Address of principal executive offices)
+Registrant’s telephone number, including area code:
+(
+212
+)
+733-2323
+
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☒
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $.05 par value
+PFE
+New York Stock Exchange
+1.000% Notes due 2027
+PFE27
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 5.02
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+Modifications to Five-Year Total Shareholder Return Units and Performance Share Awards
+As disclosed in Item 8.01 of this Current Report, the Compensation Committee of our Board of Directors approved modifications to outstanding Five-Year Total Shareholder Return Units and Performance Share Awards granted in 2022 and 2023 to approximately 9,000 eligible participants including the following named executive officers – Albert Bourla, David M. Denton, Mikael Dolsten, Aamir Malik, Angela Hwang and Douglas M. Lankler.
+The information set forth under Item 8.01 of this Current Report is incorporated by reference into this Item 5.02.
+Item 8.01
+Other Events
+Modifications to Five-Year Total Shareholder Return Units and Performance Share Awards
+In order to retain key colleagues critical to the success of our business and ensure focus on long-term performance by linking their compensation to our total shareholder return, on July 24, 2024, the Compensation Committee (the Committee) of our Board of Directors approved modifications to outstanding Five-Year Total Shareholder Return Units (TSRUs) and Performance Share Awards (PSAs) granted in 2022 and 2023 to eligible active participants. The modifications will affect up to 9,000 active employees holding at least one of these grants, including the following named executive officers – Albert Bourla, David M. Denton, Mikael Dolsten, Aamir Malik, Angela Hwang and Douglas M. Lankler.
+Current outstanding TSRUs represent an important retention tool while aligning the interests of participants with shareholders by providing value tied to absolute total shareholder return.
+
+The Committee approved modifications to the Five-Year TSRUs granted to eligible participants in 2022 and 2023 to provide those participants the ability to elect to extend their respective terms by two additional years. If such an election is made, the settlement period for Five-Year TSRUs granted in 2022 will end in February 2029 rather than 2027, and the settlement period for Five-Year TSRUs granted in 2023 will end in February 2030 rather than 2028. In addition, the vesting period will be extended by two years so that these 2022 and 2023 TSRUs will now vest on the fifth anniversary of the grant date instead of the third anniversary. Further, the treatment of TSRUs in the event of a holder’s death will be updated, to provide for settlement based on the greater of binomial value or intrinsic value, which is consistent with the terms provided in the 2024 grants.
+
+All other terms of the 2022 and 2023 Five-Year TSRUs will remain unchanged.
+Current outstanding PSAs align rewards to both a strategic financial performance metric, adjusted net income, over three one-year periods, and relative total shareholder return (TSR) performance as compared to the NYSE Arca Pharmaceutical (DRG) Index over a cumulative three-year period. The modifications approved in respect of PSA awards granted in 2022 and 2023 provide eligible participants the ability to elect to modify the 2022 and 2023 PSAs, such that the three-year performance period for the PSAs will be extended by two years and the applicable performance will be measured over the final three years of the extended term. If such an election is made, the PSAs granted in 2022 will be vesting and settling in 2027 rather than 2025, and the PSAs granted in 2023 will be vesting and settling in 2028 rather than 2026. The Committee will determine the applicable adjusted net income goal for each of 2025, 2026 and 2027 in accordance with the terms of the program at the beginning of each respective one-year period. In addition, the performance range for the operating goal will be 0% – 200%, and the relative total shareholder return modifier will be capped at 25 percentage points, consistent with market practice but subject to the overall 200% maximum payout.
+
+Any payout is capped at target if total shareholder return is negative for the performance period. In addition, the treatment of PSAs in the event of a holder’s death will be updated to provide payouts based on a combination of actual performance and target performance, which is consistent with terms provided in the 2024 grants.
+
+All other terms of the 2022 and 2023 PSAs will remain unchanged.
+
+In approving the modifications described above, the Committee, in consultation with its independent compensation consultant, made its decision after careful consideration of its desire to ensure that the outstanding long-term incentive awards provide sufficient retentive value of key talent especially in light of the extraordinary impact of the COVID pandemic on the Company and its stock price, and continue the alignment of executives' interests with those of shareholders with a focus on stock price recovery.
+
+The Committee believes these changes are in the best interests of shareholders as they will provide further incentive to motivate and retain key colleagues and will continue to align pay with performance for a longer period of time.
+In order to implement the modifications, the Company will initiate a tender offer (the Modification Offer) to allow active colleagues to affirmatively accept the modification of their 2022 and 2023 Five-Year TSRUs and/or 2022 and 2023 PSAs, with such terms and conditions (consistent with the foregoing) as shall be set forth in the Modification Offer documents to be filed with the U.S. Securities and Exchange Commission.
+This communication is for informational purposes only and is not an offer nor a solicitation of an offer to exchange any of Pfizer’s securities. The Modification Offer has not yet commenced. The offer to modify will be made only pursuant to the Modification Offer and other related materials, which are expected to be made available to all eligible holders of the 2022 and 2023 Five-Year TSRUs and/or 2022 and 2023 PSAs shortly after commencement of the Modification Offer, at no expense to such holders. You should read those materials and the documents referenced therein carefully when they become available because they will contain important information, including the various terms and conditions of the Modification Offer. Pfizer will file a Tender Offer Statement on Schedule TO (Tender Offer Statement) with the U.S. Securities and Exchange Commission (SEC). The Tender Offer Statement, including the Modification Offer and other related materials, will be available, at no charge, via the Fidelity NetBenefits online portal, at our website https://pfizer.com/financial-information/sec-filings, and on the SEC’s website at www.sec.gov. Pfizer urges you to read those materials carefully prior to making any decisions with respect to the Modification Offer and recommends that you consult your tax and financial advisors to address questions regarding your decision.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit No.
+Exhibit Description
+Exhibit 99.1
+Email Announcement to Eligible Participants: Important Information Regarding Long-Term Incentive (TSRUs)
+Exhibit 99..2
+Email Announcement to Eligible Participants: Important Information Regarding Long-Term Incentive (PSAs)
+104
+Cover Page Interactive Data File--the cover page XBRL tags are embedded within the Inline XBRL document.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+PFIZER INC.
+
+Dated: July 26, 2024
+By:
+/s/ Margaret M. Madden
+
+Margaret M. Madden
+
+Senior Vice President and Corporate Secretary
+
+Chief Governance Counsel

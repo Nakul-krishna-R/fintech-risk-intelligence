@@ -1,0 +1,336 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported):
+January 19, 2021
+
+BROADCOM INC.
+
+(Exact Name of Registrant as Specified in Charter)
+
+Delaware
+
+001-38449
+
+35-2617337
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+1320 Ridder Park Drive
+,
+San Jose
+,
+California
+
+95131
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(408)
+
+433-8000
+
+(Registrant’s telephone number, including area code)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.001 par value
+
+AVGO
+
+The NASDAQ Global Select Market
+
+8.00% Mandatory Convertible Preferred Stock, Series A, $0.001 par value
+
+AVGOP
+
+The NASDAQ Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or
+Rule 12b-2 of
+the Securities Exchange Act of
+1934 (§ 240.12b-2 of
+this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01
+
+Entry into Definitive Material Agreement.
+
+On January 19, 2021, Broadcom Inc. (“Broadcom” or the “Company”), completed its issuance and sale of $10.0 billion in aggregate principal amount of senior unsecured notes (the “Offering”) comprised of $750 million aggregate principal amount of 1.950% senior notes due 2028 (the “2028 Notes”), $2,750 million aggregate principal amount of 2.450% senior notes due 2031 (the “2031 Notes”), $1,750 million aggregate principal amount of 2.600% senior notes due 2033 (the “2033 Notes”), $3,000 million aggregate principal amount of 3.500% senior notes due 2041 (the “2041 Notes”) and $1,750 million aggregate principal amount of 3.750% senior notes due 2051 (the “2051 Notes” and, together with the 2028 Notes, the 2031 Notes, the 2033 Notes and the 2041 Notes, the “Notes”). Each series of Notes will initially be fully and unconditionally guaranteed, jointly and severally, on an unsecured, unsubordinated basis by Broadcom Technologies Inc., a Delaware corporation and Broadcom Corporation, a California corporation (together, the “Guarantors”).
+
+Broadcom intends to use the net proceeds from the sale of the Notes to repay certain of its existing indebtedness, including funding the purchase of the Tender Offer Notes (defined below) and the payment of accrued and unpaid interest, premiums, if any, fees and expenses in connection therewith.
+
+Indenture
+
+The Notes were issued pursuant to an Indenture, dated as of January 19, 2021, among the Company, the Guarantors and Wilmington Trust, National Association, as trustee (the “Indenture”). Each series of Notes pays interest semi-annually in arrears on February 15 and August 15 of each year. The Notes were offered in a private placement to qualified institutional buyers pursuant to Rule 144A under the Securities Act of 1933, as amended (the “Securities Act”), and to certain
+non-U.S.
+persons in transactions outside of the United States in reliance on Regulation S under the Securities Act.
+
+Optional Redemption Provisions and Change of Control Purchase Right
+
+The Company may, at its option, redeem or purchase, in whole or in part, the 2028 Notes, the 2031 Notes, the 2033 Notes, the 2041 Notes and the 2051 Notes at any time prior to December 15, 2027 (two months prior to maturity), November 15, 2030 (three months prior to maturity), November 15, 2032 (three months prior to maturity), August 15, 2040 (six months prior to maturity) and August 15, 2050 (six months prior to maturity), respectively, at a price equal to 100% of the principal amount of the applicable Notes redeemed, plus a corresponding “make-whole” premium as set forth in the Indenture, plus accrued and unpaid interest thereon to, but excluding, the redemption date. In addition, the Company may, at its option, redeem or purchase, in whole or in part, the 2028 Notes, the 2031 Notes, the 2033 Notes, the 2041 Notes and the 2051 Notes on or after December 15, 2027 (two months prior to maturity), November 15, 2030 (three months prior to maturity), November 15, 2032 (three months prior to maturity), August 15, 2040 (six months prior to maturity) and August 15, 2050 (six months prior to maturity), respectively, at a redemption price equal to 100% of the principal amount of the applicable Notes redeemed, plus accrued and unpaid interest thereon, if any, to, but excluding, the redemption date.
+
+In the event that certain changes in the tax law of any relevant jurisdiction would impose withholding taxes on payments on the Notes, the Company may redeem a series of Notes in whole, but not in part, at any time, at a redemption price of 100% of the principal amount, plus accrued and unpaid interest thereon, if any, and Additional Amounts (as defined in the Indenture), if any, to the redemption date.
+
+The holders of the Notes will also have the right to require the Company to purchase their Notes upon the occurrence of a Change of Control Triggering Event, as defined in the Indenture, at an offer price equal to 101% of the aggregate principal amount of the Notes purchased plus accrued and unpaid interest thereon to, but excluding, the date of purchase.
+
+Ranking
+
+Under the terms of the Indenture, the Notes and the guarantees are the Company’s and the Guarantors’ respective senior unsecured obligations and (i) rank equal in right of payment with all of the Company’s and the Guarantors’ respective existing and future senior unsecured indebtedness, (ii) rank senior in right of payment to the Company’s and the Guarantors’ respective existing and future subordinated indebtedness, (iii) are effectively subordinated in right of payment to the Company’s and the Guarantors’ respective existing and future secured obligations, to the extent of the assets securing such obligations and (iv) are structurally subordinated in right of payment to any existing and future indebtedness or other liabilities, including trade payables, of the Company’s subsidiaries (excluding the Guarantors) and the Guarantors’ respective subsidiaries.
+
+Restrictive Covenants
+
+The Indenture contains covenants that, subject to certain qualifications and exceptions, limit the ability of the Company, the Guarantors and their subsidiaries to, among other things, (i) incur certain secured debt; (ii) enter into certain sale and lease-back transactions and (iii) consolidate, merge, sell or otherwise dispose of all or substantially all of their assets.
+
+Events of Default
+
+Upon the occurrence of an event of default under the Indenture with respect to the Notes, which includes payment defaults, defaults in the performance of certain covenants and bankruptcy and insolvency related defaults, the Company’s obligations under the Notes may be accelerated, in which case the entire principal amount of the Notes would be immediately due and payable.
+
+The foregoing description of the Indenture does not purport to be complete and is qualified in its entirety by reference to the full text of the Indenture. A copy of the Indenture is attached as Exhibit 4.1 to this Current Report on Form
+8-K,
+and is incorporated by reference herein.
+
+Registration Rights Agreement
+
+On January 19, 2021, the Company, the Guarantors and Morgan Stanley & Co. LLC, BNP Paribas Securities Corp., RBC Capital Markets, LLC, SMBC Nikko Securities America, Inc. and Truist Securities, Inc., as representatives of the several initial purchasers of the Notes, entered into a registration rights agreement with respect to the Notes (the “Registration Rights Agreement”). The Company and the Guarantors agreed under the Registration Rights Agreement to use commercially reasonable efforts to (i) file a registration statement on an appropriate registration form with respect to a registered offer to exchange each series of the Notes for new notes, with terms substantially identical in all material respects to such series of Notes and (ii) cause the registration statement to be declared effective under the Securities Act.
+
+If the exchange offer is not completed on or before January 19, 2026, the Company and the Guarantors will use commercially reasonable efforts to file and to have declared effective a shelf registration statement relating to resales of the Notes and keep such shelf registration statement effective until the date that the Notes cease to be Transfer Restricted Securities (as defined in the Registration Rights Agreement).
+
+If the Company and the Guarantors fail to satisfy this obligation with respect to a series of the Notes (a “registration default”) under the Registration Rights Agreement, then additional interest will accrue on the principal amount of the Notes of such series at an annual rate of 0.250%. The annual interest rate on such series of the Notes will increase by an additional 0.250% for each subsequent
+90-day
+period during which the registration default continues, up to a maximum of 1.000%. The additional interest will accrue to and including the date such registration default ends, at which time the interest rate on the applicable series of Notes will revert to the original level. A registration default ends with respect to any Notes when such Notes cease to be Transfer Restricted Securities.
+
+If the Company is required to pay additional interest due to a registration default, the Company will pay such additional interest to the holders of the Notes in cash on the same dates that the Company makes other interest payments on the Notes, until the applicable registration default is cured.
+
+The foregoing description of the Registration Rights Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Registration Rights Agreement. A copy of the Registration Rights Agreement is attached as Exhibit 4.7 to this Current Report on Form
+8-K,
+and is incorporated by reference herein.
+
+Credit Agreement
+
+On January 19, 2021 (the “Closing Date”), the Company entered into a Credit Agreement with the lenders and L/C issuers named therein, Bank of America, N.A., as administrative agent, and the other parties from time to time party thereto (the “Credit Agreement”). The Credit Agreement provides for a $7.5 billion unsecured revolving credit facility (the “Revolving Facility”). The Company’s obligations under the Credit Agreement are guaranteed on an unsecured basis by the Guarantors. The proceeds of any borrowings under the Revolving Facility will be used for general corporate purposes. Amounts outstanding under the Company’s Existing Credit Agreements (as defined in Item 1.02 below) were repaid, and the Existing Credit Agreements were terminated in connection with, and as a condition to, entering into the Credit Agreement, as discussed in more detail in Item 1.02 below.
+
+The Revolving Facility is a five-year unsecured revolving facility. The aggregate commitment of all revolving lenders under the Credit Agreement is equal to $7.5 billion, of which up to $500 million may be utilized for the issuance of multicurrency letters of credit. The issuance of letters of credit reduces the aggregate amount otherwise
+
+available under the Revolving Facility for the making of revolving loans. Subject to the terms of the Credit Agreement, the Company may borrow, repay and reborrow revolving loans at any time prior to the earlier of (a) the fifth anniversary of the Closing Date, and (b) the date of termination in whole of the revolving lenders’ commitments under the Credit Agreement in accordance with the terms thereof. The Company had no borrowings outstanding under the Revolving Facility on the Closing Date.
+
+Borrowings under the Revolving Facility will bear interest at a fluctuating rate per annum equal to, at the Company’s option, the alternate base rate or the reserve adjusted Eurocurrency rate, in each case, plus an applicable margin that is calculated based on the Company’s credit ratings from time to time. In addition, the Company will also pay to the lenders under the Credit Agreement certain customary fees, including a commitment fee on the daily actual excess of each lender’s revolving commitment over its outstanding revolving credit exposure under the Credit Agreement, calculated based on the Company’s credit ratings from time to time.
+
+Voluntary prepayments of the loans and voluntary reductions of the unutilized portion of the revolving commitments under the Credit Agreement are permissible without penalty (other than customary Eurocurrency loan breakage), subject to certain conditions pertaining to minimum notice and minimum reduction amounts as described in the Credit Agreement.
+
+The Credit Agreement contains representations and warranties and affirmative and negative covenants customary for unsecured financings of this type, as well as a financial covenant requiring that, as of the last day of each fiscal quarter, commencing with the first
+quarter-end
+after the Closing Date, the Company’s Consolidated Interest Coverage Ratio (as defined in the Credit Agreement) shall not be less than 3.00:1.00, as more fully described in the Credit Agreement.
+
+The Credit Agreement also contains various events of default (subject to grace periods, as applicable) including among others: nonpayment of principal, interest or fees; breach of covenant; payment default on, or acceleration under, certain other material indebtedness; inaccuracy of the representations or warranties in any material respect; bankruptcy or insolvency; certain unsatisfied judgments; certain ERISA violations; the occurrence of a change of control; and the invalidity or unenforceability of the Credit Agreement or certain other documents executed in connection therewith.
+
+The foregoing description of the Credit Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Credit Agreement attached hereto as Exhibit 10.1 and incorporated herein by reference.
+
+Many of the lenders under the Credit Agreement and/or their affiliates have performed, and may in the future perform, investment banking, financial advisory, lending, hedging, cash management and/or commercial banking services, or other services in the ordinary course of business for the Company and its subsidiaries (including in connection with the transactions described in this Current Report on Form
+8-K),
+for which they have received, and may in the future receive, customary compensation and expense reimbursement.
+
+Item 1.02
+
+Termination of a Definitive Material Agreement.
+
+In connection with the consummation of the Offering and the Company’s entry into the Credit Agreement, on the Closing Date the Company terminated all outstanding commitments and repaid all outstanding obligations, as applicable, under each of (a) the Credit Agreement, dated as of May 7, 2019 (the “May 2019 Credit Agreement”), among the Company, the lenders and L/C issuers named therein, Bank of America, N.A., as administrative agent, and the other parties from time to time party thereto and (b) the Credit Agreement, dated as of November 4, 2019 (the “November 2019 Credit Agreement”, and together with the May 2019 Credit Agreement, the “Existing Credit Agreements”), among the Company, the lenders named therein, Bank of America, N.A., as administrative agent, and the other parties from time to time party thereto.
+
+The May 2019 Credit Agreement originally provided for a $5.0 billion unsecured revolving credit facility, a $2.0 billion unsecured term
+A-3
+facility, a $2.0 billion unsecured term
+A-5
+facility and a $2.0 billion unsecured term
+A-7
+facility. The November 2019 Credit Agreement originally provided for a $7.75 billion unsecured
+term A-3 facility
+and a $7.75 billion unsecured
+term A-5 facility.
+Immediately prior to the termination and prepayment, as applicable, of the Existing Credit Agreements, the Company had outstanding no borrowings under the May 2019 Credit Agreement and $1,818,750,000 in aggregate principal amount of loans under the term
+A-3
+facility and $4,068,750,000 in aggregate principal amount of loans under the term
+A-5
+facility under the November 2019 Credit Agreement. Absent termination and prepayment, as applicable, the revolving facility under the May 2019 Credit Agreement would have matured in 2024 and the term
+A-3
+facility and term
+A-5
+facility under the November 2019
+
+Credit Agreement would have matured in 2022 and 2024, respectively. Borrowings under the Existing Credit Agreements bore interest at a fluctuating rate per annum equal to, at the Company’s option, the alternate base rate or the reserve adjusted Eurocurrency rate, in each case, plus an applicable margin that varied by facility and that was calculated based on the Company’s credit ratings from time to time.
+
+Many of the lenders under the Existing Credit Agreements and/or their affiliates have in the past performed, and may in the future from time to time perform, investment banking, financial advisory, lending, hedging, cash management and/or commercial banking services, or other services in the ordinary course of business for the Company and its subsidiaries (including in connection with the transactions described in this Current Report on Form
+8-K),
+for which they have received, and may in the future receive, customary compensation and expense reimbursement.
+
+Item 2.03
+
+Creation of a Direct Financial Obligation or an Obligation under an
+Off-Balance
+Sheet Arrangement of a Registrant.
+
+The description contained under Item 1.01 above is hereby incorporated by reference in its entirety into this Item 2.03.
+
+Item 8.01
+
+Other Events.
+
+In a press release issued on January 19, 2021, Broadcom announced the early results of its previously announced cash tender offers (the “Tender Offers”) to purchase the outstanding notes described below, in each case subject to certain terms and conditions set forth in the Offer to Purchase and Solicitation of Consents dated January 4, 2021, as amended and supplemented (the “Statement”), market conditions and other factors. The notes offered to be purchased in the Tender Offers, listed in the order of priority, are the (i) 3.125% senior notes due 2021 of Broadcom Inc., (ii) 3.000% senior notes due 2022 of Broadcom Corporation, (iii) 3.600% senior notes due 2022 of CA, Inc., (iv) 3.125% senior notes due 2022 of Broadcom Inc., (v) 2.650% senior notes due 2023 of Broadcom Corporation, (vi) 4.500% senior notes due 2023 of CA, Inc. and (vii) 2.250% senior notes due 2023 of Broadcom Inc. (the “Tender Offer Notes”), up to an aggregate purchase price, excluding accrued and unpaid interest, of $3.5 billion.
+
+The foregoing description is qualified in its entirety by reference to the press release dated January 19, 2021, a copy of which is attached hereto as Exhibit 99.1.
+
+This Current Report on
+Form 8-K is
+not an offer to purchase or sell or a solicitation of an offer to purchase or sell, with respect to any securities.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This report contains forward-looking statements (including within the meaning of Section 21E of the United States Securities Exchange Act of 1934, as amended, and Section 27A of the United States Securities Act of 1933, as amended) concerning Broadcom. These statements include, but are not limited to, statements that address our expected future business and financial performance and other statements identified by words such as “will”, “expect”, “believe”, “anticipate”, “estimate”, “should”, “intend”, “plan”, “potential”, “predict” “project”, “aim”, and similar words, phrases or expressions. These forward-looking statements are based on current expectations and beliefs of the management of Broadcom, as well as assumptions made by, and information currently available to, such management, current market trends and market conditions and involve risks and uncertainties, many of which are outside the Company’s and management’s control, and which may cause actual results to differ materially from those contained in forward-looking statements. Accordingly, you should not place undue reliance on such statements.
+
+Particular uncertainties that could materially affect future results include risks associated with: the
+COVID-19
+pandemic, which has, and will likely continue to, negatively impact the global economy and disrupt normal business activity, and which may have an adverse effect on our results of operations; any loss of our significant customers and fluctuations in the timing and volume of significant customer demand; our dependence on contract manufacturing and outsourced supply chain; our dependency on a limited number of suppliers; global economic conditions and concerns; global political and economic conditions; government regulations, trade restrictions and trade tensions; our significant indebtedness and the need to generate sufficient cash flows to service and repay such debt; dependence on and risks associated with distributors and resellers of our products; dependence on senior management and our ability to attract and retain qualified personnel; any acquisitions we may make, such as delays, challenges and expenses associated with receiving governmental and regulatory approvals and satisfying other closing conditions, and with integrating acquired businesses with our existing businesses and our ability to
+
+achieve the benefits, growth prospects and synergies expected by such acquisitions; involvement in legal or administrative proceedings; quarterly and annual fluctuations in operating results; our ability to accurately estimate customers’ demand and adjust our manufacturing and supply chain accordingly; cyclicality in the semiconductor industry or in our target markets; our competitive performance and ability to continue achieving design wins with our customers, as well as the timing of any design wins; prolonged disruptions of our or our contract manufacturers’ manufacturing facilities, warehouses or other significant operations; our ability to improve our manufacturing efficiency and quality; our dependence on outsourced service providers for certain key business services and their ability to execute to our requirements; our ability to maintain or improve gross margin; our ability to protect our intellectual property and the unpredictability of any associated litigation expenses; compatibility of our software products with operating environments, platforms or third-party products; our ability to enter into satisfactory software license agreements; availability of third party software used in our products; use of open source code sources in our products; any expenses or reputational damage associated with resolving customer product warranty and indemnification claims; market acceptance of the end products into which our products are designed; our ability to sell to new types of customers and to keep pace with technological advances; our compliance with privacy and data security laws; our ability to protect against a breach of security systems; fluctuations in foreign exchange rates; our provision for income taxes and overall cash tax costs, legislation that may impact our overall cash tax costs and our ability to maintain tax concessions in certain jurisdictions; and other events and trends on a national, regional and global scale, including those of a political, economic, business, competitive and regulatory nature. Many of the foregoing risks and uncertainties are, and will be, exacerbated by the
+COVID-19
+pandemic and any worsening of the global business and economic environment as a result.
+
+Our filings with the SEC, which you may obtain for free at the SEC’s website at http://www.sec.gov, discuss some of the important risk factors that may affect our business, results of operations and financial condition. Actual results may vary from the estimates provided. We undertake no intent or obligation to publicly update or revise any of the estimates and other forward-looking statements made in this announcement, whether as a result of new information, future events or otherwise, except as required by law.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+No.
+
+Description
+
+4.1
+
+Indenture, dated as of January 19, 2021, by and among the Company, the Guarantors and Wilmington Trust, National Association, as trustee.
+
+4.2
+
+Form of 1.950% Senior Notes due 2028 (included in Exhibit 4.1).
+
+4.3
+
+Form of 2.450% Senior Notes due 2031 (included in Exhibit 4.1).
+
+4.4
+
+Form of 2.600% Senior Notes due 2033 (included in Exhibit 4.1).
+
+4.5
+
+Form of 3.500% Senior Notes due 2041 (included in Exhibit 4.1).
+
+4.6
+
+Form of 3.750% Senior Notes due 2051 (included in Exhibit 4.1).
+
+4.7
+
+Registration Rights Agreement, dated as of January 19, 2021, by and among the Company, the Guarantors and Morgan Stanley & Co. LLC, BNP Paribas Securities Corp., RBC Capital Markets, LLC, SMBC Nikko Securities America, Inc. and Truist Securities, Inc., as representatives of the several initial purchasers of the Notes.
+
+10.1
+
+Credit Agreement, dated as of January 19, 2021, among the Company, the lenders and other parties party thereto, and Bank of America, N.A., as Administrative Agent.
+
+99.1
+
+Press release, dated January 19, 2021, entitled “Broadcom Inc. Announces Early Results of Previously Announced Debt Tender Offers.”
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+BROADCOM INC.
+
+Date: January 19, 2021
+
+By:
+
+/s/ Kirsten Spears
+
+Name:
+
+Kirsten Spears
+
+Title:
+
+Chief Financial Officer

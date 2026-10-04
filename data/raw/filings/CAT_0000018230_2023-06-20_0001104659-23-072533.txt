@@ -1,0 +1,503 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+
+8-K
+
+Current Report
+
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+
+June 14, 2023
+
+CATERPILLAR INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+1-768
+
+37-0602744
+
+(State or other jurisdiction of
+
+incorporation)
+
+(Commission
+File Number)
+
+(I.R.S
+Employer
+
+Identification No.)
+
+5025 N. O’Connor Boulevard
+
+Suite 100
+,
+
+Irving
+,
+
+Texas
+
+75039
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including
+area code:
+(
+972
+)
+891-7700
+
+Former name or former address, if changed since
+last report:
+N/A
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol (s)
+
+Name of each exchange which
+
+registered
+
+Common Stock ($1.00 par value)
+
+CAT
+
+The New York Stock Exchange
+
+5.3% Debentures due September 15, 2035
+
+CAT35
+
+The New York Stock Exchange
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined by Rule 405 of the Securities Act of 1933 (17 CFR §230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (17 CFR §240.12b-2 of this chapter).
+
+Emerging growth company
+¨
+
+If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section 13(a) of the Exchange Act.
+¨
+
+Item 5.02
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of
+Certain Officers
+
+On June 14, 2023, Caterpillar Inc. (the
+“Company”) held a virtual 2023 Annual Shareholders Meeting (the “Annual Meeting”), whereupon the Company’s
+shareholders approved the
+C
+aterpillar Inc. 2023 Long-Term Incentive Plan (the "Plan").
+The Plan was previously approved by the Company’s Board of Directors, subject to shareholder approval, and became effective as of
+such shareholder approval. A description of the material features of the Plan is set forth in the Company’s definitive proxy statement
+for the Annual Meeting filed with the Securities and Exchange Commission on May 1, 2023 (the “Proxy Statement”) under the
+heading “
+Proposal 5 – Approval of Caterpillar Inc. 2023 Long-Term Incentive Plan,
+” which is incorporated herein by reference.
+The description of the Plan incorporated herein by reference does not purport to be complete and is qualified in its entirety by reference
+to the full text of the Plan, which is included as Appendix A to the Proxy Statement and incorporated by reference as Exhibit 10.1 to
+this Form 8-K.
+
+Item 5.07
+Submission of Matters to a Vote of Security Holders
+
+Set forth below are the voting results for each of the matters submitted
+to a vote of the Company’s shareholders at the Annual Meeting.
+
+Proposal 1 - Company Proposal - Election of Directors
+
+All nominees for election to the Company’s Board of Directors
+named in the Proxy Statement were elected, each to a one-year term, with the following vote:
+
+Director
+
+For
+
+Against
+
+Abstain
+
+Broker Non-Votes
+
+Kelly A. Ayotte
+
+337,153,577
+
+26,152,270
+
+1,006,370
+
+77,106,982
+
+David L. Calhoun
+
+346,579,592
+
+16,528,916
+
+1,203,075
+
+77,106,982
+
+Daniel M. Dickinson
+
+338,028,087
+
+25,088,162
+
+1,195,968
+
+77,106,982
+
+James C. Fish, Jr.
+
+359,142,893
+
+3,419,332
+
+1,749,992
+
+77,106,982
+
+Gerald Johnson
+
+352,698,931
+
+10,450,262
+
+1,163,025
+
+77,106,982
+
+David W. MacLennan
+
+352,864,097
+
+10,238,729
+
+1,209,391
+
+77,106,982
+
+Judith F. Marks
+
+357,546,076
+
+4,757,086
+
+2,009,055
+
+77,106,982
+
+Debra L. Reed-Klages
+
+351,717,023
+
+11,231,803
+
+1,363,391
+
+77,106,982
+
+Susan C. Schwab
+
+347,508,232
+
+15,859,588
+
+944,396
+
+77,106,982
+
+D. James Umpleby III
+
+340,583,197
+
+22,564,980
+
+1,164,040
+
+77,106,982
+
+Rayford Wilkins, Jr.
+
+351,375,110
+
+11,855,308
+
+1,081,800
+
+77,106,982
+
+Proposal 2 - Company Proposal - Ratification of Independent Registered
+Accounting Firm
+
+The proposal requesting ratification of the appointment of PricewaterhouseCoopers
+LLP as the Company’s independent registered public accounting firm for 2023 was approved with the following vote:
+
+For
+
+Against
+
+Abstain
+
+422,584,139
+
+17,764,420
+
+1,070,640
+
+Proposal 3 - Company Proposal - Advisory Vote on Executive Compensation
+
+The proposal requesting that the shareholders of the Company approve
+executive compensation, on an advisory basis, was approved with the following vote:
+
+For
+
+Against
+
+Abstain
+
+Broker Non-Votes
+
+337,625,659
+
+24,751,142
+
+1,935,416
+
+77,106,982
+
+Proposal 4 - Company Proposal - Advisory Vote on the Frequency
+of Executive Compensation Votes
+
+The proposal requesting that the shareholders of the Company approve
+executive compensation, on an advisory basis, every one, two or three years received the following votes:
+
+One Year
+
+Two Years
+
+Three Years
+
+Abstain
+
+Broker Non-Votes
+
+354,150,471
+
+1,253,898
+
+7,540,750
+
+1,367,098
+
+77,106,982
+
+Consistent with a majority of votes cast with
+respect to this proposal and with the recommendation of the Board of Directors, the Company will hold a shareholder advisory vote on executive
+compensation annually until the next required vote on the frequency of shareholder votes on executive compensation.
+
+Proposal 5 – Company Proposal – Approval of Caterpillar
+Inc. 2023 Long-Term Incentive Plan
+
+The proposal requesting that the shareholders of the Company approve
+the Plan was approved with the following vote:
+
+For
+
+Against
+
+Abstain
+
+Broker Non-Votes
+
+343,730,656
+
+18,868,155
+
+1,708,848
+
+77,106,982
+
+Proposal 6 - Shareholder Proposal - Report on Corporate Climate
+Lobbying in Line with Paris Agreement
+
+The proposal requesting that the Board of Directors issue a report
+describing if, and how, Company lobbying and policy influence activities align with the goal of the Paris Agreement to limit average global
+warming was not approved based on the following vote:
+
+For
+
+Against
+
+Abstain
+
+Broker Non-Votes
+
+102,172,952
+
+257,373,570
+
+4,765,695
+
+77,106,982
+
+Proposal 7 - Shareholder Proposal - Lobbying Disclosure
+
+The proposal requesting the Board of Directors annually provide additional
+disclosure on the Company’s direct and indirect lobbying and grassroots policy and procedures, payments and decision-making processes
+was not approved based on the following vote:
+
+For
+
+Against
+
+Abstain
+
+Broker Non-Votes
+
+105,105,356
+
+254,563,554
+
+4,643,307
+
+77,106,982
+
+Proposal 8 - Shareholder Proposal - Report on Activities in Conflict-Affected
+Areas
+
+The proposal requesting that the Company report on business activities
+in conflict-affected and high-risk areas was not approved based on the following vote:
+
+For
+
+Against
+
+Abstain
+
+Broker Non-Votes
+
+51,666,560
+
+307,250,497
+
+5,395,160
+
+77,106,982
+
+Proposal 9 - Shareholder Proposal - Civil Rights, Non-Discrimination
+and Return to Merits Audit
+
+The proposal requesting that the Board of Directors commission an audit
+analyzing the impacts of the Company’s Diversity, Equity & Inclusion policies was not approved based on the following vote:
+
+For
+
+Against
+
+Abstain
+
+Broker Non-Votes
+
+6,236,964
+
+353,646,222
+
+4,429,032
+
+77,106,982
+
+Item 7.01 Regulation FD Disclosure
+
+On June 14, 2023, the Board of Directors declared a quarterly cash
+dividend of one dollar and thirty cents ($1.30) per share of Company common stock, payable on August 18, 2023 to shareholders of record
+at the close of business on July 20, 2023. The per share dividend of $1.30 is an increase of ten cents from the previous quarterly dividend
+of $1.20 per share. On the same date, the Company issued a press release announcing the dividend increase. A copy of the press release
+is attached hereto as Exhibit 99.1.
+
+The information in this Current Report on Form 8-K, including Exhibit
+99.1 is being furnished in accordance with the provisions of General Instructions B.2 of Form 8-K.
+
+Item 9.01
+Financial Statements and Exhibits
+
+(d)
+
+Exhibits.
+
+Exhibit
+
+Number
+
+Description
+
+10.1
+
+Caterpillar Inc. 2023 Long-Term Incentive Plan
+
+99.1
+
+Caterpillar Inc. press release dated June 14, 2023
+
+104
+
+The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+CATERPILLAR INC.
+
+June 20, 2023
+
+By:
+
+/s/ Suzette M. Long
+
+Suzette M. Long
+
+Chief Legal Officer and General Counsel

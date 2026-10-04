@@ -1,0 +1,73 @@
+UNITED STATES
+SECURITIES AND EXCHANGE
+
+COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+November 4, 2024
+COSTCO WHOLESALE CORPORATION
+(Exact name of registrant as specified in its charter)
+Washington
+0-20355
+91-1223280
+(State or other jurisdiction
+of incorporation)
+(Commission
+File No.)
+(I.R.S. Employer
+Identification No.)
+999 Lake Drive
+Issaquah
+,
+WA
+
+98027
+(Address of principal executive offices and zip code)
+Registrant’s telephone number, including area code:
+425
+-
+313-8100
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $.005 per share
+COST
+NASDAQ
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.02.
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On November 4, 2024, the Compensation Committee of the Board of Directors approved the fiscal 2025 criteria for bonuses to executive officers, with the Nominating and Governance Committee of the Board also approving the environmental and social performance criteria. Executive officers other than the Chief Executive Officer are eligible to receive bonuses up to $232,000. This amount includes $80,000 based on targets relating to sales and $80,000 based on targets relating to pre-tax income. The potential payment attributable to each of these performance goals may be from zero to up to 120% of the target amount, based on the level of achievement. In addition, up to $40,000 can be earned relating to environmental and social objectives: $24,000 relating to achievement of quantitative performance metrics (including metrics concerning diversity equity and inclusion, resource consumption, and other emissions and environmental-related areas); and up to $16,000 based on a discretionary assessment by the Chief Executive Officer of the officers’ environmental and social achievements (including, without limitation, progress in controlling emissions).
+For fiscal 2025, the Chief Executive Officer is eligible to receive a bonus of up to $700,000. This amount includes $250,000 based on targets relating to sales and $250,000 based on targets relating to pre-tax income. The potential payment attributable to each of these performance goals may be from zero to up to 120% of the target amount, based on the level of achievement. In addition, $100,000 can be earned relating to environmental and social objectives for achievement of quantitative performance metrics (as discussed above).
+A copy of the Fiscal 2025 Executive Bonus Plan is attached as Exhibit 10.1.
+Item 9.01.
+Financial Statements and Exhibits.
+(d) Exhibits.
+10.1.
+Fiscal 2025 Executive Bonus Plan.
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document).
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+COSTCO WHOLESALE CORPORATION
+Dated: November 7, 2024
+By:
+/s/ John Sullivan
+John Sullivan
+Executive Vice President, General Counsel and Secretary

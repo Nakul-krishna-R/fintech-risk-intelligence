@@ -1,0 +1,169 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d) OF
+
+THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported):
+February 15, 2022
+
+INTEL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+000-06217
+
+94-1672743
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+2200 Mission College Blvd.
+,
+Santa Clara
+,
+California
+
+95054-1549
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+(408)
+
+765-8080
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock, $0.001 par value
+
+INTC
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On February 15, 2022, Intel Corporation, a Delaware corporation (“Intel”), issued a joint press release with Tower Semiconductor Ltd., a company organized under the laws of the State of Israel (“Tower”), announcing the execution of an Agreement and Plan of Merger (the “Merger Agreement”), dated as of February 15, 2022, by and among Intel, Intel FS Inc., a Delaware corporation and a wholly owned subsidiary of Intel, Steel Titanium 2022 Ltd., a company organized under the laws of the State of Israel and a wholly owned subsidiary of Intel FS Inc. (“Merger Sub”), and Tower. The full text of the joint press release is attached hereto as Exhibit 99.1 and incorporated herein by reference.
+
+In addition, on February 15, 2022, Intel and Tower also held a conference call for analysts and investors.
+
+The information in Item 7.01 of this Report and the press release attached hereto as Exhibit 99.1 are furnished and shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+
+Forward-Looking Statements
+
+This document contains certain forward-looking statements within the meaning of the “safe harbor” provisions of the United States Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, related to the proposed transaction between Intel and Tower Semiconductor, including statements regarding the benefits and the timing of the transaction as well as statements regarding the companies’ products and markets. Words such as “anticipate,” “believe,” “could,” “estimate,” “expect,” “forecast,” “intend,” “likely,” “may,” “plan,” “potential,” “project,” “predict,” “seek,” “should,” “target,” “would” and “will” and variations of such words and similar expressions are intended to identify such forward-looking statements. Such statements are based on management’s expectations as of the date they were first made and involve risks and uncertainties that could cause our actual results to differ materially from those expressed or implied in our forward-looking statements. Such risks and uncertainties include, among others, the risk that the transaction may not be completed in a timely manner or at all, which may adversely affect the companies’ businesses and the price of their securities; uncertainties as to the timing of the consummation of the transaction and the potential failure to satisfy the conditions to the consummation of the transaction, including the receipt of certain governmental and regulatory approvals; the potential for regulatory authorities to require divestitures, behavioral remedies or other concessions in order to obtain their approval of the proposed transaction; the occurrence of any event, change or other circumstance that could give rise to the termination of the merger agreement; the effect of the announcement or pendency of the transaction on Intel’s business relationships, operating results, and business generally; delays, disruptions or increased costs in the integration of Tower Semiconductor’s technology into existing or new products; the potential that Tower Semiconductor shareholders may not approve the transaction; expected benefits, including financial benefits, of the transaction may not be realized; integration of the acquisition post-closing may not occur as anticipated, and the combined companies’ ability to achieve the growth prospects and synergies expected from the transaction, as well as delays, challenges and expenses associated with integrating the combined companies’ existing businesses may incur; litigation related to the transaction or otherwise; unanticipated restructuring costs may be incurred or undisclosed liabilities assumed; attempts to retain key personnel and customers may not succeed; risks related to diverting management’s attention from Intel’s ongoing business operations; exposure to inflation, currency rate and interest rate fluctuations and risks associated with doing business locally and internationally, as well as fluctuations in the market price of Intel and Tower Semiconductor’s traded securities; the impact of the
+COVID-19
+pandemic on Intel and Tower Semiconductor’s business and general economic conditions; demands in Tower Semiconductor’s customer end markets and for Tower Semiconductor’s foundry services and/or products that exceed Tower Semiconductor’s capacity; ongoing or potential litigations or disputes, incidental to the conduct of Tower Semiconductor’s ongoing business, with customers, suppliers, landlords, or other third parties; the business combination or the combined company’s products may not be supported by third parties; actions by competitors may negatively impact results; potential adverse reactions or changes to business relationships resulting from the announcement or completion of the transaction; potential negative changes in general economic conditions in the regions or the industries in which Intel and Tower Semiconductor operate; potential failure to meet the conditions set in the approval certificates received from the Israeli Investment Center under which Tower Semiconductor received a significant amount of grants in past years; exposure to inflation, currency rates (mainly the Israeli Shekel and Japanese Yen); and other risks detailed in Intel’s and Tower Semiconductor’s filings with the Securities and Exchange Commission (the “SEC”) including those discussed in Intel’s most recent Annual Report on Form
+10-K
+and in any subsequent periodic
+
+reports on Form
+10-Q
+and Form
+8-K
+and Tower Semiconductor’s most recent Annual Report on Form
+20-F
+and in any subsequent reports on Form
+6-K,
+each of which is on file with or furnished to the SEC and available at the SEC’s website at www.sec.gov. SEC filings for Intel are also available on Intel’s Investor Relations website at www.intc.com, and SEC filings for Tower Semiconductor are available in the Investor Relations section of Tower Semiconductor’s website at ir.towersemi.com. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of their dates. Unless otherwise required by applicable law, Intel and Tower Semiconductor undertake no obligation and do not intend to update these forward-looking statements, whether as a result of new information, future events or otherwise.
+
+Additional Information and Where to Find It
+
+This communication is being made in respect of the proposed transaction. Tower Semiconductor intends to furnish to the SEC and mail or otherwise provide to its shareholders a proxy statement in connection with the proposed transaction with Intel (the “proxy statement”), and each party will file or furnish other documents regarding the proposed transaction with the SEC. The proxy statement will be sent or given to the shareholders of Tower Semiconductor and will contain important information about the proposed transaction and related matters. This communication is not a substitute for the proxy statement or any other document that may be filed or furnished by Tower Semiconductor with the SEC. Investors and security holders are urged to read the proxy statement in its entirety and other relevant documents filed with or furnished to the SEC in connection with the proposed transaction or incorporated by reference therein when they become available before making any voting or investment decision with respect to the proposed transaction because they will contain important information about the proposed transaction and the parties to the proposed transaction.
+
+You may obtain copies of all documents filed with or furnished to the SEC regarding this transaction, free of charge, at the SEC’s website (www.sec.gov). In addition, investors and shareholders will be able to obtain free copies of the proxy statement and other documents filed with or furnished to the SEC by Intel on Intel’s Investor Relations website (www.intc.com) or by writing to Intel, Investor Relations, 2200 Mission College Blvd., Santa Clara, CA 95054 (for documents filed with the SEC by Intel), or by Tower Semiconductor on Tower Semiconductor’s Investor Relations website (ir.towersemi.com) or by writing to Tower Semiconductor, Corporate Secretary, 20 Shaul Amor Street, Ramat Gavriel Industrial Park, P.O. Box 619, Migdal Haemek 2310502, Israel (for documents filed with or furnished to the SEC by Tower Semiconductor).
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+The following exhibits are provided as part of this report:
+
+Exhibit
+Number
+
+Description
+
+99.1
+
+Joint Press Release issued by Intel Corporation and Tower Semiconductor Ltd., dated February 15, 2022.
+
+104
+
+Cover Page Interactive Data File, formatted in Inline XBRL and included as Exhibit 101.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+INTEL CORPORATION
+
+(Registrant)
+
+/s/ Susie Giordano
+
+Susie Giordano
+
+Date: February 15, 2022
+
+Interim General Counsel, Corporate Vice President and Corporate Secretary

@@ -1,0 +1,99 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+January 30, 2023
+
+VISA INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+Delaware
+
+001-33977
+
+26-0267673
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+Identification No.)
+
+P.O. Box 8999
+
+San Francisco,
+California
+
+94128-8999
+(Address of Principal Executive Offices)
+(Zip Code)
+Registrant’s Telephone Number, Including Area Code: (
+650
+)
+432-3200
+
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Class A Common Stock, par value $0.0001 per share
+V
+New York Stock Exchange
+1.500% Senior Notes due 2026
+V26
+New York Stock Exchange
+2.000% Senior Notes due 2029
+V29
+New York Stock Exchange
+2.375% Senior Notes due 2034
+V34
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.02
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On January 30, 2023, the board of directors (the "Board") of Visa Inc. (the "Company"), upon the recommendation of the Board's Nominating and Corporate Governance Committee, approved an increase in the size of the Board from 10 to 11 members and the appointment of Ryan McInerney to the Board, effective February 1, 2023, for a term that will expire at the Company's 2024 Annual Meeting of Stockholders.
+There are no arrangements or understandings between Mr. McInerney and any other persons pursuant to which he was selected as a director. As previously announced, there are no transactions involving the Company and Mr. McInerney that the Company would be required to report pursuant to Item 404(a) of Regulation S-K.
+The Company previously entered into an indemnification agreement with Mr. McInerney. Such form of indemnification agreement was included as Exhibit 10.1 to the Company’s Quarterly Report on Form 10-Q, filed with the SEC on January 31, 2020, and is incorporated herein by reference.
+The Company previously announced on November 17, 2022 that the Board unanimously elected Mr. McInerney to succeed Alfred F. Kelly, Jr. as the Company’s Chief Executive Officer and that Mr. Kelly would continue to serve the Company as Executive Chairman of the Board, both effective February 1, 2023.
+In connection with his appointment to Chief Executive Officer, Mr. McInerney will receive an annual base salary of $1,400,000 effective February 1, 2023; will be eligible to participate in the Visa Inc. Incentive Plan (“VIP”) with a target opportunity of 250% and a maximum opportunity of 500% of his annual base salary in effect at the end of the Company’s 2023 fiscal year; and will receive a one-time equity award with a value of $3,000,000, consisting of 50% performance shares, 25% stock options, and 25% restricted stock units, reflecting the typical mix of equity awards granted to the Company’s executive officers. The performance shares will vest on February 15, 2026, subject to the Company’s performance in fiscal years 2023 through 2025; the stock options and restricted stock units will vest one-third per year on each of the first three annual anniversaries of the grant date. Mr. McInerney will be required to use company-provided private aircraft for all business and personal air travel, provided that an independent security firm recommends such use based upon a finding of a bona fide business-oriented security concern. Mr. McInerney and the Company will enter into a time-sharing agreement requiring that Mr. McInerney reimburse the Company for personal use of the aircraft in excess of $250,000 per fiscal year.
+In connection with his transition to the new full-time role of Executive Chairman, Mr. Kelly will receive an annual base salary of $1,250,000 effective February 1, 2023, and will be eligible to participate in the VIP plan with a target opportunity of 250% and a maximum opportunity of 500% of his base salary, with the applicable salaries pro-rated for the portion of the 2023 fiscal year that Mr. Kelly serves in the Chief Executive Officer and Executive Chairman roles. The Company and Mr. Kelly have not determined the length of Mr. Kelly’s term as Executive Chairman. Consistent with the terms of the VIP plan, if Mr. Kelly’s eventual departure qualifies as a “Retirement” within the meaning of the plan, Mr. Kelly will receive a pro-rated target annual incentive under the plan for the fiscal year of departure. If Mr. Kelly’s eventual departure from the Company does not qualify as a Retirement, Mr. Kelly will be eligible to receive a cash payment equivalent to a pro-rated amount of his target annual incentive under the VIP plan for the year of departure. Mr. Kelly will continue to be required to use company-provided private aircraft for all business and personal air travel, based upon an independent security assessment. Mr. Kelly and the Company will enter into an amended time-sharing agreement requiring that Mr. Kelly reimburse the Company for personal use of the aircraft in excess of $250,000 per fiscal year.
+In addition, two named executive officers, Kelly Mahon Tullier and Rajat Taneja, will each receive a one-time performance share award with a value of $5,000,000. The performance shares will vest on February 15, 2026, subject to the Company’s performance in fiscal years 2023 through 2025. The equity award to Ms. Mahon Tullier is in connection with her expanded role of Vice Chair, Chief People and Corporate Affairs Officer, effective February 1, 2023. The equity award to Mr. Taneja is in connection with his expanded responsibilities as President, Technology.
+All one-time equity awards described above will be granted on the Company’s next regularly-scheduled monthly grant date, February 15, 2023. All awards are subject to the terms and conditions, including vesting requirements, of the Company’s 2007 Equity Incentive Compensation Plan, as amended, and the individual award agreement corresponding to the award.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VISA INC.
+
+Date:
+February 1, 2023
+
+By:
+
+/s/ Kelly Mahon Tullier
+
+Kelly Mahon Tullier
+Vice Chair, Chief People and Corporate Affairs Officer, and Corporate Secretary

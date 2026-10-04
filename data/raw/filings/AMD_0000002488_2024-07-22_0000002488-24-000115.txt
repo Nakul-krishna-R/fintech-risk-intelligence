@@ -1,0 +1,82 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+July 20, 2024
+Date of Report (Date of earliest event reported)
+ADVANCED MICRO DEVICES, INC.
+
+(Exact name of registrant as specified in its charter)
+Delaware
+001-07882
+94-1692300
+(State or Other Jurisdiction of
+Incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification Number)
+2485 Augustine Drive
+
+Santa Clara
+,
+California
+
+95054
+
+(Address of principal executive offices) (Zip Code)
+(
+408
+)
+749-4000
+
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.01 par value
+AMD
+The Nasdaq Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+Retirement of Victor Peng as President, AMD
+On July 20, 2024, Mr. Victor Peng, President, AMD, notified Advanced Micro Devices, Inc. (the “Company”) of his intention to retire from the Company, effective August 30, 2024. The Company is currently preparing a retirement transition agreement to ensure a smooth transition and in recognition of Mr. Peng’s service to the Company.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits.
+EXHIBIT INDEX
+Exhibit No.
+Description
+99.1
+Press Release dated July 22, 2024
+104
+Inline XBRL for the cover page of this Current Report on Form 8-K
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Date: July 22, 2024
+ADVANCED MICRO DEVICES, INC.
+By:
+/s/ Ava Hahn
+Name:
+Ava Hahn
+Title:
+Senior Vice President, General Counsel and Corporate Secretary

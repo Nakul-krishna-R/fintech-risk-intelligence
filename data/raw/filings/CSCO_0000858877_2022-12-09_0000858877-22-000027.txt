@@ -1,0 +1,168 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+___________________________________
+FORM
+8-K
+___________________________________
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d)
+of The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+December 8, 2022
+___________________________________
+CISCO SYSTEMS, INC.
+(Exact name of registrant as specified in its charter)
+___________________________________
+Delaware
+(State or other jurisdiction of
+incorporation)
+001-39940
+(Commission File Number)
+77-0059951
+(IRS Employer Identification No.)
+170 West Tasman Drive
+,
+
+San Jose
+,
+California
+
+95134-1706
+(Address of principal executive offices)
+(Zip Code)
+(
+408
+)
+526-4000
+(Registrant's telephone number, including area code)
+Not Applicable
+(Former name or former address, if changed since last report)
+___________________________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.001 per share
+CSCO
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+At the Annual Meeting of Stockholders of Cisco Systems, Inc. (“Cisco”) held on December 8, 2022, Cisco’s stockholders voted on the following four proposals and cast their votes as follows:
+Proposal 1: To elect twelve members of Cisco’s Board of Directors (the “Board”):
+Nominee
+For
+Against
+Abstained
+Broker Non-Votes
+M. Michele Burns
+2,754,792,098
+173,772,012
+4,721,204
+462,490,228
+Wesley G. Bush
+2,918,750,954
+9,618,920
+4,915,440
+462,490,228
+Michael D. Capellas
+2,558,003,275
+370,348,388
+4,933,651
+462,490,228
+Mark Garrett
+2,844,652,525
+83,715,763
+4,917,026
+462,490,228
+John D. Harris II
+2,918,916,357
+9,406,264
+4,962,693
+462,490,228
+Dr. Kristina M. Johnson
+2,910,991,054
+17,820,837
+4,473,423
+462,490,228
+Roderick C. McGeary
+2,694,238,748
+233,961,224
+5,085,342
+462,490,228
+Sarah Rae Murphy
+2,920,258,710
+8,524,771
+4,501,833
+462,490,228
+Charles H. Robbins
+2,676,109,952
+243,988,743
+13,186,619
+462,490,228
+Brenton L. Saunders
+2,542,999,737
+385,310,971
+4,974,606
+462,490,228
+Dr. Lisa T. Su
+2,915,439,260
+13,579,254
+4,266,800
+462,490,228
+Marianna Tessel
+2,921,208,401
+7,600,871
+4,476,042
+462,490,228
+Proposal 2: To approve, on an advisory basis, executive compensation:
+For
+Against
+Abstained
+Broker Non-Votes
+2,618,066,213
+297,184,738
+18,034,363
+462,490,228
+Proposal 3: To ratify the appointment of PricewaterhouseCoopers LLP as Cisco’s independent registered public accounting firm for the fiscal year ending July 29, 2023:
+For
+Against
+Abstained
+Broker Non-Votes
+3,189,096,396
+201,971,522
+4,707,624
+0
+Proposal 4: A stockholder proposal to have Cisco's Board issue a tax transparency report in consideration of the Global Reporting Initiative's Tax Standard:
+For
+Against
+Abstained
+Broker Non-Votes
+781,754,210
+2,120,268,096
+31,263,008
+462,490,228
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+CISCO SYSTEMS, INC.
+Dated: December 9, 2022
+By:
+/s/ Evan Sloves
+Name:
+Evan Sloves
+Title:
+Secretary

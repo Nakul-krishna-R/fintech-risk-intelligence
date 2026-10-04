@@ -1,0 +1,215 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+August 17, 2024
+
+Date of Report (Date of earliest event reported)
+
+ADVANCED MICRO DEVICES, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-07882
+
+94-1692300
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification Number)
+
+2485 Augustine Drive
+
+Santa Clara
+,
+California
+
+95054
+
+(Address of principal executive offices) (Zip Code)
+
+(408)
+
+749-4000
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.01 par value
+
+AMD
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01 Entry into a Material Definitive Agreement.
+
+On August 17, 2024 (the “Signing Date”), Advanced Micro Devices, Inc., a Delaware corporation (“Buyer”), entered into a Stock Purchase Agreement (the “Agreement”) with ZT Group Int’l, Inc., a New Jersey corporation (the “Company”), the selling stockholders identified therein from time to time (the “Sellers”) and Frank Zhang, as the representative of the Sellers, pursuant to which Buyer will purchase all of the shares of common stock of the Company held by the Sellers (the “Share Purchase”).
+
+The aggregate consideration (including contingent consideration) payable by Buyer in connection with the Share Purchase is based on an equity value for all outstanding equity interests of the Company of up to $4.9 billion. Pursuant to the terms of the Agreement, the Closing Consideration (as defined in the Agreement) consists of (a) 8,335,852 shares of Buyer common stock (“Buyer Stock”) (determined by dividing $1.125 billion by a price per share of Buyer Stock of $134.9592 (the “Buyer Stock Value”) based on the daily volume-weighted average sales price per share of Buyer Stock on the Nasdaq Global Select Market for the ten trading days ending on and including the third trading day immediately preceding the Signing Date) (rounded down to the nearest whole share) payable to the Sellers and the Company Warrant Holders (as defined in the Agreement), and (b) $3.375 billion in the form of cash payable to the Sellers, the Company Warrant Holders and the holders of Company RSUs (as defined in the Agreement). In addition, pursuant to the terms of the Agreement, the Sellers and the Company Warrant Holders will be eligible to receive additional Contingent Consideration (as defined in the Agreement) consisting of (a) up to 740,964 shares of Buyer Stock (such number determined by dividing a maximum of $100 million by the Buyer Stock Value) and (b) up to $300 million of cash, in each case to the extent certain conditions are met following the closing of the Share Purchase.
+
+The obligation of the parties to consummate the transactions contemplated by the Agreement is subject to the satisfaction or waiver of a number of customary conditions, including: (a) receipt of certain specified required regulatory approvals; (b) the absence of laws or orders restraining the consummation of the Share Purchase; (c) the representations and warranties of Buyer, the Company and the Sellers being true and correct, subject to the materiality standards contained in the Agreement, and Buyer, the Company and the Sellers having complied in all material respects with their respective obligations under the Agreement; (d) the absence of any effects that have constituted or resulted in, or would reasonably be expected to constitute or result in, a material adverse effect for Buyer or the Company; and (e) the receipt by Buyer and the Company of certain closing agreements and certificates.
+
+The Agreement contains customary representations and warranties given by Buyer, the Company and the Sellers. Buyer, the Company and the Sellers have also each made customary covenants in the Agreement, including covenants by the Company relating to conduct of its business prior to the closing of the Share Purchase. The Agreement contains customary termination rights for Buyer and the Company, including if the Share Purchase is not completed by August 17, 2025 (subject to extension, including two automatic extensions until February 17, 2026, to the extent certain specified required regulatory approvals remain outstanding) (the “Outside Date”). Under the Agreement, Buyer will be required to pay a termination fee to the Company equal to $300 million if the Agreement is terminated in certain circumstances related to the failure to obtain certain regulatory approvals prior to the Outside Date. The parties have generally agreed to use their respective reasonable best efforts to complete the Share Purchase, including to obtain certain specified required regulatory approvals for the transaction.
+
+Buyer intends to issue the shares of Buyer Stock as part of the Closing Consideration and the Contingent Consideration, if any, in reliance upon the exemptions from registration afforded by Section 4(a)(2) of the Securities Act of 1933, as amended (the “Securities Act”), Rule 506 of Regulation D promulgated under the Securities Act, and/or Regulation S promulgated under the Securities Act. Buyer has also agreed to file a registration statement on Form
+S-3
+promptly following the closing of the Share Purchase covering the resale of such shares of Buyer Stock.
+
+The foregoing description of the Share Purchase and the Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Agreement, which is filed as Exhibit 2.1 to this Current Report on Form
+8-K
+and is incorporated herein by reference. A copy of the Agreement has been included to provide investors with information regarding its terms and is not intended to provide any factual information about Buyer or the Company.
+
+The Agreement contains representations, warranties, covenants and agreements, which were made only for purposes of such agreement and as of specified dates. The representations and warranties in the Agreement reflect negotiations between the parties to the Agreement and are not intended as statements of fact to be relied upon by stockholders, or any individual or other entity other than the parties. In particular, the representations, warranties, covenants and agreements in the Agreement may be subject to limitations agreed by the parties, including having been modified or qualified by certain confidential disclosures that were made between the parties in connection with the negotiation of the Agreement, and having been made for purposes of allocating risk among the parties rather than establishing matters of fact. In addition, the parties may apply standards of materiality in a way that is different from what may be viewed as material by investors. As such, the representations and warranties in the Agreement may not describe the actual state of affairs at the date they were made or at any other time and you should not rely on them as statements of fact. Moreover, information concerning the subject matter of the representations and warranties may change after the date of the Agreement, and unless required by applicable law, Buyer undertakes no obligation to update such information.
+
+Item 3.02 Unregistered Sales of Equity Securities.
+
+The information set forth in Item 1.01 of this Current Report on Form
+8-K
+is incorporated by reference into this Item 3.02.
+
+Item 7.01 Regulation FD Disclosure.
+
+On August 19, 2024, Buyer issued a joint press release with the Company announcing execution of the Agreement. A copy of the joint press release is furnished as Exhibit 99.1 to this Current Report on Form
+8-K
+and is incorporated herein by reference.
+
+The information in this report furnished pursuant to Item 7.01, including Exhibit 99.1 attached hereto, shall not be deemed “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section. It may only be incorporated by reference in another filing under the Exchange Act or the Securities Act, if such subsequent filing specifically references such information.
+
+Forward-Looking Statements
+
+This Current Report on Form
+8-K
+includes forward-looking statements concerning Advanced Micro Devices, Inc. (AMD), ZT Group Int’l, Inc (ZT Systems), the proposed transaction described herein and other matters. Forward-looking statements may discuss goals, intentions and expectations as to future plans, trends, events, results of operations or financial condition, or otherwise, based on current beliefs and involve numerous risks and uncertainties that could cause actual results to differ materially from expectations. Forward-looking statements speak only as of the date they are made or as of the dates indicated in the statements and should not be relied upon as predictions of future events, as there can be no assurance that the events or circumstances reflected in these statements will be achieved or will occur. Forward-looking statements can often, but not always, be identified by the use of forward-looking terminology including “believes,” “expects,” “may,” “will,” “should,” “seeks,” “intends,” “plans,” “pro forma,” “estimates,” “anticipates,” “designed,” or the negative of these words and phrases, other variations of these words and phrases or comparable terminology. The forward-looking statements in this press release relate to, among other things, data center AI accelerator opportunity, obtaining applicable regulatory approvals, satisfying other closing conditions to the transaction, the expected timing of the transaction, and the integration of the businesses, sale of ZT Systems’ manufacturing business, and the expected benefits, accretion, synergies and growth to result therefrom. These forward-looking statements involve risks and uncertainties that could cause actual results to differ materially from those contemplated by the statements. These risks include, among other things: failure to obtain applicable regulatory approvals in a timely manner or otherwise; failure to satisfy other closing conditions to the transaction or to complete the transaction on anticipated terms and timing; negative effects of the announcement of the transaction; risks that the businesses will not be integrated successfully, the ability of AMD to sell ZT Systems’ manufacturing business on a timely basis or at all, or that AMD will not realize expected benefits, cost savings, accretion, synergies and/or growth, or that such benefits may take longer to realize than expected; the risk that disruptions from the transaction will harm business plans and operations; risks relating to unanticipated costs of integration and sale of ZT Systems’ manufacturing business; significant transaction, integration and separation costs, or difficulties and/or unknown or inestimable liabilities in connection with the transaction or sale of ZT Systems’ manufacturing business; restrictions during the pendency of the transaction that may impact the ability to pursue certain business opportunities or strategic transactions; the potential impact of the announcement or consummation of the transaction or sale of ZT Systems’ manufacturing business on AMD’s, ZT Systems’ or the combined company’s relationships with suppliers, customers, employees and regulators; and demand for AMD’s, ZT Systems’, or the combined company’s products. For a discussion of factors that could cause actual results to differ materially from those contemplated by forward-looking statements, see the section captioned “Risk Factors” in AMD’s Annual Report on Form
+10-K
+for the fiscal year ended December 30, 2023, subsequent Quarterly Reports on Form
+10-Q
+and other filings with the SEC. While the list of factors presented here is considered representative, no such list should be considered to be a complete statement of all potential risks and uncertainties. Unlisted factors may present significant additional obstacles to the realization of forward-looking statements. AMD does not assume, and hereby disclaims, any obligation to update forward-looking statements, except as may be required by law.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d)
+
+Exhibits.
+
+EXHIBIT INDEX
+
+Exhibit
+No.
+
+Description
+
+2.1*
+
+Stock Purchase Agreement dated as of August 17, 2024, by and among Advanced Micro Devices, Inc., ZT Group Int’l, Inc., the Sellers listed therein and Frank Zhang, as the representative of the Sellers.
+
+99.1
+
+Joint Press Release of Advanced Micro Devices, Inc. and ZT Group Int’l, Inc., dated August 19, 2024.
+
+104
+
+Inline XBRL for the cover page of this Current Report on Form
+8-K.
+
+*
+
+Schedules and exhibits have been omitted pursuant to Item 601(a)(5) of Regulation
+S-K.
+Buyer hereby undertakes to furnish supplemental copies of any of the omitted annexes, schedules and exhibits upon request by the SEC.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: August 19, 2024
+
+ADVANCED MICRO DEVICES, INC.
+
+By:
+
+/s/ Jean Hu
+
+Name:
+
+Jean Hu
+
+Title:
+
+Executive Vice President, Chief Financial Officer & Treasurer

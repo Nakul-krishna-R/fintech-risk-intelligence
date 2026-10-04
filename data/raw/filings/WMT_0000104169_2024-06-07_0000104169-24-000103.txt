@@ -1,0 +1,270 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+________________________
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of Report (date of earliest event reported)
+June 7, 2024 (
+June 5, 2024
+)
+Walmart Inc.
+(Exact name of registrant as specified in its charter)
+DE
+001-06991
+71-0415188
+(State or other jurisdiction of incorporation or organization)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+702 S.W. 8th Street
+
+Bentonville
+,
+AR
+
+72716-0215
+
+(Address of Principal Executive Offices) (Zip code)
+Registrant's telephone number, including area code
+(
+479
+)
+273-4000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.10 per share
+WMT
+New York Stock Exchange
+2.550% Notes due 2026
+WMT26
+New York Stock Exchange
+1.050% Notes due 2026
+WMT26A
+New York Stock Exchange
+1.500% Notes due 2028
+WMT28C
+New York Stock Exchange
+4.875% Notes due 2029
+WMT29B
+New York Stock Exchange
+5.750% Notes due 2030
+WMT30B
+New York Stock Exchange
+1.800% Notes due 2031
+WMT31A
+New York Stock Exchange
+5.625% Notes due 2034
+WMT34
+New York Stock Exchange
+5.250% Notes due 2035
+WMT35A
+New York Stock Exchange
+4.875% Notes due 2039
+WMT39
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.07. Submission of Matters to a Vote of Security Holders
+On June 5, 2024, Walmart Inc. (the “Company”) held its Annual Shareholders’ Meeting (the “Meeting”). As of the close of business on April 12, 2024, the record date for the Meeting, there were 8,059,794,418 shares of the Company’s common stock outstanding, with each share entitled to one vote. The holders of 7,330,831,364 (90.96%) shares of the Company’s common stock were present in person or represented by proxy during the Meeting. During the Meeting, the Company’s shareholders voted on the matters set forth below.
+Election of Directors
+The Company’s shareholders elected for one-year terms all eleven persons nominated for election as directors as set forth in the Company’s proxy statement dated April 25, 2024. The following table sets forth the vote of the shareholders at the meeting with respect to the election of directors:
+Nominee
+For
+Against
+Abstain
+Broker Non-Votes
+Cesar Conde
+6,663,354,901
+29,259,723
+7,271,448
+630,945,292
+Timothy P. Flynn
+6,618,260,758
+74,656,594
+6,968,720
+630,945,292
+Sarah J. Friar
+6,665,365,190
+27,840,620
+6,680,262
+630,945,292
+Carla A. Harris
+6,481,902,946
+211,361,994
+6,621,132
+630,945,292
+Thomas W. Horton
+6,302,870,033
+387,674,102
+9,341,937
+630,945,292
+Marissa A. Mayer
+6,562,440,282
+130,712,998
+6,732,792
+630,945,292
+C. Douglas McMillon
+6,666,948,433
+26,120,040
+6,817,599
+630,945,292
+Brian Niccol
+6,680,181,404
+12,160,863
+7,543,805
+630,945,292
+Gregory B. Penner
+6,599,674,639
+93,118,292
+7,093,141
+630,945,292
+Randall L. Stephenson
+6,519,772,179
+172,900,670
+7,213,223
+630,945,292
+Steuart L. Walton
+6,662,209,809
+30,956,536
+6,719,727
+630,945,292
+Company Proposals
+Advisory Vote to Approve Named Executive Officer Compensation.
+The Company’s shareholders voted upon and approved, by nonbinding, advisory vote, the compensation of the Company’s named executive officers, as described in the Company’s proxy statement dated April 25, 2024. The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+6,186,027,386
+501,360,064
+12,498,622
+630,945,292
+Ratification of Independent Accountants.
+The Company’s shareholders voted upon and approved the ratification of the appointment of Ernst & Young LLP to serve as the Company’s independent registered accountants for the fiscal year ending January 31, 2025. The votes on this proposal were as follows:
+For
+Against
+Abstain
+7,200,820,178
+121,712,575
+8,298,611
+There were no broker non-votes with respect to this proposal.
+Shareholder Proposals
+Pursuant to the advance notice requirement of the Company’s amended and restated bylaws, the Company’s shareholders voted upon and rejected a shareholder proposal concerning limitations on political contributions made by WALPAC. The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+49,618
+6,699,836,148
+306
+630,945,292
+The Company’s shareholders voted upon and rejected a shareholder proposal requesting the publication of targets for transitioning from gestation crates in pork supply chain.
+
+The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+837,664,219
+5,828,630,107
+33,591,746
+630,945,292
+Then, the Company’s shareholders voted upon and rejected a shareholder proposal requesting a racial equity audit. The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+1,030,165,512
+5,643,611,334
+26,109,226
+630,945,292
+Next, the Company’s shareholders voted upon and rejected a shareholder proposal requesting human rights impact assessments. The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+773,568,285
+5,860,715,147
+65,602,640
+630,945,292
+The Company’s shareholders then voted upon and rejected a shareholder proposal to set compensation that optimizes portfolio value for Company shareholders. The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+294,769,269
+6,372,320,195
+32,796,608
+630,945,292
+Next, the Company’s shareholders voted upon and rejected a shareholder proposal requesting a report on respecting workforce civil liberties. The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+31,377,887
+6,642,249,593
+26,258,592
+630,945,292
+T
+he Company’s shareholders also voted upon and rejected a shareholder proposal requesting a review of workplace safety and violence. The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+1,278,547,992
+5,397,035,079
+24,303,001
+630,945,292
+Finally, the Company’s shareholders then voted upon and rejected a shareholder proposal requesting a report on corporate financial sustainability. The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+25,635,076
+6,648,239,511
+26,011,485
+630,945,292
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated: June 7, 2024
+WALMART INC.
+By:
+/s/ Gordon Y. Allison
+Name:
+Gordon Y. Allison
+Title:
+Senior Vice President, Office of the Corporate Secretary, and Chief Counsel for Finance and Governance

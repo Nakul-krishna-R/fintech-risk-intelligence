@@ -1,0 +1,75 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of
+The Securities Exchange Act of 1934
+October 8, 2024
+
+Date of Report (Date of earliest event reported)
+QUALCOMM Incorporated
+(Exact name of registrant as specified in its charter)
+Delaware
+
+(State or other jurisdiction of incorporation)
+000-19528
+95-3685934
+(Commission File Number)
+(IRS Employer Identification No.)
+5775 Morehouse Drive
+,
+San Diego
+,
+California
+92121
+(Address of principal executive offices)
+(Zip Code)
+858
+-
+587-1121
+
+(Registrant’s telephone number, including area code)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.0001 par value
+
+QCOM
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(d) On October 8, 2024, the Board of Directors (the “Board”) of QUALCOMM Incorporated (the “Company”) elected Marie Myers, who currently serves as Executive Vice President and Chief Financial Officer of Hewlett Packard Enterprise Company, to the Board. Ms. Myers was elected for a term of office that expires at the Company’s next annual meeting of stockholders. The Board also appointed Ms. Myers to its Audit Committee. There is no arrangement or understanding between Ms. Myers and any other person pursuant to which she was selected as a director, and there are no transactions involving the Company and Ms. Myers that are required to be reported pursuant to Item 404(a) of Regulation S-K.
+Ms. Myers will receive compensation for her service as a non-employee director of the Company under the Qualcomm Incorporated 2024 Director Compensation Plan (the “Director Compensation Plan”). The components of the Director Compensation Plan are described in Exhibit 10.19 to the Company’s Form 10-K for its fiscal year ended September 24, 2023. Under the Director Compensation Plan, on October 8, 2024, Ms. Myers was granted 677 deferred stock units (DSUs), representing a pro rata portion of the value of a DSU award for a full year of service on the Board.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+QUALCOMM Incorporated
+Date:
+October 9, 2024
+By:
+/s/ Ann Chaplin
+
+Ann Chaplin
+
+General Counsel and Corporate Secretary

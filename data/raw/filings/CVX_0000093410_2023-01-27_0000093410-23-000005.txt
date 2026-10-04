@@ -1,0 +1,150 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+January 24, 2023
+
+Chevron Corporation
+(Exact name of registrant as specified in its charter)
+Delaware
+001-00368
+94-0890210
+(State or other jurisdiction
+of incorporation )
+(Commission File Number)
+(I.R.S. Employer
+Identification No.)
+6001 Bollinger Canyon Road,
+San Ramon,
+CA
+94583
+(Address of Principal Executive Offices)
+(Zip Code)
+Registrant’s telephone number, including area code:
+
+(
+925
+)
+842-1000
+
+N/A
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligations of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Common stock, par value $.75 per share
+CVX
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (
+§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter
+).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(e)
+2023 Executive Compensation Review and 2023 Base Salarie
+s
+On January 25, 2023, the independent Directors of the Board of Directors (the “Board”) of Chevron Corporation (“Chevron”) conducted an annual review of the compensation of Chevron’s executive officers, including Michael K. Wirth, Chairman and Chief Executive Officer (“CEO”); Pierre R. Breber, Vice President and Chief Financial Officer; and the other named executive officers of Chevron identified in Chevron’s 2022 proxy statement, James W. Johnson, Executive Vice President, Senior Advisor; and Mark A. Nelson, Executive Vice President, Strategy, Policy and Development (collectively, the “Named Executive Officers”). Following such review, the independent Directors of the Board approved an annual base salary of $1,850,000 for Mr. Wirth, an increase of $150,000, and ratified the decision of the Management Compensation Committee of the Board (the “Committee”) to increase the annual base salaries of the principal financial officer and the other Named Executive Officers, as follows: (i) an increase of $75,000 for Mr. Breber, resulting in an annual base salary of $1,150,000; (ii) no change to Mr. Johnson’s annual base salary at $1,250,000; and (iii) an increase of $100,000 for Mr. Nelson, resulting in an annual base salary of $1,200,000 due to his election by the Board to a new corporate officer role, Vice Chairman, in addition to Executive Vice President, Strategy, Policy and Development, effective February 1, 2023. All other base salary increases will be effective March 1, 2023.
+Chevron Incentive Plan
+On January 25, 2023, the independent Directors of the Board approved no change to the bonus target of 165 percent for 2023 under the Chevron Incentive Plan (“CIP”) for Michael K. Wirth, Chairman and Chief Executive Officer, and ratified the decision of the Committee to set the target bonus percentages for 2023 under the CIP for the other Named Executive Officers, as follows: (i) Mr. Breber at 110 percent (no change from 2022); and (ii) Mr. Nelson at 120 percent, an increase from 110 percent in 2022 in connection with his new corporate officer role. Mr. Johnson will not receive a CIP award for the 2023 performance cycle due to his upcoming separation from Chevron.
+2023 Equity Awards to Named Executive Officers
+On January 25, 2023, the independent Directors of the Board also approved the grant of 47,460 performance shares, 92,800 stock options, and 23,730 standard restricted stock units to Mr. Wirth and ratified the following grants by the Committee under the 2022 Long-Term Incentive Plan of Chevron Corporation (“2022 LTIP”): (i) Mr. Breber, 11,790 performance shares, 23,000 stock options, and 5,900 standard restricted stock units; and (ii) Mr. Nelson, 15,390 performance shares, 30,100 stock options, and 7,700 standard restricted stock units. Mr. Johnson did not receive an equity grant due to his upcoming separation from Chevron.
+The stock options have a ten-year term, and one-third of the options granted vest on each of January 31, 2024, January 31, 2025, and January 31, 2026, except as described further herein. The exercise price for the stock options is $179.08 per share, the closing price of Chevron’s common stock on January 25, 2023, the date of grant. The number of stock options granted was determined based on grant date inputs, including stock price and Black-Scholes valuation.
+The standard restricted stock units awarded vest one-third ratably on each of January 31, 2024, January 31, 2025, and January 31, 2026, and will settle in shares of Chevron common stock based on the date of vesting (or, if not a trading day, on the last preceding trading day), and will accrue dividend equivalents that will be reinvested as additional restricted stock units, except as described further herein. The restricted stock units payout is subject to a two-year post-vesting holding period for executive officers, including the Named Executive Officers.
+The performance shares may result in a cash payout at the end of the three-year performance period (January 1, 2023 through December 31, 2025) (the “Performance Period”) depending upon Chevron’s relative performance, weighted 70 percent based on relative Total Shareholder Return (“TSR”) as measured against BP p.l.c., ExxonMobil Corporation, Shell p.l.c., TotalEnergies SE, and the S&P 500 Total Return Index (collectively, the “LTIP Performance Share Peer Group”), and 30 percent based on relative Return on Capital Employed (“ROCE”) Improvement as measured against the large-cap integrated energy companies BP p.l.c., ExxonMobil Corporation, Shell p.l.c., and TotalEnergies SE (collectively, the “ROCE Competitor Group”), as follows:
+Relative ranking
+1
+2
+3
+4
+5
+6
+TSR Modifier (1)
+(70% weight, ranking includes S&P 500 Total Return Index)
+200%
+160%
+120%
+80%
+40%
+0%
+ROCE Improvement Modifier (2)
+(30% weight, ranking excludes S&P 500 Total Return Index)
+200%
+150%
+100%
+50%
+0%
+n/a
+1.
+Chevron’s TSR for the Performance Period as compared to the TSR of the LTIP Performance Share Peer Group. The TSR Modifier is based on Chevron’s TSR ranking for the three-year Performance Period compared to the TSR of each competitor in the LTIP Performance Share Peer Group (from best TSR to lowest TSR) as set forth in the table. In the event Chevron’s measured TSR is less than 1 percentage point (rounded to one decimal point) of the nearest member(s) of the LTIP Performance Share Peer Group, the results will be considered a tie, and the TSR Modifier will be determined by dividing the sum of the TSR Modifiers in the tied positions by the number of members of the LTIP Performance Share Peer Group in the tie. In the event of negative TSR for the Performance Period, any above-target TSR Modifier will be reduced by 20 percent for executive officers, including the Named Executive Officers.
+2.
+Chevron’s ROCE Improvement (“ROCE-I”), measured by percentage point change, as compared with the ROCE-I for the ROCE Competitor Group. The ROCE-I Modifier is based on Chevron’s ROCE-I ranking for the three-year period commencing with the quarter preceding the beginning of the Performance Period and ending one quarter prior to the end of the Performance Period, compared to the ROCE-I of each company in the ROCE Competitor Group (from best ROCE-I to lowest ROCE-I) as set forth in the table. In the event Chevron’s measured ROCE-I is less than one half of a percentage point (rounded to one decimal point) of the nearest member(s) of the ROCE Competitor Group, the results will be considered a tie, and the ROCE-I Modifier will be determined by dividing the sum of the ROCE-I Modifiers in the tied positions by the number of members of the ROCE Competitor Group in the tie.
+The performance shares will accrue dividend equivalents that will be reinvested as additional performance shares and will vest on December 31, 2025, subject to the payout modifiers, except as described further herein. The cash payout, if any, will occur in an amount equal to the number of performance shares granted, including dividend equivalents, multiplied by the 20-day trailing average price of Chevron common stock at the end of the Performance Period, multiplied by a performance share multiplier, which is the weighted average of (a) the TSR Modifier (70 percent weight); and (b) the ROCE-I Modifier (30 percent weight), each of which is determined as described above. The Committee may, in its discretion, adjust the cash payout of performance shares downward if it determines that business or economic considerations warrant such an adjustment.
+Under the 2022 LTIP award terms, if these individuals’ employment terminates for any reason prior to January 31, 2024, the above-described stock option, restricted stock unit, and performance share awards will be forfeited. Since Messrs. Wirth, Breber and Nelson each have reached 90 points (the sum of years of age and years of service) under the 2022 LTIP rules, on January 31, 2024, 100 percent of the unvested portion of the above-described stock options will vest upon the termination of their employment on or after that date for any reason other than for misconduct (as defined under the 2022 LTIP rules), and such options will be exercisable through the remainder of the original 10-year term. In addition, 100 percent of the unvested portion of the above-described standard restricted stock unit awards will continue to vest upon the termination of their employment on or after January 31, 2024, for any reason other than for misconduct (as defined under the 2022 LTIP rules) but will not be vested and paid out until the respective original vest date of January 31, 2025, or January 31, 2026. Upon termination of employment, the post-vesting holding period for the restricted stock units payout shall be removed. Further, 100 percent of the unvested portion of the above-described performance share awards will continue to vest upon the termination of their employment on or after January 31, 2024, for any reason other than for misconduct (as defined in the 2022 LTIP rules) but will not be fully vested and will not be paid out prior to December 31, 2025.
+Effective January 24, 2023, the Committee approved forms of award agreements to be used for the award of performance shares, stock options, stock appreciation rights, and restricted stock units under the 2022 LTIP on a going-forward basis to executive officers and other eligible employees of Chevron, including the awards to the Named Executive Officers described above. Copies of such forms of award agreements are filed as exhibits hereto and are hereby incorporated by reference herein.
+Item 9.01 Financial Statements and Exhibits.
+(d)
+
+Exhibits
+.
+
+Exhibit Number
+Description
+10.1
+Form of Performance Share Award Agreement under the 2022 Long-Term Incentive Plan of Chevron Corporation
+10.2
+Form of Standard Restricted Stock Unit Award Agreement (
+S
+hare
+S
+ettled) under the 2022 Long-Term Incentive Plan of Chevron Corporation
+10.3
+Form of Standard Restricted Stock Unit Award Agreement (
+C
+ash
+S
+ettled) under the 2022 Long-Term Incentive Plan of Chevron Corporation
+10.4
+Form of Special Restricted Stock Unit Award Agreement (
+S
+hare
+S
+ettled) under the 2022 Long-Term Incentive Plan of Chevron Corporation
+10.5
+Form of Special Restricted Stock Unit Award Agreement (
+C
+ash
+S
+ettled) under the 2022 Long-Term Incentive Plan of Chevron Corporation
+10.6
+Form of Non-Qualified Stock Options Award Agreement under the 2022 Long-Term Incentive Plan of Chevron Corporation
+10.7
+Form of Stock Appreciation Right Award Agreement under the 2022 Long-Term Incentive Plan of Chevron Corporation
+104
+Cover Page Interactive Data File, formatted in Inline XBRL
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated: January 27, 2023
+CHEVRON CORPORATION
+By:
+/s/ Rose Z. Pierson
+Rose Z. Pierson
+Assistant Secretary

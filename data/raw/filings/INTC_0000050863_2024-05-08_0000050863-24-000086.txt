@@ -1,0 +1,131 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+May 8, 2024
+INTEL CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+000-06217
+94-1672743
+(State or other jurisdiction
+(Commission
+(IRS Employer
+of incorporation)
+File Number)
+Identification No.)
+
+2200 Mission College Boulevard
+,
+Santa Clara
+,
+California
+95054-1549
+(Address of principal executive offices)
+(Zip Code)
+Registrant's telephone number, including area code:
+(408)
+
+765-8080
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, $0.001 par value
+INTC
+Nasdaq Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+Item 7.01
+
+Regulation FD Disclosure.
+On May 7, 2024, the U.S. Department of Commerce informed Intel Corporation (the “Company”) that it was revoking certain licenses for exports of consumer-related items to a customer in China, effective immediately. As a result, the Company expects revenue for the second quarter of 2024 to remain in the original range of $12.5 billion to $13.5 billion, but below the midpoint. For full year 2024, the Company continues to expect revenue and earnings per share to grow year-over-year compared to 2023.
+The information in this Item 7.01 of this report is furnished and shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+Forward-Looking Statements
+This report contains forward-looking statements regarding the Company’s revenue and earnings per share expectations that involve a number of risks and uncertainties. Such statements involve many risks and uncertainties that could cause our actual results to differ materially from those expressed or implied, including those associated with:
+•
+the high level of competition and rapid technological change in our industry;
+•
+the significant long-term and inherently risky investments we are making in R&D and manufacturing facilities that may not realize a favorable return;
+•
+the complexities and uncertainties in developing and implementing new semiconductor products and manufacturing process technologies;
+•
+our ability to time and scale our capital investments appropriately and successfully secure favorable alternative financing arrangements and government grants;
+•
+implementing new business strategies and investing in new businesses and technologies;
+•
+changes in demand for our products;
+•
+macroeconomic conditions and geopolitical tensions and conflicts, including geopolitical and trade tensions between the US and China, the impacts of Russia's war on Ukraine, tensions and conflict affecting Israel and the Middle East, and rising tensions between mainland China and Taiwan;
+•
+the evolving market for products with AI capabilities;
+•
+our complex global supply chain, including from disruptions, delays, trade tensions and conflicts, or shortages;
+•
+product defects, errata and other product issues, particularly as we develop next-generation products and implement next-generation manufacturing process technologies;
+•
+potential security vulnerabilities in our products;
+•
+increasing and evolving cybersecurity threats and privacy risks;
+•
+IP risks including related litigation and regulatory proceedings;
+•
+the need to attract, retain, and motivate key talent;
+•
+strategic transactions and investments;
+•
+sales-related risks, including customer concentration and the use of distributors and other third parties;
+•
+our significantly reduced return of capital in recent years;
+•
+our debt obligations and our ability to access sources of capital;
+•
+complex and evolving laws and regulations across many jurisdictions;
+•
+fluctuations in currency exchange rates;
+•
+changes in our effective tax rate;
+•
+catastrophic events;
+•
+environmental, health, safety, and product regulations;
+•
+our initiatives and new legal requirements with respect to corporate responsibility matters; and
+•
+other risks and uncertainties described in our 2023 Form 10-K and our other filings with the SEC.
+Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. Readers are urged to carefully review and consider the various disclosures made in the documents we file from time to time with the SEC that disclose risks and uncertainties that may affect our business.
+Unless specifically indicated otherwise, the forward-looking statements in this report do not reflect the potential impact of any divestitures, mergers, acquisitions, or other business combinations that have not been completed as of the date of this filing. In addition, the forward-looking statements in this report are based on management's expectations as of the date of this report, unless an earlier date is specified, including expectations based on third-party information and projections that management believes to be reputable. We do not undertake, and expressly disclaim any duty, to update such statements, whether as a result of new information, new developments, or otherwise, except to the extent that disclosure may be required by law.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+INTEL CORPORATION
+(Registrant)
+Date:
+May 8, 2024
+By:
+/s/ April Miller Boise
+April Miller Boise
+Executive Vice President and Chief Legal Officer

@@ -1,0 +1,177 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+June 4, 2024
+INTEL CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+000-06217
+94-1672743
+(State or other jurisdiction
+(Commission
+(IRS Employer
+of incorporation)
+File Number)
+Identification No.)
+
+2200 Mission College Boulevard
+,
+Santa Clara
+,
+California
+95054-1549
+(Address of principal executive offices)
+(Zip Code)
+Registrant's telephone number, including area code:
+(408)
+
+765-8080
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, $0.001 par value
+INTC
+Nasdaq Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+Item 1.01 Entry into a Material Definitive Agreement.
+On June 4, 2024, Intel Ireland Limited (“Intel Ireland”), a wholly-owned subsidiary of Intel Corporation (“Intel” and, together with Intel Ireland, “we,” “our” or “us”), entered into a purchase and sale agreement (the “Purchase and Sale Agreement”) with AP Grange Holdings, LLC (“Co-Investor”), an entity formed at the direction of and managed by certain affiliates of Apollo Global Management, Inc. ("Apollo").
+The Purchase and Sale Agreement provides that, upon its terms and subject to certain conditions, Co-Investor will acquire from Intel Ireland a 49% ownership interest in Grange Newco LLC, a Cayman Islands limited liability company (“JV Company”) formed by Intel Ireland in connection with Fab 34, Intel’s leading-edge fabrication facility designed for manufacturing wafers using the Intel 4 and Intel 3 process technologies in Leixlip, Ireland, for approximately $11 billion (the “Purchase Price”). The remaining 51% ownership interest in JV Company will remain under the ownership of Intel Ireland.
+The Purchase and Sale Agreement provides that, on the closing of the contemplated transaction, Intel Ireland and Co-Investor will enter into an amended and restated limited liability company agreement of JV Company (the “Limited Liability Company Agreement”), the form of which is attached to the Purchase and Sale Agreement. The Limited Liability Company Agreement sets forth each member’s rights and responsibilities with respect to JV Company, including with respect to the board of managers (a majority of which will be appointed by Intel Ireland), certain supermajority approval rights in favor of Co-Investor, mechanisms for required and discretionary capital calls to fund JV Company liabilities, limitations on transfers by the members, a call right exercisable by Intel Ireland beginning approximately 7.5 years following the date Fab 34 is substantially complete (or earlier upon the occurrence of certain triggering events), a conversion right exercisable by Co-Investor approximately 12.5 years following the date Fab 34 is substantially complete whereby Co-Investor may elect to convert its units of JV Company into shares of Intel based on its remaining economic interest (subject to the Intel call right), and a right of first offer for Intel Ireland if Co-Investor desires to sell its units of JV Company. The Limited Liability Company Agreement also sets forth distribution mechanics, pursuant to which JV Company shall make quarterly distributions of available cash (subject to certain limitations, including for operating costs and reserves) to its members generally in proportion to their ownership interests.
+The Purchase and Sale Agreement contains customary representations, warranties and covenants from JV Company, Intel Ireland and Co-Investor. The representations, warranties and covenants of each party set forth in the Purchase and Sale Agreement have been made only for purposes of, and were and are solely for the benefit of the parties to, the Purchase and Sale Agreement, and investors should not rely on them as statements of fact.
+The closing is subject to limited customary conditions. The parties expect to close the transactions in the second quarter of 2024. The Purchase and Sale Agreement provides certain termination rights for both Intel Ireland and Co-Investor, including if the closing does not occur on or before August 31, 2024 and Intel Ireland or Co-Investor validly terminates the Purchase and Sale Agreement.
+The foregoing summaries of the Purchase and Sale Agreement and the Limited Liability Company Agreement do not purport to be a complete description of all parties’ rights and obligations and are qualified in their entirety by reference to such agreements (or the form thereof), which are filed as Exhibits 10.1 and 10.2, respectively, to this report, and which may be amended or revised by mutual agreement of the applicable parties as provided therein.
+Item 7.01 Regulation FD Disclosure.
+On June 4, 2024, Intel and Apollo issued a joint press release announcing the entry into the Purchase and Sale Agreement. A copy of the press release is attached as Exhibit 99.1 and incorporated by this reference.
+The information in this Item 7.01 and Exhibit 99.1 shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, and is not incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act.
+Item 8.01 Other Events.
+In connection with the execution of the Purchase and Sale Agreement and Limited Liability Company Agreement, the parties will enter into certain ancillary agreements which generally provide Intel or Intel Ireland, as applicable, with rights and obligations with respect to the construction, commissioning, operation, management, maintenance, utilization and purchase of wafers produced in Fab 34 consistent with their ordinary course practices with respect to such matters but subject to agreed minimum wafer fab performance standards and minimum wafer purchase obligations by Intel. Intel Ireland will retain full ownership of Fab 34 and any and all intellectual property rights arising from, relating to or in connection with the activities of and services to JV Company. Specifically, these ancillary agreements provide that:
+•
+JV Company will acquire from Intel Ireland rights to cause and direct the operation of Intel Ireland’s Fab 34
+facility, allowing JV Company to direct the manufacture of wafers from Fab 34 for the benefit of JV Company;
+•
+JV Company will engage Intel Ireland to operate and maintain Fab 34, with Intel Ireland agreeing to minimum performance standards including with respect to production, availability, and yield, and to provide administrative services to JV Company;
+•
+Intel Ireland agrees with JV Company and Co-Investor to complete the construction and commission of Fab 34, including the achievement of certain timing and capacity milestones, with substantial completion of Fab 34 targeted for June 2026;
+•
+JV Company and Intel Ireland will allocate risk of loss and set out insurance matters relating to Fab 34 whereby JV Company will bear the risk of certain portions of certain categories of losses;
+•
+Intel agrees to purchase wafers from JV Company for itself and/or for marketing and sale to third-party customers, with Intel agreeing to minimum volume commitments for its demand for wafers, preferential loading of Fab 34 relative to other Intel fabs running the same process and tooling, and pricing of wafers at manufacturing cost plus an agreed upon margin, and the payment of liquidated damages in various circumstances if Intel fails to meet its minimum volume commitments; and
+•
+Intel provides a parent guarantee with respect to the obligations of Intel Ireland.
+Under the various ancillary agreements, Intel or Intel Ireland may be required to pay liquidated damages or termination payments under a variety of underperformance, breach, termination or other scenarios in such amounts as to enable JV Company to distribute in respect of Co-Investor's units an amount up to 140% of the Purchase Price.
+Forward-Looking Statements
+This report contains forward-looking statements regarding the Intel’s expectations regarding the Purchase and Sale Agreement, the Limited Liability Company Agreement, and the ancillary agreements entered into in connection therewith, including with respect to the anticipated closing date and the substantial completion date of Fab 34. Such statements involve many risks and uncertainties that could cause the actual results or outcomes to differ materially from those expressed or implied, including those associated with:
+•
+the high level of competition and rapid technological change in our industry;
+•
+the significant long-term and inherently risky investments we are making in R&D and manufacturing facilities that may not realize a favorable return;
+•
+the complexities and uncertainties in developing and implementing new semiconductor products and manufacturing process technologies;
+•
+our ability to time and scale our capital investments appropriately and successfully secure favorable alternative financing arrangements and government grants;
+•
+implementing new business strategies and investing in new businesses and technologies;
+•
+changes in demand for our products;
+•
+macroeconomic conditions and geopolitical tensions and conflicts, including geopolitical and trade tensions between the US and China, the impacts of Russia's war on Ukraine, tensions and conflict affecting Israel and the Middle East, and rising tensions between mainland China and Taiwan;
+•
+the evolving market for products with AI capabilities;
+•
+our complex global supply chain, including from disruptions, delays, trade tensions and conflicts, or shortages;
+•
+product defects, errata and other product issues, particularly as we develop next-generation products and implement next-generation manufacturing process technologies;
+•
+potential security vulnerabilities in our products;
+•
+increasing and evolving cybersecurity threats and privacy risks;
+•
+IP risks including related litigation and regulatory proceedings;
+•
+the need to attract, retain, and motivate key talent;
+•
+strategic transactions and investments;
+•
+sales-related risks, including customer concentration and the use of distributors and other third parties;
+•
+our significantly reduced return of capital in recent years;
+•
+our debt obligations and our ability to access sources of capital;
+•
+complex and evolving laws and regulations across many jurisdictions;
+•
+fluctuations in currency exchange rates;
+•
+changes in our effective tax rate;
+•
+catastrophic events;
+•
+environmental, health, safety, and product regulations;
+•
+our initiatives and new legal requirements with respect to corporate responsibility matters; and
+•
+other risks and uncertainties described in our 2023 Form 10-K and our other filings with the SEC.
+Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. Readers are urged to carefully review and consider the various disclosures made in the documents we file from time to time with the SEC that disclose risks and uncertainties that may affect our business.
+Unless specifically indicated otherwise, the forward-looking statements in this report are based on management's expectations as of the date of this report, unless an earlier date is specified, including expectations based on third-party information and projections that management believes to be reputable. We do not undertake, and expressly disclaim any duty, to update such statements, whether as a result of new information, new developments, or otherwise, except to the extent that disclosure may be required by law.
+Item 9.01
+
+Financial Statements and Exhibits.
+(d)
+
+Exhibits.
+The following exhibits are provided as part of this report:
+Exhibit Number
+Description
+10.1*
+Purchase and Sale Agreement, dated as of
+June
+4
+, 2024, by and among Intel Ireland Limited, Grange Newco LLC, and AP Grange Holdings, LLC
+10.2*
+Form of Amended and Restated Limited Liability Company Agreement of Grange Newco LLC by and among Grange Newco LLC, Intel Ireland Limited and AP Grange Holdings, LLC
+99.1
+Press Release,
+dated
+June 4
+, 2024
+104
+Cover Page Interactive Data File, formatted in Inline XBRL and included as Exhibit 101.
+*
+Schedules and certain portions of this exhibit have been omitted pursuant to Item 601(a)(5) and Item 601(b)(10)(iv) of Regulation S-K.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+INTEL CORPORATION
+(Registrant)
+Date:
+June 4, 2024
+By:
+/s/ April Miller Boise
+April Miller Boise
+Executive Vice President and Chief Legal Officer

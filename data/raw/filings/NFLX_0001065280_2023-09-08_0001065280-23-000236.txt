@@ -1,0 +1,77 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+__________________________________
+FORM
+8-K
+
+__________________________________
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+September 6, 2023
+__________________________________
+NETFLIX, INC.
+(Exact name of registrant as specified in its charter)
+__________________________________
+Delaware
+001-35727
+77-0467272
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+121 Albright Way
+,
+Los Gatos
+,
+California
+95032
+(Address of principal executive offices)
+(Zip Code)
+(
+408
+)
+540-3700
+
+(Registrant’s telephone number, including area code)
+(Former name or former address, if changed since last report)
+__________________________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, par value $0.001 per share
+NFLX
+NASDAQ Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On September 6, 2023, Ambassador Susan Rice was appointed to the Board of Directors (the “Board”) of Netflix, Inc. (the “Company”). Her appointment is effective immediately, and she will hold office as a Class I director with a term expiring at the Company's annual meeting of stockholders in 2024. She has not yet been appointed to serve as a member of any Board committees.
+Ambassador Rice will receive an annual retainer of $300,000, as compensation for her service as a director, which will be payable monthly and prorated for the remainder of 2023.
+As it does with all directors and executive officers, the Company will enter into an indemnification agreement with Ambassador Rice. The indemnification agreement will require the Company to indemnify Ambassador Rice, to the fullest extent permitted by Delaware law, for certain liabilities to which she may become subject as a result of her affiliation with the Company. See the Company’s Form of Indemnification Agreement filed with the Securities and Exchange Commission on March 20, 2002 as Exhibit 10.1 to the Registrant’s Registration Statement on Form S-1/A.
+There are no related party transactions between the Company and Ambassador Rice that are subject to disclosure under Item 404(a) of Regulation S-K.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+NETFLIX, INC.
+Date:
+September 8, 2023
+/s/ David Hyman
+David Hyman
+Chief Legal Officer and Secretary

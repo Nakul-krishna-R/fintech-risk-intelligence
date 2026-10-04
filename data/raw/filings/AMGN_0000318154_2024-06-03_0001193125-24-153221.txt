@@ -1,0 +1,346 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of
+
+The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)
+
+May 31, 2024
+
+Amgen Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-37702
+
+95-3540776
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+One Amgen Center Drive
+
+Thousand Oaks
+
+California
+
+91320-1799
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code
+
+(805)
+
+447-1000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communication pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communication pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock, $0.0001 par value
+
+AMGN
+
+The Nasdaq Stock Market LLC
+
+2.000% Senior Notes due 2026
+
+AMGN26
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule
+12b-2
+of the Securities Exchange Act of 1934 (17 CFR
+§240.12b-2).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 5.02(e)
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+The Board of Directors of Amgen Inc. (the “
+Company
+”) previously adopted, subject to stockholder approval, the Amgen Inc. Second Amended and Restated 2009 Equity Incentive Plan (the “
+Amended Plan
+”), which amends and restates the Amgen Inc. Amended and Restated 2009 Equity Incentive Plan. The Amended Plan was approved by the Company’s stockholders on May 31, 2024 at the Company’s 2024 Annual Meeting of Stockholders (the “
+Annual Meeting
+”), as described below. The Amended Plan (i) increases the number of shares of common stock of the Company, par value $0.0001 per share (the “
+Common Stock
+”), available for issuance by 31,297,000 shares; (ii) clarifies that dividend equivalents will be paid out in shares of Common Stock only when, and to the extent that, the underlying award is earned and vested; (iii) incorporates the change of control definition in the Company’s equity award grant agreements and provides that awards not assumed or replaced in a change of control will fully vest and, as applicable, become exercisable; and (iv) removes provisions previously required under Section 162(m) of the Internal Revenue Code prior to its repeal under the Tax Cuts and Jobs Act of 2017.
+
+The foregoing description of the Amended Plan is qualified in its entirety by reference to the text of such plan, which is included as
+Appendix C
+in the Company’s definitive proxy statement filed on Schedule 14A with the Securities and Exchange Commission on April 17, 2024 and incorporated herein by reference.
+
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+
+The Company held its Annual Meeting on May 31, 2024. The final results of the voting for each matter submitted to a vote of stockholders at the meeting are as follows:
+
+Item 1 - Election of Directors
+
+Each of the following 12 nominees for director were elected to serve a
+one-year
+term expiring at the Company’s 2025 annual meeting of stockholders and until his or her successor is elected and qualified, or until his or her earlier retirement, resignation, disqualification, removal or death.
+
+Name
+
+Votes For
+
+Votes Against
+
+Abstain
+
+Broker Non-
+Votes
+
+Dr. Wanda M. Austin
+
+393,786,163
+
+4,305,331
+
+691,672
+
+64,114,405
+
+Mr. Robert A. Bradway
+
+372,322,447
+
+24,802,538
+
+1,658,181
+
+64,114,405
+
+Dr. Michael V. Drake
+
+391,321,469
+
+6,684,450
+
+777,247
+
+64,114,405
+
+Dr. Brian J. Druker
+
+394,741,846
+
+3,279,694
+
+761,626
+
+64,114,405
+
+Mr. Robert A. Eckert
+
+377,035,518
+
+20,940,310
+
+807,338
+
+64,114,405
+
+Mr. Greg C. Garland
+
+385,520,806
+
+12,454,659
+
+807,701
+
+64,114,405
+
+Mr. Charles M. Holley, Jr.
+
+383,618,321
+
+14,367,464
+
+797,381
+
+64,114,405
+
+Dr. S. Omar Ishrak
+
+394,581,111
+
+3,432,313
+
+769,742
+
+64,114,405
+
+Dr. Tyler Jacks
+
+387,382,721
+
+10,629,702
+
+770,743
+
+64,114,405
+
+Dr. Mary E. Klotman
+
+396,956,012
+
+1,142,719
+
+684,435
+
+64,114,405
+
+Ms. Ellen J. Kullman
+
+389,710,003
+
+8,345,003
+
+728,160
+
+64,114,405
+
+Ms. Amy E. Miles
+
+387,072,432
+
+10,979,990
+
+730,744
+
+64,114,405
+
+On May 31, 2024, the Board appointed Dr. Klotman, a newly elected director, to serve on the Corporate Responsibility and Compliance Committee and the Governance and Nominating Committee, effective June 1, 2024.
+
+Item 2 - Advisory Vote to Approve Our Executive Compensation
+
+The advisory vote to approve our executive compensation was approved.
+
+For:
+
+372,548,836
+
+Against:
+
+24,800,740
+
+Abstain:
+
+1,433,590
+
+Broker Non-Votes:
+
+64,114,405
+
+Item 3 – To Approve Our Amgen Inc. Second Amended and Restated Equity Incentive Plan
+
+Our Amgen Inc. Second Amended and Restated Equity Incentive Plan was approved.
+
+For:
+
+377,156,504
+
+Against:
+
+20,285,985
+
+Abstain:
+
+1,340,677
+
+Broker Non-Votes:
+
+64,114,405
+
+Item 4 - Ratification of Selection of Independent Registered Public Accountants
+
+Ernst & Young LLP was ratified as the Company’s independent registered public accountants for the fiscal year ending December 31, 2024. No Broker
+Non-Votes
+resulted from the vote on this proposal.
+
+For:
+
+433,632,747
+
+Against:
+
+28,413,909
+
+Abstain:
+
+850,915
+
+No other matters were submitted for stockholder action.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+AMGEN INC.
+
+Date: June 3, 2023
+
+By:
+
+/s/ Jonathan P. Graham
+
+Name:
+
+Jonathan P. Graham
+
+Title:
+
+Executive Vice President and General Counsel and
+
+Secretary

@@ -1,0 +1,115 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K/A
+
+(Amendment No. 1)
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported)
+April 2, 2024
+General Electric Co
+mpany
+(Exact name of registrant as specified in its charter)
+
+New York
+001-00035
+14-0689340
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+
+1 Neumann Way,
+Evendale,
+OH
+
+45215
+(Address of principal executive offices)
+
+(Zip Code)
+
+(Registrant’s telephone number, including area code)
+
+(
+617
+)
+443-3000
+
+_______________________________________________
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, par value $0.01 per share
+GE
+New York Stock Exchange
+0.875% Notes due 2025
+GE 25
+New York Stock Exchange
+1.875% Notes due 2027
+GE 27E
+New York Stock Exchange
+1.500% Notes due 2029
+GE 29
+New York Stock Exchange
+7 1/2% Guaranteed Subordinated Notes due 2035
+GE /35
+New York Stock Exchange
+2.125% Notes due 2037
+GE 37
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act.
+☐
+Introductory Note
+On April 2, 2024 at 12:10 a.m. Eastern Time, General Electric Company completed the previously announced separation (the “Spin-Off”) of GE Vernova Inc. (“GE Vernova”). General Electric Company now operates as GE Aerospace (the “Company”). The Spin-Off of GE Vernova was achieved through the Company’s pro rata distribution of all of the outstanding shares of GE Vernova common stock to holders of record of the Company’s common stock. Each holder of record of the Company’s common stock received one share of GE Vernova common stock for every four shares of the Company’s common stock held on March 19, 2024, the record date for the distribution. In lieu of fractional shares of GE Vernova, shareholders of the Company will receive cash. On April 2, 2024, GE Vernova’s common stock began trading on the New York Stock Exchange under the ticker symbol “GEV.”
+In this Amendment No. 1 the Company amends the Current Report on Form 8-K filed by the Company with the Securities and Exchange Commission on April 2, 2024 (the “Original Form 8-K”) that reported the completion of the Spin-Off. The Original Form 8-K did not include the unaudited pro forma financial information of the Company reflecting the performance of the Company’s businesses after giving effect to the Spin-Off. This Amendment No. 1 to the Original Form 8-K is being filed to include such pro forma financial information as required under Item 9.01(b) of Form 8-K.
+The Company no longer consolidates GE Vernova into its financial results. In connection with the Spin-Off, the historical results of GE Vernova and certain assets and liabilities included in the Spin-Off will be reported in the Company's consolidated financial statements as discontinued operations beginning in the second quarter of 2024.
+Unaudited pro forma financial information included in this Amendment No. 1 to the Original Form 8-K has been presented to illustrate the estimated effects of the Spin-Off and is not necessarily indicative of the results of operations that the Company would have achieved had the Spin-Off been completed as of the dates indicated or of the results that may be obtained in the future.
+Item 9.01 Financial Statements and Exhibits.
+(b) Pro Forma Financial Information.
+The following unaudited pro forma financial information of the Company is filed as Exhibit 99.1 to this Amendment No. 1 to the Original Form 8-K and is incorporated herein by reference:
+•
+Unaudited Pro Forma Condensed Consolidated Statement of Financial Position as of December 31, 2023.
+•
+Unaudited Pro Forma Condensed Consolidated Statements of Earnings (Loss) for each of the years ended December 31, 2023, 2022 and 2021.
+•
+Notes to the Unaudited Pro Forma Condensed Consolidated Financial Statements.
+(d) Exhibits.
+99.1
+
+General Electric Company Unaudited Pro Forma Condensed Consolidated Financial Statements.
+104.
+The cover page from this Amendment No. 1 to the Original Form 8-K, formatted in Inline XBRL.
+(2)
+Forward-Looking Statements
+This document contains “forward-looking statements” — that is, statements related to future, not past, events. These forward- looking statements often address GE Aerospace’s expected future business and financial performance and financial condition, and often contain words such as “expect,” “anticipate,” “intend,” “plan,” “believe,” “seek,” “see,” “will,” “would,” “estimate,” “forecast,” “target,” “preliminary,” or “range.” Forward-looking statements by their nature address matters that are, to different degrees, uncertain, and are subject to risks, uncertainties and assumptions. For GE Aerospace, particular areas where risks or uncertainties could cause GE Aerospace’s actual results to be materially different than those expressed in GE Aerospace’s forward-looking statements include: changes in macroeconomic and market conditions and market volatility, including risk of recession, inflation, geopolitical conflict; supply chain constraints or disruptions, interest rates, the value of securities and other financial assets (including GE Aerospace’s equity interest in GE HealthCare), commodity prices and exchange rates, and the impact of such changes and volatility on GE Aerospace’s business operations, financial results and financial position; GE Aerospace’s capital allocation plans, including the timing and amount of dividends, share repurchases, acquisitions, organic investments, and other priorities; and other factors that are described in the “Risk Factors” section of our Annual Report on Form 10-K for the year ended December 31, 2023, as such description may be updated or amended in any future reports that GE Aerospace files with the SEC. These or other uncertainties may cause GE Aerospace’s actual future results to be materially different than those expressed in its forward-looking statements. GE Aerospace does not undertake to update its forward-looking statements.
+(3)
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+General Electric Company
+(Registrant)
+Date: April 8, 2024
+/s/ Rahul Ghai
+Rahul Ghai
+Senior Vice President and Chief Financial Officer
+Principal Financial Officer
+(4)

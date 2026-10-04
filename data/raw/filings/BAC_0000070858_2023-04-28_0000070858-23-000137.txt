@@ -1,0 +1,342 @@
+As filed with the Securities and Exchange Commission on April 28, 2023
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+April 25, 2023
+
+BANK OF AMERICA CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+1-6523
+
+56-0906609
+(State or Other Jurisdiction of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+100 North Tryon Street
+
+Charlotte
+,
+North Carolina
+
+28255
+
+(Address of principal executive offices)
+(
+704
+)
+386-5681
+
+(Registrant’s telephone number, including area code)
+Not Applicable
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.01 per share
+BAC
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of Floating Rate Non-Cumulative Preferred Stock, Series E
+BAC PrE
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 6.000% Non-Cumulative Preferred Stock, Series GG
+BAC PrB
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 5.875% Non-Cumulative Preferred Stock, Series HH
+BAC PrK
+New York Stock Exchange
+7.25% Non-Cumulative Perpetual Convertible Preferred Stock, Series L
+BAC PrL
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,200th interest in a share of
+
+BML PrG
+New York Stock Exchange
+Bank of America Corporation Floating Rate Non-Cumulative
+Preferred Stock, Series 1
+Depositary Shares, each representing a 1/1,200th interest in a share of
+
+BML PrH
+New York Stock Exchange
+Bank of America Corporation Floating Rate Non-Cumulative
+Preferred Stock, Series 2
+Depositary Shares, each representing a 1/1,200th interest in a share of
+
+BML PrJ
+New York Stock Exchange
+Bank of America Corporation Floating Rate Non-Cumulative
+Preferred Stock, Series 4
+Depositary Shares, each representing a 1/1,200th interest in a share of
+
+BML PrL
+New York Stock Exchange
+Bank of America Corporation Floating Rate Non-Cumulative
+Preferred Stock, Series 5
+Floating Rate Preferred Hybrid Income Term Securities of BAC Capital Trust XIII (and the guarantee related thereto)
+BAC/PF
+New York Stock Exchange
+5.63% Fixed to Floating Rate Preferred Hybrid Income Term Securities of BAC Capital Trust XIV (and the guarantee related thereto)
+BAC/PG
+New York Stock Exchange
+Income Capital Obligation Notes initially due December 15, 2066 of Bank of America Corporation
+MER PrK
+New York Stock Exchange
+Senior Medium-Term Notes, Series A, Step Up Callable Notes, due
+
+BAC/31B
+New York Stock Exchange
+November 28, 2031 of BofA Finance LLC (and the guarantee of the
+Registrant with respect thereto)
+Depositary Shares, each representing a 1/1,000th interest in a share of 5.375% Non-Cumulative Preferred Stock, Series KK
+BAC PrM
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 5.000% Non-Cumulative Preferred Stock, Series LL
+BAC PrN
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 4.375% Non-Cumulative Preferred Stock, Series NN
+BAC PrO
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 4.125% Non-Cumulative Preferred Stock, Series PP
+BAC PrP
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 4.250% Non-Cumulative Preferred Stock, Series QQ
+BAC PrQ
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 4.750% Non-Cumulative Preferred Stock, Series SS
+BAC PrS
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR 230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR 240.12b-2).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(e) On April 25, 2023, Bank of America Corporation (the “Corporation”) held its 2023 Annual Meeting of Shareholders (the “Annual Meeting”). At the Annual Meeting, the Corporation’s shareholders approved the amendment and restatement of the Bank of America Corporation Equity Plan (“Plan”) to, among other things, (i) increase the number of shares available for grant by 75 million; (ii) extend the expiration date of the Plan from April 19, 2031 to April 24, 2033; (iii) allow shares withheld to cover tax withholding requirements for awards of restricted stock and restricted stock units to again be available for granting future awards; and (iv) clarify that dividends and dividend equivalents credited with respect to awards cannot become payable unless and until the related award vests. The Plan’s terms are otherwise substantially unchanged.
+A description of the material terms and conditions of the Plan, as amended and restated, appears on pages 85-92 of the Corporation’s revised definitive proxy statement for the Annual Meeting filed with the Securities and Exchange Commission on March 8, 2023. That description, a copy of which is filed as Exhibit 99.1 hereto and is incorporated into this Item 5.02(e) by reference, does not purport to be complete, and is qualified in its entirety by reference to the full text of the amended and restated Plan attached as Exhibit 10.1 to this report and incorporated into this Item 5.02(e) by reference.
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+(a) On April 25, 2023, the Corporation held its Annual Meeting.
+(b) The Corporation’s shareholders: elected all of the nominees for director; approved the advisory vote on executive compensation; voted, on an advisory basis, in favor of holding future advisory votes on executive compensation every year; ratified the appointment of PricewaterhouseCoopers LLP as the Corporation’s independent registered public accounting firm for 2023; and approved the amendment and restatement of the Plan. The Corporation’s shareholders did not approve the shareholder proposals listed below. With respect to all matters subject to a vote, holders of the Corporation’s common stock, Series B Preferred Stock, and Series 1, 2, 4, and 5 Preferred Stock voted together as a class.
+1. Electing directors:
+
+For
+
+Against
+
+Abstain
+
+Broker
+Non-Votes
+Sharon L. Allen
+5,664,794,516
+123,790,029
+17,421,441
+930,135,647
+José E. Almeida
+5,717,700,143
+70,017,676
+18,288,167
+930,135,647
+Frank P. Bramble, Sr.
+5,426,957,433
+360,641,443
+18,407,110
+930,135,647
+Pierre J.P. de Weck
+5,666,192,033
+120,852,923
+18,961,030
+930,135,647
+Arnold W. Donald
+5,652,011,438
+135,135,302
+18,859,246
+930,135,647
+Linda P. Hudson
+5,615,595,404
+172,552,957
+17,857,625
+930,135,647
+Monica C. Lozano
+5,417,245,834
+370,929,927
+17,830,225
+930,135,647
+Brian T. Moynihan
+5,513,347,118
+258,237,195
+34,421,673
+930,135,647
+Lionel L. Nowell III
+5,697,697,536
+89,020,080
+19,288,370
+930,135,647
+Denise L. Ramos
+5,699,513,674
+88,239,003
+18,253,309
+930,135,647
+Clayton S. Rose
+5,678,028,074
+109,668,752
+18,309,160
+930,135,647
+Michael D. White
+5,678,160,610
+109,527,922
+18,317,454
+930,135,647
+Thomas D. Woods
+5,702,612,873
+84,938,101
+18,455,012
+930,135,647
+Maria T. Zuber
+5,453,284,566
+334,811,703
+17,909,715
+930,135,649
+2. Approving the Corporation’s executive compensation (an advisory, non-binding “Say on Pay” resolution):
+
+For
+3,969,374,978
+Against
+1,776,739,731
+Abstain
+59,891,277
+Broker Non-Votes
+930,135,647
+3. A vote on the frequency of future “Say on Pay” resolutions (an advisory, non-binding “Say on Frequency” resolution):
+Each Year
+5,677,571,218
+Every 2 Years
+14,816,455
+Every 3 Years
+84,805,307
+Abstain
+28,813,008
+Broker Non-Votes
+930,135,645
+4. Ratifying the appointment of the Corporation’s independent registered public accounting firm for 2023:
+For
+6,468,655,960
+Against
+246,766,001
+Abstain
+20,719,672
+5. Amending and restating the Bank of America Corporation Equity Plan:
+For
+5,472,386,140
+Against
+307,230,103
+Abstain
+26,389,743
+Broker Non-Votes
+930,135,647
+6. Shareholder proposal - requesting an independent board chair:
+For
+1,497,695,632
+Against
+4,198,834,981
+Abstain
+109,475,374
+Broker Non-Votes
+930,135,646
+7. Shareholder proposal - requesting shareholder ratification of termination pay:
+For
+442,010,498
+Against
+5,319,267,654
+Abstain
+44,727,834
+Broker Non-Votes
+930,135,647
+8. Shareholder proposal - requesting greenhouse gas reduction targets:
+For
+659,616,493
+Against
+5,088,422,504
+Abstain
+57,966,990
+Broker Non-Votes
+930,135,646
+9. Shareholder proposal - requesting report on transition planning:
+For
+1,629,306,837
+Against
+4,095,983,034
+Abstain
+80,716,115
+Broker Non-Votes
+930,135,647
+10. Shareholder proposal - requesting adoption of policy to cease financing new fossil fuel supplies:
+For
+403,488,698
+Against
+5,329,248,085
+Abstain
+73,269,204
+Broker Non-Votes
+930,135,646
+11. Shareholder proposal - requesting a racial equity audit:
+For
+876,395,673
+Against
+4,875,358,102
+Abstain
+54,252,211
+Broker Non-Votes
+930,135,647
+(d) In light of the vote on Proposal 3 and the Corporation’s Board of Directors’ recommendation that shareholders vote to hold future advisory votes on executive compensation each year, the Corporation will hold such vote each year until the next required vote on the frequency of shareholder votes on the compensation of executives.
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibits 10.1 and 99.1 are filed herewith.
+EXHIBIT NO.
+DESCRIPTION OF EXHIBIT
+10.1
+Bank of America Corporation Equity Plan
+, as amended and restated effective April 25, 2023
+99.1
+Description of Bank of America Corporation Equity Plan
+104
+Cover Page Interactive Data File (embedded in the cover page formatted in Inline XBRL)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+BANK OF AMERICA CORPORATION
+By:
+/s/ Ross E. Jeffries, Jr.
+
+Ross E. Jeffries, Jr.
+
+Deputy General Counsel and
+Corporate Secretary
+Dated: April 28, 2023

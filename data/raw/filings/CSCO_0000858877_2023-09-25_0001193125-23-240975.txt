@@ -1,0 +1,187 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+September 21, 2023
+
+CISCO SYSTEMS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-39940
+
+77-0059951
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+170 West Tasman Drive
+,
+San Jose
+,
+California
+
+95134-1706
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(408)
+
+526-4000
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☒
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.001 per share
+
+CSCO
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934 (§
+240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+In connection with Cisco Systems, Inc.’s (the “Company” or “Cisco”) intended acquisition of Splunk Inc. (“Splunk”) previously announced on September 21, 2023, the Company stated that “the transaction is expected to be cash flow positive and gross margin accretive in the first fiscal year post close, and non-GAAP EPS accretive in year two.”
+
+For purposes of this statement and other similar statements, positive or accretive cash flow is the Company’s incremental cash flow from operations anticipated to result from the transaction including cash flow from Splunk’s operations, expected synergies, and financing costs (including foregone interest income), and excluding certain transaction costs, cash payments related to the one-time conversion of Splunk employee equity awards, and cash retention awards.
+
+The information contained in Item 7.01 of this report is furnished pursuant to Item 7.01 of Form 8-K and shall not be deemed “filed” for the purposes of Section 18 of the Exchange Act, or otherwise subject to the liabilities of that section. Furthermore, the information in Item 7.01 of this report shall not be deemed to be incorporated by reference in the filings of the registrant under the Securities Act of 1933, as amended.
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+This report may be deemed to contain forward-looking statements, which are subject to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Any statements that are not statements of historical fact (including statements containing the words “will,” “believes,” “plans,” “anticipates,” “expects,” “estimates,” “strives,” “goal,” “intends,” “may,” “endeavors,” “continues,” “projects,” “seeks,” or “targets,” or the negative of these terms or other comparable terminology, as well as similar expressions) should be considered to be forward-looking statements, although not all forward-looking statements contain these identifying words. Readers should not place undue reliance on these forward-looking statements, as these statements are the management’s beliefs and assumptions, many of which, by their nature, are inherently uncertain, and outside of the management’s control. Forward-looking statements may include statements regarding the expected benefits to Cisco, Splunk and their respective customers from completing the transaction, the integration of Splunk’s and Cisco’s complementary capabilities to create an
+end-to-end
+platform designed to unlock greater digital resilience for customers, plans for future investment and capital allocation, the expected financial performance of Cisco following the expected completion of the transaction, and the expected completion of the transaction. Statements regarding future events are based on the parties’ current expectations, estimates and projections and are necessarily subject to associated risks related to, among other things, (i) the completion of the proposed transaction on anticipated terms and timing, including obtaining stockholder and regulatory approvals and other conditions to the completion of the transaction, (ii) the effect of the announcement or pendency of the proposed transaction on Splunk’s business, operating results, and relationships with customers, suppliers, competitors and others, (iii) risks that the proposed transaction may disrupt Splunk’s current plans and business operations, (iv) risks related to the diverting of management’s attention from Splunk’s ongoing business operations, (v) the occurrence of any event, change or other circumstances that could give rise to the termination of the definitive agreement, (vi) the outcome of any legal proceedings related to the transaction, (vii) the potential effects on the accounting of the proposed transaction, (viii) legislative, regulatory and economic developments, (ix) general economic conditions, (x) restrictions during the pendency of the proposed transaction that may impact Splunk’s ability to pursue certain business opportunities or strategic transactions, (xi) the retention of key personnel, and (xii) the ability of Cisco to successfully integrate Splunk’s market opportunities, technology, personnel and operations and to achieve expected benefits. Therefore, actual results may differ materially and adversely from the anticipated results or outcomes indicated in any forward-looking statements. For information regarding other related risks, see the “Risk Factors” section of Cisco’s most recent report on Form
+10-K
+filed on September 7, 2023, as well as the “Risk Factors” section of Splunk’s most recent reports on Form
+10-Q
+and Form
+10-K
+filed with the SEC on August 24, 2023 and March 23, 2023, respectively. The parties undertake no obligation to revise or update any forward-looking statements for any reason, except as required by law.
+
+Non-GAAP Information
+
+This report includes future estimated cash flow and non-GAAP EPS information. Non-GAAP measures are not in accordance with, or an alternative for, measures prepared in accordance with generally accepted accounting principles (“GAAP”) and may be different from non-GAAP measures used by other companies. In addition, non-GAAP measures are not based on any comprehensive set of accounting rules or principles. Cisco believes that non-GAAP measures have limitations in that they do not reflect all of the amounts associated with Cisco’s results of operations as determined in accordance with GAAP and that these measures should only be used to evaluate Cisco’s results of operations in conjunction with the corresponding GAAP measures. Cisco believes that the presentation of non-GAAP measures provides useful information to investors and management regarding financial and business trends relating to its financial condition and its historical and projected results of operations. We have not reconciled future estimated cash flow or non-GAAP EPS information included in this presentation to the most directly comparable GAAP measure because this cannot be done without unreasonable effort because we do not currently have sufficient data to accurately estimate the individual adjustments included in the most directly comparable GAAP measure that would be necessary for such reconciliations. We expect the variability of these items to have a potentially unpredictable, and a potentially significant, impact on our future GAAP financial results.
+
+Additional Information and Where to Find It
+
+In connection with the proposed transaction and required stockholder approval, Splunk will file with the Securities and Exchange Commission (the “SEC”) a preliminary proxy statement and a definitive proxy statement. The proxy statement will be mailed to the stockholders of Splunk.
+Splunk’s stockholders are urged to carefully read the proxy statement (including all amendments, supplements and any documents incorporated by reference therein) and other relevant materials filed or to be filed with the SEC and in their entirety when they become available because they will contain important information about the proposed transaction and the parties to the transaction.
+Investors may obtain free copies of these documents (when they are available) and other documents filed with the SEC at its website at www.sec.gov. In addition, investors may obtain free copies of the documents filed with the SEC by Splunk by going to Splunk’s Investor Relations page on its corporate website at https://investors.splunk.com or by contacting Splunk Investor Relations at ir@splunk.com.
+
+Participants in the Solicitation
+
+Splunk and its executive officers and directors may be deemed to be participants in the solicitation of proxies from Splunk’s stockholders with respect to the transaction. Information about Splunk’s directors and executive officers, including their ownership of Splunk securities, is set forth in the proxy statement for Splunk’s 2023 Annual Meeting of Stockholders, which was filed with the SEC on May 9, 2023, Form
+8-K
+filed with the SEC on September 21, 2023, and Splunk’s other filings with the SEC. Investors may obtain more detailed information regarding the direct and indirect interests of Splunk and its respective executive officers and directors in the transaction, which may be different than those of Splunk stockholders generally, by reading the preliminary and definitive proxy statements regarding the transaction, which will be filed with the SEC.
+
+In addition, Cisco and its executive officers and directors may be deemed to have participated in the solicitation of proxies from Splunk’s stockholders in favor of the approval of the transaction. Information concerning Cisco’s directors and executive officers is set forth in Cisco’s proxy statement for its 2022 Annual Meeting of Stockholders, which was filed with the SEC on October 18, 2022, annual report on Form
+10-K
+filed with the SEC on September 7, 2023, Forms
+8-K
+filed with the SEC on February 21, 2023, July 19, 2023, and September 21, 2023, and Cisco’s other filings with the SEC. These documents are available free of charge at the SEC’s website at www.sec.gov or by going to Cisco’s Investor Relations website at https://investor.cisco.com.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+CISCO SYSTEMS, INC.
+
+Dated: September 25, 2023
+
+By:
+
+/s/ Evan Sloves
+
+Name:
+
+Evan Sloves
+
+Title:
+
+Secretary

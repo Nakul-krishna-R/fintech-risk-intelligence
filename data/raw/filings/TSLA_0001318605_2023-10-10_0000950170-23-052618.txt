@@ -1,0 +1,130 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+FORM
+8-K/A
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported):
+May 16, 2023
+
+Tesla, Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+Delaware
+
+001-34756
+
+91-2197729
+
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission
+File Number)
+
+(I.R.S. Employer
+Identification No.)
+
+1 Tesla Road
+
+Austin
+,
+Texas
+
+78725
+
+(Address of Principal Executive Offices, and Zip Code)
+
+(
+512
+)
+516-8177
+
+Registrant’s Telephone Number, Including Area Code
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+
+☐
+
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communication pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communication pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock
+
+TSLA
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Explanatory Note
+
+Tesla Inc. ("
+Tesla
+”) is filing this Amendment (this “
+Amendment
+”) on Form 8-K/A, to Tesla’s Current Report on Form 8-K, originally filed with the Securities and Exchange Commission on May 22, 2023 (the “
+Original Report
+”). The Original Report was filed to report the results of the matters submitted to a vote by Tesla’s stockholders at its 2023 Annual Meeting of Stockholders held on May 16, 2023 (the “
+2023 Annual Meeting
+”). The sole purpose of this Amendment is to disclose, in accordance with Item 5.07(d) of Form 8-K, Tesla’s decision as to how frequently it will conduct future stockholder advisory votes regarding executive compensation.
+
+Item 5.07
+
+Submission of Matters to a Vote of Security Holders.
+
+As previously reported in the Original Report, in a non-binding advisory vote on the frequency of holding future non-binding votes on executive compensation held at the 2023 Annual Meeting, 1,053,432,376 shares voted for one year, 6,787,189 shares voted for two years, 801,283,053 shares voted for three years, 31,564,360 shares abstained and there were 526,990,497 broker non-votes.
+
+Consistent with the stockholder vote, Tesla intends to include a stockholder advisory vote on executive compensation in its proxy materials every year until the next vote on the frequency of stockholder advisory votes on executive compensation.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+TESLA, INC.
+
+By:
+
+/s/ Brandon Ehrhart
+
+Brandon Ehrhart
+General Counsel and Corporate Secretary
+
+Date: October 10, 2023

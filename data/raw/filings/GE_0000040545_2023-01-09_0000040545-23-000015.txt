@@ -1,0 +1,118 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K/A
+
+(Amendment No. 1)
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported)
+January 3, 2023
+General Electric Co
+mpany
+(Exact name of registrant as specified in its charter)
+
+New York
+001-00035
+14-0689340
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+
+5 Necco Street
+Boston,
+MA
+
+02210
+(Address of principal executive offices)
+
+(Zip Code)
+
+(Registrant’s telephone number, including area code)
+
+(
+617
+)
+443-3000
+
+_______________________________________________
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, par value $0.01 per share
+GE
+New York Stock Exchange
+1.250% Notes due 2023
+GE 23E
+New York Stock Exchange
+0.875% Notes due 2025
+GE 25
+New York Stock Exchange
+1.875% Notes due 2027
+GE 27E
+New York Stock Exchange
+1.500% Notes due 2029
+GE 29
+New York Stock Exchange
+7 1/2% Guaranteed Subordinated Notes due 2035
+GE /35
+New York Stock Exchange
+2.125% Notes due 2037
+GE 37
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act.
+☐
+Introductory Note
+As previously reported, on January 3, 2023 at 5:00 p.m. New York City time, General Electric Company (“GE” or “Company”) completed the separation (the “Spin-Off”) of GE HealthCare Technologies Inc. (“GE HealthCare”) from the Company in accordance with the Separation and Distribution Agreement, dated November 7, 2022, between the Company and GE HealthCare. The Spin-Off was achieved through the Company’s pro-rata distribution of approximately 80.1% of the outstanding shares of GE HealthCare common stock to GE shareholders. Each holder of record of GE common stock received one share of GE HealthCare common stock for every three shares of GE common stock held on December 16, 2022, the record date for the distribution. In lieu of fractional shares of GE HealthCare, shareholders of GE will receive cash. On January 4, 2023, GE HealthCare’s common stock began trading on The Nasdaq Stock Market LLC under the ticker symbol “GEHC.”
+This Amendment No. 1 to the Original Form 8-K amends the Current Report on Form 8-K filed by the Company with the Securities and Exchange Commission on January 4, 2023 (the “Original Form 8-K”) that reported the completion of the Spin-Off. The Original Form 8-K did not include the unaudited pro forma financial information of the Company reflecting the performance of the Company’s businesses after giving effect to the Spin-Off. This Amendment No. 1 to the Original Form 8-K is being filed to include such pro forma financial information as required under Item 9.01(b) of Form 8-K.
+GE no longer consolidates GE HealthCare into its financial results. In connection with the Spin-Off, the historical results of GE HealthCare and certain assets and liabilities included in the Spin-Off will be reported in GE's consolidated financial statements as discontinued operations beginning in the first quarter of 2023.
+GE will prospectively measure its remaining 19.9% ownership interest in GE HealthCare at fair value. This ownership interest and the related earnings impact from subsequent changes in fair value in the ownership interest will be recognized in continuing operations. Unaudited pro forma financial information included in this Amendment No. 1 to the Original Form 8-K has been presented to illustrate the estimated effects of the Spin-Off and is not necessarily indicative of the results of operations that GE would have achieved had the Spin-Off been completed as of the dates indicated or of the results that may be obtained in the future.
+Item 9.01 Financial Statements and Exhibits.
+(b) Pro Forma Financial Information.
+The following unaudited pro forma financial information of the Company is filed as Exhibit 99.1 to this Amendment No. 1 to the Original Form 8-K and is incorporated herein by reference:
+•
+Unaudited Pro Forma Condensed Consolidated Statement of Financial Position as of September 30, 2022.
+•
+Unaudited Pro Forma Condensed Consolidated Statements of Earnings (Loss) for the nine months ended September 30, 2022 and each of the years ended December 31, 2021, 2020 and 2019.
+•
+Notes to the Unaudited Pro Forma Condensed Consolidated Financial Statements.
+(d) Exhibits.
+99.
+1
+
+General Electric Company Unaudited Pro Forma Condensed Consolidated Financial Statements.
+104
+. The cover page from this Amendment No. 1 to the Original Form 8-K, formatted in Inline XBRL.
+(2)
+Forward-Looking Statements
+This document contains “forward-looking statements”—that is, statements related to future, not past, events. These forward- looking statements often address GE's expected future business and financial performance and financial condition, and often contain words such as "expect," "anticipate," "intend," "plan," "believe," "seek," "see," "will," "would," "estimate," "forecast," "target," "preliminary," or "range." Forward-looking statements by their nature address matters that are, to different degrees, uncertain, and are subject to risks, uncertainties and assumptions. Should one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect, actual results may vary materially from those indicated or anticipated by such forward-looking statements. The inclusion of such statements should not be regarded as a representation that such plans, estimates or expectations will be achieved. For GE, particular areas where risks or uncertainties could cause GE’s actual results to be materially different than those expressed in GE’s forward-looking statements include: GE’s success in executing and completing asset dispositions or other transactions, including GE’s plans to pursue the spin-off its portfolio of energy businesses that are planned to be combined as GE Vernova (Renewable Energy, Power, Digital and Energy Financial Services), and sales or other dispositions of GE’s equity interests in Baker Hughes Company, AerCap Holdings N.V. and GE HealthCare Technologies Inc., the timing for such transactions, the ability to satisfy any applicable pre-conditions, and the expected proceeds, consideration and benefits to GE; changes in macroeconomic and market conditions and market volatility, including impacts related to the COVID-19 pandemic, risk of recession, inflation, supply chain constraints or disruptions, rising interest rates, oil, natural gas and other commodity prices and exchange rates, and the impact of such changes and volatility on GE’s business operations, financial results and financial position; and GE’s de-leveraging and capital allocation plans, including with respect to actions to reduce its indebtedness, the capital structures of the public companies that GE plans to form from its businesses, the timing and amount of dividends, share repurchases, organic investments, and other priorities; and other factors that are described in the “Risk Factors” section of GE’s Annual Report on Form 10-K for the year ended December 31, 2021 and its Quarterly Report on Form 10-Q for the quarter ended March 31, 2022, as such descriptions may be updated or amended in any future reports that GE files with the SEC. These or other uncertainties may cause GE’s actual future results to be materially different than those expressed in its forward-looking statements. GE does not undertake to update its forward-looking statements.
+(3)
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+General Electric Company
+(Registrant)
+Date: January 9, 2023
+/s/ Thomas S. Timko
+Thomas S. Timko
+Vice President, Chief Accounting Officer and Controller
+(4)

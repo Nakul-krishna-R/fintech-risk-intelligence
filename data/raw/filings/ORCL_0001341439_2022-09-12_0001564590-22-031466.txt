@@ -1,0 +1,156 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+September 12, 2022
+
+Oracle Corporation
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-35992
+
+54-2185193
+
+(State or other jurisdiction of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+2300 Oracle Way
+,
+Austin
+,
+Texas
+
+78741
+
+(Address of principal executive offices) (Zip Code)
+
+(737)
+
+867-1000
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, par value $0.01 per share
+
+3.125% senior notes due July 2025
+
+ORCL
+
+New York Stock Exchange
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Section 2—Financial Information
+
+Item 2.02 Results of Operations and Financial Condition
+
+On September 12, 2022, Oracle Corporation (“Oracle”) issued a press release announcing financial results for its fiscal first quarter ended August 31, 2022. A copy of this press release is furnished as Exhibit 99.1 to this report.
+
+Section 8—Other Events
+
+Item 8.01 Other Events
+
+Oracle announced that its Board of Directors has declared a cash dividend of $0.32 per share of outstanding common stock payable on October 25, 2022, to stockholders of record as of the close of business on October 12, 2022.
+
+Section 9—Financial Statements and Exhibits
+
+Item 9.01 Financial Statements and Exhibits
+
+(d) Exhibits
+
+Exhibit
+
+No.
+
+Description of Exhibit
+
+99.1
+
+Press Release dated September 12, 2022
+
+104
+
+Cover Page Interactive Data File - the cover page iXBRL tags are embedded within the Inline XBRL document
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ORACLE CORPORATION
+
+Dated: September 12, 2022
+
+By:
+
+/S/ W
+ILLIAM
+C
+OREY
+W
+EST
+
+William Corey West
+
+Executive Vice President, Chief Accounting Officer
+
+(Principal Accounting Officer)

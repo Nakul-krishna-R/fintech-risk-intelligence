@@ -1,0 +1,145 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (date of earliest event reported):
+January 24, 2023
+
+WELLS FARGO & COMPANY
+(Exact name of registrant as specified in its charter)
+Delaware
+
+001-02979
+
+No.
+41-0449260
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission File
+Number)
+
+(IRS Employer
+Identification No.)
+
+420 Montgomery Street
+,
+San Francisco
+,
+California
+
+94104
+
+(Address of principal executive offices) (Zip Code)
+Registrant's telephone number, including area code:
+1-
+866
+-
+249-3302
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol
+Name of Each Exchange
+on Which Registered
+Common Stock, par value $1-2/3
+WFC
+New York Stock
+Exchange
+(
+NYSE
+)
+7.5% Non-Cumulative Perpetual Convertible Class A Preferred Stock, Series L
+WFC.PRL
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of
+5.85% Fixed-to-Floating Rate Non-Cumulative Perpetual Class A Preferred Stock, Series Q
+WFC.PRQ
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of
+6.625% Fixed-to-Floating Rate Non-Cumulative Perpetual Class A Preferred Stock, Series R
+WFC.PRR
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Y
+WFC.PRY
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Z
+WFC.PRZ
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series AA
+WFC.PRA
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series CC
+WFC.PRC
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series DD
+WFC.PRD
+NYSE
+Guarantee of Medium-Term Notes, Series A, due October 30, 2028 of Wells Fargo Finance LLC
+WFC/28A
+NYSE
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act (17 CFR 230.405) or Rule 12b-2 of the Exchange Act (17 CFR 240.12b‑2).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+o
+Item 8.01. Other Events.
+Wells Fargo & Company (the “Company”) announced that the independent members of the Board of Directors (the “Board”) approved the annual compensation for 2022 for Mr. Charles W. Scharf, CEO and President, in the amount of $24.5 million, which is unchanged from his compensation last year.
+According to our executive compensation design, which remains unchanged from 2021, 65% of Mr. Scharf’s total variable compensation is determined based on the overall performance of the Company and 35% is determined based on the assessment of his individual performance against pre-determined goals set by the Human Resources Committee (“HRC”) of the Board. In February 2022, following a thorough review of peer CEO pay levels, the Board established Mr. Scharf’s target total compensation of $27 million.
+The HRC assessed the Company performance in excess of 100% based on financial metrics consistent with last year and progress against the strategic priorities. In assessing Mr. Scharf’s individual performance, the HRC reviewed the significant body of work still necessary to transform the Company and noted his strong leadership and demonstrated progress in addressing key risk and control issues, advancing our business interests and contributions to our communities, upskilling talent while building a diverse and inclusive workforce, and positioning the Company for future success. Based on these considerations and the overall Company performance, the program design would have resulted in a total compensation above Mr. Scharf’s target of $27 million.
+Prior to the HRC reaching its recommendation on CEO compensation, Mr. Scharf approached the Chair of the HRC and asked the HRC and the Board to consider not increasing his compensation. Mr. Scharf acknowledged the strong performance of the Company and significant progress in its transformation journey but noted the remaining work left to be completed and therefore, did not believe an increase in compensation level was appropriate this year.
+The HRC considered and agreed with Mr. Scharf’s suggestion and exercised negative discretion by recommending to the Board a lower compensation level versus the outcome of the plan, and the Board approved this recommendation. Mr. Scharf’s compensation consists of a base salary of $2.5 million and total variable compensation of $22 million, which is consistent with the prior year. The variable incentive compensation will be structured as: a cash incentive of $5.4 million; a long-term Performance Share award of $10.8 million; and a long-term Restricted Share Rights award of $5.8 million. The HRC made no changes to key terms and conditions of the Performance Share award and Restricted Share Rights award. Mr. Scharf’s long-term stock awards will be subject to our stock ownership policy.
+Under Mr. Scharf’s leadership, Wells Fargo delivered strong results despite the challenging macro environment:
+•
+Advanced our strategic capabilities relating to business operations, infrastructure, and customer growth.
+•
+Delivered value with net income of $13.2 billion and diluted earnings per share of $3.14.
+•
+Continued progress in addressing risk, control and regulatory issues, including reaching a broad-reaching settlement with the Consumer Financial Protection Bureau (CFPB) resolving multiple matters.
+•
+Building and expanding a high-performance leadership team, improving succession readiness, and stabilizing key business and functional areas through focused and effective talent, leadership, and culture initiatives.
+•
+Demonstrating and delivering measurable results on our commitments to serve our communities and other stakeholders; published the inaugural Diversity, Equity, and Inclusion report.
+•
+Enhanced the customer experience through innovative products and services, including two new credit cards, new digital offerings for customers and helping customers avoid overdraft fees.
+The Board expressed strong confidence in Mr. Scharf’s leadership in driving the continued transformation of Wells Fargo and values his ongoing contribution and commitment to our shareholders, customers, communities, and employees.
+Additional important information about the HRC’s oversight of the Company’s governance and executive compensation philosophy, policies, and practices for Mr. Scharf and the other named executive officers, will be presented in our proxy statement for the 2023 annual meeting of stockholders, expected to be filed with the Securities and Exchange Commission in March 2023.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits
+
+Exhibit No.
+Description
+Location
+104
+Cover Page Interactive Data File.
+Embedded within the Inline XBRL document.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated:
+January 26, 2023
+WELLS FARGO & COMPANY
+By:
+/s/ TANGELA RICHTER
+Tangela Richter
+Executive Vice President,
+Deputy General Counsel and Secretary

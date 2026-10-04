@@ -1,0 +1,241 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+February 21, 2024
+
+CISCO SYSTEMS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-39940
+
+77-0059951
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+Identification No.)
+
+170 West Tasman Drive
+,
+San Jose
+,
+California
+
+95134-1706
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(408)
+
+526-4000
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.001 per share
+
+CSCO
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934 (§
+240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+On February 26, 2024, Cisco Systems, Inc. (the “Company”) issued $1,000,000,000 principal amount of its 4.900% Senior Notes due 2026 (the “2026 Notes”), $2,000,000,000 principal amount of its 4.800% Senior Notes due 2027 (the “2027 Notes”), $2,500,000,000 principal amount of its 4.850% Senior Notes due 2029 (the “2029 Notes”), $2,500,000,000 principal amount of its 4.950% Senior Notes due 2031 (the “2031 Notes”), $2,500,000,000 principal amount of its 5.050% Senior Notes due 2034 (the “2034 Notes”), $2,000,000,000 principal amount of its 5.300% Senior Notes due 2054 (the “2054 Notes”) and $1,000,000,000 principal amount of its 5.350% Senior Notes due 2064 (the “2064 Notes” and, together with the 2026 Notes, the 2027 Notes, the 2029 Notes, the 2031 Notes, the 2034 Notes and the 2054 Notes, the “Notes”). The Notes are governed by an Indenture, dated as of February 26, 2024 (the “Base Indenture”), between the Company and The Bank of New York Mellon Trust Company, N.A., the trustee (the “Trustee”), as supplemented by the First Supplemental Indenture, dated as of February 26, 2024 (the “First Supplemental Indenture” and, together with the Base Indenture, the “Indenture”), between the Company and the Trustee.
+
+The Notes were sold pursuant to an underwriting agreement, dated February 21, 2024 (the “Underwriting Agreement”), among the Company and BofA Securities, Inc., Barclays Capital Inc., Citigroup Global Markets Inc., Deutsche Bank Securities Inc., J.P. Morgan Securities LLC and Wells Fargo Securities, LLC on behalf of the several underwriters named therein. The Company intends to use the proceeds from this offering for general corporate purposes, including the partial financing of the proposed acquisition of Splunk Inc. by the Company (the “Acquisition”), as contemplated by that certain Agreement and Plan of Merger, dated as of September 20, 2023, by and among the Company, Splunk Inc. and Spirit Merger Corp., as the same may be amended, supplemented or otherwise modified. The Notes were offered pursuant to the Company’s Registration Statement on Form
+S-3
+(File
+No. 333-277109)
+filed with the Securities and Exchange Commission (the “SEC”), as supplemented by the prospectus supplement dated February 21, 2024 relating to the Notes.
+
+The 2026 Notes mature on February 26, 2026, the 2027 Notes mature on February 26, 2027, the 2029 Notes mature on February 26, 2029, the 2031 Notes mature on February 26, 2031, the 2034 Notes mature on February 26, 2034, the 2054 Notes mature on February 26, 2054 and the 2064 Notes mature on February 26, 2064. The 2026 Notes will bear interest from February 26, 2024 at the rate of 4.900% per annum, payable semiannually, the 2027 Notes will bear interest from February 26, 2024 at the rate of 4.800% per annum, payable semiannually, the 2029 Notes will bear interest from February 26, 2024 at the rate of 4.850% per annum, payable semiannually, the 2031 Notes will bear interest from February 26, 2024 at the rate of 4.950% per annum, payable semiannually, the 2034 Notes will bear interest from February 26, 2024 at the rate of 5.050% per annum, payable semiannually, the 2054 Notes will bear interest from February 26, 2024 at the rate of 5.300% per annum, payable semiannually and the 2064 Notes will bear interest from February 26, 2024 at the rate of 5.350% per annum, payable semiannually.
+
+The Company will have the option to redeem the 2026 Notes, the 2027 Notes, the 2029 Notes, the 2031 Notes, the 2034 Notes, the 2054 Notes and the 2064 Notes, in whole or in part, (i) at any time at the applicable make-whole premium redemption price or (ii) at a redemption price equal to 100% of the principal amount of the Notes being redeemed, with respect to the 2027 Notes, beginning on January 26, 2027 (one month prior to the maturity date of such Notes), with respect to the 2029 Notes, beginning on January 26, 2029 (one month prior to the maturity date of such Notes), with respect to the 2031 Notes, beginning on December 26, 2030 (two months prior to the maturity date of such Notes), with respect to the 2034 Notes, beginning on November 26, 2033 (three months prior to the maturity date of such Notes), with respect to the 2054 Notes, beginning on August 26, 2053 (six months prior to the maturity date of such Notes) and with respect to the 2064 Notes, beginning on August 26, 2063 (six months prior to the maturity date of such Notes), in each case including accrued interest to but excluding the relevant redemption date.
+
+In the event that (i) the Acquisition is not consummated on or prior to the Special Mandatory Redemption End Date (as defined in the First Supplemental Indenture) or (ii) the Company notifies the Trustee that it will not pursue consummation of the Acquisition, then the Company will be required to redeem all of the Notes at a redemption price equal to 101% of the aggregate principal amount of such Notes, plus accrued and unpaid interest, if any, to, but not including, the Special Mandatory Redemption Date.
+
+The Notes are unsecured and will rank equally in right of payment with all of our other existing and future senior unsecured indebtedness. The Notes will effectively rank junior to all liabilities of our subsidiaries.
+
+The Indenture governing the Notes contains covenants limiting our ability to consolidate with or into another person, or sell, transfer or lease or convey all or substantially all our properties and assets to another person.
+
+Events of default under the Indenture include, among others, the following (subject in certain cases to grace and cure periods): nonpayment of interest and principal on the Notes after becoming due and breach of covenants contained in the Indenture.
+
+The foregoing descriptions of the Underwriting Agreement, the Base Indenture and the First Supplemental Indenture (including the forms of the Notes) are qualified in their entirety by the terms of such agreements. Please refer to such agreements, each of which are incorporated herein by reference and attached hereto as Exhibits 1.1, 4.1 and 4.2, respectively.
+
+Item 2.03
+
+Creation of a Direct Financial Obligation or an Obligation under an
+Off-Balance
+Sheet Arrangement of a Registrant.
+
+The information provided in Item 1.01 of this Report is incorporated by reference into this Item 2.03.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d)
+
+Exhibits
+
+The following documents are attached as exhibits to this Current Report on Form
+8-K:
+
+Exhibit
+No.
+
+Exhibit Description
+
+1.1
+
+Underwriting Agreement, dated as of February 21, 2024, among Cisco Systems, Inc. and BofA Securities, Inc., Barclays Capital Inc., Citigroup Global Markets Inc., Deutsche Bank Securities Inc., J.P. Morgan Securities LLC and Wells Fargo Securities, LLC, for itself and on behalf of the several underwriters listed therein
+
+4.1
+
+Indenture, dated as of February 26, 2024, between Cisco Systems, Inc. and The Bank of New York Mellon Trust Company, N.A., as trustee
+
+4.2
+
+First Supplemental Indenture, dated as of February 26, 2024, between Cisco Systems, Inc. and the Bank of New York Mellon Trust Company, N.A., as trustee, relating to the issuance of the 4.900% Senior Notes due 2026, 4.800% Senior Notes due 2027, 4.850% Senior Notes due 2029, 4.950% Senior Notes due 2031, 5.050% Senior Notes due 2034, 5.300% Senior Notes due 2054 and 5.350% Senior Notes due 2064
+
+4.3
+
+Form of the 4.900% Senior Notes due 2026 (included in Exhibit 4.2)
+
+4.4
+
+Form of the 4.800% Senior Notes due 2027 (included in Exhibit 4.2)
+
+4.5
+
+Form of the 4.850% Senior Notes due 2029 (included in Exhibit 4.2)
+
+4.6
+
+Form of the 4.950% Senior Notes due 2031 (included in Exhibit 4.2)
+
+4.7
+
+Form of the 5.050% Senior Notes due 2034 (included in Exhibit 4.2)
+
+4.8
+
+Form of the 5.300% Senior Notes due 2054 (included in Exhibit 4.2)
+
+4.9
+
+Form of the 5.350% Senior Notes due 2064 (included in Exhibit 4.2)
+
+5.1
+
+Legal Opinion of Simpson Thacher & Bartlett LLP
+
+23.1
+
+Consent of Simpson Thacher & Bartlett LLP (included in Exhibit 5.1)
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+CISCO SYSTEMS, INC.
+
+Dated: February 26, 2024
+
+By:
+
+/s/ Evan Sloves
+
+Name:
+
+Evan Sloves
+
+Title:
+
+Secretary

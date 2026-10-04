@@ -1,0 +1,211 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of
+The Securities Exchange Act of 1934
+March 5, 2024
+
+Date of Report (Date of earliest event reported)
+QUALCOMM Incorporated
+(Exact name of registrant as specified in its charter)
+Delaware
+
+(State or other jurisdiction of incorporation)
+000-19528
+95-3685934
+(Commission File Number)
+(IRS Employer Identification No.)
+5775 Morehouse Drive
+,
+San Diego
+,
+California
+92121
+(Address of principal executive offices)
+(Zip Code)
+858
+-
+587-1121
+
+(Registrant’s telephone number, including area code)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.0001 par value
+
+QCOM
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+QUALCOMM Incorporated (the “Company”) held its 2024 Annual Meeting of Stockholders on March 5, 2024 (the “Annual Meeting”). At the Annual Meeting, the Company’s stockholders considered six proposals, each of which is described briefly below and in more detail in the Company’s definitive proxy statement dated January 18, 2024. The final voting results for each proposal are set forth below.
+Proposal 1 - Election of Directors.
+NOMINEE
+FOR
+WITHHOLD
+ABSTAIN
+BROKER NON-VOTES
+Sylvia Acevedo
+760,355,069
+9,153,712
+2,006,521
+169,239,067
+Cristiano R. Amon
+766,126,053
+3,464,681
+1,924,568
+169,239,067
+Mark Fields
+765,778,270
+3,640,042
+2,096,990
+169,239,067
+Jeffrey W. Henderson
+721,461,392
+47,364,824
+2,689,086
+169,239,067
+Gregory N. Johnson
+761,878,762
+7,462,637
+2,173,903
+169,239,067
+Ann M. Livermore
+757,945,534
+11,534,890
+2,034,878
+169,239,067
+Mark D. McLaughlin
+766,283,887
+3,426,355
+1,805,060
+169,239,067
+Jamie S. Miller
+767,105,238
+2,591,884
+1,818,180
+169,239,067
+Irene B. Rosenfeld
+754,414,187
+14,932,203
+2,168,912
+169,239,067
+Kornelis (Neil) Smit
+761,890,019
+7,385,772
+2,239,511
+169,239,067
+Jean-Pascal Tricoire
+758,499,444
+10,957,051
+2,058,807
+169,239,067
+Anthony J. Vinciquerra
+760,400,856
+8,655,684
+2,458,762
+169,239,067
+Each of the foregoing nominees was elected and each received affirmative votes from more than a majority of the votes cast.
+Proposal 2 - Ratification of the selection of PricewaterhouseCoopers LLP as our independent public accountants for our fiscal year ending September 29, 2024.
+FOR
+AGAINST
+ABSTAIN
+BROKER NON-VOTES
+879,741,118
+59,478,933
+1,534,318
+0
+The foregoing proposal required the affirmative vote of a majority of the votes cast at the Annual Meeting.
+The foregoing proposal was approved.
+Proposal 3 – Approval, on an advisory basis, of the compensation of our named executive officers.
+
+FOR
+AGAINST
+ABSTAIN
+BROKER NON-VOTES
+704,559,020
+64,229,539
+2,726,743
+169,239,067
+The foregoing proposal required the affirmative vote of a majority of the votes cast at the Annual Meeting.
+The foregoing proposal was approved.
+Proposal 4 – Approval of the Amended and Restated QUALCOMM Incorporated 2023 Long-Term Incentive Plan, including an increase in the share reserve by 15,000,000 shares.
+
+FOR
+AGAINST
+ABSTAIN
+BROKER NON-VOTES
+727,349,131
+41,254,472
+2,911,699
+169,239,067
+The foregoing proposal required the affirmative vote of a majority of the votes cast at the Annual Meeting.
+The foregoing proposal was approved.
+Proposal 5 – Approval of an amendment to the Company’s Certificate of Incorporation to reflect new Delaware law provisions regarding exculpation of officers.
+
+FOR
+AGAINST
+ABSTAIN
+BROKER NON-VOTES
+677,500,105
+92,215,670
+1,799,527
+169,239,067
+The foregoing proposal required the affirmative vote of a majority of the Company’s outstanding shares entitled to vote at the Annual Meeting.
+The foregoing proposal was approved. On March 6, 2024, the Company filed with the Secretary of State of the State of Delaware an Amended and Restated Certificate of Incorporation incorporating the approved amendment, at which point the amendment became effective. A copy of the Amended and Restated Certificate of Incorporation is attached hereto as Exhibit 3.1 and incorporated herein by reference.
+Proposal 6 – Approval of an amendment to the Company’s Bylaws (the “Bylaws”) to require claims under the Securities Act to be brought in federal court.
+
+FOR
+AGAINST
+ABSTAIN
+BROKER NON-VOTES
+671,581,992
+95,670,245
+4,263,065
+169,239,067
+The foregoing proposal required the affirmative vote of a majority of the Company’s outstanding shares entitled to vote at the Annual Meeting.
+The foregoing proposal was approved, and the applicable amendment to the Bylaws became effective immediately upon approval. A copy of the Bylaws, as amended and restated to incorporate the approved amendment, is attached hereto as Exhibit 3.2 and incorporated herein by reference.
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit No.
+Description
+3.1
+Amended and Restated Certificate of Incorporation of Q
+UALCOMM
+Incorporated (effective as of March
+6
+, 2024).
+3.2
+Amended and Restated Bylaws of QUALCOMM Incorporated (effective as of March 5, 2024).
+104
+Cover Page Interactive Data File, formatted in Inline XBRL and included as Exhibit 101.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+QUALCOMM Incorporated
+Date:
+March 7, 2024
+By:
+/s/ Ann Chaplin
+Ann Chaplin
+General Counsel and Corporate Secretary

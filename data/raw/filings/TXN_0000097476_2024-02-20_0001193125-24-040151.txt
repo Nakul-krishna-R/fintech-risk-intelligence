@@ -1,0 +1,146 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+DATE OF REPORT (DATE OF EARLIEST EVENT REPORTED):
+February 15, 2024
+
+TEXAS INSTRUMENTS INCORPORATED
+
+(Exact name of registrant as specified in charter)
+
+DELAWARE
+
+001-03761
+
+75-0289970
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+file number)
+
+(I.R.S. employer
+identification no.)
+
+12500 TI BOULEVARD
+
+DALLAS
+,
+TEXAS
+
+75243
+
+(Address of principal executive offices)
+
+Registrant’s telephone number, including area code:
+(214)
+
+479-3773
+
+Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock, par value $1.00
+
+TXN
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ITEM 5.02.
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On February 15, 2024, the Board of Directors of Texas Instruments Incorporated (“TI”) elected Reginald DesRoches to the Board of Directors of TI and to the Board’s Audit Committee effective March 1, 2024.
+
+In connection with his service as a director, Dr. DesRoches will receive TI’s standard
+non-employee
+director cash and equity compensation as described in the Texas Instruments 2018 Director Compensation Plan, as amended. As a new director, Dr. DesRoches will receive (i) a
+one-time
+initial equity award of restricted stock units with a grant-date value of approximately $230,000, and (ii) a pro rata portion of the $110,000 annual retainer for his service through the remaining portion of the year.
+
+The Board determined that Dr. DesRoches has no relationship that, in the opinion of the Board, would interfere with his exercise of independent judgment in carrying out his responsibilities as director. There have been no transactions involving TI or any of its subsidiaries in which Dr. DesRoches has or will have a direct or indirect material interest that are required to be disclosed by Item 404(a) of Regulation
+S-K.
+
+ITEM 7.01.
+
+Regulation FD Disclosure.
+
+TI’s news release announcing Dr. DesRoches’s election is attached hereto as Exhibit 99.
+
+ITEM 9.01.
+
+Exhibits.
+
+Designation
+of Exhibit
+in this
+Report
+
+Description of Exhibit
+
+99
+
+Registrant’s News Release
+
+Dated February 20, 2024 (furnished pursuant to Item 7.01)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+TEXAS INSTRUMENTS INCORPORATED
+
+Date: February 20, 2024
+
+By:
+
+/s/ Cynthia Hoff Trochu
+
+Cynthia Hoff Trochu
+
+Senior Vice President, Secretary and General Counsel

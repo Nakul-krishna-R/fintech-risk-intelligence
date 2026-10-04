@@ -1,0 +1,97 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+DATE OF REPORT (DATE OF EARLIEST EVENT REPORTED):
+April 23, 2024
+TEXAS INSTRUMENTS INCORPORATED
+(Exact name of registrant as specified in charter)
+Delaware
+
+001-03761
+
+75-0289970
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+file number)
+
+(I.R.S. employer
+identification no.)
+12500 TI Boulevard
+Dallas
+,
+Texas
+
+75243
+(Address of principal executive offices)
+Registrant’s telephone number, including area code: (
+214
+)
+479-3773
+
+Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange on which registered
+Common Stock, par value $1.00
+
+TXN
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+ITEM 2.02. Results of Operations and Financial Condition
+
+The Registrant’s news release dated April 23, 2024, regarding its first-quarter results of operations and financial condition is attached hereto as Exhibit 99.
+The attached news release includes references to the following financial measures that were not prepared in accordance with generally accepted accounting principles in the United States (non-GAAP measures): free cash flow and ratios based on free cash flow. The company believes these non-GAAP measures provide insight into its liquidity, cash generating capability and the amount of cash potentially available to return to shareholders, as well as insight into its financial performance. These non-GAAP measures are supplemental to the comparable GAAP measures. Reconciliation to the most directly comparable GAAP measures is included in the “Non-GAAP financial information” section of the news release.
+ITEM 9.01. Exhibits
+Designation
+of Exhibit
+in this
+Report
+Description of Exhibit
+99
+Registrant’s News Release
+Dated April 23, 2024 (furnished pursuant to Item 2.02)
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+TEXAS INSTRUMENTS INCORPORATED
+
+Date: April 23, 2024
+
+By:
+
+/s/ Rafael R. Lizardi
+
+Rafael R. Lizardi
+
+Senior Vice President and
+
+Chief Financial Officer

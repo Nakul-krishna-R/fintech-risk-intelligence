@@ -1,0 +1,173 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+October 31, 2024
+
+Date of Report (date of earliest event reported)
+
+Salesforce, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-32224
+
+94-3320693
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+Salesforce Tower
+
+415 Mission Street,
+3rd Fl
+
+San Francisco
+,
+California
+
+94105
+
+(Address of principal executive offices)
+
+Registrant’s telephone number, including area code:
+(415)
+
+901-7000
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock, par value $0.001 per share
+
+CRM
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Section 1 – Registrant’s Business and Operations
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+On October 31, 2024 (the “Effective Date”), Salesforce, Inc. (the “Company”) entered into a Credit Agreement with the lenders and issuing lenders party thereto, and Bank of America, N.A., as administrative agent (the “Credit Agreement”). The Credit Agreement replaces the Credit Agreement, dated as of December 23, 2020 (as amended, the “Existing Credit Agreement”), among the Company, the lenders and letter of credit issuers party thereto, and Citibank, N.A., as administrative agent, which provided for a $3.0 billion unsecured revolving credit facility that was scheduled to mature on December 23, 2025 and become current on December 23, 2024. On the Effective Date, the Company paid all amounts owing under the Existing Credit Agreement and terminated all lending commitments thereunder.
+
+The Credit Agreement provides for an unsecured, multicurrency revolving credit facility with a term of five years from the Effective Date. Initially, the aggregate commitment of all lenders under the Credit Agreement will be $5.0 billion, of which up to $150 million will be available for the issuance of letters of credit and up to $150 million will be available for the borrowing of swingline loans.
+
+Subject to the terms and conditions of the Credit Agreement, the Company may borrow, repay and reborrow revolving loans at any time during the term of the facility. Loans and letters of credit under the facility will be available, at the Company’s option, in Dollars, Sterling and Euros or any other currency approved in accordance with the terms of the Credit Agreement.
+
+Borrowings under the Credit Agreement will bear interest at a fluctuating rate per annum equal to, in the case of borrowings in Dollars, at the Company’s option, the alternate base rate or the secured overnight financing rate, and in the case of borrowings in other currencies, the benchmark rate specified for such currency in the Credit Agreement, in each case, plus an applicable margin determined based on the Company’s credit ratings. In addition, the Company will pay to the lenders certain customary fees, including a commitment fee on undrawn amounts under the facility, at a rate determined based on the Company’s credit ratings.
+
+Borrowings under the Credit Agreement may be used for general corporate purposes.
+
+Voluntary prepayments of loans and voluntary reductions of unused commitments under the Credit Agreement are permissible without penalty (other than customary interest breakage charges), subject to certain notice requirements and minimum amounts.
+
+The Credit Agreement contains representations and warranties, affirmative and negative covenants and events of default customary for unsecured financings of this type.
+
+The foregoing description of the Credit Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Credit Agreement attached hereto as Exhibit 10.1, and incorporated herein by reference.
+
+Certain of the financial institutions party to the Credit Agreement and/or their affiliates have in the past performed, and may in the future from time to time perform, investment banking, financial advisory, lending and/or commercial banking services, or other services for the Company and its subsidiaries, for which they have received, and may in the future receive, customary compensation and expense reimbursement.
+
+Item 1.02. Termination of a Material Definitive Agreement.
+
+The information included in Item 1.01 above is hereby incorporated by reference into this Item 1.02.
+
+Section 2 - Financial Information
+
+Item 2.03. Creation of a Direct Financial Obligation or an Obligation under an
+Off-Balance
+Sheet Arrangement of a Registrant.
+
+The information included in Item 1.01 above is hereby incorporated by reference in its entirety into this Item 2.03.
+
+Section 9 – Financial Statements and Exhibits
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d)
+
+Exhibits
+
+10.1
+
+Credit Agreement, dated as of October 31, 2024, by and among Salesforce, Inc., the lenders and issuing lenders party thereto, and Bank of America, N.A., as Administrative Agent
+
+104
+
+Cover Page Interactive Data File—the cover page XBRL tags are embedded within the Inline XBRL document
+
+Signature
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated: November 5, 2024
+
+Salesforce, Inc.
+
+/s/ A
+MY
+W
+EAVER
+
+Amy Weaver
+
+President and Chief Financial Officer

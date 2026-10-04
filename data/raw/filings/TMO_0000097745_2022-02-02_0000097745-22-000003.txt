@@ -1,0 +1,129 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+February 2, 2022
+
+THERMO FISHER SCIENTIFIC INC.
+
+(Exact name of Registrant as specified in its Charter)
+
+Delaware
+1-8002
+04-2209186
+(State of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification Number)
+168 Third Avenue
+
+Waltham
+,
+Massachusetts
+
+02451
+
+(Address of principal executive offices) (Zip Code)
+Registrant’s telephone number, including area code: (
+781
+)
+622-1000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $1.00 par value
+TMO
+New York Stock Exchange
+0.750% Notes due 2024
+TMO 24A
+New York Stock Exchange
+0.125% Notes due 2025
+TMO 25B
+New York Stock Exchange
+2.000% Notes due 2025
+TMO 25
+New York Stock Exchange
+1.400% Notes due 2026
+TMO 26A
+New York Stock Exchange
+1.450% Notes due 2027
+TMO 27
+New York Stock Exchange
+1.750% Notes due 2027
+TMO 27B
+New York Stock Exchange
+0.500% Notes due 2028
+TMO 28A
+New York Stock Exchange
+1.375% Notes due 2028
+TMO 28
+New York Stock Exchange
+1.950% Notes due 2029
+TMO 29
+New York Stock Exchange
+0.875% Notes due 2031
+TMO 31
+New York Stock Exchange
+2.375% Notes due 2032
+TMO 32
+New York Stock Exchange
+2.875% Notes due 2037
+TMO 37
+New York Stock Exchange
+1.500% Notes due 2039
+TMO 39
+New York Stock Exchange
+1.875% Notes due 2049
+TMO 49
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 or Rule 12b-2 of the Securities Exchange Act of 1934.
+☐
+Emerging growth company
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+THERMO FISHER SCIENTIFIC INC.
+Item 2.02 Results of Operations and Financial Condition
+On February 2, 2022, the Registrant announced its financial results for the fiscal quarter and year ended December 31, 2021. The full text of the press release issued in connection with the announcement is attached as Exhibit 99.1 to this Form 8-K and incorporated herein by reference.
+The information contained in Item 2.02 of this Form 8-K (including Exhibit 99.1) shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934 (the "Exchange Act") or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933 or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+The following Exhibit relating to Item 2.02 shall be deemed “furnished,” and not “filed”:
+99.1
+Press Release dated February 2, 2022
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document).
+Cautionary Statement Regarding Forward-Looking Statements
+This Current Report on Form 8-K contains forward-looking statements that involve a number of risks and uncertainties. Important factors that could cause actual results to differ materially from those indicated by forward-looking statements include risks and uncertainties relating to: the duration and severity of the COVID-19 pandemic; the need to develop new products and adapt to significant technological change; implementation of strategies for improving growth; general economic conditions and related uncertainties; dependence on customers' capital spending policies and government funding policies; the effect of economic and political conditions and exchange rate fluctuations on international operations; use and protection of intellectual property; the effect of changes in governmental regulations; any natural disaster, public health crisis or other catastrophic event; and the effect of laws and regulations governing government contracts, as well as the possibility that expected benefits related to recent or pending acquisitions may not materialize as expected. Additional important factors that could cause actual results to differ materially from those indicated by such forward-looking statements are set forth in our most recent annual report on Form 10-K and subsequent quarterly reports on Form 10-Q, which are on file with the SEC and available in the "Investors" section of our website under the heading "SEC Filings." While we may elect to update forward-looking statements at some point in the future, we specifically disclaim any obligation to do so, even if estimates change and, therefore, you should not rely on these forward-looking statements as representing our views as of any date subsequent to today.
+2
+THERMO FISHER SCIENTIFIC INC.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+THERMO FISHER SCIENTIFIC INC.
+Date:
+February 2, 2022
+By:
+/s/ Joseph R. Holmes
+Joseph R. Holmes
+Vice President and Chief Accounting Officer
+3

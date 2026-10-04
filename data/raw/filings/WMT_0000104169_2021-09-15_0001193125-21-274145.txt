@@ -1,0 +1,329 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 or 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported):
+
+September 15, 2021 (
+September 8, 2021
+)
+
+Walmart Inc.
+
+(Exact name of registrant as specified in its charter)
+
+DE
+
+001-06991
+
+71-0415188
+
+(State or other Jurisdiction
+of Incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+702 S.W. 8th Street
+
+Bentonville
+,
+AR
+
+72716-0215
+
+(Address of principal executive offices) (Zip Code)
+
+Registrant’s telephone number, including area code:
+
+(479)
+
+273-4000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock, par value $0.10 per share
+
+WMT
+
+NYSE
+
+1.900% Notes Due 2022
+
+WMT22
+
+NYSE
+
+2.550% Notes Due 2026
+
+WMT26
+
+NYSE
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01. Other Events.
+
+Walmart Inc., a Delaware corporation (the “
+Company
+”), and AmeriVet Securities, Inc., BofA Securities, Inc., Citigroup Global Markets Inc., C.L. King & Associates, Inc., Morgan Stanley & Co. LLC, Samuel A. Ramirez & Company, Inc. and Siebert Williams Shank & Co., LLC, acting for themselves and as representatives of the other several underwriters named in Schedule I to the Green Bond Pricing Agreement (as defined below) (collectively, the “
+Green Bond Underwriters
+”), have entered into a Pricing Agreement, dated September 8, 2021 (the “
+Green Bond Pricing Agreement
+”), pursuant to which, subject to the satisfaction of the conditions set forth therein, the Company has agreed to sell to the Green Bond Underwriters, and the Green Bond Underwriters have agreed to purchase from the Company, $2,000,000,000 aggregate principal amount of the Company’s 1.800% Notes Due 2031 (the “
+2031 Notes
+” or the “
+Green Notes
+”). The Green Bond Pricing Agreement incorporates by reference the terms and conditions of an Underwriting Agreement, dated September 8, 2021, between the Company and the Green Bond Underwriters (the Green Bond Pricing Agreement, together with such Underwriting Agreement, the “
+Green Bond Agreement
+”). The Company and the Green Bond Underwriters expect to consummate the sale and purchase of the Green Notes pursuant to the Green Bond Agreement on September 22, 2021.
+
+The Company and Citigroup Global Markets Inc., Mizuho Securities USA LLC, Wells Fargo Securities, LLC, BofA Securities, Inc., HSBC Securities (USA) Inc., J.P. Morgan Securities LLC and Morgan Stanley & Co. LLC, acting for themselves and as representatives of the other several underwriters named in Schedule I to the New Issue Pricing Agreement (as defined below) (collectively, the “
+New Issue Underwriters
+” and, together with the Green Bond Underwriters, the “
+Underwriters
+”), have entered into a Pricing Agreement, dated September 8, 2021 (the “
+New Issue Pricing Agreement
+”), pursuant to which, subject to the satisfaction of the conditions set forth therein, the Company has agreed to sell to the New Issue Underwriters, and the New Issue Underwriters have agreed to purchase from the Company, $1,250,000,000 aggregate principal amount of the Company’s 1.050% Notes Due 2026 (the “
+2026 Notes
+”), $1,250,000,000 aggregate principal amount of the Company’s 1.500% Notes Due 2028 (the “
+2028 Notes
+”), $1,000,000,000 aggregate principal amount of the Company’s 2.500% Notes Due 2041 (the “
+2041
+Notes
+”) and $1,500,000,000 aggregate principal amount of the Company’s 2.650% Notes Due 2051 (the “
+2051 Notes
+” and, together with the 2026 Notes, the 2028 Notes and the 2041 Notes, the “
+New Issue Notes
+” and, collectively with the Green Notes, the “
+Notes
+”). The New Issue Pricing Agreement incorporates by reference the terms and conditions of an Underwriting Agreement, dated September 8, 2021, between the Company and the New Issue Underwriters (the New Issue Pricing Agreement, together with such Underwriting Agreement, the “
+New Issue Agreement
+”). Pursuant to the New Issue Agreement, the Company and the New Issue Underwriters expect to consummate the sale and purchase of the 2026 Notes on September 17, 2021 and to consummate the sale and purchase of the 2028 Notes, the 2041 Notes and the 2051 Notes on September 22, 2021.
+
+The 2026 Notes will be sold to the public at a price equal to 99.811% of the aggregate principal amount of the 2026 Notes. The net proceeds to the Company from the sale of the 2026 Notes, after the underwriting discount, but before transaction expenses allocable to the sale of the 2026 Notes, will be $1,243,262,500.
+
+The 2028 Notes will be sold to the public at a price equal to 99.894% of the aggregate principal amount of the 2028 Notes. The net proceeds to the Company from the sale of the 2028 Notes, after the underwriting discount, but before transaction expenses allocable to the sale of the 2028 Notes, will be $1,243,675,000.
+
+The 2031 Notes will be sold to the public at a price equal to 99.645% of the aggregate principal amount of the 2031 Notes. The net proceeds to the Company from the sale of the 2031 Notes, after the underwriting discount, but before transaction expenses allocable to the sale of the 2031 Notes, will be $1,983,900,000.
+
+2
+
+The 2041 Notes will be sold to the public at a price equal to 100.00% of the aggregate principal amount of the 2041 Notes. The net proceeds to the Company from the sale of the 2041 Notes, after the underwriting discount, but before transaction expenses allocable to the sale of the 2041 Notes, will be $993,500,000.
+
+The 2051 Notes will be sold to the public at a price equal to 99.630% of the aggregate principal amount of the 2051 Notes. The net proceeds to the Company from the sale of the 2051 Notes, after the underwriting discount, but before transaction expenses allocable to the sale of the 2051 Notes, will be $1,483,200,000.
+
+The Notes will be sold to the public at an aggregate price of $6,983,662,500 before underwriting discounts and transaction expenses allocable to the sale of the Notes. The aggregate net proceeds to the Company from the sale of the Notes, after underwriting discounts, but before transaction expenses allocable to the sale of the Notes, will be $6,947,537,500.
+
+The 2026 Notes will constitute part of the Company’s newly created series of 1.050% Notes Due 2026 (the “
+2026 Series
+”), the 2028 Notes will constitute part of the Company’s newly created series of 1.500% Notes Due 2028 (the “
+2028 Series
+”), the 2031 Notes will constitute part of the Company’s newly created series of 1.800% Notes Due 2031 (the “
+2031 Series
+”), the 2041 Notes will constitute part of the Company’s newly created series of 2.500% Notes Due 2041 (the “
+2041 Series
+”) and the 2051 Notes will constitute part of the Company’s newly created series of 2.650% Notes Due 2051 (the “
+2051 Series
+” and, together with the 2026 Series, the 2028 Series, the 2031 Series and the 2041 Series, the “
+New Series
+”). The Notes of each of the New Series will be senior, unsecured debt securities of the Company, and the Notes of each New Series will rank equally with each other and with all of the other senior, unsecured debt obligations of the Company.
+
+The New Series were created and established, and the terms and conditions of each New Series were established, by action of the Company and an authorized officer of the Company pursuant to, and in accordance with, the terms of the Indenture, dated as of July 19, 2005, as amended and supplemented (the “
+Indenture
+”), between the Company and The Bank of New York Mellon Trust Company, N.A., as successor trustee (the “
+Trustee
+”), and the Indenture and the related series terms certificates pursuant to the Indenture will govern the Notes of each New Series. The respective terms of the 2026 Notes, the 2028 Notes, the 2041 Notes and the 2051 Notes are as set forth in the Indenture and in the forms of the Global Notes (referred to below) that will represent the Notes of the 2026 Series, the 2028 Series, the 2041 Series and the 2051 Series, respectively, to be sold pursuant to the New Issue Pricing Agreement. The terms of the 2031 Notes are as set forth in the Indenture and in the form of the Global Note that will represent the Notes of the 2031 Series to be sold pursuant to the Green Bond Pricing Agreement.
+
+The material terms of the Green Notes are described in the Company’s prospectus supplement dated September 8, 2021, which relates to the offer and sale of the Green Notes (the “
+Green Bond
+Prospectus Supplement
+”), and the Company’s prospectus dated December 4, 2020, which relates to the offer and sale from time to time of an indeterminate amount of the Company’s debt securities, including the Notes (the “
+Prospectus
+”). The Green Bond Prospectus Supplement, together with the Prospectus, was filed by the Company with the Securities and Exchange Commission (the “
+Commission
+”) on September 9, 2021 pursuant to Rule 424(b)(2) under the Securities Act of 1933, as amended (the “
+Securities Act
+”), in connection with the offer and sale of the Green Notes. A Final Term Sheet, dated September 8, 2021, relating to, and setting forth certain terms of, the Green Notes was filed with the Commission pursuant to Rule 433 under the Securities Act on September 8, 2021, and given a filing date of September 9, 2021.
+
+The material terms of the New Issue Notes are described in the Company’s prospectus supplement dated September 8, 2021, which relates to the offer and sale of the New Issue Notes (the “
+New Issue Prospectus Supplement
+”), and the Prospectus. The New Issue Prospectus Supplement, together with the Prospectus,
+
+3
+
+was filed by the Company with the Commission on September 9, 2021 pursuant to Rule 424(b)(2) under the Securities Act, in connection with the offer and sale of the New Issue Notes. A Final Term Sheet, dated September 8, 2021, relating to, and setting forth certain terms of, the New Issue Notes was filed with the Commission pursuant to Rule 433 under the Securities Act on September 8, 2021, and given a filing date of September 9, 2021.
+
+The Notes of each New Series will be initially issued and delivered in book-entry form only and will be represented by one or more global notes, which will be in definitive, fully registered form without interest coupons. The 2026 Notes will be represented by three global notes, two of which will be in the principal amount of $500,000,000 and one of which will be in the principal amount of $250,000,000 (the “
+2026 Global Notes
+”). The 2028 Notes will be represented by three global notes, two of which will be in the principal amount of $500,000,000 and one of which will be in the principal amount of $250,000,000 (the “
+2028 Global Notes
+”). The 2031 Notes will be represented by four global notes, each of which will be in the principal amount of $500,000,000 (the “
+2031 Global Notes
+”). The 2041 Notes will be represented by two global notes, each of which will be in the principal amount of $500,000,000 (the “
+2041 Global Notes
+”). The 2051 Notes will be represented by three global notes, each of which will be in the principal amount of $500,000,000 (the “
+2051 Global Notes
+” and, together with the 2026 Global Notes, the 2028 Global Notes, the 2031 Global Notes and the 2041 Global Notes, the “
+Global Notes
+”). Each Global Note will be payable to Cede & Co., a New York corporation, as nominee of The Depository Trust Company. The Global Notes will be executed by the Company and authenticated by the Trustee in accordance with the Indenture.
+
+Filed as exhibits to this Current Report on Form
+8-K
+are: (i) the Green Bond Agreement; (ii) the New Issue Agreement; (iii) the Series Terms Certificate pursuant to the Indenture relating to 1.050% Notes Due 2026, which was executed in accordance with the Indenture and which evidences the establishment of the terms and conditions of the 2026 Series in accordance with the Indenture; (iv) the Series Terms Certificate pursuant to the Indenture relating to 1.500% Notes Due 2028, which was executed in accordance with the Indenture and which evidences the establishment of the terms and conditions of the 2028 Series in accordance with the Indenture; (v) the Series Terms Certificate pursuant to the Indenture relating to 1.800% Notes Due 2031, which was executed in accordance with the Indenture and which evidences the establishment of the terms and conditions of the 2031 Series in accordance with the Indenture; (vi) the Series Terms Certificate pursuant to the Indenture relating to 2.500% Notes Due 2041, which was executed in accordance with the Indenture and which evidences the establishment of the terms and conditions of the 2041 Series in accordance with the Indenture; (vii) the Series Terms Certificate pursuant to the Indenture relating to 2.650% Notes Due 2051, which was executed in accordance with the Indenture and which evidences the establishment of the terms and conditions of the 2051 Series in accordance with the Indenture; (viii) the form of 2026 Global Note; (ix) the form of 2028 Global Note; (x) the form of 2031 Global Note; (xi) the form of 2041 Global Note; (xii) the form of 2051 Global Note and (xiii) the opinion of Hunton Andrews Kurth LLP, counsel to the Company, regarding the legality of the issuance and sale of the Notes. The descriptions of such exhibits in this Current Report on Form
+8-K
+are qualified in their entirety by reference to the full copies of such exhibits filed hereto, which are incorporated herein by reference.
+
+The Company is offering and selling the Notes under the Company’s Registration Statement on Form
+S-3ASR
+(File
+No. 333-251124)
+(the “
+Registration Statement
+”), which registration statement relates to the offer and sale on a delayed basis from time to time of an indeterminate amount of the Company’s debt securities. This Current Report on Form
+8-K
+is being filed in connection with the offer and sale of the Notes as described herein and to file with the Commission, in connection with the Registration Statement, the documents and instruments attached hereto as exhibits.
+
+4
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d)
+
+Exhibits
+
+The following documents are filed as exhibits to this Current Report on Form
+8-K:
+
+1.1
+
+Pricing Agreement, dated September 8, 2021, between the Company and the Underwriters party thereto, together with the Underwriting Agreement, dated September 8, 2021, between the Company and the Underwriters party thereto
+
+1.2
+
+Pricing Agreement, dated September 8, 2021, between the Company and the Underwriters party thereto, together with the Underwriting Agreement, dated September 8, 2021, between the Company and the Underwriters party thereto
+
+4.1
+
+Series Terms Certificate Pursuant to the Indenture Relating to 1.050% Notes Due 2026 of the Company
+
+4.2
+
+Series Terms Certificate Pursuant to the Indenture Relating to 1.500% Notes Due 2028 of the Company
+
+4.3
+
+Series Terms Certificate Pursuant to the Indenture Relating to 1.800% Notes Due 2031 of the Company
+
+4.4
+
+Series Terms Certificate Pursuant to the Indenture Relating to 2.500% Notes Due 2041 of the Company
+
+4.5
+
+Series Terms Certificate Pursuant to the Indenture Relating to 2.650% Notes Due 2051 of the Company
+
+4.6
+
+Form of Global Note to represent the 1.050% Notes Due 2026 of the Company
+
+4.7
+
+Form of Global Note to represent the 1.500% Notes Due 2028 of the Company
+
+4.8
+
+Form of Global Note to represent the 1.800% Notes Due 2031 of the Company
+
+4.9
+
+Form of Global Note to represent the 2.500% Notes Due 2041 of the Company
+
+4.10
+
+Form of Global Note to represent the 2.650% Notes Due 2051 of the Company
+
+5.1
+
+Legality Opinion of Hunton Andrews Kurth LLP, counsel to the Company, dated September 15, 2021
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+5
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+Dated: September 15, 2021
+
+WALMART INC.
+
+By:
+
+/s/ Gordon Y. Allison
+
+Name:
+
+Gordon Y. Allison
+
+Title:
+
+Senior Vice President, Office of the Corporate Secretary, Chief Counsel for Finance and Governance and Assistant Secretary
+
+6

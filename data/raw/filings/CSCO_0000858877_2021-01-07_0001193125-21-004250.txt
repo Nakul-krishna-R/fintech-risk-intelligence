@@ -1,0 +1,154 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+January 7, 2021
+
+CISCO SYSTEMS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+California
+
+0-18225
+
+77-0059951
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+170 West Tasman Drive
+,
+San Jose
+,
+California
+
+95134-1706
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(408)
+
+526-4000
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.001 per share
+
+CSCO
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02.
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On January 7, 2021, Cisco Systems, Inc. (“Cisco”) appointed John D. Harris II, former Vice President of Business Development of Raytheon Company and former Chief Executive Officer of Raytheon International, Inc., to its Board of Directors (the “Board”) effective January 7, 2021. It has not yet been determined on which Board committees, if any, Mr. Harris will serve.
+
+In connection with his service as a director, Mr. Harris will receive Cisco’s standard
+non-employee
+director cash and equity compensation. Mr. Harris will receive a pro rata portion of the $80,000 annual retainer for his service through the remaining portion of the year ending at Cisco’s 2021 annual meeting of shareholders.
+Non-employee
+directors may instead elect to receive the annual cash retainer in fully vested shares of Cisco common stock, fully vested deferred stock units that would be settled in shares after the
+non-employee
+director leaves the Board, or a deferred cash payment under the Cisco Systems, Inc. Deferred Compensation Plan. If appointed to serve on any committees of the Board, he also would receive fees of $2,000 per committee meeting attended. Upon his appointment, pursuant to the Board’s equity grant policy for
+non-employee
+directors, Mr. Harris automatically received a fully vested initial
+non-employee
+director equity award under the 2005 Stock Incentive Plan with a grant date fair value equal to a pro rata portion of $230,000 based on the portion of the year of his board service.
+Non-employee
+directors may elect to defer receipt of the equity award such that the award would be settled in shares after the
+non-employee
+director leaves the Board.
+Non-employee
+directors are also eligible to participate in Cisco’s charitable matching gifts program to the same extent as all Cisco employees (for calendar year 2021, the maximum match amount is $25,000).
+
+In connection with his appointment, Mr. Harris entered into Cisco’s standard form of director Indemnification Agreement with Cisco. Pursuant to this agreement, subject to the exceptions and limitations provided therein, Cisco has agreed to hold harmless and indemnify Mr. Harris to the fullest extent authorized by Cisco’s articles of incorporation and California law, and against any and all expenses, judgments, fines and settlement amounts actually and reasonably incurred by him in connection with any threatened, pending or completed action, suit or proceeding arising out of his services as director. The foregoing description is qualified in its entirety by the full text of the form of Indemnification Agreement, which was filed as Exhibit 10.8 to Cisco’s Form
+10-K
+filed on September 20, 2004.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+CISCO SYSTEMS, INC.
+
+Dated: January 7, 2021
+
+By:
+
+/s/ Evan Sloves
+
+Name:
+
+Evan Sloves
+
+Title:
+
+Secretary

@@ -1,0 +1,96 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+__________________
+FORM
+8-K
+
+__________________
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+December 18, 2024
+
+__________________
+THE
+HOME DEPOT, INC.
+
+(Exact Name of Registrant as Specified in Charter)
+
+__________________
+Delaware
+1-8207
+95-3261426
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+2455 Paces Ferry Road
+,
+Atlanta
+,
+Georgia
+
+30339
+
+(Address of Principal Executive Offices) (Zip Code)
+(
+770
+)
+433-8211
+
+(Registrant’s Telephone Number, Including Area Code)
+Not Applicable
+(Former Name or Former Address, if Changed Since Last Report)
+
+__________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.05 Par Value Per Share
+HD
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 1.02 Termination of a Material Definitive Agreement.
+As previously reported, The Home Depot, Inc. (the “Company”) entered into a $1.0 billion three-year revolving credit facility agreement, dated as of May 7, 2024, among the Company, the banks party thereto, and JPMorgan Chase Bank, N.A., as administrative agent (the “Three-Year Credit Facility”), and a $3.5 billion 364-day revolving credit facility agreement, dated as of May 7, 2024, among the Company, the banks party thereto, and JPMorgan Chase Bank, N.A., as administrative agent (the “364-Day Credit Facility” and together with the Three-Year Credit Facility, the “Credit Facilities”). The Company entered into the Credit Facilities to allow for borrowings for general corporate purposes, including to support the Company’s expanded commercial paper program in connection with the financing of the Company’s acquisition of SRS Distribution Inc., which closed on June 18, 2024. Effective December 18, 2024, the Company terminated the Three-Year Credit Facility after determining that it was no longer necessary. There were no borrowings under the Three-Year Credit Facility.
+Item 8.01 Other Events.
+On the same date, the Company reduced the aggregate commitments under the 364-Day Credit Facility from $3.5 billion to $2.0 billion in accordance with its terms. Following the termination of the Three-Year Credit Facility and the reduction of commitments under the 364-Day Facility, the Company’s commercial paper program allows for borrowings up to $7.0 billion and is supported by $7.0 billion of revolving credit facilities. There are no borrowings under the 364-Day Credit Facility.
+2
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+THE HOME DEPOT, INC.
+Date: December 19, 2024
+By:
+/s/ Richard V. McPhail
+Name:
+Richard V. McPhail
+
+Title:
+Executive Vice President and Chief Financial Officer
+3

@@ -1,0 +1,212 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+—————————————
+FORM
+8-K
+
+—————————————
+Current Report
+Pursuant to Section 13 or 15(d) of
+The Securities Exchange Act of 1934
+Date of report (Date of earliest event reported):
+June 5, 2023
+
+—————————————
+UNITEDHEALTH GROUP INCORPORATED
+
+(Exact name of registrant as specified in its charter)
+—————————————
+Delaware
+1-10864
+41-1321939
+(State or other jurisdiction of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+UnitedHealth Group Center, 9900 Bren Road East,
+Minnetonka,
+Minnesota
+55343
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code: (
+952
+)
+936-1300
+
+N/A
+(Former name or former address, if changed since last report.)
+—————————————
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $.01 par value
+UNH
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+☐
+
+Emerging growth company
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.07.
+
+Submission of Matters to a Vote of Security Holders.
+On June 5, 2023, the Company held its 2023 Annual Meeting of Shareholders (the “Annual Meeting”). There were 842,090,464 shares of common stock represented at the Annual Meeting. The shareholders of the Company voted as follows on the following matters at the Annual Meeting:
+1.
+Election of Directors.
+The nine directors were elected at the Annual Meeting for a one-year term based upon the following votes:
+Director Nominee
+For
+Against
+Abstain
+Broker
+Non-Votes
+Timothy Flynn
+758,927,709
+20,064,098
+1,069,637
+62,029,020
+Paul Garcia
+775,647,123
+3,508,261
+906,060
+62,029,020
+Kristen Gil
+777,915,879
+1,266,078
+879,487
+62,029,020
+Stephen Hemsley
+758,145,332
+20,921,535
+994,577
+62,029,020
+Michele Hooper
+744,876,738
+34,146,358
+1,038,348
+62,029,020
+F. William McNabb III
+769,044,613
+10,074,811
+942,020
+62,029,020
+Valerie Montgomery Rice, M.D.
+773,826,587
+5,346,056
+888,801
+62,029,020
+John Noseworthy, M.D.
+766,346,840
+12,832,628
+881,976
+62,029,020
+Andrew Witty
+776,927,218
+2,253,772
+880,454
+62,029,020
+2.
+Non-binding advisory vote on executive compensation.
+The Company’s executive compensation was approved by a non-binding advisory vote based upon the following votes:
+For
+Against
+Abstain
+Broker
+Non-Votes
+745,152,355
+32,637,828
+2,271,261
+62,029,020
+3.
+Non-binding advisory vote regarding the frequency of holding future Say-on-Pay votes.
+The Company’s shareholders voted by a non-binding advisory vote to hold future advisory votes on executive compensation on an annual basis based upon the following votes:
+1 Year
+2 Years
+3 Years
+Abstain
+Broker
+Non-Votes
+770,477,805
+827,094
+7,787,018
+969,527
+62,029,020
+4.
+Ratification of the appointment of Deloitte & Touche LLP.
+The appointment of Deloitte & Touche LLP as the independent registered public accounting firm for the Company for the fiscal year ending December 31, 2023 was ratified based upon the following votes:
+For
+Against
+Abstain
+798,223,786
+42,777,284
+1,089,394
+5.
+Shareholder proposal seeking a third-party racial equity audit.
+The shareholder proposal was not approved based upon the following votes:
+For
+Against
+Abstain
+Broker
+Non-Votes
+157,630,052
+607,185,019
+15,246,373
+62,029,020
+6.
+Shareholder proposal requiring a political contributions congruency report.
+The shareholder proposal was not approved based upon the following votes:
+For
+Against
+Abstain
+Broker
+Non-Votes
+215,377,861
+549,207,503
+15,476,080
+62,029,020
+7.
+Shareholder proposal seeking shareholder ratification of termination pay.
+The shareholder proposal was not approved based upon the following votes:
+For
+Against
+Abstain
+Broker
+Non-Votes
+273,312,290
+505,348,482
+1,400,672
+62,029,020
+Item 7.01.
+
+Regulation FD Disclosure.
+Senior leaders from UnitedHealth Group Incorporated (the "Company") will respond to questions in an interview format, including discussion of the Company’s strategy, market positions, recent results and outlook, at the Goldman Sachs 44
+th
+Annual Global Healthcare Conference on Tuesday, June 13, 2023 beginning at 2:00 p.m., Pacific Time / 5:00 p.m., Eastern Time.
+A live audio webcast of the presentation will be made available through the Investor Relations page of the Company’s website at
+www.unitedhealthgroup.com
+.
+The information in this Item 7.01 shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, nor shall it be deemed incorporated by reference in any Company filing under the Securities Act of 1933 or the Securities Exchange Act of 1934, except as shall be expressly set forth by specific reference in such filing.
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Date: June 9, 2023
+UNITEDHEALTH GROUP INCORPORATED
+By:
+/s/ Kuai H. Leong
+Kuai H. Leong
+Deputy Corporate Secretary

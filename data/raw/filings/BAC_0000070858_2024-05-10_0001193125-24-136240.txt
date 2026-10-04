@@ -1,0 +1,305 @@
+As filed with the Securities and Exchange Commission on May 10, 2024
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported):
+
+May 10, 2024
+
+BANK OF AMERICA CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+1-6523
+
+56-0906609
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+100 North Tryon Street
+
+Charlotte
+,
+North Carolina
+
+28255
+
+(Address of principal executive offices)
+
+(704)
+
+386-5681
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.01 per share
+
+BAC
+
+New York Stock Exchange
+
+Depositary Shares, each representing a 1/1,000th interest in a share of Floating Rate
+Non-Cumulative
+Preferred Stock, Series E
+
+BAC PrE
+
+New York Stock Exchange
+
+Depositary Shares, each representing a 1/1,000th interest in a share of 6.000%
+Non-Cumulative
+Preferred Stock, Series GG
+
+BAC PrB
+
+New York Stock Exchange
+
+Depositary Shares, each representing a 1/1,000th interest in a share of 5.875%
+Non-Cumulative
+Preferred Stock, Series HH
+
+BAC PrK
+
+New York Stock Exchange
+
+7.25%
+Non-Cumulative
+Perpetual Convertible Preferred Stock, Series L
+
+BAC PrL
+
+New York Stock Exchange
+
+Depositary Shares, each representing a 1/1,200th interest in a share of Bank of America Corporation Floating Rate
+Non-Cumulative
+Preferred Stock, Series 1
+
+BML PrG
+
+New York Stock Exchange
+
+Depositary Shares, each representing a 1/1,200th interest in a share of Bank of America Corporation Floating Rate
+Non-Cumulative
+Preferred Stock, Series 2
+
+BML PrH
+
+New York Stock Exchange
+
+Depositary Shares, each representing a 1/1,200th interest in a share of Bank of America Corporation Floating Rate
+Non-Cumulative
+Preferred Stock, Series 4
+
+BML PrJ
+
+New York Stock Exchange
+
+Depositary Shares, each representing a 1/1,200th interest in a share of Bank of America Corporation Floating Rate
+Non-Cumulative
+Preferred Stock, Series 5
+
+BML PrL
+
+New York Stock Exchange
+
+Floating Rate Preferred Hybrid Income Term Securities of BAC Capital Trust XIII (and the guarantee related thereto)
+
+BAC/PF
+
+New York Stock Exchange
+
+5.63% Fixed to Floating Rate Preferred Hybrid Income Term Securities of BAC Capital Trust XIV (and the guarantee related thereto)
+
+BAC/PG
+
+New York Stock Exchange
+
+Income Capital Obligation Notes initially due December 15, 2066 of Bank of America Corporation
+
+MER PrK
+
+New York Stock Exchange
+
+Senior Medium-Term Notes, Series A, Step Up Callable Notes, due November 28, 2031 of BofA Finance LLC (and the guarantee of the Registrant with respect thereto)
+
+BAC/31B
+
+New York Stock Exchange
+
+Depositary Shares, each representing a 1/1,000th interest in a share of 5.375%
+Non-Cumulative
+Preferred Stock, Series KK
+
+BAC PrM
+
+New York Stock Exchange
+
+Depositary Shares, each representing a 1/1,000th interest in a share of 5.000%
+Non-Cumulative
+Preferred Stock, Series LL
+
+BAC PrN
+
+New York Stock Exchange
+
+Depositary Shares, each representing a 1/1,000th interest in a share of 4.375%
+Non-Cumulative
+Preferred Stock, Series NN
+
+BAC PrO
+
+New York Stock Exchange
+
+Depositary Shares, each representing a 1/1,000th interest in a share of 4.125%
+Non-Cumulative
+Preferred Stock, Series PP
+
+BAC PrP
+
+New York Stock Exchange
+
+Depositary Shares, each representing a 1/1,000th interest in a share of 4.250%
+Non-Cumulative
+Preferred Stock, Series QQ
+
+BAC PrQ
+
+New York Stock Exchange
+
+Depositary Shares, each representing a 1/1,000th interest in a share of 4.750%
+Non-Cumulative
+Preferred Stock, Series SS
+
+BAC PrS
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR 230.405) or Rule
+12b-2
+of the Securities Exchange Act of 1934 (17 CFR
+240.12b-2).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01
+
+Other Events.
+
+On May 3, 2024, Bank of America Corporation (the “Corporation”) received notice from Tutanota LLC (“Tutanota”) of its unsolicited “mini-tender” offer to purchase up to 1,000,000 shares of the Corporation’s common stock at an offer price of $40.00 per share. The offer price of $40.00 per share is conditioned on, among other things, the closing price per share of the Corporation’s common stock exceeding $40.00 per share on the last trading day before the offer expires. The number of shares subject to Tutanota’s offer represent approximately 0.01% of the Corporation’s common stock outstanding as of the date of the offer.
+
+On May 10, 2024, the Corporation issued the press release attached to this Report as Exhibit 99.1, informing its shareholders that the Corporation does not endorse Tutanota’s unsolicited mini-tender offer and recommending that shareholders do not tender their shares. Shareholders who have already tendered their shares may withdraw them at any time prior to the expiration of the offer, in accordance with Tutanota’s offering documents. The offer is currently scheduled to expire at 5:00 p.m., New York City time, on Friday, May 31, 2024, unless the offer is otherwise extended by Tutanota in its discretion or terminated earlier.
+
+The Corporation is not affiliated or associated in any way with Tutanota, its mini-tender offer, or the offer documentation. Additional information concerning mini-tender offers is included in the news release attached hereto as Exhibit 99.1 and incorporated herein by reference.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+The following exhibit is filed herewith:
+
+EXHIBIT
+NO.
+
+DESCRIPTION OF EXHIBIT
+
+99.1
+
+News Release dated May 10, 2024
+
+104
+
+Cover Page Interactive Data File (embedded in the cover page formatted in Inline XBRL)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+BANK OF AMERICA CORPORATION
+
+By:
+
+/s/ Ross E. Jeffries, Jr.
+
+Ross E. Jeffries, Jr.
+
+Deputy General Counsel and
+
+Corporate Secretary
+
+Dated: May 10, 2024

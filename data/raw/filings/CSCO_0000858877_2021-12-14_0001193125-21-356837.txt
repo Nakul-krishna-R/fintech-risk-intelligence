@@ -1,0 +1,327 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+December 9, 2021
+
+CISCO SYSTEMS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-39940
+
+77-0059951
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+170 West Tasman Drive
+,
+San Jose
+,
+California
+
+95134-1706
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(408)
+
+526-4000
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.001 per share
+
+CSCO
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.07.
+
+Submission of Matters to a Vote of Security Holders.
+
+At the Annual Meeting of Stockholders of Cisco Systems, Inc. (“Cisco”) held on December 13, 2021, Cisco’s stockholders voted on the following four proposals and cast their votes as follows:
+
+Proposal 1: To elect eleven members of Cisco’s Board of Directors (the “Board”):
+
+Nominee
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Votes
+
+M. Michele Burns
+
+2,807,138,082
+
+184,938,737
+
+10,134,440
+
+509,228,422
+
+Wesley G. Bush
+
+2,969,988,584
+
+21,533,792
+
+10,688,883
+
+509,228,422
+
+Michael D. Capellas
+
+2,691,054,943
+
+292,278,348
+
+18,877,968
+
+509,228,422
+
+Mark Garrett
+
+2,655,233,554
+
+336,743,214
+
+10,234,491
+
+509,228,422
+
+John D. Harris II
+
+2,982,457,136
+
+8,977,219
+
+10,776,904
+
+509,228,422
+
+Dr. Kristina M. Johnson
+
+2,969,930,620
+
+22,437,719
+
+9,842,920
+
+509,228,422
+
+Roderick C. McGeary
+
+2,748,314,238
+
+243,048,256
+
+10,848,765
+
+509,228,422
+
+Charles H. Robbins
+
+2,739,259,879
+
+244,433,307
+
+18,518,073
+
+509,228,422
+
+Brenton L. Saunders
+
+2,906,824,741
+
+84,664,536
+
+10,721,982
+
+509,228,422
+
+Dr. Lisa T. Su
+
+2,984,343,494
+
+8,133,897
+
+9,733,868
+
+509,228,422
+
+Marianna Tessel
+
+2,984,597,250
+
+7,733,385
+
+9,880,624
+
+509,228,422
+
+Proposal 2: To approve, on an advisory basis, executive compensation:
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Votes
+
+2,642,125,104
+
+342,492,164
+
+17,593,991
+
+509,228,422
+
+Proposal 3: To ratify the appointment of PricewaterhouseCoopers LLP as Cisco’s independent registered public accounting firm for the fiscal year ending July 30, 2022:
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Votes
+
+3,328,901,158
+
+170,925,745
+
+11,612,778
+
+0
+
+Proposal 4: A stockholder proposal to have Cisco’s Board amend Cisco’s proxy access bylaw to remove the stockholder aggregation limit.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Votes
+
+1,206,876,039
+
+1,775,284,488
+
+20,050,732
+
+509,228,422
+
+Item 8.01.
+
+Other Events.
+
+On December 9, 2021, Prat Bhatt, Senior Vice President and Chief Accounting Officer of Cisco, adopted
+a pre-arranged stock
+trading plan to sell shares of Cisco stock. The plan is scheduled to terminate in December 2022.
+
+The transactions under the plan will be disclosed publicly through Form 144 and Form 4 filings with the Securities and Exchange Commission. The plan was adopted in accordance with guidelines specified under
+Rule 10b5-1 of
+the Securities Exchange Act of 1934, as amended, and Cisco’s policies regarding stock transactions.
+
+Rule 10b5-1 permits
+individuals who are not in possession of
+material, non-public information
+at the time the plan is adopted to
+establish pre-arranged plans
+to buy or sell company stock. Using these plans, individuals can prudently and gradually diversify their investment portfolios over an extended period of time.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+CISCO SYSTEMS, INC.
+
+Dated: December 14, 2021
+
+By:
+
+/s/ Evan Sloves
+
+Name:
+
+Evan Sloves
+
+Title:
+
+Secretary

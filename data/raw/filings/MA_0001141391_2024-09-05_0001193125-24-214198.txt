@@ -1,0 +1,196 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+September 3, 2024
+
+Mastercard Incorporated
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-32877
+
+13-4172551
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+2000 Purchase Street
+Purchase
+,
+New York
+
+10577
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(
+914
+)
+249-2000
+(Registrant’s telephone number, including area code)
+NOT APPLICABLE
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol
+
+Name of each exchange
+on which registered
+
+Class A Common Stock
+
+MA
+
+New York Stock Exchange
+
+2.1% Notes due 2027
+
+MA27
+
+New York Stock Exchange
+
+1.0% Notes due 2029
+
+MA29A
+
+New York Stock Exchange
+
+2.5% Notes due 2030
+
+MA30
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01
+
+Other Events.
+
+On September 5, 2024, Mastercard Incorporated (the “Company”) completed an offering of $750,000,000 aggregate principal amount of its 4.100% Notes due 2028 (the “2028 Notes”), $1,150,000,000 aggregate principal amount of its 4.350% Notes due 2032 (the “2032 Notes”) and $1,100,000,000 aggregate principal amount of its 4.550% Notes due 2035 (the “2035 Notes” and, together with the 2028 Notes and the 2032 Notes, the “Notes”). The offering of the Notes was made pursuant to the Company’s Registration Statement on Form
+S-3
+(File
+No. 333-277032),
+which Registration Statement relates to the offer and sale on a delayed basis from time to time of an indeterminate amount of the Company’s debt securities. Further information concerning the Notes and related matters is set forth in the Company’s Prospectus Supplement dated September 3, 2024, which was filed with the Securities and Exchange Commission on September 4, 2024.
+In connection with the issuance of the Notes, the Company entered into an Underwriting Agreement dated as of September 3, 2024 (the “Underwriting Agreement”) with BofA Securities, Inc., Barclays Capital Inc., Credit Agricole Securities (USA) Inc., J.P. Morgan Securities LLC, Mizuho Securities USA LLC and Wells Fargo Securities, LLC, as representatives (the “Representatives”) of the several underwriters listed in Schedule II to the Underwriting Agreement. The foregoing description of the Underwriting Agreement is qualified in its entirety by the terms of such agreement, a copy of which is attached hereto as Exhibit 1.1 and is incorporated by reference herein.
+The Notes were issued pursuant to an Indenture with Deutsche Bank Trust Company Americas, as trustee, dated as of March 31, 2014 (the “Indenture”), together with the officer’s certificate dated as of September 5, 2024 establishing the terms of the Notes (the “Officer’s Certificate”). The Officer’s Certificate is attached hereto as Exhibit 4.1 and is incorporated by reference herein. The forms of the 2028 Notes, the 2032 Notes and the 2035 Notes are attached hereto as Exhibits 4.2, 4.3 and 4.4 and are incorporated by reference herein.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+(d) Exhibits
+
+Exhibit
+
+No.
+
+Description
+
+1.1
+
+Underwriting Agreement, dated as of September 3, 2024, among the Company and the Representatives
+
+4.1
+
+Officer’s Certificate of the Company, dated as of September 5, 2024
+
+4.2
+
+Form of Global Note representing the Company’s 4.100% Notes due 2028 (included in Exhibit 4.1)
+
+4.3
+
+Form of Global Note representing the Company’s 4.350% Notes due 2032 (included in Exhibit 4.1)
+
+4.4
+
+Form of Global Note representing the Company’s 4.550% Notes due 2035 (included in Exhibit 4.1)
+
+5.1
+
+Opinion of Davis Polk & Wardwell LLP
+
+23.1
+
+Consent of Davis Polk & Wardwell LLP (included in Exhibit 5.1)
+
+104
+
+Cover Page Interactive Data File - the cover page interactive data file does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Mastercard Incorporated
+
+By:
+
+/s/ Adam Zitter
+
+Name:
+
+Adam Zitter
+
+Title:
+
+Corporate Secretary
+Date: September 5, 2024

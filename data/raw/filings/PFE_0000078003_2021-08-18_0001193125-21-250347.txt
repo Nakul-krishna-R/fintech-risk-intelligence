@@ -1,0 +1,202 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of report (Date of earliest event reported):
+August 16, 2021
+
+PFIZER INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+1-3619
+
+13-5315170
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(I.R.S. Employer
+Identification No.)
+
+235 East 42nd Street
+
+10017
+
+New York
+,
+New York
+(Zip Code)
+
+(Address of principal executive offices)
+
+Registrant’s telephone number, including area code:
+
+(212)
+
+733-2323
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2 (b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock, $.05 par value
+
+PFE
+
+New York Stock Exchange
+
+0.250% Notes due 2022
+
+PFE22
+
+New York Stock Exchange
+
+1.000% Notes due 2027
+
+PFE27
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). ☐
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+Item 8.01 Other Events
+
+On August 18, 2021, Pfizer Inc. (the “Company”) completed a public offering of $1,000,000,000 aggregate principal amount of 1.750% Notes due 2031 (the “Notes”).
+
+The Company intends to use the net proceeds to finance or refinance, in whole or in part as follows: research and development expenses related to
+COVID-19
+vaccine research and development, capital expenditures in connection with the manufacture and distribution of
+COVID-19
+vaccines and other projects of the Company or any of its subsidiaries that have environmental and/or social benefits.
+
+The offering of the Notes was made pursuant to the Company’s shelf registration statement on Form
+S-3
+(Registration
+No. 333-253605)
+filed with the Securities and Exchange Commission on February 26, 2021.
+
+The Notes were issued pursuant to an indenture, dated as of September 7, 2018, between the Company and The Bank of New York Mellon, as trustee (the “Trustee”), as supplemented by the fifth supplemental indenture, dated as of August 18, 2021, between the Company and the Trustee (the “Fifth Supplemental Indenture”).
+
+The Fifth Supplemental Indenture is filed herewith as Exhibit 4.2 to this Current Report on Form
+8-K
+and is incorporated herein by reference.
+
+In connection with the offering of the Notes, the Company entered into an underwriting agreement (the “Underwriting Agreement”) and related pricing agreement (the “Pricing Agreement”), each dated August 16, 2021, with Citigroup Global Markets Inc., Goldman Sachs & Co. LLC, J.P. Morgan Securities LLC and Morgan Stanley & Co. LLC, as representatives of the several underwriters named therein.
+
+The Underwriting Agreement and the Pricing Agreement are filed herewith as Exhibit 1.1 and Exhibit 1.2 to this Current Report on Form
+8-K,
+respectively, and are incorporated herein by reference.
+
+In addition, in connection with the offering of the Notes, the Company is filing a legal opinion regarding the validity of the Notes, filed herewith as Exhibit 5.1 to this Current Report on Form
+8-K.
+
+Item 9.01 Financial Statements and Exhibits
+
+(d) Exhibits
+
+Exhibit
+No.
+
+Exhibit Description
+
+1.1
+
+Underwriting Agreement, dated August 16, 2021.
+
+1.2
+
+Pricing Agreement, dated August 16, 2021.
+
+4.1
+
+Indenture, dated as of September 7, 2018 (incorporated by reference from the Company’s Current Report on Form
+8-K
+filed on September 7, 2018).
+
+4.2
+
+Fifth Supplemental Indenture, dated as of August 18, 2021.
+
+4.3
+
+Form of 1.750% Notes due 2031 (included in Exhibit 4.2).
+
+5.1
+
+Opinion of Margaret M. Madden, Senior Vice President and Corporate Secretary, Chief Governance Counsel of the Company.
+
+23.1
+
+Consent of Margaret M. Madden, Senior Vice President and Corporate Secretary, Chief Governance Counsel of the Company (included in Exhibit 5.1).
+
+104
+
+Cover Page Interactive Data File—the cover page XBRL tags are embedded within the Inline XBRL document.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+PFIZER INC.
+
+By:
+
+/s/ Margaret M. Madden
+
+Margaret M. Madden
+
+Senior Vice President and Corporate Secretary
+
+Chief Governance Counsel
+
+Dated: August 18, 2021

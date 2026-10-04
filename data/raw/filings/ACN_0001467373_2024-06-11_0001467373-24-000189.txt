@@ -1,0 +1,99 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+June 8, 2024
+Accenture plc
+
+(Exact name of Registrant as specified in its charter)
+Ireland
+001-34448
+98-0627530
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+1 Grand Canal Square
+
+Grand Canal Harbour
+
+Dublin
+
+2
+,
+Ireland
+
+(Address of principal executive offices)
+Registrant’s telephone number, including area code: (
+353
+) (
+1
+)
+646-2000
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A ordinary shares, par value $0.0000225 per share
+ACN
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On June 11, 2024, Accenture plc (“Accenture” or the “Company”) issued a news release announcing the appointment of Angie Park as Chief Financial Officer, effective December 1, 2024. Ms. Park succeeds KC McClure, who is retiring after 36 years of service with Accenture. In her new role, Ms. Park will join the Company’s Global Management Committee. Ms. McClure will step down as Chief Financial Officer and member of the Global Management Committee on November 30, 2024, and retire on March 31, 2025.
+Ms. Park, 52, has been Accenture’s lead, Business and Commercial Finance since September 2023. Prior to assuming her current role, Ms. Park served as the Company’s Chief Financial Officer – Technology from September 2022 to August 2023 and as the Company’s head of Investor Relations from December 2016 through August 2022. Prior to December 2016, Ms. Park served as the finance director for the Company’s Health & Public Service operating group. Ms. Park has been with Accenture since December 1995.
+No determination regarding compensation arrangements relating to Ms. Park’s appointment as Chief Financial Officer have been made as of the date of filing this Current Report on Form 8-K.
+Accenture also announced that Jean-Marc Ollagnier will step down as Chief Executive Officer, Europe, Middle East, and Africa (EMEA) and member of the Global Management Committee on August 31, 2024 to become Chair, EMEA.
+A copy of Accenture’s news release regarding these changes and the changes described below is filed as Exhibit 99 to this Form 8-K.
+Item 8.01 Other Events
+Mauro Macchi, who currently serves as Accenture’s market unit lead for Italy, Central Europe, and Greece (ICEG) and as a member of the Global Management Committee, has been appointed as Chief Executive Officer, EMEA, effective September 1, 2024, succeeding Mr. Ollagnier.
+Angela Beatty, who currently serves as Accenture’s global lead for Talent, Rewards, and Employee Experience, has been appointed as Accenture’s Chief Leadership and Human Resources Officer and will join the Global Management Committee, effective September 1, 2024, succeeding Ellyn Shook, who is retiring after 36 years of service with Accenture. Ms. Shook will step down as Chief Leadership and Human Resources Officer and member of the Global Management Committee on August 31, 2024, and retire on March 1, 2025. Ms. Shook will then become an Accenture Luminary, part of an established network of external experts and thought leaders that is available to Accenture’s clients.
+Karthik Narain, who currently serves as the Company’s Group Chief Executive, Technology, will add the responsibilities of Chief Technology Officer to become the Company’s Group Chief Executive, Technology and Chief Technology Officer, and Bhaskar Ghosh, who currently serves as Accenture’s Chief Strategy Officer, will add the responsibilities of Chief Innovation Officer to become the Company’s Chief Strategy and Innovation Officer, both on September 1, 2024. Mr. Narain and Mr. Ghosh succeed Paul Daugherty, who has held both sets of responsibilities as the Company’s Chief Technology and Innovation Officer since he stepped down last year as Group Chief Executive, Technology. Daugherty will retire on August 31, 2024, after a 38 year career at Accenture. He will continue to work with Accenture as a Senior Technology Advisor on a part-time basis.
+Atsushi Egawa, who currently serves as the Company’s Market Unit Lead, Japan, and Ryoji Sekido, Technology Lead, Growth Markets, will become co-CEOs of Asia Pacific on September 1, 2024, as part of an evolution of the Company’s Growth Model into three Markets: The Americas (US, Canada and LATAM), which will be led by Manish Sharma, currently the CEO of North America; EMEA; and Asia Pacific. Sekido will join the Global Management Committee, and Egawa will continue as a member of the Global Management Committee. Leo Framil, currently the CEO of Growth Markets, will take a leadership role in Financial Services in the US and remain a member of the Global Management Committee.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+Exhibit No.
+Description
+99
+News Release of Accenture, dated
+June 1
+1
+, 2024
+104
+The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+Date: June 11, 2024
+ACCENTURE PLC
+By:
+
+/s/ Joel Unruch
+Name:
+
+Joel Unruch
+Title:
+
+General Counsel & Corporate Secretary

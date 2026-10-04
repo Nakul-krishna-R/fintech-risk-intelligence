@@ -1,0 +1,127 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+September 17, 2021
+
+THERMO FISHER SCIENTIFIC INC.
+
+(Exact name of Registrant as specified in its Charter)
+
+Delaware
+1-8002
+04-2209186
+(State of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification Number)
+168 Third Avenue
+
+Waltham
+,
+Massachusetts
+
+02451
+
+(Address of principal executive offices) (Zip Code)
+Registrant’s telephone number, including area code: (
+781
+)
+622-1000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $1.00 par value
+TMO
+New York Stock Exchange
+0.750% Notes due 2024
+TMO 24A
+New York Stock Exchange
+0.125% Notes due 2025
+TMO 25B
+New York Stock Exchange
+2.000% Notes due 2025
+TMO 25
+New York Stock Exchange
+1.400% Notes due 2026
+TMO 26A
+New York Stock Exchange
+1.450% Notes due 2027
+TMO 27
+New York Stock Exchange
+1.750% Notes due 2027
+TMO 27B
+New York Stock Exchange
+0.500% Notes due 2028
+TMO 28A
+New York Stock Exchange
+1.375% Notes due 2028
+TMO 28
+New York Stock Exchange
+1.950% Notes due 2029
+TMO 29
+New York Stock Exchange
+0.875% Notes due 2031
+TMO 31
+New York Stock Exchange
+2.375% Notes due 2032
+TMO 32
+New York Stock Exchange
+2.875% Notes due 2037
+TMO 37
+New York Stock Exchange
+1.500% Notes due 2039
+TMO 39
+New York Stock Exchange
+1.875% Notes due 2049
+TMO 49
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 or Rule 12b-2 of the Securities Exchange Act of 1934.
+☐
+Emerging growth company
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+THERMO FISHER SCIENTIFIC INC.
+Item 7.01
+
+Regulation FD Disclosure
+As previously announced, Thermo Fisher Scientific Inc. (the “Company” or “Thermo Fisher”) will host a virtual Investor Meeting today. The virtual format will feature presentations by members of Thermo Fisher's senior management team, including expectations for future performance, and conclude with a Q&A session. The materials presented at the Investor Meeting can be found on Thermo Fisher’s website, at www.thermofisher.com, by clicking on “Investors.” At the Investor Meeting, among other topics, Stephen Williamson, Senior Vice President and Chief Financial Officer, will provide the Company’s expectations for future financial performance based on currently available information, including expected 2022 revenue of $40.3 billion and adjusted EPS of $21.16. Actual results could be different from these estimates given the uncertainty that continues to exist in the marketplace. Additional information on these forward-looking estimates will be provided during the presentation.
+The information contained in Item 7.01 of this Form 8-K shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934 (the "Exchange Act") or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933 or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+Cautionary Statement Regarding Forward-Looking Statements
+This Current Report on Form 8-K and today’s presentations contain forward-looking statements that involve a number of risks and uncertainties, including statements about the Company’s expected 2022 revenue and adjusted EPS. Important factors that could cause actual results to differ materially from those indicated by such forward-looking statements are set forth in the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2020 and subsequent Quarterly Reports on Form 10-Q, which are on file with the Securities and Exchange Commission and available in the “Investors” section of its Website under the heading “SEC Filings.” Important factors that could cause actual results to differ materially from those indicated by forward-looking statements include risks and uncertainties relating to: the duration and severity of the COVID-19 pandemic; the need to develop new products and adapt to significant technological change; implementation of strategies for improving growth; general economic conditions and related uncertainties; dependence on customers' capital spending policies and government funding policies; the effect of economic and political conditions and exchange rate fluctuations on international operations; use and protection of intellectual property; the effect of changes in governmental regulations; and the effect of laws and regulations governing government contracts, as well as the possibility that expected benefits related to recent or pending acquisitions, including the pending acquisition of PPD, Inc., may not materialize as expected. While we may elect to update forward-looking statements at some point in the future, we specifically disclaim any obligation to do so, even if our estimates change and, therefore, you should not rely on these forward-looking statements as representing our views as of any date subsequent to the date of this Current Report on Form 8-K.
+Use of Non-GAAP Financial Measures
+In addition to financial measures prepared in accordance with generally accepted accounting principles (GAAP), we use certain non-GAAP financial measures, including adjusted EPS. Adjusted EPS is GAAP earnings per share, excluding certain acquisition-related costs, including charges for the sale of inventories revalued at the date of acquisition and significant transaction costs; restructuring and other costs/income; amortization of acquisition-related intangible assets; certain other gains and losses that are either isolated or cannot be expected to occur again with any predictability; tax provisions/benefits related to the previous items; and the impact of significant tax audits or events. We exclude the above items because they are outside of our normal operations and are difficult to forecast accurately. We believe that the use of non-GAAP measures helps investors to gain a better understanding of our operating results and future prospects, consistent with how management measures and forecasts the company's performance. Thermo Fisher's management uses non-GAAP measures, in addition to GAAP financial measures, as the basis for measuring the company's core operating performance and comparing such performance to that of prior periods and to the performance of our competitors. Such measures are also used by management in their financial and operating decision-making and for compensation purposes. The non-GAAP financial measures we use are not meant to be considered superior to or a substitute for the corresponding GAAP measures. Thermo Fisher Scientific does not provide GAAP financial measures on a forward-looking basis because we are unable to predict with reasonable certainty and without unreasonable effort items such as the timing and amount of future restructuring actions and acquisition-related charges as well as gains or losses from sales of real estate and businesses, the early retirement of debt and the outcome of legal proceedings. The timing and amount of these items are uncertain and could be material to Thermo Fisher Scientific's results computed in accordance with GAAP.
+2
+THERMO FISHER SCIENTIFIC INC.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+THERMO FISHER SCIENTIFIC INC.
+Date:
+September 17, 2021
+By:
+/s/ Joseph R. Holmes
+Joseph R. Holmes
+Vice President and Chief Accounting Officer
+3

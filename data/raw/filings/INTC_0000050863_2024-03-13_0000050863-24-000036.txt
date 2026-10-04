@@ -1,0 +1,95 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+March 12, 2024
+INTEL CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+000-06217
+94-1672743
+(State or other jurisdiction
+(Commission
+(IRS Employer
+of incorporation)
+File Number)
+Identification No.)
+
+2200 Mission College Boulevard
+,
+Santa Clara
+,
+California
+95054-1549
+(Address of principal executive offices)
+(Zip Code)
+Registrant's telephone number, including area code:
+(408)
+
+765-8080
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, $0.001 par value
+INTC
+Nasdaq Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(d) Election of New Director.
+On March 12, 2024, the Board appointed Stacy J. Smith to the Board, effective immediately. The Board determined that Mr. Smith qualifies as “independent” in accordance with the published listing requirements of Nasdaq, and he has been appointed to the Audit & Finance Committee. Mr. Smith was selected as a director based on his extensive experience in the semiconductor industry, as a chief financial officer and as a public company director, as summarized below.
+Mr. Smith, 61, serves as Executive Chairman for Kioxia Corporation (formerly Toshiba Memory) and is the Chairman of Autodesk, Inc. Kioxia was formed from the carve-out of Toshiba’s semiconductor business in 2018 and is a worldwide leader in NAND memory solutions with headquarters in Tokyo, Japan. Autodesk is a leader in making software for people who make things, ranging from manufacturing, construction, architecture, engineering, games, and movies. Mr. Smith also serves on the board for Wolfspeed, Inc., The California Chapter of The Nature Conservancy Board of Trustees, and the University of Texas McCombs School of Business Advisory Board.
+Mr. Smith has over three decades of leadership experience in the semiconductor industry, including from his career at Intel Corporation from 1988 until his retirement in 2018. He was most recently Executive Vice President, Group President, Manufacturing, Operations & Sales at Intel from 2017 to 2018 and Executive Vice President, Operations & Sales from 2016 to 2017, during which time he oversaw the company’s global technology and manufacturing groups and its worldwide sales organization. Prior to that, he served nine years as Intel’s chief financial officer (CFO) from 2007 to 2016, overseeing the company’s global finance organization, including finance, accounting and reporting, tax, treasury, internal audit and investor relations; Intel Capital; information technology; and the Corporate Strategy Office. Earlier in his tenure at Intel, he held the position of chief information officer (CIO) and was general manager of Intel Europe, Middle East and Africa (EMEA). He has managed with Intel in the U.S., Asia, Europe and Latin America. Mr. Smith previously served on the Board of Directors for Metromile, Inc., Virgin America Inc., Gevo, Inc. and the Silicon Valley branch of the American Heart Association. Mr. Smith is a graduate of the University of Texas, where he earned his MBA degree in finance in 1988.
+Mr. Smith will receive the standard compensation payable to non-employee directors of the Board. Pursuant to these arrangements, he will be paid the standard annual cash retainer (in addition to any committee fees), which will be pro-rated for his first year of service. In addition, in the second quarter of 2024, Mr. Smith will be granted an award of non-employee director time-based restricted stock units with a value on the grant date of approximately $36,667, which is pro-rated from the value of the annual award granted to Intel’s non-employee directors in May 2023. The award will vest on the earlier of May 11, 2024 and the date of Intel’s 2024 Annual Stockholders’ Meeting, the same schedule as the annual award granted to Intel’s other non-employee directors in May 2023, subject to Mr. Smith’s continued service on the Board.
+Mr. Smith will also enter into Intel’s standard form of directors’ indemnification agreement with Intel, pursuant to which Intel agrees to indemnify its directors to the fullest extent permitted by applicable law and subject to certain conditions to advance expenses in connection with proceedings as described in the indemnification agreement.
+Mr. Smith does not have any family relationship with any director or executive officer of Intel, or person nominated or chosen by Intel to become a director or executive officer, and he has no direct or indirect material interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation S-K.
+Item 7.01 Regulation FD Disclosure.
+Intel’s press release dated March 13, 2024 announcing the appointment of Stacy J. Smith to the Board is furnished as Exhibit 99.1 to this Current Report on Form 8-K. The information in this Item 7.01 of this report is furnished and shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+Item 9.01
+
+Financial Statements and Exhibits.
+(d)
+
+Exhibits.
+The following exhibits are provided as part of this report:
+Exhibit Number
+Description
+99.1
+Press Release issued by Intel titled “Intel Appoints Stacy J. Smith to Board of Directors,” dated March 13, 2024.
+104
+Cover Page Interactive Data File, formatted in Inline XBRL and included as Exhibit 101.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+INTEL CORPORATION
+(Registrant)
+Date:
+March 12, 2024
+By:
+/s/ April Miller Boise
+April Miller Boise
+Executive Vice President and Chief Legal Officer

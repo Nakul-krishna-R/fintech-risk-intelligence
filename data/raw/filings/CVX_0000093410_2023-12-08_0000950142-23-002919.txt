@@ -1,0 +1,325 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+
+December 7, 2023
+
+Chevron Corporation
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-00368
+
+94-0890210
+
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(I.R.S. Employer Identification No.)
+
+6001 Bollinger Canyon Road
+,
+San Ramon
+,
+CA
+
+94583
+
+(Address of Principal Executive Offices)
+
+(Zip Code)
+
+(
+925
+)
+842-1000
+
+Registrant’s telephone number, including area code
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligations of the registrant under any of the following provisions:
+
+☒
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol
+
+Name of each exchange on which registered
+
+Common stock, par value $.75 per share
+
+CVX
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging
+growth company
+☐
+
+If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any
+new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 8.01.
+Other Events.
+
+As
+previously disclosed, on October 22, 2023, Chevron Corporation (“
+Chevron
+”)
+entered into an Agreement and Plan of Merger (the “
+Merger Agreement
+”)
+with Hess Corporation (“
+Hess
+”) and Yankee Merger Sub Inc., a direct,
+wholly owned subsidiary of Chevron (“
+Merger Subsidiary
+”). The Merger
+Agreement provides that, among other things and subject to the terms and conditions of the Merger Agreement, Merger Subsidiary will be
+merged with and into Hess, with Hess surviving and continuing as the surviving corporation of the Merger and as a direct, wholly owned
+subsidiary of Chevron (such transaction, the “
+Merger
+”).
+
+The Merger is conditioned
+on, among other things, the expiration or termination of the waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of
+1976, as amended (the “
+HSR Act
+”). Pursuant to the HSR Act, Hess and Chevron filed notification and report forms with
+the Department of Justice and the Federal Trade Commission (the “
+FTC
+”).
+
+On December 7, 2023,
+Chevron and Hess each received a request for additional information and documentary materials (the “
+Second
+Request
+”) from the FTC in connection with the FTC’s review of the Merger. Issuance of the Second Request extends
+the waiting period imposed by the HSR Act until 30 days after Chevron and Hess have substantially complied with the Second Request,
+unless that period is extended voluntarily by Chevron and Hess or terminated sooner by the FTC. Both Chevron and Hess expect to
+promptly respond to the Second Request and to continue to work cooperatively with the FTC in its review of the Merger.
+
+FORWARD-LOOKING STATEMENTS
+
+This
+communication contains “forward-looking statements” within the meaning of the federal securities laws, including Section 27A
+of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. You can identify these
+statements and other forward-looking statements in this document by words such as “expects,” “focus,” “intends,”
+“anticipates,” “plans,” “targets,” “poised,” “advances,” “drives,”
+“aims,” “forecasts,” “believes,” “approaches,” “seeks,” “schedules,”
+“estimates,” “positions,” “pursues,” “progress,” “may,” “can,”
+“could,” “should,” “will,” “budgets,” “outlook,” “trends,” “guidance,”
+“commits,” “on track,” “objectives,” “goals,” “projects,” “strategies,”
+“opportunities,” “potential,” “ambitions,” “aspires” and similar expressions, and variations
+or negatives of these words, but not all forward-looking statements include such words.
+
+Forward-looking
+statements by their nature address matters that are, to different degrees, uncertain, such as statements about the consummation of
+the potential transaction, including the expected time period to consummate the potential transaction, and the anticipated benefits
+(including synergies) of the potential transaction. All such forward-looking statements are based upon current plans, estimates,
+expectations and ambitions that are subject to risks, uncertainties and assumptions, many of which are beyond the control of Chevron
+and Hess, that could cause actual results to differ materially from those expressed in such forward-looking statements. Key factors
+that could cause actual results to differ materially include, but are not limited to the risk that regulatory approvals are not
+obtained or are obtained subject to conditions that are not anticipated by Chevron and Hess; potential delays in consummating the
+potential transaction, including as a result of regulatory proceedings; Chevron’s ability to integrate Hess’ operations
+in a successful manner and in the expected time period; the possibility that any of the anticipated benefits and projected synergies
+of the potential transaction will not be realized or will not be realized within the expected time period; the occurrence of any
+event, change or other circumstance that could give rise to the termination of the merger agreement; risks that the anticipated tax
+treatment of the potential transaction is not obtained; unforeseen or unknown liabilities; customer, shareholder, regulatory and
+other stakeholder approvals and support; unexpected future capital expenditures; potential litigation relating to the potential
+transaction that could be instituted against Chevron and Hess or their respective directors; the possibility that the potential
+transaction may be more expensive to complete than anticipated, including as a result of unexpected factors or events; the effect of
+the announcement, pendency or completion of the potential transaction on the parties’ business relationships and business
+generally; risks that the potential transaction disrupts current plans and operations of Chevron or Hess and potential difficulties
+in Hess employee retention as a result of the potential transaction, as well as the risk of disruption of Chevron’s or
+Hess’ management and business disruption during the pendency of, or following, the potential transaction; the receipt of
+required Chevron Board of Directors’ authorizations to implement capital allocation strategies, including future dividend
+payments; uncertainties as to whether the potential transaction will be consummated on the anticipated timing or at all, or if
+consummated, will achieve its anticipated economic benefits, including as a result of risks associated with third party contracts
+containing material consent, anti-assignment, transfer or other provisions that may be related to the potential transaction
+which
+
+are
+not waived or otherwise satisfactorily resolved; changes in commodity prices; negative effects of the announcement of the potential transaction,
+and the pendency or completion of the proposed acquisition on the market price of Chevron’s or Hess’ common stock and/or
+operating results; rating agency actions and Chevron’s and Hess’ ability to access short- and long-term debt markets on a
+timely and affordable basis; various events that could disrupt operations, including severe weather, such as droughts, floods, avalanches
+and earthquakes, and cybersecurity attacks, as well as security threats and governmental response to them, and technological changes;
+labor disputes; changes in labor costs and labor difficulties; the effects of industry, market, economic, political or regulatory conditions
+outside of Chevron’s or Hess’ control; legislative, regulatory and economic developments targeting public companies in the
+oil and gas industry; and the risks described in Part I, Item 1A “Risk Factors” of (i) Chevron’s Annual Report on Form
+10-K for the year ended December 31, 2022 and (ii) Hess’ Annual Report on Form 10-K for the year ended December 31, 2022, and,
+in each case, in subsequent filings with the U.S. Securities and Exchange Commission (“
+SEC
+”). Other unpredictable
+or factors not discussed in this communication could also have material adverse effects on forward-looking statements. Neither Chevron
+nor Hess assumes an obligation to update any forward-looking statements, except as required by law. You are cautioned not to place undue
+reliance on any of these forward-looking statements as they are not guarantees of future performance or outcomes and that actual performance
+and outcomes. These forward-looking statements speak only as of the date hereof.
+
+IMPORTANT INFORMATION
+FOR INVESTORS AND STOCKHOLDERS
+
+This communication does
+not constitute an offer to sell or the solicitation of an offer to buy any securities or a solicitation of any vote or approval, nor
+shall there be any sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration
+or qualification under the securities laws of any such jurisdiction. No offer of securities shall be made except by means of a prospectus
+meeting the requirements of Section 10 of the Securities Act. In connection with the potential transaction, Chevron expects to file a
+registration statement on Form S-4 with the SEC containing a preliminary prospectus of Chevron that also constitutes a preliminary proxy
+statement of Hess. After the registration statement is declared effective, Hess will mail a definitive proxy statement/prospectus to
+stockholders of Hess. This communication is not a substitute for the proxy statement/prospectus or registration statement or for any
+other document that Chevron or Hess may file with the SEC and send to Hess’ stockholders in connection with the potential transaction.
+INVESTORS AND SECURITY HOLDERS OF CHEVRON AND HESS ARE URGED TO READ THE PROXY STATEMENT/PROSPECTUS AND OTHER DOCUMENTS FILED WITH THE
+SEC CAREFULLY AND IN THEIR ENTIRETY WHEN THEY BECOME AVAILABLE BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION. Investors and security
+holders will be able to obtain free copies of the proxy statement/prospectus (when available) and other documents filed with the SEC
+by Chevron or Hess through the website maintained by the SEC at
+http://www.sec.gov
+. Copies of the documents filed with the SEC
+by Chevron will be available free of charge on Chevron’s website at
+http://www.chevron.com/investors
+.
+Copies of the documents filed with the SEC by Hess will be available free of charge on Hess’ website at
+http://www.hess.com/investors
+.
+
+PARTICIPANTS IN THE SOLICITATION
+
+Chevron, Hess, their respective directors and
+certain of their respective executive officers may be deemed to be “participants” (as defined under Section 14(a) of the
+Securities Exchange Act of 1934) in the solicitation of proxies from shareholders of Hess with respect to the potential transaction.
+Information about the identity of Chevron’s (i) directors is set forth in the section entitled “director summary”
+on page 8 of Chevron’s proxy statement on Schedule 14A filed with the SEC on April 12, 2023 (and available at
+https://www.sec.gov/Archives/edgar/data/93410/000119312523099292/d433226ddef14a.htm#toc433226_6a
+)
+and (ii) executive officers is set forth in the section entitled “Information about our Executive Officers at February 23,
+2023” on page 29 of Chevron’s Annual Report on Form 10-K filed with the SEC on February 23, 2023 (and available at
+https://www.sec.gov/Archives/edgar/data/93410/000009341023000009/cvx-20221231.htm#i6a307f2e4a6645f39c1c0ca1a4f97bf4_181
+).
+Information about the compensation of Chevron’s non-employee directors is set forth in the section entitled “2022
+non-employee director compensation” starting on page 24 of Chevron’s proxy statement on Schedule 14A filed on April 12,
+2023 (and available at
+https://www.sec.gov/Archives/edgar/data/93410/000119312523099292/d433226ddef14a.htm#toc433226_10
+).
+Information about the compensation of Chevron’s named executive officers is set forth in the section entitled
+“compensation discussion and analysis” starting on page 48 of Chevron’s proxy statement on Schedule 14A filed with
+the SEC on April 12, 2023 (and available
+at
+
+https://www.sec.gov/Archives/edgar/data/93410/000119312523099292/d433226ddef14a.htm#toc433226_35
+)
+and the Current Report on Form 8-K filed with the SEC on January 27, 2023 (and available at
+https://www.sec.gov/Archives/edgar/data/93410/000009341023000005/cvx-20230124.htm
+).
+Transactions with related persons (as defined in Item 404 of Regulation S-K promulgated under the Securities Act of 1933) are
+disclosed in the section entitled “related person transactions” on page 100 of Chevron’s proxy statement on
+Schedule 14A filed with the SEC on April 12, 2023 (and available at
+https://www.sec.gov/Archives/edgar/data/93410/000119312523099292/d433226ddef14a.htm#toc433226_50
+).
+Information about the beneficial ownership of Chevron securities by Chevron’s directors and named executive officers is set
+forth in the section entitled “security ownership of certain beneficial owners and management” starting on page 97 of
+Chevron’s proxy statement on Schedule 14A filed with the SEC on April 12, 2023 (and available at
+https://www.sec.gov/Archives/edgar/data/93410/000119312523099292/d433226ddef14a.htm#toc433226_47
+).
+
+Information about the identity of Hess’
+(i) directors is set forth in the section entitled “Director Nominees” on page vii of Hess’ proxy statement on Schedule
+14A filed with the SEC on April 6, 2023 (and available at
+https://www.sec.gov/Archives/edgar/data/4447/000119312523094009/d368726ddef14a.htm#toc368726_13
+)
+and (ii) executive officers is set forth in the section entitled “Information about our Executive Officers” on page 16 of
+Hess’ Annual Report on Form 10-K filed with the SEC on February 24, 2023 (and available at
+https://www.sec.gov/Archives/edgar/data/4447/000162828023005059/hes-20221231.htm#i50499a99fa5f4752b4c4b684dbff66ec_22
+).
+Information about the compensation of Hess’ non-employee directors is set forth in the section entitled “Director Compensation”
+on page 19 of Hess’ proxy statement on Schedule 14A filed with the SEC on April 6, 2023 (and available at
+https://www.sec.gov/Archives/edgar/data/4447/000119312523094009/d368726ddef14a.htm#toc368726_34
+).
+Information about the compensation of Hess’ named executive officers is set forth in the section entitled “Compensation Discussion
+and Analysis” starting on page 20 of Hess’ proxy statement on Schedule 14A filed with the SEC on April 6, 2023 (and available
+at
+https://www.sec.gov/Archives/edgar/data/4447/000119312523094009/d368726ddef14a.htm#toc368726_36
+) and the Current Report on
+Form 8-K filed with the SEC on March 1, 2023 (and available at:
+https://www.sec.gov/Archives/edgar/data/4447/000119312523056345/d446666d8k.htm
+).
+Transactions with related persons (as defined in Item 404 of Regulation S-K promulgated under the Securities Act of 1933) are disclosed
+in the section entitled “Related Party Transactions” on page 9 of Hess’ proxy statement on Schedule 14A filed with the
+SEC on April 6, 2023 (and available at
+https://www.sec.gov/Archives/edgar/data/4447/000119312523094009/d368726ddef14a.htm#toc368726_27
+).
+Information about the beneficial ownership of Hess securities by Hess’ directors and named executive officers is set forth in the
+section entitled “Ownership of Equity Securities by Management” on page 18 of Hess’ proxy statement on Schedule 14A
+filed with the SEC on April 6, 2023 (and available at
+https://www.sec.gov/Archives/edgar/data/4447/000119312523094009/d368726ddef14a.htm#toc368726_33
+).
+
+Additional or updated information regarding the
+potential participants and their direct or indirect interests (by security holdings or otherwise) will be included in Chevron’s
+registration statement on Form S-4, which will contain Chevron’s prospectus and Hess’ proxy statement, and other relevant
+materials to be filed with the SEC when they become available. These documents can be obtained free of charge from the SEC’s website
+at
+www.sec.gov
+.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated: December 8, 2023
+
+CHEVRON CORPORATION
+
+By:
+
+/s/ Christine L. Cavallo
+
+Name:
+
+Christine L. Cavallo
+
+Title:
+
+Assistant Secretary

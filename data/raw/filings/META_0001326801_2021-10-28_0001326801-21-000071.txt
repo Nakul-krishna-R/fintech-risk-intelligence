@@ -1,0 +1,98 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+October 28, 2021
+
+Meta Platforms, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+001-35551
+20-1665019
+(State or Other Jurisdiction
+of Incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+1601 Willow Road
+,
+Menlo Park
+,
+California
+
+94025
+
+(Address of principal executive offices and Zip Code)
+(
+650
+)
+543-4800
+
+(Registrant’s telephone number, including area code)
+Facebook, Inc.
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A Common Stock, $0.000006 par value
+FB
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.03 Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+On October 28, 2021, Facebook, Inc. (the “Company”) changed its corporate name to Meta Platforms, Inc., pursuant to an amended and restated certificate of incorporation filed with the Delaware Secretary of State on October 28, 2021 (the “Name Change”). Pursuant to Delaware law, a shareholder vote was not necessary to effectuate the Name Change and it does not affect the rights of the Company’s shareholders. The Company also amended and restated its bylaws on October 28, 2021 to reflect the Name Change.
+The Company also announced that it intends for its Class A common shares to cease trading under the ticker symbol “FB” and begin trading under its new ticker symbol, “MVRS”, on the Nasdaq Global Select Market, which the Company expects to be effective on December 1, 2021.
+Copies of the Company’s Amended and Restated Certificate of Incorporation and Amended and Restated Bylaws are filed as Exhibit 3.1 and Exhibit 3.2, respectively, with this Current Report on Form 8-K and are incorporated herein by reference. The only change to the Company’s Amended and Restated Certificate of Incorporation and Amended and Restated Bylaws is the change of the Company’s corporate name from Facebook, Inc. to Meta Platforms, Inc. in each document.
+Item 8.01 Other Events.
+On October 25, 2021, the Company announced that, beginning in the fourth quarter of 2021, it will implement a new financial reporting segment structure with two reportable segments: Family of Apps and Facebook Reality Labs. Following the Name Change, the two reportable segments will be:
+•
+Family of Apps (FoA)
+, which includes Facebook, Instagram, Messenger, WhatsApp and other services.
+•
+Reality Labs
+
+(RL)
+, which includes augmented and virtual reality related consumer hardware, software and content.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit Number
+Exhibit Title or Description
+3.1
+Amended and Restated Certificate of Incorporation of Meta Platforms, Inc
+. as of October 28, 2021
+3.2
+Amended and Restated Bylaws of Meta Platforms, Inc
+., as of October 28, 2021
+104
+Cover Page Interactive Data File (the cover page XBRL tags are embedded within the inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+META PLATFORMS, INC.
+Date:
+October 28, 2021
+By:
+/s/ Michael Johnson
+Name: Michael Johnson
+Title: Vice President, Deputy General Counsel and Assistant Secretary

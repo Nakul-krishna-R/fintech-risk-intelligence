@@ -1,0 +1,258 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+December 22, 2022
+
+Amgen Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-37702
+
+95-3540776
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+One Amgen Center Drive
+
+Thousand Oaks
+
+California
+
+91320-1799
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+
+(
+805
+)
+447-1000
+
+Not Applicable
+
+(Former Name or Former Address, if Changed since Last Report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities Registered under Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock $0.0001 par value
+
+AMGN
+
+The Nasdaq Stock Market LLC
+
+2.000% Senior Notes Due 2026
+
+AMGN26
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter). Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+Term Loan Credit Facility
+
+On December 22, 2022 (the “
+Effective Date
+”), Amgen Inc. (“
+Amgen
+”), Citibank, N.A. (“
+Citibank
+”), as administrative agent, Bank of America, N.A. (“
+Bank of America
+”), as syndication agent, Citibank, Bank of America, Goldman Sachs Bank USA and Mizuho Bank, Ltd. as lead arrangers and book runners, and Goldman Sachs Bank USA and Mizuho Bank, Ltd. as documentation agents entered into a Term Loan Credit Agreement (the “
+Term Loan Credit Agreement
+”). The Term Loan Credit Agreement provides for a (1) a $2,000,000,000
+18-month
+term loan tranche (the “
+18-Month
+Tranche
+”) and (2) a $2,000,000,000
+3-year
+term loan tranche (the “
+3-Year
+Tranche
+”, and together with the
+18-Month
+Tranche, the “
+Term Loan Credit Facility
+”), with the commitments under the Bridge Credit Agreement entered into by Amgen, as borrower, Citibank, as administrative agent, Bank of America, as syndication agent, and Citibank and Bank of America as lead arrangers and book runners, on December 12, 2022 (the “
+Bridge Credit Facility
+”) (as filed in our Current Report on Form
+8-K
+on December 12, 2022) to be automatically reduced by a corresponding amount. The Term Loan Credit Facility is available to finance the payment of the transaction consideration in connection with the acquisition by Amgen of Horizon Therapeutics plc (“
+Horizon
+”) (the “
+Acquisition
+”), the repayment of certain existing indebtedness of Horizon, and the payment of fees and expenses related to the Acquisition. Advances under the Term Loan Credit Facility will be available after the Effective Date, subject to the satisfaction of certain conditions set forth in the Term Loan Credit Agreement and will mature on, for the
+18-Month
+Tranche, the date that is 18 months after, and for the
+3-Year
+Tranche, the date that is three years after, the date on which the advances are made under the Term Loan Credit Facility. The commitments under the Term Loan Credit Facility, unless previously terminated, terminate on the earlier of (i) the date on which the Acquisition has been completed and the other purposes of the Term Loan Credit Facility have been achieved without the making of any advances under the Term Loan Credit Facility and (ii) the time after certain mandatory cancellation events occur, including the abandonment of the Acquisition.
+
+Advances under the Term Loan Credit Agreement will bear interest at an annual rate of, at Amgen’s option, either (i) term SOFR plus 0.10%, plus between 0.875% and 1.375%, depending on the rating of our senior long-term unsecured debt, or (ii) the highest of (A) Citibank’s base commercial lending rate, (B) the overnight federal funds rate plus
+1
+⁄
+2
+of 1.00% and
+(C) one-month
+adjusted term SOFR plus 1.00%, plus between 0.000% and 0.375%, depending on the rating of our senior long-term unsecured debt. We are also required to pay, commencing on March 12, 2023 and under both the
+18-Month
+Tranche and the
+3-Year
+Tranche, a ticking fee of 0.125% per annum that will accrue on the aggregate undrawn commitments under the applicable tranche.
+
+The Term Loan Credit Agreement contains customary affirmative and negative covenants that will apply after the Effective Date, including limitations on mergers, consolidations and sales of assets, limitations on liens and sales and leasebacks, limitations on transactions with affiliates and limitations on subsidiary indebtedness. In addition, the Term Loan Credit Agreement requires maintenance of a minimum consolidated interest coverage ratio of EBITDA to total interest expense, each on a consolidated basis.
+
+The foregoing description of the Term Loan Credit Agreement does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Term Loan Credit Agreement, a copy of which is filed as Exhibit 10.1 hereto and incorporated herein by reference into this Item 1.01.
+
+Item 2.03
+
+Creation of a Direct Financial Obligation or an Obligation under an
+Off-Balance
+Sheet Arrangement of a Registrant.
+
+On December 22, 2022, Amgen entered into the Term Loan Credit Agreement as described under Item 1.01 above. The commitments under the Bridge Credit Facility shall be automatically reduced on the Effective Date by the amount of the Term Loan Credit Facility. The foregoing description of the Term Loan Credit Agreement set forth in Item 1.01 and the full text of the Term Loan Credit Agreement, a copy of which is filed as Exhibit 10.1 hereto, are incorporated herein by reference into this Item 2.03.
+
+-1-
+
+Forward-Looking Statements
+
+This Current Report on Form
+8-K
+contains certain statements about Horizon and Amgen that are or may be forward-looking statements which include, but are not limited to, statements regarding expected timing, completion and effects of the Acquisition. These forward-looking statements are subject to the safe harbor provisions under the U.S. Private Securities Litigation Reform Act of 1995. All statements other than statements of historical facts included in this Announcement may be forward-looking statements. Without limitation, forward-looking statements often include words such as “expect,” “anticipate,” “outlook,” “could,” “target,” “project,” “intend,” “plan,” “believe,” “seek,” “estimate,” “should,” “may,” “assume” and “continue” as well as variations of such words and similar expressions are intended to identify such forward-looking statements. Horizon’s and Amgen’s expectations and beliefs regarding these matters may not materialize. Actual outcomes and results may differ materially from those contemplated by these forward-looking statements as a result of uncertainties, risks, and changes in circumstances, including but not limited to risks and uncertainties related to: the ability of the parties to complete the transactions contemplated by the transaction agreement entered into by and among Amgen, Pillartree Limited and Horizon on December 11, 2022 (the “
+Transaction Agreement
+”), including the Acquisition, in a timely manner or at all; the satisfaction (or waiver) of conditions to the consummation of the transactions contemplated by the Transaction Agreement, including the Acquisition, including with respect to the approval of Horizon’s shareholders and required regulatory approvals; potential delays in consummating the transactions contemplated by the Transaction Agreement, including the Acquisition; the ability of Horizon and Amgen to timely and successfully achieve the anticipated strategic benefits, synergies or opportunities expected of the transactions contemplated by the Transaction Agreement, including the Acquisition; the successful integration of Horizon into Amgen subsequent to the consummation of the transactions contemplated by the Transaction Agreement, including the Acquisition and the timing of such integration; the impact of changes in global, political, economic, business, competitive, market and regulatory forces; the impact of health pandemics, including the
+COVID-19
+pandemic, on Horizon’s or Amgen’s respective businesses; the occurrence of any event, change or other circumstance or condition that could give rise to the termination of the Transaction Agreement; adverse effects on the market price of Horizon’s or Amgen’s securities and on Horizon’s or Amgen’s operating results because of a failure to complete the Acquisition; the effect of the announcement or pendency of the Acquisition on Horizon’s or Amgen’s business relationships, operating results and business generally; costs related to the transactions contemplated by the Transaction Agreement, including the Acquisition; and the outcome of any legal proceedings that may be instituted against Horizon, Amgen, Pillartree Limited or any of their respective directors or officers related to the Transaction Agreement or the transactions contemplated by the Transaction Agreement, including the Acquisition. Additional risks and uncertainties that could cause actual outcomes and results to differ materially from those contemplated by the forward-looking statements are included under the caption “Risk Factors” and elsewhere in Horizon’s most recent filings with the SEC, including its Quarterly Report on Form
+10-Q
+for the quarter ended September 30, 2022, and Amgen’s most recent filings with the SEC, including its Quarterly Report on Form
+10-Q
+for the quarter ended September 30, 2022, and any subsequent reports on Form
+10-K,
+Form
+10-Q
+or Form
+8-K
+filed with the SEC by Horizon or Amgen from time to time and available at www.sec.gov. These documents can be accessed on Horizon’s web page at
+https://ir.horizontherapeutics.com/sec-filings
+or on Amgen’s web page at
+https://investors.amgen.com/financials/sec-filings.
+
+The forward-looking statements included in this Current Report on Form
+8-K
+are made only as of the date hereof. Neither Amgen nor Horizon assumes any obligation to, and neither Amgen nor Horizon intends to, update these forward-looking statements, except as required by law.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit
+
+Description
+
+10.1
+
+Term Loan Credit Agreement, dated as of December 22, 2022, by and among Amgen Inc., Citibank, N.A., as administrative agent, Bank of America, N.A., as syndication agent, Citibank, N.A., Bank of America, N.A., Goldman Sachs Bank USA and Mizuho Bank, Ltd., as lead arrangers and book runners, Goldman Sachs Bank USA and Mizuho Bank, Ltd. as documentation agents, and the other banks party thereto.
+
+104
+
+Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document).
+
+-2-
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+AMGEN INC.
+
+Date: December 22, 2022
+
+By:
+
+/s/ Jonathan P. Graham
+
+Name:
+
+Jonathan P. Graham
+
+Title:
+
+Executive Vice President, General Counsel and Secretary

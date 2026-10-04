@@ -1,0 +1,302 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+DATE OF REPORT (Date of earliest event reported):
+July 24, 2023
+
+Linde plc
+(Exact name of registrant as specified in its charter)
+
+Ireland
+
+001-38730
+
+98-1448883
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(I.R.S. Employer
+Identification No.)
+
+10 Riverview Dr.
+
+Forge
+Danbury
+,
+Connecticut
+
+43 Church Street West
+United States
+
+06810
+
+Woking
+, Surrey
+
+GU21 6HT
+
+United Kingdom
+
+(Address of principal executive offices) (Zip Code)
+
++
+44
+
+1483
+
+242200
+(Registrant’s telephone numbers, including area code)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading symbol(s)
+
+Name of each exchange on which registered
+Ordinary shares (€0.001 nominal value per share)
+
+LIN
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 3.03 Material Modification to Rights of Security Holders.
+
+The rights of shareholders of Linde plc are governed by its Memorandum and Articles of Association (the “Constitution”) and the Irish Companies Act 2014. The Constitution was amended at the Annual General Meeting of Shareholders of Linde plc that was held on July 24, 2023 (the “AGM”) to reduce certain supermajority shareholder vote requirements (see “Proposal 4” in Item 5.07 below). A copy of the Constitution as amended and restated is filed as Exhibit 3.1 to this Current Report on Form 8-K and is incorporated by reference into this Item 3.03. A description of the amendments to the Constitution is set forth in Linde plc’s Definitive Proxy Statement filed with the SEC on May 1, 2023, under the section titled “Proposal 4: Amendments to Linde’s Memorandum and Articles of Association to Reduce Certain Supermajority Shareholder Voting Requirements” and is incorporated by reference into this Item 3.03.
+
+ITEM 5.07 Submission of Matters to a Vote of Security Holders
+
+The Linde plc AGM was held on July 24, 2023, at which shareholders voted upon the items set forth below. The total number of shares that were present or represented by proxy at the Annual Meeting was 411,082,505 which was 83.95% of the shares outstanding and entitled to vote and which constituted a quorum. The final voting results of the items submitted to a vote of the shareholders are set forth below.
+
+Proposal 1
+
+The ten nominees for election as a director were elected to serve until the 2024 annual general meeting of shareholders and until his or her successor is elected and qualified. The vote results were as follows:
+
+Director Nominees
+Shares For
+Shares Against
+Shares
+Abstained
+Broker Non-Votes
+% of Votes
+Cast For
+Stephen F. Angel
+379,268,002
+12,302,153
+793,853
+18,718,497
+96.86%
+Sanjiv Lamba
+
+386,564,810
+4,948,190
+851,008
+18,718,497
+98.74%
+Prof DDr. Ann-Kristin Achleitner
+370,461,615
+21,092,452
+809,941
+18,718,497
+94.61%
+Dr. Thomas Enders
+385,655,871
+6,020,848
+687,289
+18,718,497
+98.46%
+Hugh Grant
+379,888,078
+11,781,450
+694,480
+18,718,497
+96.99%
+Joe Kaeser
+
+300,400,717
+84,238,259
+7,725,032
+18,718,497
+78.10%
+Victoria E. Ossadnik
+373,173,756
+18,512,444
+677,808
+18,718,497
+95.27%
+Prof. Dr. Martin H. Richenhagen
+371,753,286
+19,883,901
+726,821
+18,718,497
+94.92%
+Alberto Weisser
+385,777,566
+5,882,787
+703,655
+18,718,497
+98.50%
+Robert L. Wood
+384,279,497
+7,366,642
+717,869
+18,718,497
+98.12%
+
+2
+
+Proposal 2a
+
+Shareholders ratified, on an advisory and non-binding basis, the appointment of PricewaterhouseCoopers (“PWC”) as the independent auditor by the votes set forth below.
+
+Shares Voted For
+
+Shares Voted Against
+
+Shares Abstained
+
+Broker Non-Votes
+390,337,540
+
+20,505,674
+
+239,291
+
+N/A
+(94.95% of votes cast)
+
+(4.98% of votes cast)
+
+Proposal 2b
+
+Shareholders approved the authorization of the Board, acting through the Audit Committee, to determine PWC’s remuneration by the votes set forth below.
+
+Shares Voted For
+
+Shares Voted Against
+
+Shares Abstained
+
+Broker Non-Votes
+403,800,710
+
+6,888,594
+
+393,201
+
+N/A
+(98.23% of votes cast)
+
+(1.68% of votes cast)
+
+Proposal 3
+
+Shareholders approved, on an advisory and non-binding basis, the compensation of Linde plc’s Named Executive Officers as disclosed in the 2023 proxy statement by the votes set forth below.
+
+Shares Voted For
+
+Shares Voted Against
+
+Shares Abstained
+
+Broker Non-Votes
+374,237,043
+
+17,505,109
+
+621,856
+
+18,718,497
+(95.38% of votes cast)
+
+(4.46% of votes cast)
+
+Proposal 4
+
+Shareholders approved the proposal to amend Linde’s Irish Memorandum and Articles of Association to reduce certain supermajority shareholder vote requirements.
+
+Shares Voted For
+
+Shares Voted Against
+
+Shares Abstained
+
+Broker Non-Votes
+390,900,058
+
+1,123,465
+
+340,485
+
+18,718,497
+(99.63% of votes cast)
+
+(0.29% of votes cast)
+
+3
+
+ITEM 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits. The following exhibit is furnished herewith pursuant to Item 3.03 hereof:
+
+Exhibit No.
+
+Description
+
+3.1
+
+Amended and Restated Memorandum and Articles of Association of Linde plc dated July 24, 2023
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+4
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+LINDE PLC
+
+By:
+/s/ Guillermo Bichara
+
+Name:
+Guillermo Bichara
+
+Title:
+Chief Legal Officer
+
+Date: July 28, 2023
+
+5

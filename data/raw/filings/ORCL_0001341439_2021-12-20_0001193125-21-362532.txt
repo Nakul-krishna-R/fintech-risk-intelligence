@@ -1,0 +1,179 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+December 20, 2021
+
+Oracle Corporation
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-35992
+
+54-2185193
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+2300 Oracle Way
+,
+Austin
+,
+Texas
+
+78741
+
+(Address of principal executive offices) (Zip Code)
+
+(737)
+
+867-1000
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☒
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock, par value $0.01 per share
+
+ORCL
+
+New York Stock Exchange
+
+3.125% senior notes due July 2025
+
+ORCL
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Section 8—Other Events
+
+Item 8.01
+
+Other Events
+
+On December 20, 2021, Oracle Corporation, a Delaware corporation (“Oracle”) issued a joint press release with Cerner Corporation, a Delaware corporation (“Cerner”), announcing entry into an Agreement and Plan of Merger (the “Merger Agreement”), dated December 20, 2021, among Oracle, Cerner, OC Acquisition LLC, a Delaware limited liability company and wholly owned subsidiary of Oracle (“Parent”), and Cedar Acquisition Corporation, a Delaware corporation and wholly owned subsidiary of Parent (“Merger Subsidiary”). Pursuant to the Merger Agreement, and upon the terms and conditions thereof: (i) Merger Subsidiary has agreed to commence a cash tender offer to acquire all of the shares of Cerner’s common stock (the “Offer”) for a purchase price of $95.00 per share, net to the holders thereof, in cash, without interest and subject to any required tax withholding; and (ii) after completion of the Offer, Merger Subsidiary will merge with and into Cerner, the separate corporate existence of Merger Subsidiary shall cease and Cerner shall be the successor or surviving corporation of the merger. A copy of the press release is filed as Exhibit 99.1 hereto.
+
+Additional Information about the Acquisition and Where to Find It
+
+In connection with the proposed acquisition, Oracle will commence a tender offer for the outstanding shares of Cerner. The tender offer has not yet commenced. This document is for informational purposes only and is neither an offer to purchase nor a solicitation of an offer to sell shares of Cerner, nor is it a substitute for the tender offer materials that Oracle, Parent and Merger Subsidiary will file with the U.S. Securities and Exchange Commission (the “SEC”) upon commencement of the tender offer. At the time the tender offer is commenced, Oracle, Parent and Merger Subsidiary will file tender offer materials on Schedule TO, and Cerner will file a Solicitation/Recommendation Statement on Schedule
+14D-9
+with the SEC with respect to the tender offer. The tender offer materials (including an Offer to Purchase, a related Letter of Transmittal and certain other tender offer documents) and the Solicitation/Recommendation Statement will contain important information. Holders of shares of Cerner common stock are urged to read these documents carefully when they become available (as each may be amended or supplemented from time to time) because they will contain important information that holders of shares of Cerner common stock should consider before making any decision regarding tendering their shares. The Offer to Purchase, the related Letter of Transmittal and certain other tender offer documents, as well as the Solicitation/Recommendation Statement, will be made available to all holders of shares of Cerner at no expense to them. The tender offer materials and the Solicitation/Recommendation Statement will be made available for free at the SEC’s web site at www.sec.gov. Oracle and Cerner also file annual, quarterly and special reports and other information with the SEC, which are available at the SEC’s website at www.sec.gov.
+
+Section 9—Financial Statements and Exhibits
+
+Item 9.01
+
+Financial Statements and Exhibits
+
+(d) Exhibits
+
+Exhibit
+No.
+
+Description
+
+99.1
+
+Joint press release, dated December 20, 2021, of Oracle Corporation and Cerner Corporation
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ORACLE CORPORATION
+
+Dated: December 20, 2021
+
+By:
+
+/s/ Brian S. Higgins
+
+Name:
+
+Brian S. Higgins
+
+Title:
+
+Senior Vice President, Associate General Counsel and Secretary

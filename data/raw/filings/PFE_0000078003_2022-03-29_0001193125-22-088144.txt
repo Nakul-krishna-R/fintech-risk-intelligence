@@ -1,0 +1,169 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of report (Date of earliest event reported):
+March 24, 2022
+
+PFIZER INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+1-3619
+
+13-5315170
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(I.R.S. Employer
+Identification No.)
+
+235 East 42nd Street
+
+New York
+,
+New York
+
+10017
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+
+(212)
+
+733-2323
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+
+☐
+
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock, $.05 par value
+
+PFE
+
+New York Stock Exchange
+
+1.000% Notes due 2027
+
+PFE27
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01.
+
+Other Events
+
+As previously disclosed, on July 31, 2019, Pfizer Inc. (“Pfizer”) completed the transaction contemplated by that certain stock and asset purchase agreement, dated as of December 19, 2018, by and among Pfizer, GlaxoSmithKline plc (“GSK”) and certain other parties thereto (as amended, the “Purchase Agreement”), pursuant to which Pfizer and GSK agreed to combine their respective consumer healthcare businesses into GlaxoSmithKline Consumer Healthcare Holdings (No. 2) Limited (“CH JVCo”), a new consumer healthcare joint venture 32% owned by Pfizer and 68% owned by GSK.
+
+In connection with GSK’s previously announced planned demerger of at least 80% of GSK’s equity interest in CH JVCo (the “Demerger”):
+
+•
+
+on March 24, 2022, (i) GSK Consumer Healthcare Capital US LLC, a limited liability company incorporated under the laws of Delaware and a wholly owned subsidiary of CH JVCo, completed its offering of $700,000,000 aggregate principal amount of its 3.024% Callable Fixed Rate Senior Notes due 2024 (the “Callable Fixed Rate Notes”), $300,000,000 aggregate principal amount of its Callable Floating Rate Senior Notes due 2024 (the “Callable Floating Rate Notes”), $2,000,000,000 aggregate principal amount of its 3.375% Fixed Rate Senior Notes due 2027 (the “2027 Fixed Rate Notes”), $1,000,000,000 aggregate principal amount of its 3.375% Fixed Rate Senior Notes due 2029 (the “2029 Fixed Rate Notes”), $2,000,000,000 aggregate principal amount of its 3.625% Fixed Rate Senior Notes due 2032 (the “2032 Fixed Rate Notes”) and $1,000,000,000 aggregate principal amount of its 4.000% Fixed Rate Senior Notes due 2052 (the “2052 Fixed Rate Notes”) and (ii) GSK Consumer Healthcare Capital UK plc, a public limited company incorporated under the laws of England and Wales and a wholly owned subsidiary of CH JVCo (the “UK Issuer”), completed its offering of $1,750,000,000 aggregate principal amount of its 3.125% Fixed Rate Senior Notes due 2025 (the “2025 Fixed Rate Notes” and, together with the Callable Fixed Rate Notes, the Callable Floating Rate Notes, the 2027 Fixed Rate Notes, the 2029 Fixed Rate Notes, the 2032 Fixed Rate Notes and the 2052 Fixed Rate Notes, the “144A Notes”); and
+
+•
+
+on March 29, 2022, (i) the UK Issuer completed its offering of £300,000,000 aggregate principal amount of its 2.875% Fixed Rate Senior Notes due 2028 (the “2028 Fixed Rate Notes”) and £400,000,000 aggregate principal amount of its 3.375% Fixed Rate Senior Notes due 2038 (the “2038 Fixed Rate Notes”) and (ii) GSK Consumer Healthcare Capital NL B.V., a company with limited liability (
+besloten vennootschap met beperkte aansprakelijkheid
+) under the laws of the Netherlands and a wholly owned subsidiary of CH JVCo, completed its offering of €850,000,000 aggregate principal amount of its 1.250% Fixed Rate Notes due 2026 (the “2026 Fixed Rate Notes”), €750,000,000 aggregate principal amount of its 1.750% Fixed Rate Senior Notes due 2030 (the “2030 Fixed Rate Notes”) and €750,000,000 aggregate principal amount of its 2.125% Fixed Rate Senior Notes due 2034 (the “2034 Fixed Rate Notes” and, together with the 2028 Fixed Rate Notes, the 2038 Fixed Rate Notes, the 2026 Fixed Rate Notes and the 2030 Fixed Rate Notes, the “EMTN Notes” and, together with the 144A Notes, the “Notes”).
+
+The proceeds of the Notes offerings are ultimately expected to be made available to CH JVCo in order to fund a portion of a cash dividend to be paid to certain subsidiaries of GSK and Pfizer, respectively, in accordance with their respective ownership interests in CH JVCo prior to the Demerger. If the Demerger is not completed by the first anniversary of the issue date of the Notes or, if earlier, GSK announces that it no longer intends to pursue the Demerger, the Notes will be redeemed at a redemption price equal to 101% of the principal amounts of the Notes.
+
+The Notes are guaranteed by GSK (the “GSK Guarantee”) up to and excluding the date on which GSK ceases to hold a direct or indirect interest in the share capital of CH JVCo, other than as a result of any interest it may have in the share capital of Haleon plc, the public holding company of CH JVCo following the Demerger, in order to implement the Demerger (the “Guarantee Assumption Date”).
+
+In connection with the GSK Guarantee, Pfizer has agreed to indemnify GSK for 32% (representing Pfizer’s pro rata equity interest in CH JVCo) of any amount payable by GSK pursuant to the GSK Guarantee in the event any such payment were required under the GSK Guarantee (the “Pfizer Indemnity”). The Pfizer Indemnity is provided solely for the benefit of GSK, will terminate automatically as of the Guarantee Assumption Date and is subject to the terms of an indemnity letter between GSK and Pfizer. Neither Pfizer nor any of its subsidiaries is an issuer or guarantor of any of the Notes.
+
+SIGNATURE
+
+Under the requirements of the Securities Exchange Act of 1934, the registrant has caused this report to be signed on its behalf by the authorized undersigned.
+
+PFIZER INC.
+
+Dated: March 29, 2022
+
+By:
+
+/s/ Margaret M. Madden
+
+Name:
+
+Margaret M. Madden
+
+Title:
+
+Senior Vice President and Corporate Secretary
+Chief Governance Counsel

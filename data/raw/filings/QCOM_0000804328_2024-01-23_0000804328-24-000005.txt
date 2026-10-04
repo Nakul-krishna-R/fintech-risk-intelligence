@@ -1,0 +1,75 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of
+The Securities Exchange Act of 1934
+January 22, 2024
+
+Date of Report (Date of earliest event reported)
+QUALCOMM Incorporated
+(Exact name of registrant as specified in its charter)
+Delaware
+
+(State or other jurisdiction of incorporation)
+000-19528
+95-3685934
+(Commission File Number)
+(IRS Employer Identification No.)
+5775 Morehouse Drive
+,
+San Diego
+,
+California
+92121
+(Address of principal executive offices)
+(Zip Code)
+858
+-
+587-1121
+
+(Registrant’s telephone number, including area code)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.0001 par value
+
+QCOM
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(c) On January 22, 2024, the Board of Directors (the “Board”) of QUALCOMM Incorporated (the “Company”), appointed Akash Palkhiwala, the Company’s Chief Financial Officer, to also serve as the Company’s Chief Operating Officer, effective immediately. In this expanded role, Mr. Palkhiwala will now also be responsible for the global go-to-market organization and operations. Mr. Palkhiwala will continue to serve as the Company’s Chief Financial Officer, a position he has held since November 2019. Information regarding Mr. Palkhiwala, including his business experience, is set forth in the “Information about our Executive Officers” section of the Company’s most recent Annual Report on Form 10-K filed with the Securities and Exchange Commission on November 1, 2023. There are no arrangements or understandings between Mr. Palkhiwala and any other person pursuant to which he was appointed Chief Operating Officer. There are no family relationships between Mr. Palkhiwala and any director or any other executive officer of the Company, and he has no direct or indirect material interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation S-K.
+In connection with Mr. Palkhiwala’s appointment as Chief Operating Officer, on January 22, 2024, the HR and Compensation Committee of the Board approved the following additional compensation for him, effective immediately: (i) Mr. Palkhiwala received an increase in base salary of $150,000 per year, and (ii) Mr. Palkhiwala received grants of performance stock units and restricted stock units having an aggregate grant date fair value of $3,000,000, with the weighting and vesting of those awards consistent with our standard practices. Mr. Palkhiwala will also continue to be eligible to participate in standard Company benefit programs available to similarly situated officers (including, but not limited to, health care coverage, and the employee stock purchase plan, 401(k) plan, non-qualified deferred compensation plan and charitable contribution matching program), subject to standard limitations.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+QUALCOMM Incorporated
+Date:
+January 22, 2024
+By:
+/s/ Ann Chaplin
+
+Ann Chaplin
+
+General Counsel and Corporate Secretary

@@ -1,0 +1,286 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (date of earliest event reported):
+April 27, 2021
+
+WELLS FARGO & COMPANY
+(Exact name of registrant as specified in its charter)
+Delaware
+
+001-02979
+
+No.
+41-0449260
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission File
+Number)
+
+(IRS Employer
+Identification No.)
+
+420 Montgomery Street
+,
+San Francisco
+,
+California
+
+94104
+
+(Address of principal executive offices) (Zip Code)
+Registrant's telephone number, including area code:
+1-
+866
+-
+249-3302
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol
+Name of
+Each Exchange on
+Which Registered
+Common Stock, par value $1-2/3
+WFC
+NYSE
+7.5% Non-Cumulative Perpetual Convertible Class A Preferred Stock, Series L
+WFC.PRL
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series N
+WFC.PRN
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series O
+WFC.PRO
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of 5.85% Fixed-to-Floating Rate Non-Cumulative Perpetual Class A Preferred Stock, Series Q
+WFC.PRQ
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of 6.625% Fixed-to-Floating Rate Non-Cumulative Perpetual Class A Preferred Stock, Series R
+WFC.PRR
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series X
+WFC.PRX
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Y
+WFC.PRY
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Z
+WFC.PRZ
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series AA
+WFC.PRA
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series CC
+WFC.PRC
+NYSE
+Guarantee of Medium-Term Notes, Series A, due October 30, 2028 of Wells Fargo Finance LLC
+WFC/28A
+NYSE
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act (17 CFR 230.405) or Rule 12b-2 of the Exchange Act (17 CFR 240.12b‑2).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+o
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+Wells Fargo & Company (the “Company”) held its annual meeting of shareholders on April 27, 2021. At the meeting, shareholders elected all 12 of the directors nominated by the Board of Directors as each director received a greater number of votes cast “for” his or her election than votes cast “against” his or her election as reflected below. In addition, shareholders approved, on an advisory basis, the compensation of the Company’s named executives as disclosed in the Company’s 2021 proxy statement; and ratified the appointment of KPMG LLP as the Company’s independent registered public accounting firm for 2021. The shareholders did not approve the four shareholder proposals presented at the meeting. The final voting results for each item presented at the meeting are set forth below.
+Election of Director Nominees
+DIRECTOR
+FOR
+%
+1
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+Steven D. Black
+2,897,269,536
+98.32%
+49,633,103
+15,919,530
+457,016,257
+Mark A. Chancy
+2,898,994,231
+98.37%
+47,906,184
+15,921,754
+457,016,257
+Celeste A. Clark
+2,895,618,857
+98.20%
+52,962,887
+14,240,426
+457,016,257
+Theodore F. Craver, Jr.
+2,894,514,795
+98.22%
+52,342,397
+15,964,978
+457,016,257
+Wayne M. Hewett
+2,840,377,093
+96.38%
+106,680,488
+15,764,588
+457,016,257
+Maria R. Morris
+2,843,598,666
+96.44%
+105,038,092
+14,185,410
+457,016,257
+Charles H. Noski
+2,785,741,118
+94.62%
+158,323,336
+18,753,920
+457,020,052
+Richard B. Payne, Jr.
+2,893,934,376
+98.20%
+52,908,598
+15,979,196
+457,016,257
+Juan A. Pujadas
+2,890,811,859
+98.05%
+57,363,120
+14,647,190
+457,016,257
+Ronald L. Sargent
+2,790,486,978
+94.69%
+156,488,952
+15,846,239
+457,016,257
+Charles W. Scharf
+2,893,808,885
+98.14%
+54,819,458
+14,193,827
+457,016,257
+Suzanne M. Vautrinot
+2,858,349,525
+96.94%
+90,206,132
+14,266,513
+457,016,257
+____________________________________________
+1
+Votes cast for the director nominee as a percentage of total votes cast for and against.
+2
+Advisory Resolution to Approve Executive Compensation
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+1,696,858,848
+57.27%
+1,240,390,969
+25,571,752
+457,016,857
+Ratify the Appointment of KPMG LLP as the Company’s Independent Registered Public Accounting Firm for 2021
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+3,217,313,361
+94.08%
+188,351,847
+14,173,218
+0
+Shareholder Proposal – Requesting that the Board Make Shareholder Proxy Access More Accessible
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+929,373,599
+31.37%
+2,009,614,122
+23,833,549
+457,017,157
+Shareholder Proposal – Requesting the Board Amend the Company’s Certificate of Incorporation to become a Delaware Public Benefit Corporation
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+88,958,199
+3.00%
+2,836,760,647
+37,003,324
+457,116,257
+Shareholder Proposal – Report on Incentive-Based Compensation and Risks of Material Losses
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+750,994,597
+25.35%
+2,178,802,688
+33,020,989
+457,020,152
+Shareholder Proposal – Requesting the Company Conduct a Racial Equity Audit
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+381,910,091
+12.89%
+2,533,096,056
+47,816,022
+457,016,257
+____________________________________________
+2
+Votes cast for the proposal as a percentage of total votes cast for and against and abstentions.
+3
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated:
+April 30, 2021
+WELLS FARGO & COMPANY
+By:
+/s/ ANTHONY R. AUGLIERA
+Anthony R. Augliera
+Executive Vice President, Deputy General Counsel and Secretary
+
+4

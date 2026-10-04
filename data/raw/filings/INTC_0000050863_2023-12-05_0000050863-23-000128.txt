@@ -1,0 +1,117 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+November 29, 2023
+
+INTEL CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+000-06217
+94-1672743
+(State or other jurisdiction
+(Commission
+(IRS Employer
+of incorporation)
+File Number)
+Identification No.)
+
+2200 Mission College Boulevard
+,
+Santa Clara
+,
+California
+95054-1549
+(Address of principal executive offices)
+(Zip Code)
+Registrant's telephone number, including area code:
+(408)
+
+765-8080
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, $0.001 par value
+INTC
+Nasdaq Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+Item 5.03
+
+Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+On November 29, 2023, the Board of Directors (the “Board”) of Intel Corporation (“Intel”) approved amendments to Intel’s Bylaws (as amended, the “Bylaws”), effective immediately. The amendments to the Bylaws include, without limitation:
+•
+amendments to Article II of the Bylaws to:
+◦
+update certain provisions relating to adjournment procedures and lists of stockholders entitled to vote at meetings of stockholders, in each case, to conform to recent amendments to the Delaware General Corporation Law;
+◦
+clarify the procedural requirements for stockholders to call a special meeting of stockholders, including through a written notice provided on behalf of a beneficial owner;
+◦
+specify the time period during which notices of nominations or proposals of other business for a special meeting of stockholders are to be delivered;
+◦
+revise the procedures to be followed and information to be provided by stockholders giving notice of director nominations or of certain other business proposed to be introduced at annual or special meetings of stockholders, including addressing information to be provided in connection with solicitations subject to Rule 14a-19 promulgated under the Securities Exchange Act of 1934, as amended (i.e., “universal proxy card” rules) and by or with respect to the stockholder, any beneficial owner on whose behalf the notice is provided, and any nominees;
+◦
+state that the number of nominees that a stockholder may nominate may not exceed the number of directors to be elected and clarify the timing for providing notice of additional or substitute nominations;
+◦
+address the remedy if a stockholder or beneficial owner fails to satisfy the Bylaws; and
+◦
+reserve the white proxy card for the corporation’s exclusive use;
+•
+amendments to Article III of the Bylaws to remove term limits for certain board leadership positions;
+•
+amendments to Article XIII of the Bylaws to specify the federal district courts of the United States as the sole and exclusive forum for any claims arising under the Securities Act of 1933, as amended; and
+•
+amendments to delete outdated references, utilize gender-neutral terms and make technical and conforming revisions and clarifications.
+The foregoing summary of the amendments to the Bylaws
+does not purport to be complete and
+is qualified in its entirety by reference to the full text of the Bylaws, a copy of which is filed as Exhibit 3.2 hereto. A version of the Bylaws that is marked to show changes effected by the amendments is filed as Exhibit 3.3 hereto.
+Item 9.01
+
+Financial Statements and Exhibits.
+(d)
+
+Exhibits.
+The following exhibits are provided as part of this Report:
+Exhibit Number
+Description
+3.2
+Intel Corporation Bylaws, as amended and restated on November 29, 2023
+3.3
+Intel Corporation Bylaws, as amended and restated on November 29, 2023 (marked to show changes from prior version)
+104
+Cover Page Interactive Data File, formatted in Inline XBRL and included as Exhibit 101.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+INTEL CORPORATION
+(Registrant)
+Date:
+December 5, 2023
+By:
+/s/ APRIL MILLER BOISE
+April Miller Boise
+Executive Vice President and Chief Legal Officer

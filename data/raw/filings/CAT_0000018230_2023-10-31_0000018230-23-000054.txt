@@ -1,0 +1,82 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+Current Report
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+October 31, 2023
+CATERPILLAR INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+1-768
+37-0602744
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(I.R.S Employer Identification No.)
+5205 N. O'Connor Blvd.,
+Suite 100,
+Irving,
+Texas
+75039
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code:
+(972)
+891-7700
+Former name or former address, if changed since last report:
+N/A
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol (s)
+Name of each exchange which registered
+Common Stock ($1.00 par value)
+CAT
+The New York Stock Exchange
+5.3% Debentures due September 15, 2035
+CAT35
+The New York Stock Exchange
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+Indicate by check mark whether the registrant is an emerging growth company as defined by Rule 405 of the Securities Act of
+1933 (17 CFR §230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 2.02. Results of Operations and Financial Condition.
+On October 31, 2023, Caterpillar Inc. issued a press release reporting its financial results for the quarter ended September 30, 2023. A copy of the press release is attached hereto as Exhibit 99.1 and incorporated into this Item 2.02 by reference.
+Item 7.01. Regulation FD Disclosure
+.
+Caterpillar Inc. is furnishing supplemental information concerning (i) retail sales of machines to end users and (ii) retail sales of power systems (including reciprocating and turbine engines and locomotives) to end users and Original Equipment Manufacturers ("OEMs"). This supplemental information is attached hereto as Exhibit 99.2 and incorporated into this Item 7.01 by reference.
+The information in this Current Report on Form 8-K, including Exhibit 99.1, is being furnished in accordance with the provisions of General Instruction B.2 of Form 8-K.
+Item 9.01. Financial Statements and Exhibits.
+(d)
+Exhibits:
+The following is furnished as an exhibit to this report:
+99.1
+Caterpillar Inc. press release dated October 31, 2023
+99.2
+Retail Statistics
+104
+The cover page from this Current Report on Form 8-K, formatted in Inline XBRL.
+
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+CATERPILLAR INC.
+October 31, 2023
+By:
+/s/ Derek Owens
+Derek Owens
+Senior Vice President and General Counsel

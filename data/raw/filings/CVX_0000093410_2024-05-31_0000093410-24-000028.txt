@@ -1,0 +1,224 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+May 29, 2024
+Chevron Corporation
+(Exact name of registrant as specified in its charter)
+Delaware
+001-00368
+94-0890210
+(State or other jurisdiction
+of incorporation )
+(Commission File Number)
+(I.R.S. Employer
+Identification No.)
+5001 Executive Parkway, Suite 200
+San Ramon,
+CA
+94583
+(Address of Principal Executive Offices)
+(Zip Code)
+Registrant’s telephone number, including area code:
+
+(
+925
+)
+842-1000
+
+N/A
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligations of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Common stock, par value $.75 per share
+CVX
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (
+§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter
+).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.07
+Submission of Matters to a Vote of Security Holders.
+(a)
+The 2024 Annual Meeting of Stockholders of Chevron Corporation ("Chevron") was held on Wednesday, May 29, 2024.
+(b)
+Chevron stockholders voted on the matters set forth below, with final voting results indicated. For the election of Directors in an uncontested election, each nominee who received a majority of votes cast (i.e., the number of shares voted for exceeded the number of shares voted against, excluding abstentions) was elected a Director. All other items were approved if the number of shares voted for exceeded the number of shares voted against, excluding abstentions.
+(1)
+All nominees for election to the Chevron Board of Directors (“Board”) were elected, each for a one-year term, based upon the following votes:
+Nominee
+Votes For
+Votes Against
+Abstentions
+Broker Non-Votes
+Wanda M. Austin
+1,271,396,000
+97.4%
+33,383,106
+3,021,035
+263,412,409
+John B. Frank
+1,267,543,431
+97.2%
+37,116,950
+3,139,760
+263,412,409
+Alice P. Gast
+1,268,675,085
+97.2%
+36,142,274
+2,982,782
+263,412,409
+Enrique Hernandez, Jr.
+1,222,141,563
+93.7%
+82,382,081
+3,276,497
+263,412,409
+Marillyn A. Hewson
+1,281,732,946
+98.2%
+23,150,406
+2,916,789
+263,412,409
+Jon M. Huntsman Jr.
+1,268,569,520
+97.2%
+36,085,980
+3,144,641
+263,412,409
+Charles W. Moorman
+1,253,299,287
+96.1%
+51,284,521
+3,216,333
+263,412,409
+Dambisa F. Moyo
+1,281,933,651
+98.3%
+22,619,118
+3,247,372
+263,412,409
+Debra Reed-Klages
+1,278,475,369
+98.0%
+25,995,043
+3,329,729
+263,412,409
+D. James Umpleby III
+1,276,734,817
+97.9%
+27,473,485
+3,591,839
+263,412,409
+Cynthia J. Warner
+1,284,486,337
+98.4%
+20,321,652
+2,992,152
+263,412,409
+Michael K. Wirth
+1,241,381,900
+95.3%
+61,436,091
+4,982,150
+263,412,409
+(2)
+The Board’s proposal to ratify the appointment of PricewaterhouseCoopers LLP as Chevron’s independent registered public accounting firm for 2024 was approved based upon the following votes:
+Votes For
+1,516,907,390
+96.7%
+Votes Against
+51,109,923
+3.3%
+Abstentions
+3,195,237
+Broker Non-Votes
+Brokers were permitted to cast stockholder non-votes (i.e., uninstructed shares) at their discretion on this proposal item, and such non-votes are reflected in the votes for or against or abstentions.
+(3)
+The Board’s proposal for stockholders to approve, on an advisory basis, the compensation of Chevron’s named executive officers was approved based upon the following votes:
+Votes For
+1,246,718,336
+95.8%
+Votes Against
+54,030,151
+4.2%
+Abstentions
+7,051,654
+Broker Non-Votes
+263,412,409
+(4)
+The stockholder proposal to report on voluntary carbon reduction risks was not approved based upon the following votes:
+Votes For
+19,799,653
+1.5%
+Votes Against
+1,272,375,728
+98.5%
+Abstentions
+15,624,760
+Broker Non-Votes
+263,412,409
+(5)
+The stockholder proposal to report on plastic demand scenario was not approved based upon the following votes:
+Votes For
+97,491,565
+7.6%
+Votes Against
+1,194,561,648
+92.4%
+Abstentions
+15,746,928
+Broker Non-Votes
+263,412,409
+(6)
+The stockholder proposal to commission a third-party report on human rights practices was not approved based upon the following votes:
+Votes For
+286,557,289
+22.2%
+Votes Against
+1,005,257,027
+77.8%
+Abstentions
+15,985,825
+Broker Non-Votes
+263,412,409
+(7)
+The stockholder proposal to report on tax practices was not approved based upon the following votes:
+Votes For
+193,282,634
+14.9%
+Votes Against
+1,105,372,064
+85.1%
+Abstentions
+9,145,443
+Broker Non-Votes
+263,412,409
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated: May 31, 2024
+CHEVRON CORPORATION
+By:
+/s/ Rose Z. Pierson
+Rose Z. Pierson
+Assistant Secretary

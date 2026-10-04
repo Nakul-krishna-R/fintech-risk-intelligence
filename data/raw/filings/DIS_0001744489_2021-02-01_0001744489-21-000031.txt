@@ -1,0 +1,96 @@
+________________________________________________________________________
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+February 1, 2021
+The Walt Disney Company
+(Exact name of registrant as specified in its charter)
+Delaware
+001-38842
+83-0940635
+(State or other jurisdiction
+(Commission File Number)
+(IRS Employer
+of incorporation)
+Identification No.)
+
+500 South Buena Vista Street
+
+Burbank
+,
+California
+
+91521
+
+(Address of Principal Executive Offices and Zip Code)
+(
+818
+)
+560-1000
+
+(Registrant’s telephone number, including area code)
+Not applicable
+
+(Former name or address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.01 par value
+DIS
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+________________________________________________________________________
+Item 7.01 Regulation FD disclosure
+This document provides summary recast segment financial information for fiscal year 2020 to reflect the following:
+Media and Entertainment Reorganization
+In October 2020, the Company reorganized its media and entertainment operations, which have been previously reported in three segments: Media Networks, Studio Entertainment and Direct-to-Consumer & International. Under this reorganization, a single group is responsible for distributing all of the Company’s media and entertainment content across all platforms globally. This distribution organization will have full accountability for the financial results of the media and entertainment businesses, and content will be created by three production groups: Studios, General Entertainment and Sports.
+As a result of the reorganization, effective at the beginning of the first quarter of fiscal 2021, the financial results of the media and entertainment businesses will be reported as one segment, Disney Media and Entertainment Distribution (DMED). We will report operating results for the DMED segment across three significant lines of business/distribution platforms: Direct-to-Consumer (DTC), Linear Networks and Content Sales/Licensing (primarily comprising theatrical, home entertainment and third-party television and subscription video-on-demand “TV/SVOD” distribution globally).
+Intersegment Transfer Pricing
+
+Under our previous segment structure, in certain instances production and distribution activities were in different segments. In these situations, for segment financial accounting purposes, the producer segment would recognize revenue based on an intersegment transfer price that included a “mark-up”. These transactions were reported “gross” (i.e. the segment producing the content reported revenue and the mark-up from intersegment transactions, and the required eliminations were reported on a separate “Eliminations” line when presenting a summary of our segment results). Under our new segment structure, the operating results of the production and distribution activities are reported in the same segment, and the fully loaded production cost will be allocated across the distribution platforms which are utilizing the content.
+Elimination of Consumer Products Revenue Share
+Under our legacy segment financial reporting, the Studio Entertainment segment received a revenue share related to the consumer products business, which is included in the Disney Parks, Experiences and Products (DPEP) segment. Under the new reporting structure, DMED will not receive a revenue share from DPEP related to the consumer products business.
+The information contained in this Item 7.01, including Exhibit 99.1 incorporated herein by reference, is furnished and shall not be deemed to be filed for purposes of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, nor shall such information be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, except as shall be expressly set forth by specific reference in such filing.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+Exhibit
+Number
+Description
+99.1
+Information regarding fiscal 2020 segment operating results under the new segment reporting structure
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+The Walt Disney Company
+By:
+
+/s/ Brent A. Woodford
+
+Brent A. Woodford
+
+Executive Vice President
+Controllership, Financial Planning and Tax
+Dated: February 1, 2021

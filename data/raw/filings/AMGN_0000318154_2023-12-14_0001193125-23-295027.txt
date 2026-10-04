@@ -1,0 +1,154 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, DC 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported)
+December 12, 2023
+
+AMGEN INC.
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-37702
+
+95-3540776
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+One Amgen Center Drive
+Thousand Oaks
+,
+California
+
+91320-1799
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+805
+-
+447-1000
+(Registrant’s telephone number, including area code)
+Not Applicable
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities Registered under Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common stock, $0.0001 par value
+
+AMGN
+
+The NASDAQ Stock Market LLC
+
+2.000% Senior Notes Due 2026
+
+AMGN26
+
+The NASDAQ Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§ 240.12b-2
+of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02.
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+David M. Reese, M.D., will transition from Executive Vice President, Research and Development to Executive Vice President and Chief Technology Officer, a newly created executive officer position, responsible for accelerating the use of technology and artificial intelligence (AI) across all facets of Amgen Inc. (“Amgen” or the “Company”).
+James Bradner, M.D., has been hired as the Company’s Executive Vice President, Research and Development, and Chief Scientific Officer, an executive officer position. Dr. Bradner previously served as President of the Novartis Institutes for BioMedical Research, where he was a member of the Executive Committee of Novartis.
+These appointments are effective as of December 18, 2023 and both Dr. Reese and Dr. Bradner will report to Robert A. Bradway, Chairman and Chief Executive Officer of Amgen.
+On December 14, 2023, Amgen issued a press release announcing these appointments. A copy of the press release is furnished as Exhibit 99.1 hereto. The information contained in the press release shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, nor will such information be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as may be expressly set forth by specific reference in such filing.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+(d) Exhibits.
+
+Exhibits
+
+Description
+
+99.1
+
+Press Release dated December 14, 2023
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+AMGEN INC.
+
+Date: December 14, 2023
+
+By:
+
+/s/ Jonathan P. Graham
+
+Name:
+
+Jonathan P. Graham
+
+Title:
+
+Executive Vice President and General Counsel and Secretary

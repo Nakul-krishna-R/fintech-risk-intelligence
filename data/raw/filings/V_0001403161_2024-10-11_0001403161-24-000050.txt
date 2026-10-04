@@ -1,0 +1,94 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+October 11, 2024
+
+VISA INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+Delaware
+
+001-33977
+
+26-0267673
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+Identification No.)
+
+P.O. Box 8999
+
+San Francisco,
+California
+
+94128-8999
+(Address of Principal Executive Offices)
+(Zip Code)
+Registrant’s Telephone Number, Including Area Code: (
+650
+)
+432-3200
+
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Class A Common Stock, par value $0.0001 per share
+V
+New York Stock Exchange
+1.500% Senior Notes due 2026
+V26
+New York Stock Exchange
+2.000% Senior Notes due 2029
+V29
+New York Stock Exchange
+2.375% Senior Notes due 2034
+V34
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 8.01
+
+Other Events.
+On October 11, 2024, Visa Inc. (the “Company”) announced new conversion rates applicable to the Company’s class B-1 and B-2 common stock resulting from its September 26, 2024 deposit of $1.5 billion into the U.S. litigation escrow account previously established under the Company’s U.S. retrospective responsibility plan (the “Plan”). Under the terms of the Plan, the conversion rate applicable to the Company’s class B-1 common stock decreased from 1.5875 to 1.5653 and the conversion rate applicable to the Company's class B-2 common stock decreased from 1.5875 to 1.5430, in each case effective as of September 26, 2024.
+The conversion rate adjustments have the same effect on earnings per share as repurchasing the Company’s class A common stock. Therefore, the as-converted class B-1 common stock share count was reduced by approximately 107,575 from 7,676,253 to 7,568,678 and the as-converted class B-2 common stock share count was reduced by approximately 5,354,510 from 191,040,105 to 185,685,595. The deposit and conversion rate adjustment calculations were conducted in accordance with the Company’s certificate of incorporation currently in effect using the volume-weighted average price over the 13-day pricing period from September 24, 2024 through October 10, 2024.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VISA INC.
+
+Date:
+October 11, 2024
+
+By:
+
+/s/ Chris Suh
+
+Chris Suh
+Chief Financial Officer

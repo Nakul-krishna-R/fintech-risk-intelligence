@@ -1,0 +1,91 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+May 14, 2024
+Accenture plc
+
+(Exact name of Registrant as specified in its charter)
+Ireland
+001-34448
+98-0627530
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+1 Grand Canal Square
+
+Grand Canal Harbour
+
+Dublin
+
+2
+,
+Ireland
+
+(Address of principal executive offices)
+Registrant’s telephone number, including area code: (
+353
+) (
+1
+)
+646-2000
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A ordinary shares, par value $0.0000225 per share
+ACN
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 1.01 Entry into a Material Definitive Agreement
+On May 14, 2024, Accenture plc (“Accenture”), as guarantor, and certain of Accenture’s subsidiaries, as borrowers (the “Borrowers”), entered into a credit agreement (the “Credit Agreement”) with JPMorgan Chase Bank, N.A., as administrative agent (the “Agent”), and the lenders named therein (the “Lenders”). The Credit Agreement provides for a $5.5 billion senior unsecured revolving credit facility with a term of five years from the date of the Credit Agreement, and replaces Accenture’s prior $3.0 billion senior unsecured revolving credit facility, which was scheduled to mature on April 24, 2026.
+Borrowings under the Credit Agreement are available in U.S. dollars and other currencies as specified therein. U.S. dollar borrowings will bear interest at a rate based on the secured overnight financing rate (SOFR) or a base rate, at the Borrowers’ election. Borrowings in other currencies will bear interest at a rate based on the interest benchmark for such currency specified in the Credit Agreement. In each case the interest rate will include an applicable margin determined based on Accenture’s credit ratings from time to time. The Credit Agreement also requires the Borrowers to pay certain customary fees.
+The credit facility provided under the Credit Agreement is available to be used for general corporate purposes, including to backstop issuances under Accenture’s commercial paper program. In connection with the execution of the Credit Agreement, the maximum amount of commercial paper that may be issued under Accenture’s commercial paper program will be correspondingly increased to $5.5 billion.
+The Credit Agreement contains customary representations and warranties and affirmative and negative covenants, including a requirement to maintain a maximum consolidated leverage ratio, and customary events of default.
+The Agent and the Lenders and their respective affiliates have in the past performed, and may in the future perform, investment banking, financial advisory, lending, commercial banking, and/or other services for Accenture and its subsidiaries and to persons and entities with relationships with Accenture and its subsidiaries, for which they have received, and may in the future receive, customary fees and expenses.
+The description of the Credit Agreement contained herein is qualified in its entirety by reference to the Credit Agreement, a copy of which is filed herewith as Exhibit 10.1 and is incorporated herein by reference.
+Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+The information provided in Item 1.01 of this Current Report on Form 8-K is incorporated by reference into this Item 2.03.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+Exhibit No.
+Description
+10.1
+Credit Agreement, dated as of May 14, 2024, among Accenture plc, the borrowers party thereto, the lenders party thereto, and JPMorgan Chase Bank, N.A., as administrative agent.
+
+104
+The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+Date: May 17, 2024
+ACCENTURE PLC
+By:
+/s/ Joel Unruch
+Name:
+Joel Unruch
+Title:
+General Counsel & Corporate Secretary

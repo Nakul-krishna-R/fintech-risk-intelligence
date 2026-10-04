@@ -1,0 +1,183 @@
+________________________________________________________________________
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+March 9, 2021
+The Walt Disney Company
+(Exact name of registrant as specified in its charter)
+Delaware
+001-38842
+83-0940635
+(State or other jurisdiction
+(Commission File Number)
+(IRS Employer
+of incorporation)
+Identification No.)
+
+500 South Buena Vista Street
+
+Burbank
+,
+California
+
+91521
+
+(Address of Principal Executive Offices and Zip Code)
+(
+818
+)
+560-1000
+
+(Registrant’s telephone number, including area code)
+Not applicable
+
+(Former name or address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.01 par value
+DIS
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+________________________________________________________________________
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+
+(a-b) The final results of voting on each of the matters submitted to a vote of security holders during the Registrant’s annual meeting of shareholders on March 9, 2021 are as follows.
+1.
+Election of Directors:
+For
+Against
+Abstentions
+Broker
+Non-Votes
+Susan E. Arnold
+1,181,708,233
+34,003,143
+3,260,507
+248,850,811
+Mary T. Barra
+1,166,699,177
+48,999,798
+3,272,908
+248,850,811
+Safra A. Catz
+1,197,915,367
+14,459,299
+6,597,217
+248,850,811
+Robert A. Chapek
+1,205,177,259
+10,127,016
+3,667,608
+248,850,811
+Francis A. deSouza
+1,207,118,788
+7,981,646
+3,871,449
+248,850,811
+Michael B.G. Froman
+1,207,081,502
+8,182,760
+3,707,621
+248,850,811
+Robert A. Iger
+1,182,510,332
+32,933,068
+3,528,483
+248,850,811
+Maria Elena Lagomasino
+1,122,346,404
+93,131,949
+3,493,530
+248,850,811
+Mark G. Parker
+1,169,375,035
+45,755,148
+3,841,700
+248,850,811
+Derica W. Rice
+1,206,526,806
+8,721,922
+3,723,155
+248,850,811
+For
+Against
+Abstentions
+2.
+Ratification of PricewaterhouseCoopers LLP as registered public accountants
+1,411,564,384
+52,554,829
+3,703,481
+For
+Against
+Abstentions
+Broker
+Non-Votes
+3.
+Approval of the advisory vote on executive compensation
+825,451,793
+380,387,797
+13,132,293
+248,850,811
+For
+Against
+Abstentions
+Broker
+Non-Votes
+4.
+Shareholder proposal requesting an annual report disclosing information regarding the Company’s lobbying policies and activities
+398,834,790
+808,562,314
+11,574,779
+248,850,811
+For
+Against
+Abstentions
+Broker
+Non-Votes
+5.
+Shareholder proposal requesting the inclusion of non-management employees on Director nominee candidate lists
+74,729,162
+1,128,691,454
+15,551,267
+248,850,811
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+Exhibit
+Number
+Description
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+The Walt Disney Company
+By:
+
+/s/ Jolene E. Negre
+
+Jolene E. Negre
+
+Associate General Counsel and Assistant Secretary
+Dated: March 10, 2021

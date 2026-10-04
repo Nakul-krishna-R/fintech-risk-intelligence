@@ -1,0 +1,202 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+July 27, 2021
+
+Amgen Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-37702
+
+95-3540776
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+One Amgen Center Drive
+
+Thousand Oaks
+
+California
+
+91320-1799
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code
+
+(805)
+
+447-1000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common stock, $0.0001 par value
+
+AMGN
+
+The Nasdaq Stock Market LLC
+
+1.250% Senior Notes Due 2022
+
+AMGN22
+
+The Nasdaq Stock Market LLC
+
+2.000% Senior Notes Due 2026
+
+AMGN26
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+On July 27, 2021, Amgen Inc., a Delaware corporation (“
+Amgen
+”), entered into an Agreement and Plan of Merger (the “
+Merger Agreement
+”), by and among Amgen, Teneobio, Inc., a Delaware corporation (“
+Teneobio
+”), Tuxedo Merger Sub, Inc., a Delaware corporation and a wholly owned subsidiary of Amgen (“
+Merger Sub
+”) and Fortis Advisors LLC, as the Stockholder Representative (as defined in the Merger Agreement) whereby, subject to the terms and conditions contained therein, Merger Sub will be merged with and into Teneobio (the “
+Merger
+”), with Teneobio continuing as a wholly owned subsidiary of Amgen. As consideration for the Merger, and subject to the terms and conditions contained in the Merger Agreement, Amgen will pay to the equity holders of Teneobio (i) $900,000,000 in cash at closing, subject to customary adjustments for closing working capital and other transaction matters (the “
+Initial Purchase Price
+”) and (ii) certain future contingent milestone payments of up to $1,600,000,000 in cash that may become payable upon the achievement of certain qualifying events described in the Merger Agreement (the Initial Purchase Price and the Milestone Payments, if any, collectively, the “
+Transaction Payments
+”).
+
+Pursuant to the Merger Agreement, Amgen and Teneobio have agreed to customary representations, warranties and covenants, as well as indemnification arrangements, subject to certain limitations, with respect to certain losses resulting from inaccuracies in or breaches of the representations, warranties and covenants made in the Merger Agreement and certain excluded liabilities specified in the Merger Agreement. In connection with indemnification obligations under the Merger Agreement of the former equity holders of Teneobio, a portion of the Initial Purchase Price will be retained and held in escrow, and a portion of the future Milestone Payments, if and when paid, will be available to satisfy certain claims by Amgen. The covenants provided for in the Merger Agreement include, among others, Teneobio’s commitment to conduct and operate its business in the ordinary course consistent with past practice during the period prior to the closing of the Merger, subject to certain limitations.
+
+The obligation of Amgen to consummate the Merger and make the Transaction Payments is subject to the satisfaction or waiver, to the extent permitted under applicable legal requirements, of customary conditions, including, among others, (i) there being received validly obtained and not validly withdrawn consents executed by (a) stockholders of Teneobio representing ninety percent of the votes represented by all outstanding shares of Teneobio’s capital stock voting together as a single class on an
+as-converted
+basis and (b) certain stockholders owning in excess of five percent of Teneobio’s capital stock issued and outstanding on a fully diluted basis, (ii) Teneobio’s completion of certain restructuring arrangements with respect to its subsidiaries, including the spin out of three of Teneobio’s subsidiaries to the
+pre-closing
+equity holders of Teneobio and the closing of AbbVie Inc.’s (“
+AbbVie
+”) acquisition of TeneoOne, Inc., (iii) the accuracy of Teneobio’s representations and warranties (subject to customary materiality qualifiers), (iv) Teneobio’s compliance with or performance in all material respects of the obligations, covenants and agreements it is required to comply with or perform at or prior to the Merger, (v) the absence of a Material Adverse Effect (as defined in the Merger Agreement), (vi) the expiration or termination of the waiting period(s) applicable to the Merger under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, and (vi) the absence of any law or order prohibiting the consummation of the Merger. The Merger
+
+Agreement may be terminated (i) by mutual consent of Amgen and Teneobio, (ii) by Amgen or Teneobio if the Merger has not been completed by October 25, 2021 (unless such party’s breach is the primary reason for the Merger not being completed by such date), (iii) by Amgen or Teneobio if the Merger is enjoined or (iv) by Amgen or Teneobio upon certain breaches of the Merger Agreement by the other party.
+
+Prior to the consummation of the Merger, Teneobio will distribute to its equity holders all equity held by Teneobio in (i) TeneoTwo, Inc., which develops
+TNB-486,
+a bispecific antibody targeting CD19 on tumor cells and CD3 on
+T-cells,
+(ii) TeneoFour, Inc., which develops anti-CD38 heavy chain antibodies that block the enzyme functions of CD38, and (iii) TeneoTen, Inc., which develops bispecific antibodies directed against the hepatitis B surface antigen (HBsAg) and CD3. In addition, AbbVie exercised its exclusive right, pursuant to an option agreement, to acquire TeneoOne, an affiliate of Teneobio, and
+TNB-383B,
+a bispecific BCMA-targeting immunotherapeutic antibody for the potential treatment of relapsed or refractory multiple myeloma (R/R MM).
+
+The foregoing description of the terms of the Merger Agreement is not complete and is qualified in its entirety by reference to the Merger Agreement, a copy of which Amgen intends to file as an exhibit to a subsequent periodic report.
+
+Item 7.01.
+
+Regulation FD Disclosure.
+
+Amgen has issued a press release which is attached hereto as Exhibit 99.1 and incorporated into this Item 7.01 by reference.
+
+The information contained in this Item 7.01 and Exhibit 99.1 shall not be deemed to be “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “
+Exchange Act
+”), or otherwise subject to the liabilities of such section, nor will such information be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as may be expressly set forth by specific reference in such filing.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit No.
+
+Document Description
+
+99.1
+
+Joint Press Release, dated July 27, 2021.
+
+104
+
+Cover Page Interactive File (the cover page tags are embedded within the Inline XBRL document).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+AMGEN INC.
+
+Date: July 27, 2021
+
+By:
+
+/s/ Jonathan P. Graham
+
+Name:
+
+Jonathan P. Graham
+
+Title:
+
+Executive Vice President, General Counsel and Secretary

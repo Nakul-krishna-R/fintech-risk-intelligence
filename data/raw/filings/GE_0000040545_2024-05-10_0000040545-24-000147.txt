@@ -1,0 +1,191 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported)
+May 7, 2024
+General Electric Co
+mpany
+(Exact name of registrant as specified in its charter)
+
+New York
+001-00035
+14-0689340
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+
+1 Neumann Way,
+Evendale,
+OH
+
+45215
+(Address of principal executive offices)
+
+(Zip Code)
+
+(Registrant’s telephone number, including area code)
+
+(
+617
+)
+443-3000
+
+_______________________________________________
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, par value $0.01 per share
+GE
+New York Stock Exchange
+0.875% Notes due 2025
+GE 25
+New York Stock Exchange
+1.875% Notes due 2027
+GE 27E
+New York Stock Exchange
+1.500% Notes due 2029
+GE 29
+New York Stock Exchange
+7 1/2% Guaranteed Subordinated Notes due 2035
+GE /35
+New York Stock Exchange
+2.125% Notes due 2037
+GE 37
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+(a) GE Aerospace (General Electric Company or the "Company') held its annual shareholders meeting on May 7, 2024 (the "Annual Meeting").
+(b) At the Annual Meeting, shareholders elected all of the Company's nominees for director; approved the advisory vote on the Company's named executives' compensation ("Say on Pay"); and ratified the appointment of Deloitte & Touche LLP as the Company's independent auditor for 2024 ("Auditor Ratification"). Shareholders did not approve the shareholder proposals dealing with an independent chairman of the Board of Directors; or a report analyzing risks arising from voluntary carbon-reduction commitments.
+Election of Directors
+For
+Against
+Abstain
+Broker Non-Votes
+1.
+Stephen Angel
+753,901,341
+6,981,479
+1,237,417
+113,839,697
+2.
+Sébastien Bazin
+739,289,542
+20,562,305
+2,268,390
+113,839,697
+3.
+Margaret Billson
+758,967,885
+1,998,810
+1,152,542
+113,839,697
+4.
+H. Lawrence Culp, Jr.
+729,503,940
+30,146,120
+2,470,177
+113,839,697
+5.
+Thomas Enders
+746,887,403
+13,989,111
+1,243,723
+113,839,697
+6.
+Edward Garden
+754,849,620
+5,971,191
+1,299,426
+113,839,697
+7.
+Isabella Goren
+755,851,166
+5,080,173
+1,188,898
+113,839,697
+8.
+Thomas Horton
+748,912,025
+11,040,460
+2,167,752
+113,839,697
+9.
+Catherine Lesjak
+738,035,921
+22,900,334
+1,183,982
+113,839,697
+10.
+Darren McDew
+752,146,318
+7,782,526
+2,191,393
+113,839,697
+Management Proposals
+For
+Against
+Abstain
+Broker Non-Votes
+1.
+Say on Pay
+717,800,242
+42,074,364
+2,245,631
+113,839,697
+2.
+Auditor Ratification
+871,630,886
+2,815,953
+1,513,095
+0
+Shareholder Proposals
+For
+Against
+Abstain
+Broker Non-Votes
+1.
+Independent Board Chairman
+122,877,468
+637,154,036
+2,088,733
+113,839,697
+2.
+Report Analyzing Risks Arising from Voluntary Carbon-Reduction Commitments
+9,214,621
+748,931,107
+3,974,509
+113,839,697
+2
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+General Electric Company
+(Registrant)
+Date: May 10, 2024
+/s/ Brandon Smith
+Brandon Smith
+Vice President, Chief Corporate, Securities & Finance Counsel
+3

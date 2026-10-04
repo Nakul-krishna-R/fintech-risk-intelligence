@@ -1,0 +1,112 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported)
+February 18, 2022
+General Electric Co
+mpany
+(Exact name of registrant as specified in its charter)
+
+New York
+001-00035
+14-0689340
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+
+5 Necco Street
+Boston,
+MA
+
+02210
+(Address of principal executive offices)
+
+(Zip Code)
+
+(Registrant’s telephone number, including area code)
+
+(
+617
+)
+443-3000
+
+_______________________________________________
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, par value $0.01 per share
+GE
+New York Stock Exchange
+0.375% Notes due 2022
+GE 22A
+New York Stock Exchange
+1.250% Notes due 2023
+GE 23E
+New York Stock Exchange
+0.875% Notes due 2025
+GE 25
+New York Stock Exchange
+1.875% Notes due 2027
+GE 27E
+New York Stock Exchange
+1.500% Notes due 2029
+GE 29
+New York Stock Exchange
+7 1/2% Guaranteed Subordinated Notes due 2035
+GE /35
+New York Stock Exchange
+2.125% Notes due 2037
+GE 37
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 7.01 Regulation FD Disclosure.
+We are providing a copy of an investor newsletter released on February 18, 2022, as Exhibit 99 to this Report on Form 8-K.
+The information provided pursuant to Item 7.01 of this Current Report on Form 8-K, including Exhibit 99,
+is being furnished and shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934 (the "Exchange Act") or otherwise subject to the liabilities under that Section and shall not be deemed to be incorporated by reference into any filing of the Company under the Securities Act of 1933 (the “Securities Act”) or the Exchange Act
+. The information set forth under this Item 7.01, including Exhibit 99, shall not be deemed an admission as to the materiality of any information in this Current Report on Form 8-K.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit Description
+99
+
+Investor newsletter released on General Electric Company's website on February 18, 2022.
+104
+The cover page of this Current Report on Form 8-K formatted as Inline XBRL.
+(2)
+Forward-looking statements.
+This document contains “forward-looking statements”—that is, statements related to future, not past, events. These forward-looking statements often address our expected future business and financial performance and financial condition, and often contain words such as “expect,” “anticipate,” “intend,” “plan,” “believe,” “seek,” “see,” “will,” “would,” “estimate,” “forecast,” “target,” “preliminary,” or “range.” Forward-looking statements by their nature address matters that are, to different degrees, uncertain, and are subject to risks, uncertainties and assumptions. Should one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect, actual results may vary materially from those indicated or anticipated by such forward-looking statements. The inclusion of such statements should not be regarded as a representation that such plans, estimates or expectations will be achieved. Important factors that could cause actual results to differ materially from such plans, estimates or expectations include, among others: our success in executing and completing asset dispositions or other transactions, including our plan to pursue spin-offs of our Healthcare business and our combined Renewable Energy, Power and Digital businesses, and our plans to exit our equity ownership positions in Baker Hughes and AerCap, the timing of closing for such transactions, the ability to satisfy closing conditions, and the expected proceeds, consideration and benefits to GE; the continuing severity, magnitude and duration of the COVID-19 pandemic, including impacts of the pandemic, of businesses' and governments' responses to the pandemic and of individual factors such as aviation passenger confidence, on our operations and personnel, on commercial activity and demand across our and our customers' businesses, and on global supply chains; the extent to which the COVID-19 pandemic and related impacts, including global supply chain disruptions and price inflation, will continue to adversely impact our business operations, financial performance, results of operations, financial position, the prices of our securities and the achievement of our strategic objectives; changes in macroeconomic and market conditions and market volatility (including developments and volatility arising from the COVID-19 pandemic), including inflation, interest rates, the value of securities and other financial assets (including our equity ownership positions in Baker Hughes and AerCap, and expected equity interest in the Healthcare business after its spin-off), oil, natural gas and other commodity prices and exchange rates, and the impact of such changes and volatility on our financial position and businesses; our de-leveraging and capital allocation plans, including with respect to actions to reduce our indebtedness, the timing and amount of GE dividends, organic investments, and other priorities; downgrades of our current short- and long-term credit ratings or ratings outlooks, or changes in rating application or methodology, and the related impact on our liquidity, funding profile, costs and competitive position; our liquidity and the amount and timing of our cash flows and earnings, which may be impacted by customer, supplier, competitive, contractual and other dynamics and conditions; capital and liquidity needs associated with our financial services operations, including in connection with run-off insurance operations and Bank BPH, the amount and timing of any required capital contributions and any strategic actions that we may pursue; global economic trends, competition and geopolitical risks, including changes in the rates of investment or economic growth in key markets we serve, or an escalation of sanctions, tariffs or other trade tensions between the U.S. and China or other countries, and related impacts on our businesses' global supply chains and strategies; market developments or customer actions that may affect demand and the financial performance of major industries and customers we serve, such as secular, cyclical and competitive pressures in our Power business; pricing, the timing of customer investment and other factors in renewable energy markets; demand for air travel and other dynamics related to the COVID-19 pandemic; conditions in key geographic markets; and other shifts in the competitive landscape for our products and services; operational execution by our businesses, including the success in improving operational performance at our Renewable Energy business, and the performance of our Aviation business amidst the ongoing market recovery; changes in law, regulation or policy that may affect our businesses, such as trade policy and tariffs, regulation and incentives related to climate change (including extension of the U.S. wind Production Tax Credit), and the effects of tax law changes; our decisions about investments in research and development, and new products, services and platforms, and our ability to launch new products in a cost-effective manner; our ability to increase margins through implementation of operational changes, restructuring and other cost reduction measures; the impact of regulation and regulatory, investigative and legal proceedings and legal compliance risks, including the impact of Alstom and other investigative and legal proceedings; the impact of actual or potential failures of our products or third-party products with which our products are integrated, and related reputational effects; the impact of potential information technology, cybersecurity or data security breaches at GE or third parties; and the other factors that are described in the "Risk Factors" section of our Form 10-K for the year ended December 31, 2021, as such descriptions may be updated or amended in any future reports we file with the SEC. These or other uncertainties may cause our actual future results to be materially different than those expressed in our forward-looking statements. We do not undertake to update our forward-looking statements.
+(3)
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+General Electric Company
+(Registrant)
+Date: February 18, 2022
+/s/ Steven Winoker
+Steven Winoker
+Vice President, Investor Relations
+(4)

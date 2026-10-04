@@ -1,0 +1,84 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+________________________
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of Report (date of earliest event reported)
+February 18, 2021 (
+February 16, 2021
+)
+Walmart Inc.
+(Exact name of registrant as specified in its charter)
+DE
+001-06991
+71-0415188
+(State or other jurisdiction of incorporation or organization)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+702 S.W. 8th Street
+
+Bentonville
+,
+AR
+
+72716-0215
+
+(Address of Principal Executive Offices) (Zip code)
+Registrant's telephone number, including area code
+(
+479
+)
+273-4000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.10 per share
+WMT
+NYSE
+1.900% Notes Due 2022
+WMT22
+NYSE
+2.550% Notes Due 2026
+WMT26
+NYSE
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 7.01. Regulation FD Disclosure.
+On February 16, 2021, Walmart Inc. (“Walmart”) completed the sale of the outstanding shares of Asda Group Limited ("Asda"), which was Walmart’s retail business in the United Kingdom. Walmart recognized a non-cash loss of approximately $5.7 billion, after tax, in the fourth quarter of the fiscal year ended January 31, 2021, when the business met the held for sale accounting criteria. The loss includes the loss on sale as well as the loss associated with the derecognition of the Asda pension plan. Walmart expects earnings per share dilution from the sale of approximately $0.20 in the fiscal year ending January 31, 2022, primarily reflecting the absence of net income associated with the Asda business, assuming we hold transaction proceeds in cash.
+Walmart considers the foregoing statements regarding the estimated earnings per share dilution related to this transaction to be “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, as amended (the “Act”), that are intended to enjoy the protection of the safe harbor for forward-looking statements provided by the Act. These forward-looking statements are subject to certain risks, uncertainties and other factors.
+In accordance with General Instruction B.2 of Form 8-K, the information in this Item 7.01 of this Current Report on Form 8-K shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), or otherwise be subject to the liabilities of Section 18 of the Exchange Act. The information in this Current Report on Form 8-K shall not be incorporated by reference into any filing or other document filed by the Company with the SEC pursuant to the Securities Act of 1933, as amended, the rules and regulations of the SEC thereunder, the Exchange Act, or the rules and regulations of the SEC thereunder except as shall be expressly set forth by specific reference in such filing or document.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated: February 18, 2021
+WALMART INC.
+By:
+/s/ Gordon Y. Allison
+Name:
+Gordon Y. Allison
+Title:
+Senior Vice President, Chief Counsel Finance and Governance, Office of the Corporate Secretary

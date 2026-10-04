@@ -1,0 +1,266 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+March 4, 2021
+
+Amgen Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-37702
+
+95-3540776
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+One Amgen Center Drive
+Thousand Oaks
+California
+
+91320-1799
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+
+(
+805
+)
+447-1000
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☒
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities Registered under Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock $0.0001 par value
+
+AMGN
+
+The Nasdaq Stock Market LLC
+
+1.250% Senior Notes Due 2022
+
+AMGN22
+
+The Nasdaq Stock Market LLC
+
+2.000% Senior Notes Due 2026
+
+AMGN26
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01.
+
+Entry into a Material Definitive Agreement.
+
+On March 4, 2021, Amgen Inc., a Delaware corporation (“
+Amgen
+”), entered into an Agreement and Plan of Merger (the “
+Merger Agreement
+”), by and among Amgen, Five Prime Therapeutics, Inc., a Delaware corporation (“
+Five Prime
+”), and Franklin Acquisition Sub, Inc., a Delaware corporation and a wholly owned subsidiary of Amgen (“
+Purchaser
+”).
+
+Pursuant to the Merger Agreement, and upon the terms and subject to the conditions thereof, Amgen has agreed to cause Purchaser to commence a cash tender offer (the “
+Offer
+”) to purchase all of the outstanding shares of common stock of Five Prime, par value $0.001 per share (the “
+Shares
+”), at a price of $38.00 per Share (the “
+Offer Price
+”), in cash, minus any applicable withholding taxes and without interest. Following the consummation of the Offer and subject to the terms and conditions of the Merger Agreement, Purchaser will be merged with and into Five Prime (the “
+Merger
+”) pursuant to Section 251(h) of the General Corporation Law of the State of Delaware (the “
+DGCL
+”), with Five Prime continuing as the surviving corporation in the Merger and a wholly owned subsidiary of Amgen. At the effective time of the Merger, each Share (other than Shares validly tendered and irrevocably accepted for purchase pursuant to the Offer, Excluded Shares and Dissenting Shares (each as defined in the Merger Agreement)) will be converted into the right to receive an amount in cash equal to the Offer Price, without interest, minus any required withholding of taxes.
+
+The Offer will initially remain open for 20 business days from the date of commencement of the Offer. If at the scheduled expiration time of the Offer any of the conditions to the Offer have not been satisfied (unless such condition is waivable by Purchaser or Amgen and has been waived), Purchaser, at its discretion, may extend, and at the request of Five Prime, Purchaser will extend, the Offer to permit the satisfaction of all Offer conditions.
+
+The obligation of Purchaser to accept for payment, and pay for, Shares validly tendered (and not validly withdrawn) pursuant to the Offer is subject to the satisfaction or waiver, to the extent permitted under applicable legal requirements, of customary conditions, including (i) there being validly tendered and not validly withdrawn Shares that, considered together with all other Shares (if any) beneficially owned by Purchaser and its affiliates, represent one more Share than 50% of the total number of Shares outstanding at the expiration of the Offer, (ii) the accuracy of Five Prime’s representations and warranties (subject to customary materiality qualifiers), (iii) Five Prime’s compliance or performance in all material respects of its obligations, covenants and agreements it is required to comply with or perform at or prior to the expiration of the Offer, (iv) the absence, since the date of the Merger Agreement, of a Material Adverse Effect (as defined in the Merger Agreement) that is continuing, (v) the expiration or termination of the waiting period (or any extension thereof) applicable to the Offer under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, and (vi) the absence of any law or order prohibiting the consummation of the Offer or the Merger.
+
+The Merger Agreement includes certain representations, warranties and covenants of Five Prime, Amgen and Purchaser, including certain restrictions with respect to Five Prime’s business between signing and consummation of the Merger. Amgen and Five Prime also agreed to use their respective commercially reasonable efforts to take all actions, to file all documents and to do all things necessary, proper or advisable under applicable antitrust laws to consummate and make effective the transactions as soon as reasonably practicable, subject to certain limitations set forth in the Merger Agreement.
+
+Five Prime has agreed to customary
+“no-shop”
+restrictions on its ability to solicit alternative acquisition proposals from third parties and engage in discussions or negotiations with third parties regarding alternative acquisition proposals. Notwithstanding these restrictions, Five Prime may under certain circumstances provide information to and engage in or otherwise participate in discussions or negotiations with third parties with respect to a bona fide written alternative acquisition proposal that the board of directors of Five Prime (the “
+Five Prime Board
+”) has determined in good faith, after consultation with its financial advisor and outside legal counsel, constitutes a Superior Offer (as defined in the Merger Agreement) and that failure to take such action would reasonably be expected to constitute a breach of the Five Prime Board’s fiduciary duties under applicable legal requirements. The Merger Agreement also requires that the Five Prime Board recommend that the stockholders of Five Prime accept the Offer and tender their Shares to Purchaser pursuant to the Offer and not, among other things, (i) withdraw (or modify, amend or qualify in a manner adverse to Amgen or Purchaser), or publicly propose to withdraw (or modify, amend or qualify in a manner adverse to Amgen or Purchaser), the Five Prime Board’s
+
+-1-
+
+recommendation, (ii) approve, recommend or declare advisable, or propose to approve, recommend or declare advisable, any alternative acquisition proposal, (iii) fail to include the Five Prime Board’s recommendation in Five Prime’s Tender Offer Solicitation/Recommendation Statement on Schedule
+14D-9
+(the “
+Schedule
+14D-9
+”) when filed with the U.S. Securities and Exchange Commission (the “
+SEC
+”) when disseminated to Five Prime’s stockholders, or (iv) approve, recommend or declare advisable, or propose to approve, recommend or declare advisable, or allow Five Prime to execute or enter into any contract with respect to any acquisition proposal (other than a confidentiality agreement). Notwithstanding these restrictions, the Five Prime Board is permitted, subject to the terms and conditions set forth in the Merger Agreement, to change its recommendation and terminate the Merger Agreement to accept a Superior Offer or change its recommendation in response to a Change in Circumstance (as defined in the Merger Agreement), subject in each case to certain matching rights in favor of Amgen.
+
+The Merger Agreement contains certain termination rights for both Five Prime and Amgen, including (i) if the consummation of the transactions has not occurred prior to December 4, 2021 (the “
+End Date
+”), (ii) if consummation of the Offer or the Merger is legally prohibited or permanently enjoined or (iii) if the Offer has been withdrawn or terminated in accordance with the terms of the Merger Agreement, provided that the terminating party’s material breach of any provision of the Merger Agreement is not the cause of the events specified in the foregoing subclauses (i) through (iii) occurring. The Merger Agreement may also be terminated by Amgen if (i) the Five Prime Board has effected a Company Adverse Change Recommendation (as defined in the Merger Agreement), (ii) Five Prime has entered into an agreement with respect to a Superior Offer, (iii) the Five Prime Board fails to publicly reaffirm the Five Prime Board’s recommendation upon request by Amgen (subject to certain limitations), (iv) in the case of a tender offer or exchange offer, the Five Prime Board fails to recommend in a Schedule
+14D-9
+the rejection by its stockholders of such tender offer or exchange offer, or (v) Five Prime has breached any representation, warranty or covenant that cannot be cured by the End Date or, if capable of being cured, has not been cured within 30 days following written notice, if such breach would cause certain of the conditions to closing to not be able to be satisfied. The Merger Agreement may also be terminated by Five Prime (i) subject to the terms and conditions set forth in the Merger Agreement, to accept a Superior Offer, (ii) if Amgen or Purchaser has breached any representation, warranty or covenant that cannot be cured by the End Date or, if capable of being cured, has not been cured within 30 days following written notice, if such breach would reasonably be expected to prevent Amgen or Purchaser from consummating the transactions, or (iii) in the event that Purchaser fails to commence the offer within the specified period (unless such failure to commence the tender offer is principally caused by the material breach of a covenant or obligation by Five Prime) or fails to purchase all Shares validly tendered (and not validly withdrawn) when required to do so under the Merger Agreement. Upon termination of the Merger Agreement (i) by Five Prime to accept a Superior Offer or (ii) by Amgen following a Company Adverse Change Recommendation, Five Prime will be required to pay Amgen a termination fee of $76,000,000. Under certain additional circumstances described in the Merger Agreement, Five Prime must also pay Amgen such termination fee if the Merger Agreement is terminated and, within 12 months following such termination, Five Prime recommends or enters into certain alternative acquisition arrangements and such acquisition is subsequently consummated.
+
+The foregoing description of the Merger Agreement and the transactions contemplated thereby does not purport to be complete and is qualified in its entirety by reference to the Merger Agreement, which is filed as Exhibit 2.1 hereto and which is incorporated herein by reference. The Merger Agreement has been filed to provide information to investors regarding its terms. It is not intended to provide any other factual information about Five Prime, Amgen or Purchaser, their respective businesses, or the actual conduct of their respective businesses during the period prior to the consummation of the Offer, the Merger or the other transactions contemplated by the Merger Agreement. The Merger Agreement and this summary should not be relied upon as disclosure about Five Prime or Amgen. None of Five Prime’s stockholders or any other third parties should rely on the representations, warranties and covenants or any descriptions thereof as characterizations of the actual state of facts or conditions of Five Prime, Amgen, Purchaser or any of their respective subsidiaries or affiliates. The Merger Agreement contains representations and warranties that are the product of negotiations among the parties thereto and that the parties made to, and solely for the benefit of, each other as of specified dates. The assertions embodied in those representations and warranties are subject to qualifications and limitations agreed to by the respective parties and are also qualified in important part by confidential disclosure schedules delivered in connection with the Merger Agreement. The representations and warranties may have been made for the purpose of allocating contractual risk between the parties to the agreements instead of establishing these matters as facts and may be subject to standards of materiality applicable to the contracting parties that differ from those applicable to investors.
+
+-2-
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On March 4, 2021, Five Prime and Amgen issued a joint press release announcing the Merger Agreement, a copy of which is filed as Exhibit 99.1 and incorporated herein by reference.
+
+The information contained in this Item 7.01 and Exhibit 99.1 shall not be deemed to be “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “
+Exchange Act
+”), or otherwise subject to the liabilities of such section, nor will such information be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as may be expressly set forth by specific reference in such filing.
+
+Important Information
+
+This Current Report on Form 8-K is for informational purposes only and is neither an offer to purchase nor a solicitation of an offer to sell securities. The tender offer for the outstanding shares of common stock of Five Prime described in this Current Report on
+Form 8-K
+has not commenced. At the time the tender offer is commenced, Amgen and Purchaser will file, or will cause to be filed, tender offer materials on Schedule TO with the SEC and Five Prime will file a Solicitation/Recommendation Statement on Schedule
+14D-9
+with the SEC, in each case with respect to the tender offer. THE TENDER OFFER MATERIALS (INCLUDING AN OFFER TO PURCHASE, A RELATED LETTER OF TRANSMITTAL AND OTHER OFFER DOCUMENTS) AND THE SOLICITATION/RECOMMENDATION STATEMENT WILL CONTAIN IMPORTANT INFORMATION THAT SHOULD BE READ CAREFULLY WHEN THEY BECOME AVAILABLE AND CONSIDERED BEFORE ANY DECISION IS MADE WITH RESPECT TO THE TENDER OFFER. Those materials and all other documents filed by, or caused to be filed by, Amgen and Purchaser and Five Prime with the SEC will be available at no charge on the SEC’s website at www.sec.gov. The tender offer materials and related materials also may be obtained for free (when available) under the “Investors - Financials” section of Amgen’s website at
+https://investors.amgen.com/financials/sec-filings,
+and the Solicitation/Recommendation Statement and such other documents also may be obtained for free (when available) from Five Prime under the “Investors & Media - Financial Information” section of Five Prime’s website at
+https://investor.fiveprime.com/index.php/sec-filings.
+FIVE PRIME’S SHAREHOLDERS ARE ADVISED TO READ THE TENDER OFFER MATERIALS AND THE SOLICITATION/RECOMMENDATION STATEMENT, AS EACH MAY BE AMENDED OR SUPPLEMENTED FROM TIME TO TIME, AND ANY OTHER RELEVANT DOCUMENTS FILED BY FIVE PRIME OR AMGEN WITH THE SEC WHEN THEY BECOME AVAILABLE BEFORE THEY MAKE ANY DECISION WITH RESPECT TO THE TENDER OFFER. THESE MATERIALS WILL CONTAIN IMPORTANT INFORMATION ABOUT THE TENDER OFFER, FIVE PRIME AND AMGEN.
+
+Forward Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements. These forward-looking statements generally include statements that are predictive in nature and depend on or refer to future events or conditions, and include words such as “expect,” “anticipate,” “outlook,” “could,” “target,” “project,” “intend,” “plan,” “believe,” “seek,” “estimate,” “should,” “may,” “assume” and “continue” as well as variations of such words and similar expressions. By their nature, forward-looking statements involve risks and uncertainty because they relate to events and depend on circumstances that will occur in the future, and there are many factors that could cause actual results and developments to differ materially from those expressed or implied by these forward-looking statements. Forward-looking statements include, among other things, statements about the potential benefits of the proposed transaction; the prospective performance and outlook of Five Prime’s business, performance and opportunities; any potential strategic benefits, synergies or opportunities expected as a result of the proposed transaction; the ability of the parties to complete the proposed transaction and the expected timing of completion of the proposed transaction; potential marketing or regulatory approvals for bemarituzumab, or potential future revenues from such product; as well as any assumptions underlying any of the foregoing.
+
+-3-
+
+These statements are not guarantees of future performance and they involve certain risks, uncertainties and assumptions that are difficult to predict. We caution you that actual outcomes and results may differ materially from what is expressed, implied or forecasted by our forward-looking statements. There can be no guarantee that the proposed tender offer or the transaction described in this Current Report on Form 8-K will be completed, or that it will be completed as currently proposed, or at any particular time. Neither can there be any guarantee that Amgen or Five Prime’s product, bemarituzumab, will achieve any particular future financial results, or that Amgen will be able to realize any of the potential strategic benefits, synergies or opportunities as a result of the proposed acquisition. Nor can there be any guarantee that bemarituzumab will be submitted or approved for sale in any market, or at any particular time. Neither can there be any guarantee that such product will be successfully commercialized even if regulatory approvals are obtained. In particular, our expectations could be affected by, among other things: uncertainties as to the timing of the tender offer and the merger; the risk that the proposed transaction may not be completed in a timely manner or at all; uncertainties as to the percentage of Five Prime’s stockholders tendering their shares in the tender offer; the possibility that competing offers or acquisition proposals for Five Prime will be made; the possibility that any or all of the various conditions to the consummation of the tender offer or the merger may not be satisfied or waived, including the failure to receive any required regulatory approvals from any applicable governmental entities (or any conditions, limitations or restrictions placed on such approvals); regulatory actions or delays or government regulation generally, including potential regulatory actions or delays relating to the completion of the potential transaction described in this release, as well as potential regulatory actions or delays with respect to the development of bemarituzumab; the occurrence of any event, change or other circumstance that could give rise to the termination of the merger agreement; the effect of this announcement or pendency of the proposed transaction on Five Prime’s ability to retain and hire key personnel, its ability to maintain relationships with its customers, suppliers and others with whom it does business, its business generally or its stock price; risks related to diverting management’s attention from Five Prime’s ongoing business operations; the risk that stockholder litigation in connection with the proposed transaction may result in significant costs of defense, indemnification and liability; the potential that the strategic benefits, synergies or opportunities expected from the proposed acquisition may not be realized or may take longer to realize than expected; the successful integration of Five Prime into Amgen subsequent to the closing of the transaction and the timing of such integration; and other risks and factors referred to from time to time in Amgen’s and Five Prime’s filings with the SEC, including Amgen’s current Form
+10-K
+and Five Prime’s current Form
+10-K
+on file with the SEC, including those related to the uncertainties inherent in the research and development of new healthcare products, including clinical trial results and additional analysis of existing clinical data; our ability to obtain or maintain proprietary intellectual property protection; safety, quality or manufacturing issues; changes in expected or existing competition; and global trends toward health care cost containment, including government, payor and general public pricing and reimbursement pressures. The effects of the
+COVID-19
+pandemic may give rise to risks that are currently unknown or amplify the risks associated with many of these factors. Amgen and Five Prime are providing the information in this Current Report on Form 8-K as of this date and do not undertake any obligation to update any forward-looking statements as a result of new information, future events or otherwise.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit
+
+Description
+
+2.1*
+
+Agreement and Plan of Merger, dated as of March 4, 2021, by and among Amgen Inc., Franklin Acquisition Sub, Inc. and Five Prime Therapeutics, Inc.
+
+99.1
+
+Joint Press Release, dated March 4, 2021.
+
+104
+
+Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document).
+
+*
+
+Schedules omitted pursuant to Item 601 of Regulation
+S-K.
+Amgen agrees to furnish supplementally a copy of any omitted schedule to the SEC upon request.
+
+-4-
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+AMGEN INC.
+
+Date: March 4, 2021
+
+By:
+
+/s/ Jonathan P. Graham
+
+Name:
+
+Jonathan P. Graham
+
+Title:
+
+Executive Vice President, General Counsel and Secretary

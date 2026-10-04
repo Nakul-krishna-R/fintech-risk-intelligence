@@ -1,0 +1,256 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of
+The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+May 3, 2023
+
+Philip Morris International Inc.
+
+(Exact name of registrant as specified in its charter)
+Virginia
+1-33708
+13-3435103
+(State or other jurisdiction
+of incorporation)
+(Commission File Number)
+(I.R.S. Employer
+Identification No.)
+677 Washington Blvd, Ste. 1100
+Stamford
+Connecticut
+06901
+(Address of principal executive offices)
+(Zip Code)
+Registrant's telephone number, including area code: (
+203
+)
+905-2410
+
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, no par value
+PM
+New York Stock Exchange
+2.125% Notes due 2023
+PM23B
+New York Stock Exchange
+3.600% Notes due 2023
+PM23A
+New York Stock Exchange
+2.875% Notes due 2024
+PM24
+New York Stock Exchange
+2.875% Notes due 2024
+PM24C
+New York Stock Exchange
+0.625% Notes due 2024
+PM24B
+New York Stock Exchange
+3.250% Notes due 2024
+PM24A
+New York Stock Exchange
+2.750% Notes due 2025
+PM25
+New York Stock Exchange
+3.375% Notes due 2025
+PM25A
+New York Stock Exchange
+2.750% Notes due 2026
+PM26A
+New York Stock Exchange
+2.875% Notes due 2026
+PM26
+New York Stock Exchange
+0.125% Notes due 2026
+PM26B
+New York Stock Exchange
+3.125% Notes due 2027
+PM27
+New York Stock Exchange
+3.125% Notes due 2028
+PM28
+New York Stock Exchange
+2.875% Notes due 2029
+PM29
+New York Stock Exchange
+3.375% Notes due 2029
+PM29A
+New York Stock Exchange
+0.800% Notes due 2031
+PM31
+New York Stock Exchange
+3.125% Notes due 2033
+PM33
+New York Stock Exchange
+2.000% Notes due 2036
+PM36
+New York Stock Exchange
+1.875% Notes due 2037
+PM37A
+New York Stock Exchange
+6.375% Notes due 2038
+PM38
+New York Stock Exchange
+1.450% Notes due 2039
+PM39
+New York Stock Exchange
+4.375% Notes due 2041
+PM41
+New York Stock Exchange
+4.500% Notes due 2042
+PM42
+New York Stock Exchange
+3.875% Notes due 2042
+PM42A
+New York Stock Exchange
+4.125% Notes due 2043
+PM43
+New York Stock Exchange
+4.875% Notes due 2043
+PM43A
+New York Stock Exchange
+4.250% Notes due 2044
+PM44
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.07.
+Submission of Matters to a Vote of Security Holders.
+On May 3, 2023, Philip Morris International Inc. (the “Company”) held its Annual Meeting of Shareholders (“Annual Meeting”). On the record date of March 10, 2023, there were 1,552,147,867 shares of common stock issued and outstanding. At the Annual Meeting a quorum of 1,256,124,465 shares of common stock was represented in person or by proxy. The matters voted upon at the Annual Meeting and the results of such voting are set forth below:
+Proposal 1: Election of Directors of the Company.
+Name
+For
+Against
+Abstain
+Broker Non-Vote
+Brant Bonin Bough
+1,082,778,740
+6,141,074
+1,908,983
+165,295,668
+André Calantzopoulos
+1,069,214,994
+20,184,764
+1,429,039
+165,295,668
+Michel Combes
+1,083,320,345
+5,697,543
+1,810,909
+165,295,668
+Juan José Daboub
+1,056,177,179
+32,889,438
+1,762,180
+165,295,668
+Werner Geissler
+1,059,790,224
+29,036,004
+2,002,569
+165,295,668
+Lisa A. Hook
+1,028,955,730
+60,327,460
+1,545,607
+165,295,668
+Jun Makihara
+1,074,604,459
+14,528,038
+1,696,300
+165,295,668
+Kalpana Morparia
+950,373,175
+138,884,409
+1,571,213
+165,295,668
+Jacek Olczak
+1,083,574,407
+5,795,426
+1,458,964
+165,295,668
+Robert B. Polet
+1,040,591,121
+48,553,503
+1,684,173
+165,295,668
+Dessislava Temperley
+1,075,141,795
+13,954,413
+1,732,589
+165,295,668
+Shlomo Yanai
+1,058,420,942
+30,664,272
+1,743,583
+165,295,668
+All director nominees were duly elected.
+Proposal 2: Advisory Vote Approving Executive Compensation.
+For
+Against
+Abstain
+Broker Non-Vote
+803,503,078
+283,031,720
+4,293,999
+165,295,668
+The proposal was approved on an advisory basis.
+Proposal 3: Advisory Vote on the Frequency of Future Advisory Votes to Approve the Compensation of our Named Executive Officers.
+1 Year
+2 Years
+3 Years
+Abstain
+1,069,965,475
+2,238,896
+15,235,288
+3,389,138
+On an advisory basis, shareholders approved holding an advisory vote on the compensation of our named executive officers every 1 year. In light of the result of this advisory vote, and the recommendation by the Company’s Board of Directors that shareholders vote to hold future advisory votes on named executive officer compensation each year, the Company will hold such vote each year until the next required vote on the frequency of shareholder votes on named executive officer compensation.
+Proposal 4: Ratification of the Selection of PricewaterhouseCoopers SA as Independent Auditors for the fiscal year ending December 31, 2023.
+For
+Against
+Abstain
+1,244,070,264
+10,123,413
+1,930,788
+The proposal was approved.
+Proposal 5: Shareholder Proposal to Make Nicotine Level Information Available to Customers and Begin Reducing Nicotine Levels.
+For
+Against
+Abstain
+Broker Non-Vote
+34,466,375
+1,037,645,879
+18,716,543
+165,295,668
+The proposal was defeated.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+PHILIP MORRIS INTERNATIONAL INC.
+By:
+/s/ DARLENE QUASHIE HENRY
+Name:
+Darlene Quashie Henry
+Title:
+Vice President, Associate General Counsel & Corporate Secretary
+Date: May 9, 2023

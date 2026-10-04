@@ -1,0 +1,194 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+May 13, 2021
+
+CISCO SYSTEMS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-39940
+
+77-0059951
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+170 West Tasman Drive
+,
+San Jose
+,
+California
+
+95134-1706
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(408)
+
+526-4000
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.001 per share
+
+CSCO
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934 (§
+240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01.
+
+Entry into a Material Definitive Agreement.
+
+On May 13, 2021, Cisco Systems, Inc. (“Cisco”) entered into the Second Amended and Restated Credit Agreement (the “Credit Agreement”) by and among Cisco, certain lenders party thereto (the “Lenders”) and Bank of America, N.A., as administration agent, swing line lender, a letter of credit issuer and sustainability coordinator. The Credit Agreement provides for a five year $3.0 billion unsecured revolving credit facility (the “Facility”), which includes a $250 million sublimit for the issuance of standby letters of credit, a $250 million sublimit for swingline loans, a $1.0 billion sublimit for borrowings or letters of credit denominated in currencies other than U.S. dollars, a provision permitting Cisco from time to time to increase the amount of borrowing up to $2.0 billion (for an aggregate total of up to $5.0 billion in available borrowing), and a provision that allows for the maturity of the credit facility to be extended for an additional year up to two times.
+
+The Credit Agreement is an amendment and restatement of that certain Amended and Restated Credit Agreement, dated as of May 15, 2020, by and among Cisco, certain lenders party thereto and Bank of America, N.A., as administration agent, swing line lender and a letter of credit issuer.
+
+The interest rate applicable to outstanding loans under the Credit Agreement will be based on Cisco’s senior debt credit ratings as published by Standard & Poor’s Financial Services, LLC and Moody’s Investors Service, Inc., plus either (a) with respect to loans in U.S. dollars, (i) LIBOR or (ii) the Base Rate (to be defined as the highest of (x) the Bank of America prime rate, (y) the Federal Funds rate plus 0.50% and (z) a daily rate equal to
+one-month
+LIBOR plus 1.0%), (b) with respect to loans in Euros, EURIBOR, (c) with respect to loans in Yen, TIBOR and (d) with respect to loans in Pounds Sterling, SONIA plus a credit spread adjustment. Cisco will pay a quarterly commitment fee during the term of the Credit Agreement, which may vary depending on Cisco’s senior debt credit ratings. In addition, the Credit Agreement incorporates certain sustainability-linked mechanics. Specifically, Cisco’s applicable interest rate and commitment fee are subject to upward or downward adjustments if Cisco achieves, or fails to achieve, certain specified targets based on two key performance indicator metrics: (i) Social Impact and (ii) Foam Reduction.
+
+The Credit Agreement contains customary representations and warranties as well as customary affirmative and negative covenants. Negative covenants include, among others, limitations on incurrence of liens and secured indebtedness, and limitations on incurrence of any indebtedness by Cisco’s subsidiaries. In addition, the Credit Agreement requires that Cisco maintain a ratio of consolidated EBITDA to consolidated interest expense of not less than 3.0 to 1.0.
+
+The Credit Agreement also contains customary events of default. Upon the occurrence and during the continuance of an event of default, the Lenders may declare the outstanding loans and all other obligations under the Credit Agreement immediately due and payable.
+
+BofA Securities, Inc., Deutsche Bank Securities Inc., Citibank, N.A., J.P. Morgan Securities LLC and Wells Fargo Securities, LLC are acting as joint lead arrangers and joint bookrunners for the Facility.
+
+Cisco and its affiliates maintain various commercial and service relationships with certain of the Lenders and their affiliates in the ordinary course of business. In the ordinary course of their respective businesses, certain of the Lenders and the other parties to the Credit Agreement and their respective affiliates have engaged, and may in the future engage, in commercial banking, investment banking, financial advisory or other services with Cisco and its affiliates for which they have in the past and/or may in the future receive customary compensation and expense reimbursement.
+
+The description of the Credit Agreement contained herein is qualified in its entirety by reference to the Credit Agreement, a copy of which is filed herewith as Exhibit 10.1 and is incorporated herein by reference.
+
+Item 2.03.
+
+Creation of a Direct Financial Obligation or an Obligation under an
+Off-Balance
+Sheet Arrangement of a Registrant.
+
+The information included in Item 1.01 of this Current Report on
+Form 8-K is
+incorporated herein by reference.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+Number
+
+Description of Document
+
+10.1
+
+Second Amended and Restated Credit Agreement, dated as of May 13, 2021, by and among Cisco Systems, Inc., certain lenders party thereto, and Bank of America, N.A., as administration agent, swing line lender, L/C issuer and sustainability coordinator.
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+CISCO SYSTEMS, INC.
+
+Dated: May 14, 2021
+
+By:
+
+/s/ Evan Sloves
+
+Name:
+
+Evan Sloves
+
+Title:
+
+Secretary

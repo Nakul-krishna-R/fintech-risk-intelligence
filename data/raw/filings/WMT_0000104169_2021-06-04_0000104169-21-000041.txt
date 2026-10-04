@@ -1,0 +1,230 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+________________________
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of Report (date of earliest event reported)
+June 4, 2021 (
+June 2, 2021
+)
+Walmart Inc.
+(Exact name of registrant as specified in its charter)
+DE
+001-06991
+71-0415188
+(State or other jurisdiction of incorporation or organization)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+702 S.W. 8th Street
+
+Bentonville
+,
+AR
+
+72716-0215
+
+(Address of Principal Executive Offices) (Zip code)
+Registrant's telephone number, including area code
+(
+479
+)
+273-4000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.10 per share
+WMT
+NYSE
+1.900% Notes Due 2022
+WMT22
+NYSE
+2.550% Notes Due 2026
+WMT26
+NYSE
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.07.
+
+Submission of Matters to a Vote of Security Holders
+On June 2, 2021, Walmart Inc. (the “Company”) held its Annual Shareholders’ Meeting (the “Meeting”). As of the close of business on April 9, 2021, the record date for the Meeting, there were 2,813,481,605 shares of the Company’s common stock outstanding, with each share entitled to one vote. The holders of 2,542,345,108 shares of the Company’s common stock were present in person or represented by proxy during the Meeting. During the Meeting, the Company’s shareholders voted on the matters set forth below.
+Election of Directors
+The Company’s shareholders elected for one-year terms all twelve persons nominated for election as directors as set forth in the Company’s proxy statement dated April 22, 2021.
+
+The following table sets forth the vote of the shareholders at the meeting with respect to the election of directors:
+Nominee
+For
+Against
+Abstain
+Broker Non-Votes
+Cesar Conde
+2,303,173,843
+12,104,071
+1,901,669
+225,165,525
+Timothy P. Flynn
+2,300,727,687
+14,537,757
+1,914,139
+225,165,525
+Sarah J. Friar
+2,256,500,022
+58,963,087
+1,716,474
+225,165,525
+Carla A. Harris
+2,283,181,585
+32,269,573
+1,728,425
+225,165,525
+Thomas W. Horton
+2,283,935,224
+31,200,582
+2,043,777
+225,165,525
+Marissa A. Mayer
+2,295,316,308
+20,086,876
+1,776,399
+225,165,525
+C. Douglas McMillon
+2,304,852,555
+10,458,896
+1,868,132
+225,165,525
+Gregory B. Penner
+2,274,729,588
+40,524,303
+1,925,692
+225,165,525
+Steven S Reinemund
+2,265,568,690
+49,507,505
+2,103,388
+225,165,525
+Randall L. Stephenson
+2,291,903,866
+23,320,217
+1,955,500
+225,165,525
+S. Robson Walton
+2,296,661,946
+18,825,889
+1,691,748
+225,165,525
+Steuart L. Walton
+2,302,679,120
+12,742,289
+1,758,174
+225,165,525
+Company Proposals
+Advisory Vote on Executive Compensation.
+
+The Company’s shareholders voted upon and approved, by nonbinding, advisory vote, the compensation of the Company’s named executive officers, as described in the Company’s proxy statement dated April 22, 2021.
+
+The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+2,200,696,825
+112,339,088
+4,143,670
+225,165,525
+Ratification of Independent Accountants.
+The Company’s shareholders voted upon and approved the ratification of the appointment of Ernst & Young LLP to serve as the Company’s independent registered accountants for the fiscal year ending January 31, 2022. The votes on this proposal were as follows:
+For
+Against
+Abstain
+2,502,748,328
+37,231,141
+2,365,639
+There were no broker non-votes with respect to this proposal.
+
+Shareholder Proposals
+The Company’s shareholders voted upon and rejected a shareholder proposal requesting a report on refrigerants released from Company operations. The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+127,596,140
+2,181,045,148
+8,538,295
+225,165,525
+Next, the Company’s shareholders voted upon and rejected a shareholder proposal requesting a report on lobbying disclosures. The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+512,097,393
+1,795,639,120
+9,443,070
+225,165,525
+Then, the Company’s shareholders voted upon and rejected a shareholder proposal requesting a report on whether and how the Company’s racial justice goals align with the starting pay for all classifications of Company associates. The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+288,637,154
+1,978,808,006
+49,734,423
+225,165,525
+The Company’s shareholders next voted upon and rejected a shareholder proposal requesting to create a pandemic workforce advisory council. The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+261,281,157
+2,004,631,319
+51,267,107
+225,165,525
+Finally, the Company’s shareholders voted upon and rejected a shareholder proposal requesting a report based on a review of the Business Roundtable’s Statement on the Purpose of a Corporation and the Company’s governance and management systems. The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+53,666,255
+2,254,666,030
+8,847,298
+225,165,525
+2
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated: June 4, 2021
+WALMART INC.
+By:
+/s/Gordon Y. Allison
+Name:
+Gordon Y. Allison
+Title:
+Senior Vice President, Office of the Corporate Secretary, General Counsel for Finance and Governance
+3

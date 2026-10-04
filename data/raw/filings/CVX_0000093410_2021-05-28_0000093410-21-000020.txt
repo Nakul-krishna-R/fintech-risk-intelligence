@@ -1,0 +1,305 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+May 26, 2021
+
+Chevron Corporation
+(Exact name of registrant as specified in its charter)
+Delaware
+001-00368
+94-0890210
+(State or other jurisdiction
+of incorporation )
+(Commission File Number)
+(I.R.S. Employer
+Identification No.)
+6001 Bollinger Canyon Road,
+San Ramon,
+CA
+94583
+(Address of Principal Executive Offices)
+(Zip Code)
+Registrant’s telephone number, including area code:
+
+(
+925
+)
+842-1000
+
+N/A
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligations of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Common stock, par value $.75 per share
+CVX
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (
+§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter
+).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.07
+Submission of Matters to a Vote of Security Holders.
+(a)
+The 2021 Annual Meeting of Stockholders of Chevron Corporation (“Chevron”) was held on Wednesday, May 26, 2021.
+(b)
+Chevron stockholders voted on the matters set forth below, with final voting results indicated. For the election of Directors in an uncontested election, each nominee who received a majority of votes cast (i.e., the number of shares voted for exceeded the number of shares voted against, excluding abstentions) was elected a Director. All other items were approved if the number of shares voted for exceeded the number of shares voted against, excluding abstentions.
+(1)
+All nominees for election to the Chevron Board of Directors (“Board”) were elected, each for a one-year term, based upon the following votes:
+Nominee
+Votes For
+Votes Against
+Abstentions
+Broker Non-Votes
+Wanda M. Austin
+1,184,044,323
+90.9
+
+%
+119,291,051
+25,434,649
+274,950,085
+John B. Frank
+1,250,911,286
+94.4
+
+%
+74,229,621
+3,629,116
+274,950,085
+Alice P. Gast
+1,296,482,226
+98.3
+
+%
+22,651,529
+9,636,268
+274,950,085
+Enrique Hernandez, Jr.
+1,278,390,395
+97.0
+
+%
+40,262,412
+10,117,216
+274,950,085
+Marillyn A. Hewson
+1,314,278,897
+99.2
+
+%
+11,164,906
+3,326,220
+274,950,085
+Jon M. Huntsman Jr.
+1,309,069,067
+98.8
+
+%
+16,105,961
+3,594,995
+274,950,085
+Charles W. Moorman IV
+1,287,199,548
+97.6
+
+%
+31,564,472
+10,006,003
+274,950,085
+Dambisa F. Moyo
+1,295,901,200
+98.3
+
+%
+22,916,680
+9,952,143
+274,950,085
+Debra Reed-Klages
+1,293,813,310
+98.1
+
+%
+25,236,885
+9,719,828
+274,950,085
+Ronald D. Sugar
+1,006,786,727
+76.0
+
+%
+318,289,136
+3,694,160
+274,950,085
+D. James Umpleby III
+1,286,012,269
+97.5
+
+%
+32,705,622
+10,052,132
+274,950,085
+Michael K. Wirth
+1,204,536,520
+91.2
+
+%
+115,878,081
+8,355,422
+274,950,085
+(2)
+The Board’s proposal to ratify the appointment of PricewaterhouseCoopers LLP as Chevron’s independent registered public accounting firm for 2021 was approved based upon the following votes:
+Votes For
+1,546,413,167
+96.6
+
+%
+Votes Against
+53,958,074
+3.4
+
+%
+Abstentions
+3,348,867
+Broker Non-Votes
+Brokers were permitted to cast stockholder non-votes (i.e., uninstructed shares) at their discretion on this proposal item, and such non-votes are reflected in the votes for or against or abstentions.
+(3)
+The Board’s proposal for stockholders to approve, on an advisory basis, the compensation of Chevron’s named executive officers was approved based upon the following votes:
+Votes For
+1,234,252,576
+94.0
+
+%
+Votes Against
+78,763,508
+6.0
+
+%
+Abstentions
+15,753,939
+Broker Non-Votes
+274,950,085
+(4)
+The stockholder proposal regarding reducing Scope 3 emissions was approved based upon the following votes:
+Votes For
+794,387,800
+60.7
+
+%
+Votes Against
+515,076,725
+39.3
+
+%
+Abstentions
+19,305,498
+Broker Non-Votes
+274,950,085
+(5)
+The stockholder proposal regarding a report on impacts of Net Zero 2050 scenario was not approved based upon the following votes:
+Votes For
+626,666,718
+47.8
+
+%
+Votes Against
+683,661,355
+52.2
+
+%
+Abstentions
+18,441,950
+Broker Non-Votes
+274,950,085
+(6)
+The stockholder proposal regarding shifting to a public benefit corporation was not approved based upon the following votes:
+Votes For
+39,683,267
+3.0
+
+%
+Votes Against
+1,273,968,355
+97.0
+
+%
+Abstentions
+15,118,401
+Broker Non-Votes
+274,950,085
+(7)
+The stockholder proposal regarding a report on lobbying was not approved based upon the following votes:
+Votes For
+631,102,057
+47.9
+
+%
+Votes Against
+687,520,121
+52.1
+
+%
+Abstentions
+10,147,845
+Broker Non-Votes
+274,950,085
+(8)
+The stockholder proposal regarding adopting a policy for an independent chair was not approved based upon the following votes:
+Votes For
+389,983,766
+29.5
+
+%
+Votes Against
+932,350,998
+70.5
+
+%
+Abstentions
+6,435,259
+Broker Non-Votes
+274,950,085
+(9)
+The stockholder proposal regarding setting the special meeting threshold at ten percent was not approved based upon the following votes:
+Votes For
+437,609,988
+33.3
+
+%
+Votes Against
+876,108,877
+66.7
+
+%
+Abstentions
+15,051,158
+Broker Non-Votes
+274,950,085
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated: May 28, 2021
+CHEVRON CORPORATION
+By:
+/s/ Christopher A. Butner
+Christopher A. Butner
+Assistant Secretary

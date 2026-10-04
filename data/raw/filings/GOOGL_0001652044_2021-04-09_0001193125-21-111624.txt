@@ -1,0 +1,157 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)
+
+April 6, 2021
+
+ALPHABET INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-37580
+
+61-1767919
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+1600 Amphitheatre Parkway
+
+Mountain View
+,
+CA
+
+94043
+
+(Address of principal executive offices) (Zip Code)
+
+(650)
+
+253-0000
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Class A Common Stock, $0.001 par value
+
+GOOGL
+
+Nasdaq Stock Market LLC
+
+(Nasdaq Global Select Market)
+
+Class C Capital Stock, $0.001 par value
+
+GOOG
+
+Nasdaq Stock Market LLC
+
+none
+
+none
+
+(Nasdaq Global Select Market)
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02.
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On April 6, 2021, the Leadership Development and Compensation Committee of the Board of Directors (the “
+Board
+”) of Alphabet Inc. (“
+Alphabet
+”) approved a new compensation arrangement for Ruth Porat, Chief Financial Officer of Alphabet and Google LLC.
+
+Ms. Porat was granted an equity award consisting of one tranche of performance stock units (“
+PSUs
+”) with a target value of $5,000,000. The target number of PSUs was calculated by dividing the target value of $5,000,000 by
+
+the average closing price of Alphabet’s Class C capital stock during the month of March 2021 (the “
+Average Closing Price
+”). The PSUs will vest, if at all, based on the Total Shareholder Return (“
+TSR
+”) performance of Alphabet relative to the companies comprising the S&P 100 over a 2021-2023 performance period, subject to continued employment. Depending upon performance, the number of PSUs that vest will range from
+0%-200%
+of target. Upon vesting, each PSU will entitle Ms. Porat to receive one share of Alphabet’s Class C capital stock. Upon termination of employment by reason of death, unvested PSUs will immediately vest, assuming target (or actual if the performance period ended prior to death) and be settled in shares of Alphabet’s Class C capital stock. Upon termination of employment by Alphabet without cause, PSUs will vest based on actual performance but will be prorated based on the number of calendar days in the performance period Ms. Porat performed services and any remaining unvested PSUs will be forfeited. The PSUs are subject to the terms and conditions of Alphabet’s Amended and Restated 2012 Stock Plan.
+
+This grant is intended to be part of a transition to a performance-based equity structure for Ms. Porat. Going forward, we anticipate that a portion of Ms. Porat’s equity compensation will be granted in the form of PSUs.
+
+The foregoing description is only a summary of the terms of the PSU award and is qualified in its entirety by reference to the full text of the Performance Stock Unit Agreement, which will be filed as an exhibit to Alphabet’s Form
+10-Q.
+
+Ms. Porat was also granted an award of $5,000,000 in the form of restricted stock units (“
+GSUs
+”). The number of GSUs comprising the grant was calculated by dividing the equity award amount by the Average Closing Price. These GSUs will vest as follows: 1/4th will vest on March 25, 2022 and an additional 1/4th will vest quarterly thereafter until fully vested, in each case subject to continued employment. Upon vesting, each GSU will entitle Ms. Porat to receive one share of Alphabet’s Class C capital stock. Upon termination of employment by reason of death, all unvested GSUs will immediately vest in full and be settled in shares of Alphabet’s Class C capital stock. All GSUs are subject to the terms and conditions of Alphabet’s Amended and Restated 2012 Stock Plan.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ALPHABET INC.
+
+Date: April 9, 2021
+
+/s/ Kathryn W. Hall
+
+Kathryn W. Hall
+
+Assistant Secretary

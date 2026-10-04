@@ -1,0 +1,183 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+DATE OF REPORT (DATE OF EARLIEST EVENT REPORTED):
+February 8, 2024
+
+TEXAS INSTRUMENTS INCORPORATED
+
+(Exact name of registrant as specified in charter)
+
+DELAWARE
+
+001-03761
+
+75-0289970
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+file number)
+
+(I.R.S. employer
+
+identification no.)
+
+12500 TI BOULEVARD
+
+DALLAS
+,
+TEXAS
+
+75243
+
+(Address of principal executive offices)
+
+Registrant’s telephone number, including area code:
+(214)
+
+479-3773
+
+Check the appropriate box below if the Form
+8-K
+is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, par value $1.00
+
+TXN
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01.
+
+Other Events
+
+Issuance of $3,000,000,000 of Notes
+
+On February 8, 2024, Texas Instruments Incorporated (“Texas Instruments”) consummated the issuance and sale of $650,000,000 aggregate principal amount of its 4.600% Notes due 2027 (the “2027 Notes”), $650,000,000 aggregate principal amount of its 4.600% Notes due 2029 (the “2029 Notes”), $600,000,000 aggregate principal amount of its 4.850% Notes due 2034 (the “2034 Notes”), $750,000,000 aggregate principal amount of its 5.150% Notes due 2054 (the “2054 Notes”) and $350,000,000 aggregate principal amount of its 5.050% Notes due 2063 (the “2063 Notes” and, together with the 2027 Notes, the 2029 Notes, the 2034 Notes and the 2054 Notes, the “Notes”) pursuant to an underwriting agreement filed herewith as Exhibit 1.1 dated February 5, 2024 among Texas Instruments and BofA Securities, Inc., Citigroup Global Markets Inc. and Mizuho Securities USA LLC, as underwriters. The Notes were issued pursuant to an Indenture dated as of May 23, 2011 (the “Indenture”) between Texas Instruments and U.S. Bank Trust Company, National Association, as successor in interest to U.S. Bank National Association, as trustee, and an Officers’ Certificate issued pursuant thereto. The 2063 Notes are a further issuance of, and form a single series with, the $1,200,000,000 aggregate principal amount of the existing 5.050% Notes due 2063 issued by Texas Instruments on May 18, 2023. The 2027 Notes, the 2029 Notes, the 2034 Notes and the 2054 Notes are each a new issuance.
+
+The Notes were offered pursuant to Texas Instruments’ Registration Statement on Form
+S-3
+filed on February 4, 2022 (Reg.
+No. 333-262523),
+including the prospectus contained therein, and a related preliminary prospectus supplement dated February 5, 2024 and a prospectus supplement dated February 5, 2024.
+
+The material terms and conditions of the Notes are set forth in the Indenture filed as Exhibit 4.2 to the Current Report of Texas Instruments on Form
+8-K
+dated May 23, 2011 and the Officers’ Certificate filed herewith as Exhibit 4.1 and incorporated by reference herein.
+
+2
+
+Item 9.01
+
+Financial Statements and Exhibits
+
+(d) Exhibits.
+
+Exhibit
+No.
+
+Description
+
+1.1
+
+Underwriting Agreement dated February 5, 2024 among Texas Instruments Incorporated and BofA Securities, Inc., Citigroup Global Markets Inc. and Mizuho Securities USA LLC
+
+4.1
+
+Officers’ Certificate setting forth the terms of the Notes
+
+5.1
+
+Opinion of Davis Polk & Wardwell LLP
+
+23.1
+
+Consent of Davis Polk & Wardwell LLP (included in Exhibit 5.1)
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+3
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+TEXAS INSTRUMENTS INCORPORATED
+
+Date: February 8, 2024
+
+By:
+
+/s/ Rafael R. Lizardi
+
+Rafael R. Lizardi
+
+Senior Vice President and Chief Financial Officer
+
+4

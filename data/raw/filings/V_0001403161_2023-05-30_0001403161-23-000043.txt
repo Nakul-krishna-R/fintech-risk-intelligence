@@ -1,0 +1,211 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+May 30, 2023
+
+VISA INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+Delaware
+
+001-33977
+
+26-0267673
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+Identification No.)
+
+P.O. Box 8999
+
+San Francisco,
+California
+
+94128-8999
+(Address of Principal Executive Offices)
+(Zip Code)
+Registrant’s Telephone Number, Including Area Code: (
+650
+)
+432-3200
+
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Class A Common Stock, par value $0.0001 per share
+V
+New York Stock Exchange
+1.500% Senior Notes due 2026
+V26
+New York Stock Exchange
+2.000% Senior Notes due 2029
+V29
+New York Stock Exchange
+2.375% Senior Notes due 2034
+V34
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 7.01
+Regulation FD Disclosure.
+On May 30, 2023, Visa announced volume and transaction data for April and from May 1-28 ("May") 2023. As previously disclosed, in March 2022, we suspended our operations in Russia and therefore Russia-related volume and transaction data are not included in our results from April 2022 through May 2023.
+May U.S. payments volume on a year-over-year basis was up 5%. Credit grew 5% and Debit grew 6%. May card not present volume on a year-over-year basis was up 7%, card not present volume excluding travel was up 7% and card present volume was up 3%.
+May payments volume year-over-year growth for key international markets was relatively consistent with April 2023 year-over-year growth.
+May cross-border volume excluding intra-Europe transactions was 151% of 2019, with card not present volume excluding travel at 175% of 2019. Total card present and card not present travel cross-border volume excluding intra-Europe transactions was 139% of 2019. May travel cross-border volume into and from our Asia Pacific region and into the U.S. continued to improve relative to 2019 levels.
+May global processed transactions grew 9% year-over-year.
+The tables below show the increase / (decrease) and indexed results in certain key metrics against the comparable 2022 and 2019 periods, respectively, for April, May (1-28) and quarter-to-date (April 1 - May 28, 2023). Please note that the April, May and quarter-to-date numbers do not include Russia-related volumes or transactions but the comparable 2019 periods do:
+Increase / (Decrease) Year-over-Year
+April
+May
+Quarter-to-Date
+U.S. Payments Volume
+5%
+5%
+5%
+Credit
+5%
+5%
+5%
+Debit
+6%
+6%
+6%
+Cross-Border Volume Excluding Intra-Europe Transactions
+(1),(2)
+26%
+21%
+24%
+Cross-Border Volume Total
+(1)
+19%
+17%
+18%
+Processed Transactions
+10%
+9%
+9%
+Indexed to 4 Years Ago with a Baseline of 100
+April
+May
+Quarter-to-Date
+U.S. Payments Volume
+156
+156
+156
+Credit
+146
+147
+147
+Debit
+166
+165
+166
+Cross-Border Volume Excluding Intra-Europe Transactions
+(1),(2)
+146
+151
+149
+Cross-Border Volume Total
+(1)
+152
+157
+155
+Processed Transactions
+152
+153
+152
+_________________________________
+(1)
+On a constant-dollar basis.
+(2)
+Cross-border volume excluding transactions within Europe.
+Charts that follow provide trends by month for U.S. payments volumes, processed transactions and cross-border volumes. Growth trends are against the comparable prior year period. When indexed vs. 4 years ago, the baseline is 100. Please note that April 2022 through May 2023 numbers do not include Russia-related volumes or transactions but prior periods do. May represents May 1-28.
+2023 U.S. Payments Volume Growth
+2023 U.S. Payments Volume Index vs. 4 Years Ago
+
+2023 Processed Transactions Growth
+2023 Processed Transactions Index vs. 4 Years Ago
+2023 Cross-Border Volume Growth
+(Constant Dollar)
+2023 Cross-Border Volume Growth
+Excluding Intra-Europe (Constant Dollar)
+2023 Cross-Border Volume Index vs. 4 Years Ago
+(Constant Dollar)
+2023 Cross-Border Volume Index vs. 4 Years Ago
+Excluding Intra-Europe (Constant Dollar)
+The foregoing information is preliminary in nature and has not been audited or reviewed by our auditors and is subject to change.
+All information in Item 7.01 is furnished but not filed and shall not be deemed to be incorporated by reference into any of Visa’s filings under the Securities Act of 1933 or the Securities Exchange Act of 1934 except to the extent otherwise set forth therein.
+Forward-Looking Statements
+This current report contains forward-looking statements within the meaning of the U.S. Private Securities Litigation Reform Act of 1995 that relate to, among other things, our future operations, prospects, developments, strategies, business growth and anticipated timing and benefits of our acquisitions. Forward-looking statements generally are identified by words such as “anticipates,” “believes,” “estimates,” “expects,” “intends,” “may,” “projects,” “outlook,” “could,” “should,” “will,” “continue” and other similar expressions. All statements other than statements of historical fact could be forward-looking statements, which speak only as of the date they are made, are not guarantees of future performance and are subject to certain risks, uncertainties and other factors, many of which are beyond our control and are difficult to predict.
+Actual results could differ materially from those expressed in, or implied by, our forward-looking statements due to a
+variety of factors, including, but not limited to:
+•
+impact of global economic, political, market, health and social events or conditions, including the war in Ukraine and the sanctions and other measures being imposed in response, and the ongoing effects of the COVID-19 pandemic, including the resumption of international travel;
+•
+increased oversight and regulation of the global payments industry and our business;
+•
+impact of government-imposed obligations and/or restrictions on international payment systems;
+•
+outcome of tax, litigation and governmental investigation matters;
+•
+increasingly intense competition in the payments industry, including competition for our clients and merchants;
+•
+proliferation and continuous evolution of new technologies and business models in the payments industry;
+•
+continued efforts to lower acceptance costs and challenge industry practices;
+•
+our ability to maintain relationships with our clients, acquirers, processors, merchants, payments facilitators, ecommerce platforms, fintechs and other third parties;
+•
+brand or reputational damage;
+•
+exposure to loss or illiquidity due to settlement guarantees;
+•
+a disruption, failure, breach or cyber-attack of our networks or systems;
+•
+risks, uncertainties and the failure to achieve the anticipated benefits with respect to our acquisitions, joint
+ventures and other strategic investments; and
+•
+other factors described in our filings with the U.S. Securities and Exchange Commission, including our Annual Report on Form 10-K for the year ended September 30, 2022, and any subsequent reports on Forms 10-Q and 8-K.
+Except as required by law, we do not intend to update or revise any forward-looking statements as a result of new
+information, future events or otherwise.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VISA INC.
+
+Date:
+May 30, 2023
+
+By:
+
+/s/ Vasant M. Prabhu
+
+Vasant M. Prabhu
+Vice Chair, Chief Financial Officer

@@ -1,0 +1,538 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported):
+
+June 13, 2024
+
+Tesla, Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+Texas
+
+001-34756
+
+91-2197729
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+1 Tesla Road
+
+Austin
+,
+Texas
+
+78725
+
+(Address of Principal Executive Offices, and
+Zip Code)
+
+(
+512
+)
+516-8177
+
+Registrant’s Telephone Number, Including
+Area Code
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction
+A.2. below):
+
+¨
+
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+(17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communication pursuant to Rule 14d-2(b) under the
+Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communication pursuant to Rule 13e-4(c) under the
+Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name
+of each exchange on which registered
+
+Common
+stock
+
+TSLA
+
+The Nasdaq Global
+Select Market
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (17 CFR §240.12b-2).
+
+Emerging growth company
+¨
+
+If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section 13(a) of the Exchange Act.
+¨
+
+Item 5.07
+Submission of Matters to a Vote of Security Holders.
+
+At Tesla, Inc.’s (“
+Tesla
+”) 2024 Annual Meeting
+of Stockholders (the “
+Annual Meeting
+”) held on June 13, 2024, Tesla’s stockholders voted on the following twelve
+proposals and Tesla’s inspector of election certified the vote tabulations indicated below
+.
+
+Proposal 1
+
+The individuals listed below were elected as Class
+II directors at the Annual Meeting to serve on Tesla’s Board of Directors (“
+Board
+”) for a term of three years
+or until their respective successors are duly elected and qualified.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Votes
+
+James Murdoch
+
+1,568,468,453
+
+710,657,343
+
+31,143,094
+
+335,111,943
+
+Kimbal Musk
+
+1,814,064,783
+
+468,987,640
+
+27,216,467
+
+335,111,943
+
+Proposal 2
+
+Proposal 2 was a management proposal to approve
+executive compensation on a non-binding advisory basis. This proposal was approved.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Votes
+
+1,834,794,743
+
+449,639,303
+
+25,834,844
+
+335,111,943
+
+Proposal 3
+
+Proposal 3 was a management proposal to approve
+the redomestication of Tesla from Delaware to Texas by conversion. This proposal was approved. Approval of the proposal required the affirmative
+vote of each of:
+
+·
+
+the majority of outstanding shares of Tesla common stock entitled to vote on the proposal (the “
+Conversion Standard
+”),
+
+and
+
+·
+
+the majority of the total votes of shares of Tesla common stock not owned, directly or indirectly, by Elon Musk or Kimbal Musk, represented
+in person or by proxy at the Annual Meeting and entitled to vote on the proposal (the “
+Conversion Disinterested Standard
+”).
+
+The results of the stockholder vote are reported
+below:
+
+(1)
+
+Pursuant to the Conversion Standard, the votes were as follows:
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Votes
+
+2,000,873,803
+
+293,910,071
+
+15,485,016
+
+335,111,943
+
+Accordingly, the votes cast in favor of approving Proposal 3 constituted
+approximately 63% of outstanding shares of Tesla common stock entitled to vote on the proposal.
+
+(2)
+
+Pursuant to the Conversion Disinterested Standard, the votes were as follows:
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Votes
+
+1,588,203,007
+
+293,910,071
+
+15,485,016
+
+335,111,943
+
+Accordingly, the votes cast in favor of approving Proposal 3 constituted
+approximately 84% of the total votes of shares of Tesla common stock not owned, directly or indirectly, by Elon Musk or Kimbal Musk, represented
+in person or by proxy at the Annual Meeting and entitled to vote on the proposal.
+
+Proposal 4
+
+Proposal 4 was a management proposal to ratify
+the 100% performance-based stock option award to Elon Musk that was proposed to and approved by our stockholders in 2018. This proposal
+was approved. Approval of the proposal required the affirmative vote of each of:
+
+·
+the majority of the total votes of shares of Tesla common stock
+cast in person or by proxy at the Annual Meeting on the proposal, pursuant to the rules of The Nasdaq Stock Market LLC (the “
+NASDAQ
+Standard
+”),
+
+and
+
+·
+the majority of the voting power of the shares present in person
+or represented by proxy at the Annual Meeting and entitled to vote on the proposal, pursuant to Tesla’s amended and restated bylaws
+(the “
+Bylaws Standard
+”),
+
+and
+
+·
+the majority of the total votes of shares of Tesla common stock
+not owned, directly or indirectly, by Elon Musk or Kimbal Musk, cast in person or by proxy at the Annual Meeting on the proposal, pursuant
+to the resolutions of the Board of Directors of Tesla (the “
+Ratification Disinterested Standard
+”).
+
+The results of the stockholder vote are reported
+below:
+
+(1)
+Pursuant to the NASDAQ Standard, the votes were as follows:
+
+For
+
+Against
+
+Broker Non-Votes
+
+1,760,780,650
+
+528,908,419
+
+335,111,943
+
+Accordingly, the votes cast in favor of approving Proposal 4 constituted
+approximately 77% of the total votes of shares of Tesla common stock cast in person or by proxy at the Annual Meeting on the proposal.
+
+(2)
+Pursuant to the Bylaws Standard, the votes were as follows:
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Votes
+
+1,760,780,650
+
+528,908,419
+
+20,579,821
+
+335,111,943
+
+Accordingly, the votes cast in favor of approving Proposal 4 constituted
+approximately 76% of the voting power of the shares present in person or represented by proxy at the Annual Meeting and entitled to vote
+on the proposal.
+
+(3)
+Pursuant to the Ratification Disinterested Standard, the votes
+were as follows:
+
+For
+
+Against
+
+Broker Non-Votes
+
+1,348,109,854
+
+528,908,419
+
+335,111,943
+
+Accordingly, the votes cast in factor of approving Proposal 4 constituted
+approximately 72% of all votes cast in person or by proxy at the Annual Meeting on the proposal, excluding votes of shares owned, directly
+or indirectly, by Messrs. Elon and Kimbal Musk.
+
+Proposal 5
+
+Proposal 5 was a management proposal to ratify
+the appointment of PricewaterhouseCoopers LLP as the Company’s independent registered public accounting firm for the fiscal year
+ending December 31, 2024. This proposal was approved.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Votes
+
+2,545,112,670
+
+66,178,057
+
+34,090,106
+
+0
+
+Proposal 6
+
+Proposal 6 was a non-binding advisory stockholder
+proposal regarding reduction of director terms to one year. This proposal was approved.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Votes
+
+1,231,680,337
+
+1,044,766,276
+
+33,822,277
+
+335,111,943
+
+Proposal 7
+
+Proposal 7 was a non-binding advisory stockholder
+proposal regarding simple majority voting provisions in our governing documents. This proposal was approved.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Votes
+
+1,225,968,057
+
+1,047,335,839
+
+36,964,994
+
+335,111,943
+
+Proposal 8
+
+Proposal 8 was a non-binding advisory stockholder
+proposal regarding annual reporting on anti-harassment and discrimination efforts. This proposal was not approved.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Votes
+
+712,788,260
+
+1,547,103,308
+
+50,377,322
+
+335,111,943
+
+Proposal 9
+
+Proposal 9 was a non-binding advisory stockholder
+proposal regarding adoption of a freedom of association and collective bargaining policy. This proposal was not approved.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Votes
+
+462,903,318
+
+1,783,899,772
+
+63,465,800
+
+335,111,943
+
+Proposal 10
+
+Proposal 10 was a non-binding advisory stockholder
+proposal regarding reporting on effects and risks associated with electromagnetic radiation and wireless technologies. This proposal was
+not approved.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Votes
+
+84,116,666
+
+2,156,432,223
+
+69,720,001
+
+335,111,943
+
+Proposal 11
+
+Proposal 11 was a non-binding advisory stockholder
+proposal regarding adopting targets and reporting on metrics to assess the feasibility of integrating sustainability metrics into senior
+executive compensation plans. This proposal was not approved.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Votes
+
+229,393,871
+
+2,025,404,233
+
+55,470,786
+
+335,111,943
+
+Proposal 12
+
+Proposal 12 was a non-binding advisory stockholder
+proposal regarding committing to a moratorium on sourcing minerals from deep sea mining. This proposal was not approved.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Votes
+
+172,864,517
+
+2,071,493,645
+
+65,910,728
+
+335,111,943
+
+SIGNATURES
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.
+
+TESLA, INC.
+
+By:
+
+/s/Brandon Ehrhart
+
+Brandon Ehrhart
+
+General Counsel and Corporate Secretary
+
+Date: June 14, 2024

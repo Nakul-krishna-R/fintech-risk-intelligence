@@ -1,0 +1,278 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of
+The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+February 3, 2021
+
+Philip Morris International Inc.
+
+(Exact name of registrant as specified in its charter)
+Virginia
+1-33708
+13-3435103
+(State or other jurisdiction
+of incorporation)
+(Commission File Number)
+(I.R.S. Employer
+Identification No.)
+120 Park Avenue
+New York
+New York
+10017-5592
+(Address of principal executive offices)
+(Zip Code)
+Registrant's telephone number, including area code: (
+917
+)
+663-2000
+
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, no par value
+PM
+New York Stock Exchange
+1.875% Notes due 2021
+PM21B
+New York Stock Exchange
+4.125% Notes due 2021
+PM21
+New York Stock Exchange
+2.900% Notes due 2021
+PM21A
+New York Stock Exchange
+2.625% Notes due 2022
+PM22A
+New York Stock Exchange
+2.375% Notes due 2022
+PM22B
+New York Stock Exchange
+2.500% Notes due 2022
+PM22
+New York Stock Exchange
+2.500% Notes due 2022
+PM22C
+New York Stock Exchange
+2.625% Notes due 2023
+PM23
+New York Stock Exchange
+2.125% Notes due 2023
+PM23B
+New York Stock Exchange
+3.600% Notes due 2023
+PM23A
+New York Stock Exchange
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+2.875% Notes due 2024
+PM24
+New York Stock Exchange
+2.875% Notes due 2024
+PM24C
+New York Stock Exchange
+0.625% Notes due 2024
+PM24B
+New York Stock Exchange
+3.250% Notes due 2024
+PM24A
+New York Stock Exchange
+2.750% Notes due 2025
+PM25
+New York Stock Exchange
+3.375% Notes due 2025
+PM25A
+New York Stock Exchange
+2.750% Notes due 2026
+PM26A
+New York Stock Exchange
+2.875% Notes due 2026
+PM26
+New York Stock Exchange
+0.125% Notes due 2026
+PM26B
+New York Stock Exchange
+3.125% Notes due 2027
+PM27
+New York Stock Exchange
+3.125% Notes due 2028
+PM28
+New York Stock Exchange
+2.875% Notes due 2029
+PM29
+New York Stock Exchange
+3.375% Notes due 2029
+PM29A
+New York Stock Exchange
+0.800% Notes due 2031
+PM31
+New York Stock Exchange
+3.125% Notes due 2033
+PM33
+New York Stock Exchange
+2.000% Notes due 2036
+PM36
+New York Stock Exchange
+1.875% Notes due 2037
+PM37A
+New York Stock Exchange
+6.375% Notes due 2038
+PM38
+New York Stock Exchange
+1.450% Notes due 2039
+PM39
+New York Stock Exchange
+4.375% Notes due 2041
+PM41
+New York Stock Exchange
+4.500% Notes due 2042
+PM42
+New York Stock Exchange
+3.875% Notes due 2042
+PM42A
+New York Stock Exchange
+4.125% Notes due 2043
+PM43
+New York Stock Exchange
+4.875% Notes due 2043
+PM43A
+New York Stock Exchange
+4.250% Notes due 2044
+PM44
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+Item 5.02.
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+Compensatory Arrangements of Certain Officers
+1
+Equity Awards
+. Named executive officers of Philip Morris International Inc. (the "Company") receive 40% of their targeted equity award in the form of restricted stock units, or RSUs, and 60% in the form of performance share units, or PSUs. Accordingly, on February 3 2021, the Compensation and Leadership Development Committee of the Board of Directors of the Company (the “Committee”) approved the awards of RSUs and PSUs under the Philip Morris International Inc. 2017 Performance Incentive Plan to the Company's named executive officers in the amounts indicated below, with a grant date of February 4, 2021:
+Name
+RSUs
+PSUs
+André Calantzopoulos
+56,130
+84,200
+Emmanuel Babeau
+19,670
+29,500
+Martin G. King
+7,210
+10,820
+Jacek Olczak
+21,460
+32,180
+The foregoing awards of RSUs are due to vest on February 21, 2024. The form of the RSU agreement as well as the RSU agreements for Messrs. Babeau and King are attached as Exhibits 10.1, 10.3 and 10.4, respectively, to this Item 5.02 of this Current Report on Form 8-K and incorporated by reference herein.
+The foregoing awards of PSUs are due to vest on February 21, 2024 at the end of a three-year (2021-2023) performance cycle only to the extent performance goals pre-established and pre-weighted by the Committee are achieved. The form of the PSU agreement as well as the PSU agreements for Messrs. Babeau and King are attached as Exhibits 10.2, 10.5 and 10.6, respectively, to this Item 5.02 of this Current Report on Form 8-K and incorporated by reference herein.
+_________________
+1
+Messrs. Marc Firestone and Miroslaw Zielinski retired during the fiscal year ended December 31, 2020, and their early retirement agreements and releases are described in the Company’s Current Reports on Form 8-K as filed with the U.S. Securities and Exchange Commission on November 6, 2020 and May 1, 2020, respectively.
+Annual Incentive Compensation Awards.
+The Committee approved annual incentive compensation awards for 2020, payable in cash, to the Company's named executive officers, as indicated below:
+Name
+CHF
+US$
+(a)
+André Calantzopoulos
+2,967,320
+3,289,156
+Emmanuel Babeau*
+994,950
+1,102,862
+Marc Firestone**
+963,910
+1,068,456
+Martin G. King
+684,450
+758,685
+Jacek Olczak
+1,620,000
+1,795,705
+* Pro-rated reflecting commencement of employment on May 1, 2020.
+** Pro-rated through early retirement date of October 31, 2020 pursuant to the terms of the early retirement agreement and release described in the Company's Current Report on Form 8-K filed with the U.S. Securities and Exchange Commission on November 6, 2020.
+(a) Annual incentive compensation awards are converted to U.S. dollars using the conversion rate on February 4, 2021 of CHF 1.00 = $1.10846.
+The annual incentive compensation awards were set based on a pre-established matrix formula employing six performance measures.
+As set forth in the Company’s Form 8-K filed with the U.S. Securities and Exchange Commission on December 10, 2020, Mr.
+André Calantzopoulos, who is currently serving as the Company’s Chief Executive Officer, will become Executive Chairman of the Board effective immediately before the 2021 Annual Meeting of Shareholders to be held on May 5, 2021 (the “Annual Meeting”) and will remain an employee of the Company. Mr. Jacek Olczak, who is currently serving as the Company's Chief Operating Officer, will succeed Mr. Calantzopoulos as Chief Executive Officer effective immediately after the Annual Meeting.
+
+In connection with the foregoing, on February 3, 2021, the Committee approved the following changes to the compensation of Messrs. Olczak and Calantzopoulos, effective May 5, 2021:
+Mr. Olczak will be promoted to salary grade 28. His base salary will be increased to CHF 1,350,000 (approximately $1,501,592).
+2
+Mr. Olczak’s annual incentive compensation award target will be at 200% of his new base salary. His equity award target will be at 600% of his new base salary (40% in the form of RSUs and 60% in the form of PSUs). Mr. Olczak’s stock ownership requirement will increase from 5 to 10 times his base salary.
+Recognizing the fact that, while he will fully assist in the management transition, Mr. Calantzopoulos will no longer have management responsibility of the Company, he will be removed from the Company's salary grade structure, and his base salary will be reduced from CHF 1,570,010 (approximately $1,746,306) to CHF 1,000,000 (approximately $1,112,290).
+2
+He will no longer be eligible for annual incentive compensation awards. Reflecting his role in assisting the Chief Executive Officer in long-term strategy, Mr. Calantzopoulos will remain eligible for equity compensation awards with a target of 300% of his new base salary (40% in the form of RSUs and 60% in the form of PSUs), compared to his current target of 600%. His stock ownership requirement will be maintained at 10 times his base salary.
+Compensation for Messrs. Calantzopoulos and Olczak for 2021 will be pro-rated to reflect the different positions held by each of them during the year.
+_________
+2
+Using the conversion rate on February 3, 2021 of CHF 1.00 = $1.11229.
+The Company will provide additional information regarding the compensation of its named executive officers in the Company’s proxy statement for the Annual Meeting, which will be issued in March 2021.
+Election of Directors
+Mr. Bonin Bough (age 43) was appointed to the Board of Directors effective February 4, 2021. He was appointed to the Finance and Consumer Relationships and Regulation Committees of the Board.
+Mr. Bough will be compensated for his service on the Company’s Board of Directors pursuant to the existing non-employee director compensation programs. These compensation programs are described in detail in the Company’s proxy statement dated March 26, 2020, and filed with the U.S. Securities and Exchange Commission on such date.
+Item 5.03.
+Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+Amendments to By-Laws
+Effective February 4, 2021, the Board of Directors of the Company amended Article II, Section 2, of the Company’s amended and restated by-laws in its entirety by deleting the current text that states “Effective immediately prior to the 2020 Annual Meeting of Shareholders, the number of directors constituting the Board of Directors shall be ten” and replacing such text with the following:
+The Board of Directors shall consist of not less than eight (8) and not more than fourteen (14) directors as fixed from time to time solely by resolution of a majority of the total number of directors then in office, though less than a quorum of the Board of Directors. Any decrease in the number of directors shall be effective at the time of the next succeeding annual meeting of the shareholders unless there shall be vacancies in the Board of Directors, in which case such decrease may become effective at any time prior to the next succeeding annual meeting to the extent of the number of such vacancies.
+The amended and restated by-laws are attached as Exhibit 3.1 to this Item 5.03 of this Current Report on Form 8-K and incorporated by reference herein.
+Item 7.01.
+Regulation FD Disclosure.
+On February 9, 2021, the Company issued a press release announcing the appointment of Mr. Bonin Bough to the Board of Directors.
+The press release is attached as Exhibit 99.1 to this Item 7.01 of this Current Report on Form 8-K and incorporated by reference herein.
+Item 9.01.
+Financial Statements and Exhibits.
+(d)
+Exhibits
+3.1
+Amended and Restated By-Laws
+.
+10.1
+Form of Restricted Stock Unit Agreement.
+10.2
+Form of Performance Stock Unit Agreement.
+10.3
+Restricted Stock Unit Agreement (Emmanuel Babeau).
+10.4
+Restricted Stock Unit Agreement (Martin G. King).
+10.5
+Performance Stock Unit Agreement (Emmanuel Babeau).
+10.6
+Performance Stock Unit Agreement (Martin G. King).
+99.1
+Philip Morris International Inc. Press Release dated February 9, 2021 (furnished pursuant to Item 7.01).
+104
+Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document and contained in Exhibit 101).
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+PHILIP MORRIS INTERNATIONAL INC.
+By:
+/s/ DARLENE QUASHIE HENRY
+Name:
+Darlene Quashie Henry
+Title:
+Vice President, Associate General Counsel & Corporate Secretary
+DATE: February 9, 2021

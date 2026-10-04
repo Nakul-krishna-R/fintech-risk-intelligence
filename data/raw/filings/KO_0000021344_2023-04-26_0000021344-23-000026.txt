@@ -1,0 +1,329 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+April 26, 2023 (
+April 25, 2023
+)
+COCA COLA CO
+
+(Exact name of Registrant as specified in its charter)
+Delaware
+001-02217
+58-0628465
+(State or other jurisdiction of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+One Coca-Cola Plaza
+Atlanta,
+Georgia
+30313
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code:
+(404)
+
+676-2121
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.25 Par Value
+KO
+New York Stock Exchange
+0.500% Notes Due 2024
+KO24
+New York Stock Exchange
+1.875% Notes Due 2026
+KO26
+New York Stock Exchange
+0.750% Notes Due 2026
+KO26C
+New York Stock Exchange
+1.125% Notes Due 2027
+KO27
+New York Stock Exchange
+0.125% Notes Due 2029
+KO29A
+New York Stock Exchange
+0.125% Notes Due 2029
+KO29B
+New York Stock Exchange
+0.400% Notes Due 2030
+KO30B
+New York Stock Exchange
+1.250% Notes Due 2031
+KO31
+New York Stock Exchange
+0.375% Notes Due 2033
+KO33
+New York Stock Exchange
+0.500% Notes Due 2033
+KO33A
+New York Stock Exchange
+1.625% Notes Due 2035
+KO35
+New York Stock Exchange
+1.100% Notes Due 2036
+KO36
+New York Stock Exchange
+0.950% Notes Due 2036
+KO36A
+New York Stock Exchange
+0.800% Notes Due 2040
+KO40B
+New York Stock Exchange
+1.000% Notes Due 2041
+KO41
+New York Stock Exchange
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act. ☐
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+(a)
+The Annual Meeting of Shareowners of the Company was held on Tuesday, April 25, 2023. The results of the matters submitted to a vote of the shareowners at the meeting are set forth below. Pursuant to Delaware law and the Company’s By-Laws, abstentions and broker non-votes are not considered votes cast and do not affect the outcome of the votes. Therefore, only votes for and against each matter are included in the percentages below.
+(b)
+Item 1. Election of Directors
+. Shareowners elected each of the persons named below as Directors for a term expiring in 2024 as follows (with Ms. Millhiser’s term commencing July 1, 2023):
+FOR
+% FOR
+AGAINST
+% AGAINST
+ABSTENTIONS
+BROKER NON-VOTES
+Herb Allen
+3,143,735,777
+99.40
+19,118,723
+0.60
+6,446,460
+505,076,089
+Marc Bolland
+3,060,004,765
+96.75
+102,935,155
+3.25
+6,361,242
+505,076,089
+Ana Botín
+3,080,418,730
+97.39
+82,680,190
+2.61
+6,201,956
+505,076,089
+Christopher C. Davis
+2,960,186,585
+93.61
+202,119,672
+6.39
+6,988,713
+505,076,089
+Barry Diller
+2,369,010,105
+74.90
+794,044,414
+25.10
+6,242,110
+505,076,089
+Carolyn Everson
+3,134,792,633
+99.11
+28,252,475
+0.89
+6,255,955
+505,076,089
+Helene D. Gayle
+3,051,998,179
+96.49
+111,144,669
+3.51
+6,158,315
+505,076,089
+Alexis M. Herman
+2,969,986,799
+93.89
+193,312,392
+6.11
+6,001,823
+505,076,089
+Maria Elena Lagomasino
+2,936,924,412
+92.96
+222,535,480
+7.04
+9,841,052
+505,076,089
+Amity Millhiser
+3,151,309,172
+99.63
+11,656,920
+0.37
+6,335,071
+505,076,089
+James Quincey
+2,918,835,005
+92.40
+240,042,624
+7.60
+10,423,005
+505,076,089
+Caroline J. Tsay
+3,119,206,625
+98.61
+43,877,034
+1.39
+6,217,503
+505,076,089
+David B. Weinberg
+3,086,692,882
+97.61
+75,675,008
+2.39
+6,933,272
+505,076,089
+Item 2. Advisory Vote to Approve Executive Compensation
+. Votes regarding this advisory proposal were as follows:
+Votes Cast For:
+2,841,765,788
+90.08
+%
+Votes Cast Against:
+312,877,380
+9.92
+%
+Abstentions:
+14,657,415
+Broker Non-Votes:
+505,076,089
+Item 3. Advisory Vote on the Frequency of Future Advisory Votes to Approve Executive Compensation
+. Votes regarding this advisory proposal were as follows:
+Votes Cast For One Year:
+3,116,090,868
+98.59
+%
+Votes Cast For Two Years:
+8,566,517
+0.27
+%
+Votes Cast For Three Years:
+35,958,708
+1.14
+%
+Abstentions:
+8,674,073
+Broker Non-Votes:
+505,076,089
+After considering these results, and consistent with its own recommendation, the Board of Directors has determined to continue to provide the Company’s shareowners with an annual advisory vote to approve executive compensation until the next vote on the frequency of such advisory votes.
+Item 4. Ratification of the Appointment of Ernst & Young LLP as Independent Auditors
+. Votes regarding this proposal were as follows:
+Votes Cast For:
+3,495,811,009
+95.34
+%
+Votes Cast Against:
+170,955,121
+4.66
+%
+Abstentions:
+7,610,322
+Broker Non-Votes:
+N/A
+Item 5. Shareowner Proposal Requesting an Audit of the Company’s Impact on Nonwhite Stakeholders
+. Votes regarding this proposal were as follows:
+Votes Cast For:
+517,847,507
+16.54
+%
+Votes Cast Against:
+2,613,244,391
+83.46
+%
+Abstentions:
+38,205,583
+Broker Non-Votes:
+505,076,089
+Item 6. Shareowner Proposal Requesting a Global Transparency Report
+. Votes regarding this proposal were as follows:
+Votes Cast For:
+427,350,943
+13.61
+%
+Votes Cast Against:
+2,712,323,285
+86.39
+%
+Abstentions:
+29,626,918
+Broker Non-Votes:
+505,076,089
+Item 7. Shareowner Proposal Regarding Political Expenditures Values Alignment
+. Votes regarding this proposal were as follows:
+Votes Cast For:
+913,744,315
+29.08
+%
+Votes Cast Against:
+2,228,571,148
+70.92
+%
+Abstentions:
+26,985,700
+Broker Non-Votes:
+505,076,089
+Item 8. Shareowner Proposal Requesting an Independent Board Chair Policy
+. Votes regarding this proposal were as follows:
+Votes Cast For:
+615,675,181
+19.81
+%
+Votes Cast Against:
+2,491,461,745
+80.19
+%
+Abstentions:
+62,164,235
+Broker Non-Votes:
+505,076,089
+Item 9. Shareowner Proposal Requesting a Report on Risks from State Policies Restricting Reproductive Rights
+. Votes regarding this proposal were as follows:
+Votes Cast For:
+406,436,966
+13.12
+%
+Votes Cast Against:
+2,692,066,904
+86.88
+%
+Abstentions:
+70,796,884
+Broker Non-Votes:
+505,076,089
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+THE COCA-COLA COMPANY
+(REGISTRANT)
+Date: April 26, 2023
+By:
+/s/ Monica Howard Douglas
+Monica Howard Douglas
+Senior Vice President and General Counsel

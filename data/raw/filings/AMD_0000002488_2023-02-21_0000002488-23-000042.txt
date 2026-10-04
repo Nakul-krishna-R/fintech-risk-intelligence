@@ -1,0 +1,105 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K/A
+
+(Amendment No. 1)
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+January 8, 2023
+Date of Report (Date of earliest event reported)
+ADVANCED MICRO DEVICES, INC.
+
+(Exact name of registrant as specified in its charter)
+Delaware
+001-07882
+94-1692300
+(State or other Jurisdiction of
+Incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification Number)
+2485 Augustine Drive
+
+Santa Clara
+,
+California
+
+95054
+
+(Address of principal executive offices) (Zip Code)
+(
+408
+)
+749-4000
+
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.01 par value
+AMD
+The Nasdaq Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On January 11, 2023, Advanced Micro Devices, Inc. (“
+AMD
+”) filed a Current Report on Form 8-K disclosing that Mr. Devinder Kumar would retire as Chief Financial Officer and Treasurer on January 23, 2023.
+AMD is filing this Current Report on Form 8-K/A to report that AMD entered into a Retirement Transition Agreement and General Release with Mr. Kumar on February 15, 2023 (the “
+Retirement Agreement
+”) in order to ensure a smooth transition and to recognize Mr. Kumar’s significant contributions over his long tenure with AMD. Mr. Kumar will remain with AMD as an Executive Vice President and employee through April 14, 2023 and will continue to receive his current base salary and employee benefits.
+
+Pursuant to the Retirement Agreement, upon his termination of employment, Mr. Kumar will receive:
+•
+Twelve (12) months of accelerated vesting with respect to his outstanding unvested time-based restricted stock units (“
+RSUs
+”) and stock options;
+•
+An extension of the period during which he may elect to exercise his vested and outstanding stock options (including any stock options that vest pursuant to the Retirement Agreement) until the earlier of the second anniversary of his termination date or the expiration date of stock option;
+•
+Deemed satisfaction of the service vesting conditions applicable to his 2020 performance-based restricted stock unit (“
+PRSU
+”) award, with the number of PRSUs to be earned determined based on actual performance for the three-year performance period ending August 9, 2023;
+•
+Deemed satisfaction of the service and performance vesting conditions with respect to a number of PRSUs covered by each of his 2021 and 2022 PRSU awards equal to the target number of PRSUs covered by the awards, prorated based on his separation date relative to the three (3)-year performance periods applicable to the awards; and
+•
+Payment for COBRA premiums for up to twelve (12) months following his separation, based on his coverage elections as of his separation date.
+In consideration of the separation benefits payable under the Retirement Agreement, Mr. Kumar must agree to release us from all claims and liabilities under federal and state laws arising prior to his separation date.
+
+The above summary of the Retirement Agreement does not purport to be complete and is qualified in its entirety by reference to the Retirement Agreement, a copy of which is filed as Exhibit 10.1 to this Current Report on Form 8-K and incorporated herein by reference.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits.
+EXHIBIT INDEX
+Exhibit No.
+Description
+10.1
+Retirement Transition Agreement and General Release dated February 15, 2023 between Advanced Micro Devices, Inc. and Devinder Kumar
+104
+Inline XBRL for the cover page of this Current Report on Form 8-K/A
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Date: February 21, 2023
+ADVANCED MICRO DEVICES, INC.
+By:
+/s/ Harry Wolin
+Name:
+Harry A. Wolin
+Title:
+Senior Vice President, General Counsel and Corporate Secretary

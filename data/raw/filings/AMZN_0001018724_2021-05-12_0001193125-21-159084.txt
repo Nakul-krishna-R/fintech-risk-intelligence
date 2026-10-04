@@ -1,0 +1,241 @@
+Table of Contents
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+May 12, 2021
+
+Date of Report
+
+(Date of earliest event reported)
+
+AMAZON.COM, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+000-22513
+
+91-1646860
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+
+410 Terry Avenue North
+,
+Seattle
+,
+Washington
+
+98109-5210
+
+(Address of principal executive offices, including Zip Code)
+
+(206)
+
+266-1000
+
+(Registrant’s telephone number, including area code)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+
+Trading Symbol(s)
+
+Name of Each Exchange on Which Registered
+
+Common Stock, par value $.01 per share
+
+AMZN
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Table of Contents
+
+TABLE OF CONTENTS
+
+ITEM 8.01. OTHER EVENTS.
+
+3
+
+ITEM 9.01. FINANCIAL STATEMENTS AND EXHIBITS.
+
+4
+
+SIGNATURES
+
+5
+
+EXHIBIT 1.1
+
+EXHIBIT 4.1
+
+EXHIBIT 4.2
+
+EXHIBIT 4.3
+
+EXHIBIT 4.4
+
+EXHIBIT 4.5
+
+EXHIBIT 4.6
+
+EXHIBIT 4.7
+
+EXHIBIT 4.8
+
+EXHIBIT 4.9
+
+EXHIBIT 5.1
+
+EXHIBIT 23.1
+
+2
+
+Table of Contents
+
+ITEM 8.01. OTHER EVENTS.
+
+On May 12, 2021, Amazon.com, Inc. (the “Company”) closed the sale of $1,000,000,000 aggregate principal amount of its 0.250% notes due 2023 (the “2023 Notes” or the “Sustainability Notes”), $2,500,000,000 aggregate principal amount of its 0.450% notes due 2024 (the “2024 Notes”), $2,750,000,000 aggregate principal amount of its 1.000% notes due 2026 (the “2026 Notes”), $2,250,000,000 aggregate principal amount of its 1.650% notes due 2028 (the “2028 Notes”), $3,000,000,000 aggregate principal amount of its 2.100% notes due 2031 (the “2031 Notes”), $2,000,000,000 aggregate principal amount of its 2.875% notes due 2041 (the “2041 Notes”), $3,250,000,000 aggregate principal amount of its 3.100% notes due 2051 (the “2051 Notes”), and $1,750,000,000 aggregate principal amount of its 3.250% notes due 2061 (the “2061 Notes” and, together with the 2023 Notes, 2024 Notes, 2026 Notes, 2028 Notes, 2031 Notes, 2041 Notes, and 2051 Notes, the “Notes”) pursuant to an underwriting agreement dated May 10, 2021 (the “Underwriting Agreement”) among the Company and J.P. Morgan Securities LLC, Citigroup Global Markets Inc., Morgan Stanley & Co. LLC, and Wells Fargo Securities, LLC, as managers of the several underwriters named in Schedule II therein. The sale of the Notes was registered under the Company’s registration statement on Form
+S-3
+filed on June 1, 2020 (File
+No. 333-238831).
+As noted below, an affiliate of Wells Fargo Securities, LLC acts as the trustee under the Company’s Indenture (as defined below).
+
+The aggregate public offering price of the Notes was $18.437 billion and the estimated net proceeds from the offering were approximately $18.395 billion, after deducting underwriting discounts from the public offering price and before deducting offering expenses payable by us. The Notes were issued pursuant to an indenture dated as of November 29, 2012 (the “Indenture”) between the Company and Wells Fargo Bank, National Association, as trustee (the “Trustee”), together with the officers’ certificate dated as of May 12, 2021 issued pursuant thereto establishing the terms of each series of the Notes (the “Officers’ Certificate”).
+
+The Company intends to allocate an amount equal to the net proceeds from the sale of the Sustainability Notes to finance or refinance, in whole or in part, green or social Eligible Projects (as defined in the Company’s prospectus supplement dated as of May 10, 2021, which was filed with the Securities and Exchange Commission on May 12, 2021).
+
+The foregoing descriptions of the Underwriting Agreement and the Officers’ Certificate are qualified in their entirety by the terms of such agreements, which are filed as Exhibit 1.1 and Exhibit 4.1, respectively, and incorporated herein by reference. The foregoing description of the Notes is qualified in its entirety by reference to the full text of the form of 2023 Note, form of 2024 Note, form of 2026 Note, form of 2028 Note, form of 2031 Note, form of 2041 Note, form of 2051 Note, and form of 2061 Note, which are filed hereto as Exhibit 4.2, Exhibit 4.3, Exhibit 4.4, Exhibit 4.5, Exhibit 4.6, Exhibit 4.7, Exhibit 4.8, and Exhibit 4.9, respectively, and incorporated herein by reference.
+
+3
+
+Table of Contents
+
+ITEM 9.01. FINANCIAL STATEMENTS AND EXHIBITS.
+
+(d) Exhibits.
+
+Exhibit
+Number
+
+Description
+
+1.1
+
+Underwriting Agreement, dated as of May 10, 2021, among Amazon.com, Inc. and J.P. Morgan Securities LLC, Citigroup Global Markets Inc., Morgan Stanley & Co. LLC, and Wells Fargo Securities, LLC, as managers of the several underwriters named in Schedule II therein.
+
+4.1
+
+Officers’ Certificate of Amazon.com, Inc., dated as of May 12, 2021.
+
+4.2
+
+Form of 0.250% Note due 2023 (included in Exhibit 4.1).
+
+4.3
+
+Form of 0.450% Note due 2024 (included in Exhibit 4.1).
+
+4.4
+
+Form of 1.000% Note due 2026 (included in Exhibit 4.1).
+
+4.5
+
+Form of 1.650% Note due 2028 (included in Exhibit 4.1).
+
+4.6
+
+Form of 2.100% Note due 2031 (included in Exhibit 4.1).
+
+4.7
+
+Form of 2.875% Note due 2041 (included in Exhibit 4.1).
+
+4.8
+
+Form of 3.100% Note due 2051 (included in Exhibit 4.1).
+
+4.9
+
+Form of 3.250% Note due 2061 (included in Exhibit 4.1).
+
+5.1
+
+Opinion of Gibson, Dunn & Crutcher LLP.
+
+23.1
+
+Consent of Gibson, Dunn & Crutcher LLP (included in Exhibit 5.1).
+
+104
+
+The cover page from this Current Report on Form
+8-K,
+formatted in Inline XBRL (included as Exhibit 101).
+
+4
+
+Table of Contents
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+AMAZON.COM, INC. (REGISTRANT)
+
+By:
+
+/s/ Antonio Masone
+
+Dated: May 12, 2021
+
+Antonio Masone
+
+Vice President and Treasurer
+
+5

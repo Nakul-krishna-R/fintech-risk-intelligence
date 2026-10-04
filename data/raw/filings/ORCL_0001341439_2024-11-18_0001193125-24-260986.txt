@@ -1,0 +1,266 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+November 14, 2024
+
+Oracle Corporation
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-35992
+
+54-2185193
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+2300 Oracle Way
+,
+Austin
+,
+Texas
+
+78741
+
+(Address of principal executive offices) (Zip Code)
+
+(737)
+
+867-1000
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock, par value $0.01 per share
+
+ORCL
+
+New York Stock Exchange
+
+3.125% senior notes due July 2025
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Section 5—Corporate Governance and Management
+
+Item 5.07 Submission of Matters to a Vote of Security Holders
+
+On November 14, 2024, Oracle Corporation (“Oracle”) held its 2024 Annual Meeting of Stockholders (the “Annual Meeting”). Below is a brief description of each matter submitted to a vote at the Annual Meeting, as well as the final voting results with respect to each matter. For more information about these proposals, please refer to Oracle’s definitive proxy statement filed with the U.S. Securities and Exchange Commission on September 25, 2024.
+
+Proposal No.
+1: Election of Directors
+
+The stockholders elected each of the following persons as a director to hold office until the 2025 Annual Meeting of Stockholders and until his or her successor is elected and qualified, or until his or her earlier resignation or removal.
+
+Director Nominee
+
+Votes For
+
+Votes Withheld
+
+Broker Non-Votes
+
+Awo Ablo
+
+2,300,385,739
+
+21,926,604
+
+250,464,124
+
+Jeffrey S. Berg
+
+1,859,138,624
+
+463,173,719
+
+250,464,124
+
+Michael J. Boskin
+
+2,140,398,571
+
+181,913,772
+
+250,464,124
+
+Safra A. Catz
+
+2,241,298,667
+
+81,013,676
+
+250,464,124
+
+Bruce R. Chizen
+
+1,856,043,824
+
+466,268,519
+
+250,464,124
+
+George H. Conrades
+
+2,080,008,225
+
+242,304,118
+
+250,464,124
+
+Lawrence J. Ellison
+
+2,275,340,897
+
+46,971,446
+
+250,464,124
+
+Rona A. Fairhead
+
+2,278,263,025
+
+44,049,318
+
+250,464,124
+
+Jeffrey O. Henley
+
+2,254,569,493
+
+67,742,850
+
+250,464,124
+
+Charles W. Moorman
+
+2,187,168,934
+
+135,143,409
+
+250,464,124
+
+Leon E. Panetta
+
+1,854,738,819
+
+467,573,524
+
+250,464,124
+
+William G. Parrett
+
+1,940,282,368
+
+382,029,975
+
+250,464,124
+
+Naomi O. Seligman
+
+2,112,996,591
+
+209,315,752
+
+250,464,124
+
+Proposal No.
+2: Advisory Vote to Approve the Compensation of Oracle’s Named Executive Officers
+
+The stockholders cast an advisory vote approving the compensation of Oracle’s named executive officers as follows: 1,806,791,973 shares in favor, 508,390,449 shares against, 7,129,921 shares abstaining and 250,464,124 broker
+non-votes.
+
+Proposal No.
+3: Ratification of Selection of Independent Registered Public Accounting Firm
+
+The stockholders ratified the appointment of Ernst & Young LLP as Oracle’s independent registered public accounting firm for the fiscal year ending May 31, 2025, with 2,512,534,467 shares in favor, 56,267,628 shares against and 3,974,372 shares abstaining.
+
+Proposal No.
+4: Stockholder Proposal Regarding a Report on Climate Risks to Retirement Plan Beneficiaries
+
+The stockholders did not approve a stockholder proposal requesting that Oracle prepare a report on climate risks to retirement plan beneficiaries, with 119,105,093 shares in favor, 2,140,684,293 shares against, 62,522,957 shares abstaining and 250,464,124 broker
+non-votes.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ORACLE CORPORATION
+
+Dated: November 18, 2024
+
+By:
+
+/s/ Kimberly Woolley
+
+Name: Kimberly Woolley
+
+Title: Vice President, Assistant General Counsel and
+Assistant Secretary

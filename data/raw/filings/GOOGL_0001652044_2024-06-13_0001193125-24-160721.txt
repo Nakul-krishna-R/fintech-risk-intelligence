@@ -1,0 +1,506 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported)
+June 7, 2024
+
+ALPHABET INC.
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-37580
+
+61-1767919
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+1600 Amphitheatre Parkway
+Mountain View
+,
+CA
+
+94043
+(Address of principal executive offices, including zip code)
+(
+650
+)
+253-0000
+(Registrant’s telephone number, including area code)
+Not Applicable
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Class A Common Stock, $0.001 par value
+
+GOOGL
+
+Nasdaq Stock Market LLC
+
+(Nasdaq Global Select Market)
+
+Class C Capital Stock, $0.001 par value
+
+GOOG
+
+Nasdaq Stock Market LLC
+
+(Nasdaq Global Select Market)
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.07.
+
+Submission of Matters to a Vote of Security Holders.
+
+At the Annual Meeting of Stockholders of Alphabet Inc. (“
+Alphabet
+”) held on June 7, 2024 (the “
+2024 Annual Meetin
+g”), Alphabet’s stockholders voted on fourteen proposals as set forth below, all of which are described in detail in Alphabet’s definitive proxy statement on Form 14A filed with the U.S. Securities and Exchange Commission on April 26, 2024 (the “
+2024 Proxy Statement
+”). Holders of the shares of Class A common stock were entitled to one vote per share held as of the close of business on April 9, 2024 (the “
+Record Date
+”) and holders of the shares of Class B common stock were entitled to ten votes per share held as of the Record Date. Holders of the shares of Class A common stock and holders of the shares of Class B common stock voted together as a single class on all matters (including the election of directors) submitted to a vote of stockholders at the 2024 Annual Meeting. The number of votes cast for and against and the number of abstentions and broker
+non-votes
+with respect to each matter voted upon are set forth below.
+1. The individuals listed below were elected at the 2024 Annual Meeting to serve as directors of Alphabet until the next annual meeting of stockholders or until their respective successors have been duly elected and qualified:
+
+Director Nominee
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+Larry Page
+
+12,400,507,912
+
+247,959,437
+
+3,988,926
+
+584,773,150
+
+Sergey Brin
+
+12,400,675,664
+
+247,747,348
+
+4,033,263
+
+584,773,150
+
+Sundar Pichai
+
+12,463,917,269
+
+183,878,409
+
+4,660,597
+
+584,773,150
+
+John L. Hennessy
+
+10,506,960,562
+
+2,133,340,772
+
+12,154,941
+
+584,773,150
+
+Frances H. Arnold
+
+11,172,122,754
+
+1,474,814,286
+
+5,519,235
+
+584,773,150
+
+R. Martin “Marty” Chávez
+
+12,555,102,460
+
+91,221,825
+
+6,131,990
+
+584,773,150
+
+L. John Doerr
+
+10,910,364,774
+
+1,735,826,984
+
+6,264,517
+
+584,773,150
+
+Roger W. Ferguson Jr.
+
+12,500,632,560
+
+145,773,092
+
+6,050,623
+
+584,773,150
+
+K. Ram Shriram
+
+10,988,363,051
+
+1,657,829,583
+
+6,263,641
+
+584,773,150
+
+Robin L. Washington
+
+10,933,643,709
+
+1,708,372,427
+
+10,440,139
+
+584,773,150
+
+2. The ratification of the appointment of Ernst & Young LLP as Alphabet’s independent registered public accounting firm for the fiscal year ending December 31, 2024 was approved. There were no broker
+non-votes
+on this matter.
+
+For
+
+Against
+
+Abstentions
+
+12,902,023,738
+
+329,291,800
+
+5,913,887
+
+2
+
+3. A stockholder proposal regarding “Bylaw amendment: stockholder approval of director compensation” was not approved.
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+76,397,228
+
+12,547,705,720
+
+28,353,327
+
+584,773,150
+
+4. A stockholder proposal regarding an EEO policy risk report was not approved.
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+28,683,052
+
+12,587,699,628
+
+36,073,595
+
+584,773,150
+
+5. A stockholder proposal regarding a report on electromagnetic radiation and wireless technologies risks was not approved.
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+103,784,542
+
+12,493,375,195
+
+55,296,538
+
+584,773,150
+
+6. A stockholder proposal regarding a policy for director transparency on political and charitable giving was not approved.
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+35,754,406
+
+12,597,275,138
+
+19,426,731
+
+584,773,150
+
+7. A stockholder proposal regarding a report on climate risks to retirement plan beneficiaries was not approved.
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+462,115,889
+
+11,814,630,531
+
+375,709,855
+
+584,773,150
+
+8. A stockholder proposal regarding a lobbying report was not approved.
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+1,927,513,885
+
+10,628,195,314
+
+96,747,076
+
+584,773,150
+
+3
+
+9. A stockholder proposal regarding equal shareholder voting was not approved.
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+3,957,900,469
+
+8,675,994,919
+
+18,560,887
+
+584,773,150
+
+10. A stockholder proposal regarding a report on reproductive healthcare misinformation risks was not approved.
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+811,397,714
+
+11,784,118,483
+
+56,940,078
+
+584,773,150
+
+11. A stockholder proposal regarding AI principles and Board oversight was not approved.
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+934,927,468
+
+11,693,251,050
+
+24,277,757
+
+584,773,150
+
+12. A stockholder proposal regarding a report on generative AI misinformation and disinformation risks was not approved.
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+2,222,509,279
+
+10,395,758,258
+
+34,188,738
+
+584,773,150
+
+13. A stockholder proposal regarding a human rights assessment of
+AI-driven
+targeted ad policies was not approved.
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+2,342,253,100
+
+10,275,882,466
+
+34,320,709
+
+584,773,150
+
+14. A stockholder proposal regarding a report on online safety for children was not approved.
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+1,788,616,887
+
+10,768,198,081
+
+95,641,307
+
+584,773,150
+
+4
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ALPHABET INC.
+
+June 13, 2024
+
+/s/ Kathryn W. Hall
+
+Kathryn W. Hall
+
+Assistant Secretary
+
+5

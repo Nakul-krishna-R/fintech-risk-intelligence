@@ -1,0 +1,272 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported):
+May 16, 2023
+
+Tesla, Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+Delaware
+
+001-34756
+
+91-2197729
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+1 Tesla Road
+
+Austin
+,
+Texas
+
+78725
+
+(Address of Principal Executive Offices, and Zip Code)
+
+(
+512
+)
+516-8177
+
+Registrant’s Telephone Number, Including Area Code
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+
+☐
+
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communication pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communication pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock
+
+TSLA
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 5.07
+Submission of Matters to a Vote of Security Holders.
+
+At Tesla, Inc.’s (“
+Tesla
+”) 2023 Annual Meeting of Stockholders (the “
+Annual Meeting
+”) held on May 16, 2023, Tesla’s stockholders voted on the following six proposals and Tesla’s inspector of election certified the vote tabulations indicated below
+.
+
+Proposal 1
+
+The individuals listed below were elected as Class I directors at the Annual Meeting to serve on Tesla’s Board of Directors (“
+Board
+”) for a term of three years or until their respective successors are duly elected and qualified.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Votes
+
+Elon Musk
+
+1,804,966,970
+
+86,064,052
+
+2,036,265
+
+526,990,497
+
+Robyn Denholm
+
+1,399,563,540
+
+482,406,961
+
+11,096,787
+
+526,990,497
+
+JB Straubel
+
+1,629,080,812
+
+261,498,153
+
+2,488,323
+
+526,990,497
+
+Proposal 2
+
+Proposal 2 was a management proposal to approve executive compensation on a non-binding advisory basis. This proposal was approved.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Votes
+
+1,714,112,661
+
+172,116,060
+
+6,838,566
+
+526,990,497
+
+Proposal 3
+
+Proposal 3 was a management proposal to approve the frequency of future votes on executive compensation on a non-binding advisory basis. “1 Year” was approved. The Board will consider the results of this non-binding advisory vote, and make its recommendation for the frequency of future votes on executive compensation prior to the applicable deadline.
+
+1 Year
+
+2 Years
+
+3 Years
+
+Abstained
+
+Broker Non-Votes
+
+1,053,432,376
+
+6,787,189
+
+801,283,053
+
+31,564,360
+
+526,990,497
+
+Proposal 4
+
+Proposal 4 was a management proposal to ratify the appointment of PricewaterhouseCoopers LLP as the Company’s independent registered public accounting firm for the fiscal year ending December 31, 2023. This proposal was approved.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Votes
+
+2,389,300,488
+
+26,447,821
+
+4,309,476
+
+0
+
+Proposal 5
+
+Proposal 5 was a non-binding advisory stockholder proposal regarding reporting on key-person risk. This proposal was not approved.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Votes
+
+109,763,690
+
+1,768,867,381
+
+14,436,216
+
+526,990,497
+
+Proposal 6
+
+Proposal 6 was a stockholder proposal raised from the floor regarding reporting on child labor and forced labor. This proposal was not approved.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Votes
+
+0
+
+2,420,047,519
+
+0
+
+0
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+TESLA, INC.
+
+By:
+
+/s/ Zachary J. Kirkhorn
+
+Zachary J. Kirkhorn
+
+Chief Financial Officer
+
+Date: May 22, 2023

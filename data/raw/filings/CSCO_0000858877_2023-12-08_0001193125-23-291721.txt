@@ -1,0 +1,389 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+December 6, 2023
+
+CISCO SYSTEMS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-39940
+
+77-0059951
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+Identification No.)
+
+170 West Tasman Drive
+,
+San Jose
+,
+California
+
+95134-1706
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(408)
+
+526-4000
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.001 per share
+
+CSCO
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934 (§
+240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02.
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+Amendment and Restatement of the 2005 Stock Incentive Plan
+
+At the Annual Meeting of Stockholders (the “Meeting”) of Cisco Systems, Inc. (“Cisco”) held on December 6, 2023, Cisco’s stockholders approved the amendment and restatement of the Cisco 2005 Stock Incentive Plan (as amended and restated, the “Amended Stock Plan”). The Amended Stock Plan was approved by Cisco’s Board of Directors (the “Board”) on October 5, 2023, subject to the approval of Cisco’s stockholders, and became effective with such stockholder approval on December 6, 2023.
+
+As a result of such stockholder approval, the Amended Stock Plan was materially amended and modified to increase the number of shares authorized for issuance thereunder by 80.575 million shares. The Amended Stock Plan will expire on the date of the 2030 Annual Meeting. Except for this increase, the terms of the Amended Stock Plan remain unchanged.
+
+A more complete description of the terms of the Amended Stock Plan and the material amendments and modifications thereto can be found in “Compensation Committee Matters — Proposal No. 2 — Approval of the Amendment and Restatement of the 2005 Stock Incentive Plan” (pages 27 through 36) in Cisco’s definitive proxy statement dated October 12, 2023, and filed with the Securities and Exchange Commission on October 17, 2023 (the “Proxy Statement”), which description is incorporated by reference herein. The foregoing descriptions and the description incorporated by reference from the Proxy Statement are qualified in their entirety by reference to the Amended Stock Plan, a copy of which is filed as Exhibit 10.1 to this report.
+
+Item 5.07.
+
+Submission of Matters to a Vote of Security Holders.
+
+At the Meeting, Cisco’s stockholders voted on the following six proposals and cast their votes as follows:
+
+Proposal 1: To elect nine members of Cisco’s Board:
+
+Nominee
+
+For
+
+Against
+
+Abstained
+
+Broker
+Non-Votes
+
+Wesley G. Bush
+
+2,767,447,290
+
+74,809,137
+
+10,411,420
+
+452,387,082
+
+Michael D. Capellas
+
+2,599,433,811
+
+242,756,373
+
+10,477,663
+
+452,387,082
+
+Mark Garrett
+
+2,730,381,457
+
+111,796,139
+
+10,490,251
+
+452,387,082
+
+John D. Harris II
+
+2,758,475,281
+
+83,607,252
+
+10,585,314
+
+452,387,082
+
+Dr. Kristina M. Johnson
+
+2,685,395,636
+
+157,182,348
+
+10,089,863
+
+452,387,082
+
+Sarah Rae Murphy
+
+2,821,114,401
+
+21,379,886
+
+10,173,560
+
+452,387,082
+
+Charles H. Robbins
+
+2,604,156,158
+
+226,179,566
+
+22,332,123
+
+452,387,082
+
+Daniel H. Schulman
+
+2,825,102,141
+
+17,093,487
+
+10,472,219
+
+452,387,082
+
+Marianna Tessel
+
+2,829,782,522
+
+12,804,280
+
+10,081,045
+
+452,387,082
+
+Proposal 2: To approve the amendment and restatement of the Cisco 2005 Stock Incentive Plan:
+
+For
+
+Against
+
+Abstained
+
+Broker
+Non-Votes
+
+2,678,976,678
+
+155,326,172
+
+18,364,997
+
+452,387,082
+
+Proposal 3: To approve, on an advisory basis, executive compensation:
+
+For
+
+Against
+
+Abstained
+
+Broker
+Non-Votes
+
+2,123,293,848
+
+709,240,188
+
+20,133,811
+
+452,387,082
+
+Proposal 4: To determine, on a
+non-binding
+advisory basis, the frequency of holding future votes regarding executive compensation:
+
+1 Year
+
+2 Years
+
+3 Years
+
+Abstained
+
+Broker
+Non-Votes
+
+2,799,940,790
+
+4,917,383
+
+36,413,747
+
+11,395,927
+
+452,387,082
+
+Based on the results of the vote, and consistent with the Board’s recommendation, the Board has determined to hold a
+non-binding
+advisory vote regarding executive compensation every year until the next required
+non-binding
+advisory vote on the frequency of holding future votes regarding executive compensation.
+
+Proposal 5: To ratify the appointment of PricewaterhouseCoopers LLP as Cisco’s independent registered public accounting firm for the fiscal year ending July 27, 2024:
+
+For
+
+Against
+
+Abstained
+
+Broker
+Non-Votes
+
+3,101,299,574
+
+194,104,732
+
+9,650,623
+
+0
+
+Proposal 6: A stockholder proposal to have Cisco’s Board issue a tax transparency report in consideration of the Global Reporting Initiative’s Tax Standard:
+
+For
+
+Against
+
+Abstained
+
+Broker
+Non-Votes
+
+680,344,069
+
+2,023,446,198
+
+148,877,580
+
+452,387,082
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+
+Number
+
+Description of Document
+
+10.1
+
+Cisco Systems, Inc. 2005 Stock Incentive Plan (including related form agreements)
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+CISCO SYSTEMS, INC.
+
+Dated: December 8, 2023
+
+By:
+
+/s/ Evan Sloves
+
+Name:
+
+Evan Sloves
+
+Title:
+
+Secretary

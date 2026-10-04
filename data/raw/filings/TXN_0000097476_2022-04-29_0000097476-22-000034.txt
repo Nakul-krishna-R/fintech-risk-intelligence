@@ -1,0 +1,181 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+DATE OF REPORT (DATE OF EARLIEST EVENT REPORTED):
+April 28, 2022
+TEXAS INSTRUMENTS INCORPORATED
+(Exact name of registrant as specified in charter)
+DELAWARE
+
+001-03761
+
+75-0289970
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+file number)
+
+(I.R.S. employer
+identification no.)
+12500 TI BOULEVARD
+DALLAS
+, TEXAS
+75243
+(Address of principal executive offices)
+Registrant’s telephone number, including area code: (
+214
+)
+479-3773
+
+Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange on which registered
+Common Stock, par value $1.00
+
+TXN
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+ITEM 5.07. Submission of Matters to a Vote of Security Holders
+
+At the annual meeting of stockholders held on April 28, 2022, the stockholders elected the Board of Directors of Texas Instruments Incorporated and voted upon the proposals contained within our Proxy Statement dated March 15, 2022.
+The Board nominees were elected with the following vote:
+Nominee
+For
+Against
+Abstentions
+Broker Non-Votes
+Mark A. Blinn
+733,411,007
+11,597,137
+1,621,600
+66,809,688
+Todd M. Bluedorn
+737,107,310
+7,887,090
+1,635,344
+66,809,688
+Janet F. Clark
+737,011,536
+8,019,620
+1,598,588
+66,809,688
+Carrie S. Cox
+636,298,867
+108,723,702
+1,607,175
+66,809,688
+Martin S. Craighead
+735,398,001
+9,557,130
+1,674,613
+66,809,688
+Jean M. Hobby
+740,699,338
+4,327,512
+1,602,894
+66,809,688
+Michael D. Hsu
+703,632,094
+34,103,172
+8,894,478
+66,809,688
+Haviv Ilan
+735,092,465
+9,887,144
+1,650,135
+66,809,688
+Ronald Kirk
+723,184,475
+14,470,860
+8,974,409
+66,809,688
+Pamela H. Patsley
+636,492,855
+108,522,645
+1,614,244
+66,809,688
+Robert E. Sanchez
+729,412,422
+15,597,125
+1,620,197
+66,809,688
+Richard K. Templeton
+697,833,154
+45,408,096
+3,388,494
+66,809,688
+The stockholders voted on the following proposals and cast their votes as described below:
+Proposal
+For
+Against
+Abstentions
+Broker Non-Votes
+Board proposal regarding advisory approval of the company’s executive compensation
+621,672,336
+123,392,323
+1,565,085
+66,809,688
+Proposal
+For
+Against
+Abstentions
+Broker Non-Votes
+Board proposal to ratify the appointment of Ernst & Young LLP as the company’s independent registered public accounting firm for 2022
+759,222,315
+47,002,559
+7,214,558
+0
+Proposal
+For
+Against
+Abstentions
+Broker Non-Votes
+Stockholder proposal to permit a combined 10% of stockholders to call a special meeting
+352,917,545
+391,448,191
+2,264,008
+66,809,688
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+TEXAS INSTRUMENTS INCORPORATED
+
+Date: April 29, 2022
+
+By:
+
+/s/ Cynthia Hoff Trochu
+
+Cynthia Hoff Trochu
+
+Senior Vice President, Secretary and
+
+General Counsel

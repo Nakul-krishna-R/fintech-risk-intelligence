@@ -1,0 +1,100 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+__________________________________
+FORM
+8-K
+
+__________________________________
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+December 19, 2021
+
+__________________________________
+NETFLIX, INC.
+(Exact name of registrant as specified in its charter)
+__________________________________
+Delaware
+001-35727
+77-0467272
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+100 Winchester Circle
+,
+Los Gatos
+,
+California
+95032
+(Address of principal executive offices)
+(Zip Code)
+(
+408
+)
+540-3700
+
+(Registrant’s telephone number, including area code)
+(Former name or former address, if changed since last report)
+__________________________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, par value $0.001 per share
+NFLX
+NASDAQ Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02 (e) Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+Compensation for Named Executive Officers
+The Compensation Committee of the Board of Directors (the “Committee”) of Netflix, Inc. (the "Company") has established the annual salaries and stock option allocation for 2022 for the Company’s Named Executive Officers. These salaries and stock option allocation are as follows:
+ANNUAL SALARY
+ANNUAL STOCK OPTION ALLOCATION
+Reed Hastings, Co-Chief Executive Officer and Chairman of the Board
+$
+650,000
+$
+34,000,000
+Ted Sarandos, Co-Chief Executive Officer and Chief Content Officer
+20,000,000
+20,000,000
+Spencer Neumann, Chief Financial Officer
+7,000,000
+7,000,000
+Greg Peters, Chief Operating Officer and Chief Product Officer
+16,000,000
+8,000,000
+David Hyman, Chief Legal Officer and Secretary
+6,000,000
+5,000,000
+Rachel Whetstone, Chief Communications Officer
+5,500,000
+1,000,000
+The number of options to be granted each month is determined by the following formula: (annual stock option allocation ÷ 12) / ([Fair Market Value on the date of grant] * 0.40). Each monthly grant shall be made on the first trading day of the month, shall be fully vested upon grant and shall be exercisable at a strike price equal to the Fair Market Value (as defined in the Company’s 2020 Stock Plan) on the date of grant. The options will be subject to the terms and conditions of the Company’s 2020 Stock Plan and will be administered on a non-discretionary basis without further action by the Board of Directors or the Committee, provided that only the Board of Directors or the Committee may change the amount or terms of future grants. These stock options are fully vested upon grant and can generally be exercised up to 10 years following the date of grant, regardless of employment status.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+NETFLIX, INC.
+Date:
+December 21, 2021
+/s/ David Hyman
+David Hyman
+Chief Legal Officer

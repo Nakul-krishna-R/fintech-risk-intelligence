@@ -1,0 +1,171 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+September 23, 2021
+
+Date of Report (date of earliest event reported)
+
+salesforce.com, inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-32224
+
+94-3320693
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+Salesforce Tower
+
+415 Mission Street
+,
+3rd Fl
+
+San Francisco
+,
+California
+
+94105
+
+(Address of principal executive offices)
+
+Registrant’s telephone number, including area code:
+(415)
+
+901-7000
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A 2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.001 per share
+
+CRM
+
+New York Stock Exchange, Inc.
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On September 23, 2021, salesforce.com, inc. (the “Company”), in connection with the Company’s September 23, 2021 Investor Day event, issued a press release regarding revenue guidance for fiscal year 2022 and fiscal year 2023 and
+non-GAAP
+operating margin guidance for fiscal 2023. A copy of the press release is included with this Form
+8-K
+for convenience and attached hereto as Exhibit 99.1.
+
+The information in this current report on Form
+8-K
+and the exhibit attached hereto shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”) or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, regardless of any general incorporation language in such filing.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit No.
+
+Description
+
+99.1
+
+Salesforce.com, inc. press release dated September 23, 2021
+
+104
+
+Cover Page Interactive Data File—the cover page XBRL tags are embedded within the Inline XBRL document
+
+Signature
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated: September 23, 2021
+
+salesforce.com, inc.
+
+/s/ Amy Weaver
+
+Amy Weaver
+
+President and Chief Financial Officer
+
+(Principal Financial Officer)

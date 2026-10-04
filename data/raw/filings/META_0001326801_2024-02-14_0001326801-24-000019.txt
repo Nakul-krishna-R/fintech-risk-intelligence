@@ -1,0 +1,85 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+February 13, 2024
+
+Meta Platforms, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+001-35551
+20-1665019
+(State or Other Jurisdiction
+of Incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+1 Meta Way
+,
+Menlo Park
+,
+California
+
+94025
+
+(Address of principal executive offices and Zip Code)
+(
+650
+)
+543-4800
+
+(Registrant’s telephone number, including area code)
+N/A
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A Common Stock, $0.000006 par value
+META
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On February 13, 2024, the Board of Directors (the "Board") of Meta Platforms, Inc. (the "Company") elected John Arnold and Hock Tan as members of the Board, effective immediately. The Board also appointed Messrs. Arnold and Tan as members of the Audit & Risk Oversight Committee of the Board, effective immediately. A copy of the press release announcing the elections is attached as Exhibit 99.1 to this report. The Board has determined that each of Messrs. Arnold and Tan qualifies as an independent director under the corporate governance standards of the Nasdaq Stock Market LLC. Each of Messrs. Arnold and Tan will receive compensation for his service as a non-employee member of the Board as set forth in the Company's Director Compensation Policy.
+There are no arrangements or understandings between either of Messrs. Arnold or Tan and any other person pursuant to which each of Messrs. Arnold and Tan was selected as a director, and there are no transactions in which the Company is a party and in which Mr. Arnold has a material interest subject to disclosure under Item 404(a) of Regulation S-K. Mr. Tan is the president and chief executive officer of Broadcom Inc. ("Broadcom"). The Company is a party to certain arrangements with Broadcom, whereby the Company directly and indirectly purchases Broadcom’s component products. The Company is also a party to certain other arrangements with Broadcom whereby Broadcom provides it with services such as design, development and engineering and the Company pays Broadcom directly for these services. In 2023, the total amount paid to Broadcom under these arrangements was approximately $500.4 million.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit Number
+Exhibit Title or Description
+99.1
+Press release dated February 14, 2024
+104
+Cover Page Interactive Data File (the cover page XBRL tags are embedded within the inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+META PLATFORMS, INC.
+Date:
+February 14, 2024
+By:
+/s/ Katherine R. Kelly
+Name:
+Katherine R. Kelly
+Title:
+Vice President and Corporate Secretary

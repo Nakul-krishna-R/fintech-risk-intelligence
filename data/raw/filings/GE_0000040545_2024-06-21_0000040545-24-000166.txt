@@ -1,0 +1,118 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported)
+June 21, 2024
+General Electric Co
+mpany
+(Exact name of registrant as specified in its charter)
+
+New York
+001-00035
+14-0689340
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+
+1 Neumann Way,
+Evendale,
+OH
+
+45215
+(Address of principal executive offices)
+
+(Zip Code)
+
+(Registrant’s telephone number, including area code)
+
+(
+617
+)
+443-3000
+
+_______________________________________________
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, par value $0.01 per share
+GE
+New York Stock Exchange
+0.875% Notes due 2025
+GE 25
+New York Stock Exchange
+1.875% Notes due 2027
+GE 27E
+New York Stock Exchange
+1.500% Notes due 2029
+GE 29
+New York Stock Exchange
+7 1/2% Guaranteed Subordinated Notes due 2035
+GE /35
+New York Stock Exchange
+2.125% Notes due 2037
+GE 37
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 7.01 Regulation FD Disclosure.
+On April 2, 2024, General Electric Company completed the previously announced separation (the “Separation”) of GE Vernova Inc. (“GE Vernova”). General Electric Company now operates as GE Aerospace (the “Company”). The Separation of GE Vernova was achieved through the Company’s pro rata distribution (the “Distribution”) of all of the outstanding shares of GE Vernova common stock to holders of record of the Company’s common stock. Each holder of record of the Company’s common stock received one share of GE Vernova common stock for every four shares of the Company’s common stock held on March 19, 2024, the record date for the distribution. In lieu of fractional shares of GE Vernova, shareholders of the Company will receive cash. On April 2, 2024, GE Vernova’s common stock began trading on the New York Stock Exchange under the ticker symbol “GEV.” After the distribution, the Company no longer consolidates GE Vernova into its financial results.
+In connection with the Separation, the historical results of GE Vernova and certain assets and liabilities included in the Separation will be reported in the Company's consolidated financial statements as discontinued operations beginning in the second quarter of 2024. In addition, the Company now operates through two reportable segments: Commercial Engines and Services and Defense and Propulsion Technologies.
+In this Form 8-K, the Company is providing preliminary unaudited supplemental financial information to reflect the reclassification of its Vernova business into discontinued operations for the first quarter of 2024 presented in Exhibit 99.1. This informational Form 8-K in no way revises or restates the previously filed Consolidated Statement of Financial Position, Consolidated Statements of Earnings, Consolidated Statements of Cash Flows or Non-GAAP Financial Measures for the Company for any period presented.
+The information provided pursuant to this Item 7.01, including Exhibit 99.1, is being furnished and shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934 (the "Exchange Act") or otherwise subject to the liabilities under that Section and shall not be deemed to be incorporated by reference into any filing of the Company under the Securities Act of 1933 or the Exchange Act.
+Item 9.01 Financial Statements and Exhibits.
+(b) Supplemental Financial Information.
+The following preliminary unaudited supplemental financial information of the Company is furnished as Exhibit 99.1 to this Form 8-K and incorporated herein by reference:
+•
+Preliminary Unaudited Supplemental Consolidated Financial Position Information as of March 31, 2024.
+•
+Preliminary Unaudited Supplemental Consolidated Cash Flows Information for the three months ended March 31, 2024.
+•
+Preliminary Unaudited Supplemental Consolidated Earnings Information for the three months ended March 31, 2024.
+•
+Preliminary Unaudited Supplemental Segment Revenues for each of the interim periods within the year ended December 31, 2023.
+•
+Financial Measures that Supplement GAAP reconciliations for the three months ended March 31, 2024.
+•
+Notes to the Preliminary Unaudited Supplemental Consolidated Financial Information.
+(d) Exhibits.
+99.1
+
+GE Aerospace Preliminary Unaudited Consolidated Financial Information.
+104
+. The cover page from this Form 8-K, formatted in Inline XBRL.
+(2)
+Forward-Looking Statements
+This document contains “forward-looking statements” — that is, statements related to future, not past, events. These forward- looking statements often address GE Aerospace’s expected future business and financial performance and financial condition, and often contain words such as “expect,” “anticipate,” “intend,” “plan,” “believe,” “seek,” “see,” “will,” “would,” “estimate,” “forecast,” “target,” “preliminary,” or “range.” Forward-looking statements by their nature address matters that are, to different degrees, uncertain, and are subject to risks, uncertainties and assumptions. For GE Aerospace, particular areas where risks or uncertainties could cause GE Aerospace’s actual results to be materially different than those expressed in GE Aerospace’s forward-looking statements include: changes in macroeconomic and market conditions and market volatility, including risk of recession, inflation, geopolitical conflict; supply chain constraints or disruptions, interest rates, the value of securities and other financial assets (including GE Aerospace’s equity interest in GE HealthCare), commodity prices and exchange rates, and the impact of such changes and volatility on GE Aerospace’s business operations, financial results and financial position; GE Aerospace’s capital allocation plans, including the timing and amount of dividends, share repurchases, acquisitions, organic investments, and other priorities; and other factors that are described in the “Risk Factors” section of our Quarterly Report on Form 10-Q for the quarter ended March 31, 2024, as such description may be updated or amended in any future reports that GE Aerospace files with the SEC. These or other uncertainties may cause GE Aerospace’s actual future results to be materially different than those expressed in its forward-looking statements. GE Aerospace does not undertake to update its forward-looking statements.
+(3)
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+General Electric Company
+(Registrant)
+Date: June 21, 2024
+/s/ Robert Giglietti
+Robert Giglietti
+Vice President - Chief Accounting Officer, Controller and Treasurer
+(4)

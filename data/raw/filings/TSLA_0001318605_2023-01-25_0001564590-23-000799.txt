@@ -1,0 +1,193 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported):
+January 20, 2023
+
+Tesla, Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+Delaware
+
+001-34756
+
+91-2197729
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+1 Tesla Road
+
+Austin
+,
+Texas
+
+78725
+
+(Address of Principal Executive Offices, and Zip Code)
+
+(
+512
+)
+516-8177
+
+Registrant’s Telephone Number, Including Area Code
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+
+☐
+
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communication pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communication pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock
+
+TSLA
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 1.01
+Entry Into a Material Definitive Agreement.
+
+Revolving Credit Facility
+
+On January 20, 2023, Tesla, Inc. (“
+Tesla
+”) entered into a credit agreement (the “
+RCF Credit Agreement
+”) with Citibank, N.A., as administrative agent, Deutsche Bank Securities Inc. and the lenders and other agents party thereto. The RCF Credit Agreement provides for a senior unsecured revolving credit facility of up to $5.0 billion (the “
+Credit Facility
+”), which Tesla may draw upon from time to time. Tesla may increase the total commitments under the Credit Facility by up to an additional $2.0 billion, subject to certain conditions, potentially increasing the Credit Facility to $7.0 billion. The Credit Facility provides for the issuance of letters of credit. The proceeds of the loans may be used for general corporate purposes or for any other purpose not otherwise prohibited by the RCF Credit Agreement. The Credit Facility terminates, and all outstanding loans, if any, become due and payable on January 20, 2028. Tesla may request up to two one-year extensions of the facility. No loans were outstanding under the Credit Facility as of January 25, 2023.
+
+Outstanding borrowings under the Credit Facility accrue interest at a variable rate equal to:
+
+•
+
+for dollar-denominated loans, at the Company’s election, (a) Term SOFR (the forward-looking secured overnight financing rate) plus 0.10%, or (b) an alternate base rate;
+
+•
+
+for loans denominated in pounds sterling, SONIA (the sterling overnight index average reference rate); or
+
+•
+
+for loans denominated in euros, an adjusted EURIBOR rate;
+
+in each case, plus an applicable margin. The applicable margin will be based on the rating assigned to Tesla’s senior, unsecured long-term indebtedness from time to time.
+
+Tesla accrues a fee based on the daily unused portion of the Credit Facility. Such fee is also based on the rating assigned to Tesla’s senior, unsecured long-term indebtedness from time to time and is payable quarterly.
+
+The Credit Facility contains covenants that are usual for this type of facility. These covenants include, among others, restrictions on liens and the incurrence of debt by Tesla’s subsidiaries, each subject to exceptions and limitations. The Credit Facility also requires that Tesla maintain $1.0 billion of liquidity (as calculated pursuant to the RCF Credit Agreement). The Credit Facility contains customary events of default. Upon the occurrence of an event of default, the lenders may require the immediate payment of all amounts outstanding.
+
+Item 1.02
+Termination of a Material Definitive Agreement.
+
+Termination of ABL Credit Agreement
+
+As previously reported, Tesla and its subsidiaries Tesla Motors Netherlands B.V. and Tesla Motors Limited (together with Tesla and Tesla Motors Netherlands B.V., the “
+Borrowers
+”) are parties to that certain Amended and Restated ABL Credit Agreement, dated as of March 6, 2019 (as further amended from time to time, the “
+ABL Credit Agreement
+”), with Deutsche Bank AG New York Branch, as administrative agent and collateral agent, and the lenders and other agents party thereto. The ABL Credit Agreement was set to mature on July 1, 2023. On January 20, 2023, the ABL Credit Agreement was terminated by the parties.
+The Borrowers did not have any borrowings outstanding under the ABL Credit Agreement and did not incur any early termination penalties in connection with the termination of the ABL Credit Agreement. Some of the lenders under the ABL Credit Agreement, or their affiliates, are lenders under the RCF Credit Agreement.
+
+Item
+2.02
+Results of Operations and Financial Condition
+.
+
+On January 25, 2023, Tesla released its financial results for the fiscal quarter and year ended December 31, 2022 by posting its Fourth Quarter and Full Year 2022 Update on its website. The full text of the update is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+
+This information is intended to be furnished under Item 2.02 of Form 8-K, “Results of Operations and Financial Condition” and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth be specific reference in such a filing.
+
+Item 2.03
+Creation of a Direct Financial Obligation or an Obligation Under an Off-Balance Sheet Arrangement of a Registrant.
+
+The information set forth in Item 1.01 above is incorporated herein by reference.
+
+Item 9.01
+Financial Statements and Exhibits.
+
+(d)
+
+Exhibits.
+
+Exhibit No.
+
+Description
+
+99.1
+
+104
+
+Tesla, Inc. Fourth Quarter and Full Year 2022 Update, dated January 25, 2023
+.
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+TESLA, INC.
+
+By:
+
+/s/ Zachary J. Kirkhorn
+
+Zachary J. Kirkhorn
+
+Chief Financial Officer
+
+Date: January 25, 2023

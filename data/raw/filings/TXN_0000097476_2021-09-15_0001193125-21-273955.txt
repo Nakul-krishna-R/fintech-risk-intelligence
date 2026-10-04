@@ -1,0 +1,160 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+DATE OF REPORT (DATE OF EARLIEST EVENT REPORTED):
+September 15, 2021
+
+TEXAS INSTRUMENTS INCORPORATED
+
+(Exact name of registrant as specified in charter)
+
+DELAWARE
+
+001-03761
+
+75-0289970
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+file number)
+
+(I.R.S. employer
+
+identification no.)
+
+12500 TI BOULEVARD
+
+DALLAS
+,
+TEXAS
+
+75243
+
+(Address of principal executive offices)
+
+Registrant’s telephone number, including area code:
+(214)
+
+479-3773
+
+Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock, par value $1.00
+
+TXN
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01.
+
+Other Events
+
+Issuance of $1,500,000,000 of Notes
+
+On September 15, 2021, Texas Instruments Incorporated (“Texas Instruments”) consummated the issuance and sale of $500,000,000 aggregate principal amount of its 1.125% Notes due 2026, $500,000,000 aggregate principal amount of its 1.900% Notes due 2031 and $500,000,000 aggregate principal amount of its 2.700% Notes due 2051 (collectively, the “Notes”), pursuant to an underwriting agreement filed herewith as Exhibit 1.1 dated September 7, 2021 among Texas Instruments and Barclays Capital Inc., J.P. Morgan Securities LLC and MUFG Securities Americas Inc., as representatives of the several underwriters named therein. The Notes were issued pursuant to an Indenture dated as of May 23, 2011 (the “Indenture”) between Texas Instruments and U.S. Bank National Association, as trustee, and an Officers’ Certificate issued pursuant thereto.
+
+The Notes were offered pursuant to Texas Instruments’ Registration Statement on Form
+S-3
+filed on February 22, 2019 (Reg.
+No. 333-229797),
+including the prospectus contained therein, and a related preliminary prospectus supplement dated September 7, 2021 and a prospectus supplement dated September 7, 2021.
+
+The material terms and conditions of the Notes are set forth in the Indenture filed as Exhibit 4.2 to the Current Report of Texas Instruments on Form
+8-K
+dated May 23, 2011 and the Officers’ Certificate filed herewith as Exhibit 4.1 and incorporated by reference herein.
+
+Item 9.01
+
+Financial Statements and Exhibits
+
+(d) Exhibits.
+
+Exhibit
+No.
+
+Description
+
+1.1
+
+Underwriting Agreement dated September 7, 2021 among Barclays Capital Inc., J.P. Morgan Securities LLC and MUFG Securities Americas Inc., as representatives of the several underwriters named in Schedule II therein
+
+4.1
+
+Officers’ Certificate setting forth the terms of the Notes
+
+5.1
+
+Opinion of Davis Polk & Wardwell LLP
+
+23.1
+
+Consent of Davis Polk & Wardwell LLP (contained in Exhibit 5.1)
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+TEXAS INSTRUMENTS INCORPORATED
+
+Date: September 15, 2021
+
+By:
+
+/s/ Rafael R. Lizardi
+
+Rafael R. Lizardi
+
+Senior Vice President and Chief Financial Officer

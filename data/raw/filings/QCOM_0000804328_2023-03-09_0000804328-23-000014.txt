@@ -1,0 +1,173 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of
+The Securities Exchange Act of 1934
+March 8, 2023
+
+Date of Report (Date of earliest event reported)
+QUALCOMM Incorporated
+(Exact name of registrant as specified in its charter)
+Delaware
+
+(State or other jurisdiction of incorporation)
+000-19528
+95-3685934
+(Commission File Number)
+(IRS Employer Identification No.)
+5775 Morehouse Drive
+,
+San Diego
+,
+California
+92121
+(Address of principal executive offices)
+(Zip Code)
+858
+-
+587-1121
+
+(Registrant’s telephone number, including area code)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.0001 par value
+
+QCOM
+Nasdaq Stock Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+QUALCOMM Incorporated (the “Company”) held its 2023 Annual Meeting of Stockholders on March 8, 2023 (the “Annual Meeting”). At the Annual Meeting, the Company’s stockholders considered four proposals, each of which is described briefly below and in more detail in the Company’s definitive proxy statement dated January 19, 2023. The final voting results for each proposal are set forth below.
+Proposal 1 - Election of Directors.
+NOMINEE
+FOR
+WITHHOLD
+ABSTAIN
+BROKER NON-VOTES
+Sylvia Acevedo
+761,478,944
+9,738,473
+2,107,700
+173,168,375
+Cristiano R. Amon
+768,831,460
+2,439,369
+2,054,288
+173,168,375
+Mark Fields
+766,465,791
+4,664,402
+2,194,924
+173,168,375
+Jeffrey W. Henderson
+713,784,006
+56,656,835
+2,884,276
+173,168,375
+Gregory N. Johnson
+762,995,035
+8,123,552
+2,206,530
+173,168,375
+Ann M. Livermore
+755,764,623
+15,456,773
+2,103,721
+173,168,375
+Mark D. McLaughlin
+767,311,269
+3,839,706
+2,174,142
+173,168,375
+Jamie S. Miller
+766,901,390
+4,225,005
+2,198,722
+173,168,375
+Irene B. Rosenfeld
+755,508,515
+15,535,535
+2,281,067
+173,168,375
+Kornelis (Neil) Smit
+764,686,753
+6,429,791
+2,208,573
+173,168,375
+Jean-Pascal Tricoire
+758,162,500
+12,441,684
+2,720,933
+173,168,375
+Anthony J. Vinciquerra
+746,531,864
+24,462,064
+2,331,189
+173,168,375
+Each of the foregoing nominees was elected and each received affirmative votes from more than a majority of the votes cast.
+Proposal 2 - Ratification of the selection of PricewaterhouseCoopers LLP as our independent public accountants for our fiscal year ending September 24, 2023.
+FOR
+AGAINST
+ABSTAIN
+BROKER NON-VOTES
+899,083,778
+44,840,243
+2,569,471
+0
+The foregoing proposal required the affirmative vote of a majority of the votes cast at the Annual Meeting.
+The foregoing proposal was approved.
+Proposal 3 – Approval of the QUALCOMM Incorporated 2023 Long-Term Incentive Plan.
+
+FOR
+AGAINST
+ABSTAIN
+BROKER NON-VOTES
+685,100,613
+85,262,521
+2,961,983
+173,168,375
+The foregoing proposal required the affirmative vote of a majority of the votes cast at the Annual Meeting.
+The foregoing proposal was approved.
+Proposal 4 – Approval, on an advisory basis, of the compensation of our named executive officers.
+
+FOR
+AGAINST
+ABSTAIN
+BROKER NON-VOTES
+730,270,002
+38,410,443
+4,644,672
+173,168,375
+The foregoing proposal required the affirmative vote of a majority of the votes cast at the Annual Meeting.
+The foregoing proposal was approved.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+QUALCOMM Incorporated
+Date:
+March 9, 2023
+By:
+/s/ Ann Chaplin
+Ann Chaplin
+General Counsel and Corporate Secretary

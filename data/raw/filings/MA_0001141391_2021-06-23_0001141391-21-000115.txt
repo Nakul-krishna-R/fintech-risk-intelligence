@@ -1,0 +1,240 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+_______________________________________
+FORM
+8-K
+
+_______________________________________
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+June 22, 2021
+_______________________________________
+Mastercard Incorporated
+(Exact name of registrant as specified in its charter)
+
+_______________________________________
+Delaware
+001-32877
+13-4172551
+(State or other jurisdiction
+of incorporation)
+(Commission File
+Number)
+(IRS Employer
+Identification No.)
+2000 Purchase Street
+10577
+Purchase,
+NY
+(Address of principal executive offices)
+(Zip Code)
+(914)
+249-2000
+(Registrant's telephone number, including area code)
+NOT APPLICABLE
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange of which registered
+Class A Common Stock
+MA
+New York Stock Exchange
+1.100% Notes due 2022
+MA22
+New York Stock Exchange
+2.100% Notes due 2027
+MA27
+New York Stock Exchange
+2.500% Notes due 2030
+MA30
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+1
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+2
+Item 5.03 Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+On June 22, 2021 at the 2021 annual meeting of stockholders (the “Annual Meeting”) of Mastercard Incorporated (the “Company”), the holders of the Company’s Class A common stock, par value $0.0001 (“Class A common stock”), approved the amendment and restatement of the Company’s certificate of incorporation (the “Amended and Restated Certificate of Incorporation”) to eliminate supermajority voting requirements by
+•
+in Section 5.1, reducing the vote required to alter, amend or repeal any provision of our by-laws or to adopt any provision inconsistent with the by-laws from at least 80% of the voting power of our common stock to at least a majority of the voting power of our common stock; and
+•
+adding Sections 11.1, 11.2, 11.3 and 11.4 which relate to the approval of business combinations with interested stockholders,, and changed the vote required for the approval of such business combinations from 66-2/3% to at least a majority of the voting power of our common stock.
+On June 22, 2021, the Company filed the Amended and Restated Certificate of Incorporation with the Secretary of State in the form previously attached to, and as described in, the Company’s proxy statement, dated April 29, 2021, in connection with the Annual Meeting (the “Proxy Statement”).
+Also on June 22, 2021, the Company’s amended and restated bylaws (the “Amended and Restated Bylaws”), in the form described in the Proxy Statement, became effective. The Amended and Restated Bylaws, which have been amended to correspond to Section 5.1 of the Amended and Restated Certificate of Incorporation, were previously approved by the Company’s Board of Directors to become effective conditioned upon stockholder approval of the Amended and Restated Certificate of Incorporation.
+The Amended and Restated Certificate of Incorporation and the Amended and Restated Bylaws are attached as Exhibit 3.1 and Exhibit 3.2 to this Current Report, respectively, and are incorporated herein by reference as though they were fully set forth herein.
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+Mastercard Incorporated (“Mastercard”) held its Annual Meeting of Stockholders on June 22, 2021 (the “Annual Meeting”). Holders of Class A common stock at the close of business on April 23, 2021 (the “Record Date”) were entitled to vote at the Annual Meeting. A total of 866,834,745
+
+shares of Class A common stock, constituting a quorum, were represented in person or by proxy at the Annual Meeting. The votes cast with respect to the matters voted upon at the Annual Meeting are set forth below:
+3
+1. The holders of Class A common stock elected the following individuals to serve on the Board as directors for a one-year term expiring on the date of Mastercard’s 2022 annual meeting of stockholders:
+Director
+For
+Against
+Abstain
+Broker
+Non-Votes
+Ajay Banga
+806,301,683
+10,206,888
+702,996
+49,623,178
+Merit E. Janow
+806,570,404
+9,926,859
+714,304
+49,623,178
+Richard K. Davis
+793,129,822
+23,358,391
+723,354
+49,623,178
+Steven J. Freiberg
+782,088,261
+34,402,361
+720,945
+49,623,178
+Julius Genachowski
+797,966,990
+18,504,142
+740,435
+49,623,178
+Choon Phong Goh
+749,998,115
+66,460,197
+753,255
+49,623,178
+Oki Matsumoto
+801,409,331
+14,548,649
+1,253,587
+49,623,178
+Michael Miebach
+814,562,954
+1,922,127
+726,486
+49,623,178
+Youngme Moon
+806,275,736
+10,208,881
+726,950
+49,623,178
+Rima Qureshi
+810,343,783
+6,168,853
+698,931
+49,623,178
+José Octavio Reyes Lagunes
+793,865,590
+22,627,662
+718,315
+49,623,178
+Gabrielle Sulzberger
+807,086,442
+9,403,469
+721,656
+49,623,178
+Jackson Tai
+797,068,652
+19,414,074
+728,841
+49,623,178
+Lance Uggla
+810,154,667
+6,318,983
+737,917
+49,623,178
+2. The holders of Class A common stock approved Mastercard’s executive compensation on an advisory basis:
+For
+Against
+Abstain
+Broker
+Non-Votes
+614,808,531
+200,188,212
+2,214,824
+49,623,178
+3. The holders of Class A common stock ratified the appointment of PricewaterhouseCoopers LLP as Mastercard’s independent registered public accounting firm for 2021:
+For
+Against
+Abstain
+Broker
+Non-Votes
+828,926,649
+36,336,039
+1,572,057
+N/A
+4. The holders of Class A common stock approved the amendment and restatement of the 2006 Long Term Incentive Plan:
+For
+Against
+Abstain
+Broker
+Non-Votes
+791,465,073
+23,991,615
+1,754,879
+49,623,178
+4
+5.
+
+The holders of Class A common stock approved the amendment and restatement of the 2006 Non-Employee Director Equity Compensation Plan.:
+For
+Against
+Abstain
+Broker
+Non-Votes
+799,720,162
+16,228,278
+1,263,127
+49,623,178
+6. The holders of Class A common stock approved the amendments to the Certificate of Incorporation to remove supermajority voting requirements:
+For
+Against
+Abstain
+Broker
+Non-Votes
+815,085,154
+1,335,465
+790,948
+49,623,178
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit Number
+Exhibit Description
+3.1
+Amended and Restated Certificate of Incorporated of Mastercard Incorporated
+3.2
+Amended and Restated By-Laws of Mastercard Incorporated
+5
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+MASTERCARD INCORPORATED
+Date:
+June 23, 2021
+By:
+/s/ Janet McGinness
+Janet McGinness
+Corporate Secretary
+6

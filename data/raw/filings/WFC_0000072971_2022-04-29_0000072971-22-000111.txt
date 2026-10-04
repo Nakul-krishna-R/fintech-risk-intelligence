@@ -1,0 +1,364 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (date of earliest event reported):
+April 26, 2022
+
+WELLS FARGO & COMPANY
+(Exact name of registrant as specified in its charter)
+Delaware
+
+001-02979
+
+No.
+41-0449260
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission File
+Number)
+
+(IRS Employer
+Identification No.)
+
+420 Montgomery Street
+,
+San Francisco
+,
+California
+
+94104
+
+(Address of principal executive offices) (Zip Code)
+Registrant's telephone number, including area code:
+1-
+866
+-
+249-3302
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol
+Name of Each Exchange
+on Which Registered
+Common Stock, par value $1-2/3
+WFC
+New York Stock
+Exchange
+(
+NYSE
+)
+7.5% Non-Cumulative Perpetual Convertible Class A Preferred Stock, Series L
+WFC.PRL
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of
+5.85% Fixed-to-Floating Rate Non-Cumulative Perpetual Class A Preferred Stock, Series Q
+WFC.PRQ
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of
+6.625% Fixed-to-Floating Rate Non-Cumulative Perpetual Class A Preferred Stock, Series R
+WFC.PRR
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Y
+WFC.PRY
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Z
+WFC.PRZ
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series AA
+WFC.PRA
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series CC
+WFC.PRC
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series DD
+WFC.PRD
+NYSE
+Guarantee of Medium-Term Notes, Series A, due October 30, 2028 of Wells Fargo Finance LLC
+WFC/28A
+NYSE
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act (17 CFR 230.405) or Rule 12b-2 of the Exchange Act (17 CFR 240.12b‑2).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+o
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+Wells Fargo & Company (the “Company”) held its annual meeting of shareholders on
+April 26, 2022
+. At the meeting, shareholders approved the Company’s 2022 Long-Term Incentive Plan (the “Plan”). A description of the material terms and conditions of the Plan appears under “Executive Compensation – Item 3 – Approve the Company’s 2022 Long-Term Incentive Plan” on pages 100-106 of the Company’s
+definitive proxy statement
+for the meeting, filed with the Securities and Exchange Commission on March 14, 2022 (the “Proxy Statement”), and the description is incorporated herein by reference. The description of the Plan incorporated herein by reference does not purport to be complete and is qualified in its entirety by reference to the full text of the Plan, which is filed as Exhibit 10(a) hereto.
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+The Company held its annual meeting of shareholders on
+April 26, 2022
+. At the meeting, shareholders elected all 14 of the director nominees nominated by the Board of Directors as each director nominee received a greater number of votes cast “for” his or her election than votes cast “against” his or her election, as reflected below. In addition, shareholders approved, on an advisory basis, the compensation of the Company’s named executives as disclosed in the Proxy Statement, approved the Plan and ratified the appointment of KPMG LLP as the Company’s independent registered public accounting firm for 2022. The shareholders did not approve the seven shareholder proposals presented at the meeting. The final voting results for each item presented at the meeting are set forth below. Voting results are, when applicable, reported by rounding fractional share voting up or down to the nearest round number.
+Election of Director Nominees
+DIRECTOR
+FOR
+%
+1
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+Steven D. Black
+2,614,873,319
+90.88%
+262,490,282
+14,452,737
+361,307,657
+Mark A. Chancy
+2,817,694,299
+97.93%
+59,573,189
+14,548,850
+361,307,657
+Celeste A. Clark
+2,704,397,654
+94.02%
+171,930,128
+15,484,682
+361,311,531
+Theodore F. Craver, Jr.
+2,794,161,452
+97.12%
+82,812,162
+14,842,725
+361,307,657
+Richard K. Davis
+2,825,995,093
+98.21%
+51,573,311
+14,247,935
+361,307,657
+Wayne M. Hewett
+2,618,702,346
+91.05%
+257,407,605
+15,706,387
+361,307,657
+CeCelia (“CeCe”) G. Morken
+2,825,664,333
+98.18%
+52,263,955
+13,888,051
+361,307,657
+Maria R. Morris
+2,691,412,536
+93.56%
+185,382,846
+15,017,083
+361,311,531
+Felicia F. Norwood
+2,825,863,604
+98.19%
+52,117,949
+13,834,786
+361,307,657
+Richard B. Payne, Jr.
+2,822,788,881
+98.11%
+54,408,436
+14,618,922
+361,307,757
+Juan A. Pujadas
+2,817,155,303
+97.90%
+60,514,621
+14,146,315
+361,307,757
+Ronald L. Sargent
+2,738,029,204
+95.17%
+139,076,307
+14,710,728
+361,307,757
+Charles W. Scharf
+2,812,689,205
+97.69%
+66,593,442
+12,533,592
+361,307,757
+Suzanne M. Vautrinot
+2,789,438,214
+96.91%
+89,025,745
+13,352,279
+361,307,757
+Advisory Resolution to Approve Executive Compensation (Say on Pay)
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+2,107,253,182
+72.87%
+762,867,233
+21,694,424
+361,309,157
+Approve the Company's 2022 Long-Term Incentive Plan
+FOR
+%
+1
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+2,749,948,434
+95.59%
+126,741,017
+15,124,214
+361,310,331
+Ratify the Appointment of KPMG LLP as the Company’s Independent Registered Public Accounting Firm for 2022
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+3,065,240,260
+94.22%
+178,135,113
+9,748,623
+0
+Shareholder Proposal – Policy for Management Pay Clawback Authorization
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+206,835,702
+7.15%
+2,646,171,386
+38,808,351
+361,308,557
+Shareholder Proposal – Report on Incentive-Based Compensation and Risks of Material Losses
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+684,874,171
+23.68%
+2,185,409,313
+21,529,881
+361,310,631
+Shareholder Proposal – Racial and Gender Board Diversity Report
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+333,652,575
+11.54%
+2,515,900,129
+42,262,736
+361,308,557
+Shareholder Proposal – Report on Respecting Indigenous Peoples' Rights
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+741,096,481
+25.63%
+2,118,654,066
+32,061,918
+361,311,531
+Shareholder Proposal – Climate Change Policy
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+312,232,517
+10.80%
+2,426,627,443
+152,956,378
+361,307,657
+Shareholder Proposal – Conduct a Racial Equity Audit
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+1,033,495,599
+35.74%
+1,828,552,352
+29,764,513
+361,311,531
+Shareholder Proposal – Charitable Donations Disclosure
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+127,898,618
+4.42%
+2,734,887,487
+29,030,234
+361,307,657
+____________________________________________
+1
+Votes cast for the proposal as a percentage of total votes cast for and against.
+2
+Votes cast for the proposal as a percentage of total votes cast for and against and abstentions.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits
+
+Exhibit No.
+Description
+Location
+10(a)
+Wells Fargo & Company 2022 Long-Term Incentive Plan
+Filed herewith
+104
+Cover Page Interactive Data File
+Embedded within the Inline XBRL document
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated:
+April 29, 2022
+WELLS FARGO & COMPANY
+By:
+/s/ TANGELA S. RICHTER
+Tangela S. Richter
+Executive Vice President and Secretary

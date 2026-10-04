@@ -1,0 +1,221 @@
+________________________________________________________________________
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+March 9, 2022
+The Walt Disney Company
+(Exact name of registrant as specified in its charter)
+Delaware
+001-38842
+83-0940635
+(State or other jurisdiction
+(Commission File Number)
+(IRS Employer
+of incorporation)
+Identification No.)
+
+500 South Buena Vista Street
+
+Burbank
+,
+California
+
+91521
+
+(Address of Principal Executive Offices and Zip Code)
+(
+818
+)
+560-1000
+
+(Registrant’s telephone number, including area code)
+Not applicable
+
+(Former name or address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.01 par value
+DIS
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+________________________________________________________________________
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+
+(a-b) The final results of voting on each of the matters submitted to a vote of security holders during the Registrant’s annual meeting of shareholders on March 9, 2022 are as follows.
+1.
+Election of Directors:
+For
+Against
+Abstentions
+Broker
+Non-Votes
+Susan E. Arnold
+1,118,076,701
+37,665,545
+5,423,508
+280,795,356
+Mary T. Barra
+1,128,884,692
+28,758,881
+3,522,181
+280,795,356
+Safra A. Catz
+1,134,063,866
+23,376,405
+3,725,483
+280,795,356
+Amy L. Chang
+1,148,683,826
+8,694,524
+3,787,404
+280,795,356
+Robert A. Chapek
+1,147,467,691
+9,947,173
+3,750,890
+280,795,356
+Francis A. deSouza
+1,142,478,220
+14,830,443
+3,857,091
+280,795,356
+Michael B.G. Froman
+1,148,615,138
+8,644,803
+3,905,813
+280,795,356
+Maria Elena Lagomasino
+1,096,184,406
+60,556,812
+4,424,536
+280,795,356
+Calvin R. McDonald
+1,139,319,432
+17,886,339
+3,959,983
+280,795,356
+Mark G. Parker
+1,131,217,848
+26,012,956
+3,934,950
+280,795,356
+Derica W. Rice
+1,130,847,209
+26,021,804
+4,296,741
+280,795,356
+For
+Against
+Abstentions
+2.
+Ratification of the appointment of PricewaterhouseCoopers LLP as independent registered public accountants
+1,379,477,812
+58,256,177
+4,227,121
+For
+Against
+Abstentions
+Broker
+Non-Votes
+3.
+Advisory vote to approve executive compensation
+982,828,273
+171,646,090
+6,691,391
+280,795,356
+For
+Against
+Abstentions
+Broker
+Non-Votes
+4.
+Shareholder proposal requesting an annual report disclosing information regarding the Company’s lobbying policies and activities
+378,276,292
+725,467,089
+57,422,373
+280,795,356
+For
+Against
+Abstentions
+Broker
+Non-Votes
+5.
+Shareholder proposal requesting amendment of the Company’s governing documents to lower the stock ownership threshold to call a special meeting of shareholders
+457,465,264
+696,484,981
+7,215,509
+280,795,356
+For
+Against
+Abstentions
+Broker
+Non-Votes
+6.
+Shareholder proposal requesting a diligence report evaluating human rights impacts
+405,614,495
+697,170,325
+58,380,934
+280,795,356
+For
+Against
+Abstentions
+Broker
+Non-Votes
+7.
+Shareholder proposal requesting a report on both median and adjusted pay gaps across race and gender
+686,478,918
+464,919,023
+9,767,813
+280,795,356
+For
+Against
+Abstentions
+Broker
+Non-Votes
+8.
+Shareholder proposal requesting a workplace non-discrimination audit and report
+30,562,100
+1,112,197,873
+18,405,781
+280,795,356
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+Exhibit
+Number
+Description
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+The Walt Disney Company
+By:
+
+/s/ Jolene E. Negre
+
+Jolene E. Negre
+
+Associate General Counsel and Assistant Secretary
+Dated: March 10, 2022

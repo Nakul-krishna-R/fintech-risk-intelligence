@@ -1,0 +1,110 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported)
+March 15, 2022
+General Electric Co
+mpany
+(Exact name of registrant as specified in its charter)
+
+New York
+001-00035
+14-0689340
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+
+5 Necco Street
+Boston,
+MA
+
+02210
+(Address of principal executive offices)
+
+(Zip Code)
+
+(Registrant’s telephone number, including area code)
+
+(
+617
+)
+443-3000
+
+_______________________________________________
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, par value $0.01 per share
+GE
+New York Stock Exchange
+0.375% Notes due 2022
+GE 22A
+New York Stock Exchange
+1.250% Notes due 2023
+GE 23E
+New York Stock Exchange
+0.875% Notes due 2025
+GE 25
+New York Stock Exchange
+1.875% Notes due 2027
+GE 27E
+New York Stock Exchange
+1.500% Notes due 2029
+GE 29
+New York Stock Exchange
+7 1/2% Guaranteed Subordinated Notes due 2035
+GE /35
+New York Stock Exchange
+2.125% Notes due 2037
+GE 37
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On March 15, 2022, General Electric Company (“GE” or the “Company”) and H. Lawrence Culp, Jr., GE’s Chairman and Chief Executive Officer, entered into an amendment to Mr. Culp’s employment agreement.
+
+The amendment reflects an agreement between the Management Development and Compensation Committee (the “MDCC”) of GE’s Board of Directors and Mr. Culp to reduce his annual equity incentive grant for 2022 from $15 million to $5 million, representing a 67% reduction of annual equity compared to the amount previously provided in the employment agreement.
+GE’s proxy statement for the 2022 annual meeting of shareholders, filed on March 17, 2022, provides additional details about the Company’s shareholder engagement, the range of feedback that the MDCC considered and other actions related to executive compensation that are responsive to shareholders following the Company’s annual say-on-pay vote in 2021.
+Amendment No. 2 to the Employment Agreement between GE and Mr. Culp is filed as Exhibit 10.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit Number
+Description
+10.1
+Amendment No. 2, dated as of March 15, 2022, to the Employment Agreement by and between H. Lawrence Culp, Jr. and General Electric Company, dated as of October 1, 2018
+104
+The cover page of this Current Report on Form 8-K formatted as Inline XBRL
+(2)
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+General Electric Company
+(Registrant)
+Date: March 17, 2022
+/s/ Kevin Cox
+L. Kevin Cox
+Senior Vice President, Chief Human Resources Officer
+(3)

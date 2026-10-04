@@ -1,0 +1,407 @@
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington,
+D.C. 20549
+
+FORM
+
+8-K
+
+CURRENT
+REPORT
+
+Pursuant
+to Section 13 or 15(d) of The Securities Exchange Act of 1934
+
+Date
+of Report (Date of earliest event reported)
+March 9, 2021
+
+General
+Electric Company
+
+(Exact
+name of registrant as specified in its charter)
+
+New York
+
+001-00035
+
+14-0689340
+
+(State
+or other jurisdiction
+
+of
+incorporation)
+
+(Commission
+
+File
+Number)
+
+(IRS
+Employer
+
+Identification
+No.)
+
+5
+Necco Street
+,
+Boston
+,
+MA
+
+02210
+
+(Address
+of principal executive offices)
+
+(Zip
+Code)
+
+(Registrant’s
+telephone number, including area code)
+(
+617
+)
+
+443-3000
+
+(Former
+name or former address, if changed since last report.)
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions (see General Instructions A.2. below):
+
+☐
+
+Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+Title
+of each class
+
+Trading
+
+Symbol(s)
+
+Name
+of each exchange
+
+on
+which registered
+
+Common
+stock, par value $0.06 per share
+
+GE
+
+New York Stock Exchange
+
+0.375% Notes due 2022
+
+GE 22A
+
+New York Stock Exchange
+
+1.250% Notes due 2023
+
+GE 23E
+
+New York Stock Exchange
+
+0.875% Notes due 2025
+
+GE 25
+
+New York Stock Exchange
+
+1.875% Notes due 2027
+
+GE 27E
+
+New York Stock Exchange
+
+1.500% Notes due 2029
+
+GE 29
+
+New York Stock Exchange
+
+7 1/2% Guaranteed Subordinated Notes due 2035
+
+GE /35
+
+New York Stock Exchange
+
+2.125% Notes due 2037
+
+GE 37
+
+New York Stock Exchange
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging
+growth company
+☐
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+On March 9, 2021 (the “
+Signing Date
+”),
+General Electric Company (“
+GE
+”), GE Ireland USD Holdings ULC (the “
+Existing Ireland Shareholder
+1
+”), GE Financial Holdings ULC (the “
+Existing Ireland Shareholder 2
+” and, together with Existing
+Ireland Shareholder 1, the “
+Existing Ireland Shareholders
+”), and GE Capital US Holdings, Inc. (the
+“
+Existing U.S. Shareholder
+” and, collectively with the Existing Ireland Shareholders, the
+“
+Existing Shareholders
+”) entered into a definitive agreement (the “
+Transaction
+Agreement
+”) with AerCap Holdings N.V. (“
+AerCap
+”), AerCap US Aviation LLC (the “
+U.S.
+Purchaser
+”), and AerCap Aviation Leasing Limited (the “
+Ireland Subscriber
+” and, together with
+the U.S. Purchaser, the “
+AerCap Entities
+”), pursuant to which, among other things, (i) the Ireland
+Subscriber will subscribe for 100% of the new A ordinary shares of GE Capital Aviation Funding ULC (the “
+Ireland
+Company 1
+”) and the Existing Ireland Shareholder 1 will accept the subsequent cancellation of 100% of the issued
+and outstanding share capital of Ireland Company 1 which are held by the Existing Ireland Shareholder 1 at the Signing Date,
+(ii) the Existing Ireland Shareholder 2 will sell, or cause to be sold, and the Ireland Subscriber will purchase 100% of the
+issued and outstanding share capital of Celestial Transportation Finance Ireland Limited (the “
+Ireland Company
+2
+”) and GECAS Trading Ireland Limited (the “
+Ireland Company 3
+”), (iii) the Existing U.S.
+Shareholder will sell, or cause to be sold, and the U.S. Purchaser will purchase 100% of the issued and outstanding shares of
+the common stock of the U.S. Company, (iv) GE will sell, or cause to be sold, and AerCap or one of its designated affiliates
+will purchase, the Transferred Assets (as defined in the Transaction Agreement), and (v) the Ireland Subscriber will
+subscribe for the New Ireland Company Notes (as defined in the Transaction Agreement), the proceeds of which will be used to
+repay in full the Specified Ireland Company Intercompany Accounts (as defined in the Transaction Agreement) (the transactions
+described in the foregoing clauses (i), (ii), (iii), (iv) and (v), collectively, the “
+Transaction
+”). The
+aggregate consideration for the Transaction payable by the AerCap Entities will be (a) 111,500,000 ordinary shares of AerCap,
+(b) an amount in cash equal to approximately $24 billion, as adjusted pursuant to the Transaction Agreement, and (c)
+non-cumulative subordinated notes and/or senior unsecured notes in the aggregate principal amount of $1 billion (the
+“
+AerCap Notes
+”) (or a combination of such notes and additional cash in the aggregate amount of $1 billion). Based on
+AerCap’s closing price per share of $56.00 on March 9, 2021, the total value of the consideration was approximately $31
+billion. Upon completion of the Transaction, GE will hold approximately 46% of the ordinary shares of AerCap (the
+“
+AerCap Shares
+”).
+
+The consummation of the Transaction is subject to the satisfaction
+or waiver of certain customary and other closing conditions, including receipt of approvals or non-disapprovals from certain regulatory
+bodies, including, among others, CFIUS and other anti-trust and regulatory agencies and the approval of the Transaction by AerCap
+shareholders. There is no financing condition for the Transaction.
+
+In addition to other customary termination events, the
+Transaction Agreement allows termination by (i) either GE or AerCap if the closing of the Transaction has not occurred on or
+before the date that is 12 months after the Signing Date (the “
+Long-Stop
+Date
+”), subject to an extension on one occasion by either GE or AerCap for a period of three months for the
+receipt of certain approvals, (ii) GE or AerCap, if the AerCap shareholders fail to approve the Transaction, (iii) GE, if the
+AerCap board of directors withdraws or adversely modifies its approval of the Transaction, or (iv) GE if all conditions are
+satisfied, GE and the Existing Shareholders are prepared to close but AerCap fails to close the Transaction as required.
+
+AerCap has agreed to pay a $100 million fee to GE in the
+event (i) the Transaction Agreement has been terminated because AerCap has failed to consummate the Transaction within three
+business days following the date on which the last of the closing conditions has been satisfied or waived or is terminated by
+AerCap at the Long-Stop Date when GE was entitled to terminate for such a failure to consummate the transaction, (ii) the
+Transaction Agreement has been terminated because the AerCap board of directors has withdrawn or adversely modified its
+approval of the Transaction, or (iii) (a) the Transaction Agreement has been terminated because (A) the AerCap shareholders
+have failed to approve the Transaction and the existence of a competing offer has been disclosed to the public on or prior to
+the date of the general meeting of the AerCap shareholders or (B) completion of the Transaction has not occurred by the
+Long-Stop Date, the AerCap shareholders have failed to approve the Transaction prior to the Long-Stop Date and a competing
+offer has been made to AerCap, and (b) AerCap enters into an alternative transaction within 12 months of the termination of
+the Transaction Agreement. The parties’ liability for breach of warranties generally terminates at closing, with the
+exception of (i) actual fraud, (ii) certain warranties relating to fundamental matters which will survive indefinitely after
+the Completion Date, (iii) certain warranties relating to tax matters which will survive until 36 months after the Completion
+Date, (iv) certain warranties relating to the sufficiency of properties, assets and rights owned, leased, licensed or
+otherwise held by the Company Group (as defined in the Transaction Agreement) to operate the business which will survive
+until 12 months after the Completion Date, and (v) certain other indemnifiable warranties which will survive until 24 months
+after the Completion Date.
+
+Simultaneously with the consummation of the Transaction, the
+parties will enter into a shareholders’ agreement (the “
+Shareholders’ Agreement
+”), a registration
+rights agreement (the “
+Registration Rights Agreement
+”), a noteholder agreement (the “
+Noteholder Agreement
+”),
+and a financial reporting agreement (the “
+Financial Reporting Agreement
+”).
+
+Pursuant to the Shareholders’ Agreement, GE will
+have the right to nominate (i) two board members of AerCap so long as the Existing Shareholders and their permitted
+transferees beneficially own at least 10% of the ordinary shares of AerCap, or (ii) one board member so long as the Existing
+Shareholders and their permitted transferees beneficially own any of the ordinary shares of AerCap. Except with respect to
+certain significant transactions of AerCap and certain other matters, during the Voting Agreement Period (as defined in the
+Shareholders’ Agreement), the Existing Shareholders and their permitted transferees may only vote 24.9% of
+AerCap’s voting shares (taking into consideration such voting restriction) and abstain with respect to the remainder.
+Until six months after the Existing Shareholders and their permitted transferees hold less than 10% of AerCap, GE, the
+Existing Shareholders and their permitted transferees may not (i) acquire securities of AerCap beyond a total ownership of
+20% of AerCap, (ii) acquire any of the assets or business of AerCap, (iii) participate in any tender offer involving AerCap,
+(iv) seek control of or influence AerCap’s board or management, or (v) consummate any Derivative Transaction (as
+defined in the Shareholders’ Agreement) if the number of the ordinary shares of AerCap specified or referenced in, or
+that underlie, such Derivative Transaction, when taken together with the aggregate number of the ordinary shares of AerCap
+that are specified in, referenced in and/or that underlie all other outstanding Derivative Transactions, would exceed 9.9% of
+the then-issued and outstanding ordinary shares of AerCap, subject to certain exceptions. The Existing Shareholders and their
+permitted transferees are precluded from selling a portion of their AerCap shares for the first 15 months after the
+consummation of the Transaction: (i) none of their shares may be sold during the first nine months; (ii) 1/3 of their shares
+may be transferred after nine months; (iii) 2/3 of their shares may be transferred after 12 months; and (iv) all of their
+shares may be transferred after 15 months. The Existing Shareholders and their permitted transferees may not sell in excess
+of 9.9% of AerCap’s common stock to any single buyer or group.
+
+Under the Registration Rights Agreement, GE will have demand
+rights providing for the sale or distribution of its AerCap Shares in SEC registered offerings after the expiry of the initial
+lock-up period, and will have customary piggyback registration rights.
+
+Under the Noteholder Agreement, GE will have demand rights
+providing for the sale or distribution of the AerCap Notes in underwritten offerings after the expiry of an initial lock-up period.
+
+Pursuant to the Financial Reporting Agreement, AerCap has agreed to
+provide GE with certain information and access rights.
+
+The description of the Transaction Agreement, the Shareholders’
+Agreement, the Registration Rights Agreement, the Noteholder Agreement, and the Financial Reporting Agreement contained herein does not
+purport to be complete and is qualified in its entirety by reference to the full text of the Transaction Agreement, which is attached
+to this Current Report on Form 8-K as Exhibit 2.1 and incorporated in its entirety into this Item 1.01 by reference.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d)
+
+Exhibits.
+
+Exhibit
+No.
+
+Description
+
+2.1
+
+Transaction Agreement, dated as of March 9, 2021 by and among GE Ireland USD Holdings ULC, GE Financial Holdings ULC, GE Capital US Holdings, Inc., General Electric Company, AerCap Holdings N.V., AerCap US Aviation LLC, and AerCap Aviation Leasing Limited.
+†
+
+104
+
+The
+cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+
+†
+
+Certain schedules and exhibits
+have been omitted pursuant to Item 601(b)(2) of Regulation S-K. The Company hereby undertakes to furnish supplementally copies
+of any of the omitted schedules or exhibits upon request by the SEC.
+
+Forward-Looking Statements
+
+This
+document contains “forward-looking statements”—that is, statements related to future, not past, events. These
+forward- looking statements often address our expected future business and financial performance and financial condition, and
+often contain words such as "expect," "anticipate," "intend," "plan," "believe,"
+"seek," "see," "will," "would," "estimate," "forecast," "target,"
+"preliminary," or "range." Forward-looking statements by their nature address matters that are, to different
+degrees, uncertain, and are subject to risks, uncertainties and assumptions. Should one or more of these risks or uncertainties
+materialize, or should underlying assumptions prove incorrect, actual results may vary materially from those indicated or anticipated
+by such forward-looking statements. The inclusion of such statements should not be regarded as a representation that such plans,
+estimates or expectations will be achieved. Important factors that could cause actual results to differ materially from such plans,
+estimates or expectations include, among others, (1) that one or more closing conditions to the transaction, including certain
+regulatory approvals, may not be satisfied or waived, on a timely basis or otherwise, including that a governmental entity may
+prohibit, delay or refuse to grant approval for the consummation of the proposed transaction, may require conditions, limitations
+or restrictions in connection with such approvals or that the required approval by the shareholders of AerCap may not be obtained;
+(2) the risk that the proposed transaction may not be completed in the time frame expected by GE or AerCap, or at all; (3) unexpected
+costs, charges or expenses resulting from the proposed transaction; (4) uncertainty of the expected financial performance of GE
+or AerCap following completion of the proposed transaction; (5) failure to realize the anticipated benefits of the proposed transaction,
+including as a result of delay in completing the proposed transaction; (6) the occurrence of any event that could give rise to
+termination of the proposed transaction; (7) the risk that stockholder litigation in connection with the proposed transaction
+or other settlements or investigations may affect the timing or occurrence of the contemplated merger or result in significant
+costs of defense, indemnification and liability; (8) evolving legal, regulatory and tax regimes; (9) changes in general economic
+and/or industry specific conditions; (10) actions by third parties, including government agencies; and (11) other risk factors
+as detailed from time to time in GE’s and AerCap’s reports filed with the SEC, including GE’s and AerCap’s
+annual reports on Forms 10-K and 20-F, periodic quarterly reports on Form 10-Q, periodic current reports on Forms 8-K and 6-K
+and other documents filed with the SEC. The foregoing list of important factors is not exclusive.
+
+SIGNATURES
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+GENERAL ELECTRIC COMPANY
+
+(Registrant)
+
+Date:
+March 12, 2021
+
+By:
+
+/s/ Christoph A. Pereira
+
+Name:
+
+Christoph A. Pereira
+
+Title:
+
+Vice President, Chief Risk Officer and Chief Corporate Counsel

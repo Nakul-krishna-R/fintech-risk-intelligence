@@ -1,0 +1,170 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)
+
+February 24, 2022
+
+Amgen Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-37702
+
+95-3540776
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+One Amgen Center Drive
+
+Thousand Oaks
+
+California
+
+91320-1799
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code
+
+(805)
+
+447-1000
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communication pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communication pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common stock, $0.0001 par value
+
+AMGN
+
+The Nasdaq Stock Market LLC
+
+2.000% Senior Notes due 2026
+
+AMGN26
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule
+12b-2
+of the Securities Exchange Act of 1934 (17 CFR
+§240.12b-2).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+On February 24, 2022, Amgen Inc. (the Company) entered into accelerated stock buyback agreements, pursuant to the form of ASR Agreement filed herewith (hereinafter referred to as the ASR Agreements), with each of Bank of America, N.A., Morgan Stanley & Co. LLC, and Goldman Sachs & Co. LLC (each, a Financial Institution, and together, the Financial Institutions) to repurchase an aggregate of up to $6 billion of the Company’s common stock, as previously announced on February 8, 2022. The Company is funding the share repurchases under the ASR Agreements with existing cash resources.
+
+Under the terms of the ASR Agreements, the Company will make payments in an aggregate amount of $6 billion to the Financial Institutions on February 25, 2022, and expects to receive on the same day initial deliveries of approximately 23,258,997 shares of the Company’s common stock in the aggregate from the Financial Institutions. The final number of shares to be repurchased by the Company will be based on the volume-weighted average stock price of the Company’s common stock during the term of the ASR Agreements, less a discount and subject to adjustments pursuant to the terms and conditions of the ASR Agreements. At settlement, under certain circumstances, one or more of the Financial Institutions may be required to deliver additional shares of common stock to the Company, or under certain circumstances, the Company may be required to deliver shares of common stock or to make a cash payment, at its election, to a Financial Institution. The final settlement under the ASR Agreements is scheduled to occur in the third quarter of 2022, subject to earlier termination under certain limited circumstances, as set forth in the ASR Agreements.
+
+Each of the ASR Agreements contains customary terms for these types of transactions, including, but not limited to, the mechanisms to determine the number of shares or the amount of cash that will be delivered at settlement, the required timing of delivery of the shares, the specific circumstances under which adjustments may be made to the transactions, the specific circumstances under which the transactions may be terminated prior to their scheduled maturities and various acknowledgements, representations and warranties made by the Company.
+
+From time to time, one or more of the Financial Institutions and/or their affiliates have directly and indirectly engaged, and may engage in the future, in investment and/or commercial banking transactions with the Company for which such Financial Institution has received, or may receive, customary compensation, fees and expense reimbursement.
+
+The foregoing description of the ASR Agreements does not purport to be complete and is qualified in its entirety by reference to the form of the ASR Agreement, a copy of which is attached hereto as Exhibit 10.1, and is incorporated herein by reference.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+10.1
+
+Form of ASR Agreement.
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+AMGEN INC.
+
+Date: February 24, 2022
+
+By:
+
+/s/ Peter H. Griffith
+
+Name:
+
+Peter H. Griffith
+
+Title:
+
+Executive Vice President and Chief Financial Officer

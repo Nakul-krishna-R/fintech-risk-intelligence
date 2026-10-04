@@ -1,0 +1,80 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+
+8-K/A
+
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+June 8, 2024
+Accenture plc
+
+(Exact name of Registrant as specified in its charter)
+Ireland
+001-34448
+98-0627530
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+1 Grand Canal Square
+
+Grand Canal Harbour
+
+Dublin
+
+2
+,
+Ireland
+
+(Address of principal executive offices)
+Registrant’s telephone number, including area code: (
+353
+) (
+1
+)
+646-2000
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A ordinary shares, par value $0.0000225 per share
+ACN
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+As reported on a Form 8-K filed by Accenture plc (the “Company”) on June 11, 2024, we announced that Angie Park has been appointed as the Company’s Chief Financial Officer, effective December 1, 2024, succeeding KC McClure, who will step down from such position as of November 30, 2024 and retire on March 1, 2025.
+On July 17, 2024, the Compensation, Culture & People Committee (the “Committee”) of the Company’s Board of Directors approved the following new compensation arrangements for Ms. Park in her new role. Ms. Park’s cash compensation will be composed of an annual base salary, effective December 1, 2024, of $900,000; and a target annual bonus for fiscal 2025 of 125% of her base compensation earned during fiscal 2025 (with a maximum of 200%). In addition, the Committee approved equity awards with a total target value of $2,975,000, composed of a target number of restricted share units (“RSUs”) with a fair market value of $2,225,000 as of the date of grant under the Company’s Key Executive Performance Share Program, to be granted in January 2025, and a target number of RSUs with a fair market value of $750,000 as of the date of grant under the Company’s Performance Equity Award Program, with the final amount to be based on fiscal 2025 performance, to be granted in January 2026.
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+Date: July 19, 2024
+ACCENTURE PLC
+By:
+
+/s/ Joel Unruch
+Name:
+
+Joel Unruch
+Title:
+
+General Counsel & Corporate Secretary

@@ -1,0 +1,78 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+February 9, 2023
+
+Meta Platforms, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+001-35551
+20-1665019
+(State or Other Jurisdiction
+of Incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+1601 Willow Road
+,
+Menlo Park
+,
+California
+
+94025
+
+(Address of principal executive offices and Zip Code)
+(
+650
+)
+543-4800
+
+(Registrant’s telephone number, including area code)
+N/A
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A Common Stock, $0.000006 par value
+META
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+As previously disclosed, the Compensation, Nominating & Governance Committee (the “Committee”) of the Board of Directors of Meta Platforms, Inc. (“Meta”) has authorized an overall security program for Mark Zuckerberg to address safety concerns due to specific threats to his safety arising directly as a result of his position as Meta’s founder, Chairman, and CEO. Meta requires security measures for the company’s benefit because of the importance of Mr. Zuckerberg to Meta. The Committee regularly reviews Mr. Zuckerberg’s security program and the related costs, which vary from year to year depending on requisite security measures, Mr. Zuckerberg’s travel schedule, and other factors.
+In 2018, the Committee approved an annual pre-tax allowance of $10 million to Mr. Zuckerberg to cover additional costs related to his and his family’s personal security. This allowance is paid to Mr. Zuckerberg net of required tax withholdings, and Mr. Zuckerberg must apply the net proceeds to pay for additional personnel, equipment, services, residential improvements, or other security-related costs. On February 9, 2023, the Committee approved increasing this annual pre-tax allowance to $14 million, effective immediately. In approving this increase, the Committee considered Mr. Zuckerberg’s position and importance to Meta and the fact that Mr. Zuckerberg has requested to receive only $1 in annual salary and does not receive any bonus payments, equity awards, or other incentive compensation. The Committee also considered Mr. Zuckerberg’s actual spend on security-related costs, comparative data from the peer group of companies that Meta benchmarks against for executive compensation purposes, and other relevant information regarding executive compensation and perquisites. The Committee believes that this increased allowance, together with the costs of Mr. Zuckerberg’s existing overall security program, are appropriate and necessary under the circumstances.
+In addition, on February 9, 2023, in connection with Susan Li’s previous appointment as Meta’s Chief Financial Officer, the Committee approved increasing her annual base salary to $900,000, effective February 27, 2023.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+META PLATFORMS, INC.
+Date:
+February 15, 2023
+By:
+/s/ Katherine R. Kelly
+Name:
+Katherine R. Kelly
+Title:
+Vice President, Deputy General Counsel and Secretary

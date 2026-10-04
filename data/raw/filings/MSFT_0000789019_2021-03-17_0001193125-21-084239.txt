@@ -1,0 +1,209 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported) March 17, 2021 (
+March 16, 2021
+)
+
+Microsoft Corporation
+
+(Exact name of registrant as specified in its charter)
+
+Washington
+
+001-37845
+
+91-1144442
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+One Microsoft Way
+,
+Redmond
+,
+Washington
+
+98052-6399
+
+(Address of Principal Executive Offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+
+(
+425
+)
+882-8080
+
+www.microsoft.com/investor
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock, $0.00000625 par value per share
+
+MSFT
+
+NASDAQ
+
+2.125% Notes due 2021
+
+​MSFT
+
+NASDAQ
+
+3.125% Notes due 2028
+
+MSFT
+
+NASDAQ
+
+2.625% Notes due 2033
+
+MSFT
+
+NASDAQ
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 8.01 Other Events.
+
+On March 16, 2021, Microsoft Corporation (the “Company”) issued a press release announcing the expiration of its previously announced exchange offers for certain of its outstanding debt securities that were validly tendered (and not validly withdrawn) by holders at or prior to such expiration at 11:59 p.m., New York City time, on March 15, 2021 (the “Exchange Offers”). The press release has been revised to reflect that the aggregate amount of 3.041% Notes due 2062 to be issued in connection with the Exchange Offers is $1,934,966,000 rather than $1,934,476,000 as previously indicated. The revised press release with the updated amount is attached hereto as Exhibit 99.1 and is incorporated herein by reference. Other than as discussed above, no other changes have been made to the original press release.
+
+On March 17, 2021, in connection with the settlement of the Exchange Offers, the Company issued $6,250,000,000 aggregate principal amount of its 2.921% Notes due 2052 (the “2052 Notes”) and $1,934,966,000 aggregate principal amount of its 3.041% Notes due 2062 (the “2062 Notes”) (collectively, the “New Notes”). The New Notes were exchanged in the Exchange Offers pursuant to the terms and conditions set forth in the Company’s prospectus, dated March 4, 2021 (the “Prospectus”), filed with the Securities and Exchange Commission on March 4, 2021.
+
+The New Notes were issued pursuant to an indenture, dated as of May 18, 2009 (the “Base Indenture”), between the Company and The Bank of New York Mellon Trust Company, N.A., as trustee, as amended and supplemented by the Fourteenth Supplemental Indenture thereto, dated as of March 17, 2021 (the “Fourteenth Supplemental Indenture”), between the Company and The Bank of New York Mellon Trust Company, N.A., as trustee.
+
+The Base Indenture is set forth as Exhibit 4.1 to the Company’s Registration Statement on Form
+S-4
+(File
+No. 333-253138),
+as amended by Amendment No. 1 thereto.
+
+Interest on the New Notes will be payable semi-annually in arrears on March 17 and September 17 of each year, commencing on September 17, 2021, to holders of record on the preceding March 2 or September 2, as the case may be. The 2052 Notes will mature on March 17, 2052 and the 2062 Notes will mature on March 17, 2062.
+
+The Company will have the option to redeem the New Notes in certain circumstances described in the Prospectus.
+
+The New Notes will be the Company’s senior unsecured obligations and will rank equally with the Company’s other unsecured and unsubordinated debt from time to time outstanding.
+
+The foregoing descriptions of the Fourteenth Supplemental Indenture (including the forms of the New Notes) are qualified in their entirety by the terms of such agreement. Please refer to such agreement, which is incorporated herein by reference and attached hereto as Exhibit 4.1.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d)
+Exhibits
+.
+
+4.1
+
+Fourteenth Supplemental Indenture, dated March 17, 2021, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as trustee.
+
+4.2
+
+Form of Global Note representing the 2.921% Notes due 2052 (included in Exhibit 4.1).
+
+4.3
+
+Form of Global Note representing the 3.041% Notes due 2062 (included in Exhibit 4.1).
+
+99.1
+
+Press Release, dated March 16, 2021, issued by Microsoft Corporation [
+Revised March
+17,
+
+2021
+].
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+MICROSOFT CORPORATION
+
+(Registrant)
+
+Date: March 17, 2021
+
+/s/ Alice L. Jolla
+
+Alice L. Jolla
+
+Corporate Vice President and
+
+Chief Accounting Officer

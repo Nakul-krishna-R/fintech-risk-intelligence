@@ -1,0 +1,121 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+__________________________________
+FORM
+8-K
+
+__________________________________
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+December 22, 2022
+
+__________________________________
+NETFLIX, INC.
+(Exact name of registrant as specified in its charter)
+__________________________________
+Delaware
+001-35727
+77-0467272
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+121 Albright Way
+,
+Los Gatos
+,
+California
+95032
+(Address of principal executive offices)
+(Zip Code)
+(
+408
+)
+540-3700
+
+(Registrant’s telephone number, including area code)
+100 Winchester Circle, Los Gatos, California 95032
+(Former name or former address, if changed since last report)
+__________________________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, par value $0.001 per share
+NFLX
+NASDAQ Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02 (e) Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+Compensation for Named Executive Officers
+The Compensation Committee of the Board of Directors (the “Committee”) of Netflix, Inc. (the “Company”) has established the 2023 compensation for the Company’s Named Executive Officers. The Committee sets a dollar-denominated annual compensation amount (the “allocatable compensation”) for each Named Executive Officer, who can then choose to allocate a portion of that compensation amount toward stock options or cash compensation.
+Following the Committee’s evaluation of the Company’s compensation practices, the Committee has adopted the following compensation program changes for 2023 for the co-Chief Executive Officers, Reed Hastings and Ted Sarandos, and the Chief Operating Officer and Chief Product Officer, Greg Peters: (1) a minimum 50% allocation of the officer’s allocatable compensation to stock options, (2) a salary cap of $3 million in the case of the co-Chief Executive Officers and $1.5 million in the case of the Chief Operating Officer, and (3) an annual performance-based cash bonus program (the “Bonus Program”) under the Company’s Amended and Restated Performance Bonus Plan (the “Plan”). The portion of the allocatable compensation not allocated to stock options and in excess of the applicable salary cap will be subject to the Bonus Program and is the estimated target bonus below.
+For 2023, Ted Sarandos and Greg Peters will participate in the Bonus Program. Reed Hastings will not participate in the Bonus Program because his cash compensation is less than the $3 million salary cap. The Named Executive Officers’ salaries and stock option allocations, as well as estimated target bonuses for participants in the Bonus Program under the Plan are as follows:
+ANNUAL SALARY
+ANNUAL STOCK OPTION ALLOCATION
+ESTIMATED TARGET BONUS
+Reed Hastings, Co-Chief Executive Officer and Chair of the Board
+$
+650,000
+$
+34,000,000
+N/A
+Ted Sarandos, Co-Chief Executive Officer and Chief Content Officer
+3,000,000
+20,000,000
+$
+17,000,000
+Greg Peters, Chief Operating Officer and Chief Product Officer
+1,500,000
+12,000,000
+10,500,000
+Spencer Neumann, Chief Financial Officer
+7,000,000
+7,000,000
+N/A
+David Hyman, Chief Legal Officer and Secretary
+4,000,000
+7,000,000
+N/A
+Rachel Whetstone, Chief Communications Officer
+5,700,000
+800,000
+N/A
+The number of options to be granted each month is determined by the following formula: (annual stock option allocation ÷ 12) / ([Fair Market Value on the date of grant] * 0.40). Each monthly grant shall be made on the first trading day of the month. The options granted to Reed Hastings, Ted Sarandos and Greg Peters will vest on the one-year anniversary of the grant date. The options granted to Spencer Neumann, David Hyman and Rachel Whetstone will vest upon grant. The options shall be exercisable at a strike price equal to the Fair Market Value (as defined in the Company’s 2020 Stock Plan) on the date of grant. The options will be subject to the terms and conditions of the Company’s 2020 Stock Plan and will be administered on a non-discretionary basis without further action by the Board of Directors or the Committee, provided that only the Board of Directors or the Committee may change the amount or terms of future grants. These stock options can generally be exercised up to 10 years following the date of grant, regardless of employment status. The form of stock option agreement for the stock options to be granted to Reed Hastings, Ted Sarandos and Greg Peters is attached hereto as Exhibit 10.1, the terms of which are incorporated by reference herein.
+Awards under the Plan will only be paid after achievement of specified performance goals. The Committee will be the administrator of the Plan and will assign each participant a target award and performance goal or goals for a performance period set by the Committee. The estimated target bonus amounts set out in the table above are estimates only, and any actual amounts that may be paid to the may differ based on factors adopted by the Committee pursuant to the Plan.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+
+Exhibit Number
+Description of Exhibit
+10.1
+Form of Stock Option Agreement under the 2020 Stock Plan (Options Subject to Vesting)
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+NETFLIX, INC.
+Date:
+December 23, 2022
+/s/ Spencer Neumann
+Spencer Neumann
+Chief Financial Officer

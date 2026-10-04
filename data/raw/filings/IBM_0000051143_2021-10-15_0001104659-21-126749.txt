@@ -1,0 +1,325 @@
+Title of each class
+
+Capital stock, par value $.20 per share
+
+Trading
+symbol
+
+IBM
+
+Common Stock
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+WASHINGTON,
+D.C. 20549
+
+FORM
+
+8-K
+
+CURRENT
+REPORT
+
+PURSUANT TO SECTION 13 OR 15 (d)
+
+OF
+THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of
+Report :
+October 15, 2021
+
+(Date of earliest
+event reported)
+
+INTERNATIONAL
+BUSINESS MACHINES CORPORATION
+
+(Exact name of registrant
+as specified in its charter)
+
+New York
+
+1-2360
+
+13-0871985
+
+(State of Incorporation)
+
+(Commission File Number)
+
+(IRS employer Identification No.)
+
+One New Orchard Road
+
+Armonk
+,
+
+New York
+
+10504
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+914
+-
+499-1900
+
+(Registrant’s telephone number)
+
+Check the appropriate
+box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title
+of each class
+
+Trading
+symbol(s)
+
+Name
+of each exchange
+on which registered
+
+Capital stock, par value $.20 per share
+
+IBM
+
+New York Stock Exchange
+
+NYSE
+Chicago
+
+2.625% Notes due 2022
+
+IBM 22A
+
+New York Stock Exchange
+
+1.250% Notes due 2023
+
+IBM 23A
+
+New York Stock Exchange
+
+0.375% Notes due 2023
+
+IBM 23B
+
+New York Stock Exchange
+
+1.125% Notes due 2024
+
+IBM 24A
+
+New York Stock Exchange
+
+2.875% Notes due 2025
+
+IBM 25A
+
+New York Stock Exchange
+
+0.950% Notes due 2025
+
+IBM 25B
+
+New York Stock Exchange
+
+0.875% Notes due 2025
+
+IBM 25C
+
+New York Stock Exchange
+
+0.300% Notes due 2026
+
+IBM 26B
+
+New York Stock Exchange
+
+1.250% Notes due 2027
+
+IBM 27B
+
+New York Stock Exchange
+
+0.300% Notes due 2028
+
+IBM 28B
+
+New York Stock Exchange
+
+1.750% Notes due 2028
+
+IBM 28A
+
+New York Stock Exchange
+
+1.500% Notes due 2029
+
+IBM 29
+
+New York Stock Exchange
+
+1.750% Notes due 2031
+
+IBM 31
+
+New York Stock Exchange
+
+0.650% Notes due 2032
+
+IBM 32A
+
+New York Stock Exchange
+
+1.200% Notes due 2040
+
+IBM 40
+
+New York Stock Exchange
+
+7.00% Debentures due 2025
+
+IBM 25
+
+New York Stock Exchange
+
+6.22% Debentures due 2027
+
+IBM 27
+
+New York Stock Exchange
+
+6.50% Debentures due 2028
+
+IBM 28
+
+New York Stock Exchange
+
+7.00% Debentures due 2045
+
+IBM 45
+
+New York Stock Exchange
+
+7.125% Debentures due 2096
+
+IBM 96
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is
+an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+
+¨
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any
+new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+
+Item 5.04
+Temporary Suspension of Trading Under Registrant’s Employee Benefit Plans.
+
+On October 15, 2021, International Business Machines
+Corporation (the “
+Company
+”) sent a notice (the “
+Blackout
+Notice
+”) to its directors and executive officers informing them that they will be subject to certain trading restrictions
+with respect to Company common stock acquired in connection with their services as a director or an executive officer of the Company
+as a result of a blackout period (the “
+Blackout Period
+”), described below,
+under the IBM 401(k) Plus Plan (the “
+Plan
+”), a retirement plan sponsored
+by the Company that is intended to be qualified under Section 401(a) of the Internal Revenue Code of 1986, as amended. The administrator
+of the Plan will impose restrictions on transactions by participants in the Plan during the Blackout Period in order to provide for the
+conversion of the IBM Stock Fund of the Plan (the “
+IBM Stock Fund
+”), which
+is an investment option under the Plan that consists primarily of shares of Company common stock, into a new stock fund in respect of
+common stock of Kyndryl Holdings, Inc., in connection with, and contingent upon, the closing of the spin-off contemplated under the separation
+and distribution agreement and certain other transaction-related agreements among the Company and Kyndryl Holdings, Inc. (the “
+Spin-Off
+”),
+expected to close before the end of 2021. During this Blackout Period, Plan participants and beneficiaries temporarily will be prevented
+from effecting transactions involving the IBM Stock Fund. Such Blackout Period is currently expected to begin at 4:00 p.m., Eastern Time,
+on November 3, 2021, and to end at the end of the day on November 10.
+
+A copy of the Blackout Notice to directors and
+executive officers of the Company, which includes the information required by Rule 104(b) of Regulation BTR, is attached hereto as Exhibit
+99.1 and is incorporated herein by reference.
+
+Item 9.01.
+Financial Statements and Exhibits.
+
+(d) Exhibits:
+
+Exhibit
+
+Number
+
+Description
+
+99.1
+
+Form of Required
+Black-Out Notice – Spin-Off-Related Stock Trading Restrictions, dated October 15, 2021
+
+104
+
+Cover Page Interactive Data File – the cover page interactive data file does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document
+
+2
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+International Business Machines Corporation
+
+Dated: October 15, 2021
+
+By:
+
+/s/ Frank Sedlarcik
+
+Frank Sedlarcik
+
+Vice President, Assistant General Counsel and Secretary
+
+3

@@ -1,0 +1,180 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+_____________________________________________________________________________
+FORM
+8-K
+
+______________________________________________________________________________
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report:
+February 29, 2024
+
+(Date of earliest event reported)
+______________________________________________________________________________
+Verizon Communications Inc.
+
+(Exact name of registrant as specified in its charter)
+_______________________________________________________________________________
+
+Delaware
+1-8606
+23-2259884
+(State or other jurisdiction
+of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+1095 Avenue of the Americas
+10036
+New York,
+New York
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code: (
+212
+)
+395-1000
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol(s)
+Name of Each Exchange on Which Registered
+Common Stock, par value $0.10
+VZ
+New York Stock Exchange
+Common Stock, par value $0.10
+VZ
+The Nasdaq Global Select Market
+4.073% Notes due 2024
+VZ 24C
+New York Stock Exchange
+0.875% Notes due 2025
+VZ 25
+New York Stock Exchange
+3.25% Notes due 2026
+VZ 26
+New York Stock Exchange
+1.375% Notes due 2026
+VZ 26B
+New York Stock Exchange
+0.875% Notes due 2027
+VZ 27E
+New York Stock Exchange
+1.375% Notes due 2028
+VZ 28
+New York Stock Exchange
+1.125% Notes due 2028
+VZ 28A
+New York Stock Exchange
+2.350% Fixed Rate Notes due 2028
+VZ 28C
+New York Stock Exchange
+1.875% Notes due 2029
+VZ 29B
+New York Stock Exchange
+0.375% Notes due 2029
+VZ 29D
+New York Stock Exchange
+1.250% Notes due 2030
+VZ 30
+New York Stock Exchange
+1.875% Notes due 2030
+VZ 30A
+New York Stock Exchange
+4.250% Notes due 2030
+VZ 30D
+New York Stock Exchange
+2.625% Notes due 2031
+VZ 31
+New York Stock Exchange
+2.500% Notes due 2031
+VZ 31A
+New York Stock Exchange
+3.000% Fixed Rate Notes due 2031
+VZ 31D
+New York Stock Exchange
+0.875% Notes due 2032
+VZ 32
+New York Stock Exchange
+0.750% Notes due 2032
+VZ 32A
+New York Stock Exchange
+1.300% Notes due 2033
+VZ 33B
+New York Stock Exchange
+4.75% Notes due 2034
+VZ 34
+New York Stock Exchange
+4.750% Notes due 2034
+VZ 34C
+New York Stock Exchange
+3.125% Notes due 2035
+VZ 35
+New York Stock Exchange
+1.125% Notes due 2035
+VZ 35A
+New York Stock Exchange
+3.375% Notes due 2036
+VZ 36A
+New York Stock Exchange
+2.875% Notes due 2038
+VZ 38B
+New York Stock Exchange
+1.875% Notes due 2038
+VZ 38C
+New York Stock Exchange
+1.500% Notes due 2039
+VZ 39C
+New York Stock Exchange
+3.50% Fixed Rate Notes due 2039
+VZ 39D
+New York Stock Exchange
+1.850% Notes due 2040
+VZ 40
+New York Stock Exchange
+3.850% Fixed Rate Notes due 2041
+VZ 41C
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+☐
+Emerging growth company
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 7.01. Regulation FD Disclosure
+On February 29, 2024, Verizon Communications Inc. (“Verizon”) entered into two separate commitment agreements, one by and between Verizon, State Street Global Advisors Trust Company (“State Street”), as independent fiduciary of the Verizon Management Pension Plan and Verizon Pension Plan for Associates (the “Pension Plans”), and The Prudential Insurance Company of America (“Prudential”), and one by and between Verizon, State Street and RGA Reinsurance Company (“RGA”), under which the Pension Plans purchased a nonparticipating single premium group annuity contract from Prudential and a nonparticipating single premium group annuity contract from RGA to settle approximately $5.9 billion of benefit liabilities of the Pension Plans.
+The purchase of the group annuity contracts closed on March 6, 2024. The group annuity contracts primarily cover a population that includes 56,000 retirees who commenced benefit payments from the Pension Plans prior to January 1, 2023 (“Transferred Participants”). Prudential and RGA each irrevocably guarantee and assume the sole obligation to make future payments to the Transferred Participants as provided under their respective group annuity contracts, with direct payments beginning July 1, 2024. Prudential and RGA will each assume 50% of the benefit obligation related to Transferred Participants, except in certain jurisdictions where Prudential will assume 100% of the benefit obligation related to Transferred Participants residing in such jurisdictions. The aggregate amount of each Transferred Participant’s payment under the group annuity contracts will be equal to the amount of each individual’s payment under the Pension Plans.
+Participants in the Pension Plans who are not covered by the group annuity contracts, including management and associate retirees who commenced benefit payments on or after January 1, 2023 and active and term vested managers and associates, will not be affected by this transaction.
+Transferred Participants will continue to receive their benefits from the Pension Plans until July 1, 2024, at which time Prudential will assume responsibility for administrative services, including distribution of payments to the Transferred Participants, on behalf of itself and, where applicable, RGA.
+The purchase of the group annuity contracts was funded directly by assets of the Pension Plans. Verizon made additional contributions to the Pension Plans prior to the closing date of the transaction in the aggregate amount of approximately $365 million. With these contributions, the funded ratio of each of the Pension Plans does not change as a result of this transaction.
+As a result of the transaction, Verizon expects to recognize a one-time non-cash pension settlement credit in the first quarter of 2024. The actual amount of the credit will depend on finalization of the actuarial and other assumptions.
+The information provided pursuant to this Item 7.01 is “furnished” and shall not be deemed to be “filed” with the Securities and Exchange Commission or incorporated by reference in any filing under the Securities Exchange Act of 1934, as amended, or the Securities Act of 1933, as amended, except as shall be expressly set forth by specific reference in any such filing.
+Forward-Looking Statements
+In this report we have made forward-looking statements. These statements are based on our estimates and assumptions and are subject to risks and uncertainties. Forward-looking statements include the information concerning our possible or assumed future results of operations. Forward-looking statements also include those preceded or followed by the words "anticipates," "assumes," "believes," "estimates," "expects," "forecasts," "hopes," "intends," "plans," "targets" or similar expressions. For those statements, we claim the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+Verizon Communications Inc.
+
+(Registrant)
+Date:
+March 6, 2024
+
+/s/ Mary-Lee Stillwell
+
+Mary-Lee Stillwell
+
+Senior Vice President and Controller

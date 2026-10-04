@@ -1,0 +1,142 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (date of earliest event reported):
+January 26, 2021
+
+WELLS FARGO & COMPANY
+(Exact name of registrant as specified in its charter)
+Delaware
+
+001-02979
+
+No.
+41-0449260
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission File
+Number)
+
+(IRS Employer
+Identification No.)
+
+420 Montgomery Street
+,
+San Francisco
+,
+California
+
+94104
+
+(Address of principal executive offices) (Zip Code)
+Registrant's telephone number, including area code:
+1-
+866
+-
+249-3302
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol
+Name of
+Each Exchange on
+Which Registered
+Common Stock, par value $1-2/3
+WFC
+NYSE
+7.5% Non-Cumulative Perpetual Convertible Class A Preferred Stock, Series L
+WFC.PRL
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series N
+WFC.PRN
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series O
+WFC.PRO
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series P
+WFC.PRP
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of 5.85% Fixed-to-Floating Rate Non-Cumulative Perpetual Class A Preferred Stock, Series Q
+WFC.PRQ
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of 6.625% Fixed-to-Floating Rate Non-Cumulative Perpetual Class A Preferred Stock, Series R
+WFC.PRR
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series W
+WFC.PRW
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series X
+WFC.PRX
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Y
+WFC.PRY
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Z
+WFC.PRZ
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series AA
+WFC.PRA
+NYSE
+Guarantee of 5.80% Fixed-to-Floating Rate Normal Wachovia Income Trust Securities of Wachovia Capital Trust III
+WFC/TP
+NYSE
+Guarantee of Medium-Term Notes, Series A, due October 30, 2028 of Wells Fargo Finance LLC
+WFC/28A
+NYSE
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act (17 CFR 230.405) or Rule 12b-2 of the Exchange Act (17 CFR 240.12b‑2).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+o
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+The Board of Directors (the “Board”) of Wells Fargo & Company (the “Company”), through its Human Resources Committee (the “HRC”), awarded CEO and President Charles W. Scharf total direct compensation of $20,335,000 for performance year 2020, compared with annualized total direct compensation of $23,000,000 for 2019. Mr. Scharf’s compensation for 2020 consisted of base salary of $2,500,000, annual incentive compensation of $4,350,000, payable in cash, and long-term incentive compensation of $13,485,000, split evenly between Performance Shares and Restricted Share Rights.
+In determining Mr. Scharf’s incentive compensation for 2020, the HRC considered, among other factors:
+•
+The Company’s financial results for 2020, which compared unfavorably with 2019 in many respects, but which were significantly impacted by the effect of the pandemic on economic and market conditions
+•
+Actions taken by the Company in response to the pandemic, which included helping 3.6 million consumer and small business customers by deferring payments and waiving fees; funding approximately 194,000 loans totaling $10.5 billion under the Paycheck Protection Program; protecting employees through work-from-home arrangements and new employee benefits; and supporting communities through targeted donations and other recovery efforts
+•
+The Company’s maintenance of strong capital and liquidity throughout the period while navigating significant market disruptions and continuing to serve its customers
+•
+The Company’s demonstrable progress on addressing risk, control and regulatory issues, but with recognition of the significant work remaining
+•
+The buildout of the senior management team, including the addition of seven new Operating Committee members in 2020, and the emphasis on a performance, accountability and execution-based culture
+•
+The introduction of new cultural expectations throughout the organization to emphasize the importance of diversity and inclusion, doing what’s right for the customer, and executing effectively
+Based on its evaluation of these factors, among others, including the impact of the pandemic on the Company’s financial results, the HRC determined that application of threshold performance goals for 2020 was not appropriate for purposes of funding and paying 2020 annual incentive compensation to its employees, including to Mr. Scharf and other executives.
+On January 26, 2021, the HRC also awarded incentive compensation for performance year 2020 to other 2019 named executives, including annual cash incentive compensation awards as follows: John R. Shrewsberry, Senior EVP and former Chief Financial Officer – $1,282,563; Mary T. Mack, Senior EVP and CEO of Consumer & Small Business Banking – $1,672,250; Perry G. Pelos, Senior EVP and CEO of Commercial Banking – $1,373,475; and Saul Van Beurden, Senior EVP and Head of Technology – $1,500,000. These 2019 named executives also received long-term incentive compensation for 2020 in the form of Performance Shares and Restricted Share Rights.
+Information regarding the compensation of our named executives for performance year 2020 will be disclosed in the Company’s proxy statement for our 2021 annual meeting of shareholders, which we anticipate will be filed with the U.S. Securities and Exchange Commission in March 2021.
+2
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated:
+January 29, 2021
+WELLS FARGO & COMPANY
+By:
+/s/ ANTHONY R. AUGLIERA
+Anthony R. Augliera
+Executive Vice President, Deputy General Counsel and Secretary
+
+3

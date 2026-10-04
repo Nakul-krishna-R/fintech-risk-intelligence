@@ -1,0 +1,284 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+May 18, 2022
+
+Date of Report (Date of earliest event reported)
+
+ADVANCED MICRO DEVICES, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-07882
+
+94-1692300
+
+(State of
+
+Incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification Number)
+
+2485 Augustine Drive
+
+Santa Clara
+,
+California
+
+95054
+
+(Address of principal executive offices) (Zip Code)
+
+(408)
+
+749-4000
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.01 par value
+
+AMD
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.07
+
+Submission of Matters to a Vote of Security Holders.
+
+On May 18, 2022, Advanced Micro Devices, Inc. (the “Company”) held its 2022 Annual Meeting of Stockholders (the “Annual Meeting”). At the Annual Meeting, the Company’s stockholders voted in favor for all of the following three proposals, each of which is described in detail in the Company’s definitive proxy statement filed with the Securities and Exchange Commission on March 31, 2022 (the “Proxy”):
+
+Proposal No. 1: Election of Directors.
+The following individuals were elected to the Company’s Board of Directors:
+
+For
+
+Against
+
+Abstain
+
+Broker
+Non-votes
+
+John E. Caldwell
+
+905,063,964
+
+87,646,117
+
+4,855,979
+
+237,660,855
+
+Nora M. Denzel
+
+950,421,461
+
+42,305,778
+
+4,838,821
+
+237,660,855
+
+Mark Durcan
+
+972,398,055
+
+20,315,412
+
+4,852,593
+
+237,660,855
+
+Michael P. Gregoire
+
+975,470,910
+
+17,213,199
+
+4,881,951
+
+237,660,855
+
+Joseph A. Householder
+
+972,093,855
+
+20,586,394
+
+4,885,811
+
+237,660,855
+
+John W. Marren
+
+974,902,226
+
+17,788,062
+
+4,875,772
+
+237,660,855
+
+Jon A. Olson
+
+990,317,829
+
+4,712,079
+
+2,536,152
+
+237,660,855
+
+Lisa T. Su
+
+913,259,771
+
+79,469,288
+
+4,837,001
+
+237,660,855
+
+Abhi Y. Talwalkar
+
+836,985,527
+
+155,696,053
+
+4,884,480
+
+237,660,855
+
+Elizabeth W. Vanderslice
+
+990,460,645
+
+4,579,717
+
+2,525,698
+
+237,660,855
+
+Proposal No.
+2: Ratification of the Appointment of the Independent Registered Public Accounting Firm.
+The Company’s stockholders ratified the appointment of Ernst & Young LLP as the Company’s independent registered public accounting firm for the fiscal year ending December 31, 2022.
+
+For
+
+Against
+
+Abstain
+
+1,175,740,927
+
+57,369,329
+
+2,116,659
+
+Proposal No.
+3: Approval on a
+Non-Binding,
+Advisory Basis of the Compensation of the Company’s Named Executive Officers
+(“Say-on-Pay”).
+
+The Company’s stockholders approved, on a
+non-binding
+basis, the compensation of the Company’s named executive officers as disclosed in the Proxy.
+
+For
+
+Against
+
+Abstain
+
+Broker
+Non-Votes
+
+944,986,767
+
+49,953,488
+
+2,625,805
+
+237,660,855
+
+SIGNATURES
+
+Pursuant to the requirements of the Exchange Act, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: May 20, 2022
+
+ADVANCED MICRO DEVICES, INC.
+
+By:
+
+/s/ Harry A. Wolin
+
+Name:
+
+Harry A. Wolin
+
+Title:
+
+Senior Vice President, General Counsel and Corporate Secretary

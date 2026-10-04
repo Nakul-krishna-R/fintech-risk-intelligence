@@ -1,0 +1,93 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of report (Date of earliest event reported):
+January 10, 2024
+PFIZER INC
+.
+(Exact name of registrant as specified in its charter)
+Delaware
+1-3619
+13-5315170
+(State or other
+(Commission File
+(I.R.S. Employer
+jurisdiction of
+Number)
+Identification No.)
+incorporation)
+
+66 Hudson Boulevard East
+10001-2192
+New York,
+
+New York
+
+(Zip Code)
+(Address of principal executive offices)
+Registrant’s telephone number, including area code:
+(
+212
+)
+733-2323
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2 (b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $.05 par value
+PFE
+New York Stock Exchange
+1.000% Notes due 2027
+PFE27
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 8.01. Other Events.
+Pfizer Inc. (the “Company”) has received notice of an unsolicited “mini-tender” offer by TRC Capital Investment Corporation (“TRC Capital”) to purchase up to 4,000,000 shares of the Company's common stock at a cash offer price of $27.35 per share, which is approximately 4.4 percent lower than the $28.61 per share closing price for a share of the Company's common stock on December 27, 2023, the business day prior to the date of the offer. The shares subject to TRC Capital's offer represent approximately 0.071 percent of the shares of Pfizer common stock outstanding as of the date of the offer.
+On January 10, 2024, the Company issued the press release attached to this Report as Exhibit 99.1, informing its shareholders that the Company does not endorse TRC Capital’s unsolicited mini-tender offer and recommending that shareholders do not tender their shares. Shareholders who have already tendered their shares may withdraw them at any time prior to the expiration of the offer, in accordance with TRC Capital’s offering documents. The offer is currently scheduled to expire at 12:01 a.m., New York City time, on January 30, 2024, but TRC Capital may extend the offer period at its discretion. The Company is not affiliated, or associated in any way, with TRC Capital, its mini-tender offer or its offer documentation.
+Additional information concerning mini-tenders is included in the attached press release.
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit No.
+Exhibit Description
+99.1
+Press Release of Pfizer Inc. dated January 10, 2024
+104
+Cover Page Interactive Data File--the cover page XBRL tags are embedded within the Inline XBRL document.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+PFIZER INC.
+
+Dated: January 10, 2024
+By:
+/s/ Margaret M. Madden
+
+Margaret M. Madden
+
+Senior Vice President and Corporate Secretary
+
+Chief Governance Counsel

@@ -1,0 +1,157 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (date of earliest event reported):
+June 27, 2023
+
+WELLS FARGO & COMPANY
+(Exact name of registrant as specified in its charter)
+Delaware
+
+001-02979
+
+No.
+41-0449260
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission File
+Number)
+
+(IRS Employer
+Identification No.)
+
+420 Montgomery Street
+,
+San Francisco
+,
+California
+
+94104
+
+(Address of principal executive offices) (Zip Code)
+Registrant's telephone number, including area code:
+1-
+866
+-
+249-3302
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol
+Name of Each Exchange
+on Which Registered
+Common Stock, par value $1-2/3
+WFC
+New York Stock
+Exchange
+(
+NYSE
+)
+7.5% Non-Cumulative Perpetual Convertible Class A Preferred Stock, Series L
+WFC.PRL
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of
+5.85% Fixed-to-Floating Rate Non-Cumulative Perpetual Class A Preferred Stock, Series Q
+WFC.PRQ
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of
+6.625% Fixed-to-Floating Rate Non-Cumulative Perpetual Class A Preferred Stock, Series R
+WFC.PRR
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Y
+WFC.PRY
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Z
+WFC.PRZ
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series AA
+WFC.PRA
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series CC
+WFC.PRC
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series DD
+WFC.PRD
+NYSE
+Guarantee of Medium-Term Notes, Series A, due October 30, 2028 of Wells Fargo Finance LLC
+WFC/28A
+NYSE
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act (17 CFR 230.405) or Rule 12b-2 of the Exchange Act (17 CFR 240.12b‑2).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+o
+Item 5.03
+Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+On June 27, 2023, the Board of Directors (the “
+Board
+”) of Wells Fargo & Company (the “
+Company
+”) approved and adopted the Company’s By-Laws (as amended and restated, the “
+By-Laws
+”), effective July 1, 2023. Among other things, the amendments:
+(a) enhance the procedural mechanics and disclosure requirements relating to business proposals submitted and director nominations made by stockholders, including by requiring, in each case:
+(1) certain additional background information regarding the proposing stockholders, proposed nominees or business, as applicable, and other persons related to such matter, including, without limitation, a description of any plans or proposals relating to any action that would require certain government or regulatory agency notifications, and representations from proposed nominees confirming that, among other things, such nominees consent to the running of a background check of the type typically obtained by the Company with respect to the initial nomination of persons as directors and will submit to interviews with the Board or a committee thereof;
+(2) disclosure regarding the nature of, and participants in, a solicitation; and
+(i) in the case of any solicitation that is subject to Rule 14a-19 of the Securities Exchange Act of 1934, as amended (the “
+Exchange Act
+”), a confirmation
+
+that such person or group intends to deliver, in the same manner required of the Company under the Exchange Act, a proxy statement and/or form of proxy to holders of at least 67% of the voting power of the Company’s outstanding shares entitled to vote generally in the election of directors; or
+(ii) in the case of other business, whether such stockholder intends to deliver, in the same manner required of the Company under the Exchange Act, a proxy statement and/or form of proxy to holders of at least the percentage of the Company’s outstanding shares required under applicable law to approve or adopt the proposal; and
+(3) delivery of documentation, which may take the form of a certified statement and documentation from a proxy solicitor, that specifically demonstrates compliance with the above-summarized delivery requirements;
+(b) update the procedural mechanics with respect to adjourned meetings of stockholders;
+(c) eliminate the requirement to have a stockholder list available for inspection at the stockholder meeting;
+(d) require that a stockholder directly or indirectly soliciting proxies from other stockholders use a proxy card color other than white;
+(e) opt out of Section 116 of the General Corporation Law of the State of Delaware (the “
+DGCL
+”) by requiring that certain notices and other information or documents provided by stockholders to the Company pursuant to the By-Laws must be delivered in writing; and
+(f) eliminate the requirement that the Board (or, if one has been constituted, an executive committee thereof) must be unable to readily convene a quorum for action in order to activate the
+emergency by-law that is applicable in an emergency condition as contemplated by Section 110 of the DGCL.
+The By-Laws also incorporate various other updates and technical, clarifying and conforming changes, including with respect to the use of gender-neutral terms.
+The foregoing summary of the amendments to the By-Laws is qualified in all respects by reference to the text of the By-Laws, a copy of which is filed as Exhibit 3.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits
+
+Exhibit No.
+Description
+Location
+3.1
+By-L
+aws
+Filed herewith
+104
+Cover Page Interactive Data File
+Embedded within the Inline XBRL document
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated:
+June 29, 2023
+WELLS FARGO & COMPANY
+By:
+/s/ TANGELA S. RICHTER
+Tangela S. Richter
+Executive Vice President,
+Deputy General Counsel and Secretary

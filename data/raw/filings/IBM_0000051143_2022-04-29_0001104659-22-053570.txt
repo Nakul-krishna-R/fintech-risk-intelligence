@@ -1,0 +1,544 @@
+Title of each class
+
+Capital stock, par value $.20 per share
+
+Trading
+symbol
+
+IBM
+
+Common Stock
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+WASHINGTON,
+D.C. 20549
+
+FORM
+
+8-K
+
+CURRENT
+REPORT PURSUANT TO SECTION 13 OR 15 (d)
+
+OF
+THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report
+:
+April 26, 2022
+
+(Date of earliest
+event reported)
+
+INTERNATIONAL
+BUSINESS MACHINES CORPORATION
+
+(Exact name of registrant
+as specified in its charter)
+
+New York
+
+1-2360
+
+13-0871985
+
+(State of Incorporation)
+
+(Commission File Number)
+
+(IRS employer Identification No.)
+
+One New Orchard Road
+
+Armonk
+,
+
+New York
+
+10504
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+914
+-
+499-1900
+
+(Registrant’s telephone number)
+
+Check the appropriate
+box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title
+of each class
+
+Trading
+symbol(s)
+
+Name
+of each exchange
+on which registered
+
+Capital stock, par value $.20 per share
+
+IBM
+
+New York Stock Exchange
+
+NYSE
+Chicago
+
+2.625% Notes due 2022
+
+IBM 22A
+
+New York Stock Exchange
+
+1.250% Notes due 2023
+
+IBM 23A
+
+New York Stock Exchange
+
+0.375% Notes due 2023
+
+IBM 23B
+
+New York Stock Exchange
+
+1.125% Notes due 2024
+
+IBM 24A
+
+New York Stock Exchange
+
+2.875% Notes due 2025
+
+IBM 25A
+
+New York Stock Exchange
+
+0.950% Notes due 2025
+
+IBM 25B
+
+New York Stock Exchange
+
+0.875% Notes due 2025
+
+IBM 25C
+
+New York Stock Exchange
+
+0.300% Notes due 2026
+
+IBM 26B
+
+New York Stock Exchange
+
+1.250% Notes due 2027
+
+IBM 27B
+
+New York Stock Exchange
+
+0.300% Notes due 2028
+
+IBM 28B
+
+New York Stock Exchange
+
+1.750% Notes due 2028
+
+IBM 28A
+
+New York Stock Exchange
+
+1.500% Notes due 2029
+
+IBM 29
+
+New York Stock Exchange
+
+0.875% Notes due 2030
+
+IBM 30
+
+New York Stock Exchange
+
+1.750% Notes due 2031
+
+IBM 31
+
+New York Stock Exchange
+
+0.650% Notes due 2032
+
+IBM 32A
+
+New York Stock Exchange
+
+1.250% Notes due 2034
+
+IBM 34
+
+New York Stock Exchange
+
+1.200% Notes due 2040
+
+IBM 40
+
+New York Stock Exchange
+
+7.00% Debentures due 2025
+
+IBM 25
+
+New York Stock Exchange
+
+6.22% Debentures due 2027
+
+IBM 27
+
+New York Stock Exchange
+
+6.50% Debentures due 2028
+
+IBM 28
+
+New York Stock Exchange
+
+7.00% Debentures due 2045
+
+IBM 45
+
+New York Stock Exchange
+
+7.125% Debentures due 2096
+
+IBM 96
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is
+an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+
+¨
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any
+new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+
+(a)
+International Business Machines Corporation (IBM) held its Annual Meeting of Stockholders on April 26, 2022. Below are the final
+voting results. For more information on the following proposals, see IBM’s proxy statement dated March 7, 2022, the relevant
+portions of which are incorporated herein by reference.
+
+(b)
+Election of Directors for a Term of One Year:
+
+DIRECTOR
+
+FOR
+
+AGAINST
+
+ABSTAIN
+
+BROKER
+NON-VOTES
+
+T. Buberl
+
+512,637,798
+
+19,408,925
+
+4,938,318
+
+156,937,839
+
+D.N. Farr
+
+519,777,197
+
+12,298,952
+
+4,908,892
+
+156,937,839
+
+A. Gorsky
+
+485,553,123
+
+46,605,407
+
+4,826,511
+
+156,937,839
+
+M. Howard
+
+523,505,493
+
+9,039,546
+
+4,440,002
+
+156,937,839
+
+A. Krishna
+
+496,032,233
+
+35,527,242
+
+5,425,566
+
+156,937,839
+
+A.N. Liveris
+
+350,899,075
+
+180,880,781
+
+5,205,185
+
+156,937,839
+
+F.W. McNabb III
+
+522,234,880
+
+9,685,670
+
+5,064,491
+
+156,937,839
+
+M.E. Pollack
+
+522,938,417
+
+9,585,516
+
+4,461,108
+
+156,937,839
+
+J.R. Swedish
+
+521,023,719
+
+10,955,761
+
+5,005,561
+
+156,937,839
+
+P.R. Voser
+
+519,656,314
+
+12,350,599
+
+4,978,128
+
+156,937,839
+
+F.H. Waddell
+
+513,406,371
+
+18,585,003
+
+4,993,667
+
+156,937,839
+
+A.W. Zollar
+
+517,825,968
+
+14,323,443
+
+4,835,630
+
+156,937,839
+
+Ratification of Appointment of Independent Registered Public
+Accounting Firm:
+
+For
+
+656,967,636
+
+95.2
+%
+
+Against
+
+32,830,338
+
+4.8
+%
+
+Abstain
+
+4,124,906
+
+Management Proposal on Advisory Vote on Executive Compensation
+(Say on Pay):
+
+For
+
+473,874,456
+
+89.6
+%
+
+Against
+
+55,096,187
+
+10.4
+%
+
+Abstain
+
+8,014,398
+
+Broker Non-Votes
+
+156,937,839
+
+Stockholder Proposal on Stockholder Special Meeting Right:
+
+For
+
+187,771,875
+
+35.5
+%
+
+Against
+
+340,686,181
+
+64.5
+%
+
+Abstain
+
+8,526,985
+
+Broker Non-Votes
+
+156,937,839
+
+Stockholder Proposal to Have an Independent Board Chairman:
+
+For
+
+211,119,750
+
+39.8
+%
+
+Against
+
+318,877,167
+
+60.2
+%
+
+Abstain
+
+6,988,124
+
+Broker Non-Votes
+
+156,937,839
+
+Stockholder Proposal Requesting a Public Report on the Use
+of Concealment Clauses:
+
+For
+
+339,827,195
+
+64.7
+%
+
+Against
+
+185,380,818
+
+35.3
+%
+
+Abstain
+
+11,777,028
+
+Broker Non-Votes
+
+156,937,839
+
+2
+
+IBM’s web site (www.ibm.com) contains a significant amount of
+information about IBM, including financial and other information for investors (www.ibm.com/investor/). IBM encourages investors to visit
+its various web sites from time to time, as information is updated and new information is posted.
+
+3
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+Date: April 29, 2022
+
+By:
+
+/s/ Frank Sedlarcik
+
+Frank Sedlarcik
+
+Vice President, Assistant General Counsel and Secretary
+
+4

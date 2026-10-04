@@ -1,0 +1,240 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+February 1, 2023
+Accenture plc
+
+(Exact name of Registrant as specified in its charter)
+Ireland
+001-34448
+98-0627530
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+1 Grand Canal Square
+
+Grand Canal Harbour
+
+Dublin
+
+2
+,
+Ireland
+
+(Address of principal executive offices)
+Registrant’s telephone number, including area code: (
+353
+) (
+1
+)
+646-2000
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A ordinary shares, par value $0.0000225 per share
+ACN
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.07 Submission of Matters to a Vote of Security Holders
+On February 1, 2023, Accenture plc (“Accenture”) held its 2023 annual general meeting of shareholders (the “Annual Meeting”). Accenture’s shareholders approved each of the following proposals considered at the Annual Meeting. The following chart sets forth the number and percentage of votes cast for and against, and the number of abstention votes and broker non-votes, with respect to each proposal voted upon by Accenture’s shareholders (proposal numbers correspond to the proposal numbers used in Accenture’s definitive proxy statement, filed with the Securities and Exchange Commission on December 13, 2022):
+Proposals
+For
+Against
+Abstained
+Broker
+Non-Votes
+1.
+To appoint the following directors:
+Jaime Ardila
+465,082,358
+99.50
+%
+2,353,826
+0.50
+%
+604,567
+51,330,445
+Nancy McKinstry
+354,035,893
+75.92
+%
+112,268,650
+24.08
+%
+1,736,208
+51,330,445
+Beth E. Mooney
+463,641,586
+99.22
+%
+3,666,205
+0.78
+%
+732,960
+51,330,445
+Gilles C. Pélisson
+462,655,939
+98.98
+%
+4,785,122
+1.02
+%
+599,690
+51,330,445
+Paula A. Price
+460,858,860
+98.58
+%
+6,657,673
+1.42
+%
+524,218
+51,330,445
+Venkata (Murthy) Renduchintala
+465,356,556
+99.59
+%
+1,931,033
+0.41
+%
+753,162
+51,330,445
+Arun Sarin
+461,134,609
+98.68
+%
+6,163,335
+1.32
+%
+742,807
+51,330,445
+Julie Sweet
+439,534,586
+94.46
+%
+25,795,429
+5.54
+%
+2,710,736
+51,330,445
+Tracey T. Travis
+410,723,229
+87.86
+%
+56,746,726
+12.14
+%
+570,796
+51,330,445
+2.
+To approve, in a non-binding vote, the compensation of Accenture’s named executive officers
+422,625,148
+90.46
+%
+44,557,046
+9.54
+%
+858,557
+51,330,445
+4.
+To ratify, in a non-binding vote, the appointment of KPMG LLP (“KPMG”) as Accenture’s independent auditor and to authorize, in a binding vote, the Audit Committee of the Board of Directors (the “Board”) to determine KPMG’s remuneration
+492,194,630
+94.97
+%
+26,051,859
+5.03
+%
+1,124,707
+—
+5.
+To grant the Board the authority to issue shares under Irish law
+510,449,122
+98.52
+%
+7,688,295
+1.48
+%
+1,233,779
+—
+6.
+To grant the Board the authority to opt-out of pre-emption rights under Irish law
+511,505,227
+98.76
+%
+6,420,234
+1.24
+%
+1,445,735
+—
+7.
+To determine the price range at which Accenture can re-allot shares that it acquires as treasury shares under Irish law
+517,296,457
+99.86
+%
+741,500
+0.14
+%
+1,333,239
+—
+
+Additionally, set forth below are the voting results on the following matter:
+1 Year
+2 Years
+3 Years
+Abstained
+Broker
+Non-Votes
+3.
+To approve, in a non-binding vote, the frequency of future non-binding votes to approve the compensation of Accenture’s named executive officers
+460,508,579
+98.57
+%
+990,639
+0.21
+%
+5,691,738
+1.22
+%
+849,795
+51,330,445
+In light of the voting results with respect to the frequency of future shareholder votes on executive compensation, the Board has decided that Accenture will hold an annual advisory vote on the compensation of named executive officers until the next required vote on the frequency of shareholder votes on the compensation of executives. Accenture is required to hold votes on frequency every six years.
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+Date: February 1, 2023
+ACCENTURE PLC
+By:
+
+/s/ Joel Unruch
+Name:
+
+Joel Unruch
+Title:
+
+General Counsel & Corporate Secretary

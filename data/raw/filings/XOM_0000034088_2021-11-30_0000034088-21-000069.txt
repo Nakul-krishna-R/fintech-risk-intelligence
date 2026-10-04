@@ -1,0 +1,167 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+November 23, 2021
+
+Exxon Mobil Corporation
+
+(Exact name of registrant as specified in its charter)
+
+New Jersey
+1-2256
+13-5409005
+(State or other
+jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+
+5959 Las Colinas Boulevard
+,
+
+Irving
+,
+
+Texas
+
+75039-2298
+
+(Address of principal executive offices) (Zip Code)
+
+Registrant’s telephone number, including area code:
+(
+972
+)
+
+940-6000
+
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Name of Each Exchange
+Title of Each Class
+Trading Symbol
+on Which Registered
+Common Stock, without par value
+XOM
+New York Stock Exchange
+0.142% Notes due 2024
+XOM24B
+New York Stock Exchange
+0.524% Notes due 2028
+XOM28
+New York Stock Exchange
+0.835% Notes due 2032
+XOM32
+New York Stock Exchange
+1.408% Notes due 2039
+XOM39A
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+Item 5.02
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers
+(e) On November 23, 2021, the Compensation Committee of Exxon Mobil Corporation (the "Corporation" or "ExxonMobil") established a total ceiling of $145 million in respect of 2021 to be available for grant under the Corporation's Short Term Incentive Program. Bonuses, paid in full in year of grant, were awarded to certain officers as follows:
+D. W. Woods
+$3,142,000
+K. A. Mikells
+$1,932,000
+A. P. Swiger
+$1,345,000
+N. A. Chapman
+$1,932,000
+J. P. Williams, Jr.
+$1,932,000
+Under the terms of the Short Term Incentive Program, in the event of a material negative restatement of ExxonMobil’s reported financial or operating results, bonus awards paid on the basis of such results are subject to recoupment.
+The cumulative EPS threshold to reach full payout of the 2018 and 2019 Earnings Bonus Units (EBU) remains at $6.50 per share. The Committee decided to exclude from the EPS calculation a non-cash U.S. Upstream impairment reported in 4Q 2020. The maximum settlement value of previously granted EBU awards remains unchanged, including the maximum values of awards granted to certain officers as reflected in the applicable ExxonMobil Proxy Statements for the respective years and set forth below:
+2018
+2019
+2020 (*)
+D. W. Woods
+$1,232,000
+$1,108,000
+$0
+A. P. Swiger
+$924,000
+$739,000
+$0
+N. A. Chapman
+$638,000
+$635,000
+$0
+J. P. Williams, Jr.
+$638,000
+$615,500
+$0
+(*)
+The 2020 bonus program was suspended in response to market conditions at the time. This resulted in a $0 bonus award (cash and EBU) grant in 2020.
+Prior to settlement, EBU awards remain subject to forfeiture in case of detrimental activity on the part of the executive.
+The form of amendment of the 2018 and 2019 EBU awards is filed as Exhibit 99.1 to this report.
+Effective January 1, 2022, the annual salary of N. A. Chapman, Senior Vice President, will increase to $1,100,000. This represents an increase of 15% and is the result of the Committee’s assessment of performance and relative position with external benchmarking companies.
+All ExxonMobil executive officers are "at will" employees of the Corporation and do not have employment contracts.
+2
+INDEX TO EXHIBITS
+
+Exhibit No.
+Description
+
+99.1
+Form of amendment of 2018 and 2019 Earnings Bonus Unit instruments
+
+104
+Cover Page Interactive Data File (formatted as Inline XBRL).
+
+3
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+EXXON MOBIL CORPORATION
+
+Date: November 30, 2021
+By:
+/s/ LEN M. FOX
+
+Len M. Fox
+
+Vice President and Controller
+
+(Principal Accounting Officer)
+4

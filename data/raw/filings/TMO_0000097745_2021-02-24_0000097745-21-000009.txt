@@ -1,0 +1,141 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+February 23, 2021
+
+THERMO FISHER SCIENTIFIC INC.
+
+(Exact name of Registrant as specified in its Charter)
+
+Delaware
+1-8002
+04-2209186
+(State of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification Number)
+168 Third Avenue
+
+Waltham
+,
+Massachusetts
+
+02451
+
+(Address of principal executive offices) (Zip Code)
+Registrant’s telephone number, including area code: (
+781
+)
+622-1000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $1.00 par value
+TMO
+New York Stock Exchange
+2.150% Notes due 2022
+TMO 22A
+New York Stock Exchange
+0.750% Notes due 2024
+TMO 24A
+New York Stock Exchange
+0.125% Notes due 2025
+TMO 25B
+New York Stock Exchange
+2.000% Notes due 2025
+TMO 25
+New York Stock Exchange
+1.400% Notes due 2026
+TMO 26A
+New York Stock Exchange
+1.450% Notes due 2027
+TMO 27
+New York Stock Exchange
+1.750% Notes due 2027
+TMO 27B
+New York Stock Exchange
+0.500% Notes due 2028
+TMO 28A
+New York Stock Exchange
+1.375% Notes due 2028
+TMO 28
+New York Stock Exchange
+1.950% Notes due 2029
+TMO 29
+New York Stock Exchange
+0.875% Notes due 2031
+TMO 31
+New York Stock Exchange
+2.375% Notes due 2032
+TMO 32
+New York Stock Exchange
+2.875% Notes due 2037
+TMO 37
+New York Stock Exchange
+1.500% Notes due 2039
+TMO 39
+New York Stock Exchange
+1.875% Notes due 2049
+TMO 49
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 or Rule 12b-2 of the Securities Exchange Act of 1934.
+☐
+Emerging growth company
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+THERMO FISHER SCIENTIFIC INC.
+Item 5.03 Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+(a)
+Amendment of By-Laws
+On February 23, 2021, the Board of Directors (the “Board”) of Thermo Fisher Scientific Inc. (the “Company”) adopted and approved amended and restated By-Laws of the Company. The amendments, which were effective upon adoption by the Board:
+•
+Provide that stockholders who hold at least 25% of the outstanding shares of common stock of the Company may call a special meeting of stockholders, subject to the requirements and procedures set forth therein (Article I, Sections 2 and 9);
+•
+Clarify the form in which certain documents or information may be delivered to the Company (Article I, Section 13); and
+•
+Provide special procedural requirements of meetings of the Board in the event of an emergency (Article II, Section 15).
+The amendments to the Bylaws also include procedural, conforming and clarifying changes, including changes to conform to current provisions of the Delaware General Corporation Law and eliminate provisions that have become obsolete due to the passage of time (Article I, Sections 6 and 11; Article II, Section 14; Article III, Section 11; Article IV, Section 4; and Article V, Section 4). The foregoing description of the amendments to the By-Laws is qualified in its entirety by reference to the By-Laws, as amended, a copy of which is attached hereto as Exhibit 3.1 and is incorporated by reference herein.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit No.
+Description
+3.1
+Amended and Restated By-Laws of the Registrant, as amended and effective as of February 23, 2021
+.
+104
+Cover Page Interactive Data File (embedded with the Inline XBRL document)
+2
+THERMO FISHER SCIENTIFIC INC.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+THERMO FISHER SCIENTIFIC INC.
+Date:
+February 24, 2021
+By:
+/s/ Michael A. Boxer
+Michael A. Boxer
+Senior Vice President and General Counsel
+3

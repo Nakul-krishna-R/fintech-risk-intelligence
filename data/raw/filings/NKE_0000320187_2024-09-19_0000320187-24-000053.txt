@@ -1,0 +1,126 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+September 19, 2024
+
+Date of Report (date of earliest event reported)
+NIKE, Inc.
+
+(Exact name of registrant as specified in its charter)
+Oregon
+1-10635
+93-0584541
+(State or other jurisdiction of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+ONE BOWERMAN DRIVE
+
+BEAVERTON
+,
+OR
+
+97005-6453
+
+(Address of principal executive offices and zip code)
+(
+503
+)
+671-6453
+
+Registrant's telephone number, including area code
+NO CHANGE
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Class B Common Stock
+NKE
+New York Stock Exchange
+(Title of each class)
+(Trading Symbol)
+(Name of each exchange on which registered)
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+o
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers
+On September 19, 2024, NIKE, Inc. (the “Company”) announced that, effective as of October 14, 2024 (the “Effective Date”), the Board of Directors of the Company (the “Board”) has appointed Elliott Hill as President and Chief Executive Officer (“CEO”) of the Company, as a member of the Board and as a member of the Executive Committee of the Board.
+There are no arrangements or understandings between Mr. Hill and any person pursuant to which Mr. Hill was selected as an officer or director, and no family relationships exist between Mr. Hill and any director or executive officer of the Company. Mr. Hill is not a party to any transaction to which the Company is or was a participant and in which Mr. Hill has a direct or indirect material interest subject to disclosure under Item 404(a) of Regulation S-K.
+On September 19, 2024, the Company also announced that, effective as of the Effective Date, John Donahoe will retire as the Company’s President and CEO and as a member of the Board. Mr. Donahoe’s departure is not related to any disagreement between Mr. Donahoe and the Company.
+Biographical Information
+Mr. Hill, 60, has been the founder and owner of Open Road Resources, LLC since 2020, through which he has served as an operating partner of BDT & MSD Partners since 2023, and as a senior advisor to BDT Capital from 2020 to 2023. Prior to his retirement in 2020, Mr. Hill spent more than 32 years at the Company holding various senior leadership positions, most recently serving as the Company’s President – Consumer and Marketplace from 2018 to 2020. Mr. Hill is a graduate of Texas Christian University with a Bachelor of Science in Kinesiology and Ohio University where he holds a Masters in Sports Administration. He currently serves on the board of trustees for Texas Christian University.
+Offer Letter with Mr. Hill
+On September 19, 2024, the Company entered into an offer letter with Mr. Hill (the “Offer Letter”) establishing his compensation as President and CEO. Under the Offer Letter, Mr. Hill’s compensation as President and CEO will comprise an annual base salary of $1,500,000; a target annual bonus of 200% of base salary (prorated for the Company’s fiscal year ending May 31, 2025 (the “2025 fiscal year”), based on the Company’s standard methodology); and an annual target long-term incentive award of $15,500,000.
+Mr. Hill’s annual long-term incentive award for the Company’s 2025 fiscal year will be granted as soon as practicable following the Effective Date and comprise 50% performance-based restricted stock units (“PSUs”), 35% stock options and 15% restricted stock units (“RSUs”). Consistent with the terms of the Company’s 2025 fiscal year grants to other executive officers, generally PSUs will vest based on the Company’s stock price performance over a three-year performance period, stock options will vest one-quarter (25%) per year on the anniversary of the date of grant, and RSUs will vest one-quarter (25%) per year on the anniversary of the date of grant.
+In addition, in order to make him whole for certain forfeited compensation from his prior roles, Mr. Hill will receive
+
+certain one-time equity and cash awards as soon as reasonably practicable following the Effective Date, as follows:
+•
+A one-time RSU award with a target grant value of $3,000,000 (the “New Hire RSU Award”). The New Hire RSU Award will vest one-third (33.33%) per year on the anniversary of the grant date.
+•
+A one-time cash payment equal to $4,000,000 (the “New Hire Cash Award”) payable in connection with his commencement of employment. If, within two years following the Effective Date, Mr. Hill voluntarily resigns from employment with the Company or is unable to continue working for the Company as a result of being subject to a non-compete agreement that prohibits Mr. Hill from working for the Company, Mr. Hill will be required to repay the full amount of the New Hire Cash Award.
+Mr. Hill will be eligible to participate in the Company’s employee benefit plans and programs applicable to senior executives of the Company generally, as may be in effect from time to time, including, without limitation, participation in the Company’s Relocation Policy (generally, with recognition for his prior service with the Company).
+As part of standard compensation and benefit arrangements for senior executives, the Company and Mr. Hill have entered into an agreement containing a covenant not to compete (the “Hill RCA”) that will extend for eighteen months following the termination of his employment with the Company. The Hill RCA provides that, if Mr. Hill’s employment is terminated by the Company without cause (as defined in the Hill RCA) at any time, the Company will make monthly payments to him during the eighteen-month noncompetition period in an amount equal to one-twelfth of his current annual base salary and target bonus. The Hill RCA provides further that, if Mr. Hill voluntarily resigns at any time, the Company will make monthly payments to him during
+the eighteen-month noncompetition period in an amount equal to one-twenty fourth of his current annual base salary and target bonus. The Company may waive the covenant with the consent of Mr. Hill, unless Mr. Hill is terminated by the Company for cause (as defined in the Hill RCA), in which case, the Company may unilaterally waive the covenant. If the covenant is waived, the Company will not be required to make the payments described above for the months as to which the waiver applies.
+The foregoing summary does not purport to be complete and is subject to, and qualified in its entirety by, reference to the full text of each of the following, each of which is incorporated by reference into this Item 5.02:
+•
+the Offer Letter, which will be filed with our Quarterly Report on Form 10-Q for the quarter ending November 30, 2024 (the “Q2 Form 10-Q”);
+•
+the Form of Stock Option Agreement under the NIKE, Inc. Stock Incentive Plan, which is attached as Exhibit 10.26 to the Company’s Annual Report on
+Form 10-K
+for the fiscal year ended May 31, 2024 (the “Form 10-K”);
+•
+the Form of Restricted Stock Unit Agreement under the NIKE, Inc. Stock Incentive Plan, which is attached as Exhibit 10.27 to the Form 10-K;
+•
+the Form of Performance-Based Restricted Stock Unit Agreement under the NIKE, Inc. Stock Incentive Plan, which is attached as Exhibit 10.28 to the Form 10-K;
+•
+the Covenant Not to Compete and Non-Disclosure Agreement, dated September 19, 2024, between NIKE, Inc. and Elliott Hill, which will be filed with the Q2 Form 10-Q.
+Letter Agreement with Mr. Donahoe
+On September 19, 2024, the Company entered into a letter agreement with Mr. Donahoe (the “Letter Agreement”), pursuant to which (1) he will continue to serve as President and CEO of the Company until the Effective Date, and (2) as of the Effective Date, he will resign from the Board and any other director, officer, manager, committee member or other positions that he holds with the Company and its subsidiaries (including the Executive Committee of the Board) and begin serving as advisor to the Company. Mr. Donahoe will remain a full-time non-executive employee of the Company in that role through the date of his retirement
+
+on January 31, 2025 (the “Retirement Date”). Mr. Donahoe’s outstanding equity awards will continue to vest in accordance with their terms through the Retirement Date, subject to Mr. Donahoe’s compliance with certain release requirements, and Mr. Donahoe’s annual base salary and employee benefit plan eligibility will remain unchanged through the Retirement Date.
+The Covenant Not to Compete and Non-Disclosure Agreement, dated October 17, 2019 (the “Noncompetition Agreement”), by and between the Company and Mr. Donahoe, will remain in full force and effect pursuant to its terms, and the Restriction Period (as defined in the Noncompetition Agreement) thereunder will commence on the Retirement Date, such that Mr. Donahoe will be eligible to receive the benefits payable under the Noncompetition Agreement upon a voluntary termination of employment.
+The foregoing summary does not purport to be complete and is subject to, and qualified in its entirety by, reference to the full text of the Letter Agreement, which will be filed in the Q2 Form 10-Q and is incorporated by reference into this Item 5.02.
+Item 7.01. Regulation FD Disclosure
+The Company issued a press release on September 19, 2024 announcing the transition described in Item 5.02 above, which is furnished as Exhibit 99.1 to this Current Report on Form 8-K.
+A copy of the press release is being furnished pursuant to Item 7.01 of Form 8-K and the information included therein shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934 (the “Exchange Act”) or otherwise subject to the liabilities under that Section and shall not be deemed to be incorporated by reference into any filing of the Company under the Securities Act of 1933 or the Exchange Act.
+Item 9.01. Financial Statements and Exhibits
+(d) Exhibits.
+Exhibit No.
+Exhibit
+99.1
+Press Release of NIKE, Inc., dated September 19, 2024
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+NIKE, Inc.
+(Registrant)
+
+Date:
+September 19, 2024
+By:
+/s/ Matthew Friend
+
+Matthew Friend
+
+Executive Vice President and Chief Financial Officer

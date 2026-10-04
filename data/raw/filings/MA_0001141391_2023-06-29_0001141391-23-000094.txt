@@ -1,0 +1,255 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+_______________________________________
+FORM
+8-K
+
+_______________________________________
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+June 27, 2023
+_______________________________________
+Mastercard Incorporated
+(Exact name of registrant as specified in its charter)
+
+_______________________________________
+Delaware
+001-32877
+13-4172551
+(State or other jurisdiction
+of incorporation)
+(Commission File
+Number)
+(IRS Employer
+Identification No.)
+2000 Purchase Street
+10577
+Purchase,
+NY
+(Address of principal executive offices)
+(Zip Code)
+(914)
+249-2000
+(Registrant's telephone number, including area code)
+NOT APPLICABLE
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange of which registered
+Class A common stock
+MA
+New York Stock Exchange
+2.1% Notes due 2027
+MA27
+New York Stock Exchange
+1.0% Notes due 2029
+MA29A
+New York Stock Exchange
+2.5% Notes due 2030
+MA30
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+1
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+Holders of Class A common stock at the close of business on April 28, 2023 (the “Record Date”) were entitled to vote at the Annual Meeting of Stockholders held June 27, 2023 (the "Annual Meeting"). A total of 842,540,126 shares of Class A common stock, constituting a quorum, were present or represented by proxy at the Annual Meeting. The votes cast with respect to the matters voted upon at the Annual Meeting are set forth below:
+1. The holders of Class A common stock elected the following individuals to serve on the Board as directors for a one-year term expiring on the date of Mastercard’s 2024 annual meeting of stockholders:
+Director
+For
+Against
+Abstain
+Broker
+Non-Votes
+Merit E. Janow
+782,920,309
+15,005,492
+613,383
+44,000,942
+Candido Bracher
+794,086,889
+3,828,481
+623,814
+44,000,942
+Richard K. Davis
+785,081,900
+12,842,696
+614,588
+44,000,942
+Julius Genachowski
+768,880,658
+29,017,526
+641,000
+44,000,942
+Choon Phong Goh
+753,957,632
+43,946,087
+635,465
+44,000,942
+Oki Matsumoto
+787,137,689
+10,771,696
+629,799
+44,000,942
+Michael Miebach
+796,659,328
+1,262,781
+617,075
+44,000,942
+Youngme Moon
+788,131,534
+9,778,318
+629,332
+44,000,942
+Rima Qureshi
+783,802,693
+14,116,976
+619,515
+44,000,942
+Gabrielle Sulzberger
+782,164,000
+15,744,503
+630,681
+44,000,942
+Harit Talwar
+792,976,792
+4,914,687
+647,705
+44,000,942
+Lance Uggla
+789,606,834
+8,293,703
+638,647
+44,000,942
+2. The holders of Class A common stock approved Mastercard's executive compensation on an advisory basis:
+For
+Against
+Abstain
+Broker
+Non-Votes
+761,556,886
+35,068,514
+1,913,784
+44,000,942
+3. The holders of Class A common stock approved "1 year" as the frequency of future advisory votes on executive compensation:
+1 year
+2 years
+3 years
+Abstain
+Broker
+Non-Votes
+774,766,931
+432,446
+22,722,908
+616,899
+44,000,942
+After considering the voting results for Proposal 3, Mastercard’s Board of Directors determined to continue to hold an annual say-on-pay vote until Mastercard is next required, or the Board deems it appropriate, to submit to the stockholders a proposal to select, by advisory vote, the frequency of the say-on-pay vote.
+4. The holders of Class A common stock approved the Mastercard Incorporated Employee Stock Purchase Plan:
+For
+Against
+Abstain
+Broker
+Non-Votes
+795,605,209
+2,361,206
+572,769
+44,000,942
+2
+5.
+
+The holders of Class A common stock ratified the appointment of PricewaterhouseCoopers LLP as Mastercard’s independent registered public accounting firm for 2023:
+For
+Against
+Abstain
+801,525,359
+40,173,901
+840,866
+6. The holders of Class A common stock did not approve the stockholder proposal requesting a report on ensuring respect for civil liberties:
+For
+Against
+Abstain
+Broker
+Non-Votes
+4,843,206
+787,014,458
+6,681,520
+44,000,942
+7. The holders of Class A common stock did not approve the stockholder proposal requesting a report on Mastercard's stance on new Merchant Category Code:
+For
+Against
+Abstain
+Broker
+Non-Votes
+75,229,406
+715,686,861
+7,622,917
+44,000,942
+8. The holders of Class A common stock did not approve the stockholder proposal requesting lobbying disclosure:
+For
+Against
+Abstain
+Broker
+Non-Votes
+222,400,657
+563,570,703
+12,567,824
+44,000,942
+9. The holders of Class A common stock did not approve the stockholder proposal requesting stockholders approve advance notice bylaw amendments:
+For
+Against
+Abstain
+Broker
+Non-Votes
+106,969,986
+688,351,218
+3,217,980
+44,000,942
+10. The holders of Class A common stock did not approve the stockholder proposal requesting a report on the cost-benefit analysis of diversity and inclusion efforts:
+For
+Against
+Abstain
+Broker
+Non-Votes
+3,976,370
+788,341,249
+6,221,565
+44,000,942
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit Number
+Exhibit Description
+104
+Cover Page Interactive Data File - the cover page interactive data file does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+3
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+MASTERCARD INCORPORATED
+Date:
+June 29, 2023
+By:
+/s/ Adam Zitter
+Adam Zitter
+Corporate Secretary
+4

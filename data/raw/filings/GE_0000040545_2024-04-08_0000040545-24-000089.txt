@@ -1,0 +1,92 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported)
+April 5, 2024
+General Electric Co
+mpany
+(Exact name of registrant as specified in its charter)
+
+New York
+001-00035
+14-0689340
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+
+1 Neumann Way,
+Evendale,
+OH
+
+45215
+(Address of principal executive offices)
+
+(Zip Code)
+
+(Registrant’s telephone number, including area code)
+
+(
+617
+)
+443-3000
+
+_______________________________________________
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, par value $0.01 per share
+GE
+New York Stock Exchange
+0.875% Notes due 2025
+GE 25
+New York Stock Exchange
+1.875% Notes due 2027
+GE 27E
+New York Stock Exchange
+1.500% Notes due 2029
+GE 29
+New York Stock Exchange
+7 1/2% Guaranteed Subordinated Notes due 2035
+GE /35
+New York Stock Exchange
+2.125% Notes due 2037
+GE 37
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On April 5, 2024, GE Aerospace (General Electric Company or the “Company”) elected new officers following the Company’s completion of its spin-off of GE Vernova Inc. (“GE Vernova”). This included the appointment of Robert Giglietti, 53, as Chief Accounting Officer, Controller and Treasurer, succeeding Thomas S. Timko as principal accounting officer. Mr. Giglietti joined the Company in 2002 and has held a variety of leadership positions in the finance organization, including most recently as Treasurer for GE Aerospace (since July 2023) and Chief Financial Officer - GE Capital and Corporate (since January 2021) and Operational Leader for the GE separations. During his time at the Company, Mr. Giglietti has also served as Deputy Controller – Financial Reporting, Deputy Controller – GE Operational Controller, Treasury Chief Operating Officer and other controllership roles across GE’s industrial and financial services businesses. In connection with his appointment as Chief Accounting Officer and Controller, Mr. Giglietti will receive a one-time grant of restricted stock units with a grant date fair value of $750,000. The restricted stock units will vest over three years and be subject to accelerated vesting in the event of a termination (i) due to death or disability, (ii) by the Company other than for cause or (iii) in connection with a transfer to a successor employer in a business disposition.
+As the GE Vernova spin-off marked the completion of the Company’s strategic plan to establish three independent companies, a number of employees of the Company’s former Corporate division who did not assume positions with any of the three companies have departed or will depart from the Company, as previously reported. These include Michael J. Holston and L. Kevin Cox, who were both named executive officers in the Company’s definitive proxy statement filed on March 14, 2024, and Mr. Timko, all of whom departed on April 7, 2024.
+2
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+General Electric Company
+(Registrant)
+Date: April 8, 2024
+/s/ Brandon Smith
+Brandon Smith
+Vice President, Chief Corporate, Securities & Finance Counsel
+3

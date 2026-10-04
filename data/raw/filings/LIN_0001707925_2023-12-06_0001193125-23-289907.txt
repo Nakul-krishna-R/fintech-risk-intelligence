@@ -1,0 +1,175 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+DATE OF REPORT (Date of earliest event reported):
+December 6, 2023
+
+Linde plc
+(Exact name of registrant as specified in its charter)
+
+Ireland
+
+001-38730
+
+98-1448883
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(I.R.S. Employer
+Identification No.)
+
+10 Riverview Dr.
+Danbury
+,
+Connecticut
+United States
+
+06810
+
+Forge
+43 Church Street West
+Woking, Surrey
+
+GU21 6HT
+United Kingdom
+(Address of principal executive offices) (Zip Code)
++
+44
+
+1483
+
+242200
+(Registrant’s telephone numbers, including area code)
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol
+
+Name of each exchange
+on which registered
+
+Ordinary shares (€0.001 nominal value per share)
+
+LIN
+
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01.
+
+Entry into a Material Definitive Agreement.
+364-Day
+Credit Agreement
+On December 6, 2023, Linde plc (the “Company”) and certain of its subsidiaries entered into an unsecured
+364-day
+revolving credit agreement (the “Credit Agreement”) with Bank of America, N.A., as administrative agent, and a syndicate of banking institutions as lenders.
+The initial borrowers under the Credit Agreement are the Company, Linde Inc., Linde GmbH and Linde Finance B.V. Additional subsidiaries of the Company may become borrowers under the Credit Agreement, subject to satisfaction of customary conditions.
+The Company fully and unconditionally guarantees all obligations of the subsidiary borrowers under the Credit Agreement. Linde Inc. and Linde GmbH also fully and conditionally guarantee all obligations of the Company under the Credit Agreement. Under certain circumstances, certain other subsidiaries of the Company may become subsidiary guarantors under the Credit Agreement.
+The Credit Agreement provides for total commitments of $1,500,000,000.
+The Credit Agreement is available for general corporate purposes of the Company and its subsidiaries. Revolving loans may be borrowed in U.S. Dollars, Pounds Sterling, Euros and other currencies agreed to by the administrative agent and the lenders. The Credit Agreement also includes commitments for swingline loans of up to $50,000,000 (for U.S. Dollar-denominated swingline loans) and up to €25,000,000 (for Euro-denominated swingline loans). Any usage of the commitments for swingline loans will reduce availability for revolving loans.
+The commitments under the Credit Agreement will expire on the date which is 364 days after the date of the Credit Agreement (the “Commitment Termination Date”). The Company or any subsidiary borrower may, at any time during the term of the Credit Agreement with advance notice to the administrative agent, and subject to the satisfaction of certain conditions, elect to have the entire principal balance outstanding under the Credit Agreement converted into
+non-revolving
+term loans, which will be due and payable one year after the Commitment Termination Date.
+
+Any revolving loans and swingline loans outstanding under the Credit Agreement will bear interest based on SOFR, EURIBOR, SONIA or the base rate, as applicable, plus, in each case, an interest margin that is subject to a ratings-based pricing grid. Commitment fees and other customary fees will be payable in connection with the Credit Agreement.
+The Credit Agreement contains customary representations and warranties, conditions to credit extension, affirmative covenants, negative covenants and events of default. The Credit Agreement does not contain a financial maintenance covenant.
+As of the date of this Report, the Credit Agreement has no usage outstanding.
+The foregoing description of the Credit Agreement is a summary and is qualified in its entirety by the terms and provisions of the Credit Agreement, which is filed as Exhibit 10.1 to this report and is incorporated by reference into this Item 1.01.
+
+Item 2.03.
+
+Creation of a Direct Financial Obligation or an Obligation Under an
+Off-Balance
+Sheet Arrangement of a Registrant.
+The information set forth above under “Item 1.01. Entry into a Material Definitive Agreement” is incorporated herein by reference.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+(d) Exhibit. The following exhibit is filed herewith:
+
+Exhibit
+No.
+
+Description
+
+10.1
+
+364-Day
+Credit Agreement, dated as of December 6, 2023, among Linde plc, the Subsidiary Borrowers, certain Subsidiary Guarantors, the lenders party thereto and Bank of America, N.A., as Administrative Agent.
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+LINDE PLC
+
+Date: December 6, 2023
+
+By:
+
+/s/ Guillermo Bichara
+
+Name:
+
+Guillermo Bichara
+
+Title:
+
+Executive Vice President and Chief Legal Officer

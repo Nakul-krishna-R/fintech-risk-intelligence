@@ -1,0 +1,89 @@
+________________________________________________________________________
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+December 21, 2023
+The Walt Disney Company
+(Exact name of registrant as specified in its charter)
+Delaware
+001-38842
+83-0940635
+(State or other jurisdiction
+(Commission File Number)
+(IRS Employer
+of incorporation)
+Identification No.)
+
+500 South Buena Vista Street
+
+Burbank
+,
+California
+
+91521
+
+(Address of Principal Executive Offices and Zip Code)
+(
+818
+)
+560-1000
+
+(Registrant’s telephone number, including area code)
+Not applicable
+
+(Former name or address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.01 par value
+DIS
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+________________________________________________________________________
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On December 21, 2023, a subsidiary of The Walt Disney Company (the “Company”) and Horacio E. Gutierrez, the Company’s Senior Executive Vice President, General Counsel and Chief Compliance Officer, entered into an amendment (the “Amendment”) to Mr. Gutierrez’s employment agreement.
+Pursuant to the Amendment, the term of Mr. Gutierrez’s employment agreement was extended to December 31, 2026; Mr. Gutierrez’s title was changed to Senior Executive Vice President, Chief Legal and Compliance Officer of the Company; and it was agreed that he will continue to report solely and directly to the Chief Executive Officer of the Company. The Amendment also increased Mr. Gutierrez’s annual base salary to $1,500,000, effective on January 1, 2024, with future increases at the Company’s discretion, and increased his target long-term equity incentive annual award value to 600% of his base salary, commencing with the Company’s current fiscal year. Mr. Gutierrez’s target bonus award value as a percentage of his base salary was unchanged.
+A copy of the Amendment is attached as Exhibit 10.1 to this Current Report on Form 8-K and incorporated by reference herein.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+Exhibit
+Number
+Description
+10.1
+Amendment dated December 21, 2023 to that certain Employment Agreement, dated as of December 21, 2021, by and between Disney Corporate Services Co., LLC and Horacio E. Gutierrez, as amended; and to that certain Indemnification Agreement, dated as of December 21, 2021, by and between The Walt Disney Company and Horacio E. Gutierrez, as amended
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+The Walt Disney Company
+By:
+
+/s/ Jolene E. Negre
+
+Jolene E. Negre
+
+Associate General Counsel and Secretary
+Dated: December 22, 2023

@@ -1,0 +1,88 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+_________________________
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (date of earliest event reported): March 17, 2022 (
+March 17, 2022
+)
+ADOBE INC.
+
+(Exact name of Registrant as specified in its charter)
+Delaware
+0-15175
+77-0019522
+(State or other jurisdiction of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+345 Park Avenue
+
+San Jose
+,
+California
+
+95110-2704
+
+(Address of principal executive offices and zip code)
+Registrant’s telephone number, including area code:
+(
+408
+)
+536-6000
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol
+Name of Each Exchange on Which Registered
+Common Stock, $0.0001 par value per share
+ADBE
+NASDAQ Global Select Market
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 8.01 Other Events.
+Adobe Inc. (the “Company”) recently became aware of an unsolicited “mini-tender” offer by Tutanota LLC (“Tutanota”) to purchase up to one hundred thousand shares of the Company's common stock at an offer price of $500.00 per share. The shares subject to Tutanota’s offer represent less than 0.01% of the Company’s common stock outstanding as of March 4, 2022.
+On March 17, 2022, the Company issued the press release attached to this Report as Exhibit 99.1, informing its stockholders that the Company does not endorse Tutanota’s unsolicited mini-tender offer and recommending that stockholders do not tender their shares. Stockholders who have already tendered their shares may withdraw them at any time prior to the expiration of the offer, in accordance with Tutanota’s offering documents. The offer is currently scheduled to expire at 5:00 p.m., Eastern Time, on Friday, April 8, 2022, but Tutanota may extend the offering period at its discretion.
+The Company is not affiliated or associated in any way with Tutanota, its mini-tender offer, or the offer documentation. Additional information concerning mini-tenders is included in the attached press release.
+Item 9.01 Financial Statements and Exhibits.
+
+(d)
+Exhibits
+Exhibit Number
+Exhibit Description
+99.1
+Press release issued on March 17, 2022 entitled “Adobe Recommends Stockholders Reject ‘Mini-Tender’ Offer by Tutanota LLC”
+104
+Cover Page Interactive Data File (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document)
+2
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ADOBE INC.
+Date: March 17, 2022
+By:
+/s/ DANA RAO
+Dana Rao
+Executive Vice President, General Counsel & Chief Trust Officer
+3

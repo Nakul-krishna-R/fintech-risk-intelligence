@@ -1,0 +1,106 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+December 1, 2024
+
+INTEL CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+000-06217
+94-1672743
+(State or other jurisdiction
+(Commission
+(IRS Employer
+of incorporation)
+File Number)
+Identification No.)
+
+2200 Mission College Boulevard
+,
+Santa Clara
+,
+California
+95054-1549
+(Address of principal executive offices)
+(Zip Code)
+Registrant's telephone number, including area code:
+(408)
+
+765-8080
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, $0.001 par value
+INTC
+Nasdaq Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+1
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+Resignation of Chief Executive Officer
+On December 1, 2024, Patrick Gelsinger, Chief Executive Officer and director of Intel Corporation (the “
+Company
+”), resigned from the Company and the Board of Directors (the “
+Board
+”), effective immediately. Mr. Gelsinger also resigned from the Board of Directors of Mobileye Global Inc., a subsidiary of the Company, effective immediately.
+In connection with Mr. Gelsinger’s resignation, Mr. Gelsinger and the Company entered into a Retirement and Separation Agreement (the “
+Separation Agreement
+”), pursuant to which Mr. Gelsinger will be eligible to receive a severance payment equal to the sum of (i) 18 months of his current base salary of $1,250,000 and (ii) 1.5 times his current target bonus of 275% his base salary, payable over a period of 18 months in accordance with the Company’s regular payroll practices, and a pro rata payment equal to 11/12ths of the 2024 annual bonus that would otherwise have been payable to Mr. Gelsinger absent his resignation, based on actual Company performance, as determined by the Company, and payable at the time such bonuses are otherwise payable to other executives of the Company. Such payments are in consideration for, and contingent upon, among other things, Mr. Gelsinger’s agreement to a standard release of claims.
+Appointment of Interim Co-Chief Executive Officers
+On December 1, 2024, the Board appointed Michelle Johnston Holthaus and David Zinsner as Interim Co-Chief Executive Officers of the Company, to hold such positions until a permanent successor Chief Executive Officer is appointed. Ms. Holthaus was also appointed as Chief Executive Officer of the Intel Products business and, in connection with this appointment, has stepped down from her role as executive vice president and general manager of the Client Computing Group.
+The Board has formed a CEO Search Committee to identify, evaluate and recommend qualified candidates to serve as the Company’s new Chief Executive Officer. Frank Yeary has also been appointed as interim Executive Chair of the Board to oversee this process.
+Ms. Holthaus, age 51, since January 2022 has been executive vice president and general manager of the Client Computing Group at the Company. In a previous role, Ms. Holthaus was chief revenue officer and general manager of the Sales, Marketing and Communications Group. In the role since 2017, she was responsible for global sales and revenue at the Company and leading the Company’s efforts to foster innovative sales and marketing approaches that broaden the Company’s business opportunities and enhance customer relationships worldwide. A proven leader in sales and product marketing, Ms. Holthaus has held a variety of management roles since joining the Company in 1996. Before leading the sales, marketing and communications teams, she led global Client Computing Group sales. In that role, she managed worldwide sales strategy and customer relationships for the Company’s client computing product lines, including notebooks, desktops, tablets, 2 in 1 devices and home gateways. Earlier roles in her tenure at the Company include leading the Microsoft Global Account team and managing channel products, central marketing and operations within the Company’s PC Client Group. Ms. Holthaus graduated from Linfield College with a bachelor’s degree in finance.
+Mr. Zinsner, age 56, remains the Company’s Executive Vice President and Chief Financial Officer. He leads the Company’s global finance organization, including finance, accounting and reporting, tax, treasury, internal audit and investor relations. Prior to joining the Company in January 2022, Mr. Zinsner was executive vice president and CFO at Micron Technology Inc. During his tenure, he served on the company’s executive leadership team and was responsible for leading the global finance organization and investor relations. Mr. Zinsner has more than 25 years of financial and operational experience in semiconductors, manufacturing and the technology industry. Earlier in his career, Mr. Zinsner served as president and chief operating officer at Affirmed Networks. He also served as senior vice president of finance and CFO at Analog Devices, and senior vice president and CFO at Intersil Corp. He holds a master’s degree in business administration, finance and accounting from Vanderbilt University and a bachelor’s degree in industrial management from Carnegie Mellon University.
+Ms. Holthaus and Mr. Zinsner do not have any family relationships with any director or executive officer of the Company, or person nominated or chosen by the Company to become a director or executive officer, and they have no direct or indirect material interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation S-K.
+Item 7.01 Regulation FD Disclosure.
+On December 2, 2024, the Company issued a press release announcing Mr. Gelsinger’s resignation and Mr. Holthaus’ and Mr. Zinsner’s appointments. A copy of such press release is attached hereto as Exhibit 99.1 and incorporated by reference herein. The information in Item 7.01 of this Current Report on Form 8-K is furnished and shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+2
+Item 9.01
+
+Financial Statements and Exhibits.
+(d) Exhibits.
+The following exhibits are provided as part of this Report:
+Exhibit Number
+Description
+99.1
+Press Release dated December 2, 2024
+.
+104
+Cover Page Interactive Data File, formatted in Inline XBRL and included as Exhibit 101.
+3
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+INTEL CORPORATION
+(Registrant)
+Date:
+December ___, 2024
+By:
+/s/ APRIL MILLER BOISE
+April Miller Boise
+Executive Vice President and Chief Legal Officer
+4

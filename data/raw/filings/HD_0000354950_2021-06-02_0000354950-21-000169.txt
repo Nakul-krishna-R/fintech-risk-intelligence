@@ -1,0 +1,106 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+__________________
+FORM
+8-K
+
+__________________
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+June 2, 2021
+
+__________________
+THE
+HOME DEPOT, INC.
+
+(Exact Name of Registrant as Specified in Charter)
+
+__________________
+Delaware
+
+1-8207
+
+95-3261426
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+2455 Paces Ferry Road
+,
+Atlanta
+,
+Georgia
+
+30339
+
+(Address of Principal Executive Offices) (Zip Code)
+(
+770
+)
+433-8211
+
+(Registrant’s Telephone Number, Including Area Code)
+Not Applicable
+(Former Name or Former Address, if Changed Since Last Report)
+
+__________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2 below):
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.05 Par Value Per Share
+HD
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 8.01. Other Events.
+On May 24, 2021, The Home Depot, Inc. (the “Company”) received notification of an unsolicited “mini-tender” offer by Tutanota LLC (“Tutanota”) to purchase up to 1,000,000 shares of the Company's common stock at an offer price of $360.00 per share.
+The offer price of $360.00 per share is conditioned on, among other things, the closing price per share of Home Depot’s common stock exceeding $360.00 per share on the last trading day before the offer expires.
+The number of shares subject to Tutanota’s offer represented approximately 0.094% of the Company’s common stock outstanding as of May 18, 2021.
+On June 2, 2021, the Company issued a press release, attached as Exhibit 99.1 and incorporated herein by reference, informing its shareholders that the Company does not endorse Tutanota’s unsolicited mini-tender offer and recommending that shareholders do not tender their shares to Tutanota. Shareholders who have already tendered their shares may withdraw them at any time prior to the expiration of the offer, in accordance with Tutanota’s offering documents. Tutanota’s offer is currently scheduled to expire at 5:00 p.m., New York City time, on Friday, June 18, 2021, unless the offer is otherwise extended by Tutanota in its discretion or terminated earlier.
+The Company does not endorse Tutanota’s unsolicited mini-tender offer and is not affiliated or associated in any way with Tutanota, its mini-tender offer, or its mini-tender offer documents. Additional information concerning mini-tenders is included in the attached press release.
+Item 9.01. Financial Statements and Exhibits.
+Exhibit
+Description
+99.1
+Press Release of The Home Depot, Inc.
+104
+The cover page of this Current Report on Form 8-K formatted in Inline XBRL (included as Exhibit 101).
+2
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+THE HOME DEPOT, INC.
+Date: June 2, 2021
+By:
+/s/ Teresa Wynn Roseborough
+Name:
+Teresa Wynn Roseborough
+
+Title:
+Executive Vice President, General Counsel and Corporate Secretary
+3

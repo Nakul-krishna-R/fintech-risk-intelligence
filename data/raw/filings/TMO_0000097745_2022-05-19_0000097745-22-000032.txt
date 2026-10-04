@@ -1,0 +1,201 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+May 18, 2022
+
+THERMO FISHER SCIENTIFIC INC.
+
+(Exact name of Registrant as specified in its Charter)
+
+Delaware
+1-8002
+04-2209186
+(State of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification Number)
+168 Third Avenue
+
+Waltham
+,
+Massachusetts
+
+02451
+
+(Address of principal executive offices) (Zip Code)
+Registrant’s telephone number, including area code: (
+781
+)
+622-1000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $1.00 par value
+TMO
+New York Stock Exchange
+0.750% Notes due 2024
+TMO 24A
+New York Stock Exchange
+0.125% Notes due 2025
+TMO 25B
+New York Stock Exchange
+2.000% Notes due 2025
+TMO 25
+New York Stock Exchange
+1.400% Notes due 2026
+TMO 26A
+New York Stock Exchange
+1.450% Notes due 2027
+TMO 27
+New York Stock Exchange
+1.750% Notes due 2027
+TMO 27B
+New York Stock Exchange
+0.500% Notes due 2028
+TMO 28A
+New York Stock Exchange
+1.375% Notes due 2028
+TMO 28
+New York Stock Exchange
+1.950% Notes due 2029
+TMO 29
+New York Stock Exchange
+0.875% Notes due 2031
+TMO 31
+New York Stock Exchange
+2.375% Notes due 2032
+TMO 32
+New York Stock Exchange
+2.875% Notes due 2037
+TMO 37
+New York Stock Exchange
+1.500% Notes due 2039
+TMO 39
+New York Stock Exchange
+1.875% Notes due 2049
+TMO 49
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 or Rule 12b-2 of the Securities Exchange Act of 1934.
+☐
+Emerging growth company
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+THERMO FISHER SCIENTIFIC INC.
+Item 5.07 Submission of Matters to a Vote of Security Holders
+At the annual meeting of shareholders of Thermo Fisher Scientific Inc. (the “Company”) held on May 18, 2022, the shareholders of the Company voted on the following proposals:
+1. The following nominees were elected to the Company’s Board of Directors for a one-year term expiring at the 2023 annual meeting of shareholders.
+For
+Against
+Abstain
+Broker Non-Votes
+Marc N. Casper
+295,048,274
+28,618,108
+1,479,218
+18,391,588
+Nelson J. Chai
+308,721,266
+15,581,693
+842,641
+18,391,588
+Ruby R. Chandy
+324,117,266
+742,343
+285,991
+18,391,588
+C. Martin Harris
+313,034,719
+11,744,603
+366,278
+18,391,588
+Tyler Jacks
+317,259,441
+7,581,796
+304,363
+18,391,588
+R. Alexandra Keith
+315,080,584
+9,707,902
+357,114
+18,391,588
+Jim P. Manzi
+309,354,332
+15,471,901
+319,367
+18,391,588
+James C. Mullen
+318,208,838
+6,654,772
+281,990
+18,391,588
+Lars R. Sørensen
+299,506,746
+24,324,464
+1,314,390
+18,391,588
+Debora L. Spar
+321,170,098
+3,689,844
+285,658
+18,391,588
+Scott M. Sperling
+304,574,902
+19,780,873
+789,825
+18,391,588
+Dion J. Weisler
+313,529,420
+11,331,743
+284,437
+18,391,588
+2. A non-binding, advisory proposal on the compensation of the Company’s named executive officers was approved.
+For:
+285,827,075
+Against:
+38,248,331
+Abstain:
+1,070,194
+Broker Non-Votes:
+18,391,588
+3. The appointment of PricewaterhouseCoopers LLP as the independent registered public accounting firm for the Company for the fiscal year ending December 31, 2022 was ratified.
+For:
+326,246,519
+Against:
+16,534,645
+Abstain:
+756,024
+2
+THERMO FISHER SCIENTIFIC INC.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+THERMO FISHER SCIENTIFIC INC.
+Date:
+May 19, 2022
+By:
+/s/ Michael A. Boxer
+Michael A. Boxer
+Senior Vice President, General Counsel and Secretary
+3

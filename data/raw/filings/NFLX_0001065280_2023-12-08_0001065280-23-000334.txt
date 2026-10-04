@@ -1,0 +1,160 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+__________________________________
+FORM
+8-K
+
+__________________________________
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+December 6, 2023
+
+__________________________________
+NETFLIX, INC.
+(Exact name of registrant as specified in its charter)
+__________________________________
+Delaware
+001-35727
+77-0467272
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+121 Albright Way
+,
+Los Gatos
+,
+California
+95032
+(Address of principal executive offices)
+(Zip Code)
+(
+408
+)
+540-3700
+
+(Registrant’s telephone number, including area code)
+(Former name or former address, if changed since last report)
+__________________________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, par value $0.001 per share
+NFLX
+NASDAQ Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+The Compensation Committee of the Board of Directors (the “Committee”) of Netflix, Inc. (the “Company”) approved the 2024 executive compensation program for the Company’s co-Chief Executive Officers, Ted Sarandos and Greg Peters; Executive Chairman, Reed Hastings; Chief Financial Officer, Spencer Neumann; and Chief Legal Officer, David Hyman, who are the Company’s executive officers as defined under Securities Exchange Act of 1934 Rule 3b-7 (the “Executive Officers”). The 2024 executive compensation program reflects several key changes for the Executive Officers, compared with 2023.
+•
+Eliminated Executive Officers’ Ability to Allocate Compensation Between Cash and Stock Options
+: Historically, Executive Officers have been permitted to allocate compensation to cash salary and stock options. The Committee determined to eliminate this program feature to address shareholder concerns that executives could choose all cash compensation.
+•
+Set Fixed Base Salaries for the Executive Officers
+: The Committee established annual base salaries at $3 million for the co-Chief Executive Officers, $100,000 for the Executive Chairman, and $1.5 million for the other Executive Officers.
+•
+Expanded Participation in Annual Bonus Program to all Executive Officers
+: The Committee expanded participation in the annual performance-based cash bonus program (the “Bonus Program”) under the Company’s Amended and Restated Performance Bonus Plan (the “Bonus Plan”) to all Executive Officers, with a target bonus of 200% of the Executive Officer’s annual base salary. Awards under the Bonus Plan will only be earned after achievement of specified performance goals. Any actual amounts that may be earned under the Bonus Plan may differ from the Target Bonuses set forth below, based on the terms of the Bonus Plan and actual performance against the performance goals. See the Bonus Plan filed with the U.S. Securities and Exchange Commission as Exhibit 10.1 to Form 8-K on December 9, 2022, the terms of which are incorporated by reference herein.
+•
+Determined to Grant RSUs and PSUs in lieu of Stock Options to Executive Officers
+: For the 2024 executive compensation program for Executive Officers, the Committee approved grants of an equally-weighted mix of time-based restricted stock unit (“RSU”) awards and performance-based restricted stock unit (“PSU”) awards (at target) under the Netflix, Inc. 2020 Stock Plan (the “2020 Stock Plan”, and such awards, the “2024 Executive Officer RSUs and PSUs”). The 2024 Executive Officer RSUs and PSUs are anticipated to have a grant date in January 2024 and their award target dollar values are set forth in the table below.
+◦
+Generally subject to each Executive Officer’s continued employment, the shares subject to the 2024 Executive Officer RSUs will vest quarterly over a three-year period. However, the 2024 Executive Officer RSUs will (i) accelerate in full in connection with an Executive Officer’s termination of employment without cause or resignation for good reason during a change in control protection period or the Executive Officer’s death or disability (with the terms “cause”, “change in control protection period”, “disability” and “good reason” defined in the RSU Award Agreement (as defined below)) and (ii) accelerate on a pro-rata basis in connection with the Executive Officer’s termination of employment without cause outside of a change in control protection period.
+◦
+The shares subject to the PSUs will vest as to 0% to 200% of the target number of PSUs, depending on achievement of certain performance goals during the relevant performance periods and satisfaction of continued service requirements. The Committee selected total shareholder return (“TSR”) relative to the TSR of the companies in the S&P 500 as the performance metric. 1/3 of the target PSUs shall vest on each of December 31, 2024, December 31, 2025 and December 31, 2026, based on the Company’s relative TSR performance during performance periods that begin on January 1, 2024 and end on December 31, 2024, December 31, 2025 and December 31, 2026, respectively, provided that the 2024 Executive Officer PSUs will (i) accelerate on a pro-rata basis in connection with the Executive Officer’s termination of employment without cause outside of a change in control protection period based on actual performance as of the termination date, (ii) accelerate and pay out based on the greater of target and actual performance as of the change in control in connection with the Executive Officer’s termination of employment without cause or resignation for good reason during a change in control protection period, (iii) in connection with a change in control under certain circumstances, be deemed achieved at the greater of target and actual performance as of the change in control, convert into RSUs, and remain subject to continued time-vesting requirements, with a certain portion of the RSUs accelerated, (iv) in connection with a change in control under certain circumstances, be deemed achieved at the greater of target and actual performance as of the change in control
+and accelerate in full, and (v) accelerate in full generally based on actual performance as of the Executive Officer’s death or disability (with the terms “cause”, “change in control”, “change in control protection period”, “disability” and “good reason” defined in the PSU Award Agreement (as defined below)).
+The 2024 Total Target Compensation for the Executive Officers will be as follows:
+Name and Title
+Annual Base Salary
+($)
+Target Bonus Under the Bonus Plan
+($)
+RSU Award Target Dollar Value
+($)
+PSU Award Target Dollar Value
+($)
+Total Target
+Compensation
+($)
+Ted Sarandos, Co-Chief Executive Officer and President
+3,000,000
+6,000,000
+15,500,000
+15,500,000
+40,000,000
+Greg Peters, Co-Chief Executive Officer and President
+3,000,000
+6,000,000
+15,500,000
+15,500,000
+40,000,000
+Reed Hastings, Executive Chairman
+100,000
+200,000
+350,000
+350,000
+1,000,000
+Spencer Neumann, Chief Financial Officer
+1,500,000
+3,000,000
+5,250,000
+5,250,000
+15,000,000
+David Hyman, Chief Legal Officer and Secretary
+1,500,000
+3,000,000
+3,250,000
+3,250,000
+11,000,000
+Form of RSU and PSU Award Agreements
+
+On December 6, 2023, the Committee approved a form of Restricted Stock Unit Award Agreement (the “RSU Award Agreement”) and form of Performance-Based Restricted Stock Unit Award Agreement (the “PSU Award Agreement”) to be used in connection with the grant of RSU awards and PSU awards to the Company’s Executive Officers. A copy of the RSU Award Agreement and PSU Award Agreement are attached hereto as Exhibit 10.1 and Exhibit 10.2, respectively, and are incorporated into this Item 5.02 by reference. The Committee approved the grants of the 2024 Executive Officer RSUs and PSUs under the form of the RSU Award Agreement and the PSU Award Agreement, respectively.
+The specific vesting schedule, amount of the award, and other terms of any RSU award granted pursuant to the 2020 Stock Plan and the RSU Award Agreement will be determined on a grant-by-grant basis. The number of shares issuable upon vesting of RSUs is fixed on the date of grant and is not dependent on Company performance.
+The specific performance goals and other terms of any PSU awards granted pursuant to the 2020 Stock Plan and the PSU Award Agreement, including the amount of the award, the applicable vesting schedule, performance goals, and the performance period(s), will be determined on a grant-by-grant basis. Any such PSU awards will be subject to the terms of the 2020 Stock Plan and approved by the Committee. The performance goals will be determined by the Committee in accordance with the 2020 Stock Plan and may include, without limitation: (a) earnings per share, (b) profit, (c) return on equity, (d) revenue, (e) subscriber metrics, and (f) total shareholder return. Any criteria used may be measured, as applicable, (i) in absolute terms, (ii) in relative terms (including, but not limited, the passage of time and/or against other companies or financial metrics), (iii) on a per share and/or share per capita basis, (iv) against the performance of the Company as a whole or against particular segments or products of the Company and/or (v) on a pre-tax or after-tax basis.
+Executive Officer Severance Plan and Amended and Restated Executive Severance and Retention Incentive Plan
+The Committee also approved a new severance plan for the Executive Officers (the “Executive Officer Severance Plan”) and amended the Executive Severance and Retention Incentive Plan (the “Severance Plan”) to exclude individuals who are eligible to participate in the Executive Officer Severance Plan, in each case, effective as of January 1, 2024. A copy of the Executive Officer Severance Plan and the amended and restated Severance Plan are attached hereto as Exhibit 10.3 and Exhibit 10.4, respectively, the terms of which are incorporated by reference herein.
+Effective as of January 1, 2024, contingent on the Executive Officers’ execution of a written consent to be excluded from the Severance Plan, the Executive Officers will participate in the Executive Officer Severance Plan, which provides certain benefits to the Executive Officers in connection with qualifying terminations of their employment. The Executive Officer Severance Plan does not provide for any single-trigger change in control benefits. If participants in the Executive Officer Severance Plan experience a termination of employment from the Company without cause or resign for good reason, in each case, within 3 months prior to or 24 months following a change in control of the Company (the “change in control
+protection period”), they are eligible to receive the following, payable no later than two and one half months following the later of the date of their termination of employment or a change in control (i) a cash lump sum equal to two times the sum of their (a) annual base salary and (b) target annual bonus under the Bonus Plan; (ii) a pro-rata lump sum cash bonus, based on target performance under the Bonus Plan, but pro-rated for the number of days that the participant was employed during the performance period; and (iii) a cash lump sum for twenty-four months of continued health, dental and vision benefits for the participant and their covered dependents.
+Alternatively, if a participant in the Executive Officer Severance Plan has their employment terminated without cause outside of the change in control protection period, they will be entitled to receive (i) a lump sum cash payment equal to the sum of their (a) annual base salary, (b) target annual bonus under the Bonus Plan and (c) target annual LTI opportunity for RSUs and PSUs (at target), payable no later than two and one half months following their termination of employment and (ii) a pro-rata bonus under the Bonus Plan, based on actual performance as determined at the end of the performance period and paid at the time when bonuses are paid to actively employed executives, but pro-rated for the number of days that the participant was employed during the performance period. Each of the terms “change in control”, “cause” and “good reason” are defined in the Executive Officer Severance Plan.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+Exhibit Number
+Description of Exhibit
+10.1
+Netflix, Inc. 2020 Stock Plan Form of Restricted Stock Unit Award Agreement
+10.2
+Netflix, Inc. 2020 Stock Plan Form of Performance-Based Restricted Stock Unit Award Agreement
+10.3
+Netflix, Inc. Executive Officer Severance Plan
+10.4
+Executive Severance and Retention Incentive Plan as Amended and Restated effective January 1, 2024
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+NETFLIX, INC.
+Date:
+December 8, 2023
+/s/ David Hyman
+David Hyman
+Chief Legal Officer and Secretary

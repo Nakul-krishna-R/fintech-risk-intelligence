@@ -1,0 +1,99 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported)
+July 25, 2023
+General Electric Co
+mpany
+(Exact name of registrant as specified in its charter)
+
+New York
+001-00035
+14-0689340
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+
+One Financial Center, Suite 3700,
+Boston,
+MA
+
+02111
+(Address of principal executive offices)
+
+(Zip Code)
+
+(Registrant’s telephone number, including area code)
+
+(
+617
+)
+443-3000
+
+_______________________________________________
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, par value $0.01 per share
+GE
+New York Stock Exchange
+0.875% Notes due 2025
+GE 25
+New York Stock Exchange
+1.875% Notes due 2027
+GE 27E
+New York Stock Exchange
+1.500% Notes due 2029
+GE 29
+New York Stock Exchange
+7 1/2% Guaranteed Subordinated Notes due 2035
+GE /35
+New York Stock Exchange
+2.125% Notes due 2037
+GE 37
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 8.01 Other Events.
+On July 25, 2023, General Electric Company (the “Company”) issued a Notice of Full Redemption to the holders of shares of its Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series A, par value $1.00 per share (CUSIP: 369604BM4) (the “Series A”), its Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series B, par value $1.00 per share (CUSIP: 369604BN2) (the “Series B”), its Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series C, par value $1.00 per share (CUSIP: 369604BP7) (the “Series C”), and its Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D (CUSIP: 369604BQ5) (the “Series D” and, together with the Series A, the Series B and the Series C, the “Preferred Stock”), notifying such holders that the Company has elected to redeem all of its outstanding shares of Preferred Stock on September 15, 2023 (the “Redemption Date”) for a redemption price of $1,000 per share of Preferred Stock. The redemption price will be paid in cash.
+The shares of Preferred Stock are held in book-entry form through The Depository Trust Company (“DTC”), and will be redeemed in accordance with the applicable procedures of DTC.
+September 15, 2023 is also a dividend payment date for the shares of Preferred Stock. Regular dividends on all of the outstanding shares of Preferred Stock will be paid separately on September 15, 2023, to holders of record as of August 31, 2023, the applicable record date, at a rate equal to three-month LIBOR plus (i) with respect to Series A, a spread of 2.28% per annum, (ii) with respect to Series B, a spread of 2.32% per annum, (iii) with respect to Series C, a spread of 2.37% per annum, and (iv) with respect to Series D, a spread of 3.33% per annum, each in the customary manner. Accordingly, the applicable redemption price for the shares of each series of Preferred Stock will not include any declared and unpaid dividends in respect of such shares of Preferred Stock. Dividends will cease to accrue on the shares of each series of Preferred Stock redeemed on the Redemption Date.
+Questions about the notice of redemption and related materials should be directed to EQ Shareowner Services by mail at the address and telephone number below:
+EQ Shareowner Services
+Attention: Corporate Actions Department
+1110 Centre Pointe Curve, Suite 101
+Mendota Heights, MN 55120
++1 (800)-786-2543
+2
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+General Electric Company
+(Registrant)
+Date: July 25, 2023
+/s/ Brandon Smith
+Brandon Smith
+Vice President, Chief Corporate, Securities & Finance Counsel
+3

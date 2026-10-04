@@ -1,0 +1,80 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+___________________________________
+FORM
+8-K
+___________________________________
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d)
+of The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+October 4, 2023
+___________________________________
+CISCO SYSTEMS, INC.
+(Exact name of registrant as specified in its charter)
+___________________________________
+Delaware
+(State or other jurisdiction of
+incorporation)
+001-39940
+(Commission File Number)
+77-0059951
+(IRS Employer Identification No.)
+170 West Tasman Drive
+,
+
+San Jose
+,
+California
+
+95134-1706
+(Address of principal executive offices)
+(Zip Code)
+(
+408
+)
+526-4000
+(Registrant's telephone number, including area code)
+Not Applicable
+(Former name or former address, if changed since last report)
+___________________________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.001 per share
+CSCO
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+Departure of Directors
+On October 4, 2023, M. Michele Burns, Roderick C. McGeary, and Dr. Lisa T. Su each notified Cisco Systems, Inc. ("Cisco") of their respective decision not to stand for re-election at Cisco's 2023 annual meeting of stockholders (the "2023 Annual Meeting"). Ms. Burns, Mr. McGeary, and Dr. Su will continue to serve as directors until the 2023 Annual Meeting.
+Appointment of Director
+On October 5, 2023, the Board of Directors (the “Board”) of Cisco appointed Daniel H. Schulman, former President and Chief Executive Officer of PayPal Holdings, Inc., as a member of the Board effective October 10, 2023. It has not yet been determined on which Board committees, if any, Mr. Schulman will serve.
+In connection with his service as a director, Mr. Schulman will receive Cisco’s standard non-employee director cash and equity compensation. Mr. Schulman will receive a pro rata portion of the $80,000 annual cash retainer, paid quarterly in arrears, for his service through the remaining portion of the year ending at the 2023 Annual Meeting. Non-employee directors may instead elect to receive the annual cash retainer, committee cash retainer fees or other cash fees in fully vested shares of Cisco common stock, fully vested deferred stock units that would be settled in shares after the non-employee director leaves the Board, or a deferred cash payment under the Cisco Systems, Inc. Deferred Compensation Plan. Upon his appointment, pursuant to the Board’s equity grant policy for non-employee directors, Mr. Schulman automatically received a fully vested initial non-employee director equity award under Cisco’s 2005 Stock Incentive Plan with a grant date fair value equal to a pro rata portion of $245,000 based on the portion of the year of his board service. Non-employee directors may elect to defer receipt of the equity award such that the award would be settled in shares after the non-employee director leaves the Board. Non-employee directors are also eligible to participate in Cisco’s charitable matching gifts program to the same extent as all Cisco employees (for calendar year 2023, the maximum match amount is $25,000).
+In connection with his appointment, Mr. Schulman also entered into Cisco’s standard form of Indemnity Agreement with Cisco which provides for indemnification of an indemnitee to the fullest extent permitted by law. The foregoing description of the Indemnity Agreement does not purport to be complete and is qualified in its entirety by the full text of the form of Indemnity Agreement, which was filed with the Securities and Exchange Commission on January 25, 2021 as Exhibit 10.1 to Cisco’s Current Report on Form 8-K.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+CISCO SYSTEMS, INC.
+Dated: October 10, 2023
+By:
+/s/ Evan Sloves
+Name:
+Evan Sloves
+Title:
+Secretary

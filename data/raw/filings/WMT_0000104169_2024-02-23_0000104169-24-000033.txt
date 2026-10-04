@@ -1,0 +1,110 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+________________________
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of Report (date of earliest event reported)
+February 23, 2024
+Walmart Inc.
+(Exact name of registrant as specified in its charter)
+DE
+001-06991
+71-0415188
+(State or other jurisdiction of incorporation or organization)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+702 S.W. 8th Street
+
+Bentonville
+,
+AR
+
+72716-0215
+
+(Address of Principal Executive Offices) (Zip code)
+Registrant's telephone number, including area code
+(
+479
+)
+273-4000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.10 per share
+WMT
+New York Stock Exchange
+2.550% Notes due 2026
+WMT26
+New York Stock Exchange
+1.050% Notes due 2026
+WMT26A
+New York Stock Exchange
+1.500% Notes due 2028
+WMT28C
+New York Stock Exchange
+4.875% Notes due 2029
+WMT29B
+New York Stock Exchange
+5.750% Notes due 2030
+WMT30B
+New York Stock Exchange
+1.800% Notes due 2031
+WMT31A
+New York Stock Exchange
+5.625% Notes due 2034
+WMT34
+New York Stock Exchange
+5.250% Notes due 2035
+WMT35A
+New York Stock Exchange
+4.875% Notes due 2039
+WMT39
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.03. Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+As previously announced, on January 30, 2024, the Board of Directors of Walmart Inc. (the “Company”) authorized a 3-for-1 forward split (the “Stock Split”) of its common stock, par value $0.10 per share (the “Common Stock”), to be effected through the filing of a Certificate of Amendment to the Company’s Restated Certificate of Incorporation (the “Certificate of Amendment”).
+The Company filed the Certificate of Amendment after the close of trading on February 23, 2024, and it became effective upon acceptance of the filing by the Secretary of State of the State of Delaware (the “Effective Time”).
+The Certificate of Amendment effected the Stock Split and also proportionately increased the number of shares of authorized Common Stock from 11,000,000,000 to 33,000,000,000. Each holder of record of Common Stock as of the close of business on February 22, 2024 is expected receive two additional shares of Common Stock after the close of trading on February 23, 2024. The $0.10 par value per share remains unchanged. Trading in the Common Stock is expected to commence on a split-adjusted basis on February 26, 2024
+. Based on 2,684,264,089 shares of Common Stock outstanding as of February 22, 2024, the Company calculates that there will be approximately 8,052,792,267 shares of Common Stock outstanding on February 23, 2024, after giving effect to the Stock Split, less any nominal amount of shares that may be repurchased on such date.
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits
+The following documents are furnished as exhibits to this Current Report on Form 8-K:
+3.1
+Certificate of Amendment to the Restated Certificate of Incorporation of the Company, effective February 23, 2024
+Exhibit 104
+Cover Page Interactive Data File (formatted as Inline XBRL).
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated: February 23, 2024
+WALMART INC.
+By:
+/s/ Gordon Y. Allison
+Name:
+Gordon Y. Allison
+Title:
+Senior Vice President, Office of the Corporate Secretary, and Chief Counsel for Finance and Governance

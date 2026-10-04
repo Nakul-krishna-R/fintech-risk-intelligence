@@ -1,0 +1,270 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+________________________
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of Report (date of earliest event reported)
+June 2, 2023 (
+May 31, 2023
+)
+Walmart Inc.
+(Exact name of registrant as specified in its charter)
+DE
+001-06991
+71-0415188
+(State or other jurisdiction of incorporation or organization)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+702 S.W. 8th Street
+
+Bentonville
+,
+AR
+
+72716-0215
+
+(Address of Principal Executive Offices) (Zip code)
+Registrant's telephone number, including area code
+(
+479
+)
+273-4000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.10 per share
+WMT
+NYSE
+2.550% Notes Due 2026
+WMT26
+NYSE
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.07. Submission of Matters to a Vote of Security Holders
+On May 31, 2023, Walmart Inc. (the “Company”) held its Annual Shareholders’ Meeting (the “Meeting”). As of the close of business on April 6, 2023, the record date for the Meeting, there were 2,697,346,823 shares of the Company’s common stock outstanding, with each share entitled to one vote. The holders of 2,450,141,005 (90.83%) shares of the Company’s common stock were present in person or represented by proxy during the Meeting. During the Meeting, the Company’s shareholders voted on the matters set forth below.
+Election of Directors
+The Company’s shareholders elected for one-year terms all eleven persons nominated for election as directors as set forth in the Company’s proxy statement dated April 20, 2023. The following table sets forth the vote of the shareholders at the Meeting with respect to the election of directors:
+Nominee
+For
+Against
+Abstain
+Broker Non-Votes
+Cesar Conde
+2,212,167,254
+22,131,191
+4,144,190
+211,698,370
+Timothy P. Flynn
+2,204,027,353
+30,304,579
+4,110,703
+211,698,370
+Sarah J. Friar
+2,211,796,764
+22,729,552
+3,916,319
+211,698,370
+Carla A. Harris
+2,150,262,586
+85,515,975
+2,664,074
+211,698,370
+Thomas W. Horton
+2,139,071,311
+95,955,860
+3,415,464
+211,698,370
+Marissa A. Mayer
+2,174,339,438
+60,205,120
+3,898,077
+211,698,370
+C. Douglas McMillon
+2,204,646,130
+29,702,956
+4,093,549
+211,698,370
+Gregory B. Penner
+2,179,335,555
+56,202,888
+2,904,192
+211,698,370
+Randall L. Stephenson
+2,160,204,237
+75,381,250
+2,857,148
+211,698,370
+S. Robson Walton
+2,192,567,986
+41,901,870
+3,972,779
+211,698,370
+Steuart L. Walton
+2,195,712,997
+38,714,095
+4,015,543
+211,698,370
+Company Proposals
+Advisory Vote on the Frequency of Future Say-on-Pay Votes.
+The Company’s shareholders voted upon a nonbinding, advisory proposal regarding the frequency of future say-on-pay votes, as described in the Company’s proxy statement dated April 20, 2023. The votes on this proposal were as follows:
+1 Year
+2 Year
+3 Years
+Abstain
+Broker
+Non-Votes
+2,216,964,605
+1,914,411
+16,817,355
+2,746,264
+211,698,380
+Based on this result and in accordance with the previous recommendation of the Company’s Board of Directors, the Company will hold a nonbinding, advisory vote on the compensation of its named executive officers annually until the next required vote on the frequency of shareholder votes on executive compensation.
+Advisory Vote to Approve Named Executive Officer Compensation.
+The Company’s shareholders voted upon and approved, by nonbinding, advisory vote, the compensation of the Company’s named executive officers, as described in the Company’s proxy statement dated April 20, 2023. The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+1,775,184,578
+457,965,148
+5,292,909
+211,698,370
+Ratification of Independent Accountants.
+The Company’s shareholders voted upon and approved the ratification of the appointment of Ernst & Young LLP to serve as the Company’s independent registered accountants for the fiscal year ending January 31, 2024. The votes on this proposal were as follows:
+For
+Against
+Abstain
+2,406,282,499
+41,417,952
+2,440,554
+There were no broker non-votes with respect to this proposal.
+Shareholder Proposals
+The Company’s shareholders voted upon and rejected a shareholder proposal requesting a policy regarding worker pay in executive compensation. The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+96,295,552
+2,132,251,898
+9,895,185
+211,698,370
+Next, the Company’s shareholders voted upon and rejected a shareholder proposal requesting a report on human rights due diligence. The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+128,677,938
+2,097,167,112
+12,597,585
+211,698,370
+Then, the Company’s shareholders voted upon and rejected a shareholder proposal requesting a racial equity audit. The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+405,505,705
+1,822,547,487
+10,389,443
+211,698,370
+The Company’s shareholders then voted upon and rejected a shareholder proposal requesting a racial and gender layoff diversity report. The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+32,484,252
+2,194,523,406
+11,434,977
+211,698,370
+Next, the Company’s shareholders voted upon and rejected a shareholder proposal request to require shareholder approval of certain future bylaw amendments. The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+127,168,258
+2,105,224,665
+6,049,712
+211,698,370
+The Company’s shareholders then voted upon and rejected a shareholder proposal requesting a report on reproductive rights and data privacy. The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+116,994,063
+2,098,229,620
+23,218,952
+211,698,370
+Next, the Company’s shareholders then voted upon and rejected a shareholder proposal requesting a report on Company operations dependent on and vulnerable to China. The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+29,319,635
+2,193,655,176
+15,467,824
+211,698,370
+T
+he Company’s shareholders also voted upon and rejected a shareholder proposal requesting a review of workplace safety and violence. The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+532,387,119
+1,696,106,443
+9,949,073
+211,698,370
+Finally, and pursuant to the advance notice requirement of the Company’s amended and restated bylaws, t
+he Company’s shareholders voted upon and rejected a shareholder proposal concerning limitations on political contributions made by WALPAC. The votes on this proposal were as follows:
+For
+Against
+Abstain
+Broker
+Non-Votes
+1,123
+2,238,400,829
+0
+211,698,370
+1
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated: June 2, 2023
+WALMART INC.
+By:
+/s/Gordon Y. Allison
+Name:
+Gordon Y. Allison
+Title:
+Senior Vice President, Office of the Corporate Secretary, and Chief Counsel for Finance and Governance
+2

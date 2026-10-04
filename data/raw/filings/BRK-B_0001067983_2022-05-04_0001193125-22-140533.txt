@@ -1,0 +1,408 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15 (D)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+DATE OF REPORT (DATE OF EARLIEST EVENT REPORTED)
+April 30, 2022
+
+BERKSHIRE HATHAWAY INC.
+
+(EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+DELAWARE
+
+001-14905
+
+47-0813844
+
+(STATE OR OTHER JURISDICTION
+
+OF INCORPORATION)
+
+(COMMISSION
+
+FILE NUMBER)
+
+(I.R.S. EMPLOYER
+
+IDENTIFICATION NO.)
+
+3555 Farnam Street
+
+Omaha
+,
+Nebraska
+
+68131
+
+(ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)
+
+(ZIP CODE)
+
+(402)
+
+346-1400
+
+REGISTRANT’S TELEPHONE NUMBER, INCLUDING AREA CODE
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbols
+
+Name of each exchange
+
+on which registered
+
+Class A Common Stock
+
+BRK.A
+
+New York Stock Exchange
+
+Class B Common Stock
+
+BRK.B
+
+New York Stock Exchange
+
+0.750% Senior Notes due 2023
+
+BRK23
+
+New York Stock Exchange
+
+0.625% Senior Notes due 2023
+
+BRK23A
+
+New York Stock Exchange
+
+1.300% Senior Notes due 2024
+
+BRK24
+
+New York Stock Exchange
+
+0.000% Senior Notes due 2025
+
+BRK25
+
+New York Stock Exchange
+
+1.125% Senior Notes due 2027
+
+BRK27
+
+New York Stock Exchange
+
+2.150% Senior Notes due 2028
+
+BRK28
+
+New York Stock Exchange
+
+1.500% Senior Notes due 2030
+
+BRK30
+
+New York Stock Exchange
+
+2.000% Senior Notes due 2034
+
+BRK34
+
+New York Stock Exchange
+
+1.625% Senior Notes due 2035
+
+BRK35
+
+New York Stock Exchange
+
+2.375% Senior Notes due 2039
+
+BRK39
+
+New York Stock Exchange
+
+0.500% Senior Notes due 2041
+
+BRK41
+
+New York Stock Exchange
+
+2.625% Senior Notes due 2059
+
+BRK59
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ITEM 2.02
+
+Results of Operations and Financial Condition.
+
+On April 30, 2022, Berkshire Hathaway Inc. issued a press release announcing the Company’s earnings for the first quarter ended March 31, 2022. A copy of this press release is furnished with this report as an exhibit to this Form
+8-K.
+
+ITEM 5.03
+
+Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year
+
+(a)
+
+On May 1, 2022, the Board of Directors (the “Board”) of Berkshire Hathaway Inc., a Delaware corporation (the “Company”), amended the Company’s Bylaws effective immediately to restate Section 12 – Forum for Adjudication of Disputes. The restatement of Section 12 updates certain provisions regarding the forum to be used for adjudicating derivative claims, in particular, to require adjudication of derivative claims over which the Delaware Court of Chancery lacks jurisdiction in the federal district court for the District of Delaware, and adds a federal forum selection provision requiring the adjudication of claims brought under the Securities Act of 1933 in a U.S. federal district court, unless in each case the Company consents otherwise in writing. The prior version of Section 12 required that all derivative claims, among others, be adjudicated in the Delaware Court of Chancery unless the Company consented otherwise in writing and did not address forum selection for claims brought under the Securities Act of 1933. In addition, the restatement of Section 12 made certain changes primarily to conform to updates in Delaware law.
+
+The foregoing description of the amendment to the Bylaws does not purport to be complete and is qualified in its entirety by reference to the full text of the Bylaws, attached hereto as Exhibit 3(ii) and incorporated herein by reference.
+
+ITEM 5.07
+
+Submission of Matters to a Vote of Security Holders
+
+On April 30, 2022, Berkshire Hathaway Inc. held an annual meeting of its shareholders. The agenda items for the meeting along with the vote of the Company’s Class A and Class B common shareholders voting together as a single class with respect to each of the agenda items are shown below. There were five items acted on at that meeting as follows: 1) Election of Directors; 2) A shareholder proposal requesting that the Company’s Board Chair be an independent director; 3) A shareholder proposal requesting an annual assessment of climate risk management; 4) A shareholder proposal requesting information regarding how the Company intends to measure, disclose and reduce greenhouse gas emissions associated with the Company’s underwriting, insurance and investment activities; and 5) A shareholder proposal requesting reporting of diversity and inclusion efforts. Following are the votes cast for and against each director.
+
+Proposal 1 – Election of Directors
+
+For
+
+Against
+
+Warren E. Buffett
+
+486,609
+
+23,535
+
+Charles T. Munger
+
+485,340
+
+24,803
+
+Gregory E. Abel
+
+487,521
+
+22,623
+
+Howard G. Buffett
+
+497,998
+
+12,146
+
+Susan A. Buffett
+
+498,171
+
+11,972
+
+Stephen B. Burke
+
+455,996
+
+54,147
+
+Kenneth I. Chenault
+
+466,973
+
+43,171
+
+Christopher C. Davis
+
+497,062
+
+13,082
+
+Susan L. Decker
+
+442,027
+
+68,117
+
+David S. Gottesman
+
+455,684
+
+54,460
+
+Charlotte Guyman
+
+448,463
+
+61,681
+
+Ajit Jain
+
+487,598
+
+22,546
+
+Ronald L. Olson
+
+494,195
+
+15,948
+
+Wallace R. Weitz
+
+505,738
+
+4,405
+
+Meryl B. Witmer
+
+493,297
+
+16,846
+
+The results of the other matters acted upon at the meeting were as follows.
+
+For
+
+Against
+
+Abstain
+
+Proposal 2 – Shareholder proposal
+
+54,425
+
+448,868
+
+6,851
+
+For
+
+Against
+
+Abstain
+
+Proposal 3 – Shareholder proposal
+
+135,054
+
+373,051
+
+2,038
+
+For
+
+Against
+
+Abstain
+
+Proposal 4 – Shareholder proposal
+
+134,702
+
+373,462
+
+1,980
+
+For
+
+Against
+
+Abstain
+
+Proposal 5 – Shareholder proposal
+
+131,542
+
+376,470
+
+2,131
+
+ITEM 8.01
+
+Other Events
+
+On May 3, 2022, the Company received a letter from the NYSE that acknowledged that the Company is back in compliance with the continued listing standards set forth in Section 303A of the NYSE Listed Company Manual. Specifically, on April 30, 2022, at the Company’s annual shareholder meeting, Wallace R. Weitz was elected to the Company’s Board of Directors. Mr. Weitz’s election as an independent director reestablished a majority of independent directors on the Company’s Board of Directors resolving the deficiency that the Company reported to the NYSE on February 15, 2022.
+
+ITEM 9.01
+
+Financial Statements and Exhibits
+
+Exhibit 3(ii)
+
+Bylaws (as amended on May 1, 2022)
+
+Exhibit 99.1
+
+Berkshire Hathaway Inc. Earnings Release Dated April 30, 2022
+
+Exhibit 104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+May 4, 2022
+
+BERKSHIRE HATHAWAY INC.
+
+/s/ Marc D. Hamburg
+
+By:
+
+Marc D. Hamburg
+
+Senior Vice President and Chief Financial Officer

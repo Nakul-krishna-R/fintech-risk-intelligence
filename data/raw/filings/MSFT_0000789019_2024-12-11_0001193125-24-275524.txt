@@ -1,0 +1,564 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(D)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported)
+December 10, 2024
+
+Microsoft Corporation
+
+Washington
+
+001-37845
+
+91-1144442
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+One Microsoft Way
+,
+Redmond
+,
+Washington
+
+98052-6399
+
+(
+425
+)
+882-8080
+
+www.microsoft.com/investor
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol
+
+Name of exchange
+on which registered
+
+Common stock, $0.00000625 par value per share
+
+MSFT
+
+NASDAQ
+
+3.125% Notes due 2028
+
+MSFT
+
+NASDAQ
+
+2.625% Notes due 2033
+
+MSFT
+
+NASDAQ
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter). Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.07. Submission of Matters to a Vote of Security Holders
+On December 10, 2024, Microsoft Corporation (the “Company” or “Microsoft”) held its 2024 Annual Shareholders Meeting (the “Annual Meeting”). There were 7,434,436,393 shares of common stock entitled to be voted at the Annual Meeting, of which 6,417,206,480 were voted in person or by proxy. The results for each item submitted for a vote of shareholders are as follows. The shareholders:
+(1) Voted to elect each of the 12 nominees for director.
+(2) Approved, on an advisory basis, the compensation of the Company’s named executive officers.
+(3) Voted to ratify the appointment of Deloitte & Touche LLP as the Company’s independent registered public accounting firm for fiscal year 2025.
+(4) Did not approve a shareholder proposal concerning a report on risks of weapons development.
+(5) Did not approve a shareholder proposal concerning an assessment of investing in bitcoin.
+(6) Did not approve a shareholder proposal concerning a report on data operations in human rights hotspots.
+(7) Did not approve a shareholder proposal concerning a report on artificial intelligence and machine learning tools for oil and gas development and production.
+(8) Did not approve a shareholder proposal concerning a report on artificial intelligence (“AI”) misinformation and disinformation.
+(9) Did not approve a shareholder proposal concerning a report on AI data sourcing accountability.
+The Company’s inspector of election certified the following vote tabulations:
+Election of directors
+
+Director
+
+Vote Results
+
+% Votes
+For
+
+For
+
+Against
+
+Abstain
+
+Broker
+Non-Votes
+
+Reid G. Hoffman
+
+Re-elected
+
+99.20
+
+5,148,624,453
+
+41,556,212
+
+8,911,649
+
+1,218,114,166
+
+Hugh F. Johnston
+
+Re-elected
+
+91.89
+
+4,768,792,470
+
+420,605,495
+
+9,694,349
+
+1,218,114,166
+
+Teri L. List
+
+Re-elected
+
+98.68
+
+5,120,774,949
+
+68,560,265
+
+9,757,100
+
+1,218,114,166
+
+Catherine MacGregor
+
+Re-elected
+
+99.83
+
+5,180,667,633
+
+8,873,170
+
+9,551,511
+
+1,218,114,166
+
+Mark A. L. Mason
+
+Re-elected
+
+99.59
+
+5,167,419,348
+
+21,404,525
+
+10,268,441
+
+1,218,114,166
+
+Satya Nadella
+
+Re-elected
+
+94.35
+
+4,878,901,541
+
+291,907,066
+
+28,283,707
+
+1,218,114,166
+
+Sandra E. Peterson
+
+Re-elected
+
+98.14
+
+5,092,981,786
+
+96,435,357
+
+9,675,171
+
+1,218,114,166
+
+Penny S. Pritzker
+
+Re-elected
+
+99.60
+
+5,170,315,477
+
+20,548,862
+
+8,227,975
+
+1,218,114,166
+
+Carlos A. Rodriguez
+
+Re-elected
+
+98.18
+
+5,094,003,865
+
+94,407,242
+
+10,681,207
+
+1,218,114,166
+
+Charles W. Scharf
+
+Re-elected
+
+98.26
+
+5,098,538,567
+
+90,405,839
+
+10,147,908
+
+1,218,114,166
+
+John W. Stanton
+
+Re-elected
+
+99.40
+
+5,158,411,139
+
+30,890,450
+
+9,790,725
+
+1,218,114,166
+
+Emma N. Walmsley
+
+Re-elected
+
+99.07
+
+5,141,345,085
+
+48,471,729
+
+9,275,500
+
+1,218,114,166
+
+Advisory Vote to Approve Named Executive Officer Compensation
+
+Vote result
+
+% Votes For
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+Approved
+
+91.34
+
+4,727,655,048
+
+448,256,975
+
+23,180,291
+
+1,218,114,166
+
+Ratification of Appointment of Independent Auditor for Fisal Year 2025
+
+Vote result
+
+% Votes For
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+Approved
+
+94.32
+
+6,042,000,471
+
+364,022,603
+
+11,183,406
+
+0
+
+Shareholder Proposal: Report on Risks of Weapons Development
+
+Vote result
+
+% Votes For
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+Not approved
+
+15.26
+
+783,837,170
+
+4,353,192,956
+
+62,062,188
+
+1,218,114,166
+
+Shareholder Proposal: Assessment of Investing in Bitcoin
+
+Vote result
+
+% Votes For
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+Not approved
+
+0.55
+
+28,234,424
+
+5,148,248,368
+
+22,609,522
+
+1,218,114,166
+
+Shareholder Proposal: Report on Data Operations in Human Rights Hotspots
+
+Vote result
+
+% Votes For
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+Not approved
+
+32.03
+
+1,647,287,434
+
+3,495,428,268
+
+56,376,612
+
+1,218,114,166
+
+Shareholder Proposal: Report on Artificial Intelligence and Machine Learning Tools for Oil and Gas Development and Production
+
+Vote result
+
+% Votes For
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+Not approved
+
+9.71
+
+498,928,539
+
+4,641,011,840
+
+59,151,935
+
+1,218,114,166
+
+Shareholder Proposal: Report on AI Misinformation and Disinformation
+
+Vote result
+
+% Votes For
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+Not approved
+
+18.67
+
+956,598,432
+
+4,167,583,544
+
+74,910,338
+
+1,218,114,166
+
+Shareholder Proposal: Report on AI Data Sourcing Accountability
+
+Vote result
+
+% Votes For
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+Not approved
+
+36.19
+
+1,803,298,481
+
+3,179,152,976
+
+216,640,857
+
+1,218,114,166
+
+Item 7.01. Regulation FD Disclosure
+In January 2021, Microsoft announced a minority investment in Cruise, an autonomous vehicle company which is a majority-owned subsidiary of General Motors Company (“GM”). On December 10, 2024, GM announced its intent to realign its autonomous driving strategy, no longer fund Cruise’s robotaxi development work, and pursue the acquisition of minority investor shares. As a result, we expect to record an impairment charge of approximately $800 million in the second quarter of fiscal year 2025. This charge will be recorded in other income and expense and was not included in our second quarter guidance provided on October 30, 2024. It is estimated to have a negative impact of approximately $0.09 to second quarter diluted earnings per share.
+This Form
+8-K
+contains forward-looking statements, which are any predictions, projections or other statements about future events based on current expectations and assumptions that are subject to risks and uncertainties, which are described in our filings with the Securities and Exchange Commission. Forward-looking statements speak only as of the date they are made. Readers are cautioned not to put undue reliance on forward-looking statements, and Microsoft undertakes no duty to update any forward-looking statement to conform the statement to actual results or changes in the company’s expectations.
+In accordance with General Instruction B.2 of Form
+8-K,
+the information in Item 7.01 of this Current Report on Form
+8-K
+shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liability of that section, and shall not be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+MICROSOFT CORPORATION
+
+Date: December 11, 2024
+
+/s/ Keith R. Dolliver
+
+Keith R. Dolliver
+
+Corporate Secretary

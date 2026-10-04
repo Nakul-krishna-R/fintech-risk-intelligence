@@ -1,0 +1,195 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+________________________________________________________
+FORM
+8-K
+________________________________________________________
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+June 10, 2021
+
+Date of Report (date of earliest event reported)
+
+_________________________________________________________
+salesforce.com, inc.
+(Exact name of registrant as specified in its charter)
+
+__________________________________________________________
+
+Delaware
+001-32224
+94-3320693
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+Salesforce Tower
+415 Mission Street, 3rd Fl
+San Francisco
+,
+California
+
+94105
+(Address of principal executive offices)
+Registrant’s telephone number, including area code: (
+415
+)
+901-7000
+N/A
+(Former name or former address, if changed since last report)
+_________________________________________________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.001 per share
+CRM
+New York Stock Exchange
+, Inc.
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+salesforce.com, inc. (the “Company”) held its 2021 Annual Meeting of Stockholders on June 10, 2021 (the “Meeting”). The proposals considered at the Meeting are described in the Company’s 2021 Proxy Statement filed with the Securities and Exchange Commission on April 29, 2021 (the “Proxy Statement”), and the final voting results are set forth below:
+1.
+Election of directors:
+For
+Against
+Abstain
+Broker
+Non-Votes
+Marc Benioff
+640,148,843
+36,841,938
+1,855,348
+95,075,053
+Craig Conway
+650,632,664
+27,676,581
+536,884
+95,075,053
+Parker Harris
+665,176,690
+13,183,084
+486,355
+95,075,053
+Alan Hassenfeld
+633,944,346
+44,162,312
+739,471
+95,075,053
+Neelie Kroes
+667,639,591
+10,769,884
+436,654
+95,075,053
+Colin Powell
+657,266,386
+21,146,001
+433,742
+95,075,053
+Sanford Robertson
+555,562,354
+119,440,790
+3,842,985
+95,075,053
+John V. Roos
+663,420,059
+14,689,416
+736,654
+95,075,053
+Robin Washington
+658,330,794
+19,976,845
+538,490
+95,075,053
+Maynard Webb
+640,390,622
+37,740,708
+714,799
+95,075,053
+Susan Wojcicki
+676,734,622
+1,601,827
+509,680
+95,075,053
+2. Amendment and restatement of the Company's 2013 Equity Incentive Plan:
+For
+Against
+Abstain
+Broker Non-Votes
+625,131,458
+50,597,569
+3,117,102
+95,075,053
+3. Ratification of Ernst & Young LLP as the Company’s independent auditor for fiscal 2022:
+For
+Against
+Abstain
+Broker Non-Votes
+719,192,141
+54,014,727
+714,314
+0
+4. Advisory approval of the fiscal 2021 compensation of the named executive officers:
+For
+Against
+Abstain
+Broker Non-Votes
+629,525,062
+45,628,255
+3,692,812
+95,075,053
+5. Stockholder proposal requesting to transition the Company to a Public Benefit Corporation:
+For
+Against
+Abstain
+Broker Non-Votes
+23,095,871
+652,412,923
+3,337,335
+95,075,053
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+As reported above, at the Meeting, the Company’s stockholders approved an amendment to the Company’s 2013 Equity Incentive Plan (the “Amended Plan”) to increase the number of shares authorized for issuance by 10 million shares. The Amended Plan
+
+is described in more detail in the Proxy Statement.
+The foregoing description and the summary contained in the Proxy Statement do not purport to be complete and are qualified in their entirety by reference to the full text of the Amended Plan, which is attached hereto as Exhibit 10.1.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit No.
+Description
+10.1
+Amended and Restated 2013 Equity Incentive Plan
+104
+Cover Page Interactive Data File—the cover page XBRL tags are embedded within the Inline XBRL document
+Signature
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated:
+June 14, 2021
+salesforce.com, inc.
+/s/ T
+ODD
+M
+ACHTMES
+Todd Machtmes
+Executive Vice President and General Counsel

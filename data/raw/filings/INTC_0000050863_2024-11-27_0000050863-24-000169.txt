@@ -1,0 +1,123 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+November 25, 2024
+
+INTEL CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+000-06217
+94-1672743
+(State or other jurisdiction
+(Commission
+(IRS Employer
+of incorporation)
+File Number)
+Identification No.)
+
+2200 Mission College Boulevard
+,
+Santa Clara
+,
+California
+95054-1549
+(Address of principal executive offices)
+(Zip Code)
+Registrant's telephone number, including area code:
+(408)
+
+765-8080
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, $0.001 par value
+INTC
+Nasdaq Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+1
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+On November 25, 2024, Intel Corporation (“
+Intel
+”) entered into a direct funding agreement (the “
+Direct Funding Agreement
+”) with the U.S. Department of Commerce (the “
+DOC
+”) under which the DOC agrees to award Intel funding under the Creating Helpful Incentives to Produce Semiconductors and Science Act of 2022 (the “
+CHIPS Act
+”).
+Under the Direct Funding Agreement, the DOC has agreed to award Intel up to $7.8 billion in direct funding and $65 million in workforce development funding (collectively, the “
+Awards
+”) related to (i) the construction, modernization, tool purchase and installation in, and operation of, twelve microchip fabrication facilities and advanced packaging facilities located in Arizona, New Mexico, Ohio and Oregon (the “
+Projects
+”) and (ii) workforce activities related to the Projects.
+The DOC will disburse the Awards funding to Intel based on the achievement of various milestones, with each disbursement reimbursing Intel for eligible uses of funds already incurred and paid by Intel or its subsidiaries. Disbursements are Project-specific and subject to the achievement of various capital expenditure, facility completion, process technology development, wafer production, Intel products insourcing and external foundry customer acquisition milestones, the receipt of applicable permits and other governmental approvals, and various other conditions.
+The Direct Funding Agreement contains representations, warranties and covenants applicable to Intel and its affiliates that have direct or indirect ownership of any Project (those affiliates, together with Intel, the “
+Recipient Parties
+”), including with respect to (i) restrictions on dividends and share repurchases, (ii) restrictions on the expansion of semiconductor manufacturing capacity in certain foreign countries, (iii) restrictions on joint research and technology licensing with certain foreign entities, (iv) restrictions on the use or installation of prohibited equipment that is manufactured or assembled by certain foreign entities, (v) spending at least $35 billion on research and development within the United States cumulatively from 2024 through 2028, (vi) compliance with various federal regulations and requirements and (vii) limitations on dispositions of the Projects, including through dispositions of equity interests in the Projects.
+The Direct Funding Agreement contains restrictions on certain “change of control” transactions: (i) third party acquisition of 35% or more of the ownership of or voting rights with respect to Intel or otherwise acquiring control of Intel; (ii) Intel ceasing to own at least 50.1% of the ownership of or voting rights with respect to Intel Foundry if separated into a new legal entity (“
+Intel Foundry Corporation
+”) so long as Intel Foundry Corporation remains a private company; (iii) if Intel Foundry Corporation becomes a public company, third party acquisition of 35% or more of the ownership of or voting rights with respect to Intel Foundry Corporation at any time Intel is not its largest shareholder; (iv) Intel ceasing to have control of Intel Foundry Corporation; or (v) with respect to other Recipient Parties, Intel ceasing to own at least 50.1% of the ownership of or voting rights with respect to the Recipient Party equity or voting rights or otherwise ceasing to have control of the Recipient Party. Any “change of control” transaction must satisfy certain requirements as to the nature and financial resources of the counterparty, the impact to the creditworthiness of Intel and Intel Foundry Corporation, continued wafer purchases by Intel from Intel Foundry Corporation, and continuation of the Projects, the business strategy of manufacturing leading-edge semiconductors in the U.S. and the investment in U.S. semiconductor research and development, or would require DOC consent.
+Under the Direct Funding Agreement, Intel may be required to share with the DOC a percentage of the total cumulative realized unlevered free cash flow achieved by a Project (the “
+Project Return
+”) if it exceeds specified thresholds (the “
+Excess Return Sharing Requirement
+”). Any payments that may be required by Intel under the Excess Return Sharing Requirement are limited to a maximum of 75% of the Awards received by Intel for the applicable Project (after taking into account any clawbacks or other repayments of such Awards). Any Excess Return Sharing Requirement is separately calculated and applicable to a Project until the end of the ninth fiscal year following the fiscal year in which the Project Return for the Project is positive.
+In the event of certain significant breaches under the Direct Funding Agreement by Intel and the other Recipient Parties (e.g., CHIPS Act program requirements, change of control restrictions, bankruptcy of Intel, etc.), the DOC may have termination rights and other remedies. Such rights and remedies vary depending on the nature of such breach, but can include: (i) requiring the repayment of some or all of the Awards; (ii) imposing additional conditions on the Awards; (iii) suspending or terminating all or any portion of the Awards; (iv) withholding or suspending a disbursement of the Awards; (v) terminating the Direct Funding Agreement and the Awards; and (vi) taking other actions available to the DOC.
+2
+Item 7.01 Regulation FD Disclosure.
+On November 26, 2024, Intel issued a press release announcing the entry into the Direct Funding Agreement. A copy of the press release is attached as Exhibit 99.1 and incorporated by this reference.
+The information in this Item 7.01 and Exhibit 99.1 shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “
+Exchange Act
+”), or otherwise subject to the liabilities of that section, and is not incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act.
+Item 9.01
+
+Financial Statements and Exhibits.
+(d) Exhibits.
+The following exhibits are provided as part of this Report:
+Exhibit Number
+Description
+99.1
+Press Release dated November 26, 2024
+.
+104
+Cover Page Interactive Data File, formatted in Inline XBRL and included as Exhibit 101.
+3
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+INTEL CORPORATION
+(Registrant)
+Date:
+November 27, 2024
+By:
+/s/ APRIL MILLER BOISE
+April Miller Boise
+Executive Vice President and Chief Legal Officer
+4

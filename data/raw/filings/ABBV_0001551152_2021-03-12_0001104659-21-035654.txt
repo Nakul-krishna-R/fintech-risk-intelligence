@@ -1,0 +1,235 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event
+reported):
+
+March 12, 2021
+
+ABBVIE INC.
+
+(Exact Name of Registrant as Specified
+in its Charter)
+
+_______________________________________________
+
+Delaware
+
+001-35565
+
+32-0375147
+
+(State or other Jurisdiction
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+Identification No.)
+
+_______________________________________________
+
+1 North Waukegan Road
+
+North Chicago
+,
+Illinois
+
+60064-6400
+
+(Address of principal executive offices)
+(Zip Code)
+
+Registrant’s telephone number, including
+area code:
+(
+847
+)
+932-7900
+
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered
+pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which
+
+registered
+
+Common Stock, $0.01 Par Value
+
+ABBV
+
+New York Stock Exchange
+
+Chicago Stock Exchange
+
+0.500% Senior Notes due 2021
+
+ABBV21C
+
+New York Stock Exchange
+
+1.500% Senior Notes due 2023
+
+ABBV23B
+
+New York Stock Exchange
+
+1.375% Senior Notes due 2024
+
+ABBV24
+
+New York Stock Exchange
+
+1.250% Senior Notes due 2024
+
+ABBV24B
+
+New York Stock Exchange
+
+0.750% Senior Notes due 2027
+
+ABBV27
+
+New York Stock Exchange
+
+2.125% Senior Notes due 2028
+
+ABBV28
+
+New York Stock Exchange
+
+2.625% Senior Notes due 2028
+
+ABBV28B
+
+New York Stock Exchange
+
+2.125% Senior Notes due 2029
+
+ABBV29
+
+New York Stock Exchange
+
+1.250% Senior Notes due 2031
+
+ABBV31
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+¨
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+
+Item 5.04
+
+Temporary Suspension of Trading Under Registrant’s Employee Benefit Plans
+
+On February 26, 2021, the administrator of
+the AbbVie Savings Plan (the “Savings Plan”) and the AbbVie Puerto Rico Savings Plan (the “PR Savings Plan”)
+(collectively, the “Plans,” and each, individually, a “Plan”) provided notice to Plan participants pursuant
+to Section 101(i)(2) of the Employee Retirement Income Security Act of 1974, as amended, regarding a blackout period under the
+Plans (the “Blackout Period”). The Blackout Period is required because the Plans are undergoing administrative changes,
+including a recordkeeper change for the Plans, a trustee change for the Savings Plan, and a custodian change for the PR Savings
+Plan.
+
+During the Blackout Period, Plan participants
+will be unable to engage in transactions involving the assets held in their Plan accounts, including changing contribution rates,
+directing or diversifying investments (including investments in AbbVie Inc. common stock), and obtaining Plan loans, withdrawals,
+and distributions.
+
+As described more fully in the notice, the
+Blackout Period is expected to begin on March 29, 2021 at 3:00 p.m. CT and expected to end the week of April 11, 2021. During the
+Blackout Period and for two years after the Blackout Period end date, a security holder or other interested person may obtain,
+without charge, the actual beginning and ending dates of the Blackout Period by submitting a request to AbbVie Inc., 1 North Waukegan
+Road, North Chicago, Illinois 60064, Attn: Division Counsel, Securities, Finance and Governance; (847) 938-6166.
+
+On March 12, 2021, the registrant sent a notice
+to its directors and executive officers (the “Notice”) informing them of the Blackout Period and the restrictions on
+trading in AbbVie Inc. common stock (including with respect to derivatives) that apply to them during the Blackout Period pursuant
+to Section 306 of the Sarbanes-Oxley Act of 2002 and Rule 104 of Regulation BTR. A copy of the Notice is attached as Exhibit 99.1
+to this Current Report on Form 8-K and is incorporated by reference.
+
+Item 9.01
+
+Financial Statements and Exhibits
+
+Exhibit No.
+
+Exhibit
+
+99.1
+
+Notice provided to directors and executive officers of AbbVie Inc. on March 12, 2021.
+
+104
+
+The cover page from this Current Report on Form 8-K formatted in Inline XBRL (included as Exhibit 101).
+
+2
+
+SIGNATURE
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ABBVIE INC.
+
+Date: March 12, 2021
+
+By:
+
+/s/ Timothy J. Richmond
+
+Name: Timothy J. Richmond
+
+Title: Executive Vice President, Chief Human Resources Officer
+
+3
+
+Common Stock, $0.01 Par Value
+
+ABBV

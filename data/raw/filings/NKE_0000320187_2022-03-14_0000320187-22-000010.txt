@@ -1,0 +1,117 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+March 11, 2022
+
+Date of Report (date of earliest event reported)
+NIKE, Inc.
+
+(Exact name of registrant as specified in its charter)
+Oregon
+1-10635
+93-0584541
+(State or other jurisdiction of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+ONE BOWERMAN DRIVE
+
+BEAVERTON
+,
+OR
+
+97005-6453
+
+(Address of principal executive offices and zip code)
+(
+503
+)
+671-6453
+
+Registrant's telephone number, including area code
+NO CHANGE
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Class B Common Stock
+NKE
+New York Stock Exchange
+(Title of each class)
+(Trading Symbol)
+(Name of each exchange on which registered)
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 1.01 Entry into a Material Definitive Agreement
+364-Day Credit Facility
+On March 11, 2022, NIKE, Inc. (the “Company”) entered into a Credit Agreement with Bank of America, N.A., as administrative agent, and the other financial institutions named therein as lenders (the “364‑Day Credit Agreement”). The 364‑Day Credit Agreement provides for up to $1 billion of borrowings pursuant to a 364-day unsecured revolving credit facility (the “364‑Day Credit Facility”), which is available for working capital and general corporate purposes, including supporting the issuance of commercial paper. In addition to loans in U.S. Dollars, borrowings under the 364‑Day Credit Facility will be available in Canadian Dollar, Euro, Sterling, Yen and any other currency that is freely convertible into U.S. Dollars and agreed to by the administrative agent and the then existing lenders. The 364-Day Credit Facility matures on March 10, 2023, assuming the maturity date is not extended.
+The Company may, upon the agreement of either the then existing lenders or of additional banks not currently party to the 364-Day Credit Agreement, increase the commitments under the 364-Day Credit Facility to up to $1.5 billion. The Company may also request renewal of the 364‑Day Credit Facility for an additional 364-day period or convert any amounts outstanding into a term loan for a period of up to one year, which term loan would mature no later than the anniversary of the then effective termination date.
+As of March 11, 2022, the Company is the only borrower under the 364-Day Credit Facility. However, the 364‑Day Credit Agreement allows for the Company to designate additional subsidiary borrowers from time to time. In the event that any subsidiary of the Company becomes a borrower, the Company has agreed to provide a guarantee in respect of any such subsidiary’s obligations in relation with the revolving credit facility.
+Borrowings under the 364-Day Credit Facility will bear interest, at the Company’s option, at either (a) Term SOFR plus 0.10% plus an applicable margin or (b) a base rate defined as the highest of (i) the Bank of America “prime rate”, (ii) the federal funds effective rate plus 0.50% and (iii) one month Term SOFR plus 1.00%. The applicable margin for Term SOFR loans will range from 0.3575% to 0.690% based on the public ratings of the Company’s long-term, senior unsecured, non-credit enhanced indebtedness for borrowed money. The Company may select interest periods of one, three or six months for Term SOFR loans, subject to availability. Interest shall be payable at the end of the selected interest period, but no less frequently than quarterly.
+The 364-Day Credit Agreement contains covenants that, among other things, limit or restrict the ability of the Company and its subsidiaries to incur additional liens; engage in mergers, acquisitions and dispositions; and use proceeds of loans under the 364-Day Credit Facility. The 364‑Day Credit Agreement does not include any financial covenants.
+Five Year Credit Facility
+On March 11, 2022, the Company also entered into a Credit Agreement with Bank of America, N.A., as administrative agent, and the other financial institutions named therein as lenders (the “Five Year Credit Agreement”). The Five Year Credit Agreement provides for up to $2 billion of borrowings pursuant to an unsecured revolving credit facility (the “Five Year Credit Facility”), which is available for working capital and general corporate purposes, including supporting the issuance of commercial paper. In addition to loans in U.S. Dollars, borrowings under the Five Year Credit Facility will be available in Canadian Dollar, Euro, Sterling, Yen and any other currency that is freely convertible into U.S. Dollars and agreed to by the administrative agent and the then existing lenders.
+
+The Five Year Credit Facility matures on March 11, 2027, assuming the maturity date is not extended.
+The Company may, upon the agreement of either the then existing lenders or of additional banks not currently party to the Five Year Credit Agreement, increase the commitments under the Five Year Credit Facility to up to $3 billion. The Company may also request up to two one-year extensions of the maturity date, provided that the maturity date may not be extended beyond March 11, 2029.
+As of March 11, 2022, the Company is the only borrower under the Five Year Credit Facility. However, the Five Year Credit Agreement allows for the Company to designate additional subsidiary borrowers from time to time. In the event that any subsidiary of the Company becomes a borrower, the Company has agreed to provide a guarantee in respect of any such subsidiary’s obligations in relation with the revolving credit facility.
+Borrowings under the Five Year Credit Facility will bear interest, at the Company’s option, at either (a) Term SOFR plus 0.10% plus an applicable margin or (b) a base rate defined as the highest of (i) the Bank of America “prime rate”, (ii) the federal funds effective rate plus 0.50%, and (iii) one month Term SOFR plus 1.00%. The applicable margin for Term SOFR loans will range from 0.345% to 0.680% based on the public ratings of the Company’s long-term, senior unsecured, non-credit enhanced indebtedness for borrowed money. The Company may select interest periods of one, three or six months for Term
+SOFR loans, subject to availability. Interest shall be payable at the end of the selected interest period, but no less frequently than quarterly.
+The Five Year Credit Agreement contains covenants that, among other things, limit or restrict the ability of the Company and its subsidiaries to incur additional liens; engage in mergers, acquisitions and dispositions; and use proceeds of loans under the Five Year Credit Facility. The Five Year Credit Agreement does not include any financial covenants.
+Documentation
+The descriptions of the 364-Day Credit Agreement and the Five Year Credit Agreement are qualified in their entirety by reference to the 364-Day Credit Agreement and Five Year Credit Agreement filed as Exhibit 10.1 and 10.2, respectively, and incorporated herein by reference.
+Item 1.02 Termination of a Material Definitive Agreement
+Termination of Prior 364-Day Credit Agreement
+On March 11, 2022, concurrently with the Company’s entry into the 364-Day Credit Agreement described in Item 1.01 hereof, the Company terminated the existing Credit Agreement dated March 15, 2021, which provided for up to $1.0 billion of borrowings in U.S. Dollars pursuant to a 364‑day unsecured revolving credit facility, with the banks, financial institutions and other lenders signatory thereto (the “Prior 364‑Day Credit Agreement”). The Prior 364‑Day Credit Agreement contained covenants that, among other things, limited or restricted the ability of the Company and its subsidiaries to incur additional liens; engage in mergers, acquisitions and dispositions; engage in transactions with affiliates; and use proceeds of loans under the Prior 364-Day Credit Agreement. The Prior 364‑Day Credit Agreement did not include any financial covenants. No amounts were outstanding under this facility as of March 11, 2022. The Prior 364‑Day Credit Agreement would have expired on March 14, 2022.
+Termination of Prior Five Year Credit Agreement
+On March 11, 2022, concurrently with the Company’s entry into the Five Year Credit Agreement described in Item 1.01 hereof, the Company terminated the Credit Agreement dated August 16, 2019, which provided for a $2.0 billion revolving credit facility, with the banks, financial institutions and other lenders signatory thereto (the “Prior Five Year Credit Agreement”).
+
+The Prior Five Year Credit Agreement contained covenants that, among other things, limit or restrict the ability of the Company and its subsidiaries to incur additional liens; engage in mergers, acquisitions and dispositions; engage in transactions with affiliates; and use proceeds of loans under the Credit Agreement. The Prior Five Year Credit Agreement did not include any financial covenants. No amounts were outstanding under this facility as of March 11, 2022. The Prior Five Year Credit Agreement would have expired in August 2024.
+Item 2.03 Creation of a Direct Financial Obligation or an Obligation Under and Off-Balance Sheet Arrangement
+The information contained in Item 1.01 of this current report on Form 8-K is by this reference incorporated in this Item 2.03.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits.
+The following exhibits are furnished with this Form 8-K:
+Exhibit No.
+Exhibit
+10.1
+Credit Agreement dated as of March 11, 2022, among NIKE, Inc., Bank of America, N.A., as Administrative Agent, Citibank, N.A. and JPMorgan Chase Bank, N.A. as Co-Syndication Agents, Deutsche Bank Securities Inc., HSBC Bank USA, National Association and Goldman Sachs Bank USA, as Co-Documentation Agents, and the other Banks named therein
+.
+10.2
+Credit Agreement dated as of March 11, 2022, among NIKE, Inc., Bank of America, N.A. as Administrative Agent, Citibank, N.A. and JPMorgan Chase Bank, N.A. as Co-Syndication Agents, Deutsche Bank Securities Inc., HSBC Bank USA, National Association and Goldman Sachs Bank USA, as Co-Documentation Agents, and the other Banks named therein
+.
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+NIKE, Inc.
+(Registrant)
+
+Date:
+March 14, 2022
+By:
+/s/ Matthew Friend
+
+Matthew Friend
+
+Executive Vice President and Chief Financial Officer

@@ -1,0 +1,726 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)
+
+June 1, 2022
+
+ALPHABET INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-37580
+
+61-1767919
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+1600 Amphitheatre Parkway
+
+Mountain View
+,
+CA
+
+94043
+
+(Address of principal executive offices, including zip code)
+
+(650)
+
+253-0000
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Class A Common Stock, $0.001 par value
+
+GOOGL
+
+Nasdaq Stock Market LLC
+
+(Nasdaq Global Select Market)
+
+Class C Capital Stock, $0.001 par value
+
+GOOG
+
+Nasdaq Stock Market LLC
+
+none
+
+none
+
+(Nasdaq Global Select Market)
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02.
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+Amended and Restated Alphabet Inc. 2021 Stock Plan
+
+At the Annual Meeting of Stockholders of Alphabet Inc. (“
+Alphabet
+”) held on June 1, 2022 (the “
+2022 Annual Meeting
+”), Alphabet’s stockholders approved an amendment to Alphabet Inc. 2021 Stock Plan (the “
+2021 Stock Plan
+”) to increase the share reserve by 4,000,000 shares of Class C capital stock.
+
+A description of the 2021 Stock Plan and related matters was set forth in Alphabet’s definitive proxy statement on Form 14A filed with the U.S. Securities and Exchange Commission on April 22, 2022 (the “
+2022 Proxy Statement
+”) and is qualified in its entirety by reference to the full text of the 2021 Stock Plan, a copy of which is being filed as Exhibit 10.01 to this Form
+8-K.
+
+Item 5.03.
+
+Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+At the 2022 Annual Meeting, Alphabet’s stockholders approved an amendment to the Alphabet’s Amended and Restated Certificate of Incorporation (the “
+Charter
+”) to increase the number of authorized shares in connection with a
+20-for-one
+stock split of Alphabet’s Class A common stock, Class B common stock, and Class C capital stock (the “
+Charter Amendment
+”). The Charter Amendment became effective upon its filing with the Secretary of State of the State of Delaware on June 3, 2022.
+
+As previously announced, each Alphabet stockholder of record at the close of business on July 1, 2022 (the “
+Stock Split Record Date
+”) will receive, after the close of business on July 15, 2022, 19 additional shares for every one share held as of the Stock Split Record Date. Trading is expected to begin on a split-adjusted basis on July 18, 2022.
+
+This description of the Charter Amendment is not complete and is qualified in its entirety by reference to the text of the Charter, as amended and restated, a copy of which is filed as Exhibit 3.01 to this Form
+8-K.
+
+Item 5.07.
+
+Submission of Matters to a Vote of Security Holders.
+
+At the 2022 Annual Meeting, Alphabet’s stockholders voted on
+twenty-one
+proposals as set forth below, all of which are described in detail in the 2022 Proxy Statement. Holders of the shares of Class A common stock were entitled to one vote per share held as of the close of business on April 5, 2022 (the “
+Record Date
+”) and holders of the shares of Class B common stock were entitled to ten votes per share held as of the Record Date. Holders of the shares of Class A common stock and holders of the shares of Class B common stock voted together as a single class on all matters (including the election of directors) submitted to a vote of stockholders at the 2022 Annual Meeting. The number of votes cast for and against and the number of abstentions and broker
+non-votes
+with respect to each matter voted upon are set forth below.
+
+1. The individuals listed below were elected at the 2022 Annual Meeting to serve as directors of Alphabet until the next annual meeting of stockholders or until their respective successors have been duly elected and qualified:
+
+Director Nominee
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+Larry Page
+
+592,852,727
+
+10,483,152
+
+444,070
+
+30,350,444
+
+Sergey Brin
+
+592,848,088
+
+10,485,256
+
+446,605
+
+30,350,444
+
+Sundar Pichai
+
+595,666,963
+
+7,658,201
+
+454,785
+
+30,350,444
+
+John L. Hennessy
+
+553,426,687
+
+49,316,543
+
+1,036,719
+
+30,350,444
+
+2
+
+Frances H. Arnold
+
+589,868,660
+
+12,865,280
+
+1,046,009
+
+30,350,444
+
+L. John Doerr
+
+570,481,269
+
+32,801,993
+
+496,687
+
+30,350,444
+
+Roger W. Ferguson, Jr.
+
+598,326,295
+
+4,942,318
+
+511,336
+
+30,350,444
+
+Ann Mather
+
+537,742,671
+
+65,444,274
+
+593,004
+
+30,350,444
+
+K. Ram Shriram
+
+583,326,313
+
+19,954,131
+
+499,505
+
+30,350,444
+
+Robin L. Washington
+
+590,506,893
+
+12,772,617
+
+500,439
+
+30,350,444
+
+2. The ratification of the appointment of Ernst & Young LLP as Alphabet’s independent registered public accounting firm for the fiscal year ending December 31, 2022. There were no broker
+non-votes
+on this matter. This proposal was approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+617,716,269
+
+15,840,842
+
+573,282
+
+3. The approval of an amendment to the 2021 Stock Plan to increase the share reserve by 4,000,000 shares of Class C capital stock. This proposal was approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+506,345,892
+
+96,866,593
+
+567,464
+
+30,350,444
+
+4. The approval of an amendment to Alphabet’s Amended and Restated Certificate of Incorporation to increase the number of authorized shares. There were no broker non-votes on this matter. This proposal was approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+609,336,661
+
+24,202,969
+
+590,763
+
+5. A stockholder proposal regarding a lobbying report. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+114,337,748
+
+488,159,890
+
+1,282,311
+
+30,350,444
+
+6. A stockholder proposal regarding a climate lobbying report. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+113,506,023
+
+482,661,112
+
+7,612,814
+
+30,350,444
+
+3
+
+7. A stockholder proposal regarding a report on physical risks of climate change. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+107,101,112
+
+494,683,281
+
+1,995,556
+
+30,350,444
+
+8. A stockholder proposal regarding a report on water management risks. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+136,092,909
+
+465,662,037
+
+2,025,003
+
+30,350,444
+
+9. A stockholder proposal regarding a racial equity audit. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+134,699,006
+
+466,991,436
+
+2,089,507
+
+30,350,444
+
+10. A stockholder proposal regarding a report on concealment clauses. This is proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+72,130,367
+
+528,736,242
+
+2,913,340
+
+30,350,444
+
+11. A stockholder proposal regarding equal shareholder voting. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+200,212,885
+
+402,897,885
+
+669,179
+
+30,350,444
+
+12. A stockholder proposal regarding a report on government takedown requests. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+2,422,967
+
+597,589,694
+
+3,767,288
+
+30,350,444
+
+4
+
+13. A stockholder proposal regarding a human rights assessment of data center siting. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+102,603,593
+
+498,995,355
+
+2,181,001
+
+30,350,444
+
+14. A stockholder proposal regarding a report on data collection, privacy, and security. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+73,742,058
+
+528,275,894
+
+1,761,997
+
+30,350,444
+
+15. A stockholder proposal regarding algorithm disclosures. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+117,998,457
+
+483,701,300
+
+2,080,192
+
+30,350,444
+
+16. A stockholder proposal regarding misinformation and disinformation. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+138,860,290
+
+462,429,154
+
+2,490,505
+
+30,350,444
+
+17. A stockholder proposal regarding a report on external costs of disinformation. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+21,171,063
+
+578,562,198
+
+4,046,688
+
+30,350,444
+
+18. A stockholder proposal regarding a report on board diversity. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+31,672,686
+
+569,647,268
+
+2,459,995
+
+30,350,444
+
+5
+
+19. A stockholder proposal regarding the establishment of an environmental sustainability board committee. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+28,643,318
+
+572,059,570
+
+3,077,061
+
+30,350,444
+
+20. A stockholder proposal regarding a policy on
+non-management
+employee representative director. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+15,377,634
+
+587,364,843
+
+1,037,472
+
+30,350,444
+
+21. A stockholder proposal regarding a report on policies regarding military and militarized policing agencies. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+55,301,799
+
+544,653,039
+
+3,825,111
+
+30,350,444
+
+Item 8.01.
+
+Other Events.
+
+Effective as of June 1, 2022, Robin L. Washington will serve as a member of the Audit and Compliance Committee of the Board of Directors of Alphabet (the “
+Board
+”). Ms. Washington will continue to serve as chair of the Leadership Development, Inclusion and Compensation Committee of the Board.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit
+No.
+
+Description
+
+3.01
+
+Amended and Restated Certificate of Incorporation of Alphabet Inc.
+
+10.01
+
+Alphabet Inc. Amended and Restated 2021 Stock Plan
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+6
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ALPHABET INC.
+
+June 3, 2022
+
+/s/ Kathryn W. Hall
+
+Kathryn W. Hall
+
+Assistant Secretary
+
+7

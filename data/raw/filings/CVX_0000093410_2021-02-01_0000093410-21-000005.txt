@@ -1,0 +1,121 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+January 26, 2021
+
+Chevron Corporation
+(Exact name of registrant as specified in its charter)
+Delaware
+001-00368
+94-0890210
+(State or other jurisdiction
+of incorporation )
+(Commission File Number)
+(I.R.S. Employer
+Identification No.)
+6001 Bollinger Canyon Road,
+San Ramon,
+CA
+94583
+(Address of Principal Executive Offices)
+(Zip Code)
+Registrant’s telephone number, including area code:
+
+(
+925
+)
+842-1000
+
+N/A
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligations of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Common stock, par value $.75 per share
+CVX
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (
+§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter
+).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(e)
+2021 Executive Compensation Review
+On January 27, 2021, the independent Directors of the Board of Directors (the “Board”) of Chevron Corporation (“Chevron”) conducted an annual review of the compensation of Chevron’s executive officers, including Michael K. Wirth, Chairman and Chief Executive Officer, Pierre R. Breber, Vice President and Chief Financial Officer, and the other named executive officers of Chevron identified in Chevron’s 2020 proxy statement, James W. Johnson, Executive Vice President, Upstream, Joseph C. Geagea, Executive Vice President, Technology, Projects and Services, and Mark A. Nelson, Executive Vice President, Downstream & Chemicals (collectively, the “Named Executive Officers”). Following such review, the independent Directors of the Board approved no change to the annual base salary or the 2021 target percentage under the Chevron Incentive Plan (“CIP”) for Mr. Wirth and ratified the decision of the Management Compensation Committee of the Board (the “Committee”) to make no changes to the annual base salaries or 2021 CIP target percentages for the other Named Executive Officers. Further, the independent directors of the Board, after considering the recommendation of the Committee, determined that Mr. Wirth and the other Named Executive Officers would not receive bonuses under the CIP for the 2020 performance cycle.
+2021 Equity Awards to Named Executive Officers
+On January 27, 2021, the independent Directors of the Board also approved the grant of 87,870 performance shares, 317,100 stock options, and 43,930 standard restricted stock units to Mr. Wirth and ratified the following grants by the Committee under the Long-Term Incentive Plan of Chevron Corporation ("LTIP"): (i) Mr. Breber, 22,690 performance shares, 81,900 stock options, and 11,340 standard restricted stock units; (ii) Mr. Johnson, 29,460 performance shares, 106,300 stock options, and 14,730 standard restricted stock units; (iii) Mr. Geagea, 22,690 performance shares, 81,900 stock options, 11,340 standard restricted stock units, and 18,150 special restricted stock units; and (iv) Mr. Nelson, 22,690 performance shares, 81,900 stock options, and 11,340 standard restricted stock units. Mr. Geagea received a grant of special restricted stock units in recognition of his extraordinary contributions and leadership in managing Chevron’s global COVID-19 pandemic response, integrating Noble Energy, Inc., and leading the enterprise-wide business restructuring in 2020.
+The stock options were awarded under the form of non-qualified stock options agreement previously approved by the Committee. These options have a ten-year term, and one-third of the options granted vest on each of January 31, 2022, January 31, 2023, and January 31, 2024, except as described further herein. The exercise price for the stock options is $88.20 per share, the closing price of Chevron’s common stock on January 27, 2021, the date of grant. The number of stock options granted was determined based on grant date inputs, including stock price and Black-Scholes valuation.
+The restricted stock units were awarded under the forms of standard restricted stock unit award agreement and special restricted stock unit award agreement previously approved by the Committee. The standard restricted stock units and special restricted stock units vest on January 31, 2026, and January 31, 2024, respectively, will pay out in cash based on the closing price of Chevron common stock on the date of vesting (or, if not a trading day, on the last preceding trading day), and will accrue dividend equivalents that will be reinvested as additional restricted stock units, except as described further herein.
+Effective January 26, 2021, the Committee approved a new form of performance share award agreement to be used for the award of performance shares under the LTIP on a going-forward basis to executive officers and other eligible employees of Chevron, including the awards to the Named Executive Officers
+described below. This new form of agreement provides that relative Return on Capital Employed (“ROCE”) improvement be added as a second performance metric, with payout weighted 70 percent based on relative Total Shareholder Return (“TSR”) as measured against BP p.l.c., Exxon Mobil Corporation, Royal Dutch Shell p.l.c., Total S.A., and the S&P 500 Index (collectively the “LTIP Performance Share Peer Group”), and 30 percent based on relative ROCE improvement as measured against the large-cap integrated energy companies BP p.l.c., Exxon Mobil Corporation, Royal Dutch Shell p.l.c., and Total S.A. (collectively, the ”ROCE Competitor Group"). A copy of the form of performance share award agreement is filed as Exhibit 10.1 hereto and is hereby incorporated by reference herein. Corresponding changes were made to the rules governing awards under the LTIP, with effect as of January 27, 2021.
+The performance shares may result in a cash payout at the end of the three-year performance period (January 1, 2021 through December 31, 2023) (the “Performance Period”) depending upon Chevron’s relative performance as follows:
+Relative ranking
+1
+2
+3
+4
+5
+6
+TSR Modifier (1)
+(70% weight, ranking includes S&P 500 Index)
+200%
+160%
+120%
+80%
+40%
+0%
+ROCE Improvement Modifier (2)
+(30% weight, ranking excludes S&P 500 Index)
+200%
+150%
+100%
+50%
+0%
+n/a
+1.
+Chevron’s TSR for the Performance Period as compared to the TSR of the LTIP Performance Share Peer Group. The TSR Modifier is based on Chevron’s TSR ranking for the three-year Performance Period compared to the TSR of each competitor in the LTIP Performance Share Peer Group (from best TSR to lowest TSR) as set forth in the table. If the difference between Chevron’s TSR and the TSR of any higher or lower competitor of the LTIP Performance Share Peer Group is less than one percentage point (rounded to one decimal point), the results will be considered a tie, and the TSR Modifier will be the average of all of the TSR Modifiers for Chevron and for such other competitors of the LTIP Performance Share Peer Group that fall less than one percentage point (rounded to one decimal point) higher or lower than Chevron.
+2.
+Chevron’s ROCE improvement (“ROCE-I”), measured by percentage point change, as compared with the ROCE-I for the ROCE Competitor Group. The ROCE-I Modifier is based on Chevron’s ROCE-I ranking for the three-year period commencing with the quarter preceding the beginning of the Performance Period and ending one quarter prior to the end of the Performance Period, compared to the ROCE-I of each company in the ROCE Competitor Group (from best ROCE-I to lowest ROCE-I) as set forth in the table. In the event Chevron’s measured ROCE-I is less than one half of a percentage point of the nearest member(s) of the ROCE Competitor Group, the results will be considered a tie, and the ROCE-I Modifier will be determined by dividing the sum of the ROCE-I Modifiers in the tied positions by the number of members of the ROCE Competitor Group in the tie.
+The performance shares will accrue dividend equivalents that will be reinvested as additional performance shares and will vest on December 31, 2023, subject to the payout modifiers, except as described further herein. The cash payout, if any, will occur in an amount equal to the number of performance shares granted, including dividend equivalents, multiplied by the 20-day trailing average price of Chevron common stock at the end of the Performance Period, multiplied by a performance share multiplier, which is the weighted average of (a) the TSR Modifier (70 percent weight); and (b) the ROCE-I Modifier (30 percent weight), each of which is determined as described above. The Committee may, in its discretion,
+adjust the cash payout of performance shares downward if it determines that business or economic considerations warrant such an adjustment.
+Under the LTIP award terms, if these individuals’ employment terminates for any reason prior to January 31, 2022, the above-described stock option, performance share, and restricted stock unit awards will be forfeited. Since Messrs. Wirth, Johnson, Geagea and Nelson each have reached 90 points (the sum of years of age and years of service) under the LTIP rules, on January 31, 2022, 100 percent of the unvested portion of the above-described stock options will vest upon the termination of their employment on or after that date for any reason other than for misconduct (as defined under the LTIP rules), and such options will be exercisable through the remainder of the original 10-year term. In addition, 100 percent of the unvested portion of the above-described performance share awards will continue to vest upon the termination of their employment on or after January 31, 2022, for any reason other than for misconduct (as defined in the LTIP rules) but will not be fully vested and will not be paid out prior to December 31, 2023. Further, 100 percent of the unvested portion of the above-described standard restricted stock unit awards will continue to vest upon the termination of their employment on or after January 31, 2022, for any reason other than for misconduct (as defined under the LTIP rules) but will not be fully vested and will not be paid out prior to January 31, 2026. With respect to the special restricted stock unit awards granted to Mr. Geagea, under the LTIP award terms, 100 percent of the unvested portion of such awards will be forfeited if his employment terminates prior to January 31, 2024, for any reason.
+Since Mr. Breber has more than 75 points but less than 90 points (the sum of years of age and years of service) under the LTIP, on January 31, 2022, a portion of the unvested portion of the above-described stock option will vest upon the termination of his employment on or after that date for any reason other than for misconduct (as defined under the LTIP rules) and remain exercisable for five years from the date of termination or the remaining term of the award, if less. A portion of the unvested portion of Mr. Breber’s above-described performance share awards will continue to vest upon the termination of his employment on or after January 31, 2022, for any reason other than for misconduct (as defined in the LTIP rules) but will not be vested and will not be paid out prior to December 31, 2023. Further, a portion of the unvested portion of the above-described restricted stock unit awards will continue to vest upon the termination of his employment on or after January 31, 2022, for any reason other than for misconduct (as defined under the LTIP rules) but will not be vested and will not be paid out prior to January 31, 2026. The portion of Mr. Breber’s unvested stock options that will vest will be determined by multiplying the number of stock options granted, as applicable, by the number of completed months from the grant date to the date of termination, up to a maximum of 36 months, divided by 36 months, and the rest will be forfeited. The portion of Mr. Breber’s unvested performance shares that will vest will be determined by multiplying the number of performance shares granted, as applicable, by the number of completed months from the Performance Period start date to the date of termination, up to a maximum of 36 months, divided by 36 months, and the rest will be forfeited. The portion of Mr. Breber’s unvested restricted stock units that will vest will be determined by multiplying the number of restricted stock units granted by the number of completed months from the grant date to the date of termination, up to a maximum of 60 months, divided by 60 months, and the rest will be forfeited.
+Item 9.01 Financial Statements and Exhibits.
+(d)
+Exhibits
+.
+Exhibit Number
+Description
+10.1
+Form of Performance Share Award Agreement under the Long-Term Incentive Plan of Chevron Corporation
+104
+Cover Page Interactive Data File, formatted in Inline XBRL
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated: February 1, 2021
+CHEVRON CORPORATION
+By:
+/s/ Christine L. Cavallo
+Christine L. Cavallo
+Assistant Secretary

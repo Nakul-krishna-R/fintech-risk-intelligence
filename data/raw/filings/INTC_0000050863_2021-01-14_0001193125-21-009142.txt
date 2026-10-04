@@ -1,0 +1,250 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+January 12, 2021
+
+INTEL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+000-06217
+
+94-1672743
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+2200 Mission College Blvd.
+,
+Santa Clara
+,
+California
+
+95054-1549
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+(408)
+
+765-8080
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common stock, $0.001 par value
+
+INTC
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 2.02.
+
+Results of Operations and Financial Condition.
+
+On January 13, 2021, Intel Corporation (“Intel”) announced in the press release furnished as Exhibit 99.1 to this report that it expects its fourth-quarter 2020 revenue and earnings per share to exceed its prior guidance provided in its October 22, 2020 earnings release.
+
+Item 5.02.
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(b), (c), (d), (e)
+
+Appointment of Chief Executive Officer
+
+On January 13, 2021, Intel announced that its Board of Directors (the “Board”) appointed Patrick (“Pat”) Gelsinger as Chief Executive Officer of Intel (“CEO”), effective as of February 15, 2021 (the “Effective Date”). Mr. Gelsinger also was appointed as a member of the Board and the Executive Committee of the Board, effective as of the Effective Date.
+
+Mr. Gelsinger, 59, will join Intel from VMware, Inc. (“VMware”), where he has served as Chief Executive Officer and a director of VMware’s board since September 2012. Prior to joining VMware, Mr. Gelsinger served as President and Chief Operating Officer, EMC Information Infrastructure Products at EMC from September 2009 to August 2012. Mr. Gelsinger joined EMC from Intel, where he spent 30 years, including serving as Senior Vice President and
+Co-General
+Manager of Intel’s Digital Enterprise Group from 2005 to September 2009, serving as Intel’s Senior Vice President, Chief Technology Officer from 2002 to 2005 and leading Intel’s Desktop Products Group prior to that.
+
+In connection with his appointment as CEO, Intel entered into an offer letter with Mr. Gelsinger (the “Offer Letter”) setting forth the terms of his employment and compensation. Pursuant to the Offer Letter, Mr. Gelsinger will be an
+at-will
+employee entitled to a base salary of $1,250,000 and eligible for an annual incentive cash bonus with a target payout of 275% of base salary under Intel’s Executive Annual Performance Bonus Plan. Mr. Gelsinger will also receive a cash hiring bonus of $1,750,000 payable within 30 days following his employment start date, subject to repayment on a
+pro-rated
+basis if, during the 12 months following his start date, he resigns without “Good Reason” (as defined in the Offer Letter) or his employment is terminated for any reason other than for death or disability.
+
+The Offer Letter also provides that Mr. Gelsinger will be granted equity awards on his employment start date, as described below. The amounts of the grants to be made to Mr. Gelsinger were determined in part to make Mr. Gelsinger whole for unvested equity awards that he will forfeit upon his departure from his former employer.
+
+•
+
+Mr. Gelsinger will be granted performance stock units based on relative total shareholder return metrics (“TSR PSUs”) with a target number of Intel shares subject to the grant having a grant date value of $20,000,000, as determined by Intel using a fair value methodology that utilizes an average of Intel’s trading prices over a
+30-day
+period preceding January 13, 2021 for the applicable input in such fair value determination (with the Intel-determined fair value used to calculate the granted number of shares referred to as the “Conversion Price”). Vesting of such TSR PSUs will be based on Intel’s total shareholder return (“TSR”) relative to the TSR of the S&P 500 IT Index over a three-year period commencing with the grant date.
+
+•
+
+Mr. Gelsinger will be granted restricted stock units (“RSUs”) with a number of Intel shares subject to the grant having a grant date value of $20,000,000, determined by Intel, using the Conversion Price. The RSUs will vest quarterly over a three-year period.
+
+•
+
+Mr. Gelsinger will be granted performance stock units based on stock price growth (“Strategic Growth PSUs”), with a target number of Intel shares subject to the grant having a grant date value of $20,000,000, determined by Intel, using the Conversion Price, which will be earned based on the appreciation in Intel’s closing stock price over the five-year period following the grant date. The threshold share appreciation target to earn any shares under the Strategic Growth PSUs is an increase in Intel’s closing stock price of at least 30% over Intel’s volume-weighted average closing share price for the 30 consecutive trading days preceding January 13, 2021 (the “VWAP”), in which event
+one-half
+of the target number of shares under the Strategic Growth PSUs will be earned. The target number of shares under the Strategic Growth PSUs will
+
+be earned in the event of an increase in Intel’s closing stock price of 50% over the VWAP. The maximum number of Intel shares that may be earned under the Strategic Growth PSUs in the event of an increase in Intel’s closing stock price of 100% or more over the VWAP will be 200% of the target number of shares. The number of shares underlying the Strategic Growth PSUs that will be earned in the event of an increase in Intel’s stock price between 30% and 100% or more will be determined via straight line interpolation of the earned percentages set forth herein. In order for shares underlying the Strategic Growth PSUs to be earned, Intel’s closing stock price must close above the percentage increase targets set forth herein for at least 30 consecutive trading days. Shares under the Strategic Growth PSUs that are earned as a result of attainment of the stock price appreciation targets during the five year performance period will be distributed on the fifth anniversary of the grant date; provided, that to the extent the threshold (or a higher) stock price appreciation target is attained on or prior to the
+thirty-six
+month anniversary of the grant date, 50% of the shares earned under the Strategic Growth PSUs as of such date will be distributed on the
+thirty-six
+month anniversary of the grant date and the remainder of any earned shares will be distributed on the fifth anniversary of the grant date.
+
+•
+
+Mr. Gelsinger will be granted performance-based stock options based on stock price growth, with a target number of Intel shares subject to the grant having a grant date value of $20,000,000, determined by Intel, using the Conversion Price. The options vest annually over a four-year period from the grant date. The options, to the extent vested, shall be exercisable only if, during the five-year period following their grant date, Intel’s closing stock price increases by 30% or more above the VWAP for 30 consecutive trading days.
+
+•
+
+Mr. Gelsinger will be granted performance stock units (“Outperformance PSUs”), with a number of Intel shares subject to the grant having a grant date value of $20,000,000, determined by Intel, using the Conversion Price, which will be earned based on the appreciation in Intel’s closing stock price over the five-year period following the grant date. The Intel shares subject to the Outperformance PSUs will be earned in the event of an increase in Intel’s closing stock price of 200% or more over the VWAP. In order for shares underlying the Outperformance PSUs to be earned, Intel’s closing stock price must close above such 200% increase for at least 30 consecutive trading days. Shares under the Outperformance PSUs that are earned as a result of attainment of the stock price appreciation target during the five year performance period will be distributed on the fifth anniversary of the grant date; provided, that to the extent the stock price appreciation target is attained on or prior to the
+thirty-six
+month anniversary of the grant date, 50% of the shares earned under the Outperformance PSUs as of such date will be distributed on the
+thirty-six
+month anniversary of the grant date and the remainder of any earned shares will be distributed on the fifth anniversary of the grant date.
+
+•
+
+If Mr. Gelsinger elects within a designated period following his employment start date, as described in the Offer Letter, to purchase Intel shares equal to an amount up to $10,000,000 (the “Investment Shares”), then Intel will grant him a number of matching RSUs equal to the number of Investment Shares, in an amount up to $10,000,000 in aggregate value, which will vest quarterly over a three-year period from the grant date; provided, that, such vesting of the matching RSUs will be subject to Mr. Gelsinger continuing to hold the Investment Shares through the three-year vesting period.
+
+The Offer Letter also provides that in the event Mr. Gelsinger’s employment is terminated by Intel without “Cause” (as defined in the Offer Letter) or he voluntarily resigns for Good Reason, and he signs and does not revoke a release, Mr. Gelsinger will receive a severance payment equal to the sum of (i) 18 months of his then-base salary and (ii) 1.5 times his then-target bonus, payable over a period of 18 months in accordance with Intel’s regular payroll practices. In addition, in the event his employment is terminated by Intel without Cause, including by reason of his death or disability, or he voluntarily resigns for Good Reason, in either case within the initial
+two-year
+period following his employment start date, and he signs a release, the equity awards in the Offer Letter that then are subject to solely time-based vesting will vest as to an additional 18 months.
+
+The foregoing description of Mr. Gelsinger’s Offer Letter and compensation arrangements does not purport to be complete and is qualified in its entirety by reference to the Offer Letter, which is attached as Exhibit 10.1 to this report and incorporated by reference herein.
+
+Mr. Gelsinger does not have any family relationship with any director or executive officer of Intel, or person nominated or chosen by Intel to become a director or executive officer, and he has no direct or indirect material interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation
+S-K.
+
+Intel will also enter into its standard form of indemnification agreement with Mr. Gelsinger, the form of which is filed as Exhibit 10.2 to Intel’s Form
+10-Q
+for the period ended October 1, 2016.
+
+Departure of Chief Executive Officer
+
+On January 13, 2021, Intel announced that it had determined that Robert (“Bob”) H. Swan will depart from Intel, effective as of February 15, 2021. Mr. Swan’s employment will be terminated without cause. Mr. Swan submitted his resignation from the Board on January 13, 2021, effective as of February 15, 2021.
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+Intel’s press release, dated January 13, 2021, announcing the appointment of Mr. Gelsinger as Intel’s Chief Executive Officer is furnished as Exhibit 99.1 to this report.
+
+The information in Item 7.01 of this report is furnished and shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+The following exhibits are provided as part of this report:
+
+Exhibit
+
+Description
+
+10.1
+
+Offer Letter between Intel Corporation and Patrick Gelsinger dated January 13, 2021
+
+99.1
+
+Press Release issued by Intel Corporation dated January 13, 2021
+
+104
+
+Cover Page Interactive Data File, formatted in Inline XBRL and included as Exhibit 101
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+INTEL CORPORATION
+
+(Registrant)
+
+Date: January 14, 2021
+
+/s/ Susie Giordano
+
+Susie Giordano
+
+Corporate Vice President and Corporate Secretary

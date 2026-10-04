@@ -1,0 +1,92 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+January 25, 2022
+Accenture plc
+
+(Exact name of Registrant as specified in its charter)
+Ireland
+001-34448
+98-0627530
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+1 Grand Canal Square
+
+Grand Canal Harbour
+
+Dublin
+
+2
+,
+Ireland
+
+(Address of principal executive offices)
+Registrant’s telephone number, including area code: (
+353
+) (
+1
+)
+646-2000
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A ordinary shares, par value $0.0000225 per share
+ACN
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On January 25, 2022, the Board of Directors of Accenture plc (“Accenture”) appointed Manish Sharma, who currently leads Accenture’s Operations service, to the role of Accenture’s chief operating officer, effective March 1, 2022. Mr. Sharma succeeds Jo Deblaere, who will continue in the position until March 1, 2022 and plans to retire on September 1, 2022.
+Mr. Sharma, 54, has been Accenture’s group chief executive – Operations and a member of Accenture’s Global Management Committee since March 2020. Prior to assuming his current role, Mr. Sharma served as the group operating officer for Operations from September 2016 to March 2020 and as senior managing director for Accenture Operations Global Delivery and Solution Development and global sales lead for Accenture Operations Business Process Outsourcing (BPO) from January 2009 to September 2016. Previously, Mr. Sharma led Accenture’s BPO operations in the Asia Pacific region, with responsibility for delivery centers in India, China, Philippines, Malaysia and Australia from January 2004 to January 2009. Mr. Sharma has been with Accenture since March 1995.
+There are no related person transactions involving Mr. Sharma and Accenture that require disclosure under Item 404(a) of Regulation S-K, other than employment of Mr. Sharma’s brother, Avnish Sharma, by Accenture as a managing director. Avnish Sharma has been an Accenture employee for 18 years. During fiscal 2021, he earned approximately $421,000 in total compensation, which included base salary, bonus, equity awards and other compensation commensurate with his peers’ compensation, and which was established in accordance with Accenture’s compensation practices applicable to employees with equivalent qualifications, experience and responsibilities. He participates in employee benefit plans and programs generally made available to employees of similar responsibility levels.
+Yusuf Tayob has been named group chief executive – Operations, effective March 1, 2022. Currently, Mr. Tayob is Accenture’s market unit lead for the US Midwest. Mr. Tayob is a member of Accenture’s Global Management Committee.
+A copy of Accenture’s news release issued on January 31, 2022 regarding these changes is filed as Exhibit 99 to this Form 8-K.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+Exhibit No.
+Description
+99
+News Release of Accenture, dated
+January 31, 2022
+104
+The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+Date: January 31, 2022
+ACCENTURE PLC
+By:
+
+/s/ Joel Unruch
+Name:
+
+Joel Unruch
+Title:
+
+General Counsel & Corporate Secretary

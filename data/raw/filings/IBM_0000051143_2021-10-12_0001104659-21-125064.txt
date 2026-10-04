@@ -1,0 +1,326 @@
+Title of each class
+
+Capital stock, par value $.20 per share
+
+Trading
+symbol
+
+IBM
+
+Common Stock
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+WASHINGTON,
+D.C. 20549
+
+FORM
+
+8-K
+
+CURRENT
+REPORT
+
+PURSUANT TO SECTION 13 OR 15 (d)
+
+OF
+THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of
+Report (Date of earliest event reported):
+October 12, 2021
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+
+(Exact name of registrant
+as specified in its charter)
+
+New York
+
+1-2360
+
+13-0871985
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File No.)
+
+(IRS employee
+
+Indemnification No.)
+
+One New Orchard Road
+
+Armonk
+,
+
+New York
+
+10504
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+914
+-
+499-1900
+
+(Registrar’s telephone
+number, including area code)
+
+Check the appropriate
+box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Title
+of each class
+
+Trading
+
+Symbol(s)
+
+Name
+of each exchange
+on which registered
+
+Capital stock, par value $.20 per share
+
+IBM
+
+New York Stock Exchange
+
+NYSE
+Chicago
+
+2.625% Notes due 2022
+
+IBM 22A
+
+New York Stock Exchange
+
+1.250% Notes due 2023
+
+IBM 23A
+
+New York Stock Exchange
+
+0.375% Notes due 2023
+
+IBM 23B
+
+New York Stock Exchange
+
+1.125% Notes due 2024
+
+IBM 24A
+
+New York Stock Exchange
+
+2.875% Notes due 2025
+
+IBM 25A
+
+New York Stock Exchange
+
+0.950% Notes due 2025
+
+IBM 25B
+
+New York Stock Exchange
+
+0.875% Notes due 2025
+
+IBM 25C
+
+New York Stock Exchange
+
+0.300% Notes due 2026
+
+IBM 26B
+
+New York Stock Exchange
+
+1.250% Notes due 2027
+
+IBM 27B
+
+New York Stock Exchange
+
+0.300% Notes due 2028
+
+IBM 28B
+
+New York Stock Exchange
+
+1.750% Notes due 2028
+
+IBM 28A
+
+New York Stock Exchange
+
+1.500% Notes due 2029
+
+IBM 29
+
+New York Stock Exchange
+
+1.750% Notes due 2031
+
+IBM 31
+
+New York Stock Exchange
+
+0.650% Notes due 2032
+
+IBM 32A
+
+New York Stock Exchange
+
+1.200% Notes due 2040
+
+IBM 40
+
+New York Stock Exchange
+
+7.00% Debentures due 2025
+
+IBM 25
+
+New York Stock Exchange
+
+6.22% Debentures due 2027
+
+IBM 27
+
+New York Stock Exchange
+
+6.50% Debentures due 2028
+
+IBM 28
+
+New York Stock Exchange
+
+7.00% Debentures due 2045
+
+IBM 45
+
+New York Stock Exchange
+
+7.125% Debentures due 2096
+
+IBM 96
+
+New York Stock Exchange
+
+Indicate by check mark
+whether the registrar is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (
+§
+230
+405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (
+§
+12b-2
+of this chapter).
+
+Emerging growth company
+
+¨
+
+If an emerging growth
+company indicate by check mark if the registrant has elected not to use the extended transition period for complying with any
+new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+
+Item 8.01
+Other Events.
+
+On October 12, 2021, International Business Machines
+Corporation (“IBM”) announced the timing and details regarding IBM’s distribution of 80.1% of the outstanding shares
+of common stock, par value $0.01 per share, of Kyndryl Holdings, Inc. (“Kyndryl”), a wholly owned subsidiary of IBM (the “Kyndryl
+Common Stock”), to IBM’s holders of common stock (“IBM stockholders”) as a pro rata dividend in a spin-off.
+Following the distribution, IBM will retain 19.9% of the outstanding Kyndryl Common Stock. IBM intends to dispose of any retained Kyndryl
+Common Stock within 12 months after the distribution. The IBM board of directors has declared a pro rata dividend of Kyndryl Common Stock
+to be made effective at 5:00 p.m., New York City time, on Wednesday, November 3, 2021, to IBM’s stockholders of record as of
+the close of business, on Monday, October 25, 2021 (the “Record Date”). Each IBM stockholder of record on the Record
+Date will receive a distribution of one share of Kyndryl Common Stock for every five shares of common stock, par value $0.20 per share,
+of IBM, that it holds on the Record Date. IBM stockholders will receive cash in lieu of fractional shares of Kyndryl Common Stock. The
+distribution is subject to the satisfaction or waiver of certain conditions. A copy of the press release is included herewith as Exhibit 99.1,
+and is incorporated by reference herein.
+
+Forward-Looking Statements
+
+Statements in this report regarding the spin-off
+and separation constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Any statements
+that are not statements of historical fact (including statements containing the words “believes,” “plans,” “anticipates,”
+“expects,” “intends” or “estimates” or similar expressions) should also be considered to be forward-looking
+statements. Forward-looking statements are based on the IBM’s current assumptions regarding future business and financial performance.
+These statements, by their nature, address matters that are uncertain to different degrees. These statements involve a number of factors
+that could cause actual results to differ materially. Additional information concerning these factors is contained in IBM’s most
+recent Form 10-K, Form 10-Q and other filings with the Securities and Exchange Commission (the “SEC”), as well as those risk
+factors described in Kyndryl’s Registration Statement on Form 10 (the “Registration Statement”). Copies of IBM filings
+are available from the SEC, from the IBM website or from IBM Investor Relations. Copies of Kyndryl’s Registration Statement is available
+from the SEC. We disclaim any obligation to update any forward-looking statements as a result of developments occurring after the date
+of this report.
+
+Item 9.01
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit No
+
+Description
+
+99.1
+
+Press Release dated October 12, 2021.
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+INTERNATIONAL BUSINESS MACHINES
+CORPORATION
+
+By:
+
+/s/Frank Sedlarcik
+
+Name:
+
+Frank Sedlarcik
+
+Title:
+
+Vice President, Assistant General Counsel and Secretary
+
+Date: October 12, 2021

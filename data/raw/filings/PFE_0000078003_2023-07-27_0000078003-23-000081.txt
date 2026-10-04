@@ -1,0 +1,84 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of report (Date of earliest event reported):
+July 21, 2023
+PFIZER INC
+.
+(Exact name of registrant as specified in its charter)
+Delaware
+1-3619
+13-5315170
+(State or other
+(Commission File
+(I.R.S. Employer
+jurisdiction of
+Number)
+Identification No.)
+incorporation)
+
+66 Hudson Boulevard East
+10001-2192
+New York,
+
+New York
+
+(Zip Code)
+(Address of principal executive offices)
+Registrant’s telephone number, including area code:
+(
+212
+)
+733-2323
+
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2 (b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $.05 par value
+PFE
+New York Stock Exchange
+1.000% Notes due 2027
+PFE27
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers
+On July 27, 2023, Pfizer Inc. (“Pfizer” or “the Company”) announced that in consideration of planned future investments in Oncology, including the proposed acquisition of Seagen Inc., it is restructuring its Research and Development organization with Oncology as a stand-alone unit. Effective immediately, Dr. Chris Boshoff, currently Chief Development Officer – Oncology, will become Chief Oncology Research and Development Officer, Executive Vice President, and the remainder of our early and late-stage development will be consolidated and led by Dr. Mikael Dolsten, Chief Scientific Officer and President, Pfizer Research and Development.
+As a result of this reorganization, the role held by Dr. William Pao, Chief Development Officer, Executive Vice President, is being eliminated and he will leave the Company effective August 15, 2023. This action by the Company will constitute an involuntary termination without cause. As a result, under the terms of Dr. Pao’s offer letter and the applicable Pfizer plans (as described in Pfizer’s annual proxy statement filed on March 16, 2023), the unvested portions of his sign-on awards (including a cash sign-on award, time-based restricted stock units, and credit to the Pfizer Supplemental Savings Plan (“PSSP”)) will vest upon his involuntary termination date. In addition, he will be entitled to severance under the Executive Severance Plan equal to one year’s base salary and target bonus and two years of welfare benefits coverage at active employee rates. Further, pursuant to the terms of the Global Performance Plan (annual bonus plan) and the award agreements relating to the February 2023 equity awards under the Pfizer Stock Plan, Dr. Pao will receive a pro-rata bonus for 2023, at target, and prorated portions of TSRUs and PSAs awarded in February 2023, all of which will be settled at the end of their respective periods based on the Company’s performance and in accordance with their terms. Severance benefits are subject to Dr. Pao’s execution and non-revocation of a release of claims in favor of the Company and continued compliance with restrictive covenants and his confidentiality obligations. Under the Executive Financial Counseling Program, Dr. Pao will also be entitled to reimbursement for qualifying financial counseling expenses of up to $15,000 in 2023 and $8,750 for expenses through August 15, 2024. All payments being made to Dr. Pao are consistent with the existing contractual entitlements.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+PFIZER INC.
+
+By:
+/s/ Margaret M. Madden
+
+Margaret M. Madden
+
+Senior Vice President and Corporate Secretary
+
+Chief Governance Counsel
+
+Dated: July 27, 2023

@@ -1,0 +1,366 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+November 18, 2021
+
+THERMO FISHER SCIENTIFIC INC.
+
+(Exact name of Registrant as specified in its Charter)
+
+Delaware
+
+1-8002
+
+04-2209186
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+168 Third Avenue
+
+Waltham
+,
+Massachusetts
+
+02451
+
+(Address of principal executive offices) (Zip Code)
+
+Registrant’s telephone number, including area code:
+(781)
+
+622-1000
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $1.00 par value
+
+TMO
+
+New York Stock Exchange
+
+0.750% Notes due 2024
+
+TMO 24A
+
+New York Stock Exchange
+
+0.125% Notes due 2025
+
+TMO 25B
+
+New York Stock Exchange
+
+2.000% Notes due 2025
+
+TMO 25
+
+New York Stock Exchange
+
+1.400% Notes due 2026
+
+TMO 26A
+
+New York Stock Exchange
+
+1.450% Notes due 2027
+
+TMO 27
+
+New York Stock Exchange
+
+1.750% Notes due 2027
+
+TMO 27B
+
+New York Stock Exchange
+
+0.500% Notes due 2028
+
+TMO 28A
+
+New York Stock Exchange
+
+1.375% Notes due 2028
+
+TMO 28
+
+New York Stock Exchange
+
+1.950% Notes due 2029
+
+TMO 29
+
+New York Stock Exchange
+
+0.875% Notes due 2031
+
+TMO 31
+
+New York Stock Exchange
+
+2.375% Notes due 2032
+
+TMO 32
+
+New York Stock Exchange
+
+2.875% Notes due 2037
+
+TMO 37
+
+New York Stock Exchange
+
+1.500% Notes due 2039
+
+TMO 39
+
+New York Stock Exchange
+
+1.875% Notes due 2049
+
+TMO 49
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+☐
+Emerging growth company
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01.
+
+Entry into a Material Definitive Agreement.
+
+On November 18, 2021, Thermo Fisher Scientific (Finance I) B.V. (“
+Thermo Fisher International
+”), an indirect, wholly-owned finance subsidiary of Thermo Fisher Scientific Inc. (the “
+Company
+”), issued €1,700,000,000 aggregate principal amount of Floating Rate Senior Notes due 2023 (the “
+Floating Rate Notes
+”), €550,000,000 aggregate principal amount of 0.000% Senior Notes due 2023 (the “
+2023 Notes
+”) and €550,000,000 aggregate principal amount of 0.000% Senior Notes due 2025 (the “
+Sustainability Notes
+”, and, together with the Floating Rate Notes and the 2023 Notes, the “
+Notes
+”) in a public offering (the “
+Offering
+”) pursuant to a registration statement on Form
+S-3
+(File
+No. 333-229951)
+and a preliminary prospectus supplement and prospectus supplement related to the offering of the Notes, each as previously filed with the Securities and Exchange Commission (the “
+SEC
+”). The Company has fully and unconditionally guaranteed the Notes on a senior unsecured basis (the “
+Guarantee
+” and, together with the Notes, the “
+Securities
+”).
+
+The Securities were issued under an indenture, dated as of August 9, 2016 (the “
+Base Indenture
+”), and the Fourth Supplemental Indenture, dated as of November 18, 2021 (the “
+Supplemental Indenture
+” and, together with the Base Indenture, the “
+Indenture
+”), among Thermo Fisher International, as issuer, the Company, as guarantor, and The Bank of New York Mellon Trust Company, N.A., as trustee.
+
+The Floating Rate Notes will mature on November 18, 2023, the 2023 Notes will mature on November 18, 2023 and the Sustainability Notes will mature on November 18, 2025. Interest on the Floating Rate Notes will be paid quarterly in arrears on February 18, May 18, August 18 and November 18 of each year, commencing on February 18, 2022.
+
+Prior to October 18, 2025, in the case of the Sustainability Notes, and at any time, in the case of the 2023 Notes, Thermo Fisher International may redeem such series of Notes, in whole at any time or in part from time to time, at a redemption price equal to the greater of (1) 100% of the principal amount of the notes to be redeemed and (2) the sum of the present values of the remaining scheduled payments of principal and interest in respect of the Notes being redeemed (assuming, with respect to the Sustainability Notes, that the Sustainability Notes to be redeemed matured on October 18, 2025), discounted to the date of redemption on an annual basis (ACTUAL/ACTUAL (ICMA)), using a discount rate equal to the Comparable Bond Rate (as defined in the Indenture) plus, in each case, 10 basis points, plus, in each case, accrued and unpaid interest on the Notes being redeemed, if any, to, but excluding, the date of redemption.
+
+In addition, on and after October 18, 2025, the Company may redeem the Sustainability Notes, in whole at any time or in part from time to time, at a redemption price equal to 100% of the principal amount of the Sustainability Notes to be redeemed, plus accrued and unpaid interest, if any, to, but excluding, the date of redemption.
+
+Upon the occurrence of a change of control (as defined in the Indenture) of the Company and a contemporaneous downgrade of the Notes below an investment grade rating by at least two of Moody’s Investors Service, Inc., S&P Global Ratings, a division of S&P Global, Inc., and Fitch Ratings Limited, Thermo Fisher International will, in certain circumstances, be required to make an offer to purchase the Notes at a price equal to 101% of the principal amount of the Notes, plus accrued and unpaid interest, if any, to, but excluding, the date of repurchase.
+
+The Notes are general unsecured obligations of Thermo Fisher International. The Notes rank equally in right of payment with existing and any future unsecured and unsubordinated indebtedness of Thermo Fisher International and rank senior in right of payment to any existing and future indebtedness of Thermo Fisher International that is subordinated to the Notes. The Notes are also effectively subordinated to any existing and future secured indebtedness of Thermo Fisher International to the extent of the assets securing such indebtedness, and are structurally subordinated to all existing and any future indebtedness and any other liabilities of its subsidiaries.
+
+The Guarantee is a general unsecured obligation of the Company. The Guarantee ranks equally in right of payment with existing and any future unsecured and unsubordinated indebtedness of the Company and will rank senior in right of payment to any existing and future indebtedness of the Company that is subordinated to the Guarantee. The Guarantee is also effectively subordinated to any existing and future secured indebtedness of the Company to the extent of the assets securing such indebtedness, and is structurally subordinated to all existing and any future indebtedness and any other liabilities of its subsidiaries (other than, with respect to Thermo Fisher International, the Notes).
+
+The Indenture contains limited affirmative and negative covenants of the Company and Thermo Fisher International. The negative covenants restrict the ability of the Company and its subsidiaries to incur debt secured by liens on Principal Properties (as defined in the Indenture) or on shares of stock of the Company’s Principal Subsidiaries (as defined in the Indenture) and engage in sale and lease-back transactions with respect to any Principal Property. The Indenture also limits the ability of each of the Company and Thermo Fisher International to merge or consolidate or sell all or substantially all of their respective assets.
+
+Upon the occurrence of an event of default under the Indenture, which includes payment defaults, defaults in the performance of affirmative and negative covenants, bankruptcy and insolvency related defaults and failure to pay certain indebtedness, the obligations of Thermo Fisher International under the Notes may be accelerated, in which case the entire principal amount of the Notes would be immediately due and payable.
+
+Wilmer Cutler Pickering Hale and Dorr LLP, U.S. counsel to the Company and Thermo Fisher International, has issued an opinion to the Company and Thermo Fisher International, dated November 18, 2021, regarding the legality of the Securities, and Linklaters LLP, Dutch counsel to Thermo Fisher International, has issued an opinion to Thermo Fisher International, dated November 18, 2021, regarding the Notes. Copies of these opinions are filed as Exhibits 5.1 and 5.2 hereto, respectively.
+
+The foregoing description of certain of the terms of the Indenture does not purport to be complete and is qualified in its entirety by reference to the full text of each of the Base Indenture and the Supplemental Indenture, which are filed with this report as Exhibits 4.1 and 4.2 hereto, respectively. Each of the foregoing documents is incorporated herein by reference.
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On November 18, 2021, the Company notified the holders of its (i) $1,100,000,000 aggregate principal amount of 4.133% Senior Notes due 2025 (the “
+2025 Notes
+”) and (ii) $1,100,000,000 aggregate principal amount of 4.497% Senior Notes due 2030 (the “
+2030 Notes
+” and, together with the 2025 Notes, the “
+Redeemed Notes
+”) that it will redeem all of the Redeemed Notes on December 3, 2021 (the “
+Redemption Date
+”). The 2025 Notes will be redeemed at a redemption price equal to the greater of (i) 100% of the principal amount of the 2025 Notes to be redeemed and (ii) the sum of the present values of the remaining scheduled payments of the 2025 Notes to be redeemed discounted to the Redemption Date on a semi-annual basis at a comparable treasury rate plus 50 basis points, plus accrued and unpaid interest on the 2025 Notes to be redeemed, if any, to, but excluding, the Redemption Date. The 2030 Notes will be redeemed at a redemption price equal to the greater of (i) 100% of the principal amount of the 2030
+
+Notes to be redeemed and (ii) the sum of the present values of the remaining scheduled payments of the 2030 Notes to be redeemed discounted to the Redemption Date on a semi-annual basis at a comparable treasury rate plus 50 basis points, plus accrued and unpaid interest on the 2030 Notes to be redeemed, if any, to, but excluding, the Redemption Date.
+
+The Company intends to fund the aggregate redemption price of approximately $2.2 billion using cash on hand.
+
+Item 8.01.
+
+Other Events.
+
+The sale of the Securities was made pursuant to the terms of an Underwriting Agreement, dated November 9, 2021 (the “
+Underwriting Agreement
+”), among Thermo Fisher International, as issuer, the Company, as parent guarantor, and Barclays Bank PLC, Morgan Stanley Europe SE, BofA Securities Europe SA, Citigroup Global Markets Europe AG and Mizuho Securities Europe GmbH as lead managers of the several underwriters named in Schedule A to the Underwriting Agreement.
+
+The Company expects that the net proceeds from the sale of the Floating Rate Notes and the 2023 Notes will be approximately €2.25 billion, after deducting underwriting discounts and estimated offering expenses. The Company intends to use the net proceeds from the sale of the Floating Rate Notes and the 2023 Notes to pay a portion of the cash consideration payable for the or the previously announced acquisition of PPD, Inc. (“
+PPD
+”). The Company may also determine to use a portion of the net proceeds from the sale of the Floating Rate Notes and the 2023 Notes for general corporate purposes, which may include the acquisition of companies or businesses, repayment and refinancing of debt, including debt of PPD, working capital and capital expenditures or the repurchase of its outstanding equity securities or the Company may temporarily invest the net proceeds in short-term, liquid investments until they are used for their ultimate purpose.
+
+The Company estimate that the net proceeds from the sale of the Sustainability Notes will be approximately €546.6 million after deducting the underwriting discounts and estimated offering expenses. The Company intends to allocate an amount equal to the net proceeds from the sale of the Sustainability Notes to finance or refinance, in whole or in part, certain green or social eligible projects. Pending allocation to eligible green or social eligible projects, such net proceeds may be temporarily invested in cash, cash equivalents, short-term investments, or used to repay other borrowings.
+
+The foregoing description is qualified in its entirety by reference to the full text of the Underwriting Agreement, which is filed with this report as Exhibit 1.1 hereto and is incorporated herein by reference.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit
+No.
+
+Description
+
+1.1
+
+Underwriting Agreement, dated November 9, 2021, among Thermo Fisher International, as issuer, the Company, as parent guarantor, Barclays Bank PLC, Morgan Stanley Europe SE, BofA Securities Europe SA, Citigroup Global Markets Europe AG and Mizuho Securities Europe GmbH and the several other underwriters named in Schedule A of the Underwriting Agreement.
+
+4.1
+
+Indenture, dated as of August 9, 2016, among Thermo Fisher International, as issuer, the Company, as guarantor, and The Bank of New York Mellon Trust Company, N.A., as trustee (filed as Exhibit 4.1 to the Company’s Current Report on Form
+8-K
+filed August 9, 2016 File
+No. 1-8002
+and incorporated in this document by reference).
+
+4.2
+
+Fourth Supplemental Indenture, dated as of November 18, 2021, among Thermo Fisher International, as issuer, the Company, as guarantor, and The Bank of New York Mellon Trust Company, N.A., as trustee.
+
+5.1
+
+Opinion of Wilmer Cutler Pickering Hale and Dorr LLP.
+
+5.2
+
+Opinion of Linklaters LLP.
+
+23.1
+
+Consent of Wilmer Cutler Pickering Hale and Dorr LLP (contained in Exhibit 5.1 above).
+
+23.2
+
+Consent of Linklaters LLP (contained in Exhibit 5.2 above).
+
+104
+
+Cover Page Interactive Data File (embedded with the Inline XBRL document)
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+This communication contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, including, but not limited to, the Company’s statements about its sustainability objectives, goals and commitments, intended use of proceeds and the acquisition of PPD. Important factors that could cause actual results to differ materially from those indicated by forward-looking statements include risks and uncertainties relating to: the duration and severity of the
+COVID-19
+pandemic; the need to develop new products and adapt to significant technological change; implementation of strategies for improving growth; general economic conditions and related uncertainties; dependence on customers’ capital spending policies and government funding policies; the effect of economic and political conditions and exchange rate fluctuations on international operations; use and protection of intellectual property; the effect of changes in governmental regulations; any natural disaster, public health crisis or other catastrophic event; and the effect of laws and regulations governing government contracts, as well as the possibility that expected benefits related to recent or pending acquisitions, including the Company’s pending acquisition of PPD, may not materialize as expected. Additional important factors that could cause actual results to differ materially from those indicated by such forward-looking statements are set forth in the Company’s Annual Report on Form
+10-K
+for the year ended December 31, 2020 and the Company’s Quarterly Report on Form
+10-Q
+for the quarters ended April 3, 2021, July 3, 2021 and October 2, 2021, each of which is on file with the U.S. Securities and Exchange Commission (“SEC”) and available in the “Investors” section of the Company’s website, ir.thermofisher.com, under the heading “SEC Filings,” and in any subsequent Quarterly Reports on Form
+10-Q
+and other documents the Company files with the SEC. While the Company may elect to update forward-looking statements at some point in the future, the Company specifically disclaims any obligation to do so, even if estimates change and, therefore, you should not rely on these forward-looking statements as representing the Company’s views as of any date subsequent to the date of this communication.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+THERMO FISHER SCIENTIFIC INC.
+
+Date: November 18, 2021
+
+By:
+
+/s/ Michael A. Boxer
+
+Michael A. Boxer
+
+Senior Vice President, General Counsel and Secretary

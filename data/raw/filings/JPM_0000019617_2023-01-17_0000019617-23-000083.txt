@@ -1,0 +1,138 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (date of earliest event reported):
+January 17, 2023
+
+JPMorgan Chase & Co
+.
+(Exact name of registrant as specified in its charter)
+Delaware
+1-5805
+13-2624428
+(State or other jurisdiction of
+incorporation or organization)
+(Commission File Number)
+(I.R.S. employer
+identification no.)
+383 Madison Avenue,
+New York,
+New York
+10179
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code: (
+212
+)
+270-6000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock
+JPM
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 5.75% Non-Cumulative Preferred Stock, Series DD
+JPM PR D
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 6.00% Non-Cumulative Preferred Stock, Series EE
+JPM PR C
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.75% Non-Cumulative Preferred Stock, Series GG
+JPM PR J
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.55% Non-Cumulative Preferred Stock, Series JJ
+JPM PR K
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.625% Non-Cumulative Preferred Stock, Series LL
+JPM PR L
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.20% Non-Cumulative Preferred Stock, Series MM
+JPM PR M
+The New York Stock Exchange
+Alerian MLP Index ETNs due May 24, 2024
+AMJ
+NYSE Arca, Inc.
+Guarantee of Callable Fixed Rate Notes due June 10, 2032 of JPMorgan Chase Financial Company LLC
+JPM/32
+The New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.03 Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+On January 17, 2023, the Board of Directors of JPMorgan Chase & Co. (the “Firm”) adopted amendments to the Firm’s By-laws, effective January 17, 2023 (as so amended, the “By-laws”), to revise and clarify procedural and disclosure requirements for the Firm’s stockholders proposing business for consideration or nominating directors for election at meetings of stockholders, including in order to provide an orderly process in consideration of the U.S. Securities and Exchange Commission’s recently adopted “universal proxy card” rules by, among other things:
+•
+Adding Sections 1.09(a)(3) and (5) to enhance disclosure requirements for stockholders intending to nominate directors or propose other business (other than proposals to be included in the Firm’s proxy statement pursuant to Rule 14a-8 under the Securities Exchange Act of 1934, as amended (the “Exchange Act”)) (“Proposing Stockholders”) at meetings of stockholders, including without limitation, to:
+◦
+require a Proposing Stockholder’s notice to provide more inclusive disclosures and representations in respect of any proposed nominee, including, among other things, information previously requested only in connection with the By-laws’ proxy access requirements in Section 1.10;
+◦
+require a Proposing Stockholder’s notice to provide more inclusive disclosures and representations in respect of the Proposing Stockholder, including, among other things, information about other stockholders or beneficial owners known to be supporting the nomination; and
+◦
+clarifying that certain required disclosures and representations applicable to a Proposing Stockholder also apply to any beneficial owner of stock on whose behalf the nomination is made, and any person acting in concert with the Proposing Stockholder or such beneficial owner;
+•
+Adding Section 1.09(a)(6) to require, in connection with the nomination of persons for election to the Board, that:
+◦
+prior to submitting the Proposing Stockholder’s notice, a Proposing Stockholder request from the Secretary in writing the required forms of questionnaire, representation, and agreement;
+◦
+the Proposing Stockholder’s notice include the completed questionnaire signed by each proposed nominee;
+◦
+the Proposing Stockholder’s notice include the representation and agreements signed by, as applicable, the Proposing Stockholder, each proposed nominee, and any other person on whose behalf the nomination is made (each, an “Applicable Person”), and, among other things
+▪
+agreeing to update and supplement the disclosures in the Proposing Stockholder’s notice so that such notice is true and accurate as of the record date and as of the date that is the 10th business day prior to the stockholder meeting or any adjournment or postponement thereof;
+▪
+agreeing that the proposed nominee will meet with the Firm’s Corporate Governance & Nominating Committee (“CGNC”) at the CGNC’s reasonable request, to discuss matters relating to the nomination; and
+▪
+providing certain other representations and agreements previously requested only in connection with the By-laws’ proxy access requirements in Section 1.10.
+•
+Adding Section 1.09(a)(7) to clarify that the Firm may, as a condition of any nomination being deemed properly brought by a Proposing Stockholder before a stockholder meeting, require any Applicable Person to provide additional information that could be (i) required by the Firm to assess the independence of the proposed nominee or whether such proposed nominee meets the requirements for membership on the Board or any committee thereof, or (ii) material to a reasonable stockholder’s understanding of the qualifications and fitness and/or independence of any proposed nominee, including, in the case of any proposed nominee that currently serves or has previously served on the Board, any violation of the Firm’s Corporate Governance Principles, Code of Conduct or any other Firm policies and guidelines applicable to directors;
+•
+Amending Section 1.09(c) to require a Proposing Stockholder to (i) use a proxy card color other than white and (ii) certify (and upon request by the Firm, provide reasonable evidence) that it has met the requirements of Rule 14a-19 under the Exchange Act notice pursuant to Rule 14a-19(b) under the Exchange Act. Changes to Section 1.09(c) also clarify the procedures for the Firm to address deficiencies in stockholder nominations, including clarifying that, unless required by applicable law, if the Proposing Stockholder provides notice pursuant to Rule 14a-19(b) under the Exchange Act and subsequently fails either to comply with the requirements of Rule 14a-19(a)(2) or (3) under the Exchange Act or to timely provide reasonable evidence to the Firm that the Proposing Stockholder has met the requirements of Rule 14a-19(a)(3) under the Exchange Act, then such nomination will be disregarded, notwithstanding any proxies or votes the Firm has received in respect of the Proposing Stockholder’s proposed nominees.
+Other amendments to the By-laws include: revising Sections 1.03, 1.04, 1.07, and 1.11 to conform with developments in the Delaware General Corporation Law; revising Section 11.01 to clarify the scope of the Emergency By-laws; and making additional clarifying and conforming revisions.
+The foregoing description of the amendments to the By-laws does not purport to be a complete summary and is qualified in its entirety by reference to the full text of the By-laws, a copy of which is attached as Exhibit 3.2 and incorporated by reference herein
+.
+2
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibit
+Exhibit No.
+Description of Exhibit
+3.2
+By-laws of JPMorgan Chase & Co., as amended, effective January 17, 2023
+101
+Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language).
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101).
+3
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+JPMorgan Chase & Co.
+(Registrant)
+By:
+/s/ John H. Tribolati
+John H. Tribolati
+Corporate Secretary
+Dated:
+January 17, 2023
+4

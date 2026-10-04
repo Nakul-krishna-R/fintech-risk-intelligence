@@ -1,0 +1,391 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+January 23, 2024
+
+VISA INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+Delaware
+
+001-33977
+
+26-0267673
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+Identification No.)
+
+P.O. Box 8999
+
+San Francisco,
+California
+
+94128-8999
+(Address of Principal Executive Offices)
+(Zip Code)
+Registrant’s Telephone Number, Including Area Code: (
+650
+)
+432-3200
+
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Class A Common Stock, par value $0.0001 per share
+V
+New York Stock Exchange
+1.500% Senior Notes due 2026
+V26
+New York Stock Exchange
+2.000% Senior Notes due 2029
+V29
+New York Stock Exchange
+2.375% Senior Notes due 2034
+V34
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.03
+
+Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+Visa Inc. (the “Company”) held its Annual Meeting of Stockholders on January 23, 2024 (the “Annual Meeting”). At the Annual Meeting, upon the recommendation of the Company’s Board of Directors (the "Board"), the Company’s stockholders approved amendments to the Company’s Seventh Amended and Restated Certificate of Incorporation, as amended (the “Certificate”), to authorize the Company to conduct one or more exchange offers that would have the effect of releasing transfer restrictions on portions of the Company's Class B common stock as described within the Company's definitive proxy statement dated December 7, 2023.
+As a result, the Company filed a Certificate of Amendment to the Certificate (the “Certificate of Amendment”) incorporating such amendments with the Secretary of State of the State of Delaware on January 24, 2024. The Certificate of Amendment became effective upon filing. The Company subsequently filed a restatement of the Certificate with the Secretary of State of the State of Delaware on January 24, 2024 (the “Eighth Restated Certificate of Incorporation”), which became effective upon filing and only restates and integrates, but does not further amend, the Certificate.
+The foregoing summaries of the amendments to the Certificate do not purport to be complete and are qualified in their entirety by reference to the Certificate of Amendment and the Eighth Restated Certificate of Incorporation, as amended.
+Copies of the Certificate of Amendment and the Eighth Restated Certificate of Incorporation, as amended, in each case as filed with the Secretary of State of the State of Delaware on January 24, 2024, are attached as Exhibits 3.1 and 3.2, respectively, to this Current Report on Form 8-K and are incorporated herein by reference.
+Item 5.07
+
+Submission of Matters to a Vote of Security Holders.
+As described in Item 5.03 above, the Company held its Annual Meeting on January 23, 2024, and the Company’s stockholders voted on five proposals that are described in detail in the Company's definitive proxy statement, dated December 7, 2023. Holders of the Company's Class A common stock were entitled to vote on all five proposals. Holders of the Company's Class B and Class C common stock were entitled to vote only on Proposal 4, as discussed further below. Set forth below are the matters the stockholders voted on and the final voting results.
+Proposal 1:
+Election of eleven director nominees:
+Nominee
+Votes For
+% For
+Votes Against
+% Against
+Abstentions
+Broker Non-Votes
+Lloyd A. Carney
+1,192,510,458
+97.44
+%
+31,315,490
+2.55
+%
+2,427,497
+131,355,838
+Kermit R. Crawford
+1,213,750,874
+99.10
+%
+10,901,947
+0.89
+%
+1,600,624
+131,355,838
+Francisco Javier Fernández-Carbajal
+1,188,505,064
+97.12
+%
+35,204,742
+2.87
+%
+2,543,639
+131,355,838
+Ramon Laguarta
+1,211,789,106
+98.94
+%
+12,917,503
+1.05
+%
+1,546,836
+131,355,838
+Teri L. List
+1,210,973,329
+98.87
+%
+13,729,833
+1.12
+%
+1,550,283
+131,355,838
+John F. Lundgren
+1,195,757,050
+97.65
+%
+28,664,361
+2.34
+%
+1,832,034
+131,355,838
+Ryan McInerney
+1,222,831,730
+99.84
+%
+1,937,049
+0.15
+%
+1,484,666
+131,355,838
+Denise M. Morrison
+1,193,598,298
+97.45
+%
+31,131,828
+2.54
+%
+1,523,319
+131,355,838
+Pamela Murphy
+1,223,427,304
+99.88
+%
+1,355,482
+0.11
+%
+1,470,659
+131,355,838
+Linda J. Rendle
+1,214,640,411
+99.17
+%
+10,140,521
+0.82
+%
+1,472,513
+131,355,838
+Maynard G. Webb, Jr.
+1,214,065,014
+99.14
+%
+10,501,809
+0.85
+%
+1,686,622
+131,355,838
+Each of the eleven nominees was elected to the Board by the Company's Class A stockholders, each to hold office until the next annual meeting of stockholders and until his or her successor has been duly elected or until his or her earlier resignation or removal.
+Proposal 2:
+Approval, on an advisory basis, of compensation paid to the Company's named executive officers:
+Number of Votes
+Percentage
+Votes For:
+1,102,732,070
+89.92
+%
+Votes Against:
+116,415,401
+9.49
+%
+Abstentions:
+7,105,974
+0.57
+%
+Broker Non-Votes:
+131,355,838
+The proposal was approved by the Company's Class A stockholders.
+Proposal 3:
+Ratification of the appointment of KPMG LLP as the Company’s independent registered public accounting firm for the 2024 fiscal year:
+Number of Votes
+Percentage
+Votes For:
+1,325,901,828
+97.66
+%
+Votes Against:
+30,260,899
+2.22
+%
+Abstentions:
+1,446,556
+0.10
+%
+The appointment was ratified by the Company's Class A stockholders.
+Proposal 4:
+Approval and adoption of the Class B Exchange Offer Program Certificate Amendments.
+Approval of Proposal 4 required (i) the affirmative vote of at least a majority of the voting power of the Company's outstanding Class A common stock, Class B common stock, and Class C common stock, with each voting separately as a class, and (ii) the affirmative vote of at least a majority of the voting power of the Company's outstanding Class A common stock, Class B common stock, and Class C common stock voting as a single class, with the Company's Class B common stock and Class C common stock voting on an as-converted basis.
+Class A common stock:
+Number of Votes
+% of Shares Outstanding
+% of Shares Voted
+(with Abstentions)
+Votes For:
+1,220,118,313
+77.09
+%
+99.49
+%
+Votes Against:
+3,863,313
+0.24
+%
+0.31
+%
+Abstentions:
+2,271,819
+0.14
+%
+0.18
+%
+Broker Non-Votes:
+131,355,838
+Class B common stock:
+Number of Votes
+Number of Votes
+(As-Converted)
+% of Shares
+Outstanding
+% of Shares Voted
+(with Abstentions)
+Votes For:
+217,495,751
+345,274,504
+88.58
+%
+99.86
+%
+Votes Against:
+297,706
+472,609
+0.12
+%
+0.13
+%
+Abstentions:
+2,231
+3,541
+0.00 %
+0.00 %
+Class C common stock:
+Number of Votes
+Number of Votes
+(As-Converted)
+% of Shares
+Outstanding
+% of Shares Voted
+(with Abstentions)
+Votes For:
+6,048,927
+24,195,708
+64.13
+%
+99.24
+%
+Votes Against:
+11,537
+46,148
+0.12
+%
+0.18
+%
+Abstentions:
+34,342
+137,368
+0.36
+%
+0.56
+%
+Class A common stock, Class B common stock (as converted) and Class C common stock (as converted), voting as a single class:
+Number of Votes
+% of Shares Outstanding
+% of Shares Voted
+(with Abstentions)
+Votes For:
+1,589,588,525
+79.08
+%
+99.57
+%
+Votes Against:
+4,382,070
+0.21
+%
+0.27
+%
+Abstentions:
+2,412,728
+0.12
+%
+0.15
+%
+Broker Non-Votes:
+131,355,838
+The proposal was approved by the Company’s stockholders in accordance with the voting standards set forth above.
+Proposal 5:
+Approval of one or more adjournments of the Annual Meeting to a later date or time, if necessary or appropriate, to solicit additional proxies in favor of Proposal 4.
+Proposal 5 was not presented at the Annual Meeting because there were sufficient votes to approve Proposal 4.
+Proposal 6:
+To vote on a stockholder proposal requesting that the Board adopt a policy to seek shareholder ratification of certain termination pay arrangements:
+Number of Votes
+Percentage
+Votes For:
+87,076,614
+7.10
+%
+Votes Against:
+1,134,716,483
+92.53
+%
+Abstentions:
+4,460,348
+0.36
+%
+Broker Non-Votes:
+131,355,838
+The proposal was not approved by the Company's Class A stockholders.
+Item 9.01
+
+Financial Statements and Exhibits.
+(d) Exhibits
+
+Exhibit
+Number
+Description
+3.1
+Certificate of Amendment of the Seventh Restated Certificate of Incorporation of Visa Inc.
+3.2
+Eighth Restated Certificate of Incorporation of Visa Inc.
+104
+Cover Page Interactive Data File (formatted as Inline XBRL)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VISA INC.
+
+Date:
+January 24, 2024
+
+By:
+
+/s/ Kelly Mahon Tullier
+
+Kelly Mahon Tullier
+Vice Chair, Chief People and Corporate Affairs Officer, and Corporate Secretary

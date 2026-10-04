@@ -1,0 +1,82 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+__________________________________
+FORM
+8-K
+
+__________________________________
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+January 6, 2023
+__________________________________
+NETFLIX, INC.
+(Exact name of registrant as specified in its charter)
+__________________________________
+Delaware
+001-35727
+77-0467272
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+121 Albright Way
+,
+Los Gatos
+,
+California
+95032
+(Address of principal executive offices)
+(Zip Code)
+(
+408
+)
+540-3700
+
+(Registrant’s telephone number, including area code)
+100 Winchester Circle, Los Gatos, California 95032
+(Former name or former address, if changed since last report)
+__________________________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, par value $0.001 per share
+NFLX
+NASDAQ Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On January 6, 2023, Netflix, Inc. (the “Company”) appointed Jeffrey Karbowski, age 45, as the Company’s Principal Accounting Officer, effective February 13, 2023, where he will assume the role of VP, Chief Accounting Officer. Mr. Karbowski will report to Spencer Neumann, the Company's Chief Financial Officer, who will continue to serve as the Company's Principal Financial Officer.
+Mr. Karbowski served in various roles at PayPal Holdings, Inc. since May 2013, most recently as the VP, Chief Accounting Officer since August 2020, the VP, Global Controller from October 2019 to August 2020 and Senior Director, Controller from June 2015 to September 2019. Prior to joining PayPal, Mr. Karbowski served as the Director, Accounting at Skype, a division of the Microsoft Corporation and a Senior Manager at Ernst & Young. Mr. Karbowski is a certified public accountant and holds a B.A. in Accounting from West Virginia University.
+In connection with his appointment, Mr. Karbowski will receive an annual base salary of $2,000,000, a one-time signing bonus of $400,000 and a $1,000,000 annual stock option allowance pursuant to the Company's stock option program. The Company's stock option program allows eligible employees to allocate any amount of the allocatable compensation to receive in the form of stock options. The number of options to be granted each month is determined by the following formula: (annual stock option allocation ÷ 12) / ([Fair Market Value on the date of grant] * 0.40). Each monthly grant shall be made on the first trading day of the month, shall be fully vested upon grant and shall be exercisable at a strike price equal to the Fair Market Value (as defined in the Company’s 2020 Stock Plan) on the date of grant. The options will be subject to the terms and conditions of the Company’s 2020 Stock Plan and will be administered on a non-discretionary basis without further action by the Board of Directors or the compensation committee of the Board of Directors (the "Committee"), provided that only the Board of Directors or the Committee may change the amount or terms of future grants. These stock options are fully vested upon grant and can generally be exercised up to 10 years following the date of grant, regardless of employment status. Mr. Karbowski is also eligible to receive additional compensation in the form of life insurance and participation in the Company's 401(k) Retirement Savings Plan and to defray health insurance costs.
+Mr. Karbowski will also be a beneficiary of the Company’s Amended and Restated Executive Severance and Retention Incentive Plan. Pursuant to this plan each employee of the Company at the level of Vice President or higher ("Covered Executive") is entitled to a severance benefit upon termination of employment (other than for cause, death or permanent disability) so long as he or she signs a waiver and release of claims in a form reasonably satisfactory to the Company. The severance benefit consists of a lump sum cash payment equal to 12 months of allocatable compensation, or, for newly hired Covered Executives only, a cash payment equal to 36 months of allocatable compensation, which is reduced by an amount equal to one month of allocatable compensation for each month of tenure at the Company for the first 24 months of continuous employment following hire by the Company, such that the minimum benefit for such newly hired Covered Executives is the cash equivalent of 12 months of allocatable compensation. The right to receive a severance benefit terminates upon a change in control transaction, so that the beneficiaries of the plan are not entitled to both a change in control benefit as well as a severance benefit.
+In lieu of the severance benefit, employees covered by the plan who are employed by the Company on the date of a change in control transaction are entitled to receive a lump sum cash payment equal to 12 months of allocatable compensation regardless of whether their employment terminates. See the Company’s Amended and Restated Executive Severance and Retention Incentive Plan attached as Exhibit 10.1 to the Current Report on Form 8-K filed with the Securities and Exchange Commission on September 10, 2021.
+As it does with all directors and officers, the Company has entered into an indemnification agreement with Mr. Karbowski. The indemnification agreement requires the Company to indemnify Mr. Karbowski, to the fullest extent permitted by Delaware law, for certain liabilities to which he may become subject as a result of his affiliation with the Company. See the Company’s Form of Indemnification Agreement filed with the Securities and Exchange Commission on March 20, 2002 as Exhibit 10.1 to the Company’s Registration Statement on Form S-1/A.
+There is no arrangement or understanding between Mr. Karbowski and any other person pursuant to which Mr. Karbowski is to be selected as an officer of Netflix that would require disclosure under Item 401(b) of Regulation S-K. Additionally there is no family relationship between Mr. Karbowski and any other person that would require disclosure under Item 401(d) of Regulation S-K. Mr. Karbowski is also not a party to any transactions that would require disclosure under Item 404(a) of Regulation S-K.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+NETFLIX, INC.
+Date:
+January 9, 2023
+/s/ Spencer Neumann
+Spencer Neumann
+Chief Financial Officer

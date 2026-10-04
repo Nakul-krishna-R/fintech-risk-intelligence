@@ -1,0 +1,129 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+October 28, 2024
+
+INTEL CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+000-06217
+94-1672743
+(State or other jurisdiction
+(Commission
+(IRS Employer
+of incorporation)
+File Number)
+Identification No.)
+
+2200 Mission College Boulevard
+,
+Santa Clara
+,
+California
+95054-1549
+(Address of principal executive offices)
+(Zip Code)
+Registrant's telephone number, including area code:
+(408)
+
+765-8080
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, $0.001 par value
+INTC
+Nasdaq Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+Item 2.02
+
+Results of Operations and Financial Condition.
+On October 31, 2024, Intel Corporation (“Intel” or the "Company") issued a press release announcing the financial results of its third quarter ended September 28, 2024 and forward-looking statements relating to its fourth quarter of 2024. A copy of this press release is attached hereto as Exhibit 99.1 and is incorporated by reference herein.
+The attached press release includes non-GAAP financial measures relating to our operations and forecasted outlook. Certain of these non-GAAP measures will be used in Intel’s earnings conference for the third quarter of 2024. In addition, the attached press release includes reconciliations of these non-GAAP measures to GAAP measures, as well as an explanation of how management uses these non-GAAP measures and the reasons why management views these measures as providing useful information for investors. These non-GAAP financial measures should not be considered a substitute for, or superior to, financial measures calculated in accordance with GAAP, and the financial results calculated in accordance with GAAP and reconciliations to these results should be carefully evaluated.
+The information in Item 2.02 of this Report and the press release attached hereto as Exhibit 99.1 are furnished and shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+Item 2.05 Costs Associated with Exit or Disposal Activities.
+On October 28, 2024, the Audit & Finance Committee (the “Audit Committee”) of the board of directors (the “Board”) of Intel, in connection with the Company's management team, approved a series of cost and capital reduction initiatives designed to adjust spending to current business trends while enabling Intel's new operating model and continuing to fund investments in Intel's core strategy - returning to process leadership. These initiatives include reducing headcount by 16,500 employees, consolidating and reducing the Company's global real estate footprint, conducting portfolio reviews of the Company's business under a 'clean sheet' view, rationalizing capital investments and deployments based upon demand signals and capacity requirements, and reducing the Company's overall operating expenses. The Company expects to recognize $3.0 billion of restructuring charges related to these actions, of which the Company is recognizing $2.8 billion in the third quarter of
+2024
+. The restructuring actions, which are expected to be substantially complete by the fourth quarter of 2025, consist primarily of the following:
+•
+Headcount reductions
+: In connection with the headcount reductions, the Company is recognizing pre-tax employee severance and related employee exit charges of $2.2 billion in the third quarter of
+2024
+, substantially all of which will entail future cash expenditures.
+•
+Internal test equipment manufacturing exit
+: In connection with the Company’s decision to exit and outsource manufacturing capabilities for internal-use test hardware, the Company is recognizing pre-tax impairment charges of $442 million in the third quarter of
+2024
+for certain construction in progress assets, none of which entails future cash expenditures.
+•
+Real estate exits
+: In connection with the Company's real estate consolidation and exits, the Company expects to recognize pre-tax charges of $307 million related to certain owned and operating leased assets and related leasehold improvements, substantially all of which entails future cash expenditures. The Company is recognizing $86 million of non-cash impairments for operating leased assets and related leasehold improvements in the third quarter of
+2024
+.
+*
+
+*
+
+*
+
+*
+
+*
+This Item 2.05 contains forward-looking statements with respect to the Company's cost and capital reduction initiatives, including with respect to the timing and amount of future cash expenditures. Such statements involve many risks and uncertainties that could cause actual results to differ materially from those expressed or implied, including those associated with: changes in the Company’s business, prospects and strategy; changes in the Company’s restructuring plans; changes in the timing and execution of the Company's cost and capital reduction initiatives; and other risks and uncertainties described in the Company’s 2023 Form 10-K and other filings with the SEC. All information herein reflects management's expectations as of the date hereof, unless an earlier date is specified. The Company does not undertake, and expressly disclaims any duty, to update such statements, whether as a result of new information, new developments, or otherwise, except to the extent that disclosure may be required by law.
+Item 9.01
+
+Financial Statements and Exhibits.
+(d)
+
+Exhibits.
+The following exhibits are provided as part of this Report:
+Exhibit Number
+Description
+99.1
+Press Release entitled “Intel Reports
+Third
+-Quarter 2024 Financial Results” dated
+October
+
+3
+1, 2024
+.
+104
+Cover Page Interactive Data File, formatted in Inline XBRL and included as Exhibit 101.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+INTEL CORPORATION
+(Registrant)
+Date:
+October 31, 2024
+By:
+/s/ DAVID ZINSNER
+David Zinsner
+Executive Vice President, Chief Financial Officer, and
+Principal Financial Officer

@@ -1,0 +1,97 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+July 26, 2023
+Accenture plc
+
+(Exact name of Registrant as specified in its charter)
+Ireland
+001-34448
+98-0627530
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+1 Grand Canal Square
+
+Grand Canal Harbour
+
+Dublin
+
+2
+,
+Ireland
+
+(Address of principal executive offices)
+Registrant’s telephone number, including area code: (
+353
+) (
+1
+)
+646-2000
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A ordinary shares, par value $0.0000225 per share
+ACN
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On July 26, 2023, Accenture plc (“Accenture” or the “Company”) appointed Manish Sharma, who serves as the Company’s Chief Operating Officer, to the role of Chief Executive Officer – North America, effective September 1, 2023, succeeding Jimmy Etheredge. Mr. Etheredge is retiring and will step down from such position as of August 31, 2023 and become an advisor for a transition period.
+Accenture also appointed John Walsh, who serves as the Company’s Chief Strategic Accounts & Global Sales Officer, to succeed Mr. Sharma as the Company’s Chief Operating Officer, effective September 1, 2023.
+Mr. Sharma, 55, has been Accenture’s Chief Operating Officer since March 2022 and a member of Accenture’s Global Management Committee since March 2020. From March 2020 to March 2022, Mr. Sharma served as the Group Chief Executive – Operations. From September 2016 to March 2020, Mr. Sharma served as the Group Operating Officer for Operations. From January 2009 to September 2016, Mr. Sharma was the Senior Managing Director for Accenture Operations Global Delivery and Solution Development and Global Sales Lead for Accenture Operations Business Process Outsourcing (BPO). Previously, he led Accenture’s BPO operations in the Asia Pacific region. Mr. Sharma has been with Accenture since March 1995, when he joined in its strategy practice.
+Mr. Walsh, 58, has been Accenture’s Chief Strategic Accounts & Global Sales Officer since March 2020 and a member of Accenture’s Global Management Committee since November 2019. Prior to assuming his current role, Mr. Walsh served as the Group Chief Executive of Accenture’s Communications, Media & Technology (CMT) operating group from November 2019 to March 2020. Prior to November 2019, Mr. Walsh led CMT in North America. Mr. Walsh has been with Accenture since September 1986.
+Effective September 1, 2023, Mr. Etheredge will become an advisor for a transition period. Accenture and Mr. Etheredge have entered into an agreement (the “Retirement Agreement”) pursuant to which Mr. Etheredge will continue to be employed by Accenture through June 30, 2024, subject to earlier termination upon advance notice by Mr. Etheredge or by the Company for cause (such termination date, the “Retirement Date”). Effective September 1, 2023, and through the Retirement Date, Mr. Etheredge will continue to be paid an annual base salary of $1,100,000. Mr. Etheredge will
+
+remain eligible to receive any earned bonus for fiscal 2023 under the Company’s Global Annual Bonus Plan and will receive any earned award under the Company’s Performance Equity Award Program for fiscal 2023 performance; however, Mr. Etheredge will not participate in the Global Annual Bonus Plan and will not be granted any other equity awards on or after September 1, 2023. Mr. Etheredge will also be eligible to receive a $1 million bonus upon satisfactory fulfillment of Mr. Etheredge’s service and transition responsibilities under the Retirement Agreement. Mr. Etheredge will not be entitled to severance on the Retirement Date. Mr. Etheredge’s previously granted equity awards will continue to vest in accordance with their terms, with outstanding performance-based Key Executive Performance Awards only vesting to the extent that the Company’s performance objectives are met over the three-year performance period for each such award. The Retirement Agreement also includes a general release of claims and non-disparagement and cooperation covenants.
+A copy of Accenture’s news release issued on July 27, 2023, regarding these changes and the changes described below is filed as Exhibit 99.1 to this Form 8-K.
+Item 8.01 Other Events
+On July 27, 2023, Accenture also announced that Steve Ferneyhough, who serves as the Company’s Lead – Sales, Europe, has been appointed as Chief Strategic Accounts & Global Sales Officer, succeeding John Walsh. Additionally, Accenture announced that Paul Daugherty, who serves as the Company’s Group Chief Executive – Technology & Chief Technology Officer, has been appointed as the Company’s Chief Technology & Innovation Officer as Accenture separates and expands the Chief Technology Officer role, and that Karthik Narain, who serves as the Company’s Lead – Accenture Cloud First, Data & AI, has been appointed as the Company’s Group Chief Executive – Technology. These appointments will be effective September 1, 2023.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+Exhibit No.
+Description
+99
+News Release of Accenture, dated
+July 27, 2023
+104
+The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+Date: July 27, 2023
+ACCENTURE PLC
+By:
+
+/s/ Joel Unruch
+Name:
+
+Joel Unruch
+Title:
+
+General Counsel & Corporate Secretary

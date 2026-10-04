@@ -1,0 +1,118 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+August 1, 2022
+
+VISA INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+Delaware
+
+001-33977
+
+26-0267673
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+Identification No.)
+
+P.O. Box 8999
+
+San Francisco,
+California
+
+94128-8999
+(Address of Principal Executive Offices)
+(Zip Code)
+Registrant’s Telephone Number, Including Area Code: (
+650
+)
+432-3200
+
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Class A Common Stock, par value $0.0001 per share
+V
+New York Stock Exchange
+1.500% Senior Notes due 2026
+V26
+New York Stock Exchange
+2.000% Senior Notes due 2029
+V29
+New York Stock Exchange
+2.375% Senior Notes due 2034
+V34
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.03
+
+Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+The board of directors of Visa Inc. (the “Company”) amended the Company’s Amended and Restated Bylaws (as amended, the “Bylaws”), effective August 1, 2022. The amendments:
+▪
+update and clarify certain aspects of the advance notice bylaws, including providing that stockholders seeking to use the advance notice process shall provide the following information upon the Company’s request: (1) updates to information previously submitted under the advance notice bylaws, so the information is current as of the meeting record date and as of 15 days prior to the meeting; and (2) a representation of their intent to solicit support for nominees or proposals from a specified proportion of stockholders. (Article II, Section 2.6);
+▪
+update certain provisions related to the conduct of stockholder meetings, including clarifying that: (1) the Company can postpone, reschedule or cancel stockholder meetings; (2) the number of nominees submitted by stockholders may not exceed the number of directors to be elected at a meeting; and (3) the meeting chairperson has authority to determine whether matters were properly brought before a meeting and if not, to declare that they will not be considered. (Article II, Sections 2.3, 2.4 and 2.16(d));
+▪
+update the default voting threshold for stockholder approval to clarify that if a different or minimum voting threshold applies, that threshold governs. (Article II, Section 2.10);
+▪
+update various provisions of the Bylaws to make technical changes in light of the universal proxy rules adopted by the Securities and Exchange Commission and to reflect the Delaware General Corporation Law (“DGCL”), including recent DGCL amendments;
+▪
+remove language providing that the Chief Executive Officer chairs board meetings in the chairperson’s absence because this is the responsibility of the Lead Director under the Bylaws and the Corporate Governance Guidelines. (Article V, Section 5.7); and
+▪
+amend the Bylaws to use gender neutral terms, and to include various immaterial modifications that provide clarification and consistency.
+The foregoing description of the amendments is qualified in its entirety by reference to the Bylaws, a copy of which is filed as Exhibit 3.2 to this Current Report on Form 8-K and incorporated by reference herein.
+Item 9.01
+
+Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit
+Number
+Description
+3.2
+Amended and Restated Bylaws of Visa Inc.
+104
+Cover Page Interactive Data File (formatted as Inline XBRL)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VISA INC.
+
+Date:
+August 5, 2022
+
+By:
+
+/s/ Kelly Mahon Tullier
+
+Kelly Mahon Tullier
+Vice Chair, Chief People and Administrative
+Officer and Corporate Secretary

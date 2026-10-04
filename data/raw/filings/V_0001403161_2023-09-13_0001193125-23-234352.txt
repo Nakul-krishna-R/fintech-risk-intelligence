@@ -1,0 +1,428 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+September 13, 2023
+
+VISA INC.
+
+(Exact Name of Registrant as Specified in Its Charter)
+
+Delaware
+
+001-33977
+
+26-0267673
+
+(State or Other Jurisdiction of
+
+Incorporation or Organization)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+P.O. Box 8999
+
+San Francisco
+,
+California
+
+94128-8999
+
+(Address of Principal Executive Offices)
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code:
+(650)
+
+432-3200
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+
+☒
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Securities Exchange Act of 1934:
+
+Title of each class
+
+Trading
+
+Symbol
+
+Name of each exchange
+
+on which registered
+
+Class A common stock, par value $0.0001 per share
+
+V
+
+New York Stock Exchange
+
+1.500% Senior Notes due 2026
+
+V26
+
+New York Stock Exchange
+
+2.000% Senior Notes due 2029
+
+V29
+
+New York Stock Exchange
+
+2.375% Senior Notes due 2034
+
+V34
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On September 13, 2023, Visa Inc. (“Visa”) announced that it is engaging with its common stockholders on the subject of potential amendments to its Seventh Restated Certificate of Incorporation (the “Certificate of Incorporation”) that would authorize Visa to conduct an exchange offer program that would have the effect of releasing transfer restrictions on portions of Visa’s Class B common stock in a manner that is designed to be economically equivalent to existing arrangements with respect to Class A and Class C common stockholders’ exposure to certain litigation, as described below. Visa’s board of directors has reviewed, and has authorized management to engage with its common stockholders regarding, these potential Certificate of Incorporation amendments. If ultimately proposed, the amendments would become effective only if approved by a majority of the outstanding shares of Class A, Class B and Class C common stock, each voting as a separate class.
+
+The potential Certificate of Incorporation amendments, including the form of makewhole agreement described below, are attached hereto as Exhibit 99.1. The draft amendments are described below and in the presentation attached hereto as Exhibit 99.2. A document in
+question-and-answer
+format concerning the draft amendments is attached hereto as Exhibit 99.3. Any Certificate of Incorporation amendments, if ultimately proposed, may differ in important respects from the draft described below and in the exhibits attached hereto.
+
+* * *
+
+Visa’s capital structure was established in connection with its 2007 restructuring and subsequent IPO. Visa’s authorized common stock today consists of three classes:
+
+•
+
+Class
+A common stock
+is held by the public and traded on the New York Stock Exchange. Pursuant to the Certificate of Incorporation, holders of Class B and Class C common stock are prohibited from holding Class A common stock for their own accounts. As of July 19, 2023, approximately 1,607 million shares of Class A common stock were outstanding.
+
+•
+
+Class
+B common stock
+is held predominantly by U.S. financial institutions that are current or former members of Visa U.S.A. Inc., and/or their affiliates.
+
+•
+
+Class B common stock is subject to transfer and convertibility restrictions until all U.S. covered litigation is fully resolved. For further information, see
+Note 5—U.S. and Europe Retrospective Responsibility Plans
+and
+Note 20—Legal Matters
+in the notes to the consolidated financial statements in Visa’s Annual Report on Form
+10-K
+for the fiscal year ended September 30, 2022 and
+Note 5—U.S. and Europe Retrospective Responsibility Plans
+and
+Note 13—Legal Matters
+in the notes to the consolidated financial statements (unaudited) in Visa’s Quarterly Report on Form
+10-Q
+for the fiscal quarter ended June 30, 2023.
+
+•
+
+Each share of Class B common stock is convertible into Class A common stock at a conversion rate that is adjusted downward when Visa deposits funds into the escrow account from which monetary liabilities arising from the U.S. covered litigation are payable.
+
+•
+
+As of July 19, 2023, approximately 245 million shares of Class B common stock were outstanding, which at the current conversion rate would be convertible into approximately 390 million shares of Class A common stock valued at approximately $96 billion based on the August 31, 2023 New York Stock Exchange Class A common stock closing price of $245.68 per share.
+
+2
+
+•
+
+Class
+C common stock
+is held predominately by financial institution clients of Visa and/or their affiliates that are located outside of the United States, as well as by other persons that, pursuant to the Certificate of Incorporation, are prohibited from holding Class A common stock. Class C common stock is not currently subject to transfer restrictions under the Certificate of Incorporation, and automatically converts to Class A common stock at a fixed conversion rate upon transfer to an eligible holder of Class A common stock. As of July 19, 2023, approximately 9.5 million shares of Class C common stock were outstanding, which at the current conversion rate would be convertible into approximately 38 million shares of Class A common stock.
+
+Visa has made significant progress on the U.S. covered litigation. In light of this progress, Visa believes it is an appropriate time to consider pursuing the amendments to the Certificate of Incorporation described herein, as doing so may provide benefits to all holders of Class A, B and C common stock. Adoption of the Certificate of Incorporation amendments and implementation of the potential exchange offer program may help mitigate the potential market impact that otherwise could be associated with releasing all Class B common stock on a single day upon final resolution of all U.S. covered litigation, while maintaining economically equivalent protections provided by Visa’s Class B common stockholders against U.S. covered litigation liability. Adoption of the amendments may also strengthen commercial relationships with Visa’s U.S. financial institution clients who are also Class B common stockholders.
+
+As currently contemplated, the amendments would redenominate the existing Class B common stock as
+“Class B-1
+common stock” and authorize Visa to conduct an initial exchange offer in which holders of
+Class B-1
+common stock would be offered the opportunity to tender some or all of their
+Class B-1
+common stock in exchange for a combination of:
+
+•
+
+Class
+B-2
+common stock
+in an amount equivalent to half of the
+Class B-1
+common stock tendered in the exchange offer. This
+Class B-2
+common stock would be a new class of Class B common stock subject to the same transfer and convertibility restrictions as the Class B common stock that is currently outstanding, although future downward adjustments to the
+Class B-2
+common stock conversion rate would be accelerated to occur at twice the rate as that applicable to the current Class B and future
+Class B-1
+common stock.
+
+and
+
+•
+
+Class
+C common stock
+in an amount equivalent to half of the value of the
+Class B-1
+common stock tendered in the exchange offer. This Class C common stock would be the same as the Class C common stock that is currently outstanding, although the Class C common stock received in the exchange offer would be subject to temporary transfer restrictions as noted below.
+
+By participating in this potential exchange offer, each holder of
+Class B-1
+common stock would effectively have the ability to sell up to half of its
+Class B-1
+common stock into the public market in the form of Class C common stock, which upon sale is convertible into Class A common stock at the then-applicable conversion rate.
+
+Once the above-described potential exchange offer is completed, the Certificate of Incorporation amendments would also authorize Visa to conduct up to three successive potential exchange offers that, in each case, would have the effect of releasing the transfer restrictions on up to half of the applicable Class B common stock issued in a previous exchange offer. In exchange for the tendered Class B common stock, Visa would issue (x) shares of a successive class of Class B common stock (for example, in the first successive potential exchange offer,
+Class B-3
+common stock would be issued in exchange for
+Class B-2
+common stock) in an amount equivalent to half of the Class B common stock tendered in exchange and (y) shares of Class C common stock in an amount equivalent to half of the value of the Class B common stock tendered in exchange.
+
+3
+
+Each successive class of Class B common stock would be subject to the same transfer and convertibility restrictions as the Class B common stock that is currently outstanding, although future downward conversion rate adjustments to each new class of Class B common stock would be accelerated to occur at twice the rate as that applicable to the Class B common stock tendered in exchange. Visa would be authorized to conduct a successive potential exchange offer after one year has passed since the initial exchange offer for the next preceding class of Class B common stock if the estimated interchange reimbursement fees at issue in unresolved claims for damages in the U.S. covered litigation have been reduced by 50% or more, as determined by Visa. (For example, after Visa conducts an exchange offer directed to holders of
+Class B-2
+common stock in which these holders are offered the opportunity to receive
+Class B-3
+common stock, Visa would not thereafter offer the holders of
+Class B-3
+common stock the opportunity to exchange for
+Class B-4
+common stock unless at least one year had elapsed from the
+Class B-2
+exchange offer and the estimated interchange reimbursement fees at issue in unresolved claims for damages in the U.S. covered litigation had been reduced by 50% or more.) Subject to these conditions, Visa would retain full discretion whether and when to conduct any successive exchange offer.
+
+As a condition to participating in an exchange offer, each participating stockholder and certain of such holder’s parent entities would execute and deliver a makewhole agreement, the contemplated form of which is included within Exhibit 99.1. The makewhole agreement would obligate the participating holder, after the value of the Class B common stock it received in the applicable exchange offer has been depleted through downward conversion rate adjustments, to reimburse Visa for the portion of any future deposit into the U.S. covered litigation escrow account that, but for the holder’s participation in the exchange offer, would have been absorbed by such holder through downward adjustments to the conversion rate of the class of Class B common stock tendered in the exchange offer. The makewhole agreement would also impose temporary transfer restrictions on a participating holder’s ability to convert and sell the Class C common stock it receives in the exchange offer. These temporary transfer restrictions would be intended to mitigate the market impact of allowing such Class C common stock to be converted and sold at once in the form of Class A common stock.
+
+Whether or not the Certificate of Incorporation amendments are proposed by Visa and approved by stockholders, Visa will retain the ability under its Certificate of Incorporation to repurchase common stock from stockholders, including Class B common stockholders.
+
+* * *
+
+Additional Information and Where to Find It
+
+If Visa determines to propose Certificate of Incorporation amendments to its stockholders in the currently contemplated or a modified form, Visa would file with the Securities and Exchange Commission (“SEC”) a proxy statement describing the proposal and the transactions contemplated thereby. The proxy statement would be provided to Visa stockholders and would contain important information about the amendments described therein and related matters.
+
+In addition, if Visa determines to proceed with an exchange offer with respect to any class of Class B common stock, Visa would file with the SEC a registration statement on Form
+S-4
+to describe the terms of the transaction contemplated thereby.
+
+4
+
+This communication is not a substitute for any proxy statement, exchange offer registration statement, prospectus or other documents Visa may file with the SEC in connection with the foregoing matters. If and when Visa provides a proxy statement relating to the potential Certificate of Incorporation amendments and a registration statement relating to a potential exchange offer:
+
+STOCKHOLDERS ARE URGED TO READ THE PROXY STATEMENT AND/OR REGISTRATION STATEMENT (INCLUDING ANY AMENDMENTS OR SUPPLEMENTS THERETO) AND ALL OTHER RELEVANT DOCUMENTS FILED WITH THE SEC IN THEIR ENTIRETY CAREFULLY WHEN THEY BECOME AVAILABLE, BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION.
+
+Any definitive proxy statement will be provided to Visa stockholders. Stockholders may obtain a free copy of any proxy statement (when available) and other documents filed by Visa at the SEC’s website at https://www.sec.gov. In addition, stockholders will be able to obtain free copies of any proxy statement (when available) and other documents filed by Visa with the SEC on Visa’s Investor Relations website at http://investor.visa.com.
+
+Visa and certain of its executive officers and directors may be deemed to be participants in the solicitation of proxies from Visa’s stockholders. Information regarding Visa’s executive officers and directors is contained in Visa’s definitive proxy statement for its 2023 Annual Meeting of Stockholders filed with the SEC on December 1, 2022, and in its Current Reports on Form
+8-K
+filed with the SEC on February 1, 2023, February 16, 2023, April 10, 2023 and June 20, 2023. Stockholders may obtain additional information regarding the interests of such participants by reading the Certificate of Incorporation amendments and proxy statement and other relevant materials regarding the amendments if and when they become available. These documents would be obtainable free of charge as described above.
+
+No Offer or Solicitation
+
+This communication is for informational purposes only and is not intended to and does not constitute an offer to subscribe for, buy or sell, the solicitation of an offer to subscribe for, buy or sell or an invitation to subscribe for, buy or sell any securities or the solicitation of any vote or approval in any jurisdiction pursuant to or in connection with the potential transactions or otherwise, nor shall there be any sale, issuance or transfer of securities in any jurisdiction in contravention of applicable law. No offer of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the Securities Act of 1933, as amended, and otherwise in accordance with applicable law.
+
+* * *
+
+Conference Call Details
+
+Visa’s executive management will host a live audio webcast beginning at 5:30 p.m. Eastern Time (2:30 p.m. Pacific Time) today, Wednesday, September 13, 2023, to discuss the potential amendments to the Certificate of Incorporation and the potential exchange offer program. All interested parties are invited to listen to the live webcast at investor.visa.com. A replay of the webcast will be available on the Visa Investor Relations website for at least 30 days. The information furnished in this Item 7.01, including Exhibits 99.1, 99.2 and 99.3, is available on the Visa Investor Relations website at investor.visa.com.
+
+* * *
+
+All information in this Item 7.01, including Exhibits 99.1, 99.2 and 99.3, is furnished but not filed and shall not be deemed to be incorporated by reference into any of Visa’s filings under the Securities Act of 1933 or the Securities Exchange Act of 1934 except to the extent otherwise set forth therein.
+
+* * *
+
+5
+
+Forward-Looking Statements
+
+This report, including the exhibits attached hereto, contains forward-looking statements within the meaning of the U.S. Private Securities Litigation Reform Act of 1995 that relate to, among other things, the approval and implementation of the Certificate of Incorporation amendments and potential exchange offers discussed above, and future liability arising under the U.S. covered litigation. Forward-looking statements generally are identified by words such as “anticipates,” “believes,” “estimates,” “expects,” “intends,” “may,” “projects,” “outlook,” “could,” “should,” “will,” “continue” and other similar expressions. All statements other than statements of historical fact could be forward-looking statements, which speak only as of the date they are made, are not guarantees of future events and are subject to certain risks, uncertainties and other factors, many of which are beyond our control and are difficult to predict.
+
+Whether or not the Certificate of Incorporation amendments are proposed, approved or implemented, the final form of any such Certificate of Incorporation amendments is subject to a variety of factors, including, but not limited to:
+
+•
+
+stockholder and market reaction to the Certificate of Incorporation amendments and exchange offers;
+
+•
+
+the impact of global economic, political, market, health and social events or conditions, including the war in Ukraine and the sanctions and other measures being imposed in response, and the ongoing effects of the
+COVID-19
+pandemic, including the resumption of international travel;
+
+•
+
+increased oversight and regulation of the global payments industry and our business;
+
+•
+
+the impact of government-imposed obligations and/or restrictions on international payment systems;
+
+•
+
+the outcome of tax, litigation and governmental investigation matters;
+
+•
+
+increasingly intense competition in the payments industry, including competition for our clients and merchants;
+
+•
+
+the proliferation and continuous evolution of new technologies and business models in the payments industry;
+
+•
+
+continued efforts to lower acceptance costs and challenge industry practices;
+
+•
+
+our ability to maintain relationships with our clients, acquirers, processors, merchants, payments facilitators, ecommerce platforms, fintechs and other third parties;
+
+•
+
+brand or reputational damage;
+
+•
+
+our exposure to loss or illiquidity due to settlement guarantees;
+
+•
+
+any disruption, failure, breach or cyber-attack of our networks or systems;
+
+•
+
+risks, uncertainties and the failure to achieve the anticipated benefits with respect to our acquisitions, joint ventures and other strategic investments; and
+
+6
+
+•
+
+the other factors described in our filings with the SEC, including our Annual Report on Form
+10-K
+for the year ended September 30, 2022, and our subsequent reports on Forms
+10-Q
+and
+8-K.
+
+Except as required by law, we do not intend to update or revise any forward-looking statements as a result of new information, future events or otherwise.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+Number
+
+Description
+
+99.1
+
+Potential Amendments to Certificate of Incorporation and Form of Makewhole Agreement
+
+99.2
+
+Visa Inc. presentation dated September 13, 2023
+
+99.3
+
+Document in
+question-and-answer
+format concerning potential Certificate of Incorporation amendments
+
+104
+
+Cover page interactive data file (formatted as Inline XBRL)
+
+7
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VISA INC.
+
+Date: September 13, 2023
+
+By:
+
+/s/ Chris Suh
+
+Name:
+
+Chris Suh
+
+Title:
+
+Chief Financial Officer
+
+8

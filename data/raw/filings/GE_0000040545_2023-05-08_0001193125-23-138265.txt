@@ -1,0 +1,437 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)
+May 3, 2023
+
+General Electric Company
+
+(Exact name of registrant as specified in its charter)
+
+New York
+
+001-00035
+
+14-0689340
+
+(State or other jurisdiction of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+5 Necco Street
+,
+Boston
+,
+MA
+
+02210
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(Registrant’s telephone number, including area code)
+(617)
+
+4433000
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock, par value $0.01 per share
+
+GE
+
+New York Stock Exchange
+
+1.250% Notes due 2023
+
+GE 23E
+
+New York Stock Exchange
+
+0.875% Notes due 2025
+
+GE 25
+
+New York Stock Exchange
+
+1.875% Notes due 2027
+
+GE 27E
+
+New York Stock Exchange
+
+1.500% Notes due 2029
+
+GE 29
+
+New York Stock Exchange
+
+7 1/2% Guaranteed Subordinated Notes due 2035
+
+GE /35
+
+New York Stock Exchange
+
+2.125% Notes due 2037
+
+GE 37
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934 (§
+240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 5.07
+
+Submission of Matters to a Vote of Security Holders.
+
+(a)
+
+General Electric Company (“GE” or the “Company’) held its annual shareholders meeting on May 3, 2023 (the “Annual Meeting”).
+
+(b) At the Annual Meeting, shareholders elected all of the Company’s nominees for director; approved the advisory vote on the Company’s named executives’ compensation (“Say on Pay”); approved the holding of future advisory votes on the Company’s named executives’ compensation every year (“Say on Frequency”); and ratified the appointment of Deloitte & Touche LLP as the Company’s independent auditor for 2023 (“Auditor Ratification”). Shareholders did not approve the shareholder proposals dealing with an independent chairman of the Board of Directors; the sale of the Company; a fiduciary carbon-emission relevance report; and a report to assess energy-related asset resilience.
+
+Election of Directors
+
+For
+
+Against
+
+Abstain
+
+Broker Non-Votes
+
+1.
+
+Stephen Angel
+
+770,061,386
+
+16,626,341
+
+1,332,590
+
+119,612,175
+
+2.
+
+Sébastien Bazin
+
+743,009,557
+
+43,656,258
+
+1,354,502
+
+119,612,175
+
+3.
+
+H. Lawrence Culp, Jr.
+
+755,196,276
+
+31,572,590
+
+1,251,451
+
+119,612,175
+
+4.
+
+Edward Garden
+
+770,541,881
+
+16,103,606
+
+1,374,830
+
+119,612,175
+
+5.
+
+Isabella Goren
+
+780,160,878
+
+6,577,463
+
+1,281,976
+
+119,612,175
+
+6.
+
+Thomas Horton
+
+776,309,476
+
+10,332,821
+
+1,378,020
+
+119,612,175
+
+7.
+
+Catherine Lesjak
+
+776,950,044
+
+9,807,877
+
+1,262,396
+
+119,612,175
+
+8.
+
+Darren McDew
+
+781,759,215
+
+4,866,796
+
+1,394,306
+
+119,612,175
+
+9.
+
+Paula Rosput Reynolds
+
+760,305,937
+
+26,423,185
+
+1,291,195
+
+119,612,175
+
+10.
+
+Jessica Uhl
+
+782,872,187
+
+3,879,695
+
+1,268,435
+
+119,612,175
+
+Management Proposals
+
+For
+
+Against
+
+Abstain
+
+Broker Non-Votes
+
+1.
+
+Say on Pay
+
+741,712,533
+
+43,393,287
+
+2,914,497
+
+119,612,175
+
+1 Year
+
+2 Years
+
+3 Years
+
+Abstain
+
+Broker Non-Votes
+
+2.
+
+Say on Frequency
+
+777,208,217
+
+1,350,910
+
+7,616,108
+
+1,845,082
+
+119,612,175
+
+For
+
+Against
+
+Abstain
+
+Broker Non-Votes
+
+3.
+
+Auditor Ratification
+
+902,238,353
+
+3,829,529
+
+1,564,610
+
+0
+
+Shareholder Proposals
+
+For
+
+Against
+
+Abstain
+
+Broker Non-Votes
+
+1.
+
+Independent Board Chairman
+
+249,696,041
+
+536,029,783
+
+2,294,493
+
+119,612,175
+
+2.
+
+Sale of the Company
+
+3,935,103
+
+780,831,399
+
+3,253,815
+
+119,612,175
+
+3.
+
+Fiduciary Carbon-Emission Relevance Report
+
+8,873,758
+
+774,631,554
+
+4,515,005
+
+119,612,175
+
+4.
+
+Assess Energy-Related Asset Resilience
+
+77,145,704
+
+703,710,721
+
+7,163,892
+
+119,612,175
+
+(2)
+
+(d) A majority of the votes cast by shareholders at the Annual Meeting voted, on an advisory basis, to hold future
+say-on-pay
+votes every year. In line with this, the Board of Directors has decided that it will hold a
+say-on-pay
+vote every year until the next required
+say-on-pay-frequency
+vote, which will occur no later than the Company’s 2029 annual meeting of shareholders.
+
+(3)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+General Electric Company
+
+(Registrant)
+
+Date: May 8, 2023
+
+/s/ Brandon Smith
+
+Brandon Smith
+
+Vice President, Chief Corporate, Securities & Finance Counsel
+
+(4)

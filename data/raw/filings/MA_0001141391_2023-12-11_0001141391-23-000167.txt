@@ -1,0 +1,105 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+_______________________________________
+FORM
+8-K
+
+_______________________________________
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+December 5, 2023
+_______________________________________
+Mastercard Incorporated
+(Exact name of registrant as specified in its charter)
+
+_______________________________________
+Delaware
+001-32877
+13-4172551
+(State or other jurisdiction
+of incorporation)
+(Commission File
+Number)
+(IRS Employer
+Identification No.)
+2000 Purchase Street
+10577
+Purchase,
+NY
+(Address of principal executive offices)
+(Zip Code)
+(914)
+249-2000
+(Registrant's telephone number, including area code)
+NOT APPLICABLE
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange of which registered
+Class A common stock
+MA
+New York Stock Exchange
+2.1% Notes due 2027
+MA27
+New York Stock Exchange
+1.0% Notes due 2029
+MA29A
+New York Stock Exchange
+2.5% Notes due 2030
+MA30
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+1
+Item 5.03 Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+On December 5, 2023, the Board of Directors of Mastercard Incorporated (the “Company”) approved and adopted amendments (the “Amendments”), effective immediately, to the Company’s amended and restated bylaws (the “Amended and Restated By-Laws”). The Amendments revise and clarify the procedural and disclosure requirements related to the right of stockholders to propose business or make nominations at the Company’s annual or special meetings, including:
+•
+clarifying certain procedural requirements related to the form of the delivery of notices and the number of nominees that stockholders may nominate for election;
+•
+enhancing the disclosure requirements to include additional information regarding the stockholder making the director nomination(s), the director nominee(s), and their associates and affiliates and to require that the information is updated and supplemented to be accurate and timely; and
+•
+requiring that the stockholder making the director nomination(s), pursuant to Rule 14a-19, provide a representation regarding whether such shareholder intends to solicit proxies in support of any proposed nominee in accordance with Rule 14a-19 and provide reasonable evidence of compliance with the rules.
+In addition, the Amendments modify sections related to Board actions, include changes to reflect updates to the Delaware General Corporation Law, and make various non-substantive updates and ministerial and conforming changes.
+The foregoing summaries do not purport to be complete and are qualified in their entirety by reference to the Amended and Restated By-Laws, which are attached as Exhibit 3.1 to this Current Report, and are incorporated herein by reference as though they were fully set forth herein.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit Number
+Exhibit Description
+3.1
+Amended and Restated By-Laws of Mastercard Incorporated
+104
+Cover Page Interactive Data File - the cover page interactive data file does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+2
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+MASTERCARD INCORPORATED
+Date:
+December 11, 2023
+By:
+/s/ Adam Zitter
+Adam Zitter
+Corporate Secretary
+
+3

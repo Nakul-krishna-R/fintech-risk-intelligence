@@ -1,0 +1,350 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (date of earliest event reported):
+November 6, 2023
+
+MICROSOFT CORPORATION
+(Exact name of registrant as specified in its charter)
+
+Washington
+
+001-37845
+
+91-1144442
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+One Microsoft Way
+Redmond
+,
+Washington
+
+98052-6399
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (
+425
+)
+882-8080
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common stock, $0.00000625 par value per share
+
+MSFT
+
+NASDAQ
+
+3.125% Notes due 2028
+
+MSFT
+
+NASDAQ
+
+2.625% Notes due 2033
+
+MSFT
+
+NASDAQ
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01
+
+Other Events.
+Exchange Offers and Consent Solicitations
+On November 6, 2023, Microsoft Corporation (“Microsoft”) completed the early settlement (the “Early Settlement”) of Existing Activision Blizzard Notes (as defined below) as part of its previously-announced private offers to eligible holders to exchange (each, an “Exchange Offer” and, collectively, the “Exchange Offers”) any and all outstanding notes issued by Activision Blizzard, Inc., a wholly-owned subsidiary of Microsoft (“Activision Blizzard”) as set forth in the table below (the “Existing Activision Blizzard Notes”) for (1) new notes issued by Microsoft and (2) cash. The Exchange Offers were not registered under the Securities Act of 1933, as amended (the “Securities Act”), or any state or foreign securities laws. Concurrently with the Exchange Offers, Activision Blizzard solicited consents (each, a “Consent Solicitation” and, collectively, the “Consent Solicitations”) to adopt certain proposed amendments (the “Amendments”) to each of the indentures governing the Existing Activision Blizzard Notes (the “Existing Activision Blizzard Indentures”) to eliminate certain of the covenants, restrictive provisions and events of default of such Existing Activision Blizzard Indentures. Pursuant to the Exchange Offers and Consent Solicitations, the aggregate principal amounts of the Existing Activision Blizzard Notes set forth in the table below were validly tendered and subsequently accepted. Such accepted Existing Activision Blizzard Notes were retired and canceled and will not be reissued. Following such cancellation, the aggregate principal amounts of the Existing Activision Blizzard Notes set forth below remains outstanding.
+
+Title of Series of Existing Activision Blizzard Notes
+
+Aggregate
+Principal Amount
+Tendered and
+Accepted at Early Settlement
+
+Aggregate
+Principal Amount
+Outstanding
+Following Early Settlement
+
+3.400% Senior Notes due 2026
+
+$
+
+$
+
+762,456,000
+
+$
+
+87,544,000
+
+3.400% Senior Notes due 2027
+
+$
+
+$
+
+353,183,000
+
+$
+
+43,817,000
+
+1.350% Senior Notes due 2030
+
+$
+
+$
+
+442,842,000
+
+$
+
+57,158,000
+
+4.500% Senior Notes due 2047
+
+$
+
+$
+
+391,290,000
+
+$
+
+8,710,000
+
+2.500% Senior Notes due 2050
+
+$
+
+$
+
+1,439,312,000
+
+$
+
+60,688,000
+
+Prior to the Early Settlement and upon receipt of the requisite consents to adopt the Amendments with respect to the indentures governing each series of Existing Activision Blizzard Notes, the following supplemental indentures (collectively, the “Supplemental Activision Blizzard Indentures”) were executed, eliminating certain of the covenants, restrictive provisions and events of default under the Existing Activision Blizzard Indentures:
+(i) the First Supplemental Indenture, dated October 27, 2023, between Activision Blizzard, as issuer, and Computershare Trust Company, N.A. (“Computershare”) (as successor to Wells Fargo Bank, National Association (“Well Fargo Bank”)), as trustee, amending that certain Indenture, dated September 19, 2016, between Activision Blizzard and Wells Fargo Bank (the “2016 Activision Blizzard Indenture”), pursuant to which Activision Blizzard issued its 3.400% Senior Notes due 2026;
+
+(ii) the Third Supplemental Indenture, dated October 27, 2023, between Activision Blizzard, as issuer, and Computershare (as successor to Wells Fargo Bank), as trustee, amending that certain Indenture, dated May 26, 2017, between Activision Blizzard and Wells Fargo Bank (the “Activision Blizzard Base Indenture”), as supplemented by that certain First Supplemental Indenture, dated May 26, 2017, between Activision Blizzard and Wells Fargo Bank (the “2017 Activision Blizzard Supplemental Indenture”), pursuant to which Activision Blizzard issued its 3.400% Senior Notes due 2027 and 4.500% Senior Notes due 2047; and
+(iii) the Fourth Supplemental Indenture, dated October 27, 2023, between Activision Blizzard, as issuer and Computershare (as successor to Wells Fargo Bank), amending the Activision Blizzard Base Indenture, as supplemented by that certain Second Supplemental Indenture, dated August 10, 2020, between Activision Blizzard and Wells Fargo Bank (together with the 2016 Activision Blizzard Indenture, the Activision Blizzard Base Indenture and the 2017 Activision Blizzard Supplemental Indenture, the “Existing Activision Blizzard Indentures”), pursuant to which Activision Blizzard issued its 1.350% Senior Notes due 2030 and 2.500% Senior Notes due 2050.
+The Amendments became operative upon the Early Settlement. The foregoing summary of the Supplemental Activision Blizzard Indentures does not purport to be complete and is qualified in its entirety by reference to the full text of (i) the Existing Activision Blizzard Indentures attached as Exhibits 4.9, 4.10, 4.11 and 4.12 hereto and (ii) the Supplemental Activision Blizzard Indentures attached as Exhibits 4.13, 4.14 and 4.15 hereto, the terms of which are, in each case, incorporated herein by reference.
+Microsoft Base Indenture, Supplemental Indenture and New Notes
+In connection with the Early Settlement, on November 6, 2023, Microsoft issued:
+
+(i)
+
+$762,456,000 aggregate principal amount of 3.400% Notes due 2026 (the “New Microsoft 2026 Notes”);
+
+(ii)
+
+$353,183,000 aggregate principal amount of 3.400% Notes due 2027 (the “New Microsoft 2027 Notes”);
+
+(iii)
+
+$442,842,000 aggregate principal amount of 1.350% Notes due 2030 (the “New Microsoft 2030 Notes”);
+
+(iv)
+
+$391,290,000 aggregate principal amount of 4.500% Notes due 2047 (the “New Microsoft 2047 Notes”);
+
+(v)
+
+$1,439,312,000 aggregate principal amount of 2.500% Notes due 2050 (the “New Microsoft 2050 Notes” and, together with the New Microsoft 2026 Notes, the New Microsoft 2027 Notes, the New Microsoft 2030 Notes and the New Microsoft 2047 Notes, the “New Microsoft Notes”).
+The New Microsoft Notes are governed by an indenture, dated as of May 18, 2009 (the “Base Indenture”), between Microsoft, as issuer, and The Bank of New York Mellon Trust Company, N.A., as trustee (the “New Microsoft Notes Trustee”), as supplemented by the Fifteenth Supplemental Indenture, dated as of November 6, 2023 (the “Fifteenth Supplemental Indenture”), between Microsoft and the New Microsoft Notes Trustee.
+The New Microsoft Notes are Microsoft’s senior unsecured obligations and rank equally with Microsoft’s other unsecured and unsubordinated debt from time to time outstanding.
+The interest rate and maturity date for each series of New Microsoft Notes is as follows:
+
+(i)
+
+The 2026 Notes will bear interest at a rate of 3.400% per annum and will mature on September 15, 2026;
+
+(ii)
+
+The 2027 Notes will bear interest at a rate of 3.400% per annum and will mature on June 15, 2027; and
+
+(iii)
+
+The 2030 Notes will bear interest at a rate of 1.350% per annum and will mature on September 15, 2030;
+
+(iv)
+
+The 2047 Notes will bear interest at a rate of 3.400% per annum and will mature on June 15, 2047; and
+
+(v)
+
+The 2050 Notes will bear interest at a rate of 2.500% per annum and will mature on September 15, 2050.
+The foregoing summaries of the Fifteenth Supplemental Indenture and the New Microsoft Notes do not purport to be complete and each is qualified in its entirety by reference to the applicable full text of (i) the Base Indenture attached as Exhibit 4.1 hereto; (ii) the Fifteenth Supplemental Indenture attached as Exhibit 4.2 hereto; and (iii) the forms of the New Microsoft Notes attached as Exhibits 4.3, 4.4, 4.5, 4.6 and 4.7 hereto, the terms of which are, in each case, incorporated herein by reference.
+Registration Rights Agreement
+On November 6, 2023, in connection with the Early Settlement, Microsoft, BofA Securities, Inc., J.P. Morgan Securities LLC, Wells Fargo Securities, LLC, Academy Securities, Inc., CastleOak Securities, L.P., Drexel Hamilton, LLC, Loop Capital Markets LLC, MFR Securities, Inc., Mischler Financial Group, Inc., RBC Capital Markets, LLC, Samuel A Ramirez & Company, Inc. and Siebert Williams Shank & Co., LLC, as dealer managers, entered into a registration rights agreement with respect to the New Microsoft Notes (the “Registration Rights Agreement”). Microsoft agreed under the Registration Rights Agreement to, among other things, use its commercially reasonable efforts to (i) file a registration statement on an appropriate registration form with respect to a registered offer to exchange each series of the New Microsoft Notes for new notes, with terms substantially identical in all material respects to such series of the New Microsoft Notes (except that the new notes will not be subject to restrictions on transfer or any increase in annual interest rate), and (ii) cause such registration statement to become effective under the Securities Act. Microsoft shall pay additional interest on the New Microsoft Notes of up to 1.0% if, among other things, the registered exchange offer is not completed on or prior to January 29, 2025, or a shelf registration statement is required and is not declared effective on or prior to the 60th day after the later of (i) January 29, 2025 and (ii) the date on which Microsoft receives a duly executed request by a dealer manager or certain holders for the filing of a shelf registration.
+The foregoing summary of the Registration Rights Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Registration Rights Agreement attached as Exhibit 4.8 hereto, the terms of which are incorporated herein by reference.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d)
+
+Exhibits.
+Index to Exhibits
+
+Exhibit
+No.
+
+Description
+
+4.1
+
+Indenture, dated as of May 18, 2009, by and between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee (incorporated by reference to Exhibit 4.1 of Microsoft Corporation’s Form
+S-3ASR,
+filed October 29, 2015)
+
+4.2
+
+Fifteenth Supplemental Indenture, dated as of November 6, 2023, by and between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee
+
+4.3
+
+Form of 3.400% Notes due 2026 (included in Exhibit 4.2 of this Current Report on Form
+8-K)
+
+4.4
+
+Form of 3.400% Notes due 2027 (included in Exhibit 4.2 of this Current Report on Form
+8-K)
+
+4.5
+
+Form of 1.350% Notes due 2030 (included in Exhibit 4.2 of this Current Report on Form
+8-K)
+
+4.6
+
+Form of 4.500% Notes due 2047 (included in Exhibit 4.2 of this Current Report on Form
+8-K)
+
+4.7
+
+Form of 2.500% Notes due 2050 (included in Exhibit 4.2 of this Current Report on Form
+8-K)
+
+4.8
+
+Registration Rights Agreement, dated as of November 6, 2023, by and among Microsoft Corporation, BofA Securities, Inc., J.P. Morgan Securities LLC, Wells Fargo Securities, LLC, Academy Securities, Inc., CastleOak Securities, L.P., Drexel Hamilton, LLC, Loop Capital Markets LLC, MFR Securities, Inc., Mischler Financial Group, Inc., RBC Capital Markets, LLC, Samuel A Ramirez & Company, Inc. and Siebert Williams Shank & Co., LLC
+
+4.9
+
+Indenture, dated as of September 19, 2016, by and between Activision Blizzard, Inc. and Wells Fargo Bank, National Association, as Trustee, with respect to Activision Blizzard, Inc.’s 3.400% Senior Notes due 2026
+
+4.10
+
+Base Indenture, dated as of May 26, 2017, by and between Activision Blizzard, Inc. and Wells Fargo Bank, National Association, as Trustee, with respect to Activision Blizzard, Inc.’s 3.400% Senior Notes due 2027, 1.350% Senior Notes due 2030, 4.500% Senior Notes due 2047 and 2.500% Senior Notes due 2050
+
+4.11
+
+First Supplemental Indenture, dated as of May 26, 2017, by and between Activision Blizzard, Inc. and Wells Fargo Bank, National Association, as Trustee, with respect to Activision Blizzard, Inc.’s 3.400% Senior Notes due 2027 and 4.500% Senior Notes due 2047
+
+4.12
+
+Second Supplemental Indenture, dated as of August 10, 2020, by and between Activision Blizzard, Inc. and Wells Fargo Bank, National Association, as Trustee, with respect to Activision Blizzard, Inc.’s 1.350% Senior Notes due 2030 and 2.500% Senior Notes due 2050
+
+4.13
+
+First Supplemental Indenture, dated as of October 27, 2023, by and between Activision Blizzard, Inc. and Computershare Trust Company, N.A., with respect to Activision Blizzard, Inc.’s 3.400% Senior Notes due 2026
+
+4.14
+
+Third Supplemental Indenture, dated as of October 27, 2023, by and between Activision Blizzard, Inc. and Computershare Trust Company, N.A., with respect to Activision Blizzard, Inc.’s 3.400% Senior Notes due 2027 and 4.500% Senior Notes due 2047
+
+4.15
+
+Fourth Supplemental Indenture, dated as of October 27, 2023, by and between Activision Blizzard, Inc. and Computershare Trust Company, N.A., with respect to Activision Blizzard, Inc.’s 1.350% Senior Notes due 2030 and 2.500% Senior Notes due 2050
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+MICROSOFT CORPORATION
+
+By:
+
+/s/ Keith R. Dolliver
+
+Keith R. Dolliver
+
+Corporate Secretary
+Date: November 6, 2023

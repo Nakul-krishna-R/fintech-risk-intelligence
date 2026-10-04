@@ -1,0 +1,337 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported)
+April 1, 2024
+
+General Electric Co
+mpany
+(Exact name of registrant as specified in its charter)
+
+New York
+
+001-00035
+
+14-0689340
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+1 Neumann Way
+,
+Evendale
+,
+OH
+
+45215
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(
+617
+)-
+443-3000
+(Registrant’s telephone number, including area code)
+One Financial Center
+,
+Suite 3700
+,
+Boston
+,
+MA
+
+02111
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common stock, par value $0.01 per share
+
+GE
+
+New York Stock Exchange
+
+0.875% Notes due 2025
+
+GE 25
+
+New York Stock Exchange
+
+1.875% Notes due 2027
+
+GE 27E
+
+New York Stock Exchange
+
+1.500% Notes due 2029
+
+GE 29
+
+New York Stock Exchange
+
+7 1/2% Guaranteed Subordinated Notes due 2035
+
+GE /35
+
+New York Stock Exchange
+
+2.125% Notes due 2037
+
+GE 37
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934 (§
+240.12b-2
+of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act. ☐
+
+Introductory Note
+On April 2, 2024 (the “Distribution Date”) at 12:10 a.m. Eastern Time, General Electric Company completed the previously announced separation (the
+“Spin-Off”)
+of GE Vernova Inc. (“GE Vernova”). General Electric Company now operates as GE Aerospace (the “Company”).
+The
+Spin-Off
+of GE Vernova was achieved through the Company’s pro rata distribution of all of the outstanding shares of GE Vernova common stock to holders of record of the Company’s common stock. Each holder of record of the Company’s common stock received one share of GE Vernova common stock for every four shares of the Company’s common stock held on March 19, 2024, the record date for the distribution. In lieu of fractional shares of GE Vernova, shareholders of the Company will receive cash. On April 2, 2024, GE Vernova’s common stock began trading on the New York Stock Exchange under the ticker symbol “GEV.”
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+In connection with the
+Spin-Off,
+the Company entered into several agreements with GE Vernova prior to the Distribution Date that, among other things, provide a framework for the Company’s relationship with GE Vernova after the
+Spin-Off,
+including the following agreements:
+
+•
+
+a Separation and Distribution Agreement;
+
+•
+
+a Transition Services Agreement;
+
+•
+
+a Tax Matters Agreement;
+
+•
+
+an Employee Matters Agreement;
+
+•
+
+a Trademark License Agreement;
+
+•
+
+a Real Estate Matters Agreement; and
+
+•
+
+a Framework Investment Agreement.
+
+Summaries of the material features of the Separation and Distribution Agreement, the Transition Services Agreement, the Tax Matters Agreement, the Employee Matters Agreement, the Trademark License Agreement, the Real Estate Matters Agreement and the Framework Investment Agreement can be found in the section titled “Certain Relationships and Related Person Transactions—Agreements with GE” in GE Vernova’s Final Information Statement, which is attached as Exhibit 99.1 to GE Vernova’s Current Report on Form
+8-K
+filed with the Securities and Exchange Commission (“SEC”) on March 8, 2024 (the “Information Statement”).
+The summaries of the Separation and Distribution Agreement and the Tax Matters Agreement are incorporated by reference into this Item 1.01 in their entirety. The summaries of the Separation and Distribution Agreement and the Tax Matters Agreement do not purport to be complete and are qualified in their entirety by reference to the full text of such agreements, which are filed as Exhibits 2.1 and 10.1, respectively, to this Current Report on Form
+8-K
+and are incorporated herein by reference.
+The summaries of the Transition Services Agreement, Employee Matters Agreement, Trademark License Agreement, Real Estate Matters Agreement, and Framework Investment Agreement do not purport to be complete and are qualified in their entirety by reference to the full text of the forms of such agreements, which are filed as Exhibits 10.1, 10.3, 10.4, 10.5, and 10.21, respectively, to the Information Statement.
+
+Item 1.02
+
+Termination of a Material Definitive Agreement.
+
+On April 2, 2024, in connection with the completion of the
+Spin-Off
+and the establishment of the Credit Facility (as defined below), the Company terminated the Amended and Restated Credit Agreement, dated as of May 27, 2021 (as amended by the First Amendment, dated as of June 9, 2023), entered into among the Company, JPMorgan Chase Bank, N.A., as administrative agent, and the lenders party thereto, which provided for a $10.0 billion senior unsecured revolving credit facility that was scheduled to mature on May 27, 2026. No termination penalties were incurred as a result of such termination.
+
+Item 2.01
+
+Completion of Acquisition or Disposition of Assets.
+
+The
+Spin-Off
+was completed in accordance with the Separation and Distribution Agreement. The description of the
+Spin-Off
+included under the Introductory Note of this Current Report on Form
+8-K
+is incorporated into this Item 2.01 by reference.
+
+Item 2.03
+
+Creation of a Direct Financial Obligation or an Obligation under an
+Off-Balance
+Sheet Arrangement of a Registrant.
+
+On April 2, 2024, in connection with the completion of the
+Spin-Off,
+the Company closed a five-year unsecured revolving credit facility in an aggregate committed amount of $3.0 billion (the “Credit Facility”) provided pursuant to a credit agreement, dated as of March 26, 2024, among the Company, the lenders party thereto and JPMorgan Chase Bank, N.A., as administrative agent.
+The Credit Facility is available for borrowings in U.S. dollars and Euros. Up to $250 million of the Credit Facility is available for the issuance of letters of credit. The Credit Facility will mature on April 2, 2029.
+The interest rate applicable to loans under the Credit Facility is (x) with respect to borrowings in U.S. dollars, at the Company’s option, equal to either an alternate base rate or an adjusted Term SOFR rate for a
+one-,
+three- or
+six-month
+interest period and (y) with respect to borrowings in Euros, the EURIBOR rate for a
+one-,
+three- or
+six-month
+interest period, in each case, plus an applicable margin. The applicable margin payable on borrowings will be determined by reference to a pricing schedule based on the Company’s senior unsecured long-term debt ratings. In addition, the Company will pay customary facility fees based on the commitments of the lenders under the Credit Facility.
+The Company may voluntarily prepay borrowings under the Credit Facility without premium or penalty, subject to customary breakage costs with respect to loans bearing interest by reference to the applicable adjusted Term SOFR rate or the EURIBOR rate. The Company may also voluntarily reduce the commitments under the Credit Facilities, in whole or in part, subject to certain minimum reduction amounts.
+The Credit Facility includes various customary covenants that limit, among other things, the incurrence of certain liens, the entry into certain fundamental change transactions, the maximum permitted leverage ratio and the incurrence of indebtedness by certain subsidiaries of the Company. The Credit Facility also includes customary events of default, including a failure to make timely payments under the Credit Facility, violation of covenants, material inaccuracy of representations and warranties, acceleration of other material indebtedness, certain bankruptcy and insolvency events, unsatisfied material judgments and change of control.
+The foregoing description of the Credit Facility does not purport to be a complete statement of the parties’ rights and obligations under such Credit Facility and the foregoing is qualified in its entirety by reference to the full text of the Credit Facility, which is filed as Exhibit 10.2 to this Current Report on Form
+8-K
+and is incorporated herein by reference.
+
+Item 5.03
+
+Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+On April 1, 2024, the Company filed with the Secretary of State of New York a Certificate of Change (the “Certificate of Change”) to its Restated Certificate of Incorporation (the “Certificate of Incorporation”) and approved an amendment (the
+“By-Laws
+Amendment”) to Article I of its
+By-Laws
+(the
+“By-Laws”).
+The Certificate of Change amends (i) Section 7 of the Company’s Certificate of Incorporation to reflect the relocation of the Company’s headquarters and to provide that the Secretary of State of New York, as the Company’s agent for service of process, shall mail a copy of any process served upon him or her to the Company’s General Counsel at 1 Neumann Way, Evendale, OH 45215 and (ii) Section 4 of the Company’s Certificate of Incorporation to reflect the relocation of the Company’s office in New York State from the City of Schenectady to the City of Niskayuna.
+The
+By-Laws
+Amendment amends Article I of the Company’s
+By-Laws
+to reflect the relocation of the Company’s office in New York State from the City of Schenectady to the City of Niskayuna.
+Copies of the Certificate of Change and the
+By-Laws
+are attached hereto as Exhibit 3.1 and Exhibit 3.2, respectively.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+(b) Pro Forma Financial Information
+The pro forma financial information required by this item will be filed by amendment to this Current Report on Form
+8-K
+not later than four business days after the date of the
+Spin-Off.
+(d) Exhibits
+
+Exhibit
+
+Description
+
+2.1
+
+Separation and Distribution Agreement, dated April 1, 2024, by and between General Electric Company and GE Vernova Inc. (f/k/a GE Vernova LLC), as amended.†+
+
+3.1
+
+Certificate of Change, effective as of April 1, 2024.
+
+3.2
+
+By-Laws,
+effective as of April 1, 2024.
+
+10.1
+
+Tax Matters Agreement, dated as of April 1, 2024, by and between General Electric Company and GE Vernova Inc. (f/k/a GE Vernova LLC).†+
+
+10.2
+
+Credit Agreement, dated as of March 26, 2024, by and among General Electric Company, the lenders from time to time party thereto and JPMorgan Chase Bank, N.A., as administrative agent. +
+
+104
+
+The cover page from this Current Report on Form
+8-K,
+formatted in Inline XBRL.
+
+†
+
+Certain portions of this exhibit have been redacted pursuant to Item 601(b)(2)(ii) and Item 601(b)(10)(iv) of Regulation
+S-K,
+as applicable. The Company agrees to furnish supplementally an unredacted copy of the exhibit to the Securities and Exchange Commission upon its request.
+
++
+
+Certain schedules and exhibits to this agreement have been omitted pursuant to Item 601(a)(5) of Regulation
+S-K.
+The Company agrees to furnish supplementally a copy of any omitted schedule or exhibit to the Commission upon its request.
+
+Forward-looking statements.
+This document contains “forward-looking statements” — that is, statements related to future, not past, events. These forward- looking statements often address GE Aerospace’s expected future business and financial performance and financial condition, and often contain words such as “expect,” “anticipate,” “intend,” “plan,” “believe,” “seek,” “see,” “will,” “would,” “estimate,” “forecast,” “target,” “preliminary,” or “range.” Forward-looking statements by their nature address matters that are, to different degrees, uncertain, and are subject to risks, uncertainties and assumptions. For GE Aerospace, particular areas where risks or uncertainties could cause our actual results to be materially different than those expressed in GE Aerospace’s forward-looking statements include: changes in macroeconomic and market conditions and market volatility, including risk of recession, inflation, geopolitical conflict; supply chain constraints or disruptions, interest rates, the value of securities and other financial assets (including GE Aerospace’s equity interest in GE HealthCare), commodity prices and exchange rates, and the impact of such changes and volatility on GE Aerospace’s business operations, financial results and financial position; GE Aerospace’s capital allocation plans, including the timing and amount of dividends, share repurchases, acquisitions, organic investments, and other priorities; and other factors that are described in the “Risk Factors” section of our Annual Report on Form
+10-K
+for the year ended December 31, 2023, as such description may be updated or amended in any future reports that GE Aerospace files with the SEC. These or other uncertainties may cause GE Aerospace’s actual future results to be materially different than those expressed in its forward-looking statements. GE Aerospace does not undertake to update its forward-looking statements.
+
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+General Electric Company
+
+(Registrant)
+
+Date: April 2, 2024
+
+/s/ Brandon Smith
+
+Brandon Smith
+
+Vice President, Chief Corporate, Securities & Finance Counsel

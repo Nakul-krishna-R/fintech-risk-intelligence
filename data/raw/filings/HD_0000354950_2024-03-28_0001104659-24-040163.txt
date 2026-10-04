@@ -1,0 +1,307 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+FORM
+8-K
+
+CURRENT REPORT PURSUANT
+
+TO SECTION 13 OR 15(d) OF THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+Date of report (Date of earliest event reported):
+
+March 27, 2024
+
+THE HOME DEPOT, INC.
+
+(Exact Name of Registrant as Specified in Its Charter)
+
+Delaware
+
+1-8207
+
+95-3261426
+
+(State or Other Jurisdiction of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+
+2455 Paces Ferry Road
+,
+Atlanta
+,
+Georgia
+
+30339
+
+(Address of Principal Executive Offices)
+
+(Zip Code)
+
+(
+770
+)
+433-8211
+
+(Registrant’s Telephone Number, Including
+Area Code)
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since
+Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities Registered Pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+
+Trading Symbol(s)
+
+Name Of Each Exchange On Which Registered
+
+Common Stock, $0.05 Par Value Per Share
+
+HD
+
+New York Stock Exchange
+
+Indicate by check mark whether
+the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth
+company
+¨
+
+If an emerging growth company,
+indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 1.01.
+Entry into a Material Definitive Agreement.
+
+On March 27, 2024, The Home
+Depot, Inc., a Delaware corporation (the “
+Company
+”), Star Acquisition Merger Sub Inc., a Delaware corporation and wholly
+owned subsidiary of the Company (“
+Merger Sub
+”), Shingle Acquisition Holdings, Inc., a Delaware corporation (“
+SRS
+”),
+and Shingle Acquisition, LP, a Delaware limited partnership, solely in its capacity as the initial Holder Representative, entered into
+an Agreement and Plan of Merger (the “
+Merger Agreement
+”), pursuant to which Merger Sub will be merged with and into
+SRS (the “
+Merger
+”), with SRS surviving the Merger as the surviving corporation and a wholly owned subsidiary of the
+Company.
+
+Pursuant to the Merger Agreement,
+the Company will pay aggregate consideration of $18,250,000,000, subject to customary adjustments for SRS’s debt, cash, transaction
+expenses and net working capital (the “
+Merger Consideration
+”).
+
+At the effective time of the
+Merger (i) each share of SRS class A common stock and each share of SRS class B common stock (collectively, the “
+SRS Common Stock
+”,
+and each share, a “
+SRS Common Share
+”) that is issued and outstanding (other than any dissenting shares and SRS Common
+Shares, if any, held in treasury), will be converted into the right to receive the applicable portion of the estimated Merger Consideration
+and (ii) each option to purchase SRS Common Shares (each option, a “
+SRS Option
+”) that is in-the-money will be canceled
+and converted into the right to receive the applicable portion of the estimated Merger Consideration less the applicable exercise price
+with respect to such option. Out-of-the-money options will terminate and be forfeited for no consideration.
+
+In connection with the Merger,
+certain members of SRS’s management team have agreed to reinvest a portion of their respective after-tax proceeds from the Merger
+Consideration into shares of the Company’s common stock. A portion of such shares of Company common stock will be subject to service-based
+vesting conditions, and all such shares will be subject to transfer restrictions of various durations.
+
+The Merger Agreement contains
+representations and warranties of the parties customary for a transaction of this type. The Merger Agreement also contains customary covenants
+and agreements, including, among others: (i) certain limitations on the conduct of business of SRS between the date of the signing of
+the Merger Agreement and the closing date of the Merger; (ii) regulatory matters, including the parties’ efforts to consummate the
+closing and obtain approvals from governmental agencies; (iii) SRS’s obligation to deliver the required approval of SRS’s
+stockholders promptly following execution of the Merger Agreement; (iv) certain cooperation commitments by the Company with respect to
+the termination of SRS’s outstanding notes and SRS with respect to the Company’s transaction financing efforts; and (v) certain
+commitments by the Company with respect to the compensation and benefits provided to SRS employees post-closing.
+
+The parties’ obligations
+to consummate the transactions contemplated by the Merger Agreement are subject to the satisfaction or waiver of customary conditions
+set forth in the Merger Agreement, including, among others: (i) the expiration of the waiting period applicable to the transactions contemplated
+by the Merger Agreement under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended; (ii) the absence of any law or governmental
+order prohibiting the transactions contemplated by the Merger Agreement; (iii) no material adverse effect having occurred since the signing
+of the Merger Agreement; (iv) receipt of SRS’s stockholder approval; and (v) certain other customary conditions relating to the
+parties’ representations and warranties in the Merger Agreement and the performance of their respective obligations under the Merger Agreement.
+
+The Merger Agreement also
+provides for certain customary termination rights for the parties, including: (i) by mutual written consent of the Company and SRS; (ii)
+by either party, if the Closing has not occurred on or before the twelve-month anniversary of the date of the Merger Agreement (the “
+Initial
+Termination Date
+”), provided, that the Initial Termination Date will automatically be extended up to two times, for a period
+of six months in the first extension and three months in the second extension, in each case, if only the regulatory closing conditions
+relating to the antitrust laws remain unsatisfied (such date, as so extended beyond the Initial Termination Date, the “
+Termination
+Date
+”); (iii) by written notice to SRS from the Company if SRS’s stockholder approval is not obtained within two business
+days following execution of the Merger Agreement; (iv) by either party, if any governmental authority issues an order or permanently enjoins
+the transaction and such order or other action becomes final and non-appealable; and (v) if the other party has breached any of its representations
+and warranties or failed to perform any of its covenants or agreements such that any of the conditions to closing would not be satisfied
+and the party has not cured any such breaches within 30 days following delivery of written notice.
+
+The Company will be
+obligated to pay a termination fee of $894,250,000 (i) in the event SRS or the Company terminates the Merger Agreement due to an
+antitrust-related governmental prohibition on the transactions or (ii) if the closing has not occurred on or before the Termination
+Date, as described above, and, in either case, all closing conditions (other than (a) regulatory closing conditions relating to
+antitrust laws or (b) conditions which by their terms are to be satisfied at the closing, each of which is capable of being satisfied at the closing) are otherwise satisfied.
+
+The Merger Agreement will
+be filed to provide investors and stockholders with information regarding its terms and is not intended to provide any factual information
+about the Company, SRS or Merger Sub. The representations, warranties and covenants contained in the Merger Agreement have been made solely
+for the purposes of the Merger Agreement and as of specific dates; were solely for the benefit of the parties to the Merger Agreement;
+are not intended as statements of fact to be relied upon by the Company’s stockholders or other security holders, but rather as
+a way of allocating the risk between the parties to the Merger Agreement in the event the statements therein prove to be inaccurate; have
+been modified or qualified by certain confidential disclosures that were made between the parties in connection with the negotiation of
+the Merger Agreement, which disclosures are not reflected in the Merger Agreement itself; may no longer be true as of a given date; and
+may apply standards of materiality in a way that is different from what may be viewed as material by the Company’s stockholders
+or other security holders. The Company’s stockholders or other security holders should not rely on the representations, warranties
+and covenants or any descriptions thereof as characterizations of the actual state of facts or circumstances of the Company, SRS or Merger
+Sub. Moreover, information concerning the subject matter of the representations and warranties may change after the date of the Merger
+Agreement, which subsequent information may or may not be fully reflected in the Company’s public disclosures.
+
+Item 7.01.
+Regulation FD Disclosure.
+
+On March 28, 2024, the Company
+issued a press release regarding the matters described in Item 1.01 of this Current Report on Form 8-K, a copy of which is filed as Exhibit
+99.1 and is incorporated herein by reference.
+
+Attached as Exhibit 99.2 and
+incorporated by reference herein is an investor presentation dated March 28, 2024, that will be used by the Company with respect to the
+matters described in Item 1.01 of this Current Report on Form 8-K.
+
+The information in this Item
+7.01, including Exhibits 99.1 and 99.2, is furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities
+Exchange Act of 1934, as amended (the “
+Exchange Act
+”), or otherwise subject to liabilities under that section, and
+shall not be deemed to be incorporated by reference into the filings of the Company under the Securities Act of 1933 or the Exchange Act,
+regardless of any general incorporation language in such filings.
+
+Item 9.01.
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+99.1
+
+Press Release, dated March 28, 2024
+
+99.2
+
+Investor Presentation, dated March 28, 2024
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+Cautionary Note Regarding Forward-Looking Statements
+
+Certain statements contained herein constitute
+"forward-looking statements" as defined in the Private Securities Litigation Reform Act of 1995. Forward-looking statements
+may relate to, among other things, the proposed acquisition of SRS, which involves substantial risks and uncertainties that could cause
+actual results to differ materially from those expressed or implied by such statements (the “
+potential acquisition
+”);
+statements about the potential benefits of the potential acquisition; the anticipated timing of closing of the potential acquisition (including
+failure to obtain necessary regulatory approvals) and the possibility that the potential acquisition does not close; risks related to
+the ability to realize the anticipated benefits of the potential acquisition, including the possibility that the expected benefits from
+the proposed transaction will not be realized or will not be realized within the expected time period; the risk that the businesses will
+not be integrated successfully; disruption from the potential acquisition making it more difficult to maintain business and operational
+relationships; negative effects of announcing the potential acquisition or the consummation of the potential acquisition on the market
+price of our common stock, credit ratings or operating results; significant costs associated with the potential acquisition; unknown liabilities;
+the risk of litigation and/or regulatory actions related to the potential acquisition; the demand for our products and services, including
+as a result of macroeconomic conditions; net sales growth; comparable sales; the effects of competition; our brand and reputation; implementation
+of interconnected retail, store, supply chain and technology initiatives; inventory and in-stock positions; the state of the economy;
+the state of the housing and home improvement markets; the state of the credit markets, including mortgages, home equity loans and consumer
+credit; the impact of tariffs; issues related to the payment methods we accept; demand for credit offerings; management of relationships
+with our associates, potential associates, suppliers and service providers; cost and availability of labor; costs of fuel and other energy
+sources; events that could disrupt our business, supply chain, technology infrastructure or demand for our products and services, such
+as international trade disputes, natural disasters, climate change, public health issues, cybersecurity events, geopolitical conflicts,
+military conflicts or acts of war; our ability to maintain a safe and secure store environment; our ability to address expectations regarding
+environmental, social and governance matters and meet related goals; continuation or suspension of share repurchases; net earnings performance;
+earnings per share; future dividends; capital allocation and expenditures; liquidity; return on invested capital; expense leverage; changes
+in interest rates; changes in foreign currency exchange rates; commodity or other price inflation and deflation; our ability to issue
+debt on terms and at rates acceptable to us; the impact and expected outcome of investigations, inquiries, claims and litigation, including
+compliance with related settlements; the challenges of operating in international markets; the adequacy of insurance coverage; the effect
+of accounting charges; the effect of adopting certain accounting standards; the impact of legal and regulatory changes, including changes
+to tax laws and regulations; store openings and closures; guidance for fiscal 2024 and beyond; financial outlook; and the impact of acquired
+companies on our organization and the ability to recognize the anticipated benefits of any acquisitions.
+
+Forward-looking statements are based on currently
+available information and our current assumptions, expectations and projections about future events. You should not rely on our forward-looking
+statements. These statements are not guarantees of future performance and are subject to future events, risks and uncertainties –
+many of which are beyond our control, dependent on the actions of third parties, or currently unknown to us – as well as potentially
+inaccurate assumptions that could cause actual results to differ materially from our historical experience and our expectations and projections.
+These risks and uncertainties include, but are not limited to, those described in Part I, Item 1A, "Risk Factors," and elsewhere
+in our Annual Report on Form 10-K for our fiscal year ended January 28, 2024 and also as may be described from time to time in future
+reports we file with the Securities and Exchange Commission. There also may be other factors that we cannot anticipate or that are not
+described herein, generally because we do not currently perceive them to be material. Such factors could cause results to differ materially
+from our expectations. Forward-looking statements speak only as of the date they are made, and we do not undertake to update these statements
+other than as required by law. You are advised, however, to review any further disclosures we make on related subjects in our filings
+with the Securities and Exchange Commission and in our other public statements.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+THE HOME DEPOT, INC.
+
+By:
+
+/s/ Richard V. McPhail
+
+Name:
+
+Richard V. McPhail
+
+Title:
+
+Executive Vice President and Chief Financial Officer
+
+Date: March 28, 2024

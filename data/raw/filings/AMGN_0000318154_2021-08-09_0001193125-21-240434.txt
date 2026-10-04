@@ -1,0 +1,180 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+August 9, 2021
+
+Amgen Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-37702
+
+95-3540776
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+One Amgen Center Drive
+
+Thousand Oaks
+
+California
+
+91320-1799
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code
+
+(805)
+
+447-1000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common stock, $0.0001 par value
+
+AMGN
+
+The Nasdaq Stock Market LLC
+
+1.250% Senior Notes due 2022
+
+AMGN22
+
+The Nasdaq Stock Market LLC
+
+2.000% Senior Notes due 2026
+
+AMGN26
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+On August 9, 2021, Amgen Inc. (the “Company”) issued and sold $1,250,000,000 aggregate principal amount of its 1.650% Senior Notes due 2028 (the “2028 Notes”), $1,250,000,000 aggregate principal amount of its 2.000% Senior Notes due 2032 (the “2032 Notes”), $1,150,000,000 aggregate principal amount of its 2.800% Senior Notes due 2041 (the “2041 Notes”) and $1,350,000,000 aggregate principal amount of 3.000% Senior Notes due 2052 (the “2052 Notes” and, together with the 2028 Notes, the 2032 Notes and the 2041 Notes, the “Notes”). The Notes are registered under an effective Registration Statement on Form
+S-3
+(Registration
+No. 333-236351)
+(the “Registration Statement”), filed on February 10, 2020, and were issued pursuant to an indenture, dated as of May 22, 2014 (the “Indenture”), between the Company and The Bank of New York Mellon Trust Company, N.A., as trustee, and an officer’s certificate, dated as of August 9, 2021 (the “Officer’s Certificate”), setting forth the terms of the Notes. Net proceeds to the Company from the offering were approximately $4,942,167,000, after deducting underwriters’ discounts and estimated offering expenses payable by the Company.
+
+The relevant terms of the Notes are set forth in the Indenture, included as Exhibit 4.1 of the Company’s Current Report on Form
+8-K,
+filed on May 22, 2014, and incorporated herein by reference, and the Officer’s Certificate (including the forms of the Notes) attached hereto as Exhibit 4.2 and incorporated herein by reference.
+
+The 2028 Notes will pay interest at the rate of 1.650% per annum, the 2032 Notes will pay interest at the rate of 2.000% per annum, the 2041 Notes will pay interest at the rate of 2.800% per annum and the 2052 Notes will pay interest at the rate of 3.000% per annum, which, in the case of the 2028 notes and the 2041 notes, shall be payable in cash semi-annually in arrears on February 15 and August 15 of each year, beginning on February 15, 2022, and in the case of the 2032 notes and the 2052 notes, shall be payable in cash semi-annually in arrears on January 15 and August 15 of each year, beginning on January 15, 2022. The 2028 Notes will mature on August 15, 2028, the 2032 Notes will mature on January 15, 2032, the 2041 Notes will mature on August 15, 2041 and the 2052 Notes will mature on January 15, 2052.
+
+In the event of a change in control triggering event, as defined in the Officer’s Certificate, the holders of the Notes may require the Company to purchase for cash all or a portion of their Notes at a purchase price equal to 101% of the principal amount of Notes, plus accrued and unpaid interest, if any. The descriptions of the Indenture, the Officer’s Certificate and the Notes in this report are summaries and are qualified in their entirety by the terms of the Indenture, the Officer’s Certificate and the Notes, respectively.
+
+The Notes will rank equal in right of payment to all of the Company’s other existing and future senior unsecured indebtedness, senior in right of payment to all of the Company’s existing and future subordinated indebtedness, effectively subordinated in right of payment to all of the Company’s subsidiaries’ obligations (including secured and unsecured obligations) and subordinated in right of payment to the Company’s secured obligations, to the extent of the assets securing such obligations.
+
+Item 9.01. Financial Statements and Exhibits.
+
+Exhibit No.
+
+Document Description
+
+1.1
+
+Underwriting Agreement, dated August 5, 2021, by and among the Company and Citigroup Global Markets Inc., Morgan Stanley & Co. LLC, Barclays Capital Inc. and Goldman Sachs & Co. LLC, as representatives of the several underwriters named therein.
+
+4.1
+
+Indenture, dated as of May 22, 2014, between the Company and The Bank of New York Mellon Trust Company, N.A., as trustee (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form
+8-K
+filed on May 22, 2014).
+
+4.2
+
+Officer’s Certificate of the Company, dated as of August 9, 2021, including forms of the Company’s 1.650% Senior Notes due 2028, 2.000% Senior Notes due 2032, 2.800% Senior Notes due 2041 and 3.000% Senior Notes due 2052.
+
+5.1
+
+Opinion of Latham & Watkins LLP, dated August 9, 2021.
+
+23.1
+
+Consent of Latham & Watkins LLP (included in Exhibit 5.1).
+
+104
+
+Cover Page Interactive File (the cover page tags are embedded within the Inline XBRL document).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+AMGEN INC.
+
+Date: August 9, 2021
+
+By:
+
+/s/ Justin G. Claeys
+
+Name:
+
+Justin G. Claeys
+
+Title:
+
+Vice President, Finance and Treasurer

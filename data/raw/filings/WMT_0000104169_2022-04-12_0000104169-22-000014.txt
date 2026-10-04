@@ -1,0 +1,128 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+________________________
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of Report (date of earliest event reported)
+April 12, 2022 (
+April 7, 2022
+)
+Walmart Inc.
+(Exact name of registrant as specified in its charter)
+DE
+001-06991
+71-0415188
+(State or other jurisdiction of incorporation or organization)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+702 S.W. 8th Street
+
+Bentonville
+,
+AR
+
+72716-0215
+
+(Address of Principal Executive Offices) (Zip code)
+Registrant's telephone number, including area code
+(
+479
+)
+273-4000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.10 per share
+WMT
+NYSE
+2.550% Notes Due 2026
+WMT26
+NYSE
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02.
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On April 7, 2022, John David Rainey, age 51, was appointed Executive Vice President and Chief Financial Officer of Walmart Inc. (the “Company”), effective June 6, 2022. Mr. Rainey will report to the Company’s President and Chief Executive Officer in this position.
+
+Since September 2016, Mr. Rainey has served as Chief Financial Officer and Executive Vice President, Global Customer Operations for PayPal Holdings, Inc. (“PayPal”), a technology platform that enables digital payments.
+
+From August 2015 to September 2016, Mr. Rainey was Senior Vice President, Chief Financial Officer for PayPal.
+
+From April 2012 to July 2015, Mr. Rainey was Executive Vice President and Chief Financial Officer of United Airlines Holdings, Inc. (formerly known as United Continental Holdings, Inc. and defined as “United”).
+
+Previously, Mr. Rainey served as Chief Financial Officer and Executive Vice President at United Airlines, Inc., a subsidiary of United and as Senior Vice President of Financial Planning and Analysis at United.
+
+He has also served as a member of the Board of Directors of Nasdaq, Inc. since 2017.
+
+The Company issued a press release on April 12, 2022 announcing Mr. Rainey’s appointment, a copy of which is attached as Exhibit 99.1 to this report.
+Pursuant to the terms of Mr. Rainey’s offer of employment, Mr. Rainey will receive an annual base salary of $1,000,000, subject to annual adjustment.
+
+Mr. Rainey will also be eligible for an annual cash incentive under the Company’s Management Incentive Plan (the “MIP”), based on performance criteria established by the Compensation and Management Development Committee (the “CMDC”) of the Company’s Board of Directors.
+
+For the Company’s fiscal year ending January 31, 2023 (“fiscal 2023”), Mr. Rainey’s target cash incentive under the MIP is 150% of his base salary.
+
+Mr. Rainey’s fiscal 2023 cash incentive payment will be prorated to reflect that he will be serving in his new position for a portion of fiscal 2023.
+Mr. Rainey will also be eligible to receive an annual equity award, generally consisting of a combination of performance-based restricted stock units and restricted stock.
+
+For fiscal 2023, Mr. Rainey will receive performance-based restricted stock units with a target value of $7,500,000, which provide the right to receive shares of the Company’s common stock, par value $0.10 per share, vesting on January 31, 2025 if performance goals for fiscal 2023 established by the CMDC are achieved.
+
+For fiscal 2023, Mr. Rainey will receive restricted stock valued at $1,500,000, vesting over a three-year period.
+Mr. Rainey will also receive a signing bonus of $5,000,000, payable six months after the commencement of his employment.
+
+In the event that Mr. Rainey voluntarily resigns from Walmart or is terminated for a violation of Walmart’s Code of Conduct during the three-year period following the payment of the signing bonus, the Company would be entitled to recover all or a portion of the signing bonus, depending on the timing of Mr. Rainey’s departure.
+
+Mr. Rainey will also receive an initial sign-on grant of restricted stock valued at $15,000,000, with one-half vesting one year from the grant date and one-half vesting two years from the grant date, with vesting conditioned on continued employment through the respective grant dates.
+
+Mr. Rainey will also be eligible for limited personal use of Company aircraft, and he will be eligible to participate in all employee benefit plans and programs generally available to the Company’s associates and officers, including the Company’s medical plans, the Deferred Compensation Matching Plan, the Associate Stock Purchase Plan, and the 401(k) Plan.
+
+Mr. Rainey will also be eligible to receive certain relocation benefits from the Company.
+Mr. Rainey does not have an employment contract with the Company, and his employment will be on an at-will basis.
+
+In connection with his acceptance of the Company’s offer of employment, Mr. Rainey and the Company will enter into a Post-Termination Agreement and Covenant Not to Compete (the “Non-Compete Agreement”).
+
+The Non-Compete Agreement will prohibit Mr. Rainey, for a period of period of two years following termination of employment with the Company for any reason, from participating in a business that competes with the Company.
+
+The Non-Compete Agreement will also provide that, if Mr. Rainey’s employment is terminated by the Company for any reason other than for a violation of the Company’s policies, the Company will continue to pay his base salary for up to two years following termination of employment.
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits
+99.1
+Press release dated April 12, 2022 announcing the appointment of John David Rainey as Executive Vice President and Chief Financial Officer of the Company.
+104
+Cover Page Interactive Data File (formatted as Inline XBRL).
+1
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated: April 12, 2022
+WALMART INC.
+By:
+/s/ Gordon Y. Allison
+Name:
+Gordon Y. Allison
+Title:
+Senior Vice President, Office of the Corporate Secretary, and Chief Counsel for Finance and Governance
+2

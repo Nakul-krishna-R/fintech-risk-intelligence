@@ -1,0 +1,110 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of report (Date of earliest event reported):
+April 11, 2022
+
+PFIZER INC
+.
+(Exact name of registrant as specified in its charter)
+Delaware
+1-3619
+13-5315170
+(State or other
+(Commission File
+(I.R.S. Employer
+jurisdiction of
+Number)
+Identification No.)
+incorporation)
+
+235 East 42nd Street
+10017
+New York,
+
+New York
+
+(Zip Code)
+(Address of principal executive offices)
+Registrant’s telephone number, including area code:
+(
+212
+)
+733-2323
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2 (b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $.05 par value
+PFE
+New York Stock Exchange
+1.000% Notes due 2027
+PFE27
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 5.02
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers
+On April 11, 2022, Pfizer Inc. (the “Company”) announced that the Board of Directors of the Company elected David M. Denton as Chief Financial Officer, Executive Vice President of the Company and appointed Mr. Denton as a member of the Company's Executive Leadership Team, effective May 2, 2022 (the “Effective Date”).
+Prior to joining the Company, Mr. Denton, 56, served as Executive Vice President, Chief Financial Officer of Lowe’s Companies, Inc. Mr. Denton joined Lowe’s in 2018. Mr. Denton has more than 25 years of finance and operational expertise, including more than 20 years in the healthcare sector. Prior to joining Lowe's in 2018, Mr. Denton served as Executive Vice President and Chief Financial Officer of CVS Health since 2010, where he was responsible for all aspects of their financial planning and management. He joined CVS Corporation in 1999 and held various managerial roles throughout the company, including serving as its Senior Vice President and Controller/Chief Accounting Officer and as Chief Financial Officer and Controller for PharmaCare, CVS Corporation’s legacy pharmacy benefit management subsidiary. Prior to CVS, he was with the management consulting firm of Deloitte Touche Tohmatsu. Mr. Denton holds a Bachelor of Science degree in Business Administration from Kansas State University and an MBA from Wake Forest University. He serves on the board of Tapestry, Inc.
+In connection with Mr. Denton’s election, the Compensation Committee of the Board of Directors of the Company approved the following compensation arrangements for Mr. Denton as of the Effective Date: (1) an annual base salary of $1,250,000; and (2) an annual target cash incentive opportunity of $1,250,000, which represents 100% of his annual base salary, although for 2022 the amount will be pro-rated for the portion of the year worked.
+
+Additionally, in order to replace certain compensation and benefits that are expected to be forfeited by Mr. Denton due to his resignation from Lowe’s, the Company will provide him with: (1) a one-time cash payment of $5,000,000, payable within 30 days of the Effective Date, which is to be repaid to the Company in the event of Mr. Denton’s voluntarily resignation prior to the one-year anniversary of the Effective Date; (2) an equity grant of restricted stock units (“RSUs”) with a value equal to $3,250,000 (determined as of the date of grant which will be the last trading day of the month he commences work which is expected to be May 31, 2022); and (3) a credit under the Pfizer Supplemental Savings Plan (“Supplemental Plan”) in the amount of $9,750,000. The RSU grant will vest 50% on each of the first and second anniversary of the grant date and the credit to the Supplemental Plan will vest 50% on each of April 1, 2023 and April 1, 2024. The RSU grant and credit to the Supplemental Plan will each be subject to the respective plan’s terms and conditions and will both fully vest in the event of Mr. Denton’s termination due to death, disability or involuntary termination without Cause (as such term is defined in the Executive Severance Plan).
+As previously reported by the Company in a Current Report on Form 8-K filed with the Securities and Exchange Commission on November 19, 2021, the Company announced that Frank D’Amelio will be leaving his position as Chief Financial Officer and Executive Vice President after a nearly 15-year distinguished career with the Company and that Mr. D’Amelio would
+continue to serve as CFO until
+the appointment of a new chief financial officer, and will stay on as a special advisor until as late as December 31, 2022 in order to ensure a smooth transition of his CFO responsibilities.
+The related press release is filed herewith as Exhibit 99.1 and is incorporated herein by reference.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+Exhibit Number
+Exhibit Description
+99.1
+Press Release of Pfizer Inc. dated April 11, 2022
+104
+Cover Page Interactive Data File--the cover page XBRL tags are embedded within the Inline XBRL document.
+EXHIBIT INDEX
+Exhibit No.
+Description
+99.1
+Press Release of Pfizer Inc. dated April 11, 2022
+104
+Cover Page Interactive Data File--the cover page XBRL tags are embedded within the Inline XBRL document.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+PFIZER INC.
+
+By:
+/s/ Margaret M. Madden
+
+Margaret M. Madden
+
+Senior Vice President and Corporate Secretary
+
+Chief Governance Counsel
+
+Dated: April 12, 2022

@@ -1,0 +1,259 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+January 24, 2023
+
+VISA INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+Delaware
+
+001-33977
+
+26-0267673
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+Identification No.)
+
+P.O. Box 8999
+
+San Francisco,
+California
+
+94128-8999
+(Address of Principal Executive Offices)
+(Zip Code)
+Registrant’s Telephone Number, Including Area Code: (
+650
+)
+432-3200
+
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Class A Common Stock, par value $0.0001 per share
+V
+New York Stock Exchange
+1.500% Senior Notes due 2026
+V26
+New York Stock Exchange
+2.000% Senior Notes due 2029
+V29
+New York Stock Exchange
+2.375% Senior Notes due 2034
+V34
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.07
+
+Submission of Matters to a Vote of Security Holders.
+The 2023 Annual Meeting of Stockholders of Visa Inc. (the "Company") was held on January 24, 2023, and the Company’s Class A common stockholders voted on five proposals that are described in detail in the Company's definitive proxy statement, dated December 1, 2022. Set forth below are the matters the stockholders voted on and the final voting results.
+Proposal 1:
+Election of ten director nominees:
+Nominee
+Votes For
+% For
+Votes Against
+% Against
+Abstentions
+Broker Non-Votes
+Lloyd A. Carney
+1,173,849,753
+93.9
+%
+73,267,710
+5.9
+%
+2,344,841
+135,823,973
+Kermit R. Crawford
+1,243,509,987
+99.5
+%
+4,716,367
+0.4
+%
+1,235,950
+135,823,973
+Francisco Javier Fernández-Carbajal
+1,216,681,658
+97.4
+%
+31,709,059
+2.5
+%
+1,071,587
+135,823,973
+Alfred F. Kelly, Jr.
+1,210,372,657
+96.9
+%
+38,021,962
+3.0
+%
+1,067,685
+135,823,973
+Ramon Laguarta
+1,234,875,423
+98.8
+%
+13,499,973
+1.1
+%
+1,086,908
+135,823,973
+Teri L. List
+1,234,667,163
+98.8
+%
+13,788,710
+1.1
+%
+1,006,431
+135,823,973
+John F. Lundgren
+1,229,224,445
+98.4
+%
+19,182,400
+1.5
+%
+1,055,459
+135,823,973
+Denise M. Morrison
+1,217,665,850
+97.5
+%
+30,651,781
+2.5
+%
+1,144,673
+135,823,973
+Linda J. Rendle
+1,238,761,234
+99.1
+%
+9,706,915
+0.8
+%
+994,155
+135,823,973
+Maynard G. Webb, Jr.
+1,212,586,541
+97.0
+%
+28,276,346
+2.3
+%
+8,599,417
+135,823,973
+Each of the ten nominees was elected to the Company's Board of Directors, each to hold office until the next annual meeting of stockholders and until his or her successor has been duly elected or until his or her earlier resignation or removal.
+Proposal 2:
+Approval, on an advisory basis, of the compensation paid to our named executive officers:
+Votes For:
+1,120,862,119
+89.7
+%
+Votes Against:
+119,640,078
+9.6
+%
+Abstentions:
+8,960,107
+0.7
+%
+Broker Non-Votes:
+135,823,973
+The proposal was approved.
+Proposal 3:
+Advisory vote on the frequency of future advisory votes to approve executive compensation:
+One Year:
+1,237,711,436
+99.2
+%
+Two Years:
+1,476,518
+0.1
+%
+Three Years:
+8,754,461
+0.7
+%
+Abstentions:
+1,519,889
+Based on the results of this advisory vote, and consistent with the Board’s recommendation, the Board has determined to hold an advisory vote on executive compensation every year until the next required advisory vote on the frequency of future advisory votes on executive compensation.
+Proposal 4:
+Ratification of the appointment of KPMG LLP as the Company’s independent registered public accounting firm for the 2023 fiscal year:
+Votes For:
+1,363,161,311
+98.4
+%
+Votes Against:
+20,871,134
+1.5
+%
+Abstentions:
+1,253,832
+0.1
+%
+The appointment was ratified.
+Proposal 5:
+Stockholder proposal requesting an independent board chair policy:
+Votes For:
+217,632,303
+17.4
+%
+Votes Against:
+945,671,501
+75.7
+%
+Abstentions:
+86,158,500
+6.9
+%
+Broker Non-Votes:
+135,823,973
+The proposal was not approved.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VISA INC.
+
+Date:
+January 25, 2023
+
+By:
+
+/s/ Kelly Mahon Tullier
+
+Kelly Mahon Tullier
+Vice Chair, Chief People and Administrative Officer, and Corporate Secretary

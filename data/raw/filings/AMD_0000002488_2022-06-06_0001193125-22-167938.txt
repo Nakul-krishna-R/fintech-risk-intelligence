@@ -1,0 +1,186 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K/A
+
+(Amendment No. 2)
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+February 14, 2022
+
+Date of Report (Date of earliest event reported)
+
+ADVANCED MICRO DEVICES, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-07882
+
+94-1692300
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification Number)
+
+2485 Augustine Drive
+
+Santa Clara
+,
+California
+
+95054
+
+(Address of principal executive offices) (Zip Code)
+
+(408)
+
+749-4000
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.01 par value
+
+AMD
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 2.01
+
+Completion of Acquisition or Disposition of Assets
+
+As previously reported, on February 14, 2022, Advanced Micro Devices, Inc. (“AMD” or the “Company”) completed the previously announced acquisition of Xilinx, Inc. (“Xilinx”) pursuant to the Agreement and Plan of Merger, dated October 26, 2020 (the “Merger Agreement”), by and among AMD, Thrones Merger Sub, Inc., a wholly owned subsidiary of AMD (“Merger Sub”), and Xilinx. Under the Merger Agreement, Merger Sub merged with and into Xilinx (the “Merger”), with Xilinx surviving such Merger as a wholly owned subsidiary of AMD. The Merger became effective on February 14, 2022 upon the filing of the Certificate of Merger with the Secretary of State of the State of Delaware.
+
+This Amendment No. 2 to Current Report on Form
+8-K/A
+(“Amendment No. 2”) is filed to amend the Current Report on Form
+8-K
+filed with the Securities and Exchange Commission (the “SEC”) by AMD on February 14, 2022 (the “Initial Report”), as amended by the Current Report on
+Form 8-K/A
+filed with the SEC by AMD on April 27, 2022 (“Amendment No. 1”), to include certain pro forma financial information required by Item 9.01(b) of Form
+8-K.
+
+This Amendment No. 2 reflects an update to the fiscal 2021 unaudited pro forma condensed combined statement of operations to reflect the change in the Company’s method of accounting for the United States Global Intangible
+Low-Taxed
+Income (“GILTI”) tax adopted by AMD in its first fiscal 2022 quarter ended March 26, 2022 as disclosed in the Company’s Form
+10-Q
+filed on May 4, 2022. In addition, this Amendment No. 2 includes the unaudited pro forma condensed combined statement of operations for the Company’s first fiscal 2022 quarter ended March 26, 2022.
+
+The pro forma financial information included in this Amendment No. 2 has been presented for informational purposes only. It does not purport to represent the actual results of operations that AMD and Xilinx would have achieved had the companies been combined during the periods presented in the pro forma financial information and is not intended to project the future results of operations that the combined company may achieve after the consummation of the Merger. Except as described above, all other information in the Initial Report and Amendment No. 1 remains unchanged and is incorporated by reference herein.
+
+Item 9.01
+
+Financial Statements and Exhibits
+
+(b) Pro Forma Financial Information
+
+The Company’s unaudited pro forma condensed combined statements of operations for the quarter ended March 26, 2022 and the year ended December 25, 2021, together with the notes related thereto, are filed as Exhibit 99.1 to this Amendment No. 2 and incorporated by reference herein.
+
+(d) Exhibits
+
+Exhibit
+Number
+
+Description
+
+99.1
+
+The unaudited pro forma condensed combined financial information for the quarter ended March 26, 2022 and the year ended December 25, 2021, giving effect to the Merger, including the unaudited pro forma condensed combined statements of operations for the quarter ended March 26, 2022 and the year ended December 25, 2021
+
+104
+
+Cover Page Interactive Data File (the Cover Page XBRL tags are embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: June 6, 2022
+
+ADVANCED MICRO DEVICES, INC.
+
+By:
+
+/s/ Devinder Kumar
+
+Name:
+
+Devinder Kumar
+
+Executive Vice President, Chief Financial Officer and Treasurer

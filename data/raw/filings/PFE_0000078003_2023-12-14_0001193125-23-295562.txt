@@ -1,0 +1,218 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K/A
+
+(Amendment No. 1)
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of report (Date of earliest event reported):
+December 14, 2023
+
+PFIZER INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+1-3619
+
+13-5315170
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+66 Hudson Boulevard East
+
+10001-2192
+
+New York
+,
+New York
+
+(Zip Code)
+
+(Address of principal executive offices)
+
+Registrant’s telephone number, including area code:
+
+(212)
+
+733-2323
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2
+(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.05 par value
+
+PFE
+
+New York Stock Exchange
+
+1.000% Notes due 2027
+
+PFE27
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+EXPLANATORY NOTE
+
+On December 14, 2023, Pfizer Inc. filed a Current Report on Form 8-K with Items 2.01, 7.01 and 9.01 (the “
+Original Report
+”). Due to a clerical error, the submission header coding in the Original Report inadvertently referred to Item 2.02 on EDGAR and not to Item 2.01. This Amendment No. 1 on Form 8-K/A is being filed for the sole purpose of correcting the submission header coding to refer to Items 2.01, 7.01 and 9.01. All disclosures contained in the Original Report remain unchanged.
+
+Item 2.01
+
+Completion of Acquisition or Disposition of Assets.
+
+Pursuant to an Agreement and Plan of Merger (the “
+Merger Agreement
+”), dated as of March 12, 2023, by and among Pfizer Inc., a Delaware corporation (“
+Pfizer
+”), Aris Merger Sub, Inc., a Delaware corporation and wholly owned subsidiary of Pfizer (“
+Merger Sub
+”), and Seagen Inc., a Delaware corporation (“
+Seagen
+”), Merger Sub was merged with and into Seagen (the “
+Merger
+”), with Seagen surviving the Merger as a wholly owned subsidiary of Pfizer. The Merger became effective on December 14, 2023 (the “
+Effective Time
+”).
+
+At the Effective Time, each issued and outstanding share of Seagen common stock, par value $0.001 per share (the “
+Seagen Shares
+”), was converted into the right to receive (without interest) $229.00 in cash (the “
+Merger Consideration
+”), subject to limited exceptions set forth in the Merger Agreement, and each outstanding Seagen equity award was either converted into the right to receive the Merger Consideration for each share of Seagen common stock underlying such awards (based on the achievement of any applicable performance metrics as set forth in the Merger Agreement), less applicable tax withholdings, or converted into a Pfizer cash-based award otherwise remaining subject to substantially the same terms and conditions applicable to such Seagen equity award immediately prior to the effective time of the Merger, in each case subject to the terms and conditions of the Merger Agreement.
+
+The foregoing description of the Merger Agreement and the transactions contemplated thereby does not purport to be complete and is qualified in its entirety by reference to the Merger Agreement, a copy of which was filed as Exhibit 2.1 to Pfizer’s Current Report on Form
+8-K
+filed with the U.S. Securities and Exchange Commission on March 13, 2023, and is incorporated by reference into this Item 2.01.
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On December 14, 2023, Pfizer issued a press release announcing the successful completion of the Merger. A copy of the press release is furnished as Exhibit 99.1 hereto and is incorporated by reference into this Item 7.01.
+
+The information contained in this Item 7.01 and Exhibit 99.1 hereto shall not be deemed to be “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “
+Exchange Act
+”), or otherwise subject to the liabilities of such section, nor will such information be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as may be expressly set forth by specific reference in such filing.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit
+
+Description
+
+2.1
+
+Agreement and Plan of Merger, by and among Pfizer Inc., Aris Merger Sub, Inc. and Seagen Inc., dated as of March 12, 2023 (incorporated by reference from Pfizer Inc.’s Current Report on Form
+8-K
+filed with the U.S. Securities and Exchange Commission on March 13, 2023)*
+
+99.1
+
+Press Release, dated December 14, 2023.
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+*
+
+Certain schedules have been omitted pursuant to Item 601(a)(5) of Regulation
+S-K.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+PFIZER INC.
+
+By:
+
+/s/ Margaret M. Madden
+
+Margaret M. Madden
+
+Senior Vice President and Corporate Secretary, Chief Governance Counsel
+
+Dated: December 14, 2023

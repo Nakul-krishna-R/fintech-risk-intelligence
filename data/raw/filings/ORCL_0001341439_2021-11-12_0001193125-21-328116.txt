@@ -1,0 +1,332 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+November 10, 2021
+
+Oracle Corporation
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-35992
+
+54-2185193
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+2300 Oracle Way
+,
+Austin
+,
+Texas
+
+78741
+
+(Address of principal executive offices) (Zip Code)
+
+(737)
+
+867-1000
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock, par value $0.01 per share
+
+ORCL
+
+New York Stock Exchange
+
+3.125% senior notes due July 2025
+
+ORCL
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Section 5—Corporate Governance and Management
+
+Item 5.02
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers
+
+On November 10, 2021, at the 2021 Annual Meeting of Stockholders (the “Annual Meeting”) of Oracle Corporation (“Oracle”), Oracle’s stockholders approved an amendment to the Oracle Corporation 2020 Equity Incentive Plan (the “2020 Equity Plan”) to increase the number of shares of common stock reserved for issuance under the 2020 Equity Plan by 300,000,000 shares. Oracle’s Board of Directors (the “Board”) approved the amendment of the 2020 Equity Plan, subject to stockholder approval, on August 4, 2021.
+
+The foregoing description of the 2020 Equity Plan is qualified in its entirety by reference to the 2020 Equity Plan, as amended, which is filed as Exhibit 10.16 to this report. A more complete description of the terms of the 2020 Equity Plan can be found in “Proposal No. 3—Approval of an Amendment to the Oracle Corporation 2020 Equity Incentive Plan” on pages 67 to 75 of Oracle’s definitive proxy statement filed with the U.S. Securities and Exchange Commission on September 24, 2021 (the “2021 Proxy Statement”), which description is incorporated by reference herein.
+
+Item 5.07
+
+Submission of Matters to a Vote of Security Holders
+
+Below is a brief description of each matter submitted to a vote at the Annual Meeting, as well as the number of votes cast for and against and the number of abstentions and broker
+non-votes
+with respect to each matter. For more information about these proposals, please refer to Oracle’s 2021 Proxy Statement.
+
+Proposal No.
+1: Election of Directors
+
+The stockholders elected each of the following persons as a director to hold office until the 2022 Annual Meeting of Stockholders and until his or her successor is elected and qualified, or until his or her earlier resignation or removal.
+
+Director Nominee
+
+Votes For
+
+Votes Withheld
+
+Broker Non-Votes
+
+Jeffrey S. Berg
+
+1,659,795,425
+
+602,905,592
+
+241,951,091
+
+Michael J. Boskin
+
+2,110,985,174
+
+151,715,843
+
+241,951,091
+
+Safra A. Catz
+
+2,162,731,887
+
+99,969,130
+
+241,951,091
+
+Bruce R. Chizen
+
+1,815,515,240
+
+447,185,777
+
+241,951,091
+
+George H. Conrades
+
+1,460,702,785
+
+801,998,232
+
+241,951,091
+
+Lawrence J. Ellison
+
+2,163,114,596
+
+99,586,421
+
+241,951,091
+
+Rona A. Fairhead
+
+2,224,874,586
+
+37,826,431
+
+241,951,091
+
+Jeffrey O. Henley
+
+2,175,596,476
+
+87,104,541
+
+241,951,091
+
+Renée J. James
+
+2,195,024,169
+
+67,676,848
+
+241,951,091
+
+Charles W. Moorman IV
+
+1,565,169,470
+
+697,531,547
+
+241,951,091
+
+Leon E. Panetta
+
+1,474,712,503
+
+787,988,514
+
+241,951,091
+
+William G. Parrett
+
+1,908,379,449
+
+354,321,568
+
+241,951,091
+
+Naomi O. Seligman
+
+1,529,860,334
+
+732,840,683
+
+241,951,091
+
+Vishal Sikka
+
+2,122,816,004
+
+139,885,013
+
+241,951,091
+
+Proposal No.
+2: Advisory Vote to Approve the Compensation of Oracle’s Named Executive Officers
+
+The stockholders cast an advisory vote approving the compensation of Oracle’s named executive officers as follows: 1,358,928,813 shares in favor, 900,029,544 shares against, 3,742,660 shares abstaining and 241,951,091 broker
+non-votes.
+
+Proposal No.
+3: Approval of an Amendment to the Oracle Corporation 2020 Equity Incentive Plan
+
+The stockholders approved an amendment to the 2020 Equity Plan with 1,762,377,240 shares in favor, 494,314,379 shares against, 6,009,398 shares abstaining and 241,951,091 broker
+non-votes.
+
+Proposal No.
+4: Ratification of Selection of Independent Registered Public Accounting Firm
+
+The stockholders ratified the appointment of Ernst & Young LLP as Oracle’s independent registered public accounting firm for the fiscal year ending May 31, 2022, with 2,467,952,666 shares in favor, 34,066,688 shares against and 2,632,754 shares abstaining.
+
+Proposal No.
+5: Stockholder Proposal Regarding Racial Equity Audit
+
+The stockholders did not approve a stockholder proposal requesting that Oracle’s Board oversee a racial equity audit analyzing Oracle’s impacts on
+non-white
+stakeholders and communities of color, with 715,611,230 shares in favor, 1,536,754,357 shares against, 10,335,430 shares abstaining and 241,951,091 broker
+non-votes.
+
+Proposal No.
+6: Stockholder Proposal Regarding Independent Board Chair
+
+The stockholders did not approve a stockholder proposal requesting that Oracle’s Board adopt a policy requiring the Chair of the Board, whenever possible, to be an independent member of the Board, with 803,808,786 shares in favor, 1,455,613,840 shares against, 3,278,391 shares abstaining and 241,951,091 broker
+non-votes.
+
+Proposal No.
+7: Stockholder Proposal Regarding Political Spending
+
+The stockholders did not approve a stockholder proposal requesting that Oracle adopt a policy requiring any organization which engages in political activities that receives financial support from Oracle to report, at least annually, the organization’s expenditures for political activities, with 120,648,279 shares in favor, 2,126,557,352 shares against, 15,495,386 shares abstaining and 241,951,091 broker
+non-votes.
+
+Section 9—Financial Statements and Exhibits
+
+Item 9.01
+
+Financial Statements and Exhibits
+
+(d) Exhibits
+
+Exhibit
+No.
+
+Description
+
+10.16
+
+Oracle Corporation Amended and Restated 2020 Equity Incentive Plan (as approved by the stockholders on November 10, 2021)
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ORACLE CORPORATION
+
+Dated: November 12, 2021
+
+By:
+
+/s/ Brian S. Higgins
+
+Name:
+
+Brian S. Higgins
+
+Title:
+
+Senior Vice President, Associate General Counsel and Secretary

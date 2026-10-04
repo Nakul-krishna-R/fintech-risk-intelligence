@@ -1,0 +1,209 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+______________
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+June 26, 2024
+
+NVIDIA CORP
+ORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+0-23985
+94-3177549
+(State or other jurisdiction
+(Commission
+(IRS Employer
+of incorporation)
+File Number)
+Identification No.)
+2788 San Tomas Expressway
+,
+Santa Clara
+,
+CA
+
+95051
+
+(Address of principal executive offices) (Zip Code)
+Registrant’s telephone number, including area code:
+(
+408
+)
+486-2000
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.001 par value per share
+NVDA
+The Nasdaq Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging Growth Company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+On June 26, 2024, at the 2024 Annual Meeting of Stockholders of NVIDIA Corporation, or the 2024 Annual Meeting, the following proposals were adopted by the margin indicated. The record date for the 2024 Annual Meeting was April 29, 2024, which preceded the date of our ten-for-one forward stock split effected on June 7, 2024, and therefore the final voting results reported below are on a pre-stock split basis.
+1. Stockholders approved the election of each of our twelve (12) director nominees to hold office until the 2025 Annual Meeting of Stockholders of NVIDIA Corporation and until his or her successor is elected or appointed. The results of the voting were as follows:
+a. Robert K. Burgess
+Number of shares For
+1,599,856,381
+Number of shares Against
+53,876,854
+Number of shares Abstaining
+2,656,440
+Number of Broker Non-Votes
+293,416,473
+b. Tench Coxe
+Number of shares For
+1,527,721,849
+Number of shares Against
+126,000,023
+Number of shares Abstaining
+2,667,803
+Number of Broker Non-Votes
+293,416,473
+c. John O. Dabiri
+Number of shares For
+1,637,066,126
+Number of shares Against
+16,466,076
+Number of shares Abstaining
+2,857,473
+Number of Broker Non-Votes
+293,416,473
+d. Persis S. Drell
+Number of shares For
+1,605,895,970
+Number of shares Against
+47,832,005
+Number of shares Abstaining
+2,661,700
+Number of Broker Non-Votes
+293,416,473
+e. Jen-Hsun Huang
+Number of shares For
+1,631,633,636
+Number of shares Against
+22,473,582
+Number of shares Abstaining
+2,282,457
+Number of Broker Non-Votes
+293,416,473
+f. Dawn Hudson
+Number of shares For
+1,603,616,438
+Number of shares Against
+50,087,714
+Number of shares Abstaining
+2,685,523
+Number of Broker Non-Votes
+293,416,473
+g. Harvey C. Jones
+Number of shares For
+1,491,812,333
+Number of shares Against
+161,876,590
+Number of shares Abstaining
+2,700,752
+Number of Broker Non-Votes
+293,416,473
+h. Melissa B. Lora
+Number of shares For
+1,652,017,772
+Number of shares Against
+1,577,647
+Number of shares Abstaining
+2,794,256
+Number of Broker Non-Votes
+293,416,473
+i. Stephen C. Neal
+Number of shares For
+1,557,130,163
+Number of shares Against
+96,431,434
+Number of shares Abstaining
+2,828,078
+Number of Broker Non-Votes
+293,416,473
+j. A. Brooke Seawell
+Number of shares For
+1,513,081,313
+Number of shares Against
+140,288,480
+Number of shares Abstaining
+3,019,882
+Number of Broker Non-Votes
+293,416,473
+k. Aarti Shah
+Number of shares For
+1,525,607,990
+Number of shares Against
+127,858,107
+Number of shares Abstaining
+2,923,578
+Number of Broker Non-Votes
+293,416,473
+l. Mark A. Stevens
+Number of shares For
+1,558,109,486
+Number of shares Against
+95,535,352
+Number of shares Abstaining
+2,744,837
+Number of Broker Non-Votes
+293,416,473
+2. Stockholders approved, on an advisory basis, the compensation of our named executive officers as disclosed in our definitive proxy statement for the 2024 Annual Meeting filed with the Securities and Exchange Commission on May 14, 2024. The results of the voting were as follows:
+Number of shares For
+1,527,356,698
+Number of shares Against
+121,555,544
+Number of shares Abstaining
+7,477,433
+Number of Broker Non-Votes
+293,416,473
+3. Stockholders approved the ratification of the selection of PricewaterhouseCoopers LLP as our independent registered accounting firm for our fiscal year ending January 26, 2025. The results of the voting were as follows:
+Number of shares For
+1,879,767,350
+Number of shares Against
+67,627,481
+Number of shares Abstaining
+2,411,317
+Number of Broker Non-Votes
+—
+4. Stockholders approved, on an advisory basis, a stockholder proposal to replace the supermajority voting provisions in our charter and bylaws with a simple majority voting standard. The results of the voting were as follows:*
+Number of shares For
+1,466,504,471
+Number of shares Against
+143,103,694
+Number of shares Abstaining
+40,088,907
+Number of Broker Non-Votes
+293,416,473
+* In addition, there were 6,692,603 shares present, represented by proxy and entitled to vote on this proposal for which no voting directions were indicated. As our Board of Directors elected to make no recommendation with respect to this proposal, the proxyholders did not vote these shares on this proposal.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+NVIDIA Corporation
+Date: July 2, 2024
+By: /s/ Rebecca Peters
+Rebecca Peters
+Vice President, Deputy General Counsel and Assistant Secretary

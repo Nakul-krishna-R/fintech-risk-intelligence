@@ -1,0 +1,112 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+_________________________
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (date of earliest event reported): December 18, 2023 (
+December 17, 2023
+)
+ADOBE INC.
+
+(Exact name of Registrant as specified in its charter)
+Delaware
+0-15175
+77-0019522
+(State or other jurisdiction of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+345 Park Avenue
+San Jose
+,
+California
+
+95110-2704
+(Address of principal executive offices and zip code)
+Registrant’s telephone number, including area code:
+(
+408
+)
+536-6000
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol
+Name of Each Exchange on Which Registered
+Common Stock, $0.0001 par value per share
+ADBE
+NASDAQ Global Select Market
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 1.01.
+
+Entry Into a Material Definitive Agreement.
+The disclosure set forth below under Item 1.02 of this Current Report on Form 8-K is incorporated by reference herein.
+Item 1.02.
+
+Termination of a Material Definitive Agreement.
+As previously disclosed, on September 15, 2022, Adobe Inc. (the “Company”) entered into an Agreement and Plan of Merger (the “Merger Agreement”) by and among the Company, Saratoga Merger Sub I, Inc., a Delaware corporation and wholly owned subsidiary of the Company (“Merger Sub I”), Saratoga Merger Sub II, LLC, a Delaware limited liability company and wholly owned subsidiary of the Company (“Merger Sub II”), Figma, Inc., a Delaware corporation (“Figma”), and Fortis Advisors LLC, a Delaware limited liability company, in its capacity as the representative of the Figma stockholders, pursuant to which the Company agreed to acquire Figma on the terms and subject to the conditions therein.
+
+On December 17, 2023, the Company and Figma mutually agreed to terminate the Merger Agreement and entered into a mutual termination agreement effective as of such date (the “Termination Agreement”).
+
+The mutual termination of the Merger Agreement was approved by the Company’s and Figma’s respective Boards of Directors.
+
+In accordance with the terms of the Termination Agreement, the Company will make a cash payment to Figma in the previously agreed amount of one billion dollars ($1,000,000,000) (the “Termination Fee”) within three business days following the date thereof. The Termination Fee is the sole and exclusive remedy under the Merger Agreement, and the Company and Figma have each waived any and all other claims in connection with the Merger Agreement and the transactions contemplated thereby.
+The foregoing description of the Merger Agreement and the Termination Agreement does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Merger Agreement, which was previously filed as Exhibit 2.1 to our Current Report on Form 8‐K on September 15, 2022, and the full text of the Termination Agreement, which is attached hereto as Exhibit 10.1 and incorporated by reference herein.
+Item 8.01.
+
+Other Information.
+On December 18, 2023, the Company and Figma issued a joint press release announcing the mutual termination of the Merger Agreement.
+
+A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated by reference herein.
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits
+
+Incorporated by Reference
+Exhibit
+Number
+Exhibit Description
+Form
+Filing Date
+Exhibit Number
+SEC File No.
+Filed
+Herewith
+10.1*
+Termination Agreement, dated as of December 17, 2023, by and among Adobe Inc., Saratoga Merger Sub I, Inc., Saratoga Merger Sub II, LLC and Figma, Inc.
+X
+99.1
+Joint Press Release, dated December 18, 2023.
+X
+104
+Cover Page Interactive Data File. (Embedded within the Inline XBRL Document)
+*Certain exhibits have been omitted pursuant to Item 601(a)(5) of Regulation S-K promulgated by the United States Securities and Exchange Commission (the “SEC”). The Company agrees to furnish supplementally a copy of any omitted exhibit to the SEC upon request.
+2
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ADOBE INC.
+
+By:
+/s/ DANA RAO
+
+Dana Rao
+
+Executive Vice President, General Counsel & Corporate Secretary
+Date: December 18, 2023
+3

@@ -1,0 +1,319 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+
+May 3, 2024
+
+Exxon Mobil
+Corporation
+
+(Exact name of registrant as specified in its
+charter)
+
+New Jersey
+
+001-2256
+
+13-5409005
+
+(State or other jurisdiction
+
+(Commission
+
+(IRS Employer
+
+of incorporation)
+
+File Number)
+
+Identification No.)
+
+22777 Springwoods
+Village Parkway
+,
+
+Spring
+,
+Texas
+
+77389-1425
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(
+972
+)
+940-6000
+
+(Registrant’s telephone number, including
+area code)
+
+Not Applicable
+
+(Former name or former address, if changed since
+last report)
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+Written communications pursuant
+to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant
+to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications
+pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications
+pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+
+Trading
+
+Symbol(s)
+
+Name of Each Exchange
+
+on Which Registered
+
+Common Stock, without par value
+
+XOM
+
+New York Stock Exchange
+
+0.142% Notes due 2024
+
+XOM24B
+
+New York Stock Exchange
+
+0.524% Notes due 2028
+
+XOM28
+
+New York Stock Exchange
+
+0.835% Notes due 2032
+
+XOM32
+
+New York Stock Exchange
+
+1.408% Notes due 2039
+
+XOM39A
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section 13(a) of the Exchange Act.
+☐
+
+Item 2.01.
+
+Completion of Acquisition or Disposition of Assets.
+
+On May 3, 2024, Exxon Mobil Corporation, a New Jersey corporation (the
+“
+Company
+”), consummated the previously announced acquisition of Pioneer Natural Resources Company, a Delaware corporation
+(“
+Pioneer
+”), pursuant to the Agreement and Plan of Merger (the “
+Merger Agreement
+”) dated as of October
+10, 2023, among the Company, Pioneer and SPQR, LLC, a wholly owned subsidiary of the Company and a Delaware limited liability company
+(“
+Merger Sub
+”). Pursuant to the Merger Agreement, at the effective time of the Merger, Merger Sub merged with and into
+Pioneer, with Pioneer continuing as the surviving corporation and a wholly owned subsidiary of the Company (the “
+Merger
+”).
+
+At the effective time and as a result of the Merger, each share of
+common stock, par value $0.01 per share, of Pioneer (“
+Pioneer common stock
+”), outstanding immediately prior to the
+effective time of the Merger, other than certain excluded shares held by Pioneer as treasury stock or owned by the Company or Merger Sub,
+was canceled and automatically converted into the right to receive 2.3234 shares of common stock, without par value, of the Company (“
+Company
+common stock
+”), together with cash proceeds from the sale of fractional shares (the “
+Merger Consideration
+”).
+
+At the effective time of the Merger, each Pioneer restricted stock
+unit (each, a “
+Pioneer RSU
+”) (whether vested or unvested, other than those granted on or after October 10, 2023 that
+remained unvested as of immediately prior to the effective time of the Merger), each Pioneer restricted stock unit issued by Pioneer to
+a non-employee member of the Pioneer board of directors (each, a “
+Pioneer DSU
+”) (whether vested or unvested) and each
+Pioneer performance stock unit (each, a “
+Pioneer Performance Unit
+”) (whether vested or unvested) outstanding as of
+immediately prior to the effective time of the Merger was, without any action on the part of the Company, Merger Sub, Pioneer or the holder
+thereof, canceled and converted into the right to receive the Merger Consideration in respect of the total number of shares of Pioneer
+common stock subject to each respective Pioneer RSU, Pioneer DSU and Pioneer Performance Unit (with the number of shares of Pioneer common
+stock subject to each Pioneer Performance Unit determined based on the maximum level of performance), subject to applicable tax withholding.
+Additionally, each share of restricted Pioneer common stock outstanding as of immediately prior to the effective time of the Merger became
+fully vested, Pioneer withheld a number of such shares necessary to satisfy any tax withholding, and the remainder of such shares was
+converted into the right to receive the Merger Consideration. Each Pioneer RSU granted on or after October 10, 2023 that was outstanding
+and remained unvested as of immediately prior to the effective time was converted into a number of Company restricted stock units equal
+to the Merger Consideration, multiplied by the total number of shares of Pioneer common stock subject to such Pioneer RSU.
+
+The foregoing description of the Merger Agreement does not purport
+to be complete and is qualified in its entirety by reference to the Merger Agreement, which is attached hereto as Exhibit 2.1 and is incorporated
+herein by reference.
+
+Item 5.02.
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+In connection with the Merger Agreement, the Company increased the
+size of the Company’s Board of Directors by one member and appointed Maria S. Dreyfus to the Company’s Board of Directors
+as a new non-employee director of the Company effective May 3, 2024. Ms. Dreyfus will not be included with the Company’s nominees
+for election by shareholders at the Company’s annual meeting of shareholders on May 29, 2024, but will be reappointed by the Company’s
+Board of Directors immediately thereafter for a full term. In accordance with the FTC consent order in connection with the Merger, Scott
+D. Sheffield will not join the Company’s Board of Directors.
+
+Initial Board Committee assignments for Ms. Dreyfus have not been determined
+at the time of this filing. This filing will be amended to include that information when available. The Company is not aware of any relationships
+or transactions in which Ms. Dreyfus has or will have an interest, or was or is a party, requiring disclosure under Item 404(a) of Regulation
+S-K. As with other non-employee directors of the Company, Ms. Dreyfus will receive an initial one-time grant of 8,000 shares of restricted
+Company common stock under the Company’s 2004 Non-Employee Director Restricted Stock Plan. Thereafter, Ms. Dreyfus will receive
+the same compensation as other non-employee directors of the Company as described in the Company’s most recent Proxy Statement dated
+April 11, 2024.
+
+Item 7.01.
+
+Regulation FD Disclosure.
+
+The Company hereby furnishes the information set forth in its news
+release, dated May 3, 2024, announcing the completion of the previously announced acquisition of Pioneer. A copy of the news release is
+filed as Exhibit 99.1 to this report.
+
+The information contained in this Item 7.01 and Exhibit 99.1 attached
+hereto shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “
+Exchange
+Act
+”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing
+of the Corporation under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference
+in such a filing.
+
+Item 8.01.
+
+Other Events.
+
+Supplemental Indenture
+
+In connection with the completion of the Merger, on May 3, 2024, the
+Company, Pioneer and Computershare Trust Company, N.A. (successor to Wells Fargo Bank, National Association), as trustee, entered into
+the First Supplemental Indenture to that certain Indenture (the “
+Indenture
+”), dated as of May 14, 2020, pursuant to
+which Pioneer issued 0.250% Convertible Senior Notes due 2025 (the “
+Notes
+”). The First Supplemental Indenture provides
+that, as of the effective time of the Merger, the right of the holders of the Notes that were outstanding as of the completion of the
+Merger to convert each $1,000 principal amount of such Notes into shares of Pioneer common stock was changed into a right to convert such
+principal amount of Notes into the number of shares of Company common stock that a holder of a number of shares of Pioneer common stock
+equal to the Conversion Rate (as defined in the Indenture) immediately prior to the effective time of the Merger would have been entitled
+to receive upon the completion of the Merger;
+provided
+that, at and after the effective time of the Merger (A) Pioneer will continue
+to have the right to determine the form of consideration to be paid or delivered, as the case may be, upon conversion of the Notes in
+accordance with the terms of the Indenture and (B) any amount payable in cash upon conversion of the Notes in accordance the terms of
+the Indenture will continue to be payable in cash. As described above, upon the completion of the Merger, each then-outstanding share
+of Pioneer common stock was converted into the right to receive 2.3234 shares of Company common stock, resulting in an adjusted initial
+Conversion Rate of 25.4503 shares of Company common stock per $1,000 principal amount of Notes. As of the date hereof, approximately $450
+million aggregate principal amount of Notes remains outstanding.
+
+The foregoing description of the First Supplemental Indenture does
+not purport to be complete and is qualified in its entirety by reference to the First Supplemental Indenture, which is filed as Exhibit
+4.1 and is incorporated herein by reference.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d)
+Exhibits
+.
+
+Exhibit No.
+
+Description
+
+2.1*
+
+Agreement and Plan of Merger, dated as of October 10, 2023, among Exxon Mobil Corporation, SPQR, LLC and Pioneer Natural Resources Company (incorporated by reference to Exhibit 2.1 to the Current Report on Form 8-K filed by Exxon Mobil Corporation with the SEC on October 11, 2023).
+
+4.1
+
+First Supplemental Indenture, relating to the Pioneer 0.250% Convertible Senior Notes due 2025, dated as of May 3, 2024, among Pioneer Natural Resources Company, Exxon Mobil Corporation and Computershare Trust Company, N.A. (as successor to Wells Fargo Bank, National Association), as Trustee.
+
+99.1
+
+Press Release, dated May 3, 2024.
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+* Schedules and exhibits have been omitted pursuant to Item 601(a)(5) of Regulation S-K. A copy of any omitted schedule or exhibit will be furnished supplementally to the SEC upon request.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: May 3, 2024
+
+Exxon Mobil Corporation
+
+By:
+
+/s/ Len M. Fox
+
+Name:
+
+Len M. Fox
+
+Title:
+
+Vice President and Controller
+
+(Principal Accounting Officer)

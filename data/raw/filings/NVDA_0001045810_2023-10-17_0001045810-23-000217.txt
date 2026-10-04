@@ -1,0 +1,81 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+______________
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+October 17, 2023
+
+NVIDIA CORP
+ORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+0-23985
+94-3177549
+(State or other jurisdiction
+(Commission
+(IRS Employer
+of incorporation)
+File Number)
+Identification No.)
+2788 San Tomas Expressway
+,
+Santa Clara
+,
+CA
+
+95051
+
+(Address of principal executive offices) (Zip Code)
+Registrant’s telephone number, including area code:
+(
+408
+)
+486-2000
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.001 par value per share
+NVDA
+The Nasdaq Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging Growth Company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 8.01 Other Events
+On October 17, 2023, the U.S. Government, or USG, announced that it submitted the Interim Final Rule, “Implementation of Additional Export Controls: Certain Advanced Computing Items; Supercomputer and Semiconductor End Use; Updates and Corrections” (the “Interim Final Rule”) for publication in the Federal Register.
+
+The Interim Final Rule amends ECCN 3A090 and 4A090 and imposes additional licensing requirements for exports to China and Country Groups D1, D4, and D5 (including but not limited to Saudi Arabia, the United Arab Emirates, and Vietnam, but excluding Israel) of the Company’s integrated circuits exceeding certain performance thresholds (including but not limited to the A100, A800, H100, H800, L40, L40S, and RTX 4090). Any system that incorporates one or more of the covered integrated circuits (including but not limited to NVIDIA DGX and HGX systems) is also covered by the new licensing requirement. The licensing requirement includes future NVIDIA integrated circuits, boards, or systems classified with ECCN 3A090 or 4A090, achieving certain total processing performance and/or performance density.
+The licensing requirement applies to the export of products classified ECCN 3A090 or 4A090 to a party headquartered in, or with an ultimate parent headquartered in, Country Group D5, including China.
+The licensing requirement may impact the Company's ability to complete development of products in a timely manner, support existing customers of covered products, or supply customers of covered products outside the impacted regions, and may require the Company to transition certain operations out of one or more of the identified countries.
+To the extent that a customer requires products covered by the new licensing requirements, the Company may seek a license for the customer but has no assurance that the USG will grant any exceptions or licenses, or that the USG will act on the request in a timely manner.
+The Company’s third quarter of fiscal 2024 ends on October 29, 2023. The Interim Final Rule is effective thirty days after its publication. Given the strength of demand for our products worldwide, we do not anticipate that the additional restrictions will have a near-term meaningful impact on our financial results.
+Certain statements in this Current Report on Form 8-K including statements regarding the possible impact of the new licensing requirements on the Company’s ability to complete development of products in a timely manner or support existing customers of covered products, or supply customers of covered products outside the impacted regions; the possibility of the Company transitioning certain operations out of one or more of the identified countries as a result of the new licensing requirements; the Company’s intent to seek licenses for sales to customers of products subject to the new licensing requirements; and the near-term impact of the new licensing requirements on the Company’s financial results are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic conditions; our reliance on third parties to manufacture, assemble, package and test our products; the impact of technological development and competition; development of new products and technologies or enhancements to our existing product and technologies; market acceptance of our products or our partners’ products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of our products or technologies when integrated into systems; as well as other factors detailed from time to time in the most recent reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its annual report on Form 10-K and quarterly reports on Form 10-Q. Copies of reports filed with the SEC are posted on the company’s website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+NVIDIA Corporation
+Date: October 17, 2023
+By:
+/s/ Colette M. Kress
+Colette M. Kress
+Executive Vice President and Chief Financial Officer

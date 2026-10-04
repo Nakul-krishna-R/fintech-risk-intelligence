@@ -1,0 +1,324 @@
+UNITED
+STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT
+REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)
+
+November 4, 2022
+
+General Electric Company
+
+(Exact name of registrant as specified in its charter)
+
+New York
+
+001-00035
+
+14-0689340
+
+(State or other jurisdiction of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+5 Necco Street
+,
+Boston
+,
+MA
+
+02210
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(Registrant’s telephone number, including
+area code)
+(
+617
+)
+443-3000
+
+(Former name or former address, if changed
+since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock, par value $0.01 per share
+
+GE
+
+New York Stock Exchange
+
+1.250% Notes due 2023
+
+GE 23E
+
+New York Stock Exchange
+
+0.875% Notes due 2025
+
+GE 25
+
+New York Stock Exchange
+
+1.875% Notes due 2027
+
+GE 27E
+
+New York Stock Exchange
+
+1.500% Notes due 2029
+
+GE 29
+
+New York Stock Exchange
+
+7 1/2% Guaranteed Subordinated Notes due 2035
+
+GE /35
+
+New York Stock Exchange
+
+2.125% Notes due 2037
+
+GE 37
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging
+growth company
+☐
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act.
+
+☐
+
+Item 1.01
+
+Entry into a Material Definitive Agreement
+
+On November 7, 2022, General Electric Company (“GE”)
+and GE Healthcare Holding LLC (“GEHC”), a wholly owned subsidiary of GE, entered into a Separation and Distribution
+Agreement (the “Separation and Distribution Agreement”). The Separation and Distribution Agreement sets forth GEHC’s
+agreements with GE regarding the principal actions to be taken in connection with the planned spin-off by GE of GEHC (the “Spin-Off”),
+and also sets forth other agreements that govern aspects of GEHC’s relationship with GE following the Spin-Off. The terms
+and conditions of the Separation and Distribution Agreement are the same as the terms and conditions thereof as previously reported
+under “Certain Relationships and Related Person Transactions—Agreements with GE—Separation and Distribution Agreement”
+in GEHC’s registration statement on Form 10 (File No. 001-41528), which is incorporated by reference herein.
+
+The foregoing description of the Separation and Distribution
+Agreement does not purport to be a complete statement of the parties’ rights and obligations under such agreement, and is
+qualified in its entirety by reference to the full text of the Separation and Distribution Agreement, a copy of which was filed
+as an exhibit to GEHC’s Form 10 filed with the
+U.S. Securities and Exchange Commission
+(the “SEC”) on November 7, 2022 (“November 7 Form 10”)
+.
+
+Item 2.03
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+
+On November 4, 2022, GEHC entered, with the respective syndicates
+of lenders and issuers named therein and Citibank, N.A., as administrative agent, into: (i) a five-year senior unsecured revolving
+credit facility (the “5-Year Revolving Credit Facility”) in an aggregate committed amount of $2.5 billion; (ii) a
+364-day senior unsecured revolving facility (the “364-Day Revolving Credit Facility” and, together with the 5-Year
+Revolving Credit Facility, the “Revolving Credit Facilities”) in an aggregate committed amount of $1.0 billion;
+and (iii) a three-year senior unsecured term loan credit facility (the “Term Loan Facility” and, together with
+the Revolving Credit Facilities, the “Credit Facilities”), in an aggregate principal amount of $2.0 billion, all in
+connection with the Spin-Off. GE has the option to guarantee the Term Loan Facility until the consummation of the Spin-Off. Borrowings
+under the Revolving Credit Facilities will be available in U.S. dollars and Euros. Up to $200 million of the 5-Year Revolving
+Credit Facility is available for the purpose of issuing letters of credit.
+
+Each of the Credit Facilities became effective on November 4,
+2022 (each, an “Effective Date”). The 5-Year Revolving Credit Facility will mature five years after its Effective Date,
+the 364-Day Revolving Credit Facility will mature 364 days after its Effective Date, and the Term Loan Facility will mature three
+years after its Effective Date.
+
+The interest rate applicable to loans under the Credit Facilities
+is (x) with respect to borrowings in U.S. dollars, at GEHC’s option, equal to either an alternate base rate or
+an adjusted term SOFR rate for a one-, three- or six-month interest period and (y) with respect to borrowings in Euros under
+the Revolving Credit Facilities, the EURIBOR rate for a one-, three- or six-month interest period, in each case, plus an applicable
+margin. The applicable margin payable on borrowings will be determined by reference to a pricing schedule based on GEHC’s
+senior unsecured long-term debt ratings. In addition, GEHC will pay customary commitment fees based on the unused portion of the
+respective commitments of the lenders under each Revolving Credit Facility. There will be no amortization with respect to the borrowings
+under any of the Credit Facilities.
+
+GEHC may voluntarily prepay borrowings under the Credit Facilities
+without premium or penalty, subject to customary “breakage” costs with respect to loans bearing interest by reference
+to the applicable adjusted term SOFR rate or the EURIBOR rate. GEHC may also voluntarily reduce the commitments under any of the
+Revolving Credit Facilities, in whole or in part, in each case, subject to certain minimum reduction amounts. The Credit Facilities
+also include certain customary mandatory prepayment provisions.
+
+The Credit Facilities include various customary covenants that
+limit, among other things, the incurrence of liens and the entry into certain fundamental change transactions by GEHC. The Credit
+Facilities include customary events of default, including with respect to a failure to make timely payments under the Credit Facilities,
+violation of covenants, inaccuracy of representations and warranties, cross-acceleration and certain bankruptcy and insolvency
+events.
+
+The foregoing descriptions of the 5-Year Revolving Credit Facility,
+the 364-Day Revolving Credit Facility and the Term Loan Facility do not purport to be a complete statement of the parties’
+rights and obligations under each such Credit Facility and the foregoing is qualified in its entirety by reference to the full
+text of the 5-Year Revolving Credit Facility, the 364-Day Revolving Credit Facility and the Term Loan Facility, as applicable,
+copies of which were filed as exhibits to the
+November 7 Form 10
+.
+
+Item 7.01
+
+Regulation FD Disclosure
+
+On November 8, 2022, GEHC announced its intention to conduct
+meetings with investors. A potential series of private debt offerings by GEHC in connection with the Spin-Off may follow.
+
+(
+2
+)
+
+The information provided pursuant to Item 7.01 of this Current
+Report on Form 8-K is being furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities
+Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities under that Section and
+shall not be deemed to be incorporated by reference into any filing of GE under the Securities Act of 1933, as amended (the “Securities
+Act”), or the Exchange Act. The information set forth under this Item 7.01 shall not be deemed an admission as to the
+materiality of any information in this Current Report on Form 8-K.
+
+Item 8.01
+
+Other Events
+
+On November 8, 2022, GE issued a press release announcing
+the commencement of a tender offer to purchase for cash certain of the existing debt securities issued by GE or certain affiliates
+(and assumed or guaranteed by GE) (the “Tender Offer”). A copy of that press release is attached as Exhibit 99
+and incorporated by reference herein.
+
+Item 9.01
+
+Financial Statements and Exhibits
+
+(d) Exhibits
+
+Exhibit
+
+Description
+
+2.1
+
+Separation and Distribution Agreement, dated November 7, 2022, by and between General Electric Company and GE Healthcare Holding LLC (incorporated by reference to Exhibit 2.1 to GE Healthcare Holding LLC’s Form 10 filed with the Commission on November 7, 2022 (Commission file number 001-41528)).
+
+10.1
+
+Term Loan Agreement, dated as of November 4, 2022, by and among GE Healthcare Holding LLC, as the borrower, the lenders from time to time party thereto and Citibank, N.A., as administrative agent (incorporated by reference to Exhibit 10.8 to GE Healthcare Holding LLC’s Form 10 filed with the Commission on November 7, 2022 (Commission file number 001-41528)).
+
+10.2
+
+364-Day Revolving Credit Agreement, dated as of November 4, 2022, by and among GE Healthcare Holding LLC, as the borrower, the lenders from time to time party thereto and Citibank, N.A., as administrative agent (incorporated by reference to Exhibit 10.9 to GE Healthcare Holding LLC’s Form 10 filed with the Commission on November 7, 2022 (Commission file number 001-41528)).
+
+10.3
+
+Credit Agreement, dated as of November 4, 2022, by and among GE Healthcare Holding LLC, as the borrower, the lenders from time to time party thereto and Citibank, N.A., as administrative agent (incorporated by reference to Exhibit 10.10 to GE Healthcare Holding LLC’s Form 10 filed with the Commission on November 7, 2022 (Commission file number 001-41528)).
+
+99
+
+Press release, dated November 8, 2022 issued by GE.
+
+104
+
+The cover page from this Current Report on Form 8-K, formatted
+in Inline XBRL.
+
+Forward-looking statements.
+
+This document
+contains “forward-looking statements”—that is, statements related to future, not past, events. These forward-looking
+statements often address GE’s expected future business and financial performance and financial condition, and often contain
+words such as “expect,” “anticipate,” “intend,” “plan,” “believe,”
+“seek,” “see,” “will,” “would,” “estimate,” “forecast,”
+“target,” “preliminary,” or “range.” Forward-looking statements by their nature address matters
+that are, to different degrees, uncertain, and are subject to risks, uncertainties and assumptions. For GE, particular areas where
+risks or uncertainties could cause GE’s actual results to be materially different than those expressed in GE’s forward-looking
+statements include:
+the expected timing, size or other terms of the Tender Offer and GE’s ability to complete the
+Tender Offer;
+GE’s success in executing and completing asset dispositions or other transactions,
+including GE’s plans to pursue the Spin-Off and the spin-off its portfolio of energy businesses that are planned to be combined
+as GE Vernova (Renewable Energy, Power, Digital and Energy Financial Services), and sales or other dispositions of GE’s equity
+interests in Baker Hughes Company and AerCap Holdings N.V. and GE’s expected equity interest in GEHC after the Spin-Off,
+the timing for such transactions, the ability to satisfy any applicable pre-conditions, and the expected proceeds, consideration
+and benefits to GE; changes in macroeconomic and market conditions and market volatility, including impacts related to the COVID-19
+pandemic, risk of recession, inflation, supply chain constraints or disruptions, rising interest rates, oil, natural gas and other
+commodity prices and exchange rates, and the impact of such changes and volatility on GE’s business operations, financial
+results and financial position; and GE’s de-leveraging and capital allocation plans, including with respect to actions to
+reduce its indebtedness, the capital structures of the three public companies that GE plans to form from its businesses, the timing
+and amount of dividends, share repurchases, organic investments, and other priorities; and other factors that are described in
+the “Risk Factors” section of GE’s Annual Report on Form 10-K for the year ended December 31, 2021
+and its Quarterly Report on Form 10-Q for the quarter ended March 31, 2022, as such descriptions may be updated or amended
+in any future reports that GE files with the SEC. These or other uncertainties may cause GE’s actual future results to be
+materially different than those expressed in its forward-looking statements. GE does not undertake to update its forward-looking
+statements.
+
+(
+3
+)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+General Electric Company
+
+(Registrant)
+
+Date: November 8, 2022
+
+/s/ Brandon Smith
+
+Brandon Smith
+
+Vice President, Chief Corporate, Securities & Finance Counsel

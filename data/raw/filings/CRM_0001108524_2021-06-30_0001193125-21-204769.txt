@@ -1,0 +1,196 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+June 29, 2021
+
+Date of Report (date of earliest event reported)
+
+salesforce.com, inc.
+
+(Exact name of Registrant as specified in its charter)
+
+Delaware
+
+001-32224
+
+94-3320693
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+Salesforce Tower
+
+415 Mission Street
+,
+3rd Fl.
+
+San Francisco
+,
+CA
+
+94105
+
+(Address of principal executive offices)
+
+Registrant’s telephone number, including area code:
+(415)
+
+901-7000
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the
+Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☒
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to
+Rule 14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to
+Rule 14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to
+Rule 13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Exchange Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.001 per share
+
+CRM
+
+New York Stock Exchange, Inc.
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or
+Rule 12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+On June 29, 2021, salesforce.com, inc. (the “Company”) entered into an underwriting agreement (the “Underwriting Agreement”) with Citigroup Global Markets Inc., BofA Securities, Inc. and J.P. Morgan Securities LLC (the “Representatives”), on behalf of the several Underwriters listed in Schedule A thereto (the “Underwriters”), pursuant to which the Company agreed to issue and sell to the Underwriters $1,000,000,000 aggregate principal amount of 0.625% Senior Notes due 2024 (the “2024 Notes”), $1,000,000,000 aggregate principal amount of 1.500% Senior Notes due 2028 (the “Sustainability Notes”), $1,500,000,000 aggregate principal amount of 1.950% Senior Notes due 2031 (the “2031 Notes”), $1,250,000,000 aggregate principal amount of 2.700% Senior Notes due 2041 (the “2041 Notes”), $2,000,000,000 aggregate principal amount of 2.900% Senior Notes due 2051 (the “2051 Notes”) and $1,250,000,000 aggregate principal amount of 3.050% Senior Notes due 2061 (the “2061 Notes” and, together with the 2024 Notes, the 2031 Notes, the 2041 Notes and the 2051 Notes, the “Mandatorily Redeemable Notes”) in a registered public offering (the “Offering”). The Offering is expected to close on July 12, 2021, subject to customary closing conditions.
+
+The Offering is being made pursuant to the Company’s Registration Statement on Form
+S-3
+(Registration
+No. 333-251123),
+including a preliminary prospectus supplement dated June 29, 2021 to the prospectus contained therein dated December 4, 2020, filed by the Company with the Securities and Exchange Commission (the “SEC”), pursuant to Rule 424(b)(5) under the Securities Act of 1933, as amended (the “Securities Act”), and a free writing prospectus dated June 29, 2021, filed by the Company with the SEC, pursuant to Rule 433 under the Securities Act.
+
+On December 1, 2020, the Company entered into an Agreement and Plan of Merger (as amended, supplemented, restated or modified from time to time, the “Merger Agreement”) by and among the Company, Skyline Strategies I Inc., a Delaware corporation and wholly owned subsidiary of the Company, and Skyline Strategies II LLC, a Delaware limited liability company and wholly owned subsidiary of the Company, and Slack Technologies, Inc., a Delaware corporation (“Slack”). The acquisition of Slack by the Company pursuant to the Merger Agreement is referred to in this Form
+8-K
+as the “proposed transaction.” The Company intends (i) to use the net proceeds of the Offering of the Mandatorily Redeemable Notes to partially fund the cash consideration payable by the Company for the proposed transaction and to pay related fees, costs and expenses and (ii) to use the proceeds of the Sustainability Notes to finance or refinance, in whole or in part, one or more new or existing green or social projects that satisfy certain criteria.
+
+A copy of the Underwriting Agreement is attached hereto as Exhibit 1.1 and is incorporated herein by reference.
+
+Item 9.01
+
+Financial Statements and Exhibits
+
+(d) Exhibits
+
+Exhibit
+Number
+
+Description
+
+1.1
+
+Underwriting Agreement, dated June 29, 2021, among the Company, Citigroup Global Markets Inc., BofA Securities, Inc. and J.P. Morgan Securities LLC (acting as Representatives of the several Underwriters named in Schedule A thereto)
+
+104
+
+Cover Page Interactive Data File—the cover page XBRL tags are embedded within the Inline XBRL document
+
+Forward-Looking Statements
+
+This communication includes forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements may relate to future events and anticipated results of operations, business strategies, the anticipated benefits of the offering of the notes described herein, the proposed transaction, the anticipated impact of the proposed transaction on the combined company’s business and future financial and operating results, the expected amount and timing of synergies from the proposed transaction, the anticipated closing date for the offering of the notes described herein and other aspects of our operations or operating results. These forward-looking statements generally can be identified by phrases such as “will,” “expects,” “anticipates,” “foresees,” “forecasts,” “estimates” or other words or phrases of similar import. It is uncertain whether any of the events anticipated by the forward-looking statements will transpire or occur, or if any of them do, what impact they will have on the results of operations and financial condition of the combined companies or the price of Salesforce or Slack stock. These forward-looking statements involve certain risks and uncertainties, many of which are beyond the parties’ control, that could cause actual results to differ
+
+materially from those indicated in such forward-looking statements, including but not limited to: the impact of public health crises, such as pandemics (including coronavirus
+(COVID-19))
+and epidemics and any related company or government policies and actions to protect the health and safety of individuals or government policies or actions to maintain the functioning of national or global economies and markets; the effect of the announcement of the proposed transaction on the ability of Salesforce or Slack to retain and hire key personnel and maintain relationships with customers, suppliers and others with whom Salesforce or Slack do business, or on Salesforce’s or Slack’s operating results and business generally; risks that the proposed transaction disrupts current plans and operations and the potential difficulties in employee retention as a result of the proposed transaction; the outcome of any legal proceedings related to the proposed transaction; the ability of the parties to consummate the proposed transaction on a timely basis or at all; the satisfaction of the conditions precedent to consummation of the proposed transaction, including the ability to secure regulatory approvals on the terms expected, at all or in a timely manner; the ability of Salesforce to successfully integrate Slack’s operations; the ability of Salesforce to implement its plans, forecasts and other expectations with respect to Salesforce’s business after the completion of the transaction and realize expected synergies; and business disruption following the proposed transaction. Risks related to the proposed transaction are included in the registration statement on
+Form S-4
+(as amended, the “Registration Statement”) that was filed by Salesforce with the SEC and declared effective by the SEC on January 29, 2021, the prospectus that was filed by Salesforce with the SEC on January 29, 2021 (the “Prospectus”) and the definitive proxy statement that was filed by Slack with the SEC on January 29, 2021 (“the Proxy Statement”) in connection with the proposed transaction. While the list of factors presented here is, and the list of factors presented in the Registration Statement, Prospectus and Proxy Statement are, considered representative, no such list should be considered to be a complete statement of all potential risks and uncertainties. For additional information about other factors that could cause actual results to differ materially from those described in the forward-looking statements, please refer to Salesforce’s and Slack’s respective periodic reports and other filings with the SEC, including the risk factors identified in the preliminary prospectus supplement relating to the offering and Salesforce’s and Slack’s most recent Quarterly Reports on Form
+10-Q
+and Annual Reports on Form
+10-K.
+The forward-looking statements included in this communication are made only as of the date hereof. Neither Salesforce nor Slack undertakes any obligation to update any forward-looking statements to reflect subsequent events or circumstances, except as required by law.
+
+Additional Information about the Proposed Transaction and Where to Find It
+
+Salesforce filed with the SEC the Registration Statement and the Prospectus, and Slack filed with the SEC the Proxy Statement. The Registration was declared effective on January 29, 2021 and the Prospectus and the Proxy Statement were first mailed to shareholders of Slack on or about January 29, 2021. Each of Salesforce and Slack may also file other relevant documents with the SEC regarding the proposed transaction. The information in the Prospectus and Proxy Statement may be changed. This document is not a substitute for the Registration Statement, the Prospectus and the Proxy Statement or any other document that Salesforce or Slack may file with the SEC. INVESTORS AND SECURITY HOLDERS ARE URGED TO READ THE REGISTRATION STATEMENT, THE PROSPECTUS AND THE PROXY STATEMENT AND ANY OTHER RELEVANT DOCUMENTS THAT MAY BE FILED WITH THE SEC, AS WELL AS ANY AMENDMENTS OR SUPPLEMENTS TO THESE DOCUMENTS, CAREFULLY AND IN THEIR ENTIRETY BECAUSE THEY CONTAIN OR WILL CONTAIN IMPORTANT INFORMATION ABOUT THE PROPOSED TRANSACTION. Investors and security holders are able to obtain free copies of the Registration Statement, the Prospectus and the Proxy Statement and all other documents containing important information about Salesforce, Slack and the proposed transaction, once such documents are filed with the SEC through the website maintained by the SEC at http://www.sec.gov. Copies of the documents filed with the SEC by Salesforce may be obtained free of charge on Salesforce’s website at www.salesforce.com/investor or by contacting Salesforce’s Investor Relations department at investor@salesforce.com. Copies of the documents filed with the SEC by Slack may be obtained free of charge on Slack’s website at investor.slackhq.com or by contacting Slack’s Investor Relations department at ir@slack.com.
+
+-3-
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+salesforce.com, inc.
+
+By:
+
+/s/ Amy Weaver
+
+Amy Weaver
+
+President and Chief Financial Officer
+
+Dated: June 30, 2021

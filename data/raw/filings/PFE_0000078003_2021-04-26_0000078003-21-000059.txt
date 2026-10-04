@@ -1,0 +1,199 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of report (Date of earliest event reported):
+April 22, 2021
+PFIZER INC
+.
+(Exact name of registrant as specified in its charter)
+Delaware
+1-3619
+13-5315170
+(State or other
+(Commission File
+(I.R.S. Employer
+jurisdiction of
+Number)
+Identification No.)
+incorporation)
+
+235 East 42nd Street
+10017
+New York,
+
+New York
+
+(Zip Code)
+(Address of principal executive offices)
+Registrant’s telephone number, including area code:
+(
+212
+)
+733-2323
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2 (b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $.05 par value
+PFE
+New York Stock Exchange
+0.250% Notes due 2022
+PFE22
+New York Stock Exchange
+1.000% Notes due 2027
+PFE27
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 5.07 Submission of Matters to a Vote of Security Holders
+(a) The Pfizer Inc. (the "Company") Annual Meeting of Shareholders was held on April 22, 2021.
+(b) Shareholders voted on the matters set forth below.
+1. The nominees for election to the Company’s Board of Directors set forth in Item 1 to the Company’s Proxy Statement filed with the U.S. Securities and Exchange Commission on March 12, 2021 were elected to hold office until the Company’s next Annual Meeting of Shareholders, based upon the following votes:
+Nominee
+Votes For
+Votes Against
+Abstentions
+Broker non-vote
+Ronald E. Blaylock
+3,552,128,581
+75,310,205
+17,769,916
+872,247,240
+Albert Bourla
+3,403,798,711
+212,217,144
+29,192,847
+872,247,240
+Susan Desmond-Hellmann
+3,602,587,186
+27,007,655
+15,613,861
+872,247,240
+Joseph J. Echevarria
+3,067,343,922
+551,543,052
+26,321,728
+872,247,240
+Scott Gottlieb
+3,604,408,886
+24,247,147
+16,552,669
+872,247,240
+Helen H. Hobbs
+3,591,164,311
+38,498,000
+15,546,391
+872,247,240
+Susan Hockfield
+3,606,052,119
+24,001,809
+15,154,774
+872,247,240
+Dan R. Littman
+3,598,774,848
+28,603,952
+17,829,902
+872,247,240
+Shantanu Narayen
+3,590,073,401
+38,138,233
+16,997,068
+872,247,240
+Suzanne Nora Johnson
+3,477,324,059
+151,820,880
+16,063,763
+872,247,240
+James Quincey
+3,588,511,169
+40,095,580
+16,601,953
+872,247,240
+James C. Smith
+3,575,587,764
+53,048,897
+16,572,041
+872,247,240
+2. The proposal to ratify the selection of KPMG LLP as the Company’s independent registered public accounting firm for the 2021 fiscal year was approved based upon the following votes:
+Votes for approval
+4,291,626,166
+Votes against
+208,758,238
+Abstentions
+17,071,538
+Broker non-votes
+n/a
+3. The proposal to approve, on an advisory basis, the compensation of the Company's Named Executive Officers was approved based upon the following votes
+:
+Votes for approval
+3,355,194,651
+Votes against
+258,664,414
+Abstentions
+31,349,637
+Broker non-votes
+872,247,240
+4. The shareholder proposal regarding independent chair policy was not approved based upon the following votes:
+Votes for approval
+1,347,236,928
+Votes against
+2,260,655,067
+Abstentions
+37,316,707
+Broker non-votes
+872,247,240
+5. The shareholder proposal regarding political spending report was not approved based upon the following votes:
+Votes for approval
+1,636,845,263
+Votes against
+1,829,127,739
+Abstentions
+179,235,700
+Broker non-votes
+872,247,240
+6. The shareholder proposal regarding report on access to COVID-19 products was not approved based upon the following votes:
+Votes for approval
+1,011,019,874
+Votes against
+2,562,817,160
+Abstentions
+71,371,668
+Broker non-votes
+872,247,240
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+PFIZER INC.
+
+Dated: April 26, 2021
+By:
+/s/ Margaret M. Madden
+
+Margaret M. Madden
+
+Senior Vice President and Corporate Secretary
+
+Chief Governance Counsel

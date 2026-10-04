@@ -1,0 +1,135 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+November 7, 2023
+
+THERMO FISHER SCIENTIFIC INC.
+
+(Exact name of Registrant as specified in its Charter)
+
+Delaware
+1-8002
+04-2209186
+(State of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification Number)
+168 Third Avenue
+
+Waltham
+,
+Massachusetts
+
+02451
+
+(Address of principal executive offices) (Zip Code)
+Registrant’s telephone number, including area code: (
+781
+)
+622-1000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $1.00 par value
+TMO
+New York Stock Exchange
+0.750% Notes due 2024
+TMO 24A
+New York Stock Exchange
+0.125% Notes due 2025
+TMO 25B
+New York Stock Exchange
+2.000% Notes due 2025
+TMO 25
+New York Stock Exchange
+3.200% Notes due 2026
+TMO 26B
+New York Stock Exchange
+1.400% Notes due 2026
+TMO 26A
+New York Stock Exchange
+1.450% Notes due 2027
+TMO 27
+New York Stock Exchange
+1.750% Notes due 2027
+TMO 27B
+New York Stock Exchange
+0.500% Notes due 2028
+TMO 28A
+New York Stock Exchange
+1.375% Notes due 2028
+TMO 28
+New York Stock Exchange
+1.950% Notes due 2029
+TMO 29
+New York Stock Exchange
+0.875% Notes due 2031
+TMO 31
+New York Stock Exchange
+2.375% Notes due 2032
+TMO 32
+New York Stock Exchange
+3.650% Notes due 2034
+TMO 34
+New York Stock Exchange
+2.875% Notes due 2037
+TMO 37
+New York Stock Exchange
+1.500% Notes due 2039
+TMO 39
+New York Stock Exchange
+1.875% Notes due 2049
+TMO 49
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 5.04 Temporary Suspension of Trading Under Registrant’s Employee Benefit Plans.
+The Thermo Fisher Scientific Inc. 401(k) Plan (the “401(k) plan”) is transitioning to a new plan administrator. To facilitate the transition, all transactions in the 401(k) plan will be temporarily suspended during a blackout period. Participants in the 401(k) plan were notified of the blackout period on November 7, 2023. During the blackout period, participants in the 401(k) plan will be unable to make changes to their contribution rates and investment allocations, make loan repayments or request new loans, or request withdrawals or distributions under the 401(k) plan, including with respect to the shares of common stock, $1.00 par value per share (the “Common Stock”), of Thermo Fisher Scientific Inc. (the “Company”). The blackout period is expected to begin at 4:00 pm Eastern Time on Thursday, December 21, 2023 and end during the week of January 14, 2024. The notification described under Section 101(i)(2)(E) of the Employment Retirement Income Security Act of 1974 relating to the blackout period was provided to the Company on November 7, 2023.
+On November 7, 2023, the Company sent a notice to its directors and executive officers informing them of the 401(k) plan blackout period and the restrictions that will apply to them during the blackout period. During the blackout period, subject to certain limited exemptions, the Company’s directors and executive officers will be prohibited from directly or indirectly purchasing, selling, acquiring or transferring any Common Stock (including derivatives thereof) acquired in connection with their service or employment as a director or executive officer of the Company. This notice was required pursuant to Section 306 of the Sarbanes-Oxley Act of 2002 and Section 104 of Regulation BTR under the Securities Exchange Act of 1934.
+A copy of the notice to the directors and executive officers is attached as Exhibit 99.1 and incorporated herein by reference. During the blackout period and for a period of two years after the ending date of the blackout period, shareholders or other interested parties may obtain, without charge, information about the actual beginning and ending dates of the blackout period by contacting the Company’s Corporate Secretary by telephone at (781) 622-1000 or by mail at Corporate Secretary, Thermo Fisher Scientific Inc., 168 Third Avenue, Waltham, Massachusetts 02451.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit
+Description
+99.1
+Blackout Notice, dated November 7, 2023
+104
+Cover Page Interactive Data File (embedded with the Inline XBRL document)
+2
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+THERMO FISHER SCIENTIFIC INC.
+Date:
+November 7, 2023
+By:
+/s/ Michael A. Boxer
+Michael A. Boxer
+Senior Vice President and General Counsel
+3

@@ -1,0 +1,100 @@
+________________________________________________________________________
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+September 29, 2022
+The Walt Disney Company
+(Exact name of registrant as specified in its charter)
+Delaware
+001-38842
+83-0940635
+(State or other jurisdiction
+(Commission File Number)
+(IRS Employer
+of incorporation)
+Identification No.)
+
+500 South Buena Vista Street
+
+Burbank
+,
+California
+
+91521
+
+(Address of Principal Executive Offices and Zip Code)
+(
+818
+)
+560-1000
+
+(Registrant’s telephone number, including area code)
+Not applicable
+
+(Former name or address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.01 par value
+DIS
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+________________________________________________________________________
+Item 1.01 Entry into a Material Definitive Agreement.
+On September 30, 2022, The Walt Disney Company (the “Company”) entered into a Support Agreement (the “Support Agreement”) with Third Point LLC and certain of its affiliates (collectively, “Third Point”) regarding matters relating to the election of members of the Company’s Board of Directors (the “Board”) and certain other matters. The following description of the Support Agreement does not purport to be complete and is qualified in its entirety by reference to the Support Agreement, a copy of which is attached as Exhibit 10.1 hereto and is incorporated herein by reference.
+The Company has determined to add Carolyn Everson (the “New Director”) to the Board prior to the November 2022 meeting of the Board, and Third Point supports her addition to the Board. Pursuant to the Support Agreement, the Company appointed the New Director to the Board as a director, effective as of November 21, 2022. Further, the Company agreed that the Company’s slate of nominees for the election of directors of the Company at the Company’s 2023 annual meeting of stockholders (the “2023 Annual Meeting”) will include the New Director as a nominee.
+During the period beginning on the date of the Support Agreement and ending on the earliest of (1) the conclusion of the Company’s 2024 annual meeting of stockholders (the “2024 Annual Meeting”), (2) April 15, 2024, (3) the date that the New Director ceases to be a member of the Board (unless replaced with a director mutually acceptable to the Company and Third Point), (4) the delivery by the Company to Third Point of a notice (a “Slate Notice”) of the Company’s slate of nominees for the election of directors at the 2024 Annual Meeting that does not include the New Director, (5) the Company’s failure to deliver the Slate Notice on or prior to the date that is 30 days prior to the advance notice deadline for making director nominations under the Company’s bylaws at the 2024 Annual Meeting and (6) the Company’s failure to include the New Director on the Company’s slate of nominees for the election of directors at the 2024 Annual Meeting (the “Standstill Period”), Third Point has agreed to certain standstill provisions, including, among other things, agreeing not to (i) acquire beneficial ownership in excess of 2.0% of the Company’s then outstanding shares of common stock, (ii) seek the removal of any member of the Board or propose any nominee for election to the Board, (iii) present any proposal for consideration at any stockholder meeting or (iv) solicit any proxy or written consent of stockholders or conduct any other type of referendum with respect to, or from the holders of, the voting securities of the Company.
+Pursuant to the Support Agreement, Third Point has also agreed during the Standstill Period to vote its voting securities of the Company at any annual or special meeting of stockholders or in connection with any solicitation of stockholder action by written consent (i) in favor of the slate of directors nominated by the Board, (ii) against the election of any nominee for director not nominated by the Board and (iii) in accordance with the recommendation of the Board on any precatory or non-binding proposals and any non-transaction-related proposals that come before any stockholder meeting. The Support Agreement also includes a mutual non-disparagement provision.
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+The information set forth in Item 1.01 is incorporated into this Item 5.02 by reference.
+On September 29, 2022, the Company increased the size of the Board from 11 to 12 directors and appointed the New Director as a director of the Company effective as of November 21, 2022 with a term expiring at the 2023 Annual Meeting.
+The New Director will receive the standard director compensation that the Company provides to its non-employee directors as described in the Company’s Proxy Statement on Schedule 14A filed with the Securities and Exchange Commission on January 19, 2022.
+As of the date hereof, there are no transactions between the New Director and the Company that would be reportable under Item 404(a) of Regulation S-K.
+The Board has not yet determined any potential assignments of the New Director to any committee of the Board.
+Item 8.01 Other Events.
+On September 30, 2022, the Company and Third Point jointly issued a press release announcing the Support Agreement, a copy of which is attached as Exhibit 99.1 hereto and is incorporated by reference.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+Exhibit
+Number
+Description
+10.1
+Support Agreement, dated as of September 30, 2022, by and among Third Point LLC and certain of its affiliates and The Walt Disney Company
+99.1
+Press Release dated September 30, 2022
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+The Walt Disney Company
+By:
+
+/s/ Jolene E. Negre
+
+Jolene E. Negre
+
+Associate General Counsel and Secretary
+Dated: September 30, 2022

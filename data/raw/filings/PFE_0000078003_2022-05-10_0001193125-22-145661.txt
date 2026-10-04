@@ -1,0 +1,217 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of report (Date of earliest event reported):
+May 9, 2022
+
+PFIZER INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+1-3619
+
+13-5315170
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+235 East 42
+nd
+Street
+
+10017
+
+New York
+,
+New York
+(Zip Code)
+
+(Address of principal executive offices)
+
+Registrant’s telephone number, including area code:
+
+(212)
+
+733-2323
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2
+(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $.05 par value
+
+PFE
+
+New York Stock Exchange
+
+1.000% Notes due 2027
+
+PFE27
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 7.01.
+
+Regulation FD Disclosure.
+
+On May 9, 2022, Pfizer Inc., a Delaware corporation (“Pfizer”), entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Biohaven Pharmaceutical Holding Company Ltd., a British Virgin Islands business company limited by shares with BVI company number 1792178 formed under the laws of the territory of the British Virgin Islands (“Biohaven”), and Bulldog (BVI) Ltd., a British Virgin Islands business company limited by shares with BVI company number 2097955 formed under the laws of the territory of the British Virgin Islands and a wholly owned subsidiary of Pfizer (“Purchaser”). On May 10, 2022, Pfizer and Biohaven issued a press release announcing entry into the Merger Agreement, which is attached as Exhibit 99.1 to this Current Report on Form
+8-K
+and incorporated by reference herein.
+
+Pursuant to General Instruction B.2. to Form
+8-K,
+the information set forth in this Item 7.01, including Exhibit 99.1, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section.
+
+Item 8.01.
+
+Other Events.
+
+On May 9, 2022, Pfizer entered into the Merger Agreement. Pursuant to the Merger Agreement, upon the terms and subject to the conditions thereof, Purchaser will merge with and into Biohaven (the “Merger”), the separate corporate existence of Purchaser will cease and Biohaven will be the successor or surviving company in the Merger and will continue to be governed by the laws of the British Virgin Islands as a wholly owned subsidiary of Pfizer. The Merger Agreement provides that, as a condition to closing the Merger, Biohaven will (i) in one or a series of transactions assign certain of its assets and liabilities to designated subsidiaries of Biohaven that will not remain subsidiaries of Biohaven following the Merger (such subsidiaries, collectively, “SpinCo”) pursuant to a Separation and Distribution Agreement by and among Biohaven, SpinCo and Pfizer (solely with respect to certain provisions therein), (ii) register the securities of SpinCo with the Securities and Exchange Commission and (iii) distribute such securities of SpinCo pro rata to SpinCo’s shareholders. Upon completion of the Merger and
+Spin-Off,
+Pfizer will own Biohaven’s CGRP programs, which include rimegepant (currently approved in the United States under the tradename NURTEC
+®
+ODT for the acute and episodic preventive treatment of migraine), zavegepant (currently in Phase 3 trials for the acute and preventive treatment of migraine) and a portfolio of five
+pre-clinical
+CGRP assets.
+
+Each Biohaven shareholder will receive $148.50 per Biohaven share in cash, in addition to 0.5 shares of SpinCo per Biohaven share distributed pro rata (collectively, the “Spinoff”). Additionally, Pfizer has agreed to capitalize SpinCo with $275 million and to pay SpinCo tiered royalties on any annual net sales of rimegepant and zavegepant in the United States in excess of $5.25 billion. In connection with the Merger, Pfizer will make payments in the aggregate amount of $1.26 billion to pay off Biohaven’s existing credit facility, including all principal, interest and applicable prepayment premiums, and for the redemption of all of Biohaven’s preferred shares.
+
+Completion of the Merger is subject to the completion of the Spinoff and is also subject to customary closing conditions, including receipt of regulatory approvals and approval by Biohaven shareholders. Closing of the transaction is expected in the fourth quarter of 2022. Pfizer expects to finance the transaction with existing cash.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+
+No.
+
+Exhibit Description
+
+Exhibit 99.1
+
+Press Release, dated May 10, 2022
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+This communication and any documents referred to in this communication contains certain “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995 (the “Act”), including, but not limited to, statements regarding the expected benefits of the Merger and the Spinoff (the “proposed transaction”) and the anticipated timing of the proposed transaction, strategies, objectives and the products and markets of each company. These forward-looking statements generally are identified by the words “will,” “may,” “could,” “likely,” “ongoing,” “anticipate,” “estimate,” “expect,” “project,” “intend,” “plan,” “believe,” “assume,” “target,” “forecast,” “guidance,” “goal,” “objective,” “aim,” “seek” and similar expressions. We intend these forward-looking statements to be covered by the safe harbor provisions for forward-looking statements contained in the Act. Forward-looking statements are predictions, projections and other statements about future events that are based on current expectations and assumptions and, as a result, are subject to risks and uncertainties. Many factors could cause actual future events to differ materially from the forward-looking statements in this communication, including but not limited to the risk that the proposed transaction may not be completed in a timely manner or at all; the failure to satisfy the conditions to the consummation of the proposed transaction, including the adoption of the transaction agreements by the shareholders of Biohaven and the receipt of certain governmental and regulatory approvals; the occurrence of any event, change or other circumstance that could give rise to the termination of the transaction agreements; the effect of the announcement or pendency of the proposed transaction on Pfizer and Biohaven’s business relationships, operating results, and business generally; the possibility that competing offers may be made; risks related to the ability to realize the anticipated benefits of the proposed transaction, including the possibility that the expected benefits from the proposed transaction will not be realized or will not be realized within the expected time period; the risk that the businesses will not be integrated successfully; disruption from the proposed transaction making it more difficult to maintain business and operational relationships; risks related to diverting management’s attention from ongoing business operations; the risk that the announcement or consummation of the proposed transaction could negatively affect the market price of Pfizer’s common stock and/or operating results; the outcome of any legal proceedings that may be instituted against Pfizer or against Biohaven related to the proposed transaction; risks related to the implementation of the Spinoff, including timing anticipated to complete the Spinoff and any changes to the configuration of the businesses included in the Spinoff if implemented; the risk that the integration of Pfizer and Biohaven will be more difficult, time-consuming or costly than expected; risks related to industry, market, business economic, political or regulatory conditions; the uncertainties inherent in research and development, including the ability to meet anticipated clinical endpoints, commencement and/or completion dates for clinical trials, regulatory submission dates, regulatory approval dates and/or launch dates, as well as the possibility of unfavorable new clinical data and further analyses of existing clinical data; risks associated with interim data; the risk that clinical trial data are subject to differing interpretations and assessments by regulatory authorities; whether regulatory authorities will be satisfied with the design of and results from the clinical studies; whether and when drug applications may be filed in particular jurisdictions for rimegepant or zavegepant or any other investigational products; whether and when any such applications may be approved by regulatory authorities, which will depend on myriad factors, including making a determination as to whether the product’s benefits outweigh its known risks and determination of the product’s efficacy and, if approved, whether rimegepant, zavegepant or any such other products will be commercially successful; and decisions by regulatory authorities impacting labeling, manufacturing processes, safety and/or other matters that could affect the availability or commercial potential of rimegepant, zavegepant or any such other products. The risks and uncertainties may be amplified by the
+COVID-19
+pandemic (and related variants), which has caused significant economic uncertainty. The foregoing list of factors is not exhaustive. You should carefully consider the foregoing factors and the other risks and uncertainties that affect the businesses of Pfizer and Biohaven described in the “Risk Factors” and “Forward-Looking Information and Factors that May Affect Future Results” sections of their respective Annual Reports on Form
+10-K,
+Quarterly Reports on Form
+10-Q
+and other documents filed by either of them from time to time with the SEC. These filings identify and address other important risks and uncertainties that could cause actual events and results to differ materially from those contained in the forward-looking statements. Forward-looking statements speak only as of the date they are made. Readers are cautioned not to put undue reliance on forward-looking statements, and Pfizer assumes no obligation and does not intend to update or revise these forward-looking statements, whether as a result of new information, future events, or otherwise, unless required by law.
+
+EXHIBIT INDEX
+
+Exhibit
+
+No.
+
+Exhibit Description
+
+Exhibit 99.1
+
+Press Release, dated May 10, 2022
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+PFIZER INC.
+
+Date: May 10, 2022
+
+By:
+
+/s/ Margaret M. Madden
+
+Margaret M. Madden
+
+Senior Vice President and Corporate Secretary
+
+Chief Governance Counsel

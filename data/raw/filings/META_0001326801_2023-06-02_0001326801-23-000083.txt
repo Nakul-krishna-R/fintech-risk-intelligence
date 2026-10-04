@@ -1,0 +1,283 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+May 31, 2023
+
+Meta Platforms, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+001-35551
+20-1665019
+(State or Other Jurisdiction
+of Incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+1 Meta Way
+,
+Menlo Park
+,
+California
+
+94025
+
+(Address of principal executive offices and Zip Code)
+(
+650
+)
+543-4800
+
+(Registrant’s telephone number, including area code)
+N/A
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading symbol(s)
+Name of each exchange on which registered
+Class A Common Stock, $0.000006 par value
+META
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+On May 31, 2023, Meta Platforms, Inc. (the "Company") held its annual meeting of shareholders via live audio webcast (the "Annual Meeting"). At the Annual Meeting, the Company's shareholders voted on thirteen proposals, each of which is described in more detail in the Company's definitive proxy statement filed with the Securities and Exchange Commission on April 14, 2023 (the "Proxy Statement"). At the beginning of the Annual Meeting, there were 1,754,606,529 shares of Class A common stock and 3,502,603,040 shares of Class B common stock present or represented by proxy at the Annual Meeting, which represented 91.90% of the combined voting power of the shares of Class A common stock and Class B common stock entitled to vote at the Annual Meeting (voting together as a single class), and which constituted a quorum for the transaction of business. Holders of the Company's Class A common stock were entitled to one vote for each share held as of the close of business on April 6, 2023 (the "Record Date"), and holders of the Company's Class B common stock were entitled to ten votes for each share held as of the Record Date.
+The shareholders of the Company voted on the following proposals at the Annual Meeting:
+1.
+To elect nine directors, each to serve until the next annual meeting of shareholders and until his or her successor has been elected and qualified, or until his or her earlier death, resignation, or removal.
+2.
+To ratify the appointment of Ernst & Young LLP as the Company's independent registered public accounting firm for the fiscal year ending December 31, 2023.
+3.
+A shareholder proposal regarding government takedown requests.
+4.
+A shareholder proposal regarding dual class capital structure.
+5.
+A shareholder proposal regarding human rights impact assessment of targeted advertising.
+6.
+A shareholder proposal regarding report on lobbying disclosures.
+7.
+A shareholder proposal regarding report on allegations of political entanglement and content management biases in India.
+8.
+A shareholder proposal regarding report on framework to assess company lobbying alignment with climate goals.
+9.
+A shareholder proposal regarding report on reproductive rights and date privacy.
+10.
+A shareholder proposal regarding report on enforcement of Community Standards and user content.
+11.
+A shareholder proposal regarding report on child safety impacts and actual harm reduction to children.
+12.
+A shareholder proposal regarding report on pay calibration to externalized costs.
+13.
+A shareholder proposal regarding performance review of the audit & risk oversight committee.
+1.
+Election of Directors
+Nominee
+For
+Withheld
+Broker Non-Votes
+Peggy Alford
+4,397,201,474
+638,028,279
+223,805,267
+Marc L. Andreessen
+4,562,109,965
+473,119,788
+223,805,267
+Andrew W. Houston
+4,575,049,246
+460,180,507
+223,805,267
+Nancy Killefer
+4,988,759,917
+46,469,836
+223,805,267
+Robert M. Kimmitt
+4,905,696,922
+129,532,831
+223,805,267
+Sheryl K. Sandberg
+4,995,842,498
+39,387,255
+223,805,267
+Tracey T. Travis
+4,886,849,193
+148,380,560
+223,805,267
+Tony Xu
+4,588,903,919
+446,325,834
+223,805,267
+Mark Zuckerberg
+4,628,709,257
+406,520,496
+223,805,267
+Each of the nine nominees for director was elected to serve until the next annual meeting of shareholders and until his or her successor has been elected and qualified, or until his or her earlier death, resignation, or removal.
+2.
+Ratification of Appointment of Independent Registered Public Accounting Firm
+For
+Against
+Abstentions
+5,176,904,631
+78,164,976
+3,965,413
+There were no broker non-votes on this proposal.
+The shareholders ratified the appointment of Ernst & Young LLP as the Company's independent registered public accounting firm for the fiscal year ending December 31, 2023.
+3.
+Shareholder Proposal Regarding Government Takedown Requests
+For
+Against
+Abstentions
+Broker Non-Votes
+21,161,618
+4,997,674,459
+16,393,676
+223,805,267
+The shareholders did not approve the shareholder proposal regarding government takedown requests.
+4.
+Shareholder Proposal Regarding Dual Class Capital Structure
+For
+Against
+Abstentions
+Broker Non-Votes
+1,406,841,369
+3,621,542,306
+6,846,078
+223,805,267
+The shareholders did not approve the shareholder proposal regarding dual class capital structure.
+5.
+Shareholder Proposal Regarding Human Rights Impact Assessment of Targeted Advertising
+For
+Against
+Abstentions
+Broker Non-Votes
+845,051,262
+4,119,907,712
+70,270,779
+223,805,267
+The shareholders did not approve the shareholder proposal regarding human rights impact assessment of targeted advertising.
+6.
+Shareholder Proposal Regarding Report on Lobbying Disclosures
+For
+Against
+Abstentions
+Broker Non-Votes
+731,006,998
+4,289,286,570
+14,936,185
+223,805,267
+The shareholders did not approve the shareholder proposal regarding report on lobbying disclosures.
+7.
+Shareholder Proposal Regarding Report on Allegations of Political Entanglement and Content Management Biases in India
+For
+Against
+Abstentions
+Broker Non-Votes
+228,827,965
+4,738,909,941
+67,491,847
+223,805,267
+The shareholders did not approve the shareholder proposal regarding report on allegations of political entanglement and content management biases in India.
+8.
+Shareholder Proposal Regarding Report on Framework to Assess Company Lobbying Alignment with Climate Goals
+For
+Against
+Abstentions
+Broker Non-Votes
+492,189,469
+4,527,617,352
+15,422,932
+223,805,267
+The shareholders did not approve the shareholder proposal regarding report on framework to assess company lobbying alignment with climate goals.
+9.
+Shareholder Proposal Regarding Report on Reproductive Rights and Data Privacy
+For
+Against
+Abstentions
+Broker Non-Votes
+481,236,650
+4,527,112,583
+26,880,520
+223,805,267
+The shareholders did not approve the shareholder proposal regarding report on reproductive rights and data privacy.
+10.
+Shareholder Proposal Regarding Report on Enforcement of Community Standards and User Content
+For
+Against
+Abstentions
+Broker Non-Votes
+359,502,758
+4,658,516,757
+17,210,238
+223,805,267
+The shareholders did not approve the shareholder proposal regarding report on enforcement of Community Standards and user content.
+11.
+Shareholder Proposal Regarding Report on Child Safety Impacts and Actual Harm Reduction to Children
+For
+Against
+Abstentions
+Broker Non-Votes
+817,020,915
+4,202,589,505
+15,619,333
+223,805,267
+The shareholders did not approve the shareholder proposal regarding report on child safety impacts and actual harm reduction to children.
+12.
+Shareholder Proposal Regarding Report on Pay Calibration to Externalized Costs
+For
+Against
+Abstentions
+Broker Non-Votes
+359,570,618
+4,662,026,384
+13,632,751
+223,805,267
+The shareholders did not approve the shareholder proposal regarding report on pay calibration to externalized costs.
+13.
+Shareholder Proposal Regarding Performance Review of the Audit & Risk Oversight Committee
+For
+Against
+Abstentions
+Broker Non-Votes
+333,995,525
+4,687,312,553
+13,921,675
+223,805,267
+The shareholders did not approve the shareholder proposal regarding performance review of the audit & risk oversight committee.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit Number
+Exhibit Title or Description
+104
+Cover Page Interactive Data File (the cover page XBRL tags are embedded within the inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+META PLATFORMS, INC.
+Date:
+June 1, 2023
+By:
+/s/ Katherine R. Kelly
+Name:
+Katherine R. Kelly
+Title:
+Vice President, Deputy General Counsel and Secretary

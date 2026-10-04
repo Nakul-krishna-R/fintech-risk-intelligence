@@ -1,0 +1,123 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of report (Date of earliest event reported):
+October 13, 2023
+PFIZER INC
+.
+(Exact name of registrant as specified in its charter)
+Delaware
+1-3619
+13-5315170
+(State or other
+(Commission File
+(I.R.S. Employer
+jurisdiction of
+Number)
+Identification No.)
+incorporation)
+
+66 Hudson Boulevard East
+10001-2192
+New York,
+
+New York
+
+(Zip Code)
+(Address of principal executive offices)
+Registrant’s telephone number, including area code:
+(
+212
+)
+733-2323
+
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2 (b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $.05 par value
+PFE
+New York Stock Exchange
+1.000% Notes due 2027
+PFE27
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 2.02. Results of Operations and Financial Condition.
+On October 13, 2023, Pfizer Inc. (“
+Pfizer
+” or the “
+Company
+”) issued a press release providing an update to Pfizer’s previously issued guidance for full year 2023 and other information regarding the Company’s performance in the third quarter of 2023. A copy of the press release is furnished as Exhibit 99 hereto and is incorporated herein by reference.
+The information furnished pursuant to this “Item 2.02 – Results of Operations and Financial Condition”, including Exhibit 99, shall not be deemed to be “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “
+Exchange Act
+”) or otherwise subject to the liabilities of that section, and shall not be deemed to be incorporated by reference into any filing made by us under the Exchange Act or the Securities Act of 1933, as amended (the “
+Securities Act”
+), regardless of any general incorporation language in any such filing, except as shall be expressly set forth by specific reference in such filing.
+Item 2.05. Costs Associated with Exit or Disposal Activities.
+In the fourth quarter of 2023, Pfizer announced that, to realign Pfizer’s costs with its longer-term revenue expectations, Pfizer launched a multi-year, enterprise-wide cost realignment program (the “
+Cost Realignment Program
+”).
+The Cost Realignment Program is expected to deliver targeted savings of at least $3.5 billion, of which $1.0 billion is expected to be realized in 2023 and an additional $2.5 billion is expected to be realized in 2024. The one-time costs to achieve the savings associated with the Cost Realignment Program are expected to be approximately $3.0 billion, of which the majority is expected to be cash. These costs will primarily include severance and implementation costs. The estimate of costs that Pfizer expects to incur, and the timing thereof, are subject to a number of assumptions and actual results may differ from current expectations. Pfizer may also incur other charges or cash expenditures not currently contemplated due to events that may occur as a result of, or associated with, the Cost Realignment Program.
+Item 7.01. Regulation FD Disclosure.
+On October 13, 2023, Pfizer issued a press release regarding, among other things, an amended supply agreement with the U.S. government for Paxlovid and the preceding items. A copy of the press release is furnished as Exhibit 99 hereto and is incorporated herein by reference.
+The information furnished pursuant to this “Item 7.01 – Regulation FD Disclosure”, including Exhibit 99, shall not be deemed to be “filed” for the purposes of Section 18 of the Exchange Act or otherwise subject to the liabilities of that section, and shall not be deemed to be incorporated by reference into any filing made by us under the Exchange Act or the Securities Act, regardless of any general incorporation language in any such filing, except as shall be expressly set forth by specific reference in such filing.
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit No.
+Exhibit Description
+Exhibit 99
+Press Release of Pfizer Inc. dated October
+1
+3
+, 2023
+.
+104
+Cover Page Interactive Data File--the cover page XBRL tags are embedded within the Inline XBRL document.
+Cautionary Statement Regarding Forward-Looking Statements
+This Current Report on Form 8-K and any documents referred to in this communication contain certain “forward-looking statements” within the meaning of Section 27A of the Securities Act, and Section 21E of the Exchange Act, pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, including, but not limited to, Pfizer’s efforts to combat COVID-19, Paxlovid (including an amended supply agreement with the U.S. government for Paxlovid, anticipated timing of commercialization and potential benefits), Pfizer’s and BioNTech’s COVID-19 vaccines, defined collectively herein as Comirnaty (including potential benefits), Pfizer’s anticipated operating and financial performance and expectations for Pfizer’s product pipeline, in-line products and product candidates (including revenue contribution and projections), utilization rates and an enterprise-wide cost realignment program (including anticipated costs, savings and potential benefits) that involves substantial risks and uncertainties that could cause actual results to differ materially from those expressed or implied by such statements. Risks and uncertainties include, among other things, uncertainties regarding the commercial success of Paxlovid and Comirnaty; uncertainties regarding the commercial success of Pfizer’s other products or product candidates; the
+uncertainties inherent in research and development, including the ability to meet anticipated clinical endpoints, commencement and/or completion dates for our clinical trials, regulatory submission dates, regulatory approval dates and/or launch dates, as well as risks associated with pre-clinical and clinical data (including Phase 1/2/3 or Phase 4 data for Paxlovid and Comirnaty or any of Pfizer’s other products or product candidates) in any of our studies in pediatrics, adolescents, or adults or real world evidence, including the possibility of unfavorable new pre-clinical, clinical or safety data and further analyses of existing pre-clinical, clinical or safety data or further information regarding the quality of pre-clinical, clinical or safety data; risks associated with interim data; the risk that clinical trial data are subject to differing interpretations and assessments by regulatory authorities; the ability to produce comparable clinical or other results for Paxlovid and Comirnaty or any of Pfizer’s other products or product candidates, including the rate of effectiveness and/or efficacy, safety and tolerability profile observed to date, in additional analyses of the Phase 3 trial for any such products and additional studies, in real world data studies or in larger, more diverse populations following commercialization; the ability of Comirnaty, any vaccine candidate or any future vaccine to prevent, or Paxlovid or any future COVID-19 treatment to be effective against, COVID-19 caused by emerging virus variants; the risk that use of Comirnaty or Paxlovid will lead to new information about efficacy, safety or other developments, including the risk of additional adverse reactions, some of which may be serious; the risk that pre-clinical and clinical trial data are subject to differing interpretations and assessments, including during the peer review/publication process, in the scientific community generally, and by regulatory authorities; whether and when additional data from the BNT162 mRNA vaccine program, Paxlovid or other COVID-19 programs will be published in scientific journal publications and, if so, when and with what modifications and interpretations; whether regulatory authorities will be satisfied with the design of and results from existing or future pre-clinical and clinical studies; whether and when any drug applications or submissions to request emergency use or conditional marketing authorization for any potential indications for Paxlovid or any of Pfizer’s other products or product candidates may be filed in particular jurisdictions and if obtained, whether or when such emergency use authorization or licenses will expire or terminate; whether and when submissions to request emergency use or conditional marketing authorizations for Comirnaty or any future vaccines in additional populations, for a potential booster dose for Comirnaty, any vaccine candidate or any potential future vaccines (including potential future annual boosters or re-vaccinations), and/or biologics license and/or emergency use authorization applications or amendments to any such applications may be filed in particular jurisdictions for Comirnaty, any vaccine candidates or any other potential vaccines that may arise from the BNT162 program, and if obtained, whether or when such emergency use authorizations or licenses, or existing emergency use authorizations, will expire or terminate; whether and when any applications that may be pending or filed for Paxlovid, Comirnaty or any of Pfizer’s other products or product candidates (including any requested amendments to the emergency use or conditional marketing authorizations) may be approved by particular regulatory authorities, which will depend on myriad factors, including making a determination as to whether the product's benefits outweigh its known risks and determination of the product's efficacy and, if approved, whether Paxlovid, Comirnaty or any of Pfizer’s other products or product candidates for any such indications will be commercially successful; intellectual property and other litigation; decisions by regulatory authorities impacting labeling, manufacturing processes, safety and/or other matters that could affect the availability or commercial potential of Paxlovid, Comirnaty or any of Pfizer’s other products or product candidates, including the authorization or approval of products or therapies developed by other companies; disruptions in the relationships between us and our collaboration partners, clinical trial sites or third-party suppliers, including our relationship with BioNTech; the risk that demand for Paxlovid, Comirnaty or any of Pfizer’s other products may be reduced, no longer exist or not meet expectations, which may lead to reduced revenues, excess inventory on-hand and/or in the channel which, for Paxlovid and Comirnaty, has resulted in a significant inventory write-off in the third quarter of 2023 and could continue to result in inventory write-offs or other unanticipated changes; challenges related to and uncertainties regarding the timing of a transition to the commercial market for any of our products, and in particular, Paxlovid; uncertainties related to the public’s adherence to vaccines and boosters; risks related to our ability to achieve our revenue forecasts for Paxlovid, Comirnaty or any of Pfizer’s other products or product candidates; the risk that other companies may produce superior or competitive products; risks related to the availability of raw materials to manufacture or test Paxlovid, Comirnaty or any of Pfizer’s other products or product candidates; challenges related to our vaccine’s formulation, dosing schedule and attendant storage, distribution and administration requirements, including risks related to storage and handling after delivery by Pfizer; the risk that we may not be able to successfully develop other vaccine formulations, booster doses or potential future annual boosters or re-vaccinations or new variant-based or next generation vaccines or potential combination respiratory vaccines or next generation COVID-19 treatments;
+
+the risk that we may not be able to recoup costs associated with our R&D and manufacturing efforts; risks associated with any changes in the way we approach or provide research funding for the BNT162 program, Paxlovid or any other COVID-19 program; challenges and risks associated with the pace of our development programs; the risk that we may not be able to maintain manufacturing capacity or access to logistics or supply channels commensurate with global demand, which would negatively impact our ability to supply our COVID-19 or other products; whether and when additional supply or purchase agreements will be reached or existing agreements will be completed or renegotiated; uncertainties regarding the ability to obtain recommendations from vaccine or treatment advisory or technical committees and other public health authorities and uncertainties regarding the commercial impact of any such recommendations; pricing and access challenges; challenges related to public confidence in, or awareness of Paxlovid, Comirnaty or any of Pfizer’s other products or product candidates; uncertainties around future changes to applicable healthcare policies and guidelines issued by the U.S. federal government in connection with the declared termination of the federal government’s COVID-19 public health emergency as of May 11, 2023; trade restrictions; potential third party royalties or other claims; the uncertainties inherent in business and financial planning, including, without limitation, risks related to Pfizer’s business and prospects, adverse developments in Pfizer’s markets, or adverse developments in the U.S. or global
+capital markets, credit markets, regulatory environment or economies generally; uncertainties regarding the impact of COVID-19 on our business, operations and financial results; competitive developments; uncertainties regarding the impact, success and associated costs of our enterprise-wide cost realignment program; and
+
+risks and uncertainties related to, restructurings and internal reorganizations, as well as any other corporate strategic initiatives and growth strategies, and cost-reduction and productivity initiatives, each of which requires upfront costs but may fail to yield anticipated benefits and may result in unexpected costs or organizational disruption.
+You should carefully consider the foregoing factors and the other risks and uncertainties that affect the business of Pfizer described in the “Risk Factors” and “Forward-Looking Information and Factors That May Affect Future Results” sections of its Annual Report on Form 10-K, Quarterly Reports on Form 10-Q and other documents filed by Pfizer from time to time with the U.S. Securities and Exchange Commission, all of which are available at www.sec.gov
+
+and www.pfizer.com. These filings identify and address other important risks and uncertainties that could cause actual events and results to differ materially from those contained in the forward-looking statements. Forward-looking statements speak only as of the date they are made. You are cautioned not to put undue reliance on forward-looking statements, and Pfizer assumes no obligation to, and does not intend to, update or revise these forward-looking statements, whether as a result of new information, future events, or otherwise, unless required by law. Pfizer does not give any assurance that it will achieve its expectations.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+PFIZER INC.
+
+By:
+/s/ Margaret M. Madden
+
+Margaret M. Madden
+
+Senior Vice President and Corporate Secretary
+
+Chief Governance Counsel
+
+Dated: October 13, 2023

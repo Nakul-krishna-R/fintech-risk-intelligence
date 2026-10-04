@@ -1,0 +1,358 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+May 13, 2021
+
+INTEL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+000-06217
+
+94-1672743
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+2200 Mission College Blvd.
+,
+Santa Clara
+,
+California
+
+95054-1549
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+(408)
+
+765-8080
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which
+registered
+
+Common stock, $0.001 par value
+
+INTC
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 5.07
+
+Submission of Matters to a Vote of Security Holders.
+
+Intel’s Annual Stockholders’ Meeting was held on May 13, 2021. At the meeting:
+
+1)
+
+stockholders elected the nine persons recommended by the Board to serve as directors of Intel;
+
+2)
+
+stockholders ratified the selection of Ernst & Young LLP to serve as the independent registered public accounting firm of Intel for 2021;
+
+3)
+
+stockholders did not approve, on an advisory basis, Intel’s executive compensation of its listed officers;
+
+4)
+
+stockholders did not approve the stockholder proposal on whether to allow stockholders to act by written consent;
+
+5)
+
+stockholders did not approve the stockholder proposal requesting a report on median pay gaps across race and gender; and
+
+6)
+
+stockholders did not approve the stockholder proposal requesting a report on whether written policies or unwritten norms at Intel reinforce racism in its culture.
+
+Set forth below, with respect to each such matter, are the number of votes cast for or against, the number of abstentions and the number of broker
+non-votes.
+
+1)
+
+Election of Directors
+
+Nominee
+
+For
+
+Against
+
+Abstain
+
+Broker
+Non-Votes
+
+Patrick P. Gelsinger
+
+2,719,155,531
+
+9,086,950
+
+5,842,811
+
+546,692,626
+
+James J. Goetz
+
+2,706,511,626
+
+20,050,190
+
+7,523,476
+
+546,692,626
+
+Alyssa Henry
+
+2,327,238,937
+
+400,031,164
+
+6,815,191
+
+546,692,626
+
+Omar Ishrak
+
+2,205,550,947
+
+520,783,404
+
+7,750,941
+
+546,692,626
+
+Risa Lavizzo-Mourey
+
+2,314,678,536
+
+411,778,243
+
+7,628,513
+
+546,692,626
+
+Tsu-Jae King Liu
+
+2,714,184,880
+
+12,580,554
+
+7,319,858
+
+546,692,626
+
+Gregory D. Smith
+
+2,709,117,785
+
+17,199,041
+
+7,768,466
+
+546,692,626
+
+Dion J. Weisler
+
+2,677,447,682
+
+48,545,020
+
+8,092,590
+
+546,692,626
+
+Frank D. Yeary
+
+2,666,295,062
+
+60,309,968
+
+7,480,262
+
+546,692,626
+
+2)
+
+Ratification of Selection of Independent Registered Public Accounting Firm
+
+For
+
+Against
+
+Abstain
+
+Broker
+Non-Votes
+
+3,129,591,051
+
+141,622,479
+
+9,564,388
+
+0
+
+3)
+
+Advisory Vote to Approve Executive Compensation of Intel’s Listed Officers
+
+For
+
+Against
+
+Abstain
+
+Broker
+Non-Votes
+
+1,040,533,387
+
+1,677,582,825
+
+15,969,080
+
+546,692,626
+
+4)
+
+Stockholder Proposal on Whether to Allow Stockholders to Act by Written Consent
+
+For
+
+Against
+
+Abstain
+
+Broker
+Non-Votes
+
+931,838,334
+
+1,760,760,929
+
+41,486,029
+
+546,692,626
+
+5)
+
+Stockholder Proposal Requesting a Report on Median Pay Gaps Across Race and Gender
+
+For
+
+Against
+
+Abstain
+
+Broker
+Non-Votes
+
+390,522,846
+
+2,302,664,938
+
+40,897,508
+
+546,692,626
+
+6)
+
+Stockholder Proposal Requesting a Report on Whether Written Policies or Unwritten Norms at Intel Reinforce Racism in its Culture
+
+For
+
+Against
+
+Abstain
+
+Broker
+Non-Votes
+
+298,343,369
+
+2,383,282,823
+
+52,459,100
+
+546,692,626
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+INTEL CORPORATION
+
+(Registrant)
+
+Date: May 19, 2021
+
+/s/ Susie Giordano
+
+Susie Giordano
+
+Corporate Vice President and Corporate Secretary

@@ -1,0 +1,500 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of Report:
+May 11, 2023
+
+(Date of earliest event reported)
+
+VERIZON COMMUNICATIONS INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+1-8606
+
+23-2259884
+
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(I.R.S. Employer Identification No.)
+
+1095 Avenue of the Americas
+New York
+,
+New York
+
+(Address of principal executive offices)
+
+10036
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (
+212
+)
+395-1000
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+
+Trading Symbol(s)
+
+Name of Each Exchange on Which
+Registered
+
+Common Stock, par value $0.10
+
+VZ
+
+New York Stock Exchange
+
+Common Stock, par value $0.10
+
+VZ
+
+The Nasdaq Global Select Market
+
+1.625% Notes due 2024
+
+VZ 24B
+
+New York Stock Exchange
+
+4.073% Notes due 2024
+
+VZ 24C
+
+New York Stock Exchange
+
+0.875% Notes due 2025
+
+VZ 25
+
+New York Stock Exchange
+
+3.25% Notes due 2026
+
+VZ 26
+
+New York Stock Exchange
+
+1.375% Notes due 2026
+
+VZ 26B
+
+New York Stock Exchange
+
+0.875% Notes due 2027
+
+VZ 27E
+
+New York Stock Exchange
+
+1.375% Notes due 2028
+
+VZ 28
+
+New York Stock Exchange
+
+1.125% Notes due 2028
+
+VZ 28A
+
+New York Stock Exchange
+
+2.350% Fixed Rate Notes due 2028
+
+VZ 28C
+
+New York Stock Exchange
+
+1.875% Notes due 2029
+
+VZ 29B
+
+New York Stock Exchange
+
+0.375% Notes due 2029
+
+VZ 29D
+
+New York Stock Exchange
+
+1.250% Notes due 2030
+
+VZ 30
+
+New York Stock Exchange
+
+1.875% Notes due 2030
+
+VZ 30A
+
+New York Stock Exchange
+
+4.250% Notes due 2030
+
+VZ 30D
+
+New York Stock Exchange
+
+2.625% Notes due 2031
+
+VZ 31
+
+New York Stock Exchange
+
+2.500% Notes due 2031
+
+VZ 31A
+
+New York Stock Exchange
+
+3.000% Fixed Rate Notes due 2031
+
+VZ 31D
+
+New York Stock Exchange
+
+0.875% Notes due 2032
+
+VZ 32
+
+New York Stock Exchange
+
+0.750% Notes due 2032
+
+VZ 32A
+
+New York Stock Exchange
+
+1.300% Notes due 2033
+
+VZ 33B
+
+New York Stock Exchange
+
+4.75% Notes due 2034
+
+VZ 34
+
+New York Stock Exchange
+
+4.750% Notes due 2034
+
+VZ 34C
+
+New York Stock Exchange
+
+3.125% Notes due 2035
+
+VZ 35
+
+New York Stock Exchange
+
+1.125% Notes due 2035
+
+VZ 35A
+
+New York Stock Exchange
+
+3.375% Notes due 2036
+
+VZ 36A
+
+New York Stock Exchange
+
+2.875% Notes due 2038
+
+VZ 38B
+
+New York Stock Exchange
+
+1.875% Notes due 2038
+
+VZ 38C
+
+New York Stock Exchange
+
+1.500% Notes due 2039
+
+VZ 39C
+
+New York Stock Exchange
+
+3.50% Fixed Rate Notes due 2039
+
+VZ 39D
+
+New York Stock Exchange
+
+1.850% Notes due 2040
+
+VZ 40
+
+New York Stock Exchange
+
+3.850% Fixed Rate Notes due 2041
+
+VZ 41C
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+
+At the 2023 Annual Meeting of Shareholders of Verizon Communications Inc. (“Verizon”) held on May 11, 2023, the following items were submitted to a vote of shareholders.
+
+The number of shares of common stock present at the meeting was 3,485,370,992 or 82.91% of the shares of common stock outstanding on March 13, 2023, the record date for the meeting.
+
+(a)
+
+The following nominees were elected to serve on the Board of Directors:
+
+Name of Nominee
+
+Votes Cast For
+
+Votes Cast Against
+
+Abstentions
+
+Broker Non-Votes
+
+Shellye Archambeau
+
+2,632,112,511
+
+113,619,113
+
+16,701,179
+
+722,938,189
+
+Roxanne Austin
+
+2,660,952,848
+
+85,422,398
+
+16,057,557
+
+722,938,189
+
+Mark Bertolini
+
+2,686,116,229
+
+58,310,918
+
+18,005,656
+
+722,938,189
+
+Vittorio Colao
+
+2,697,468,819
+
+47,391,404
+
+17,572,580
+
+722,938,189
+
+Melanie Healey
+
+2,600,828,024
+
+145,474,683
+
+16,130,096
+
+722,938,189
+
+Laxman Narasimhan
+
+2,660,308,826
+
+84,203,767
+
+17,920,210
+
+722,938,189
+
+Clarence Otis, Jr.
+
+2,557,683,503
+
+187,645,265
+
+17,104,035
+
+722,938,189
+
+Daniel Schulman
+
+2,677,832,166
+
+67,376,615
+
+17,224,022
+
+722,938,189
+
+Rodney Slater
+
+2,600,955,629
+
+143,912,479
+
+17,564,695
+
+722,938,189
+
+Carol Tomé
+
+2,700,975,322
+
+45,150,402
+
+16,307,079
+
+722,938,189
+
+Hans Vestberg
+
+2,482,870,823
+
+255,753,243
+
+23,808,737
+
+722,938,189
+
+Gregory Weaver
+
+2,688,390,057
+
+56,085,068
+
+17,957,678
+
+722,938,189
+
+(b)
+
+The proposal regarding the advisory vote to approve executive compensation was approved with 2,433,965,968 votes for, 245,477,777 votes against, 82,989,058 abstentions and 722,938,189 broker
+non-votes.
+
+(c)
+
+The votes cast on the proposal regarding the advisory vote on the frequency of future advisory votes to approve executive compensation were as follows: 2,590,181,124 votes for every year, 15,560,273 votes for every two years, 78,360,843 votes for every three years, 78,330,563 abstentions and 722,938,189 broker
+non-votes.
+Based on these voting results, at this time, Verizon will maintain its current policy of holding an advisory vote to approve executive compensation every year.
+
+(d)
+
+The appointment of Ernst & Young LLP as independent registered public accounting firm for 2023 was ratified with 3,311,006,974 votes for, 158,229,180 votes against and 16,134,838 abstentions.
+
+(e)
+
+The shareholder proposal regarding government requests to remove content was defeated with 72,767,462 votes for, 2,586,396,039 votes against, 103,269,302 abstentions and 722,938,189 broker
+non-votes.
+
+(f)
+
+The shareholder proposal regarding a prohibition on political contributions was defeated with 166,344,335 votes for, 2,494,332,903 votes against, 101,755,565 abstentions and 722,938,189 broker
+non-votes.
+
+(g)
+
+The shareholder proposal regarding an amendment to the clawback policy was defeated with 1,010,897,081 votes for, 1,658,287,093 votes against, 93,248,629 abstentions and 722,938,189 broker
+non-votes.
+
+(h)
+
+The shareholder proposal regarding shareholder ratification of annual equity awards was defeated with 311,376,322 votes for, 2,367,850,225 votes against, 83,206,256 abstentions and 722,938,189 broker
+non-votes.
+
+(i)
+
+The shareholder proposal regarding an independent chair was defeated with 801,454,941 votes for, 1,878,457,848 votes against, 82,520,014 abstentions and 722,938,189 broker
+non-votes.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VERIZON COMMUNICATIONS INC.
+
+Date: May 16, 2023
+
+By
+
+/s/ William L. Horton, Jr.
+
+William L. Horton, Jr.
+
+Senior Vice President, Deputy General Counsel and Corporate Secretary

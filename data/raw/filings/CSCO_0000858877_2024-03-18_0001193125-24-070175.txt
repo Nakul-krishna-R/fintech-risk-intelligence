@@ -1,0 +1,203 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+March 18, 2024
+
+CISCO SYSTEMS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-39940
+
+77-0059951
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+170 West Tasman Drive
+,
+San Jose
+,
+California
+
+95134-1706
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(408)
+
+526-4000
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.001 per share
+
+CSCO
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934 (§
+240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 2.01
+
+Completion of Acquisition or Disposition of Assets.
+
+On March 18, 2024, Cisco Systems, Inc., a Delaware corporation (the “
+Company
+”), completed the previously announced transaction with Splunk Inc., a Delaware corporation (“
+Splunk
+”), and Spirit Merger Corp., a Delaware corporation and wholly owned subsidiary of the Company (“
+Merger Sub
+”), pursuant to the Agreement and Plan of Merger, dated as of September 20, 2023 (as amended, supplemented or otherwise modified from time to time, the “
+Merger Agreement
+”), by and among the Company, Splunk and Merger Sub. Pursuant to the Merger Agreement, at the effective time of the Merger (the “
+Effective Time
+”), Merger Sub merged with and into Splunk (the “
+Merger
+”), with Splunk surviving the Merger as a wholly owned subsidiary of the Company. Capitalized terms used herein without definition have the meanings specified in the Merger Agreement.
+
+Merger Consideration
+
+As a result of the Merger, each share of common stock, par value $0.001 per share, of Splunk (“
+Splunk Common Stock
+”) outstanding immediately prior to the Effective Time (subject to certain exceptions, including shares of Splunk Common Stock owned by stockholders of Splunk who have not voted in favor of the adoption of the Merger Agreement and have properly exercised appraisal rights in accordance with Section 262 of the General Corporation Law of the State of Delaware) automatically converted into the right to receive $157.00 in cash, subject to applicable withholding taxes (the “
+Merger Consideration
+”). The aggregate equity value of the Splunk Common Stock acquired by the Company was approximately $28 billion.
+
+In addition, at the Effective Time, subject to certain exceptions, unvested Splunk options and time- and performance-based restricted stock units were converted into a cash award (with performance-based restricted stock units converting at the actual level of performance as determined at the closing by Splunk’s board of directors) with a value equal to the Merger Consideration for each share of Splunk Common Stock underlying such awards (or, in the case of such options, a value equal to the difference (if any) between the Merger Consideration and the applicable exercise price), payable on the same vesting schedule, and generally subject to the same terms and conditions, as applied to the corresponding Splunk option or restricted stock unit. Vested Splunk options and time- and performance-based restricted stock units were cancelled and converted into the right to receive the Merger Consideration for each share of Splunk Common Stock underlying such awards (or, in the case of such options, the difference (if any) between the Merger Consideration and the applicable exercise price), less any applicable tax withholdings. The Merger Consideration in respect of each share of Splunk Common Stock subject to an unvested restricted stock award remains subject to substantially the same terms and conditions, and will become payable on the same vesting schedule, as the corresponding Splunk restricted stock award.
+
+The foregoing description of the Merger Agreement and the transactions completed pursuant thereto is not complete and is subject to, and qualified in its entirety by reference to the full text of the Merger Agreement, which was filed as Exhibit 2.1 to the Current Report on
+Form 8-K
+filed by the Company on September 21, 2023.
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On March 18, 2024, the Company issued a press release announcing the closing of the Merger. The full text of the press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+
+The information contained in Item 7.01 of this report, including the information in Exhibit 99.1 attached to this report, is furnished pursuant to Item 7.01 of
+Form 8-K and
+shall not be deemed “filed” for the purposes of Section 18 of the Exchange Act, or otherwise subject to the liabilities of that section. Furthermore, the information in Item 7.01 of this report, including the information in Exhibit 99.1 attached to this report, shall not be deemed to be incorporated by reference in the filings of the registrant under the Securities Act of 1933, as amended.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+
+No.
+
+Description of Exhibit
+
+2.1
+
+Agreement and Plan of Merger, dated as of September 20, 2023, by and among Cisco Systems, Inc., Spirit Merger Corp. and Splunk Inc. (incorporated by reference to Exhibit 2.1 to the Company’s Current Report on Form 8-K filed by the Company on September 21, 2023).
+
+99.1
+
+Press Release, dated as of March 18, 2024.
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+CISCO SYSTEMS, INC.
+
+Date: March 18, 2024
+
+By:
+
+/s/ Evan Sloves
+
+Name:
+
+Evan Sloves
+
+Title:
+
+Secretary

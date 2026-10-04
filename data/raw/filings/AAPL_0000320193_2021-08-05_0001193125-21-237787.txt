@@ -1,0 +1,267 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+July 29, 2021
+
+Date of Report (Date of earliest event reported)
+
+Apple Inc.
+
+(Exact name of Registrant as specified in its charter)
+
+California
+
+001-36743
+
+94-2404110
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(I.R.S. Employer
+Identification No.)
+
+One Apple Park Way
+
+Cupertino
+,
+California
+
+95014
+
+(Address of principal executive offices) (Zip Code)
+
+(
+408
+)
+996-1010
+
+(Registrant’s telephone number, including area code)
+
+Not applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock, $0.00001 par value per share
+
+AAPL
+
+The Nasdaq Stock Market LLC
+
+1.000% Notes due 2022
+
+—
+
+The Nasdaq Stock Market LLC
+
+1.375% Notes due 2024
+
+—
+
+The Nasdaq Stock Market LLC
+
+0.000% Notes due 2025
+
+—
+
+The Nasdaq Stock Market LLC
+
+0.875% Notes due 2025
+
+—
+
+The Nasdaq Stock Market LLC
+
+1.625% Notes due 2026
+
+—
+
+The Nasdaq Stock Market LLC
+
+2.000% Notes due 2027
+
+—
+
+The Nasdaq Stock Market LLC
+
+1.375% Notes due 2029
+
+—
+
+The Nasdaq Stock Market LLC
+
+3.050% Notes due 2029
+
+—
+
+The Nasdaq Stock Market LLC
+
+0.500% Notes due 2031
+
+—
+
+The Nasdaq Stock Market LLC
+
+3.600% Notes due 2042
+
+—
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 8.01
+
+Other Events.
+
+On August 5, 2021, Apple Inc. (“Apple”) consummated the issuance and sale of $2,300,000,000 aggregate principal amount of its 1.400% Notes due 2028 (the “2028 Notes”), $1,000,000,000 aggregate principal amount of its 1.700% Notes due 2031 (the “2031 Notes”), $1,800,000,000 aggregate principal amount of its 2.700% Notes due 2051 (the “2051 Notes”) and $1,400,000,000 aggregate principal amount of its 2.850% Notes due 2061 (the “2061 Notes” and, together with the 2028 Notes, the 2031 Notes and the 2051 Notes, the “Notes”), pursuant to an underwriting agreement (the “Underwriting Agreement”) dated July 29, 2021 among Apple and Goldman Sachs & Co. LLC, BofA Securities, Inc. and Barclays Capital Inc., as representatives of the several underwriters named therein.
+
+The Notes are being issued pursuant to an indenture, dated as of November 5, 2018 (the “Indenture”), between Apple and The Bank of New York Mellon Trust Company, N.A., as trustee, together with the officer’s certificate, dated August 5, 2021 (the “Officer’s Certificate”), issued pursuant to the Indenture establishing the terms of each series of Notes.
+
+The Notes are being issued pursuant to Apple’s Registration Statement on Form
+S-3
+filed with the Securities and Exchange Commission on November 5, 2018 (Reg.
+No. 333-228159)
+(the “Registration Statement”).
+
+Interest on the Notes will be paid semi-annually in arrears on August 5 and February 5 of each year, beginning on February 5, 2022.
+
+The 2028 Notes will mature on August 5, 2028. The 2031 Notes will mature on August 5, 2031. The 2051 Notes will mature on August 5, 2051. The 2061 Notes will mature on August 5, 2061.
+
+The Notes will be Apple’s senior unsecured obligations and will rank equally with Apple’s other unsecured and unsubordinated debt from time to time outstanding.
+
+The foregoing description of the Notes and related agreements is qualified in its entirety by the terms of the Underwriting Agreement, the Indenture and the Officer’s Certificate (including the forms of the Notes). Apple is furnishing the Underwriting Agreement and the Officer’s Certificate (including the forms of the Notes) attached hereto as Exhibits 1.1 and 4.1 through 4.5, respectively, and they are incorporated herein by reference. The Indenture is filed as Exhibit 4.1 to the Registration Statement. An opinion regarding the legality of the Notes is filed as Exhibit 5.1, and is incorporated by reference into the Registration Statement; and a consent relating to the incorporation of such opinion is incorporated by reference into the Registration Statement and is filed as Exhibit 23.1 by reference to its inclusion within Exhibit 5.1.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d)
+
+Exhibits.
+
+Exhibit
+
+Number
+
+Exhibit Description
+
+1.1
+
+Underwriting Agreement, dated July 29, 2021, among Apple Inc. and Goldman Sachs & Co. LLC, BofA Securities, Inc. and Barclays Capital Inc., as representatives of the several underwriters named therein
+
+4.1
+
+Officer’s Certificate of Apple Inc., dated August 5, 2021
+
+4.2
+
+Form of Global Note representing the 2028 Notes (included in Exhibit 4.1)
+
+4.3
+
+Form of Global Note representing the 2031 Notes (included in Exhibit 4.1)
+
+4.4
+
+Form of Global Note representing the 2051 Notes (included in Exhibit 4.1)
+
+4.5
+
+Form of Global Note representing the 2061 Notes (included in Exhibit 4.1)
+
+5.1
+
+Opinion of Latham & Watkins LLP
+
+23.1
+
+Consent of Latham & Watkins LLP (included in the opinion filed as Exhibit 5.1)
+
+104
+
+Inline XBRL for the cover page of this Current Report on Form 8-K.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: August 5, 2021
+
+Apple Inc.
+
+By:
+
+/s/ Luca Maestri
+
+Luca Maestri
+
+Senior Vice President,
+
+Chief Financial Officer

@@ -1,0 +1,156 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported)
+June 5, 2024
+
+ALPHABET INC.
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-37580
+
+61-1767919
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+1600 Amphitheatre Parkway
+Mountain View
+,
+CA
+
+94043
+(Address of principal executive offices, including zip code)
+(
+650
+)
+253-0000
+(Registrant’s telephone number, including area code)
+Not Applicable
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Class A Common Stock, $0.001 par value
+
+GOOGL
+
+Nasdaq Stock Market LLC
+
+(Nasdaq Global Select Market)
+
+Class C Capital Stock, $0.001 par value
+
+GOOG
+
+Nasdaq Stock Market LLC
+
+(Nasdaq Global Select Market)
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02.
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On June 5, 2024, Alphabet Inc. (“Alphabet”) announced the appointment of Anat Ashkenazi, age 51, as the new Chief Financial Officer and Senior Vice President of Alphabet and Google LLC, effective July 31, 2024.
+Ms. Ashkenazi has served as Executive Vice President and Chief Financial Officer of Eli Lilly and Company, where she has worked for over 23 years. Ms. Ashkenazi joined Eli Lilly in 2001 and has had a diverse career spanning financial, strategy and operations roles. Prior to serving as Executive Vice President and Chief Financial Officer, Ms. Ashkenazi served in the role of Senior Vice President, Controller and Chief Financial Officer of Lilly Research Laboratories. She also held roles as the chief financial officer for a number of global divisions within Eli Lilly, including Oncology, Diabetes, Global Manufacturing & Quality, and Research & Development. Ms. Ashkenazi holds an MBA from Tel Aviv University and a BA in economics and business administration from the Hebrew University.
+Alphabet will separately provide the information called for in Item 5.02(c)(3) of Form
+8-K.
+A copy of the release announcing her appointment is attached hereto as Exhibit 99.1.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+(d) Exhibits
+
+Exhibit
+No.
+
+Description
+
+99.1
+
+Press release of Alphabet Inc. dated June 5, 2024
+
+104
+
+Cover Page Interactive Data File (formatted as inline XBRL)
+
+2
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ALPHABET INC.
+
+June 5, 2024
+
+/s/ Kathryn W. Hall
+
+Kathryn W. Hall
+
+Assistant Secretary
+
+3

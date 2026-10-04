@@ -1,0 +1,111 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+January 24, 2023
+
+VISA INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+Delaware
+
+001-33977
+
+26-0267673
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+Identification No.)
+
+P.O. Box 8999
+
+San Francisco,
+California
+
+94128-8999
+(Address of Principal Executive Offices)
+(Zip Code)
+Registrant’s Telephone Number, Including Area Code: (
+650
+)
+432-3200
+
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Class A Common Stock, par value $0.0001 per share
+V
+New York Stock Exchange
+1.500% Senior Notes due 2026
+V26
+New York Stock Exchange
+2.000% Senior Notes due 2029
+V29
+New York Stock Exchange
+2.375% Senior Notes due 2034
+V34
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 2.02
+
+Results of Operations and Financial Condition.
+On January 26, 2023, Visa Inc. (the "Company") issued an earnings release announcing financial results for the Company's fiscal first quarter ended December 31, 2022.
+A copy of the earnings release is attached hereto as Exhibit 99.1. All information in the earnings release is furnished but not filed.
+On January 26, 2023, the Company will host a conference call to discuss its fiscal first quarter ended December 31, 2022 financial results.
+Item 8.01
+
+Other Events.
+On January 24, 2023, the Company’s board of directors declared a quarterly cash dividend in the amount of $0.45 per share of class A common stock (determined in the case of class B and C common stock and series A, B and C convertible participating preferred stock on an as-converted basis), payable on March 1, 2023, to all holders of record as of February 10, 2023.
+Item 9.01
+
+Financial Statements and Exhibits.
+(d) Exhibits
+
+Exhibit
+Number
+Description
+99.1
+Earnings Release of Visa Inc., dated January 26, 2023
+104
+Cover Page Interactive Data File (formatted as Inline XBRL)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VISA INC.
+
+Date:
+January 26, 2023
+
+By:
+
+/s/ Vasant M. Prabhu
+
+Vasant M. Prabhu
+Vice Chair, Chief Financial Officer

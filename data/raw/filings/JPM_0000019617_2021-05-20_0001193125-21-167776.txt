@@ -1,0 +1,239 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (date of earliest event reported):
+May 19, 2021
+
+JPMorgan Chase & Co.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+1-5805
+
+13-2624428
+
+(State or other jurisdiction of
+
+incorporation or organization)
+
+(Commission File Number)
+
+(I.R.S. employer
+
+identification no.)
+
+383 Madison Avenue
+,
+New York
+,
+New York
+
+10179
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+(212)
+
+270-6000
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock
+
+JPM
+
+The New York Stock Exchange
+
+Depositary Shares, each representing a one-four hundredth interest in a share of 6.10% Non-Cumulative Preferred Stock, Series AA
+
+JPM PR G
+
+The New York Stock Exchange
+
+Depositary Shares, each representing a one-four hundredth interest in a share of 6.15% Non-Cumulative Preferred Stock, Series BB
+
+JPM PR H
+
+The New York Stock Exchange
+
+Depositary Shares, each representing a one-four hundredth interest in a share of 5.75% Non-Cumulative Preferred Stock, Series DD
+
+JPM PR D
+
+The New York Stock Exchange
+
+Depositary Shares, each representing a one-four hundredth interest in a share of 6.00% Non-Cumulative Preferred Stock, Series EE
+
+JPM PR C
+
+The New York Stock Exchange
+
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.75% Non-Cumulative Preferred Stock, Series GG
+
+JPM PR J
+
+The New York Stock Exchange
+
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.55% Non-Cumulative Preferred Stock, Series JJ
+
+JPM PR K
+
+The New York Stock Exchange
+
+Alerian MLP Index ETNs due May 24, 2024
+
+AMJ
+
+NYSE Arca, Inc.
+
+Guarantee of Callable
+Step-Up
+Fixed Rate Notes due April 26, 2028 of JPMorgan
+Chase Financial Company LLC
+
+JPM/28
+
+The New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 3.03. Material Modification to Rights of Security Holders
+
+On May 20, 2021, JPMorgan Chase & Co. (the “Company”) issued 185,000 shares (the “Shares”) of the Company’s 4.625%
+Non-Cumulative
+Preferred Stock, Series LL, par value of $1.00 per share and with a liquidation preference of $10,000 per share (the “Series LL Preferred Stock”), which Shares were deposited against delivery of depositary receipts (the “Depositary Receipts”) evidencing 74,000,000 depositary shares (the “Depositary Shares”), each representing a 1/400th interest in a Share, issued by Computershare Inc., as depositary.
+
+Under the terms of the Series LL Preferred Stock, the ability of the Company to pay dividends on, make distributions with respect to, or to redeem, purchase or acquire, or make a liquidation payment on its common stock or any preferred stock ranking on a parity with or junior to the Series LL Preferred Stock, will be subject to restrictions in the event that the Company does not declare dividends on the Series LL Preferred Stock for the most recently completed dividend period or, in the case of any such liquidation payment, does not pay to holders of the Series LL Preferred Stock liquidation distributions of $10,000 per Share, plus any declared and unpaid dividends.
+
+The terms of the Series LL Preferred Stock are more fully described in the Certificate of Designations (as defined below), which establishes the rights, preferences, privileges, qualifications, restrictions and limitations relating to the Series LL Preferred Stock. Copies of the Certificate of Designations and the form of certificate representing the Series LL Preferred Stock are included as Exhibit 3.1 and Exhibit 4.1, respectively, to this Current Report on Form
+8-K
+and are incorporated by reference herein. The terms of the Depositary Shares are set forth in the Deposit Agreement, dated May 20, 2021, among the Company, Computershare Inc., as depositary, and the holders from time to time of the Depositary Receipts issued thereunder (the “Deposit Agreement”) and the form of Depositary Receipt. Copies of the Deposit Agreement and the form of Depositary Receipt are included as Exhibit 4.2 and Exhibit 4.3, respectively, to this Current Report on Form
+8-K
+and are incorporated by reference herein.
+
+Item 5.03. Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+On May 19, 2021, the Company filed a Certificate of Designations, Powers, Preferences and Rights with the Secretary of State of the State of Delaware, establishing the rights, preferences, privileges, qualifications, restrictions and limitations relating to the Series LL Preferred Stock (the “Certificate of Designations”). The Certificate of Designations became effective with the Secretary of State of the State of Delaware upon filing. A copy of the Certificate of Designations is included as Exhibit 3.1 to this Current Report on Form
+8-K
+and is incorporated by reference herein.
+
+Item 8.01. Other Events.
+
+On May 20, 2021, the Company completed the issuance and sale of 185,000 Shares, which Shares were deposited against delivery of Depositary Receipts evidencing 74,000,000 Depositary Shares, pursuant to an Underwriting Agreement, dated May 13, 2021, among the Company, J.P. Morgan Securities LLC and the other several underwriters named therein. The sale of the Depositary Shares was made pursuant to the Company’s Registration Statement on Form
+S-3
+(File
+No. 333-230098).
+In connection with this offering, the legal opinion as to the legality of the Depositary Shares and the Series LL Preferred Stock is being filed as Exhibit 5.1 to this Current Report on Form
+8-K.
+
+Item 9.01. Financial Statements and Exhibits
+
+(d) Exhibits
+
+3.1
+
+Certificate of Designations, Powers, Preferences and Rights of JPMorgan Chase & Co., establishing the rights, preferences, privileges, qualifications, restrictions and limitations relating to the 4.625%
+Non-Cumulative
+Preferred Stock, Series LL, filed May 19, 2021.
+
+4.1
+
+Form of certificate representing the Series LL Preferred Stock.
+
+4.2
+
+Deposit Agreement, dated May 20, 2021, among JPMorgan Chase & Co., Computershare Inc., as depositary, and the holders from time to time of Depositary Receipts.
+
+4.3
+
+Form of Depositary Receipt (included as part of Exhibit 4.2).
+
+5.1
+
+Opinion of Simpson Thacher & Bartlett LLP as to the legality of the 4.625%
+Non-Cumulative
+Preferred Stock, Series LL and the Depositary Shares.
+
+23.1
+
+Consent of Simpson Thacher & Bartlett LLP (included as part of Exhibit 5.1).
+
+101
+
+Pursuant to Rule 406 of Regulation
+S-T,
+the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language).
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+JPMORGAN CHASE & CO.
+
+(Registrant)
+
+By:
+
+/s/ Jordan A. Costa
+
+Name:
+
+Jordan A. Costa
+
+Title:
+
+Managing Director
+
+Dated: May 20, 2021

@@ -1,0 +1,214 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)
+May 27, 2021
+
+General Electric Company
+
+(Exact name of registrant as specified in its charter)
+
+New York
+
+001-00035
+
+14-0689340
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+5 Necco Street
+,
+Boston
+,
+MA
+
+02210
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code (
+617
+)
+443-3000
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions
+(see General Instructions A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock, par value $0.06 per share
+
+GE
+
+New York Stock Exchange
+
+0.375% Notes due 2022
+
+GE 22A
+
+New York Stock Exchange
+
+1.250% Notes due 2023
+
+GE 23E
+
+New York Stock Exchange
+
+0.875% Notes due 2025
+
+GE 25
+
+New York Stock Exchange
+
+1.875% Notes due 2027
+
+GE 27E
+
+New York Stock Exchange
+
+1.500% Notes due 2029
+
+GE 29
+
+New York Stock Exchange
+
+7 1/2% Guaranteed Subordinated Notes due 2035
+
+GE /35
+
+New York Stock Exchange
+
+2.125% Notes due 2037
+
+GE 37
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 2.03. Creation of a Direct Financial Obligation or an
+Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+On May 27, 2021 (the “Closing Date”), General Electric
+Company (“GE”) entered into an amended and restated senior unsecured back-up revolving syndicated credit facility extended
+by 30 banks at an initial aggregate principal commitment amount of $10 billion (the “
+Amended Senior Unsecured Credit Facility
+”).
+The Amended Senior Unsecured Credit Facility amends GE’s $15 billion back-up revolving syndicated credit facility that was
+scheduled to mature in April 2023.
+
+The Amended Senior Unsecured Credit Facility matures on May
+27, 2026, and any borrowings under the Amended Senior Unsecured Credit Facility may, at the election of GE, be prepaid prior to
+such date, in whole or in part, without premium or penalty. Extensions of credit under the Amended Senior Unsecured Credit Facility
+may be utilized by GE for general corporate purposes. The Amended Senior Unsecured Credit Facility, which includes a net debt-to-EBITDA
+financial covenant, is attached as Exhibit 10 and incorporated by reference herein. From the Closing Date until two years following
+the closing of the transactions contemplated by the Transaction Agreement, dated as of March 9, 2021, by and among General Electric
+Company, AerCap Holdings N.V. and other parties party thereto, such financial covenant excludes (i) debt originally issued or incurred
+by General Electric Capital Corporation prior to the Closing Date and debt guaranteed by General Electric Company that was originally
+issued by General Electric Capital Corporation, GE Capital Global Holdings, LLC or any of their respective subsidiaries prior to
+the Closing Date and (ii) consolidated EBITDA of GE Capital Global Holdings, LLC and any of its subsidiaries. As of the date hereof,
+GE has made no borrowings under the Amended Senior Unsecured Credit Facility.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit Number
+
+Description
+
+10*
+
+Amended and Restated Credit Agreement, dated as of May 27, 2021, among General Electric Company, as the borrower, JPMorgan Chase Bank, N.A., as Administrative Agent, and the lenders party thereto.
+
+104
+
+The cover page from this Current Report on Form 8-K, formatted in Inline XBRL.
+
+*
+
+Portions of this exhibit have been omitted pursuant to Rule 601(b)(10) of Regulation S-K.
+
+(
+2
+)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+General Electric Company
+
+(Registrant)
+
+Date: May 27, 2021
+
+/s/ Christoph A. Pereira
+
+Christoph A. Pereira
+
+Vice President, Chief Risk Officer and Chief Corporate Counsel
+
+(
+3
+)

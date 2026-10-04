@@ -1,0 +1,200 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+May 7, 2024
+INTEL CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+000-06217
+94-1672743
+(State or other jurisdiction
+(Commission
+(IRS Employer
+of incorporation)
+File Number)
+Identification No.)
+
+2200 Mission College Boulevard
+,
+Santa Clara
+,
+California
+95054-1549
+(Address of principal executive offices)
+(Zip Code)
+Registrant's telephone number, including area code:
+(408)
+
+765-8080
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, $0.001 par value
+INTC
+Nasdaq Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+Item 5.07
+
+Submission of Matters to a Vote of Security Holders.
+At the annual meeting of stockholders (the "Annual Meeting") of Intel Corporation (the "Company") held on May 7, 2024, a total of 3,509,804,090 shares of the Company's common stock were present or represented by proxy, representing 82.5% of the 4,256,872,276 shares outstanding as of the close of business on March 11, 2024, the record date for the determination of stockholders entitled to vote at the Annual Meeting.
+The following are the voting results on the seven proposals considered and voted upon at the Annual Meeting, all of which were described in the Company's Proxy Statement filed with the U.S. Securities & Exchange Commission on March 28, 2024.
+Proposal 1. Election of Directors:
+All Directors Elected
+Nominee
+For
+Against
+Abstain
+Broker Non-Votes
+Patrick P. Gelsinger
+2,701,870,173
+62,376,874
+7,935,879
+737,621,164
+James J. Goetz
+2,684,253,295
+79,247,372
+8,682,259
+737,621,164
+Andrea J. Goldsmith
+2,722,766,834
+40,797,591
+8,618,501
+737,621,164
+Alyssa H. Henry
+2,696,846,424
+66,752,947
+8,583,555
+737,621,164
+Omar Ishrak
+2,657,993,613
+105,225,289
+8,964,024
+737,621,164
+Risa Lavizzo-Mourey
+2,481,475,287
+270,445,991
+20,261,648
+737,621,164
+Tsu-Jae King Liu
+2,660,722,352
+102,589,383
+8,871,191
+737,621,164
+Barbara G. Novick
+2,663,655,202
+99,821,485
+8,706,239
+737,621,164
+Gregory D. Smith
+2,709,354,314
+53,689,931
+9,138,681
+737,621,164
+Stacy J. Smith
+2,741,507,664
+22,557,061
+8,118,201
+737,621,164
+Lip-Bu Tan
+2,716,660,030
+45,138,648
+10,384,248
+737,621,164
+Dion J. Weisler
+2,656,105,219
+107,007,233
+9,070,474
+737,621,164
+Frank D. Yeary
+2,625,936,279
+137,242,664
+9,003,983
+737,621,164
+Proposal 2. Ratification of Selection of Independent Registered Public Accounting Firm:
+Approved
+
+For
+Against
+Abstain
+Broker Non-Votes
+3,279,378,828
+219,232,518
+11,192,744
+—
+Proposal 3. Advisory Vote to Approve Compensation of Named Executive Officers:
+Approved
+For
+Against
+Abstain
+Broker Non-Votes
+2,465,544,401
+285,877,467
+20,761,058
+737,621,164
+Proposal 4. Stockholder Proposal Requesting a Corporate Financial Sustainability Board Committee:
+Not Approved
+For
+Against
+Abstain
+Broker Non-Votes
+34,575,888
+2,712,681,144
+24,925,894
+737,621,164
+Proposal 5. Stockholder Proposal Requesting a Risk Report of Opposing State Abortion Regulation:
+Not Approved
+For
+Against
+Abstain
+Broker Non-Votes
+22,682,787
+2,705,994,928
+43,505,211
+737,621,164
+Proposal 6. Stockholder Proposal Requesting an Excessive Golden Parachute Approval Policy:
+Not Approved
+For
+Against
+Abstain
+Broker Non-Votes
+201,304,600
+2,558,539,443
+12,338,883
+737,621,164
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+INTEL CORPORATION
+(Registrant)
+Date:
+May 9, 2024
+By:
+/s/ April Miller Boise
+April Miller Boise
+Executive Vice President and Chief Legal Officer

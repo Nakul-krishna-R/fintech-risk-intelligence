@@ -1,0 +1,122 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+________________________
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of Report (date of earliest event reported)
+October 18, 2024
+Walmart Inc.
+(Exact name of registrant as specified in its charter)
+DE
+001-06991
+71-0415188
+(State or other jurisdiction of incorporation or organization)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+702 S.W. 8th Street
+
+Bentonville
+,
+AR
+
+72716-0215
+
+(Address of Principal Executive Offices) (Zip code)
+Registrant's telephone number, including area code
+(
+479
+)
+273-4000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.10 per share
+WMT
+New York Stock Exchange
+2.550% Notes due 2026
+WMT26
+New York Stock Exchange
+1.050% Notes due 2026
+WMT26A
+New York Stock Exchange
+1.500% Notes due 2028
+WMT28C
+New York Stock Exchange
+4.875% Notes due 2029
+WMT29B
+New York Stock Exchange
+5.750% Notes due 2030
+WMT30B
+New York Stock Exchange
+1.800% Notes due 2031
+WMT31A
+New York Stock Exchange
+5.625% Notes due 2034
+WMT34
+New York Stock Exchange
+5.250% Notes due 2035
+WMT35A
+New York Stock Exchange
+4.875% Notes due 2039
+WMT39
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 7.01 Regulation FD Disclosure.
+On October 18, 2024, Walmart Inc., a Delaware corporation (the “Company” or “Walmart”), announced a settlement agreement, subject to court approval, that would resolve certain shareholder derivative actions and release other potential derivative claims as outlined below. As the Company has previously disclosed, three shareholders of the Company filed a derivative action in the Delaware Court of Chancery alleging that certain current and former directors and officers breached their fiduciary duties by failing to adequately oversee the Company’s distribution and dispensing of prescription opioids. This action is
+Ontario Provincial Council of Carpenters’ Pension Trust Fund, et al. v. Walton, et al.
+, Delaware Court of Chancery, Case No. 2021-0827-JTL (“Ontario Action”). Also as previously disclosed, other shareholders of the Company filed two derivative actions alleging that certain current and former directors and officers breached fiduciary duties and violated federal securities laws in connection with the Company’s distribution and dispensing of prescription opioids. These actions are
+Abt v. Alvarez, et al.
+, U.S. District Court for the District of Delaware, Case No. 21-cv-00172-CFC
+
+and
+Nguyen v. McMillon, et al.
+, U.S. District Court for the District of Delaware, Case No. 21-cv-00551-CFC (collectively with the Ontario Action, the “Derivative Actions”). On May 5, 2023, the Walmart Board of Directors adopted resolutions creating a special litigation committee (“Special Litigation Committee”) to investigate, review, and analyze the facts and circumstances surrounding the claims and allegations in the Derivative Actions and determine whether the prosecution of such claims is in Walmart’s best interest.
+The parties to the Ontario Action and the Special Litigation Committee have reached an agreement that would resolve the Derivative Actions and release other potential derivative claims. If the Delaware Court of Chancery (“Court”) approves the proposed settlement: (i) insurance carriers would pay the Company $123 million, less any attorneys’ fees and litigation expenses awarded by the Court to plaintiffs’ counsel; and (ii) the Company would maintain certain corporate governance practices for a period of at least five years. The settlement does not include any admission of liability, and the defendants expressly deny any wrongdoing. The terms and conditions of the proposed settlement are contained in the Stipulation and Agreement of Settlement, Compromise, and Release (the “Settlement Agreement”).
+On October 15, 2024, the Court entered an Order in the Ontario Action directing the Company to issue this Form 8-K to provide shareholders with the Notice of Pendency of Derivative Action, Proposed Settlement of Derivative Action, Settlement Hearing, and Right to Appear (the “Notice”) and the Settlement Agreement. The Notice and the Settlement Agreement are attached hereto as Exhibits 99.1 and 99.2, respectively, and are incorporated herein by reference. The Notice and Settlement Agreement are also available for review on the Investor Relations section of the Company’s website at
+https://stock.walmart.com/financials/sec-filings/derivativesettlementnotice.
+In accordance with General Instruction B.2 of Form 8-K, the information in this Current Report on Form 8-K, including Exhibits 99.1 and 99.2 hereto, which are furnished herewith pursuant to and relate to this Item 7.01, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise be subject to the liabilities of Section 18 of the Exchange Act. The information in this Item 7.01 of this Current Report on Form 8-K and Exhibits 99.1 and 99.2 hereto shall not be incorporated by reference into any filing or other document filed by the Company with the SEC pursuant to the Securities Act of 1933, as amended, the rules and regulations of the SEC thereunder, the Exchange Act, or the rules and regulations of the SEC thereunder except as shall be expressly set forth by specific reference in such filing or document.
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits
+The following documents are furnished as exhibits to this Current Report on Form 8-K:
+99.1
+Notice of Pendency of Derivative Action, Proposed Settlement of Derivative Action, Settlement Hearing, and Right to Appear
+99.2
+Stipulation and Agreement of Settlement, Compromise, and Release
+104
+Cover Page Interactive Data File (formatted as Inline XBRL).
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated: October 18, 2024
+WALMART INC.
+By:
+/s/ Gordon Y. Allison
+Name:
+Gordon Y. Allison
+Title:
+Senior Vice President, Office of the Corporate Secretary, and Chief Counsel for Finance and Corporate Governance

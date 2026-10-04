@@ -1,0 +1,167 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+December 29, 2021
+
+INTEL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+000-06217
+
+94-1672743
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+2200 Mission College Blvd.
+,
+Santa Clara
+,
+California
+
+95054-1549
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+(408)
+
+765-8080
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock, $0.001 par value
+
+INTC
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+As previously disclosed, on October 19, 2020, Intel Corporation (“Intel”) and SK hynix Inc. (“SK hynix”) announced that they had entered into a definitive agreement pursuant to which, subject to the satisfaction or waiver of certain conditions, SK hynix would acquire (i) at a first closing, Intel’s NAND memory fabrication facility in Dalian, China and certain related equipment and tangible assets, and Intel’s NAND solid-state drive business, and (ii) at a second closing, Intel’s NAND memory technology and manufacturing business. On December 29, 2021, Intel issued a press release announcing the first closing of the transaction, a copy of which is furnished hereto as Exhibit 99.1.
+
+The information in Item 7.01 of this report and the press release attached hereto as Exhibit 99.1 are furnished and shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+The following exhibits are provided as part of this report:
+
+Exhibit
+
+Description
+
+99.1
+
+Press Release issued by Intel Corporation dated December 29, 2021.
+
+104
+
+Cover Page Interactive Data File, formatted in Inline XBRL and included as Exhibit 101.
+
+Forward-Looking Statements
+
+Statements in this report that refer to future plans and expectations, including with respect to the transactions contemplated by SK hynix’s agreement to acquire Intel’s NAND memory and storage business, NAND manufacturing and supply arrangements and other relationships between Intel and SK hynix, and Intel’s business and investment plans, are forward-looking statements that involve a number of risks and uncertainties. Words such as “anticipates,” “expects,” “intends,” “goals,” “plans,” “believes,” “seeks,” “estimates,” “continues,” “may,” “will,” “would,” “should,” “could,” and variations of such words and similar expressions are intended to identify such forward-looking statements. Statements that refer to or are based on estimates, forecasts, projections, uncertain events or assumptions, including statements relating to the benefits of the transactions contemplated by SK hynix’s agreement to acquire Intel’s NAND memory and storage business; the timing and closing conditions of such transactions; the timing of receipt of transaction consideration; anticipated trends in Intel’s business or the markets relevant to it; investment returns and benefits; and future products and technology and the availability and benefits of such products and technology also identify forward-looking statements. Such statements are based on current expectations and involve many risks and uncertainties that could cause actual results to differ materially from those expressed or implied in these forward-looking statements. Important factors that could cause actual results to differ materially from current expectations include, among others, that governmental authorities may not approve the transactions; that the final closing of the transactions may not occur or may be delayed; that expected financial or other benefits of the transactions may not be realized; that the timing of receipt of transaction consideration could be impacted by foreign exchange controls or other regulatory requirements; that litigation related to the transactions or limitations or restrictions imposed by regulatory authorities may delay, permanently restrain or negatively impact the transactions; that unanticipated transition costs may be incurred; that the transactions may not be supported by third parties; and that there may be negative changes in general economic or geopolitical conditions affecting the regions or the industries in which Intel and SK hynix operate; as well as the factors set forth in Intel’s SEC filings, including Intel’s most recent reports on Forms
+10-K
+and
+10-Q.
+Copies of Intel’s SEC filings may be obtained by visiting Intel’s Investor Relations website at www.intc.com or the SEC’s website at www.sec.gov. Intel does not undertake, and expressly disclaims, any duty to update any statement made in this report, whether as a result of new information, new developments or otherwise, except to the extent that disclosure may be required by law.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+INTEL CORPORATION
+
+(Registrant)
+
+Date: December 29, 2021
+
+/s/ Susie Giordano
+
+Susie Giordano
+
+Corporate Vice President and Corporate Secretary

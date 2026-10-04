@@ -1,0 +1,505 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of Report (Date of Earliest Event Reported):
+October 13, 2023
+
+(October 10, 2023)
+
+THE PROCTER & GAMBLE COMPANY
+
+(Exact Name of Registrant as Specified in Its Charter)
+
+Ohio
+
+001-00434
+
+31-0411980
+
+(State or Other Jurisdiction of Incorporation)
+
+(Commission File Number)
+
+(I.R.S. Employer Identification No.)
+
+One Procter & Gamble Plaza
+,
+Cincinnati
+,
+Ohio
+
+45202
+
+(Address of principal executive offices, including zip code)
+
+513
+-
+983-1100
+
+(Registrant’s telephone number, including area code)
+
+(Former name or former address, if changed since
+last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock without Par Value
+
+PG
+
+NYSE
+
+1.125% Notes due 2023
+
+PG23A
+
+NYSE
+
+0.500% Notes due 2024
+
+PG24A
+
+NYSE
+
+0.625% Notes due 2024
+
+PG24B
+
+NYSE
+
+1.375% Notes due 2025
+
+PG25
+
+NYSE
+
+0.110% Notes due 2026
+
+PG26D
+
+NYSE
+
+3.25% Notes due 2026
+
+PG26E
+
+NYSE
+
+4.875% EUR notes due May 2027
+
+PG27A
+
+NYSE
+
+1.200% Notes due 2028
+
+PG28
+
+NYSE
+
+1.250% Notes due 2029
+
+PG29B
+
+NYSE
+
+1.800% Notes due 2029
+
+PG29A
+
+NYSE
+
+6.250% GBP notes due January 2030
+
+PG30
+
+NYSE
+
+0.350% Notes due 2030
+
+PG30C
+
+NYSE
+
+0.230% Notes due 2031
+
+PG31A
+
+NYSE
+
+3.25% Notes due 2031
+
+PG31B
+
+NYSE
+
+5.250% GBP notes due January 2033
+
+PG33
+
+NYSE
+
+1.875% Notes due 2038
+
+PG38
+
+NYSE
+
+0.900% Notes due 2041
+
+PG41
+
+NYSE
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934
+(§240.12b-2 of this chapter).
+
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended tramsition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+
+Item 5.07.
+
+Submission of Matters to a Vote of Security Holders
+
+On October 10, 2023, The Procter & Gamble Company (“the Company”), held its 2023 Annual Meeting of Shareholders. Set forth below are the final voting results for each of the
+proposals submitted to a vote of the shareholders.
+
+Proposal 1 – Election of Directors.
+
+Each of the following nominees was elected to serve a one-year term on the Company’s Board of Directors (“the Board”).
+
+Votes For
+
+Votes Against
+
+Abstentions
+
+Broker Non-Votes
+
+Allen, B. Marc
+
+1,654,346,944
+
+19,382,073
+
+9,012,730
+
+360,945,057
+
+Biggs, Brett
+
+1,630,197,387
+
+43,226,915
+
+9,317,445
+
+360,945,057
+
+Bonini, Sheila
+
+1,654,219,082
+
+20,272,659
+
+8,250,006
+
+360,945,057
+
+Braly, Angela F.
+
+1,503,628,260
+
+169,818,511
+
+9,294,976
+
+360,945,057
+
+Chang, Amy L.
+
+1,636,001,530
+
+38,700,817
+
+8,039,400
+
+360,945,057
+
+Jimenez, Joseph
+
+1,535,279,219
+
+137,883,617
+
+9,578,911
+
+360,945,057
+
+Kempczinski, Christopher
+
+1,644,376,997
+
+29,676,477
+
+8,688,273
+
+360,945,057
+
+Lee, Debra L.
+
+1,620,521,819
+
+53,904,942
+
+8,314,986
+
+360,945,057
+
+Lundgren, Terry J.
+
+1,612,534,758
+
+61,476,385
+
+8,730,604
+
+360,945,057
+
+McCarthy, Christine M.
+
+1,638,553,190
+
+35,804,930
+
+8,383,627
+
+360,945,057
+
+Moeller, Jon R.
+
+1,511,672,940
+
+157,177,084
+
+13,891,723
+
+360,945,057
+
+Portman, Robert J.
+
+1,652,653,930
+
+22,206,988
+
+7,880,829
+
+360,945,057
+
+Subramaniam, Rajesh
+
+1,647,758,741
+
+26,413,185
+
+8,569,821
+
+360,945,057
+
+Woertz, Patricia A.
+
+1,467,614,953
+
+206,448,878
+
+8,677,916
+
+360,945,057
+
+Proposal 2- Ratify Appointment of the Independent Registered Public Accounting Firm.
+
+The proposal was approved.
+
+Votes For
+
+Votes Against
+
+Abstentions
+
+Broker Non-Votes
+
+1,928,688,100
+
+105,496,681
+
+9,502,023
+
+0
+
+Proposal 3 - Advisory Vote to Approve the Company’s Executive Compensation (the “Say on Pay” vote).
+
+The proposal was approved.
+
+Votes For
+
+Votes Against
+
+Abstentions
+
+Broker Non-Votes
+
+1,519,533,030
+
+150,575,576
+
+12,633,141
+
+360,945,057
+
+Proposal 4 - Advisory Vote to Approve the Frequency of the Executive Compensation Vote (the “Say on Frequency” vote).
+
+The frequency “1 Year” received the highest number of votes. The Board considered the results of the advisory vote and decided that, consistent with the Board’s recommendation in
+the proxy statement for the 2023 Annual Meeting, the Company will continue to solicit an advisory vote on executive compensation annually until the next required advisory vote on the frequency of future advisory votes on executive compensation.
+
+1 Year
+
+2 Years
+
+3 Years
+
+Abstentions
+
+Broker Non-Votes
+
+1,639,065,316
+
+8,532,914
+
+26,152,175
+
+8,991,342
+
+360,945,057
+
+Proposal 5 -  Shareholder Proposal - Civil Rights Audit of Reverse Discrimination
+
+The proposal was not approved.
+
+Votes For
+
+Votes Against
+
+Abstentions
+
+Broker Non-Votes
+
+67,377,739
+
+1,584,826,828
+
+30,537,180
+
+360,945,057
+
+Proposal 6 -  Shareholder Proposal – Annual Report on Operations in China
+
+The proposal was not approved.
+
+Votes For
+
+Votes Against
+
+Abstentions
+
+Broker Non-Votes
+
+70,423,856
+
+1,576,215,752
+
+36,102,130
+
+360,945,057
+
+Proposal 7 -  Shareholder Proposal – Request to Require Shareholder Approval for Certain Future Amendments to Company Regulations
+
+The proposal was not approved.
+
+Votes For
+
+Votes Against
+
+Abstentions
+
+Broker Non-Votes
+
+712,274,429
+
+949,273,321
+
+21,193,997
+
+360,945,057
+
+The Company is filing this Form 8-K pursuant to Item 5.07, "Submission of Matters to a Vote of Security Holders."
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this Report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+THE PROCTER & GAMBLE COMPANY
+
+BY:
+
+/s/ Sandra T. Lane
+
+Sandra T. Lane
+
+Assistant Secretary
+
+October 13, 2023

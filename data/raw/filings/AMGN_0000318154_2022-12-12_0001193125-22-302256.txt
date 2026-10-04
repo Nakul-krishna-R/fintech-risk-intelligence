@@ -1,0 +1,383 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+December 11, 2022
+
+Amgen Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-37702
+
+95-3540776
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+One Amgen Center Drive
+
+Thousand Oaks
+
+California
+
+91320-1799
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+
+(805)
+
+447-1000
+
+Not Applicable
+
+(Former Name or Former Address, if Changed since Last Report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities Registered under Section 12(b) of the Act:
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock $0.0001 par value
+
+AMGN
+
+The Nasdaq Stock Market LLC
+
+2.000% Senior Notes Due 2026
+
+AMGN26
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter). Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+Transaction Agreement
+
+On December 12, 2022, Amgen Inc., a Delaware corporation (“
+Amgen
+”), issued an announcement (the “
+Rule 2.7 Announcement
+”) pursuant to Rule 2.7 of the Irish Takeover Panel Act 1997, Takeover Rules, 2022 (the “
+Irish Takeover Rules
+”) disclosing that the respective boards of directors of Amgen and Horizon Therapeutics plc, an Irish public limited company (“
+Horizon
+”), had reached an agreement on the terms of a cash offer for Horizon by Pillartree Limited, a newly formed private limited company wholly owned by Amgen (“
+Acquirer Sub
+”), pursuant to which Acquirer Sub will acquire the entire issued and to be issued ordinary share capital of Horizon (such proposed offer, the “
+Acquisition
+”), for $116.50 in cash per ordinary share (the “
+Consideration
+”), nominal value $0.0001 per share, of Horizon (each, a “
+Horizon Share
+”). The Acquisition has been unanimously recommended by the board of directors of Horizon (the “
+Horizon Board
+”).
+
+In connection with the Acquisition, Amgen, Acquirer Sub and Horizon entered into a Transaction Agreement, dated as of December 11, 2022 (the “
+Transaction Agreement
+”), pursuant to which the Acquisition will be effected by means of a court-sanctioned scheme of arrangement (the “
+Scheme
+”) under Irish law. Amgen reserves the right, subject to the terms of the Transaction Agreement, to elect to implement the Acquisition by way of a takeover offer (as such term is defined in the Irish Takeover Rules) rather than the Scheme. As a result of the Scheme, Horizon will become a wholly owned subsidiary of Amgen.
+
+Pursuant to the Transaction Agreement, at the effective time of the Acquisition (the “
+Effective Time
+”), each outstanding equity award with respect to Horizon Shares (other than certain restricted stock unit awards denominated in Horizon Shares (“
+Horizon RSUs
+”)) will, whether vested or unvested, be cancelled and converted into the right to receive the Consideration (less the applicable exercise price in the case of options). Other than any Horizon RSUs granted to
+non-employee
+directors or former service-providers of Horizon as of the completion date for the Acquisition (which Horizon RSUs will be canceled and converted into the right to receive in cash the product of the Consideration,
+multiplied
+by the total number of Horizon Shares subject to such Horizon RSU immediately prior to the Effective Time), all Horizon RSUs will be canceled and converted into the a restricted stock unit (each, an “
+Amgen RSU
+”) denominated in shares of common stock of Amgen, par value $0.0001 per share (“
+Amgen Common Stock
+”), with the number of shares of Amgen Common Stock subject to each such Amgen RSU equal to the product (rounded down to the nearest whole number) of (i) the number of Horizon Shares subject to such Horizon RSU immediately prior to the Effective Time
+multiplied
+by (ii) (x) the Consideration divided by (y) the volume weighted average of the per share closing price of Amgen Common Stock on the Nasdaq (as reported in the Eastern Edition of
+The Wall Street Journal
+, or, if not reported thereby, another authoritative source) for five trading days ending on the second business day prior to the completion of the Acquisition.
+
+Conditions to Completion of the Acquisition
+
+The completion of the Acquisition is subject to customary conditions, including, among other things, the approval of the Scheme by Horizon shareholders, the sanction of the Scheme by the Irish High Court (the “
+Court
+”), the registration of the Court Order (as defined in the Transaction Agreement) with the Registrar of Companies in Dublin, Ireland and the receipt of required antitrust clearances in the United States, Austria and Germany and the receipt of required foreign investment clearances in France, Germany, Denmark and Italy. The conditions to the completion of the Acquisition are set out in full in Appendix 3 to the Rule 2.7 Announcement (the “
+Conditions Appendix
+”). Amgen expects that, subject to the satisfaction or waiver of all conditions set forth in the Conditions Appendix, the Acquisition will be completed in the first half of 2023.
+
+Representations and Warranties; Covenants
+
+The Transaction Agreement contains customary representations and warranties with respect to Amgen, Acquirer Sub and Horizon. The Transaction Agreement also contains customary covenants, including, among others, covenants requiring Horizon to use commercially reasonable efforts to conduct its business in the ordinary course during the period between execution of the Transaction Agreement and the completion of the Acquisition.
+
+-1-
+
+The Transaction Agreement also requires Horizon not to, directly or indirectly, among other things, (i) solicit, initiate or take any action or knowingly facilitate or knowingly encourage the submission of any Company Alternative Proposal (as defined in the Transaction Agreement), (ii) enter into, continue or participate in any discussions or negotiations regarding such an offer or proposal with, or furnish any information relating to Horizon or any of its subsidiaries to, or otherwise cooperate in any way with, or knowingly assist, participate in, knowingly facilitate or knowingly encourage any effort by, any person that would reasonably be expected to seek to make, or has made, a Company Alternative Proposal, (iii) effect a Company Change of Recommendation (as defined in the Transaction Agreement), (iv) take any action to make anti-takeover laws and regulations inapplicable to third parties or any Company Alternative Proposal, (v) waive or release third parties from certain standstill agreements or provisions entered into in respect of any Company Alternative Proposal or (vi) enter into any agreement providing for or relating to a Company Alternative Proposal. The Transaction Agreement contains a customary “fiduciary out” provision that allows Horizon, under certain specified circumstances, to furnish information to, or engage in negotiations or discussions with, third parties with respect to a Company Alternative Proposal if Horizon complies with certain notice and other requirements (including affording Amgen certain matching rights) and the Horizon Board determines in good faith (after consultation with its outside legal counsel and financial advisor) that (x) such Company Alternative Proposal is a Company Superior Proposal (as defined in the Transaction Agreement) and (y) its failure to take such actions would be inconsistent with its fiduciary duties under applicable law. Subject to certain exceptions, the Transaction Agreement also requires Horizon to hold an extraordinary general meeting of Horizon shareholders and requires the Horizon Board to recommend approval of the Acquisition to the Horizon shareholders at such extraordinary general meeting.
+
+Under the Transaction Agreement, each of Amgen and Horizon has agreed to use its respective reasonable best efforts to take all actions and do all things necessary, proper or advisable to complete the Acquisition and the other transactions contemplated by the Transaction Agreement. In furtherance of the foregoing, each of Amgen, Acquirer Sub and Horizon has agreed to use its reasonable best efforts to promptly take all actions and steps requested or required by any governmental entity as a condition to grant required regulatory approvals for the Acquisition, subject to the limitation that Amgen is not obligated to take certain specified actions (x) with respect to any assets, categories of assets or portions of any business of Amgen or any of its affiliates, (y) with respect to certain items contained in the disclosure schedules to the Transaction Agreement, or (z) with respect to assets, categories of assets or portions of any business of Horizon or its subsidiaries, if such action, individually or in the aggregate, would reasonably be expected to be material to Horizon and its subsidiaries, taken as a whole.
+
+Termination and Termination Fees
+
+The Transaction Agreement may be terminated and the transactions contemplated by the Transaction Agreement, including the Acquisition, may be abandoned at any time prior to the Effective Time by mutual written consent of Amgen and Horizon. The Transaction Agreement also contains certain customary termination rights, including, among others and subject to certain conditions, the right of either party to terminate the Transaction Agreement if (i) the requisite Horizon shareholder approvals are not obtained at the extraordinary general meeting of Horizon shareholders, (ii) the Scheme has not become effective by 5:00 p.m., New York City time, on June 12, 2023, which period will be automatically extended to September 12, 2023 and further to December 12, 2023 (as may be so extended, the “
+End Date
+”) if the only condition remaining to be satisfied (other than those conditions that by their nature cannot be satisfied until the completion of the Acquisition) relates to regulatory approvals, (iii) the other party breaches or fails to perform in any material respect any of its covenants or other agreements or any of the other party’s representations or warranties are inaccurate and such breach, failure to perform or inaccuracy would result in certain of the conditions set forth in the Conditions Annex not being satisfied, subject to a cure period, (iv) there is in effect any law or final and
+non-appealable
+order (other than under any antitrust laws or foreign investment laws of any jurisdiction that is not (x) certain applicable
+non-U.S.
+antitrust laws or foreign investment laws or (y) under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended (the “
+HSR Act
+”)) that permanently restrains, enjoins or otherwise prohibits the completion of the Acquisition or (v) the Court declines or refuses to sanction the Scheme, unless Amgen and Horizon agree in writing to appeal the decision of the Court. Horizon also has the right, prior to the receipt of the requisite Horizon shareholder approvals, to terminate the Transaction Agreement to accept a Company Superior Proposal in certain circumstances, and Amgen also has the right, prior to receipt of the requisite Horizon shareholder approvals, to terminate the Transaction Agreement if a Company Change of Recommendation occurs.
+
+-2-
+
+Horizon has agreed to pay to Amgen, in certain circumstances, an amount equal to all documented, specific and quantifiable third-party costs and expenses incurred, directly or indirectly, by Amgen or its subsidiaries, or on their behalf, for the purposes of, in preparation for, or in connection with the Acquisition. The maximum amount payable by Horizon to Amgen in such circumstances is an amount equal to 1% of the aggregate value of the total Consideration to be paid in the Acquisition.
+
+The Transaction Agreement also provides that Amgen will be required to pay Horizon a termination fee of $974,415,054 in connection with the termination of the Transaction Agreement if the Transaction Agreement is terminated (i) by Amgen or Horizon due to the End Date having occurred if, on the date of such termination, each of the conditions to completion of the Acquisition have been satisfied other than those related to regulatory approvals, the sanctioning of the Scheme or those conditions that may only be satisfied at the completion of the Acquisition, (ii) by Amgen or Horizon if at the time of such termination there is in effect any law or final and
+non-appealable
+order that permanently restrains, enjoins or otherwise prohibits the completion of the Acquisition pursuant to the HSR Act or certain applicable
+non-U.S.
+antitrust laws or foreign investment laws, or (iii) by the Company pursuant to Amgen’s breach of its covenants related to regulatory approvals pursuant to the HSR Act or certain applicable
+non-U.S.
+antitrust laws or foreign investment laws.
+
+The foregoing descriptions of the Transaction Agreement and the Conditions Appendix do not purport to be complete and are subject to, and qualified in their entireties by, the full text of the Transaction Agreement and the Conditions Appendix, copies of which are filed as Exhibit 2.1 and Exhibit 2.2, respectively, hereto and are incorporated by reference into this Item 1.01.
+
+The Transaction Agreement has been included herewith pursuant to the applicable rules and regulations of the U.S. Securities and Exchange Commission the (“
+SEC
+”) to provide investors with information regarding its terms. It is not intended to provide any other factual information about Amgen, Acquirer Sub, Horizon or their respective subsidiaries or affiliates or to modify or supplement any factual disclosures about Amgen or Horizon included in their respective public reports filed with the SEC. The representations, warranties and covenants contained in the Transaction Agreement were made only for purposes of the Transaction Agreement and as of the specific dates therein, were solely for the benefit of the parties to the Transaction Agreement, may be subject to limitations, qualifications or other particulars agreed upon by the contracting parties, including being qualified by confidential disclosures, and were made for the purposes of allocating contractual risk among the parties to the Transaction Agreement instead of establishing these matters as facts, and may be subject to standards of materiality applicable to the contracting parties that differ from those applicable to investors. Investors are not third-party beneficiaries under the Transaction Agreement and should not rely on the representations, warranties and covenants or any descriptions thereof as characterizations of the actual state of facts or condition of the parties thereto or any of their respective subsidiaries or affiliates. Moreover, information concerning the subject matter of representations and warranties may change after the date of the Transaction Agreement, which subsequent information may or may not be fully reflected in public disclosures. The Transaction Agreement should not be read alone, but should instead be read in conjunction with the other information regarding Amgen, Acquirer Sub and Horizon and the transactions contemplated by the Transaction Agreement that will be contained in, incorporated by reference into or attached as an annex to the proxy statement (the “
+Proxy Statement
+”) that Horizon will file in connection with the transactions contemplated by the Transaction Agreement as well as in the other filings that each of Amgen and Horizon will make with the SEC.
+
+Bridge Credit Facility
+
+On December 12, 2022 (the “
+Effective Date
+”), Amgen, Citibank, N.A. (“
+Citibank
+”), as administrative agent, Bank of America, N.A. (“
+Bank of America
+”), as syndication agent, and Citibank and Bank of America as lead arrangers and book runners entered into a Bridge Credit Agreement (the “
+Bridge Credit Agreement
+”). The Bridge Credit Agreement provides for a $28.5 billion bridge credit facility (the “
+Bridge Credit Facility
+”) that is available to finance the payment of the Consideration in connection with the Acquisition, the repayment of certain existing indebtedness of Horizon, and the payment of fees and expenses related to the Acquisition. The commitments under the Bridge Credit Facility will be reduced by the net cash proceeds received by Amgen or its subsidiaries in connection with debt and equity issuances and
+non-ordinary
+course asset dispositions, with certain exceptions specified in the Bridge Credit Agreement. Advances under the Bridge Credit Facility will be available after the Effective Date, subject to the satisfaction of certain conditions set forth in the Bridge Credit Agreement and will mature on the date that is 364 days after the date on which the first advance is made under the Bridge Credit Facility. The commitments under the Bridge Credit Facility, unless previously terminated, terminate on the earlier of (i) the date on which the Acquisition has been completed and the other purposes of the Bridge Credit Facility have been achieved without the making of any advances under the Bridge Credit Facility and (ii) the time after certain mandatory cancellation events occur, including the abandonment of the Acquisition.
+
+-3-
+
+Advances under the Bridge Credit Agreement will bear interest at an annual rate of, at Amgen’s option, either (i) term SOFR plus 0.10%, plus between 0.875% and 2.125%, depending on the rating of our senior long-term unsecured debt and the number of days elapsed between the initial funding day and the day of determination, or (ii) the highest of (A) Citibank’s base commercial lending rate, (B) the overnight federal funds rate plus
+1
+⁄
+2
+of 1.00% and
+(C) one-month
+adjusted term SOFR plus 1.00%, plus between 0.000% and 1.125%, depending on the rating of our senior long-term unsecured debt and the number of days elapsed between the initial funding day and the day of determination. We are also required to pay, commencing on the 90th day after the Effective Date, a ticking fee of 0.125% per annum that will accrue on the aggregate undrawn commitments under the Bridge Credit Agreement.
+
+The Bridge Credit Agreement contains customary affirmative and negative covenants that will apply after the Effective Date, including limitations on mergers, consolidations and sales of assets, limitations on liens and sales and leasebacks, limitations on transactions with affiliates and limitations on subsidiary indebtedness. In addition, the Bridge Credit Agreement requires maintenance of a minimum consolidated interest coverage ratio of EBITDA to total interest expense, each on a consolidated basis.
+
+The foregoing description of the Bridge Credit Agreement does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Bridge Credit Agreement, a copy of which is filed as Exhibit 10.1 hereto and incorporated herein by reference into this Item 1.01.
+
+Item 2.03
+
+Creation of a Direct Financial Obligation or an Obligation under an
+Off-Balance
+Sheet Arrangement of a Registrant.
+
+On December 12, 2022, Amgen entered into the Bridge Credit Agreement as described under Item 1.01 above. The foregoing description of the Bridge Credit Agreement set forth in Item 1.01 and the full text of the Bridge Credit Agreement, a copy of which is filed as Exhibit 10.1 hereto, are incorporated herein by reference into this Item 2.03.
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On December 12, 2022, Amgen issued the Rule 2.7 Announcement disclosing that the boards of directors of Amgen and Horizon had reached agreement on the terms of the Acquisition. A copy of the Rule 2.7 Announcement is furnished as Exhibit 99.1 hereto and is incorporated herein by reference into this Item 7.01.
+
+The information contained in this Item 7.01 and Exhibit 99.1 hereto shall not be deemed to be “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934 (the “
+Exchange Act
+”), or otherwise subject to the liabilities of such section, nor will such information be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as may be expressly set forth by specific reference in such filing.
+
+Responsibility
+
+Statement Required by the Irish Takeover Rules
+
+The members of Amgen’s board of directors accept responsibility for the information contained in this Current Report on Form
+8-K
+other than that relating to Horizon, Horizon’s subsidiaries and the members of Horizon’s board of directors and members of their immediate families, related trusts and persons connected with them. To the best of the knowledge and belief of the members of Amgen’s board of directors (who have taken all reasonable care to ensure such is the case), the information contained in this Current Report on Form
+8-K
+for which they respectively accept responsibility is in accordance with the facts and does not omit anything likely to affect the import of such information.
+
+-4-
+
+No Offer or Solicitation
+
+This Current Report on Form 8-K is for information purposes only and is not intended to and does not constitute, or form part of, an offer, invitation or the solicitation of an offer or invitation to purchase, otherwise acquire, subscribe for, sell or otherwise dispose of any securities, or the solicitation of any vote or approval in any jurisdiction, pursuant to the Acquisition or otherwise, nor shall there be any sale, issuance or transfer of securities in any jurisdiction in contravention of applicable law.
+
+The Acquisition will be implemented by means of a Court sanctioned scheme of arrangement on the terms provided for in the scheme document (or, if the Acquisition is implemented by way of a takeover offer, the applicable takeover offer document), which will contain the full terms and conditions of the Acquisition, including details of how Horizon shareholders may vote in respect of the Acquisition. Any decision in respect of, or other response to, the Acquisition, should be made only on the basis of the information contained in the scheme document (or if the Acquisition is implemented by way of a takeover offer, the applicable takeover offer document).
+
+Dealing Disclosure Requirements of the Irish Takeover Laws
+
+Under the provisions of Rule 8.3(b) of the Irish Takeover Rules, if any person is, or becomes, ‘interested’ (directly or indirectly) in 1% or more of any class of ‘relevant securities’ of Horizon (including by means of an option in respect of, or a derivative referenced to, any such ‘relevant securities’), that person must publicly disclose all ‘dealings’ in any ‘relevant securities’ of Horizon during the ‘offer period,’ by not later than 3:30 p.m. (E.T.) on the ‘business day’ following the date of the relevant transaction.
+
+If two or more persons co-operate on the basis of any agreement either express or tacit, either oral or written, to acquire an ‘interest’ in ‘relevant securities’ of Horizon, they will be deemed to be a single person for the purpose of Rule 8.3 of the Irish Takeover Rules.
+
+A disclosure table, giving details of the companies in whose ‘relevant securities’ and ‘dealings’ should be disclosed can be found on the Irish Takeover Panel’s website at www.irishtakeoverpanel.ie.
+
+‘Interests’ in securities arise, in summary, when a person has long economic exposure, whether conditional or absolute, to changes in the price of securities. In particular, a person will be treated as having an ‘interest’ by virtue of the ownership or control of securities, or by virtue of any option in respect of, or derivative referenced to, securities.
+
+Terms in quotation marks are defined in the Irish Takeover Rules, which can be found on the Irish Takeover Panel’s website. If you are in any doubt as to whether or not you are required to disclose a ‘dealing’ under Rule 8, please consult the Irish Takeover Panel’s website at www.irishtakeoverpanel.ie or contact the Irish Takeover Panel on telephone number +353 1 678 9020.
+
+Forward-Looking Statements
+
+This Current Report on Form
+8-K
+contains certain statements about Horizon and Amgen that are or may be forward-looking statements which include, but are not limited to, statements regarding expected timing, completion and effects of the Acquisition. These forward-looking statements are subject to the safe harbor provisions under the U.S. Private Securities Litigation Reform Act of 1995. All statements other than statements of historical facts included in this Announcement may be forward-looking statements. Without limitation, forward-looking statements often include words such as “expect,” “anticipate,” “outlook,” “could,” “target,” “project,” “intend,” “plan,” “believe,” “seek,” “estimate,” “should,” “may,” “assume” and “continue” as well as variations of such words and similar expressions are intended to identify such forward-looking statements. Horizon’s and Amgen’s expectations and beliefs regarding these matters may not materialize. Actual outcomes and results may differ materially from those contemplated by these forward-looking statements as a result of uncertainties, risks, and changes in circumstances, including but not limited to risks and uncertainties related to: the ability of the parties to complete the transactions contemplated by the Transaction Agreement, including the Acquisition, in a timely manner or at all; the satisfaction (or waiver) of conditions to the consummation of the transactions contemplated by the Transaction Agreement, including the Acquisition, including with respect to the approval of Horizon’s shareholders and required regulatory approvals; potential delays in consummating the transactions contemplated by the Transaction Agreement, including the Acquisition; the ability of Horizon and Amgen to timely and successfully achieve the anticipated strategic benefits, synergies or opportunities expected of the transactions contemplated by the Transaction Agreement, including the Acquisition; the successful integration of Horizon into Amgen subsequent to the consummation of the transactions contemplated by the Transaction Agreement, including the Acquisition and the timing of such integration; the impact of changes in global, political, economic, business, competitive, market and regulatory forces; the impact of health pandemics, including the
+COVID-19
+pandemic, on Horizon’s or Amgen’s respective businesses; the occurrence of any event, change or other circumstance or condition that could give rise to the termination of the Transaction Agreement; adverse effects on the market price of Horizon’s or Amgen’s securities and on Horizon’s or Amgen’s operating results because of a failure to complete the Acquisition; the effect of the announcement or pendency of the Acquisition on Horizon’s or Amgen’s business relationships, operating results and business generally; costs related to the transactions contemplated by the Transaction Agreement, including the Acquisition; and the outcome of any legal proceedings that may be instituted against Horizon, Amgen, Acquirer Sub or any of their respective directors or officers related to the Transaction Agreement or the transactions contemplated by the Transaction Agreement, including the Acquisition. Additional risks and uncertainties that could cause actual outcomes and results to differ materially from those contemplated by the forward-looking statements are included under the caption “Risk Factors” and elsewhere in Horizon’s most recent filings with the SEC, including its Quarterly Report on Form
+10-Q
+for the quarter ended September 30, 2022, and Amgen’s most recent filings with the SEC, including its Quarterly Report on Form
+10-Q
+for the quarter ended September 30, 2022, and any subsequent reports on Form
+10-K,
+Form
+10-Q
+or Form
+8-K
+filed with the SEC by Horizon or Amgen from time to time and available at www.sec.gov. These documents can be accessed on Horizon’s web page at
+https://ir.horizontherapeutics.com/sec-filings
+or on Amgen’s web page at
+https://investors.amgen.com/financials/sec-filings.
+
+The forward-looking statements included in this Current Report on Form
+8-K
+are made only as of the date hereof. Neither Amgen nor Horizon assumes any obligation to, and neither Amgen nor Horizon intends to, update these forward-looking statements, except as required by law.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit
+
+Description
+
+2.1
+
+Transaction Agreement, dated as of December 11, 2022, by and among Amgen Inc., Pillartree Limited and Horizon Therapeutics plc.*
+
+2.2
+
+Appendix 3 to the Rule 2.7 Announcement, dated as of December 12, 2022 (Conditions Appendix).
+
+10.1
+
+Bridge Credit Agreement, dated as of December 12, 2022, by and among Amgen Inc., Citibank, N.A., as administrative agent, Bank of America, N.A., as syndication agent, Citibank, N.A. and Bank of America, N.A., as lead arrangers and book runners, and the other banks party thereto.
+
+99.1
+
+Rule 2.7 Announcement, dated as of December 12, 2022.
+
+104
+
+Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document).
+
+* Certain schedules have been omitted pursuant to Item 601(a)(5) of Regulation
+S-K.
+The registrant agrees to furnish supplementally a copy of any omitted schedule or exhibit to the SEC upon request.
+
+-5-
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+AMGEN INC.
+
+Date: December 12, 2022
+
+By:
+
+/s/ Jonathan P. Graham
+
+Name:
+
+Jonathan P. Graham
+
+Title:
+
+Executive Vice President, General Counsel and Secretary
+
+-6-

@@ -1,0 +1,275 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+May 24, 2022
+
+VISA INC.
+
+(Exact Name of Registrant as Specified in Its Charter)
+
+Delaware
+
+001-33977
+
+26-0267673
+
+(State or Other Jurisdiction of
+
+Incorporation or Organization)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+P.O. Box 8999
+
+San Francisco
+,
+California
+
+94128-8999
+
+(Address of Principal Executive Offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+(650)
+
+432-3200
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Securities Exchange Act of 1934:
+
+(Title of Each Class)
+
+(Trading
+
+Symbol)
+
+(Name of Each Exchange
+
+on Which Registered)
+
+Class A common stock, par value $0.0001 per share
+
+V
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 8.01.
+
+Other Events.
+
+On May 24, 2022, Visa Inc. (the “Company”) announced an offering of
+€
+1,350,000,000 of its 1.500% Senior Notes due 2026 (the “2026 Notes”),
+€
+1,000,000,000 of its 2.000% Senior Notes due 2029 (the “2029 Notes”) and
+€
+650,000,000 of its 2.375% Senior Notes due 2034 (the “2034 Notes,” and together with the 2026 Notes and 2029 Notes, the “Notes”).
+
+The Company received net proceeds of approximately $3.14 billion, after deducting underwriting discounts and estimated offering expenses payable by the Company. The net proceeds from the offering of the Notes will be used for general corporate purposes, which may include, among other things, the refinancing of existing indebtedness.
+
+The Notes were offered and sold pursuant to an Underwriting Agreement (the “Underwriting Agreement”) dated May 24, 2022 among the Company and J.P. Morgan Securities plc, Barclays Bank PLC, Citigroup Global Markets Limited, HSBC Bank plc and Merrill Lynch International, as representatives of the several underwriters named therein, under the Company’s automatic shelf registration statement as amended (the “Registration Statement”) on Form
+S-3
+(Registration
+No. 333-258258),
+filed with the Securities and Exchange Commission (the “SEC”) on July 29, 2021. The Company has filed with the SEC a prospectus supplement dated May 24, 2022, together with the accompanying prospectus dated July 29, 2021, relating to the offer and sale of the Notes. The Notes were issued on June 1, 2022 pursuant to the Indenture dated as of December 14, 2015 between the Company and U.S. Bank Trust Company, National Association (as successor in interest to U.S. Bank National Association), as Trustee. The Notes are unsecured obligations of the Company. The Indenture also contains customary event of default provisions. The following table summarizes information about the Notes and the offering thereof.
+
+Title of securities
+
+1.500% Senior Notes due 2026
+
+2.000% Senior Notes
+due 2029
+
+2.375% Senior Notes
+due 2034
+
+Aggregate principal amount sold
+
+€
+1,350,000,000
+
+€
+1,000,000,000
+
+€
+650,000,000
+
+Maturity date
+
+June 15, 2026
+
+June 15, 2029
+
+June 15, 2034
+
+Public offering price
+
+99.542% of the principal amount
+
+99.675% of the principal amount
+
+99.030% of the principal amount
+
+Interest payment date
+
+Annually on each June 15, commencing
+on June 15, 2023
+
+Annually on each June 15, commencing
+on June 15, 2023
+
+Annually on each June 15, commencing
+on June 15, 2023
+
+Coupon
+
+1.500%
+
+2.000%
+
+2.375%
+
+Optional redemption
+
+Prior to May 15, 2026, make-whole call at the applicable Comparable Government Bond (as defined in the 2026 Note) plus 20 basis points; par call at any time thereafter
+
+Prior to April 15, 2029, make-whole call at the applicable Comparable Government Bond (as defined in the 2029
+Note) plus 20 basis
+points; par call at any
+time thereafter
+
+Prior to March 15, 2034, make-whole call at the applicable Comparable Government Bond (as defined in the 2034
+Note) plus 25 basis
+points; par call at any
+time thereafter
+
+The above description of the Underwriting Agreement, the Indenture and the Notes is qualified in its entirety by reference to the Underwriting Agreement, the Indenture and the forms of Notes. Each of the Underwriting Agreement and the forms of the 2026 Notes, 2029 Notes and 2034 Notes are incorporated by reference into the Registration Statement and are attached to this Current Report on Form
+8-K
+as Exhibit 1.1, Exhibit 4.1, Exhibit 4.2 and Exhibit 4.3, respectively. The Indenture was previously incorporated by reference into the Registration Statement pursuant to Exhibit 4.1 to the Company’s Current Report on Form
+8-K
+filed on December 14, 2015. An opinion regarding the legality of the Notes is incorporated by reference into the Registration Statement and is attached to this Current Report on Form
+8-K
+as Exhibit 5.1; and a consent relating to such incorporation of such opinion is incorporated by reference into the Registration Statement and is attached to this Current Report on Form
+8-K
+as Exhibit 23.1 by reference to its inclusion within Exhibit 5.1.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+1.1
+
+Underwriting Agreement dated May 24, 2022 among Visa Inc. and J.P. Morgan Securities plc, Barclays Bank PLC, Citigroup Global Markets Limited, HSBC Bank plc and Merrill Lynch International, as representatives of the several underwriters named therein
+
+4.1
+
+Form of 1.500% Senior Notes due 2026
+
+4.2
+
+Form of 2.000% Senior Notes due 2029
+
+4.3
+
+Form of 2.375% Senior Notes due 2034
+
+5.1
+
+Opinion of Davis Polk & Wardwell LLP
+
+23.1
+
+Consent of Davis Polk & Wardwell LLP (included in Exhibit 5.1)
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VISA INC.
+
+Date: June 1, 2022
+
+By:
+
+/s/ Vasant M. Prabhu
+
+Name:
+
+Vasant M. Prabhu
+
+Title:
+
+Vice Chair, Chief Financial Officer

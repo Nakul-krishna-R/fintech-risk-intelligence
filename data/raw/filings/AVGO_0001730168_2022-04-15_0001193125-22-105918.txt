@@ -1,0 +1,270 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported):
+April 14, 2022
+
+BROADCOM INC.
+
+(Exact Name of Registrant as Specified in Charter)
+
+Delaware
+
+001-38449
+
+35-2617337
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+1320 Ridder Park Drive
+,
+San Jose
+,
+California
+
+95131
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(408)
+
+433-8000
+
+(Registrant’s telephone number, including area code)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.001 par value
+
+AVGO
+
+The NASDAQ Global Select Market
+
+8.00% Mandatory Convertible Preferred Stock, Series A, $0.001 par value
+
+AVGOP
+
+The NASDAQ Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or
+Rule 12b-2 of
+the Securities Exchange Act of
+1934 (§ 240.12b-2 of
+this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01
+
+Entry into Definitive Material Agreement.
+
+On April 14, 2022, Broadcom Inc. (“Broadcom” or the “Company”), completed its issuance and sale of $1,950 million in aggregate principal amount of senior unsecured notes (the “Offering”) comprised of $750 million aggregate principal amount of 4.00% senior notes due 2029 (the “2029 Notes”) and $1,200 million aggregate principal amount of 4.15% senior notes due 2032 (the “2032 Notes” and, together with the 2029 Notes, the “Notes”).
+
+Broadcom intends to use the net proceeds from the Offering, together with cash on hand, to redeem all of its outstanding 4.700% Senior Notes due 2025 and 4.250% Senior Notes due 2026, and to pay fees and expenses in connection therewith.
+
+Indenture
+
+The Notes were issued pursuant to an Indenture, dated April 14, 2022, between the Company and Wilmington Trust, National Association, as trustee (the “Indenture”). Each series of Notes pays interest semi-annually in arrears on April 15 and October 15 of each year, commencing October 15, 2022. The Notes were offered in a private placement to qualified institutional buyers pursuant to Rule 144A under the Securities Act of 1933, as amended (the “Securities Act”), and to certain
+non-U.S.
+persons in transactions outside of the United States in reliance on Regulation S under the Securities Act.
+
+Optional Redemption Provisions and Change of Control Purchase Right
+
+The Company may, at its option, redeem or purchase, in whole or in part, the 2029 Notes and the 2032 Notes at any time prior to February 15, 2029 (two months prior to maturity) and January 15, 2032 (three months prior to maturity), respectively, at a price equal to 100% of the principal amount of the applicable Notes being redeemed, plus a corresponding “make-whole” premium as set forth in the Indenture, plus accrued and unpaid interest thereon to, but excluding, the redemption date. In addition, the Company may, at its option, redeem or purchase, in whole or in part, the 2029 Notes and the 2032 Notes on or after February 15, 2029 (two months prior to maturity) and January 15, 2032 (three months prior to maturity), respectively, at a redemption price equal to 100% of the principal amount of the applicable Notes being redeemed, plus accrued and unpaid interest thereon, if any, to, but excluding, the redemption date.
+
+In the event that certain changes in the tax law of any relevant jurisdiction would impose withholding taxes on payments on the Notes, the Company may redeem a series of Notes in whole, but not in part, at any time, at a redemption price of 100% of the principal amount, plus accrued and unpaid interest thereon, if any, and Additional Amounts (as defined in the Indenture), if any, to, but excluding, the redemption date.
+
+The holders of the Notes will also have the right to require the Company to purchase their Notes upon the occurrence of a Change of Control Triggering Event, as defined in the Indenture, at an offer price equal to 101% of the aggregate principal amount of the Notes purchased plus accrued and unpaid interest thereon to, but excluding, the date of purchase.
+
+Ranking
+
+Under the terms of the Indenture, the Notes are the Company’s senior unsecured obligations and (i) rank equal in right of payment with all of the Company’s existing and future senior unsecured indebtedness, (ii) rank senior in right of payment to the Company’s existing and future subordinated indebtedness, (iii) are effectively subordinated in right of payment to the Company’s existing and future secured obligations, to the extent of the assets securing such obligations and (iv) are structurally subordinated in right of payment to any existing and future indebtedness or other liabilities, including trade payables, of the Company’s subsidiaries.
+
+Restrictive Covenants
+
+The Indenture contains covenants that, subject to certain qualifications and exceptions, limit the ability of the Company and its subsidiaries to, among other things, (i) incur certain secured debt; (ii) enter into certain sale and lease-back transactions and (iii) consolidate, merge, sell or otherwise dispose of all or substantially all of their assets.
+
+Events of Default
+
+Upon the occurrence of an event of default under the Indenture with respect to the Notes, which includes payment defaults, defaults in the performance of certain covenants and bankruptcy and insolvency related defaults, the Company’s obligations under the Notes may be accelerated, in which case the entire principal amount of the Notes would be immediately due and payable.
+
+The foregoing description of the Indenture does not purport to be complete and is qualified in its entirety by reference to the full text of the Indenture. A copy of the Indenture is attached as Exhibit 4.1 to this Current Report on Form
+8-K,
+and is incorporated by reference herein.
+
+Registration Rights Agreement
+
+On April 14, 2022, the Company and BofA Securities, Inc., HSBC Securities (USA) Inc., and RBC Capital Markets, LLC, as representatives of the several initial purchasers of the Notes, entered into a registration rights agreement with respect to the Notes (the “Registration Rights Agreement”). The Company agreed under the Registration Rights Agreement to use commercially reasonable efforts to (i) file a registration statement on an appropriate registration form with respect to a registered offer to exchange each series of the Notes for new notes, with terms substantially identical in all material respects to such series of Notes and (ii) cause the registration statement to be declared effective under the Securities Act.
+
+If the exchange offer is not completed on or before April 14, 2027, the Company will use commercially reasonable efforts to file and to have declared effective a shelf registration statement relating to resales of the Notes and keep such shelf registration statement effective until the date that the Notes cease to be Transfer Restricted Securities (as defined in the Registration Rights Agreement).
+
+If the Company fails to satisfy this obligation with respect to a series of the Notes (a “registration default”) under the Registration Rights Agreement, then additional interest will accrue on the principal amount of the Notes of such series at an annual rate of 0.250%. The annual interest rate on such series of the Notes will increase by an additional 0.250% for each subsequent
+90-day
+period during which the registration default continues, up to a maximum of 1.000%. The additional interest will accrue to and including the date such registration default ends, at which time the interest rate on the applicable series of Notes will revert to the original level. A registration default ends with respect to any Notes when such Notes cease to be Transfer Restricted Securities.
+
+If the Company is required to pay additional interest due to a registration default, the Company will pay such additional interest to the holders of the Notes in cash on the same dates that the Company makes other interest payments on the Notes, until the applicable registration default is cured.
+
+The foregoing description of the Registration Rights Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Registration Rights Agreement. A copy of the Registration Rights Agreement is attached as Exhibit 4.4 to this Current Report on Form
+8-K,
+and is incorporated by reference herein.
+
+Item 8.01
+
+Other Events.
+
+Early Participation Results, and Early Settlement Election of Private Exchange Offers of Certain Outstanding Notes for New Notes
+
+In a press release issued on April 14, 2022, Broadcom Inc. (“Broadcom”) announced (i) the early participation results of its private offers to exchange certain series of its outstanding notes maturing between 2027 and 2032 for new senior notes maturing in 2037 (the “Exchange Notes”) and (ii) its election to have an early settlement.
+
+The foregoing description is qualified in its entirety by reference to the press release dated April 14, 2022, a copy of which is attached hereto as Exhibit 99.1.
+
+Pricing of Private Exchange Offers of Certain Outstanding Notes for New Notes
+
+Following the announcement of the early participation results of the Exchange Offers, in a press release issued on April 14, 2022, Broadcom announced the pricing terms of the Exchange Offers.
+
+The Exchange Notes are being sold in a private placement to persons reasonably believed to be qualified institutional buyers pursuant to Rule 144A under the Securities Act of 1933, as amended (the “Securities Act”), and to
+non-U.S.
+persons outside the United States under Regulation S under the Securities Act.
+
+The foregoing description is qualified in its entirety by reference to the press release dated April 14, 2022, a copy of which is attached hereto as Exhibit 99.2.
+
+This Current Report on
+Form 8-K is
+not an offer to purchase or sell or a solicitation of an offer to purchase or sell, with respect to any securities.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This report contains forward-looking statements (including within the meaning of Section 21E of the United States Securities Exchange Act of 1934, as amended, and Section 27A of the United States Securities Act of 1933, as amended) concerning Broadcom. These statements include, but are not limited to, statements that address our expected future business and financial performance, and other statements identified by words such as “will,” “expect,” “believe,” “anticipate,” “estimate,” “should,” “intend,” “plan,” “potential,” “predict,” “project,” “aim,” and similar words, phrases or expressions. These forward-looking statements are based on current expectations and beliefs of the management of Broadcom, as well as assumptions made by, and information currently available to, such management, current market trends and market conditions and involve risks and uncertainties, many of which are outside the Company’s and management’s control, and which may cause actual results to differ materially from those contained in forward-looking statements. Accordingly, you should not place undue reliance on such statements.
+
+Particular uncertainties that could materially affect future results include risks associated with: the
+COVID-19
+pandemic, which has disrupted, and will likely continue to disrupt, normal business activity, and which may have an adverse effect on our results of operations; any loss of our significant customers and fluctuations in the timing and volume of significant customer demand; our dependence on contract manufacturing and outsourced supply chain;
+
+our dependency on a limited number of suppliers; government regulations and administrative proceedings, trade restrictions and trade tensions; global economic conditions and concerns; cyclicality in the semiconductor industry or in our target markets; global political and economic conditions; our significant indebtedness and the need to generate sufficient cash flows to service and repay such debt; the amount and frequency of our share repurchase program; dependence on and risks associated with distributors and resellers of our products; dependence on senior management and our ability to attract and retain qualified personnel; any acquisitions we may make, such as delays, challenges and expenses associated with receiving governmental and regulatory approvals and satisfying other closing conditions, and with integrating acquired businesses with our existing businesses and our ability to achieve the benefits, growth prospects and synergies expected by such acquisitions; involvement in legal proceedings; quarterly and annual fluctuations in operating results; our ability to accurately estimate customers’ demand and adjust our manufacturing and supply chain accordingly; our competitive performance and ability to continue achieving design wins with our customers, as well as the timing of any design wins; prolonged disruptions of our or our contract manufacturers’ manufacturing facilities, warehouses or other significant operations; our ability to improve our manufacturing efficiency and quality; our dependence on outsourced service providers for certain key business services and their ability to execute to our requirements; our ability to maintain or improve gross margin; our ability to protect our intellectual property and the unpredictability of any associated litigation expenses; compatibility of our software products with operating environments, platforms or third-party products; our ability to enter into satisfactory software license agreements; availability of third party software used in our products; use of open source code sources in our products; any expenses or reputational damage associated with resolving customer product warranty and indemnification claims; market acceptance of the end products into which our products are designed; our ability to sell to new types of customers and to keep pace with technological advances; our compliance with privacy and data security laws; our ability to protect against a breach of security systems; fluctuations in foreign exchange rates; our provision for income taxes and overall cash tax costs, legislation that may impact our overall cash tax costs and our ability to maintain tax concessions in certain jurisdictions; and other events and trends on a national, regional and global scale, including those of a political, economic, business, competitive and regulatory nature. Many of the foregoing risks and uncertainties are, and will be, exacerbated by the
+COVID-19
+pandemic and any worsening of the global business and economic environment as a result.
+
+Our filings with the Securities and Exchange Commission (“SEC”), which you may obtain for free at the SEC’s website at http://www.sec.gov, discuss some of the important risk factors that may affect our business, results of operations and financial condition. Actual results may vary from the estimates provided. We undertake no intent or obligation to publicly update or revise any of the estimates and other forward-looking statements made in this announcement, whether as a result of new information, future events or otherwise, except as required by law.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+Exhibit
+No.
+
+Description
+
+4.1
+
+Indenture, dated April 14, 2022, between the Company and Wilmington Trust, National Association, as trustee.
+
+4.2
+
+Form of 4.00% Senior Notes due 2029 (included in Exhibit 4.1).
+
+4.3
+
+Form of 4.15% Senior Notes due 2032 (included in Exhibit 4.1).
+
+4.4
+
+Registration Rights Agreement, dated as of April 14, 2022, between the Company and BofA Securities, Inc., HSBC Securities (USA) Inc., and RBC Capital Markets, LLC, as representatives of the several initial purchasers of the Notes.
+
+99.1
+
+Press release, dated April 14, 2022, entitled “Broadcom Inc. Announces Early Participation Results, and Early Settlement Election of its Private Exchange Offers of Certain Outstanding Notes for New Notes”
+
+99.2
+
+Press release, dated April 14, 2022, entitled “Broadcom Inc. Announces Pricing Terms of its Private Exchange Offers of Certain Outstanding Notes for New Notes”
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+BROADCOM INC.
+
+Date: April 14, 2022
+
+By:
+
+/s/ Kirsten Spears
+
+Name:
+
+Kirsten Spears
+
+Title:
+
+Chief Financial Officer

@@ -1,0 +1,375 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+November 15, 2023
+
+Oracle Corporation
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-35992
+
+54-2185193
+
+(State or other jurisdiction of
+
+incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+2300 Oracle Way
+,
+Austin
+,
+Texas
+
+78741
+
+(Address of principal executive offices) (Zip Code)
+
+(737)
+
+867-1000
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, par value $0.01 per share
+
+ORCL
+
+New York Stock Exchange
+
+3.125% senior notes due July 2025
+
+ORCL
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Section 5—Corporate Governance and Management
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers
+
+On November 15, 2023, at the 2023 Annual Meeting of Stockholders (the “Annual Meeting”) of Oracle Corporation (“Oracle”), Oracle’s stockholders approved an amendment to the Oracle Corporation Amended and Restated 2020 Equity Incentive Plan (the “2020 Equity Plan”) to increase the number of shares of common stock reserved for issuance under the 2020 Equity Plan by 350,000,000 shares. Oracle’s Board of Directors (the “Board”) approved the amendment of the 2020 Equity Plan, subject to stockholder approval, on August 3, 2023.
+
+The foregoing description of the 2020 Equity Plan is qualified in its entirety by reference to the 2020 Equity Plan, as amended, which is filed as Exhibit 10.18 to this Current Report on Form 8-K. A more complete description of the terms of the 2020 Equity Plan can be found in “Proposal No. 4: Approval of an Amendment to the Oracle Corporation Amended and Restated 2020 Equity Incentive Plan” on pages 73 to 81 of Oracle’s definitive proxy statement filed with the U.S. Securities and Exchange Commission (“SEC”) on September 22, 2023 (the “2023 Proxy Statement”), which description is incorporated by reference herein.
+
+Item 5.03 Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year
+
+On November 15, 2023, in connection with a periodic review of the bylaws of Oracle, including the effectiveness of SEC rules regarding universal proxy cards and certain changes to the Delaware General Corporation Law (the “DGCL”), the Board adopted amendments to Oracle’s Amended and Restated Bylaws (as amended, the “Amended Bylaws”). Among other things, the amendments effected by the Amended Bylaws:
+
+•
+
+Enhance procedural mechanics and disclosure requirements in connection with stockholder nominations of directors and submission of stockholder proposals made in connection with annual and special meetings of stockholders, including by requiring additional disclosures, representations and warranties from nominating or proposing stockholders and proposed nominees and their respective affiliates and associates about their Oracle stock ownership, agreements with respect to voting commitments and stock ownership, relationships among the nominating or proposing stockholders and proposed nominees, litigation with Oracle and intent to comply with applicable Oracle governance, ethics and similar codes and policies;
+
+•
+
+Align provisions regarding nominations of directors and solicitations of proxies with Rule
+14a-19
+under the Securities Exchange Act of 1934, as amended, including:
+
+o
+
+Requiring the nominating stockholder or beneficial owner to represent that it intends to solicit proxies or votes from stockholders representing at least 67% of the voting power of the shares entitled to vote on the election of directors;
+
+o
+
+Requiring the nominating stockholder to provide Oracle, no later than five business days prior to the applicable stockholder meeting, with reasonable written evidence that it has solicited proxies or votes from stockholders representing at least 67% of the voting power of the shares entitled to vote on the election of directors;
+
+o
+
+Requiring that a stockholder soliciting proxies from other stockholders use a proxy card color other than white; and
+
+o
+
+Clarifying that a failure to provide information required by Rule
+14a-19
+or comply with the requirements of Rule
+14a-19(a)(2)
+or Rule
+14a-19(a)(3)
+will result in Oracle disregarding a stockholder’s nomination or proposal of other business;
+
+•
+
+Modify provisions relating to adjournment procedures and procedural requirements related to stockholder actions by written consent and eliminate the requirement that a list of stockholders be made available at stockholder meetings, in each case, to reflect amendments to the DGCL;
+
+•
+
+Limit the number of nominees that a stockholder may nominate to the number of directors to be elected at such meeting;
+
+•
+
+Clarify that a withdrawal of stockholders at a meeting will not invalidate a quorum, if a quorum is present when a meeting of stockholders is convened; and
+
+•
+
+Make various other updates, including administrative, ministerial, refining and conforming changes and adding gender neutral language.
+
+The foregoing description is qualified in its entirety by reference to the full text of the Amended Bylaws, a copy of which is filed as Exhibit 3.02 to this Current Report on Form
+8-K
+and is incorporated herein by reference.
+
+Item 5.07 Submission of Matters to a Vote of Security Holders
+
+Below is a brief description of each matter submitted to a vote at the Annual Meeting, as well as the final voting results with respect to each matter. For more information about these proposals, please refer to Oracle’s 2023 Proxy Statement.
+
+Proposal No.
+1: Election of Directors
+
+The stockholders elected each of the following persons as a director to hold office until the 2024 Annual Meeting of Stockholders and until his or her successor is elected and qualified, or until his or her earlier resignation or removal.
+
+Director Nominee
+
+Votes For
+
+Votes Withheld
+
+Broker Non-Votes
+
+Awo Ablo
+
+2,000,979,359
+
+272,208,135
+
+251,050,401
+
+Jeffrey S. Berg
+
+1,776,677,297
+
+496,510,197
+
+251,050,401
+
+Michael J. Boskin
+
+1,881,572,847
+
+391,614,647
+
+251,050,401
+
+Safra A. Catz
+
+1,924,573,586
+
+348,613,908
+
+251,050,401
+
+Bruce R. Chizen
+
+1,754,323,454
+
+518,864,040
+
+251,050,401
+
+George H. Conrades
+
+1,724,977,850
+
+548,209,644
+
+251,050,401
+
+Lawrence J. Ellison
+
+1,975,567,335
+
+297,620,159
+
+251,050,401
+
+Rona A. Fairhead
+
+1,990,056,771
+
+283,130,723
+
+251,050,401
+
+Jeffrey O. Henley
+
+1,968,299,789
+
+304,887,705
+
+251,050,401
+
+Renée J. James
+
+1,983,016,498
+
+290,170,996
+
+251,050,401
+
+Charles W. Moorman
+
+1,826,114,793
+
+447,072,701
+
+251,050,401
+
+Leon E. Panetta
+
+1,747,128,839
+
+526,058,655
+
+251,050,401
+
+William G. Parrett
+
+1,851,896,107
+
+421,291,387
+
+251,050,401
+
+Naomi O. Seligman
+
+1,779,112,862
+
+494,074,632
+
+251,050,401
+
+Vishal Sikka
+
+1,986,292,517
+
+286,894,977
+
+251,050,401
+
+Proposal No.
+2: Advisory Vote to Approve the Compensation of Oracle’s Named Executive Officers
+
+The stockholders cast an advisory vote approving the compensation of Oracle’s named executive officers (“NEOs”) as follows: 1,651,282,946 shares in favor, 615,035,285 shares against, 6,869,263 shares abstaining and 251,050,401 broker non-votes.
+
+Proposal No.
+3: Advisory Vote on the Frequency of Future Advisory Votes on the Compensation of Oracle’s NEOs
+
+The stockholders cast an advisory vote on the frequency of future votes on the compensation of Oracle’s NEOs as follows: 2,253,954,654 shares for one year, 1,889,363 shares for two years, 13,479,499 shares for three years, 3,863,978 shares abstaining and 251,050,401 broker non-votes. Consistent with the results of the vote and the Board’s recommendation, the Board has determined that Oracle will hold an advisory vote on the compensation of Oracle’s NEOs every year until the next required advisory vote on the frequency of such votes.
+
+Proposal No.
+4: Approval of an Amendment to the Oracle Corporation Amended and Restated 2020 Equity Incentive Plan
+
+The stockholders approved an amendment to the 2020 Equity Plan, with 1,609,707,568 shares in favor, 658,173,901 shares against, 5,306,025 shares abstaining and 251,050,401 broker non-votes.
+
+Proposal No.
+5: Ratification of the Selection of Independent Registered Public Accounting Firm
+
+The stockholders ratified the appointment of Ernst & Young LLP as Oracle’s independent registered public accounting firm for the fiscal year ending May 31, 2024, with 2,462,610,220 shares in favor, 58,488,587 shares against and 3,139,088 shares abstaining.
+
+Proposal No.
+6: Stockholder Proposal Regarding Pay Gap Report
+
+The stockholders did not approve a stockholder proposal requesting that Oracle prepare a racial and gender pay gap report, with 714,795,113 shares in favor, 1,550,428,453 shares against, 7,963,928 shares abstaining and 251,050,401 broker non-votes.
+
+Proposal No.
+7: Stockholder Proposal Regarding Independent Board Chairman
+
+The stockholders did not approve a stockholder proposal requesting that Oracle’s Board adopt a policy requiring the Chairman of the Board to be independent, with 514,536,873 shares in favor, 1,753,303,803 shares against, 5,346,818 shares abstaining and 251,050,401 broker non-votes.
+
+Section 9—Financial Statements and Exhibits
+
+Item 9.01 Financial Statements and Exhibits
+
+(d) Exhibits
+
+Exhibit
+No.
+
+Description
+
+3.02
+
+Amended and Restated Bylaws of Oracle Corporation
+
+10.18
+
+Oracle Corporation Amended and Restated 2020 Equity Incentive Plan, as approved on November 15, 2023
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ORACLE CORPORATION
+
+Dated: November 17, 2023
+
+By:
+
+/s/ Kimberly Woolley
+
+Name: Kimberly Woolley
+
+Title: Vice President, Assistant General Counsel and Assistant Secretary

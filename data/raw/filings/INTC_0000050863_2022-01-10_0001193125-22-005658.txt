@@ -1,0 +1,199 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+January 5, 2022
+
+INTEL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+000-06217
+
+94-1672743
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+2200 Mission College Blvd.
+,
+Santa Clara
+,
+California
+
+95054-1549
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+(408)
+
+765-8080
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock, $0.001 par value
+
+INTC
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 5.02
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(b), (c), (e)
+
+Appointment of Chief Financial Officer
+
+On January 10, 2022, Intel Corporation (“Intel”) announced that its Board of Directors (the “Board”) appointed David A. Zinsner as Executive Vice President and Chief Financial Officer, effective as of January 17, 2022 (the “Effective Date”). In this role, he will oversee Intel’s global finance organization. He will also serve as Intel’s principal accounting officer.
+
+Mr. Zinsner, 53, will join Intel from Micron Technology, Inc., a manufacturer of memory and storage products, where he most recently served as Executive Vice President and Chief Financial Officer. From February 2018 to October 2021, he served as Senior Vice President and Chief Financial Officer of Micron. Previously, from April 2017 to February 2018, he served as the President and Chief Operating Officer of Affirmed Networks, Inc. From January 2009 to April 2017, he served as Senior Vice President of Finance and Chief Financial Officer of Analog Devices, Inc. From July 2005 to January 2009, Mr. Zinsner served as Senior Vice President and Chief Financial Officer of Intersil Corporation.
+
+In connection with his appointment as Chief Financial Officer, Intel entered into an offer letter with Mr. Zinsner (the “Offer Letter”) setting forth the terms of his employment and compensation. Pursuant to the Offer Letter, Mr. Zinsner’s base salary will be $800,000, and he will be eligible for an annual incentive cash bonus with a target amount of $1,320,000 under Intel’s Executive Annual Performance Bonus Plan and a quarterly incentive cash bonus under Intel’s broad-based quarterly bonus program. Mr. Zinsner will be granted annual equity awards in January 2022 with an aggregate target value of approximately $8,250,000, comprised of approximately 50% performance-based restricted stock units (“PSUs”) and 50% time-based restricted stock units (“RSUs”).
+
+The Offer Letter provides for certain new hire “make-whole” compensation to be provided to Mr. Zinsner in the form of equity awards and a cash bonus, designed primarily to make him whole for compensation that he forfeited upon his departure from his prior employer. These include PSUs with a target value of approximately $5,000,000, and RSUs with a target value of approximately $12,000,000. In addition, Mr. Zinsner will receive a cash bonus of $2,000,000, payable within 30 days following the Effective Date. In the event he voluntarily terminates his employment or is terminated by Intel for cause within two years of the payment date, he must repay the cash bonus on a prorated basis, as described in the Offer Letter.
+
+Mr. Zinsner’s equity awards will be subject to the terms and conditions of Intel’s 2006 Equity Incentive Plan.
+
+The foregoing description of Mr. Zinsner’s compensation arrangements is qualified in its entirety by reference to the Offer Letter, which is attached as Exhibit 10.1 to this report.
+
+Mr. Zinsner will also enter into Intel’s standard form of officers’ indemnification agreement with Intel, pursuant to which Intel agrees to indemnify its officers to the fullest extent permitted by applicable law and subject to certain conditions to advance expenses in connection with proceedings as described in the indemnification agreement.
+
+In connection with the appointment of Mr. Zinsner as Chief Financial Officer, George Davis will step down as Chief Financial Officer and principal accounting officer as of the Effective Date and will serve as Executive Advisor until he retires from Intel in May 2022.
+
+Departure of General Manager of Client Computing Group
+
+On January 5, 2022, Gregory M. Bryant, Executive Vice President and General Manager of the Client Computing Group (“CCG”) of Intel notified Intel of his decision to resign, effective as of January 31, 2022, in order to pursue another career opportunity.
+
+Michelle Johnston Holthaus, Intel’s Executive Vice President and General Manager of the Sales, Marketing, and Communications Group (“SMG”), has been named to replace Mr. Bryant as General Manager of CCG. While the company searches for a new head of SMG, Ms. Holthaus will remain head of SMG and James Johnson, Intel’s Senior Vice President, CCG, will serve as the interim head of CCG effective immediately.
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+Intel’s press releases, dated January 10, 2022, announcing the appointment of Mr. Zinsner as Intel’s Chief Financial Officer and the CCG leadership changes are furnished as Exhibit 99.1 and Exhibit 99.2, respectively, to this report.
+
+The information in Item 7.01 of this report is furnished and shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+The following exhibits are provided as part of this report:
+
+Exhibit
+
+Number
+
+Description
+
+10.1
+
+Offer Letter between Intel Corporation and David A. Zinsner dated January 6, 2022.
+
+99.1
+
+Press release issued by Intel Corporation announcing the appointment of Mr. Zinsner as Intel’s Chief Financial Officer dated January 10, 2022.
+
+99.2
+
+Press release issued by Intel Corporation announcing CCG leadership changes dated January 10, 2022.
+
+104
+
+Cover Page Interactive Data File, formatted in Inline XBRL and included as Exhibit 101.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+INTEL CORPORATION
+
+(Registrant)
+
+Date: January 10, 2022
+
+/s/ Susie Giordano
+
+Susie Giordano
+
+Corporate Vice President and Corporate Secretary

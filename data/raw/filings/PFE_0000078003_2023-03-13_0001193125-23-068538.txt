@@ -1,0 +1,298 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of report (Date of earliest event reported): March 13, 2023 (
+March 12, 2023
+)
+
+PFIZER INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+1-3619
+
+13-5315170
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+66 Hudson Boulevard East
+
+10001-2192
+
+New York
+,
+New York
+
+(Zip Code)
+
+(Address of principal executive offices)
+
+Registrant’s telephone number, including area code:
+
+(212)
+
+733-2323
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2
+(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $.05 par value
+
+PFE
+
+New York Stock Exchange
+
+1.000% Notes due 2027
+
+PFE27
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01.
+
+Entry into a Material Definitive Agreement.
+
+On March 12, 2023, Pfizer Inc. (“
+Pfizer
+”) entered into an Agreement and Plan of Merger (the “
+Merger Agreement
+”) by and among Pfizer, Seagen Inc. (“
+Seagen
+”) and Aris Merger Sub, Inc., a wholly owned subsidiary of Pfizer (“
+Merger Sub
+”), pursuant to which, among other things, Merger Sub will be merged with and into Seagen (the “
+Merger
+”), with Seagen surviving the Merger as a wholly owned subsidiary of Pfizer.
+
+The Merger Agreement
+
+On the terms and subject to the conditions set forth in the Merger Agreement, at the effective time of the Merger (the “
+Effective Time
+”), each share of common stock of Seagen, par value $0.001 per share (the “
+Common Shares
+”) will be converted into the right to receive $229.00 in cash, subject to limited exceptions set forth in the Merger Agreement. The Merger Agreement also includes provisions governing the treatment of Seagen’s outstanding equity awards at the Effective Time in connection with the Merger.
+
+The consummation of the Merger is subject to various conditions, including, among others, customary conditions relating to: (i) the adoption of the Merger Agreement by the holders of a majority of the outstanding Common Shares entitled to vote on such matter at the meeting of Seagen’s stockholders held for that purpose (the “
+Seagen Requisite Vote
+”), (ii) the expiration or earlier termination of the applicable waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, and receipt of certain
+non-U.S.
+antitrust and foreign direct investment approvals, (iii) no statute, rule or regulation that prohibits the consummation of the Merger having been enacted, issued, enforced or promulgated and remaining in effect in certain specified jurisdictions, and no order or injunction of a court of competent jurisdiction being in effect in certain specified jurisdictions that prohibits or makes illegal the consummation of the Merger and (iv) no Company Material Adverse Effect (as defined in the Merger Agreement) having occurred since the date of the Merger Agreement that is continuing. The obligations of each party to effect the Merger are also conditioned on the accuracy of the other party’s representations and warranties (subject to certain materiality standards) and the other party’s performance and compliance with, in all material respects, the agreements, obligations and covenants required to be performed by it under the Merger Agreement at or prior to the Effective Time.
+
+The Merger Agreement also contains customary representations, warranties and covenants of Seagen, Pfizer and Merger Sub, including covenants regarding the operation of the business of Seagen and its subsidiaries prior to the Effective Time. In addition, Seagen has agreed to customary
+“no-shop”
+restrictions on its ability to solicit any Company Acquisition Proposal (as defined in the Merger Agreement), to enter into any Alternative Acquisition Agreement (as defined in the Merger Agreement), and to participate in discussions or negotiations with or provide
+non-public
+information to any person relating to any Company Acquisition Proposal. Notwithstanding the limitations applicable under the
+“no-shop”
+restrictions, if, after the date of the Merger Agreement and prior to the date on which the Seagen Requisite Vote is obtained, Seagen receives a
+bona fide
+proposal relating to a Company Acquisition Proposal that did not result from a material breach of Seagen’s obligations under the
+“no-shop”
+restrictions and the board of directors of Seagen (the “
+Seagen Board
+”) determines in good faith, after consultation with its financial advisors, that such Company Acquisition Proposal either constitutes or could reasonably be expected to lead to a Superior Proposal (as defined in the Merger Agreement), Seagen may furnish
+non-public
+information to the person making such Company Acquisition Proposal in accordance with a confidentiality agreement not materially less favorable in the aggregate than the confidentiality agreement between Seagen and Pfizer and may participate in discussions and negotiations with such person, subject to certain notice rights and match rights in favor of Pfizer.
+
+The Merger Agreement provides for certain customary termination rights of Seagen and Pfizer, including Seagen’s right, subject to certain limitations, to terminate the Merger Agreement in certain circumstances to accept a Superior Proposal, Pfizer’s right to terminate the Merger Agreement if the Seagen Board adversely changes its recommendation that Seagen’s stockholders approve the adoption of the Merger Agreement, and the right of either party to terminate the Merger Agreement if the Merger has not been completed on or prior to 5:00 p.m. (New York Time) on March 12,
+
+2024 (as may be extended under the Merger Agreement, the “
+Outside Date
+”), which will be automatically extended to September 12, 2024 if certain regulatory closing conditions remain the only conditions not satisfied or waived as of March 12, 2024 (other than conditions that by their terms are to be satisfied at the closing). The Merger Agreement also provides that Seagen will be required to pay Pfizer a termination fee of approximately $1.65 billion following or in connection with the termination of the Merger Agreement in certain circumstances, including if Seagen terminates the Merger Agreement in order to accept a Superior Proposal as set forth in the Merger Agreement.
+
+In addition, the Merger Agreement provides that Pfizer will be required to pay Seagen a termination fee of approximately $2.22 billion in connection with the termination of the Merger Agreement, subject to certain limitations set forth in the Merger Agreement, if the Merger Agreement is terminated by either party as a result of (i) certain regulatory closing conditions relating to antitrust laws and foreign direct investment laws not having been satisfied as of the Outside Date or (ii) a court of competent jurisdiction or other governmental authority having issued a final,
+non-appealable
+order, or a statute, rule or regulation being in place, in each case, in connection with any antitrust law or foreign direct investment law, that permanently restrains, enjoins or otherwise prohibits the consummation of the Merger.
+
+The foregoing description of the Merger Agreement is qualified in its entirety by the full text of the Merger Agreement, which is attached hereto as Exhibit 2.1 and is incorporated by reference herein.
+
+A copy of the Merger Agreement has been included to provide investors with information regarding its terms. It is not intended to provide any other factual information about Pfizer, Seagen or Merger Sub or their respective subsidiaries or affiliates. The representations, warranties, and covenants of each of Pfizer, Seagen and Merger Sub contained in the Merger Agreement were made only for purposes of the Merger Agreement and as of specific dates, were solely for the benefit of the parties to the Merger Agreement, may be subject to limitations, qualifications or other particulars agreed upon by the contracting parties, including being qualified by confidential disclosures made for the purposes of allocating contractual risk between the parties to the Merger Agreement instead of establishing these matters as facts or made for other purposes, and may be subject to standards of materiality applicable to the contracting parties that differ from those applicable to investors. Accordingly, the representations, warranties, and covenants or any descriptions thereof should not be relied upon by any person as characterizations of the actual state of facts or condition of the parties thereto or any of their respective subsidiaries or affiliates. Moreover, information concerning the subject matter of representations and warranties may change after the date of the Merger Agreement, which subsequent information will not necessarily be fully reflected in Pfizer’s or Seagen’s public disclosures.
+
+Item 7.01.
+
+Regulation FD Disclosure.
+
+On March 13, 2023, Pfizer and Seagen issued a joint press release announcing the execution of the Merger Agreement. A copy of the joint press release is being furnished on this Current Report on Form
+8-K
+as Exhibit 99.1.
+
+On March 13, 2023, representatives of Pfizer and Seagen will present to investors an investor presentation (the “
+Investor Presentation
+”) in connection with the announcement of the Merger Agreement. A copy of the Investor Presentation is being furnished on this Current Report on Form
+8-K
+as Exhibit 99.2 and is incorporated by reference herein.
+
+Pursuant to General Instruction B.2. to Form
+8-K,
+the information set forth in this Item 7.01, including Exhibits 99.1 and 99.2, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section.
+
+Item 8.01.
+
+Other Events.
+
+On March 12, 2023, Pfizer entered into a Voting Agreement (the “
+Voting Agreement
+”) with Seagen and Baker Bros. Advisors LP (the “
+Advisor
+”), on behalf of itself and certain specified persons identified therein in their respective capacities as record or beneficial owners of Common Shares (the “
+Stockholders
+”), pursuant to which and on the terms and subject to the conditions thereof, among other things, the Advisor has agreed to vote (or cause to be voted) all of the Common Shares owned of record or beneficially by the Stockholders as of the date of the Merger Agreement and any additional Common Shares of which any such Stockholder acquires record or beneficial ownership after the date of the Merger Agreement (i) in favor of any proposal to adopt the Merger Agreement and approve the Merger and (ii) against (A) any action or agreement that would reasonably be expected to result in any of the
+
+conditions to Seagen’s obligations to complete the Merger not being fulfilled or result in a breach of any covenant, representation or warranty or any other obligation or agreement of Seagen contained in the Merger Agreement, or of the Advisor contained in the Voting Agreement, (B) any Company Acquisition Proposal or (C) any agreement, transaction or other matter that is intended to, or would reasonably be expected to, impede or interfere with the consummation of the Merger and the other transactions contemplated by the Merger Agreement.
+
+The foregoing description of the Voting Agreement is qualified in its entirety by the full text of the Voting Agreement, which is attached hereto as Exhibit 99.3 and is incorporated by reference herein.
+
+A copy of the Voting Agreement has been included to provide investors with information regarding its terms. It is not intended to provide any other factual information about the parties thereto or their respective subsidiaries or affiliates. The representations, warranties, and covenants of each of the parties thereto contained in the Voting Agreement were made only for purposes of the Voting Agreement and as of specific dates, were solely for the benefit of the parties to the Voting Agreement, may be subject to limitations, qualifications or other particulars agreed upon by the contracting parties, instead of establishing these matters as facts or made for other purposes, and may be subject to standards of materiality applicable to the contracting parties that differ from those applicable to investors. Accordingly, the representations, warranties, and covenants or any descriptions thereof should not be relied upon by any person as characterizations of the actual state of facts or condition of the parties thereto or any of their respective subsidiaries or affiliates. Moreover, information concerning the subject matter of representations and warranties may change after the date of the Voting Agreement, which subsequent information will not necessarily be fully reflected in Pfizer’s or Seagen’s public disclosures.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+
+No.
+
+Exhibit Description
+
+2.1*
+
+Agreement and Plan of Merger, by and among Pfizer Inc., Aris Merger Sub, Inc. and Seagen Inc., dated as of March 12, 2023
+
+99.1
+
+Press Release, dated March 13, 2023
+
+99.2
+
+Investor Presentation, dated March 13, 2023
+
+99.3
+
+Voting Agreement, by and among Pfizer Inc., Seagen Inc. and Baker Bros. Advisors LP (on behalf of itself and certain stockholders of Seagen Inc. on Schedule A thereto) dated as of March 12, 2023
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+*
+
+Schedules have been omitted pursuant to Item 601(a)(5) of Regulation
+S-K.
+Pfizer hereby undertakes to furnish supplemental copies of any of the omitted schedules upon request by the U.S. Securities and Exchange Commission; provided, that Pfizer may request confidential treatment pursuant to Rule
+24b-2
+of the Securities Exchange Act of 1934, as amended, for any schedules so furnished.
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+This Current Report on Form
+8-K
+and any documents referred to in this communication contains certain “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995 (the “
+Act
+”), including, but not limited to, Pfizer’s proposed acquisition of Seagen. Risks and uncertainties include, among other things, risks related to the satisfaction or waiver of the conditions to closing the proposed acquisition (including the failure to obtain necessary regulatory approvals and failure to obtain the requisite vote by Seagen stockholders) in the anticipated timeframe or at all, including the possibility that the proposed acquisition does not close; the possibility that competing offers may be made; risks related to the ability to realize the anticipated benefits of the proposed acquisition, including the possibility that the expected benefits from the acquisition will not be realized or will not be realized within the expected time period; the risk that the businesses will not be integrated successfully; disruption from the transaction making it more difficult to maintain business and operational relationships; negative effects of this announcement or the consummation of the proposed acquisition on the market price of Pfizer’s common stock and/or operating results; significant transaction costs; unknown liabilities; the risk of litigation and/or regulatory actions related to the proposed acquisition or Seagen’s business; risks related to the financing of the transaction; other business effects and uncertainties, including the effects of industry, market, business, economic, political or regulatory conditions; future exchange and interest rates; changes in tax and other laws, regulations, rates and policies; future business combinations or disposals; uncertainties regarding the commercial success of Pfizer’s and Seagen’s commercialized and pipeline products; the uncertainties inherent in research and development, including the ability to meet anticipated clinical endpoints, commencement and/or completion dates for clinical trials, regulatory submission dates, regulatory approval dates and/or launch dates, as well as the possibility of unfavorable new clinical data and further analyses of existing clinical data; risks associated with interim data; the risk that clinical trial data are subject to differing interpretations and assessments by regulatory authorities; whether regulatory authorities will be satisfied with the design of and results from the clinical studies; whether and when drug applications may be filed in any jurisdictions for Pfizer’s or Seagen’s pipeline products; whether and when any such applications may be approved by regulatory authorities, which will depend on myriad factors, including making a determination as to whether the product’s benefits outweigh its known risks and determination of the product’s efficacy and, if approved, whether any such products will be commercially successful; decisions by regulatory authorities impacting labeling, manufacturing processes, safety and/or other matters that could affect the availability or commercial potential of such products; uncertainties regarding the impact of
+COVID-19;
+and competitive developments.
+
+You should carefully consider the foregoing factors and the other risks and uncertainties that affect the businesses of Pfizer and Seagen described in the “Risk Factors” and “Forward-Looking Information and Factors That May Affect Future Results” (in the case of Pfizer) or “Special Note Regarding Forward-Looking Statements” (in the case of Seagen) sections of their respective Annual Reports on Form
+10-K,
+Quarterly Reports on Form
+10-Q
+and other documents filed by either of them from time to time with the U.S. Securities and Exchange Commission, all of which are available at www.sec.gov. These filings identify and address other important risks and uncertainties that could cause actual events and results to differ materially from those contained in the forward-looking statements. Forward-looking statements speak only as of the date they are made. You are cautioned not to put undue reliance on forward-looking statements, and Pfizer and Seagen assume no obligation to, and do not intend to, update or revise these forward-looking statements, whether as a result of new information, future events, or otherwise, unless required by law. Neither Pfizer nor Seagen gives any assurance that it will achieve its expectations.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+PFIZER INC.
+
+Date: March 13, 2023
+
+By:
+
+/s/ Margaret M. Madden
+
+Margaret M. Madden
+
+Senior Vice President and Corporate Secretary
+
+Chief Governance Counsel

@@ -1,0 +1,183 @@
+As filed with the Securities and Exchange Commission on February 12, 2021
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+February 12, 2021
+BANK OF AMERICA CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+1-6523
+
+56-0906609
+(State or Other Jurisdiction of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+100 North Tryon Street
+
+Charlotte
+,
+North Carolina
+
+28255
+
+(Address of principal executive offices)
+(
+704
+)
+386-5681
+
+(Registrant’s telephone number, including area code)
+Not Applicable
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.01 per share
+BAC
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of Floating Rate Non-Cumulative Preferred Stock, Series E
+BAC PrE
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 6.000% Non-Cumulative Preferred Stock, Series EE
+BAC PrA
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 6.000% Non-Cumulative Preferred Stock, Series GG
+BAC PrB
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 5.875% Non-Cumulative Preferred Stock, Series HH
+BAC PrK
+New York Stock Exchange
+7.25% Non-Cumulative Perpetual Convertible Preferred Stock, Series L
+BAC PrL
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,200th interest in a share of
+
+BML PrG
+New York Stock Exchange
+Bank of America Corporation Floating Rate Non-Cumulative
+Preferred Stock, Series 1
+Depositary Shares, each representing a 1/1,200th interest in a share of
+
+BML PrH
+New York Stock Exchange
+Bank of America Corporation Floating Rate Non-Cumulative
+Preferred Stock, Series 2
+Depositary Shares, each representing a 1/1,200th interest in a share of
+
+BML PrJ
+New York Stock Exchange
+Bank of America Corporation Floating Rate Non-Cumulative
+Preferred Stock, Series 4
+Depositary Shares, each representing a 1/1,200th interest in a share of
+
+BML PrL
+New York Stock Exchange
+Bank of America Corporation Floating Rate Non-Cumulative
+Preferred Stock, Series 5
+Floating Rate Preferred Hybrid Income Term Securities of BAC Capital Trust XIII (and the guarantee related thereto)
+BAC/PF
+New York Stock Exchange
+5.63% Fixed to Floating Rate Preferred Hybrid Income Term Securities of BAC Capital Trust XIV (and the guarantee related thereto)
+BAC/PG
+New York Stock Exchange
+Income Capital Obligation Notes initially due December 15, 2066 of Bank of America Corporation
+MER PrK
+New York Stock Exchange
+Senior Medium-Term Notes, Series A, Step Up Callable Notes, due
+
+BAC/31B
+New York Stock Exchange
+November 28, 2031 of BofA Finance LLC (and the guarantee of the
+Registrant with respect thereto)
+Depositary Shares, each representing a 1/1,000th interest in a share of 5.375% Non-Cumulative Preferred Stock, Series KK
+BAC PrM
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 5.000% Non-Cumulative Preferred Stock, Series LL
+BAC PrN
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 4.375% Non-Cumulative Preferred Stock, Series NN
+BAC PrO
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 4.125% Non-Cumulative Preferred Stock, Series PP
+BAC PrP
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR 230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR 240.12b-2).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+ITEM 8.01.
+
+Other Events.
+Bank of America Corporation (“Bank of America” or the “Company”) today announced that its Board of Directors (the “Board”) has approved 2020 total compensation for Chairman and Chief Executive Officer Brian T. Moynihan of $24,500,000, compared with $26,500,000 awarded for 2019.
+In determining this compensation, the independent members of the Board evaluated many aspects of the Company’s performance in 2020 given the COVID-19 pandemic’s impact on financial performance, its clients, communities and its own employees.
+
+Shareholders
+. For shareholders, the Company earned nearly $18 billion in net income, strengthened its capital and liquidity to record levels, improved its book value per common share, and distributed more than $13 billion to shareholders through dividends and share repurchases.
+
+The Company’s responsible growth over the past decade and prudent approach to capital planning also put it in a position to begin returning more capital as allowed entering 2021, with $36 billion of excess capital above minimum requirements.
+
+Employees
+. During the early stages of the pandemic, the Company committed to no COVID-related layoffs in 2020, implemented business continuity plans, restricted travel and in-person meetings, established a work-from-home posture for approximately 85% of the Company’s employees, enhanced cleaning procedures, provided health supplies and wellness checks, established site specific physical distancing plans, enhanced employee benefits, and expanded capacity to serve clients virtually. Enhanced benefits provided to employees and their families in 2020 included nearly three million days of back-up care for children and adults. In 2020 the Company also had record employee satisfaction and diversity and inclusion index scores, recognizing the longstanding commitment to being a great place to work and the Company’s commitment to diversity and inclusion.
+
+The Company also raised the minimum hourly rate of pay for U.S. teammates to $20 in 2020, one year earlier than planned. Additionally, the Company announced Delivering Together awards to 97% of teammates to recognize their outstanding efforts throughout the pandemic to be paid in the first quarter of 2021.
+Clients
+. Pandemic-related support for clients began with providing service through resilient and scaled operating systems, even as record volumes of client activity occurred across many platforms. To aid distressed borrowers, the Company processed approximately two million loan payment deferral requests through the Client Assistance Program (approximately 77,000 remained in place at the end of 2020). Under the initial funding of the Paycheck Protection Program created under the Coronavirus Aid, Relief and Economic Security Act, the Company extended approximately 343,000 loans to small businesses, ending the year with $23 billion in balances. The Company also approved $276 billion in new or expanded commercial commitments and raised $772 billion in capital for clients across debt and equity markets in 2020. At the same time, the Company supported its institutional investor clients by providing liquidity and a strong and resilient trading platform.
+Communities
+. The Company also assisted the communities it serves across the U.S. and globally, much of which was accomplished through local outreach with community partners, including donations of 19 million masks, 13,000 cases of sanitizer and 1.4 million gloves for vulnerable populations. The Company contributed $350 million in philanthropy to address critical needs related to the pandemic, a $100 million increase over 2019. The Company ended 2020 as the largest private investor in Community Development Financial Institutions (“CDFIs”) in the U.S., with a $1.6 billion portfolio spanning 255 partner CDFIs across all 50 states. To support racial equity and economic opportunity in its communities, the Company committed $1 billion over four years, $300 million of which has already been allocated, as follows:
+◦
+$25 million in support of jobs initiatives
+◦
+$25 million to support underserved and minority communities
+◦
+$50 million in direct equity investments to Minority Depository Institutions
+◦
+$200 million of equity funding to minority entrepreneurs and businesses
+The Company issued a $1 billion corporate social bond to support the fight against the COVID-19 pandemic, with proceeds supporting not-for-profit hospitals, skilled nursing facilities, and manufacturers of healthcare equipment and supplies. Further, the Company issued a first-of-its-kind $2 billion Equality Progress Sustainability Bond to help advance racial equality, economic opportunity and environmental sustainability.
+In addition, the Board recognized Mr. Moynihan’s leadership in 2020 in the financial services industry and other CEO forums, including as Chairman of the International Business Council (World Economic Forum) and the Bank Policy Institute, and co-chairmanship of the Sustainable Markets Initiative. Mr. Moynihan was recognized by fellow CEOs across industries as
+Chief Executive Magazine’s
+2020 CEO of the Year.
+
+Mr. Moynihan’s compensation structure continues to be composed of base salary, time-based restricted stock units (“RSUs”), and performance RSUs. Mr. Moynihan’s annual base salary remains $1.5 million. The aggregate value of his 2020 equity incentive award is $23 million. Consistent with prior years, there is no cash bonus. The incentive is comprised 30% of cash-settled RSUs that will vest over the next 12 months, 20% of stock-settled RSUs that will vest annually over the next four years (extended from three-year pro-rata in prior years to further drive long-term shareholder alignment), and 50% of performance RSUs that will be earned only if Bank of America’s future financial performance meets specific standards.
+The overall structure of Mr. Moynihan’s 2020 performance RSUs is consistent with the prior eight years, during which time the annual advisory “Say on Pay” shareholder vote regarding the Company’s executive compensation program has been approved with an average of 94.5% support. The performance RSUs awarded to Mr. Moynihan continue to use a “re-earn” approach, vesting only if the Company meets performance standards over a three-year period. Under this “re-earn” approach, future adverse performance of the Company below the standards of the performance RSUs will decrease the amount ultimately paid; 100% is the maximum payout if standards are met. The three-year average ROA standards for the newly awarded performance RSUs have been recalibrated in light of the current economic climate, including the historically low interest rate structure, with a target of 0.80%. There is no change to the standards for three-year average growth in adjusted tangible book value. The Board did not change the standards for previously granted but not yet vested performance RSU awards.
+Additionally, all of Mr. Moynihan’s 2020 equity incentive awards are subject to Bank of America’s stock ownership and retention requirements. Specifically, 50% of the net after-tax shares he receives from equity awards must be retained until one year after his retirement. These equity awards also are subject to Bank of America’s clawback policies.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+BANK OF AMERICA CORPORATION
+By:
+/s/ Ross E. Jeffries, Jr.
+
+Ross E. Jeffries, Jr.
+
+Deputy General Counsel and
+Corporate Secretary
+Dated: February 12, 2021

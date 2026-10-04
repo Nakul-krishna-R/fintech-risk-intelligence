@@ -1,0 +1,84 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+________________________________________________________
+FORM
+8-K
+________________________________________________________
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+November 21, 2022
+
+Date of Report (date of earliest event reported)
+
+_________________________________________________________
+Salesforce, Inc.
+(Exact name of registrant as specified in its charter)
+
+__________________________________________________________
+
+Delaware
+001-32224
+94-3320693
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+Salesforce Tower
+415 Mission Street, 3rd Fl
+San Francisco
+,
+California
+
+94105
+(Address of principal executive offices)
+Registrant’s telephone number, including area code: (
+415
+)
+901-7000
+N/A
+(Former name or former address, if changed since last report)
+_________________________________________________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.001 per share
+CRM
+New York Stock Exchange
+, Inc.
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+As previously announced, Gavin Patterson will step down from his position as President and Chief Strategy Officer of Salesforce, Inc. (the “Company”) and will depart the Company, effective January 31, 2023. On November 21, 2022, the Company entered into a Settlement Agreement (the “Settlement Agreement”) with Mr. Patterson in connection with his departure. The Settlement Agreement provides for a general waiver and release of claims in favor of the Company and other customary provisions, including certain post-termination restrictions on Mr. Patterson’s competitive activities. In exchange, the Company will pay to Mr. Patterson, pursuant to the terms of the Settlement Agreement, an aggregate of approximately £1.6 million, primarily consisting of approximately three months of salary; the equivalent of his target annual bonus, less amounts previously paid; a termination payment; and insurance premiums and other benefits.
+Signature
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated:
+November 23, 2022
+Salesforce, Inc.
+/s/ T
+ODD
+M
+ACHTMES
+Todd Machtmes
+Executive Vice President and General Counsel

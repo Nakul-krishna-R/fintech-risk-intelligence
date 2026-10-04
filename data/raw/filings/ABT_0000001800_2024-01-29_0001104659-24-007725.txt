@@ -1,0 +1,201 @@
+Common Shares, Without Par Value
+
+ABT
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington,
+D. C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+the
+
+Securities Exchange Act of 1934
+
+January 29, 2024
+
+Date of Report (Date of earliest event reported)
+
+ABBOTT LABORATORIES
+
+(Exact name of registrant as specified in
+charter)
+
+Illinois
+
+1-2189
+
+36-0698440
+
+(State or other Jurisdiction
+
+(Commission File Number)
+
+(IRS Employer
+
+of Incorporation)
+
+Identification No.)
+
+100 Abbott Park Road
+
+Abbott Park
+,
+Illinois
+
+60064-6400
+
+(Address of principal executive offices)(Zip
+Code)
+
+Registrant’s telephone number, including
+area code:
+(
+224
+)
+667-6100
+
+Check the appropriate box below if the Form 8-K filing
+is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities Registered Pursuant to Section 12(b) of
+the Act:
+
+Title of Each Class
+
+Trading
+
+Symbol(s)
+
+Name of Each Exchange
+
+on
+Which Registered
+
+Common
+Shares, Without Par Value
+
+ABT
+
+New
+York Stock Exchange
+
+Chicago
+Stock Exchange, Inc.
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of
+the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging
+growth company
+¨
+
+If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with
+any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+On January 29, 2024 (the “
+Effective
+Date
+”), Abbott Laboratories, an Illinois corporation (“
+Abbott
+”), entered into a Five Year Credit Agreement
+(the “
+Revolving Credit Agreement
+”) with the lenders from time to time party thereto and JPMorgan Chase Bank, N.A.,
+as administrative agent.
+
+The Revolving Credit Agreement provides Abbott
+with the ability to borrow up to $5 billion on an unsecured basis. Any borrowings under the Revolving Credit Agreement will mature and
+be payable on the fifth anniversary of the Effective Date. As of the date of this Current Report on Form 8-K, there are no outstanding
+borrowings under the Revolving Credit Agreement.
+
+Abbott’s borrowings under the Revolving Credit
+Agreement will bear interest, at Abbott’s option, based on either a base rate or a SOFR rate, plus an applicable margin based on
+Abbott’s credit ratings in effect from time to time. Abbott will also pay to the lenders under the Revolving Credit Agreement
+certain customary fees.
+
+The Revolving Credit Agreement contains representations
+and warranties and affirmative and negative covenants customary for unsecured financings of this type as well as customary events of default.
+
+The foregoing description of the Revolving Credit
+Agreement is qualified in its entirety by reference to the full text of the Revolving Credit Agreement, a copy of which will be filed
+with Abbott’s annual report on Form 10-K for the period ending December 31, 2023.
+
+Some of the lenders under the Revolving Credit
+Agreement and/or their respective affiliates have in the past performed, and may in the future from time to time perform, investment banking,
+financial advisory, lending and/or commercial banking services, or other services for Abbott and its subsidiaries, for which they have
+received, and may in the future receive, customary compensation and expense reimbursement.
+
+Item 1.02. Termination of a Material Definitive Agreement.
+
+In connection with its entry into the Revolving
+Credit Agreement, on the Effective Date Abbott terminated all commitments outstanding under the Five Year Credit Agreement, dated as of
+November 12, 2020 (as amended by that certain Amendment No. 1, dated as of May 12, 2023, the “
+Existing Credit
+Agreement
+”), among Abbott, the lenders from time to time party thereto and JPMorgan Chase Bank, N.A., as administrative agent.
+There were no outstanding borrowings under the Existing Credit Agreement at the time of its termination.
+
+The Existing Credit Agreement provided Abbott
+with the ability to borrow up to $5 billion on an unsecured basis. Absent termination, any borrowings under the Existing Credit
+Agreement would have matured and been payable on November 12, 2025. Abbott’s borrowings under the Existing Credit
+Agreement bore interest, at Abbott’s option, based on either a base rate or a SOFR rate, plus an applicable margin based on
+Abbott’s credit ratings in effect from time to time.
+
+Some of the lenders under the Existing Credit Agreement
+and/or their respective affiliates have in the past performed, and may in the future from time to time perform, investment banking, financial
+advisory, lending and/or commercial banking services, or other services for Abbott and its subsidiaries, for which they have received,
+and may in the future receive, customary compensation and expense reimbursement.
+
+Item 2.03. Creation of a Direct Financial Obligation or an
+Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+The disclosure contained in Item 1.01 is incorporated
+in this Item 2.03 by reference.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ABBOTT LABORATORIES
+
+Date: January 29, 2024
+
+By:
+
+/s/ Philip P. Boudreau
+
+Philip P. Boudreau
+
+Senior Vice President, Finance and Chief Financial Officer

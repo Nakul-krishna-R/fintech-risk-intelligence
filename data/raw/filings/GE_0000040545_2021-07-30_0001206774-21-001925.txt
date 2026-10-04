@@ -1,0 +1,193 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)
+July 30, 2021
+
+General Electric Co
+mpany
+
+(Exact name of registrant as specified in its charter)
+
+New York
+
+001-00035
+
+14-0689340
+
+(State or other jurisdiction
+
+(Commission
+
+(IRS Employer
+
+of incorporation)
+
+File Number)
+
+Identification No.)
+
+5 Necco Street
+,
+Boston
+,
+MA
+
+02210
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code (
+617
+)
+443-3000
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock, par value $0.01 per share
+
+GE
+
+New York Stock Exchange
+
+0.375% Notes due 2022
+
+GE 22A
+
+New York Stock Exchange
+
+1.250% Notes due 2023
+
+GE 23E
+
+New York Stock Exchange
+
+0.875% Notes due 2025
+
+GE 25
+
+New York Stock Exchange
+
+1.875% Notes due 2027
+
+GE 27E
+
+New York Stock Exchange
+
+1.500% Notes due 2029
+
+GE 29
+
+New York Stock Exchange
+
+7 1/2% Guaranteed Subordinated Notes due 2035
+
+GE /35
+
+New York Stock Exchange
+
+2.125% Notes due 2037
+
+GE 37
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 3.03 Material Modification to Rights of Security Holders.
+
+On July 30, 2021, General Electric Company (the “Company”) filed a Certificate of Amendment to its Certificate of Incorporation (the “Certificate of Amendment”) in order to effect a one-for-eight reverse stock split of the Company’s common stock, together with a corresponding proportionate reduction in the shares of the Company’s common stock authorized under the Certificate of Incorporation, as amended, from 13,200,000,000 shares to 1,650,000,000 shares, and a reduction of the par value per share of common stock from $0.06 to $0.01 (collectively, the “Reverse Stock Split”).
+
+The Certificate of Amendment became effective upon acceptance for filing on July 30, 2021. The foregoing summary of the Certificate of Amendment is qualified in its entirety by reference to the full text of the Certificate of Amendment, which is attached hereto as Exhibit 3.1 and incorporated herein by reference.
+
+On August 2, 2021, GE common stock will begin trading, on a split-adjusted basis, (i) on the New York Stock Exchange under the symbol “GE”, with a new CUSIP number (369604 301), and (ii) on the London Stock Exchange under the symbol “GEC”, Euronext Paris under the symbol “GNE”, the SIX Swiss Exchange under the symbol “GE” and the Frankfurt Stock Exchange under the symbol “GEC”, each with a new ISIN (US3696043013).
+
+Item 8.01 Other Events.
+
+In connection with the Reverse Stock Split, the number of shares registered on applicable registration statements filed with the Securities and Exchange Commission have been proportionately reduced. Additionally, as a result of the Reverse Stock Split, the Company made anti-dilution adjustments to the 2007 Long-Term Incentive Plan, as amended and restated (the “Plan”), and to the outstanding awards issued under the Plan in accordance with the terms of the Plan.
+
+On July 30, 2021, the Company issued a press release announcing the effectiveness of the Reverse Stock Split. A copy of the press release is filed as Exhibit 99.1 to this report and is incorporated herein by reference.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit Number
+
+Description
+
+3.1
+
+Certificate of Amendment to the Certificate of Incorporation of General Electric Company, dated July 30, 2021
+
+99.1
+
+Press Release, dated July 30, 2021, issued by General Electric Company
+
+104.1
+
+The cover page from this Current Report on Form 8-K, formatted in Inline XBRL.
+
+(2)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+General Electric Company
+
+(Registrant)
+
+Date: July 30, 2021
+
+/s/ Michael J. Holston
+
+Michael J. Holston
+
+Senior Vice President, General Counsel
+
+and Secretary
+
+(3)

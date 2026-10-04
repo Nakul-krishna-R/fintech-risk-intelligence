@@ -1,0 +1,227 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of report (Date of earliest event reported):
+April 27, 2023
+PFIZER INC
+.
+(Exact name of registrant as specified in its charter)
+Delaware
+1-3619
+13-5315170
+(State or other
+(Commission File
+(I.R.S. Employer
+jurisdiction of
+Number)
+Identification No.)
+incorporation)
+
+66 Hudson Boulevard East
+10001-2192
+New York,
+
+New York
+
+(Zip Code)
+(Address of principal executive offices)
+Registrant’s telephone number, including area code:
+(
+212
+)
+733-2323
+
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2 (b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $.05 par value
+PFE
+New York Stock Exchange
+1.000% Notes due 2027
+PFE27
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 5.07 Submission of Matters to a Vote of Security Holders
+(a) The Pfizer Inc. (the "Company") Annual Meeting of Shareholders was held on April 27, 2023.
+(b) Shareholders voted on the matters set forth below.
+1. The nominees for election to the Company’s Board of Directors set forth in Item 1 to the Company’s Proxy Statement filed with the U.S. Securities and Exchange Commission on March 16, 2023 were elected to hold office until the Company’s next Annual Meeting of Shareholders, based upon the following votes:
+Nominee
+Votes For
+Votes Against
+Abstentions
+Broker non-vote
+Ronald E. Blaylock
+3,789,612,837
+83,839,363
+12,467,881
+822,779,764
+Albert Bourla
+3,653,674,437
+208,682,127
+23,564,504
+822,779,764
+Susan Desmond-Hellmann
+3,828,773,799
+46,025,527
+11,121,794
+822,779,764
+Joseph J. Echevarria
+3,778,999,117
+94,432,165
+12,489,838
+822,779,764
+Scott Gottlieb
+3,842,319,407
+32,995,098
+10,606,615
+822,779,764
+Helen H. Hobbs
+3,785,122,522
+89,855,218
+10,943,380
+822,779,764
+Susan Hockfield
+3,844,758,007
+29,938,558
+11,222,555
+822,779,764
+Dan R. Littman
+3,820,810,803
+52,740,318
+12,369,605
+822,779,764
+Shantanu Narayen
+3,834,990,965
+38,626,491
+12,303,663
+822,779,764
+Suzanne Nora Johnson
+3,647,540,160
+226,795,872
+11,585,088
+822,779,764
+James Quincey
+3,793,804,997
+79,619,976
+12,495,108
+822,779,764
+James C. Smith
+3,759,605,435
+114,075,438
+12,240,247
+822,779,764
+2. The proposal to ratify the selection of KPMG LLP as the Company’s independent registered public accounting firm for the 2023 fiscal year was approved based upon the following votes:
+Votes for approval
+4,476,884,380
+Votes against
+216,080,165
+Abstentions
+15,730,121
+Broker non-votes
+n/a
+3. The proposal to approve, on an advisory basis, the compensation of the Company's Named Executive Officers was approved based upon the following votes
+:
+Votes for approval
+3,579,314,991
+Votes against
+278,786,983
+Abstentions
+27,817,386
+Broker non-votes
+822,779,764
+4. The proposal on the advisory vote on the frequency of future advisory votes to approve executive compensation received the following votes:
+For 1 year
+3,766,703,452
+For 2 years
+14,391,226
+For 3 years
+89,089,799
+Abstentions
+15,686,294
+Broker non-votes
+822,779,764
+5. The shareholder proposal regarding ratification of termination pay was not approved based upon the following votes:
+Votes for approval
+383,373,901
+Votes against
+3,471,502,220
+Abstentions
+31,042,621
+Broker non-votes
+822,779,764
+6. The shareholder proposal regarding independent board chairman policy was not approved based upon the following votes:
+Votes for approval
+1,341,494,540
+Votes against
+2,522,043,083
+Abstentions
+22,383,108
+Broker non-votes
+822,779,764
+7. The shareholder proposal regarding transfer of intellectual property to potential COVID-19 manufacturers feasibility report was not approved based upon the following votes:
+Votes for approval
+466,014,359
+Votes against
+3,345,078,090
+Abstentions
+74,828,282
+Broker non-votes
+822,779,764
+8. The shareholder proposal regarding impact of extended patent exclusivities on product access report was not approved based upon the following votes:
+Votes for approval
+1,152,896,529
+Votes against
+2,665,474,921
+Abstentions
+67,549,520
+Broker non-votes
+822,779,764
+9. The shareholder proposal regarding political contributions congruency report was not approved based upon the following votes:
+Votes for approval
+539,212,248
+Votes against
+3,275,597,231
+Abstentions
+71,110,795
+Broker non-votes
+822,779,764
+(c) Not applicable.
+(d) Based upon the results set forth in item (b) (4) above, and consistent with the Board's recommendation, the Board of Directors has determined that advisory votes on executive compensation will be submitted to shareholders on an annual basis until the next required vote on the frequency of such votes.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+PFIZER INC.
+
+By:
+/s/ Margaret M. Madden
+
+Margaret M. Madden
+
+Senior Vice President and Corporate Secretary
+
+Chief Governance Counsel
+
+Dated: May 1, 2023

@@ -1,0 +1,353 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report:
+February 14, 2022
+
+(Date of earliest event reported)
+
+Verizon Communications Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+1-8606
+
+23-2259884
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(I.R.S. Employer
+Identification Number)
+
+1095 Avenue of the Americas
+New York
+,
+New York
+
+10036
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (
+212
+)
+395-1000
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+
+Trading
+Symbol(s)
+
+Name of Exchange
+on Which Registered
+
+Common Stock, par value $0.10
+
+VZ
+
+New York Stock Exchange
+
+Common Stock, par value $0.10
+
+VZ
+
+The NASDAQ Global Select Market
+
+1.625% Notes due 2024
+
+VZ24B
+
+New York Stock Exchange
+
+4.073% Notes due 2024
+
+VZ24C
+
+New York Stock Exchange
+
+0.875% Notes due 2025
+
+VZ25
+
+New York Stock Exchange
+
+3.250% Notes due 2026
+
+VZ26
+
+New York Stock Exchange
+
+1.375% Notes due 2026
+
+VZ26B
+
+New York Stock Exchange
+
+0.875% Notes due 2027
+
+VZ27E
+
+New York Stock Exchange
+
+1.375% Notes due 2028
+
+VZ28
+
+New York Stock Exchange
+
+1.125% Notes due 2028
+
+VZ28A
+
+New York Stock Exchange
+
+2.350% Fixed Rate Notes due 2028
+
+VZ28C
+
+New York Stock Exchange
+
+1.875% Notes due 2029
+
+VZ29B
+
+New York Stock Exchange
+
+0.375% Notes due 2029
+
+VZ29D
+
+New York Stock Exchange
+
+1.250% Notes due 2030
+
+VZ30
+
+New York Stock Exchange
+
+1.875% Notes due 2030
+
+VZ30A
+
+New York Stock Exchange
+
+2.625% Notes due 2031
+
+VZ31
+
+New York Stock Exchange
+
+2.500% Notes due 2031
+
+VZ31A
+
+New York Stock Exchange
+
+3.000% Fixed Rate Notes due 2031
+
+VZ31D
+
+New York Stock Exchange
+
+0.875% Notes due 2032
+
+VZ32
+
+New York Stock Exchange
+
+0.750% Notes due 2032
+
+VZ32A
+
+New York Stock Exchange
+
+1.300% Notes due 2033
+
+VZ33B
+
+New York Stock Exchange
+
+4.750% Notes due 2034
+
+VZ34
+
+New York Stock Exchange
+
+3.125% Notes due 2035
+
+VZ35
+
+New York Stock Exchange
+
+1.125% Notes due 2035
+
+VZ35A
+
+New York Stock Exchange
+
+3.375% Notes due 2036
+
+VZ36A
+
+New York Stock Exchange
+
+2.875% Notes due 2038
+
+VZ38B
+
+New York Stock Exchange
+
+1.875% Notes due 2038
+
+VZ38C
+
+New York Stock Exchange
+
+1.500% Notes due 2039
+
+VZ39C
+
+New York Stock Exchange
+
+3.500% Fixed Rate Notes due 2039
+
+VZ39D
+
+New York Stock Exchange
+
+1.850% Notes due 2040
+
+VZ40
+
+New York Stock Exchange
+
+3.850% Fixed Rate Notes due 2041
+
+VZ41C
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+☐
+Emerging growth company
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01.
+
+Other Events.
+
+Verizon Communications Inc. (the “Company”) is filing this Current Report on Form
+8-K
+for the purpose of incorporating by reference the Statement of Eligibility on Form
+T-1
+under the Trust Indenture Act of 1939 of U.S. Bank Trust Company, National Association into the Company’s Registration Statement on Form
+S-3
+(Registration
+No. 333-233608),
+under which Registration Statement the Company’s debt securities issued under the Indenture, dated as of December 1, 2000 (as amended and supplemented), by and between the Company and U.S. Bank Trust Company, National Association, as successor in interest to U.S. Bank National Association (as successor to Wachovia Bank, National Association, formerly known as First Union National Bank), as trustee, are registered.
+
+Item 9.01.
+
+Financial Statements and Exhibits
+
+(d) Exhibits
+
+Exhibit
+
+Number
+
+Description
+
+25.1
+
+Statement of Eligibility on Form
+T-1
+under the Trust Indenture Act of 1939 of U.S. Bank Trust Company, National Association.
+
+104
+
+Cover Page Interactive Data File (formatted as inline XBRL).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VERIZON COMMUNICATIONS INC.
+
+Date: February 14, 2022
+
+By:
+
+/s/ William L. Horton, Jr.
+
+Name:
+
+William L. Horton, Jr.
+
+Title:
+
+Senior Vice President, Deputy General Counsel and Corporate Secretary
+
+EXHIBIT INDEX
+
+Exhibit
+
+Number
+
+Description
+
+25.1
+
+Statement of Eligibility on Form
+T-1
+under the Trust Indenture Act of 1939 of U.S. Bank Trust Company, National Association.
+
+104
+
+Cover Page Interactive Data File (formatted as inline XBRL).

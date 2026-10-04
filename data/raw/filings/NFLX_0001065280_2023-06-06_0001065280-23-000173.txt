@@ -1,0 +1,172 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+__________________________________
+FORM
+8-K
+
+__________________________________
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+June 1, 2023
+
+__________________________________
+NETFLIX, INC.
+(Exact name of registrant as specified in its charter)
+__________________________________
+Delaware
+001-35727
+77-0467272
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+121 Albright Way
+,
+Los Gatos
+,
+California
+95032
+(Address of principal executive offices)
+(Zip Code)
+(
+408
+)
+540-3700
+
+(Registrant’s telephone number, including area code)
+(Former name or former address, if changed since last report)
+__________________________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, par value $0.001 per share
+NFLX
+NASDAQ Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.07
+Submission of Matters to a Vote of Security Holders.
+On June 1, 2023, Netflix, Inc. (the “Company”) held its 2023 annual meeting of stockholders (the “Annual Meeting”). As of April 6, 2023, the Company’s record date, there were a total of 444,541,116 shares of common stock outstanding and entitled to vote at the Annual Meeting. At the Annual Meeting, 379,773,197 shares of common stock were represented in person or by proxy and, therefore, a quorum was present. For more information about the following proposals, see the Company’s definitive proxy statement, dated April 21, 2023.
+The number of votes cast for and against, and the number of abstentions and broker non-votes, as applicable, with respect to each matter voted upon are set forth below.
+1. The following individuals were elected at the Annual Meeting to serve until the 2024 annual meeting of stockholders, by the following votes:
+
+Nominee
+For
+Against
+Abstain
+Broker Non-Votes
+Mathias Döpfner
+279,701,165
+60,015,011
+466,150
+39,590,871
+Reed Hastings
+327,038,972
+12,718,911
+424,443
+39,590,871
+Jay Hoag
+260,540,603
+79,173,573
+468,150
+39,590,871
+Ted Sarandos
+331,457,251
+8,283,160
+441,915
+39,590,871
+2. The proposal to ratify the appointment of Ernst & Young LLP as the Company’s independent registered public accounting firm for the year ending December 31, 2023 was approved by the following votes:
+
+For
+Against
+Abstain
+374,412,957
+4,875,513
+484,727
+3. The proposal to approve the Company's named executive officer compensation on a non-binding advisory basis was not approved by the following votes:
+
+For
+Against
+Abstain
+Broker Non-Votes
+97,785,298
+241,711,147
+685,881
+39,590,871
+4. A majority of stockholders voted for 1 Year on an advisory vote on the frequency of future advisory votes on named executive officer compensation ("Say-on-Frequency") by the following votes:
+
+1 Year
+2 Years
+3 Years
+Abstain
+Broker Non-Votes
+335,650,172
+1,307,993
+2,807,171
+416,990
+39,590,871
+In accordance with the original recommendation of the Company’s board of directors and consistent with the stockholder vote results, the Company's board of directors has determined that the Company will conduct future non-binding advisory votes on the compensation of the Company's named executive officers every year until the next required Say-on-Frequency vote.
+5. The non-binding stockholder proposal entitled, “Proposal 5 - Reform the Current Impossible Special Shareholder Meeting Requirements,” was not approved and received the following votes:
+For
+Against
+Abstain
+Broker Non-Votes
+147,107,356
+192,117,643
+957,327
+39,590,871
+6. The non-binding stockholder proposal entitled, “Netflix-Exclusive Board of Directors,” was not approved and received the following votes:
+For
+Against
+Abstain
+Broker Non-Votes
+1,137,921
+338,043,095
+1,001,310
+39,590,871
+7. The non-binding stockholder proposal requesting a report on the Company’s 401(K) Plan was not approved and received the following votes:
+For
+Against
+Abstain
+Broker Non-Votes
+28,405,822
+293,484,007
+18,292,497
+39,590,871
+8. The non-binding stockholder proposal entitled, “Policy on Freedom of Association,” was not approved and received the following votes:
+For
+Against
+Abstain
+Broker Non-Votes
+119,485,690
+209,314,242
+11,382,394
+39,590,871
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+NETFLIX, INC.
+Date:
+June 6, 2023
+/s/ David Hyman
+David Hyman
+Chief Legal Officer and Secretary

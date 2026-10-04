@@ -1,0 +1,99 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+_________________________
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (date of earliest event reported): January 10, 2022 (
+January 7, 2022
+)
+ADOBE INC.
+
+(Exact name of Registrant as specified in its charter)
+Delaware
+0-15175
+77-0019522
+(State or other jurisdiction of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+345 Park Avenue
+San Jose
+,
+California
+
+95110-2704
+(Address of principal executive offices and zip code)
+Registrant’s telephone number, including area code:
+(
+408
+)
+536-6000
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol
+Name of Each Exchange on Which Registered
+Common Stock, $0.0001 par value per share
+ADBE
+NASDAQ Global Select Market
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(d)
+On January 7, 2022, the Board of Directors (the “
+Board
+”) of Adobe Inc. (“
+Adobe
+”) appointed Brett Biggs and Spencer Neumann to the Board. These appointments were made to fill vacancies created by the retirement of a director and an increase in the size of the Board from eleven to twelve members. Messrs. Biggs and Neumann will serve a term of office expiring at Adobe’s 2022 Annual Meeting of Stockholders. Messrs. Biggs and Neumann were also appointed to the Audit Committee of the Board.
+There is no arrangement or understanding between each of Mr. Biggs and Mr. Neumann and any other persons pursuant to which each was selected as a director. Since the beginning of our last fiscal year through the date hereof, there have been no transactions with Adobe, and there are currently no proposed transactions with Adobe in which the amount involved exceeds $120,000 and in which Messrs. Biggs and Neumann had or will have a direct or indirect material interest within the meaning of Item 404(a) of Regulation S-K.
+As non-employee directors, Messrs. Biggs and Neumann will each receive cash and equity compensation in accordance with Adobe’s FY ’21 and FY ’22 Non-Employee Director Compensation Policy, which is filed as Exhibit 10.12 to Adobe’s Form 10-K (File No. 000-15175) filed with the Securities and Exchange Commission (“
+SEC
+”) on January 15, 2021. In connection with their compensation, Messrs. Biggs and Neumann were each granted an initial award of 137 restricted stock units on January 7, 2022. Additional information regarding Adobe’s compensation programs for the members of its Board is contained in Adobe's Definitive Proxy Statement filed on March 5, 2021.
+A copy of our press release announcing the appointment of Messrs. Biggs and Neumann to Adobe’s Board is attached hereto as Exhibit 99.1 and incorporated herein by reference.
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits
+
+Incorporated by Reference
+Exhibit
+Number
+Exhibit Description
+Form
+Filing Date
+Exhibit Number
+SEC File No.
+Filed
+Herewith
+99.1
+Press release issued on January 10, 2022 titled "Adobe Names Brett Biggs and Spencer Neumann to its Board of Directors"
+X
+104
+Cover Page Interactive Data File (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document)
+2
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ADOBE INC.
+
+By:
+/s/ DANA RAO
+
+Dana Rao
+
+Executive Vice President, General Counsel and Corporate Secretary
+Date: January 10, 2022
+3

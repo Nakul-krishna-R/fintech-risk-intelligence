@@ -1,0 +1,76 @@
+UNITED STATES
+SECURITIES AND EXCHANGE
+
+COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+February 5, 2024
+COSTCO WHOLESALE CORPORATION
+(Exact name of registrant as specified in its charter)
+Washington
+0-20355
+91-1223280
+(State or other jurisdiction
+of incorporation)
+(Commission
+File No.)
+(I.R.S. Employer
+Identification No.)
+999 Lake Drive
+Issaquah
+,
+WA
+
+98027
+(Address of principal executive offices and zip code)
+Registrant’s telephone number, including area code:
+425
+-
+313-8100
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $.005 per share
+COST
+NASDAQ
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.02.
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On February 6, 2024, Costco announced that Richard Galanti will retire as Costco’s Chief Financial Officer, effective March 15, 2024, following nearly forty years of distinguished service to the Company. Mr. Galanti will remain an Executive Vice President and a member of the Board of Directors.
+The Board of Directors has appointed Gary Millerchip as an Executive Vice President, effective February 29, 2024, and Costco’s Chief Financial Officer to succeed Mr. Galanti, effective March 15, 2024. Mr. Millerchip, age 52, previously served as Senior Vice President and Chief Financial Officer of The Kroger Co. from April 2019 to February 2024 and, prior to that, as Chief Executive Officer of Kroger Personal Finance since July 2010.
+In his role as Executive Vice President and Chief Financial Officer of Costco, Mr. Millerchip will receive (a) an annual base salary of $900,000, (b) eligibility for a prorated annual cash incentive bonus in accordance with the Company’s Fiscal 2024 Executive Bonus Plan, and (c) eligibility for annual performance-based restricted stock unit grants, including a grant of RSUs on or around March 11, 2024 with a target value of $2.8 million and annual grants thereafter (commencing with the next company-wide grant expected to occur in October 2024 with a target value of $5.6 million), in each case vesting over five years in equal installments and subject to performance conditions. In consideration of compensation and equity grants from his previous employer forfeited as a result of resigning his position to join Costco, Mr. Millerchip will also receive (i) a cash payment of $4 million, $2 million subject to repayment if he is not employed on March 1, 2025 and $1 million subject to repayment if he is not employed on March 1, 2026, and (ii) a grant of RSUs with a target value of $7 million vesting over three years in equal installments based on continued employment.
+Item 7.01.
+Regulation FD Disclosure
+A copy of the Company's press release relating to the announcement described in Item 5.02, dated February 6, 2024, is furnished as Exhibit 99.1 to this Form 8-K.
+Item 9.01.
+Financial Statements and Exhibits
+(d) Exhibits.
+99.1.
+Press release dated February 6, 2024.
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document).
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+COSTCO WHOLESALE CORPORATION
+Dated: February 9, 2024
+By:
+/s/ John Sullivan
+John Sullivan
+Executive Vice President, General Counsel and Corporate Secretary

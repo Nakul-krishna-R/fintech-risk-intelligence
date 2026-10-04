@@ -1,0 +1,160 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of Earliest Event Reported):
+September 6, 2023
+
+The Walt Disney Company
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-38842
+
+83-0940635
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+500 South Buena Vista Street
+
+Burbank
+,
+California
+
+91521
+
+(Address of Principal Executive Offices and Zip Code)
+
+(818)
+
+560-1000
+
+(Registrant’s telephone number, including area code)
+
+Not applicable
+
+(Former name or address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.01 par value
+
+DIS
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01
+
+Other Events.
+
+In May 2019, subsidiaries of The Walt Disney Company (collectively with its subsidiaries, “Disney”), a subsidiary of NBC Universal (collectively with its subsidiaries, “NBCU”) and Hulu, LLC (“Hulu”), which is owned 67% by Disney and 33% by NBCU, subject to dilution under certain circumstances, entered into an amended agreement. As announced on September 6, 2023 by the Chairman and Chief Executive Officer of NBCU’s parent company, Comcast Corporation, the provisions of the agreement related to the put/call arrangement have been amended. Under the agreement, as amended, in November 2023 (in addition to subsequent periods), NBCU has the option to require Disney to purchase, and Disney has the option to require NBCU to sell, NBCU’s interest in Hulu to Disney, in either case at a redemption value based on NBCU’s equity ownership percentage of the greater of Hulu’s equity fair value or a guaranteed floor value of $27.5 billion. If the put/call is exercised in November 2023, Hulu’s equity fair value will be assessed as of September 30, 2023.
+
+In the event the parties do not come to agreement regarding equity fair value, each party appoints an investment banking firm to determine the value. If the two determinations are not within ten percent (10%) of each other, then the two investment banking firms select a third firm to make a third determination, in which case the equity fair value shall be the average of the two determinations that are closest in value to each other.
+
+The appraisers shall take into account factors they determine relevant to valuation and certain specific factors, including, among others, Hulu’s historical financial and operating results, which shall be based solely on audited financial statements; that Hulu is valued as a going concern, carrying on its existing business activities; and Hulu’s future business prospects and projected financial and operating results, assuming that the assets, contract rights and intellectual property used in Hulu’s business that are provided by Disney will be continued and available to Hulu in a manner and on terms consistent with past practice.
+
+Item 9.01
+
+Financial Statements and Exhibits
+
+(d) Exhibits
+
+Exhibit
+Number
+
+Description
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+Signatures
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+The Walt Disney Company
+
+By:
+
+/s/ Jolene E. Negre
+
+Jolene E. Negre
+
+Associate General Counsel and Secretary
+
+Dated: September 8, 2023

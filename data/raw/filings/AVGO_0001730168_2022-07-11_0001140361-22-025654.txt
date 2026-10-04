@@ -1,0 +1,138 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported):
+July 6, 2022
+
+Broadcom Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+Delaware
+
+001-38449
+
+35-2617337
+
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(I.R.S. Employer Identification No.)
+
+1320 Ridder Park Drive
+,
+
+San Jose
+,
+
+California
+
+95131
+-2313
+
+(Address of principal executive offices including zip code)
+
+(
+408
+)
+433-8000
+
+(Registrant’s telephone number, including area code)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following
+provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+
+Trading Symbol(s)
+
+Name of Each Exchange on Which Registered
+
+Common Stock, $0.001 par value
+
+AWGO
+
+The NASDAQ Global Select Market
+
+8.00% Mandatory Convertible Preferred Stock, Series A, $0.001 par value
+
+AVGOP
+
+The NASDAQ Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter)
+or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of
+Certain Officers.
+
+(b)
+
+On July 6, 2022, Thomas H. Krause, President of the Broadcom Software Group of Broadcom Inc. (the “Company”), notified the Company that he
+has decided to resign, effective July 15, 2022, and accept another role at a privately held enterprise software company. Mr. Krause’s resignation is not the result of any disagreement with the Company or management on any matter relating to the
+Company’s performance, operations, policies, practices, or financial statements, including its controls or other financial related matters. Mr. Krause will assist in the transition of the role until his departure from the Company. Hock E. Tan, the
+Company’s President and Chief Executive Officer, will immediately assume Mr. Krause’s responsibilities, and the position of President of Broadcom Software Group will be eliminated.
+
+In addition, the Company also announced that Charlie B. Kawwas, Ph.D., currently Chief Operating Officer of the Company, has been named
+President of the new Semiconductor Solutions Group, overseeing the Company’s broad semiconductor portfolio, effective July 11, 2022. Dr. Kawwas remains responsible for the Company’s global operations and sales for the Semiconductor and Brocade Storage
+Networking businesses. Dr. Kawwas will continue to report to Mr. Tan.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+Date: July
+11, 2022
+
+Broadcom Inc.
+
+By:
+
+/s/ Kirsten Spears
+
+Name:
+
+Kirsten Spears
+
+Title:
+
+Chief Financial Officer and Chief Accounting Officer

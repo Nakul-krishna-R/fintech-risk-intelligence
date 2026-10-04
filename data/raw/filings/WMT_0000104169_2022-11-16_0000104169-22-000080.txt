@@ -1,0 +1,112 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+________________________
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of Report (date of earliest event reported)
+November 16, 2022 (
+November 10, 2022
+)
+Walmart Inc.
+(Exact name of registrant as specified in its charter)
+DE
+001-06991
+71-0415188
+(State or other jurisdiction of incorporation or organization)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+702 S.W. 8th Street
+
+Bentonville
+,
+AR
+
+72716-0215
+
+(Address of Principal Executive Offices) (Zip code)
+Registrant's telephone number, including area code
+(
+479
+)
+273-4000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.10 per share
+WMT
+NYSE
+2.550% Notes Due 2026
+WMT26
+NYSE
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.03.
+
+Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year
+On
+November 10, 2022, in connection with the new Securities and Exchange Commission rules regarding universal proxy cards, certain recent changes to the Delaware General Corporation Law and a periodic review of the bylaws of Walmart Inc. (the “Company”), the Board of Directors (the “Board”) of the Company adopted and approved amended and restated bylaws (the “Amended and Restated Bylaws”), effective immediately. Among other things, the amendments effected by the Amended and Restated Bylaws:
+•
+Enhance procedural mechanics and disclosure requirements in connection with shareholder nominations of directors made in connection with annual and special meetings of shareholders by, including, without limitation:
+◦
+Adding a requirement that any shareholder submitting a nomination notice make a representation as to whether such shareholder intends to solicit proxies in support of director nominees other than the Company’s nominees in accordance with Rule 14a-19 under the Securities Exchange Act of 1934, as amended (the “Exchange Act”);
+◦
+Clarifying that, unless required by applicable law, if, after such shareholder provides notice pursuant to Rule 14a-19(b) under the Exchange Act and subsequently fails either to comply with the requirements of Rule 14a-19(a)(2) or (3) under the Exchange Act or to provide documentation reasonably satisfactory to the Company that such shareholder has met the requirements of Rule 14a-19(a)(3) promulgated under the Exchange Act (upon request by the Company), then such nomination will be disregarded and no vote on such nominee proposed by such shareholder will occur;
+◦
+Providing that the number of nominees proposed by shareholders submitting a nomination notice may not exceed the number of directors to be elected at the relevant meeting of shareholders;
+◦
+Requiring additional disclosures from nominating shareholders or proposing persons, proposed nominees and, if the nominating or proposing shareholder is not a natural person, the natural person(s) associated with such shareholder responsible for the decision to propose the business or nomination; and
+◦
+Requiring that proposed nominees make themselves available for and submit to interviews by the Board or any Board committee within ten (10) days following the date of any reasonable request therefor from the Board or any Board committee.
+•
+Modify the provisions relating to availability of lists of shareholders entitled to vote at shareholder meetings, in each case, to reflect recent amendments to the Delaware General Corporation Law;
+•
+Clarify the date as of which the determination is made as to whether an election is “contested” or “uncontested” for purposes of Section 1 of Article III; and
+•
+Make various other updates, including technical, ministerial and conforming changes related to recent amendments in the Delaware General Corporation Law.
+The foregoing summary of the amendments effected by the Amended and Restated Bylaws does not purport to be complete and is qualified in its entirety by reference to the complete text of the Amended and Restated Bylaws, which are filed as Exhibit 3.1 hereto and are incorporated herein by reference.
+Item 9.01 Financial Statements and Exhibits.
+(d)
+Exhibits
+.
+Exhibit No.
+Description
+3.1
+Walmart Inc. Amended and Restated Bylaws as amended and restated November 10, 2022
+104
+Cover Page Interactive Data File (formatted as Inline XBRL)
+2
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated: November 16, 2022
+WALMART INC.
+By:
+/s/ Gordon Y. Allison
+Name:
+Gordon Y. Allison
+Title:
+Senior Vice President, Office of the Corporate Secretary, and Chief Counsel for Finance and Governance
+3

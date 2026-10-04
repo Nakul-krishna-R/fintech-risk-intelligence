@@ -1,0 +1,206 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported)
+May 4, 2022
+General Electric Co
+mpany
+(Exact name of registrant as specified in its charter)
+
+New York
+001-00035
+14-0689340
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+
+5 Necco Street
+Boston,
+MA
+
+02210
+(Address of principal executive offices)
+
+(Zip Code)
+
+(Registrant’s telephone number, including area code)
+
+(
+617
+)
+443-3000
+
+_______________________________________________
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, par value $0.01 per share
+GE
+New York Stock Exchange
+0.375% Notes due 2022
+GE 22A
+New York Stock Exchange
+1.250% Notes due 2023
+GE 23E
+New York Stock Exchange
+0.875% Notes due 2025
+GE 25
+New York Stock Exchange
+1.875% Notes due 2027
+GE 27E
+New York Stock Exchange
+1.500% Notes due 2029
+GE 29
+New York Stock Exchange
+7 1/2% Guaranteed Subordinated Notes due 2035
+GE /35
+New York Stock Exchange
+2.125% Notes due 2037
+GE 37
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+(a) GE held its annual meeting of shareholders on May 4, 2022 (the “Annual Meeting”).
+(b) At the Annual Meeting, shareholders elected all of the Company’s nominees for director; approved the advisory vote on our named executives’ compensation (“Say on Pay”); ratified the appointment of Deloitte & Touche LLP as the Company’s independent auditor for 2022 (“Auditor Ratification”); and approved the 2022 Long-Term Incentive Plan (the “2022 LTIP”). The shareholders did not approve the shareholder proposals dealing with cessation of stock option and bonus programs; ratification of termination pay; and nomination of an employee representative director.
+Election of Directors
+For
+Against
+Abstain
+Non-Votes
+1. Stephen Angel
+739,036,647
+5,271,341
+1,712,028
+137,043,646
+2. Sébastien Bazin
+677,985,798
+66,330,288
+1,703,930
+137,043,646
+3. Ashton Carter
+728,330,317
+16,011,340
+1,678,359
+137,043,646
+4. H. Lawrence Culp
+705,008,080
+39,354,660
+1,657,276
+137,043,646
+5. Francisco D’Souza
+681,539,057
+62,795,701
+1,685,258
+137,043,646
+6. Edward Garden
+674,143,368
+70,156,378
+1,720,270
+137,043,646
+7. Isabella Goren
+738,978,998
+5,453,438
+1,587,580
+137,043,646
+8. Thomas Horton
+590,378,372
+153,943,931
+1,697,713
+137,043,646
+9. Risa Lavizzo-Mourey
+704,380,479
+38,827,578
+2,811,959
+137,043,646
+10. Catherine Lesjak
+725,485,303
+18,963,177
+1,571,536
+137,043,646
+11. Tomislav Mihaljevic
+738,607,016
+5,691,690
+1,721,310
+137,043,646
+12. Paula Rosput Reynolds
+681,533,797
+62,889,572
+1,596,647
+137,043,646
+13. Leslie Seidman
+727,790,426
+16,590,879
+1,638,711
+137,043,646
+Management Proposals
+For
+Against
+Abstain
+Non-Votes
+1. Say on Pay
+486,608,605
+256,337,513
+3,073,898
+137,043,646
+2. Auditor Ratification
+876,945,753
+4,028,094
+2,089,815
+0
+3. 2022 LTIP
+689,244,390
+53,874,784
+2,900,842
+137,043,646
+Shareholder Proposals
+For
+Against
+Abstain
+Non-Votes
+1. Cessation of Stock Option and Bonus Programs
+14,161,225
+727,850,067
+4,008,724
+137,043,646
+2. Ratification of Termination Pay
+269,056,908
+473,798,432
+3,164,676
+137,043,646
+3. Employee Representative Director
+34,732,629
+707,970,853
+3,316,534
+137,043,646
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+General Electric Company
+(Registrant)
+Date: May 6, 2022
+/s/ Michael Holston
+Michael Holston
+Senior Vice President, General Counsel and Secretary

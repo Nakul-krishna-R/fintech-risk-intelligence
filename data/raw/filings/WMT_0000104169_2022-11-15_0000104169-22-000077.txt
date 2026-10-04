@@ -1,0 +1,98 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+________________________
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of Report (date of earliest event reported)
+November 15, 2022
+Walmart Inc.
+(Exact name of registrant as specified in its charter)
+DE
+001-06991
+71-0415188
+(State or other jurisdiction of incorporation or organization)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+702 S.W. 8th Street
+
+Bentonville
+,
+AR
+
+72716-0215
+
+(Address of Principal Executive Offices) (Zip code)
+Registrant's telephone number, including area code
+(
+479
+)
+273-4000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.10 per share
+WMT
+NYSE
+2.550% Notes Due 2026
+WMT26
+NYSE
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 2.02. Results of Operations and Financial Condition.
+In accordance with Item 2.02 of Form 8-K of the Securities and Exchange Commission (the "SEC"), Walmart Inc., a Delaware corporation (the "Company"), is furnishing to the SEC a press release that the Company will issue on November 15, 2022 (the "Press Release") and a financial presentation that will be first posted by the Company on the Company’s website at http://stock.walmart.com on November 15, 2022 (the "Financial Presentation"). The Press Release and the Financial Presentation will disclose information regarding the Company's results of operations for the three and nine months ended October 31, 2022, and the Company's financial condition as of October 31, 2022.
+In accordance with General Instruction B.2 of Form 8-K, the information in this Item 2.02 of this Current Report on Form 8-K, including Exhibits 99.1 and 99.2 hereto, which are furnished herewith pursuant to and relate to this Item 2.02, shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), or otherwise be subject to the liabilities of Section 18 of the Exchange Act. The information in this Item 2.02 of this Current Report on Form 8-K and Exhibits 99.1 and 99.2 hereto shall not be incorporated by reference into any filing or other document filed by the Company with the SEC pursuant to the Securities Act of 1933, as amended, the rules and regulations of the SEC thereunder, the Exchange Act, or the rules and regulations of the SEC thereunder except as shall be expressly set forth by specific reference in such filing or document.
+Item 7.01. Regulation FD Disclosure.
+The Company has agreed to financial amounts and payment terms to resolve substantially all opioids-related lawsuits filed against the Company, as well as all potential claims that could be made against the Company, by states and political subdivisions (the “State Settlement Framework”) and tribes (the “Tribal Settlement Framework”).
+The Company will issue a press release on November 15, 2022 regarding the Settlement Frameworks, a copy which is furnished as Exhibit 99.3 to this report.
+Both frameworks provide for the possibility of settling substantially all of the opioid claims that have been or could be made against it by states, political subdivisions, and tribes for up to approximately $3.1 billion, which includes amounts for remediation of alleged harms as well as attorneys’ fees and costs (the “Settlement Amount”). The Settlement Amount includes some, but not all amounts, from previously agreed recent settlements by the Company. If a sufficient number of states and political subdivisions agree within prescribed deadlines to participate in the State Settlement Framework (collectively, the “Settling States”), the Company would expect to pay up to the full Settlement Amount attributable to the Settling States. In the event a sufficient number of Settling States participate in the State Settlement Framework and provided that all other applicable conditions of the State Settlement Framework are satisfied, then the Company would expect payments to the Settling States to begin as early as the second quarter of its fiscal year ending January 31, 2024 (“fiscal 2024”). The Settling States that achieve complete local government participation in the initial sign-up period will receive all of their settlement funds the same year. The Settling States that achieve high levels of local government participation will also receive most of the settlement funds to which they become entitled in the same year. Similarly, if a sufficient number of tribes (excluding Cherokee Nation) agree within prescribed deadlines to participate in the Tribal Settlement Framework (collectively, the “Settling Tribes”) and all other applicable conditions of the Tribal Settlement Framework are satisfied, then the Company would expect payments to the Settling Tribes could begin as early as the fourth quarter of its fiscal year ending January 31, 2023 (“fiscal 2023”) and could be completed during either fiscal 2023 or fiscal 2024. The Settlement Frameworks include no admission of wrongdoing or liability by the Company.
+The State Settlement Framework is contingent on: (1) a sufficient number of states agreeing to the State Settlement Framework following a notice period; and (2) following a notice period, a sufficient number of political subdivisions, including those that have not sued the Company, agreeing to the Settlement Framework or otherwise having their claims foreclosed. The Tribal Settlement Framework is contingent on a sufficient number of tribes agreeing to the Tribal Settlement Framework. The Company cannot predict if or when the Settlement Frameworks will be finalized. The Company will continue to vigorously defend against any litigation not covered or otherwise extinguished by the Settlement Frameworks. The Company continues to believe it has strong legal defenses and appellate arguments in those cases.
+In accordance with General Instruction B.2 of Form 8-K, the information in this Item 7.01 of this Current Report on Form 8-K, including Exhibit 99.3 hereto, which is furnished herewith pursuant to and relate to this Item 7.01, shall not be deemed “filed” for purposes of Section 18 of the Exchange Act, or otherwise be subject to the liabilities of Section 18 of the Exchange Act. The information in this Item 7.01 of this Current Report on Form 8-K and Exhibit 99.3 hereto shall not be incorporated by reference into any filing or other document filed by the Company with the SEC pursuant to the Securities Act of 1933, as amended, the rules and regulations of the SEC thereunder, the Exchange Act, or the rules and regulations of the SEC thereunder except as shall be expressly set forth by specific reference in such filing or document.
+Cautionary Note Regarding Forward-Looking Statements
+All statements in this report that are not historical including, without limitation, those regarding the expected finalization of the Settlement Frameworks and payments anticipated to be made pursuant to the Settlement Frameworks, are forward-looking statements made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Words such as “achieve,” “as early as,” “could be,” “could begin,” “if,” “in the event,” “is contingent on,” “would expect,” “will,” “will receive,” “likely,” “intend,” “plan,” “aim,” “continue,” “believe,” “seek,” “anticipate,” “upcoming,” “may,” “provide for the possibility,” and variations of such words and similar expressions are intended to identify such forward-looking statements.
+These forward-looking statements are not guarantees of future performance and are subject to risks, uncertainties and assumptions, known or unknown, that could cause actual results to vary materially from those indicated or anticipated. These risks, assumptions and uncertainties include those described in Item 1A (Risk Factors) of our Annual Report on Form 10-K for the fiscal year ended January 31, 2022, and in other documents that we file or furnish with the SEC. If one or more of these risks or uncertainties materializes, or if underlying assumptions prove incorrect, actual results may vary materially from those indicated or anticipated by such forward-looking statements. All forward-looking statements we make or that are made on our behalf are qualified by these cautionary statements. Accordingly, you should not place undue reliance on these forward-looking statements, which speak only as of the date they are made.
+We do not undertake, and expressly disclaim, any duty or obligation to update publicly any forward-looking statement after the date of this release, whether as a result of new information, future events, changes in assumptions or otherwise.
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits
+The following documents are furnished as exhibits to this Current Report on Form 8-K:
+99.1
+Press Release regarding financial results for the third quarter of fiscal year ending January 31, 2023
+99.2
+Financial Presentation
+99.3
+Press Release regarding nationwide opioid litigation settlement frameworks
+Exhibit 104
+Cover Page Interactive Data File (formatted as Inline XBRL).
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated: November 15, 2022
+WALMART INC.
+By:
+/s/ Gordon Y. Allison
+Name:
+Gordon Y. Allison
+Title:
+Senior Vice President, Office of the Corporate Secretary, and Chief Counsel for Finance and Governance

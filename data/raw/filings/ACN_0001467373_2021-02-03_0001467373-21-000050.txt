@@ -1,0 +1,247 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+February 3, 2021
+
+Accenture plc
+
+(Exact name of Registrant as specified in its charter)
+Ireland
+001-34448
+98-0627530
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+1 Grand Canal Square
+
+Grand Canal Harbour
+
+Dublin
+
+2
+,
+Ireland
+
+(Address of principal executive offices)
+Registrant’s telephone number, including area code: (
+353
+) (
+1
+)
+646-2000
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A ordinary shares, par value $0.0000225 per share
+ACN
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.07 Submission of Matters to a Vote of Security Holders
+On February 3, 2021, Accenture plc (“Accenture”) held its 2021 annual general meeting of shareholders (the “Annual Meeting”). Accenture’s shareholders approved each of the following proposals considered at the Annual Meeting. The following chart sets forth the number and percentage of votes cast for and against, and the number of abstention votes and broker non-votes, with respect to each proposal voted upon by Accenture’s shareholders:
+Proposals
+For
+Against
+Abstained
+Broker
+Non-Votes
+1.
+To appoint the following directors:
+Jaime Ardila
+456,642,860
+98.36
+%
+7,612,902
+1.64
+%
+689,118
+57,205,483
+Herbert Hainer
+456,009,444
+98.22
+%
+8,282,819
+1.78
+%
+652,617
+57,205,483
+Nancy McKinstry
+400,613,126
+86.27
+%
+63,767,442
+13.73
+%
+564,312
+57,205,483
+Beth E. Mooney
+463,758,347
+99.87
+%
+618,053
+0.13
+%
+568,480
+57,205,483
+Gilles C. Pélisson
+462,760,387
+99.66
+%
+1,570,150
+0.34
+%
+614,343
+57,205,483
+Paula A. Price
+451,392,668
+97.20
+%
+12,994,993
+2.80
+%
+557,219
+57,205,483
+Venkata (Murthy) Renduchintala
+463,830,348
+99.90
+%
+461,619
+0.10
+%
+652,913
+57,205,483
+David Rowland
+460,160,579
+99.06
+%
+4,381,791
+0.94
+%
+402,510
+57,205,483
+Arun Sarin
+451,668,401
+97.28
+%
+12,630,486
+2.72
+%
+645,993
+57,205,483
+Julie Sweet
+464,067,870
+99.90
+%
+481,878
+0.10
+%
+395,132
+57,205,483
+Frank K. Tang
+463,449,914
+99.94
+%
+297,252
+0.06
+%
+1,197,714
+57,205,483
+Tracey T. Travis
+450,796,707
+97.08
+%
+13,558,858
+2.92
+%
+589,315
+57,205,483
+2.
+To approve, in a non-binding vote, the compensation of Accenture’s named executive officers
+433,750,034
+93.65
+%
+29,418,205
+6.35
+%
+1,776,641
+57,205,483
+3.
+To ratify, in a non-binding vote, the appointment of KPMG LLP (“KPMG”) as Accenture’s independent auditors and to authorize, in a binding vote, the Audit Committee of the Board to determine KPMG’s remuneration
+507,706,212
+97.48
+%
+13,143,375
+2.52
+%
+1,300,776
+—
+4.
+To grant the Board the authority to issue shares under Irish law
+507,908,588
+97.41
+%
+13,490,071
+2.59
+%
+751,704
+—
+5.
+To grant the Board the authority to opt-out of pre-emption rights under Irish law
+517,362,476
+99.24
+%
+3,966,721
+0.76
+%
+821,166
+—
+6.
+To determine the price range at which Accenture can re-allot shares that it acquires as treasury shares under Irish law
+516,588,620
+99.53
+%
+2,462,571
+0.47
+%
+3,099,172
+—
+
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+Date: February 3, 2021
+ACCENTURE PLC
+By:
+
+/s/ Joel Unruch
+Name:
+
+Joel Unruch
+Title:
+
+General Counsel & Corporate Secretary

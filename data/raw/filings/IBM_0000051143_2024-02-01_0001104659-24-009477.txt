@@ -1,0 +1,438 @@
+8-K
+
+1
+
+tm244921d1_8k.htm
+
+FORM 8-K
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+WASHINGTON,
+D.C. 20549
+
+FORM
+8-K
+
+CURRENT
+REPORT PURSUANT TO SECTION 13 OR 15 (d)
+
+OF
+THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report:
+
+January 29, 2024
+
+(Date of earliest
+event reported)
+
+INTERNATIONAL
+BUSINESS MACHINES
+
+CORPORATION
+
+(Exact name of registrant
+as specified in its charter)
+
+New York
+
+1-2360
+
+13-0871985
+
+(State of Incorporation)
+
+(Commission File Number)
+
+(IRS employer Identification No.)
+
+One New Orchard Road
+
+Armonk
+,
+
+New York
+
+10504
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+914-499-1900
+
+(Registrant’s telephone number)
+
+Check the appropriate box
+below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following
+provisions:
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered
+pursuant to Section 12(b) of the Act:
+
+Title
+of each class
+
+Trading
+symbol(s)
+
+Name
+of each exchange
+on which registered
+
+Capital stock, par value $.20 per share
+
+IBM
+
+New York Stock Exchange
+
+NYSE Chicago
+
+1.125% Notes due 2024
+
+IBM 24A
+
+New York Stock Exchange
+
+2.875% Notes due 2025
+
+IBM 25A
+
+New York Stock Exchange
+
+0.950% Notes due 2025
+
+IBM 25B
+
+New York Stock Exchange
+
+0.875% Notes due 2025
+
+IBM 25C
+
+New York Stock Exchange
+
+0.300% Notes due 2026
+
+IBM 26B
+
+New York Stock Exchange
+
+1.250% Notes due 2027
+
+IBM 27B
+
+New York Stock Exchange
+
+3.375% Notes due 2027
+
+IBM 27F
+
+New York Stock Exchange
+
+0.300% Notes due 2028
+
+IBM 28B
+
+New York Stock Exchange
+
+1.750% Notes due 2028
+
+IBM 28A
+
+New York Stock Exchange
+
+1.500% Notes due 2029
+
+IBM 29
+
+New York Stock Exchange
+
+0.875% Notes due 2030
+
+IBM 30
+
+New York Stock Exchange
+
+1.750% Notes due 2031
+
+IBM 31
+
+New York Stock Exchange
+
+3.625% Notes due 2031
+
+IBM 31B
+
+New York Stock Exchange
+
+0.650% Notes due 2032
+
+IBM 32A
+
+New York Stock Exchange
+
+1.250% Notes due 2034
+
+IBM 34
+
+New York Stock Exchange
+
+3.750% Notes due 2035
+
+IBM 35
+
+New York Stock Exchange
+
+4.875% Notes due 2038
+
+IBM 38
+
+New York Stock Exchange
+
+1.200% Notes due 2040
+
+IBM 40
+
+New York Stock Exchange
+
+4.000% Notes due 2043
+
+IBM 43
+
+New York Stock Exchange
+
+7.00% Debentures due 2025
+
+IBM 25
+
+New York Stock Exchange
+
+6.22% Debentures due 2027
+
+IBM 27
+
+New York Stock Exchange
+
+6.50% Debentures due 2028
+
+IBM 28
+
+New York Stock Exchange
+
+5.875% Debentures due 2032
+
+IBM 32D
+
+New York Stock Exchange
+
+7.00% Debentures due 2045
+
+IBM 45
+
+New York Stock Exchange
+
+7.125% Debentures due 2096
+
+IBM 96
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+
+¨
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any
+new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+
+Item 5.02(b). Departure of Named Executive Officer.
+
+On January 29, 2024, Michelle H. Browdy has decided to retire
+from her role as Senior Vice President, Legal and Regulatory Affairs, and General Counsel, by the end of the year, after 10 years in the
+role.
+
+Item 5.02(e). Compensatory Arrangements of Certain Officers.
+
+The following are compensation arrangements for Arvind Krishna, the
+Company’s Chairman and Chief Executive Officer and the Company’s named executive officers identified in the 2023 Proxy Statement.
+Further information regarding the structure of the compensation programs and awards will be included in the Company’s 2024 Proxy
+Statement.
+
+2024 Cash
+
+2024 Long-Term Incentive Award*
+
+2023 Annual
+
+Incentive
+
+Payout
+
+Salary Rate
+
+Annual
+
+Incentive Target
+
+Performance
+
+Share Units
+
+Restricted
+
+Stock Units
+
+Stock
+Options
+
+A. Krishna
+
+$
+3,510,000
+
+$
+1,500,000
+
+$
+3,500,000
+
+$
+12,000,000
+
+$
+4,000,000
+
+$
+4,000,000
+
+J.J. Kavanaugh
+
+$
+1,730,430
+
+$
+1,170,000
+
+$
+1,580,000
+
+$
+6,150,000
+
+$
+2,050,000
+
+$
+2,050,000
+
+G. Cohn
+
+$
+1,848,600
+
+$
+1,170,000
+
+$
+1,580,000
+
+$
+4,800,000
+
+$
+1,600,000
+
+$
+1,600,000
+
+T. Rosamilia**
+
+$
+705,510
+
+M.H. Browdy
+
+$
+1,516,800
+
+$
+936,000
+
+$
+1,264,000
+
+$
+3,780,000
+
+$
+1,260,000
+
+$
+1,260,000
+
+_____________________________
+
+*The Long-Term Incentive Awards will be granted on February 21, 2024.
+The actual number of Performance Share Units and Restricted Stock Units granted on this date will be based on the average of IBM’s
+closing stock price for the 30 active trading days prior to the grant date. The Actual Number of Stock Options granted on this date will
+be based on the same IBM closing stock price, but the stock price will also be multiplied by a valuation factor of 0.20 to reflect the
+discounted value of stock options on the grant date. The exercise price of the options will be equal to the average of IBM’s
+high and low stock price on the date of grant. The Performance Share Units will be paid out in February 2027. The Restricted Stock Units
+and Stock Options will vest 25% per year on each anniversary of the date of grant. Additional information about equity grants will be
+provided in the Company’s Proxy Statement.
+
+** As previously disclosed by the Company, Mr. Rosamilia, Senior Vice
+President, retired from the Company on June 30, 2023.
+
+IBM’s web site (www.ibm.com) contains a significant amount of
+information about IBM, including financial and other information for investors (www.ibm.com/investor/). IBM encourages investors to visit
+its various web sites from time to time, as information is updated and new information is posted.
+
+2
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+Date:
+February 1
+,
+2024
+
+By:
+
+/s/ Frank Sedlarcik
+
+Frank Sedlarcik
+
+Vice President, Assistant General Counsel and Secretary
+
+3

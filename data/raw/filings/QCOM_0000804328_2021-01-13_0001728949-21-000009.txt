@@ -1,0 +1,94 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of
+The Securities Exchange Act of 1934
+January 12, 2021
+
+Date of Report (Date of earliest event reported)
+QUALCOMM Incorporated
+(Exact name of registrant as specified in its charter)
+Delaware
+
+(State or other jurisdiction of incorporation)
+000-19528
+95-3685934
+(Commission File Number)
+(IRS Employer Identification No.)
+5775 Morehouse Drive
+,
+San Diego
+,
+California
+92121
+(Address of principal executive offices)
+(Zip Code)
+858
+-
+587-1121
+
+(Registrant’s telephone number, including area code)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.0001 par value
+
+QCOM
+Nasdaq Stock Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+Item 1.01 Entry into a Material Definitive Agreement
+Merger Agreement
+On January 12, 2021, Qualcomm Technologies, Inc., a Delaware corporation (the “Company” or “QTI”), and Nile Acquisition Corporation, a Delaware corporation and a wholly owned subsidiary of the Company (“Merger Sub”), entered into an Agreement and Plan of Merger (the “Merger Agreement”) with NuVia, Inc., a Delaware corporation (“NuVia”), and Shareholder Representative Services, LLC (solely in its capacity as securityholders’ agent), providing for the merger (the “Merger”) of Merger Sub with and into NuVia, with NuVia surviving the Merger as a wholly owned subsidiary of the Company. The Merger has been approved by the requisite number of NuVia’s stockholders.
+At the effective time of the Merger (the “Effective Time”), holders of NuVia preferred stock and NuVia common stock (collectively, “NuVia Capital Stock”) and holders of in-the-money vested issued and outstanding options to purchase shares of common stock of NuVia (“In-the-Money Vested Options”) shall be entitled to receive their pro rata portion of cash equal to (1)(A)$1,400,000,000, plus (B) the aggregate exercise price of all In-the-Money Vested Options, plus or minus (C) working capital adjustment (if any), plus or minus (D) net cash adjustment amount (if any), divided by (2) NuVia’s fully diluted capitalization, in each case, as further described below (such quotient, the “Per Share Consideration”).
+Treatment of NuVia Capital Stock
+At the Effective Time, each share of NuVia Capital Stock issued and outstanding immediately prior to the Effective Time (other than shares owned by (i) NuVia, the Company or Merger Sub or (ii) stockholders who have properly exercised and perfected appraisal/dissenter rights under Delaware and/or California law) will be converted and exchanged into the right to receive an amount in cash equal to the Per Share Consideration, less an amount in cash equal to the sum of (a) with respect to certain holders of NuVia common stock (“Specified Holders”), 10% of Per Share Consideration, which shall be held back by QTI for release upon certain conditions, and (b) the pro rata portion of the escrow and expense fund.
+The shares of common stock of NuVia held by the Specified Holders that are subject to a right of forfeiture as of immediately prior to the Effective Time, shall be canceled, converted and exchanged into the right to receive shares of common stock of QUALCOMM Incorporated (“Qualcomm”), subject to certain vesting conditions, provided that 10% of such shares of Qualcomm common stock shall be held back by QTI for release upon certain conditions.
+Treatment of NuVia Options
+Each In-the-Money Vested Option that is issued and outstanding prior the Effective Time, will be converted and exchanged into the right to receive an amount in cash equal to the amount by which (i) the Per Share Consideration exceeds (ii) the exercise price for such In-the-Money Option, less the pro rata portion of the escrow and expense fund.
+Each unvested option to purchase shares of common stock of NuVia (“Unvested Company Option”) that is held by an employee or contractor that will continue providing services to NuVia after the Effective Time and that has an exercise price less than the Per Share Consideration, shall be converted into an option to acquire shares of common stock of Qualcomm. Further, each Unvested Company Option that is held by a person that will not continue to provide services after the Effective Time, will be canceled and retired without payment therefor and cease to exist.
+Treatment of Restricted Stock Units
+At the Effective Time, QTI shall assume each outstanding restricted stock unit of NuVia held by an employee or contractor that will continue providing services to NuVia after the Effective Time, and such assumed restricted stock units shall have the same terms and conditions as were in effect immediately prior to the Effective Time, except that such restricted stock units shall be settled by the issuance of Qualcomm common stock rather than NuVia common stock.
+Certain Closing Conditions
+The Merger is subject to clearance under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, and satisfaction of obligations relating to 280G “golden parachute” matters, as well as other customary closing conditions.
+Other
+NuVia and QTI each made customary representations and warranties in the Merger Agreement. The Merger Agreement contains certain customary termination rights for the Company and NuVia.
+A copy of the Merger Agreement is attached hereto as Exhibit 2.1 and is incorporated herein by reference. The foregoing description of the Merger Agreement is qualified in its entirety by reference to the full text of the Merger Agreement.
+Item 9.01. Financial Statements and Exhibits.
+(d) The following exhibit is filed as a part of this report.
+Exhibit No.
+Description
+2.1
+Agreement and Plan of Merger, dated as of January 12, 2021, among Qualcomm Technologies, Inc., Nile Acquisition Corporation and NuVia, Inc.
+104
+Cover Page Interactive Data File, formatted in Inline XBRL and included as Exhibit 101.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+QUALCOMM Incorporated
+Date:
+January 12, 2021
+By:
+/s/ Akash Palkhiwala
+Akash Palkhiwala
+Executive Vice President, Chief Financial Officer

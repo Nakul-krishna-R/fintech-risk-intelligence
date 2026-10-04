@@ -1,0 +1,220 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+DATE OF REPORT (DATE OF EARLIEST EVENT REPORTED):
+April 25, 2024
+TEXAS INSTRUMENTS INCORPORATED
+(Exact name of registrant as specified in charter)
+Delaware
+
+001-03761
+
+75-0289970
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+file number)
+
+(I.R.S. employer
+identification no.)
+12500 TI Boulevard
+Dallas
+,
+Texas
+
+75243
+(Address of principal executive offices)
+Registrant’s telephone number, including area code: (
+214
+)
+479-3773
+
+Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange on which registered
+Common Stock, par value $1.00
+
+TXN
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+ITEM 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On April 25, 2024, at the annual meeting of stockholders of Texas Instruments Incorporated (the “Company”), stockholders of the Company approved the Texas Instruments 2024 Long-Term Incentive Plan (the “2024 Plan”), which had previously been approved by the Board of Directors of the Company, subject to stockholder approval. A description of the 2024 Plan contained under the caption “Proposal to approve the Texas Instruments 2024 Long-Term Incentive Plan” in the Company’s Proxy Statement dated March 12, 2024, is incorporated herein by reference. The foregoing description of the 2024 Plan does not purport to be complete and is qualified in its entirety by reference to the text of the 2024 Plan, a copy of which is filed as Exhibit 10.1 to this report and is incorporated herein by reference.
+ITEM 5.07. Submission of Matters to a Vote of Security Holders.
+
+At the annual meeting of stockholders held on April 25, 2024, the stockholders elected the Board of Directors of Texas Instruments Incorporated and voted upon the proposals contained within our Proxy Statement dated March 12, 2024.
+The Board nominees were elected with the following vote:
+Nominee
+For
+Against
+Abstentions
+Broker Non-Votes
+Mark A. Blinn
+725,626,501
+25,571,032
+1,346,091
+68,974,451
+Todd M. Bluedorn
+713,690,887
+36,450,312
+2,402,425
+68,974,451
+Janet F. Clark
+740,550,653
+10,739,499
+1,253,472
+68,974,451
+Carrie S. Cox
+689,240,581
+61,989,543
+1,313,500
+68,974,451
+Martin S. Craighead
+719,805,260
+31,418,036
+1,320,328
+68,974,451
+Reginald DesRoches
+747,551,269
+3,684,065
+1,308,290
+68,974,451
+Curtis C. Farmer
+746,840,226
+4,348,191
+1,355,207
+68,974,451
+Jean M. Hobby
+718,707,855
+32,572,792
+1,262,977
+68,974,451
+Haviv Ilan
+740,781,163
+10,540,315
+1,222,146
+68,974,451
+Ronald Kirk
+734,848,712
+16,451,671
+1,243,241
+68,974,451
+Pamela H. Patsley
+678,619,748
+72,672,404
+1,251,472
+68,974,451
+Robert E. Sanchez
+721,022,268
+30,202,223
+1,319,133
+68,974,451
+Richard K. Templeton
+710,310,015
+41,186,593
+1,047,016
+68,974,451
+The stockholders voted on the following proposals and cast their votes as described below:
+Proposal
+For
+Against
+Abstentions
+Broker Non-Votes
+Board proposal to approve the Texas Instruments 2024 Long-Term Incentive Plan
+721,436,117
+29,637,238
+1,470,269
+68,974,451
+Proposal
+For
+Against
+Abstentions
+Broker Non-Votes
+Board proposal regarding advisory approval of the company’s executive compensation
+641,237,914
+109,230,095
+2,075,615
+68,974,451
+Proposal
+For
+Against
+Abstentions
+Broker Non-Votes
+Board proposal to ratify the appointment of Ernst & Young LLP as the company’s independent registered public accounting firm for 2024
+759,853,792
+54,031,301
+7,632,982
+—
+Proposal
+For
+Against
+Abstentions
+Broker Non-Votes
+Stockholder proposal to permit a combined 15% of stockholders to call a special meeting
+349,650,991
+401,295,788
+1,596,845
+68,974,451
+Proposal
+For
+Against
+Abstentions
+Broker Non-Votes
+Stockholder proposal to report on due diligence efforts to identify risks associated with product misuse
+142,820,568
+602,323,672
+7,399,384
+68,974,451
+ITEM 9.01. Exhibits.
+Designation
+of Exhibit
+in this
+Report
+Description of Exhibit
+10.1
+Texas Instruments 2024 Long-Term Incentive Plan (incorporated by reference to Exhibit 99.1 to the Company’s Registration Statement on Form S-8 dated April 26, 2024, filed with the SEC on April 26, 2024).
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+TEXAS INSTRUMENTS INCORPORATED
+
+Date: April 26, 2024
+
+By:
+
+/s/ Cynthia Hoff Trochu
+
+Cynthia Hoff Trochu
+
+Senior Vice President, Secretary and
+
+General Counsel

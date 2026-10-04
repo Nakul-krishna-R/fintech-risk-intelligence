@@ -1,0 +1,183 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+October 4, 2024
+
+Accenture plc
+(Exact name of Registrant as specified in its charter)
+
+Ireland
+
+001-34448
+
+98-0627530
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(I.R.S. Employer
+Identification No.)
+
+1 Grand Canal Square
+Grand Canal Harbour
+Dublin
+
+2
+,
+Ireland
+(Address of principal executive offices)
+Registrant’s telephone number, including area code: (
+353
+) (
+1
+)
+646-2000
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange on which
+registered
+
+Class A ordinary shares, par value $0.0000225 per share
+
+ACN
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter). Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 8.01 Other Events
+On October 4, 2024, Accenture Capital Inc. (“Accenture Capital”), a Delaware corporation and a wholly owned subsidiary of Accenture plc (“Accenture”), closed the sale of $1,100,000,000 aggregate principal amount of its 3.900% notes due 2027 (the “2027 Notes”), $1,200,000,000 aggregate principal amount of its 4.050% notes due 2029 (the “2029 Notes”), $1,200,000,000 aggregate principal amount of its 4.250% notes due 2031 (the “2031 Notes”) and $1,500,000,000 aggregate principal amount of its 4.500% notes due 2034 (the “2034 Notes” and, together with the 2027 Notes, 2029 Notes and 2031 Notes, the “Notes”) pursuant to an Underwriting Agreement dated October 1, 2024 (the “Underwriting Agreement”) among Accenture Capital, as issuer, Accenture, as guarantor, and J.P. Morgan Securities LLC, BofA Securities, Inc., Citigroup Global Markets Inc. and BNP Paribas Securities Corp., as managers of the several underwriters named in Schedule II thereto. The sale of the Notes was registered under Accenture and Accenture Capital’s registration statement on Form
+S-3
+filed on September 30, 2024 (File Nos.
+333-282399
+and
+333-282399-02)
+(the “Registration Statement”). The Notes are fully and unconditionally guaranteed by Accenture.
+The aggregate public offering price of the Notes was $4.993 billion and the estimated net proceeds from the offering were approximately $4.974 billion, after deducting underwriting discounts from the public offering price and before deducting offering expenses. The Notes were issued pursuant to an Indenture dated as of October 4, 2024 among Accenture Capital, as issuer, Accenture plc, as guarantor, and The Bank of New York Mellon Trust Company, N.A., as trustee (the “Indenture”), together with an officer’s certificate (the “Officer’s Certificate”).
+The foregoing descriptions of the Underwriting Agreement, the Indenture, the Officer’s Certificate and the Notes are qualified in their entirety by the terms of such documents. The following exhibits are filed with this Current Report on Form
+8-K
+and are incorporated by reference herein and in the Registration Statement: Exhibits 1.1, 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 5.1 and 5.2.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+
+Exhibit
+No.
+
+Description
+
+1.1
+
+Underwriting Agreement, dated as of October 1, 2024, among Accenture Capital Inc., Accenture plc and J.P. Morgan Securities LLC, BofA Securities, Inc., Citigroup Global Markets Inc. and BNP Paribas Securities Corp., as managers of the several underwriters named in Schedule II therein
+
+4.1
+
+Indenture, among Accenture Capital Inc., Accenture plc and The Bank of New York Mellon Trust Company, N.A., dated as of October 4, 2024
+
+4.2
+
+Officer’s Certificate of Accenture Capital Inc., dated as of October 4, 2024
+
+4.3
+
+Form of 3.900% Note due 2027 (included in Exhibit 4.2)
+
+4.4
+
+Form of 4.050% Note due 2029 (included in Exhibit 4.2)
+
+4.5
+
+Form of 4.250% Note due 2031 (included in Exhibit 4.2)
+
+4.6
+
+Form of 4.500% Note due 2034 (included in Exhibit 4.2)
+
+5.1
+
+Opinion of Arthur Cox LLP
+
+5.2
+
+Opinion of Gibson, Dunn & Crutcher LLP
+
+23.1
+
+Consent of Arthur Cox LLP (included in Exhibit 5.1)
+
+23.2
+
+Consent of Gibson, Dunn & Crutcher LLP (included in Exhibit 5.2)
+
+104
+
+The cover page from this Current Report on Form
+8-K,
+formatted in Inline XBRL
+
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+Date: October 4, 2024
+
+ACCENTURE PLC
+
+By:
+
+/s/ Joel Unruch
+
+Name:
+
+Joel Unruch
+
+Title:
+
+General Counsel & Corporate Secretary

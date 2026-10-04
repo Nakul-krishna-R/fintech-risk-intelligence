@@ -1,0 +1,289 @@
+As filed with the Securities and Exchange Commission on Apr
+il 27, 2022
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+Apr
+il 26,
+2022
+
+BANK OF AMERICA CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+1-6523
+
+56-0906609
+(State or Other Jurisdiction of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+100 North Tryon Street
+
+Charlotte
+,
+North Carolina
+
+28255
+
+(Address of principal executive offices)
+(
+704
+)
+386-5681
+
+(Registrant’s telephone number, including area code)
+Not Applicable
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.01 per share
+BAC
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of Floating Rate Non-Cumulative Preferred Stock, Series E
+BAC PrE
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 6.000% Non-Cumulative Preferred Stock, Series GG
+BAC PrB
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 5.875% Non-Cumulative Preferred Stock, Series HH
+BAC PrK
+New York Stock Exchange
+7.25% Non-Cumulative Perpetual Convertible Preferred Stock, Series L
+BAC PrL
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,200th interest in a share of
+
+BML PrG
+New York Stock Exchange
+Bank of America Corporation Floating Rate Non-Cumulative
+Preferred Stock, Series 1
+Depositary Shares, each representing a 1/1,200th interest in a share of
+
+BML PrH
+New York Stock Exchange
+Bank of America Corporation Floating Rate Non-Cumulative
+Preferred Stock, Series 2
+Depositary Shares, each representing a 1/1,200th interest in a share of
+
+BML PrJ
+New York Stock Exchange
+Bank of America Corporation Floating Rate Non-Cumulative
+Preferred Stock, Series 4
+Depositary Shares, each representing a 1/1,200th interest in a share of
+
+BML PrL
+New York Stock Exchange
+Bank of America Corporation Floating Rate Non-Cumulative
+Preferred Stock, Series 5
+Floating Rate Preferred Hybrid Income Term Securities of BAC Capital Trust XIII (and the guarantee related thereto)
+BAC/PF
+New York Stock Exchange
+5.63% Fixed to Floating Rate Preferred Hybrid Income Term Securities of BAC Capital Trust XIV (and the guarantee related thereto)
+BAC/PG
+New York Stock Exchange
+Income Capital Obligation Notes initially due December 15, 2066 of Bank of America Corporation
+MER PrK
+New York Stock Exchange
+Senior Medium-Term Notes, Series A, Step Up Callable Notes, due
+
+BAC/31B
+New York Stock Exchange
+November 28, 2031 of BofA Finance LLC (and the guarantee of the
+Registrant with respect thereto)
+Depositary Shares, each representing a 1/1,000th interest in a share of 5.375% Non-Cumulative Preferred Stock, Series KK
+BAC PrM
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 5.000% Non-Cumulative Preferred Stock, Series LL
+BAC PrN
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 4.375% Non-Cumulative Preferred Stock, Series NN
+BAC PrO
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 4.125% Non-Cumulative Preferred Stock, Series PP
+BAC PrP
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 4.250% Non-Cumulative Preferred Stock, Series QQ
+BAC PrQ
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 4.750% Non-Cumulative Preferred Stock, Series SS
+BAC PrS
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR 230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR 240.12b-2).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+(a) On April 26, 2022, Bank of America Corporation (the "Corporation") held its 2022 Annual Meeting of Shareholders.
+(b) The Corporation’s shareholders elected all of the nominees for director; approved the advisory vote on executive compensation; ratified the appointment of PricewaterhouseCoopers LLP as the Corporation’s independent registered public accounting firm for 2022; and ratified the Delaware Exclusive Forum Provision in the Bylaws of Bank of America Corporation, as amended and restated by the Corporation’s Board of Directors on February 22, 2022 (the "Bylaws"). The Corporation’s shareholders did not approve the shareholder proposals listed below. With respect to all matters subject to a vote, holders of the Corporation’s common stock, Series B Preferred Stock, and Series 1, 2, 4, and 5 Preferred Stock voted together as a class.
+1. Electing directors:
+
+For
+
+Against
+
+Abstain
+
+Broker
+Non-Votes
+Sharon L. Allen
+5,606,040,514
+144,692,851
+23,287,826
+905,720,191
+Frank P. Bramble, Sr.
+5,553,909,334
+196,605,409
+23,506,448
+905,720,191
+Pierre J.P. de Weck
+5,711,843,747
+39,907,481
+22,269,963
+905,720,191
+Arnold W. Donald
+5,684,737,499
+66,971,521
+22,312,171
+905,720,191
+Linda P. Hudson
+5,712,066,105
+40,526,744
+21,428,342
+905,720,191
+Monica C. Lozano
+5,516,698,261
+235,934,466
+21,388,464
+905,720,191
+Brian T. Moynihan
+5,454,979,822
+281,662,390
+37,378,979
+905,720,191
+Lionel L. Nowell III
+5,711,752,054
+38,973,982
+23,295,155
+905,720,191
+Denise L. Ramos
+5,701,185,991
+51,841,037
+20,994,162
+905,720,191
+Clayton S. Rose
+5,691,369,807
+60,555,387
+22,095,997
+905,720,191
+Michael D. White
+5,701,024,642
+50,292,417
+22,704,132
+905,720,191
+Thomas D. Woods
+5,653,400,736
+96,873,250
+23,747,205
+905,720,191
+R. David Yost
+5,689,198,901
+62,005,798
+22,816,492
+905,720,191
+Maria T. Zuber
+5,328,081,141
+423,195,089
+22,744,959
+905,720,191
+2. Approving the Corporation's executive compensation (an advisory, non-binding “Say on Pay” resolution):
+
+For
+5,428,162,946
+Against
+314,403,783
+Abstain
+31,454,460
+Broker Non-Votes
+905,720,191
+3. Ratifying the appointment of the Corporation's independent registered public accounting firm for 2022:
+For
+6,379,361,676
+Against
+276,563,478
+Abstain
+23,816,228
+4. Ratifying the Delaware Exclusive Forum Provision in the Bylaws:
+For
+5,156,650,580
+Against
+586,386,053
+Abstain
+30,984,556
+Broker Non-Votes
+905,720,191
+5. Shareholder proposal - requesting a civil rights and nondiscrimination audit:
+For
+120,990,183
+Against
+5,597,910,225
+Abstain
+55,120,783
+Broker Non-Votes
+905,720,191
+6. Shareholder proposal - requesting adoption of a policy to cease financing new fossil fuel supplies:
+For
+628,255,157
+Against
+5,075,283,972
+Abstain
+70,482,062
+Broker Non-Votes
+905,720,191
+7. Shareholder proposal - requesting a report on charitable donations:
+For
+192,495,032
+Against
+5,530,542,590
+Abstain
+50,983,567
+Broker Non-Votes
+905,720,191
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated: April 27, 2022
+BANK OF AMERICA CORPORATION
+By:
+/s/ Ross E. Jeffries, Jr.
+Name:
+Ross E. Jeffries, Jr.
+Title:
+Deputy General Counsel and Corporate Secretary

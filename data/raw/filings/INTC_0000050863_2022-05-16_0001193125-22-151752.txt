@@ -1,0 +1,382 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+May 12, 2022
+
+INTEL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+000-06217
+
+94-1672743
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+2200 Mission College Blvd.
+,
+Santa Clara
+,
+California
+
+95054-1549
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+(408)
+
+765-8080
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock, $0.001 par value
+
+INTC
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 5.02
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(e)
+
+Amendment and Restatement of the 2006 Equity Incentive Plan
+
+The Board of Directors of Intel Corporation (“Intel”) previously approved, subject to stockholder approval, an amendment and restatement of Intel’s 2006 Equity Incentive Plan (the “EIP”). As described below under Item 5.07, Intel’s stockholders approved the amended and restated EIP at the 2022 Annual Stockholders’ Meeting held on May 12, 2022. The amended and restated EIP became effective upon stockholder approval and, among other changes, increased by 80 million the number of shares available under the EIP, permitted certain consultants to participate in the plan, and extended the term of the plan for an additional two years, as described under Proposal 4 of Intel’s definitive proxy statement filed on Schedule 14A with the Securities and Exchange Commission on March 30, 2022, which description is incorporated herein by reference.
+
+The foregoing description of the amended and restated EIP is qualified in its entirety by reference to the text of the amended and restated EIP, which is set forth in Appendix C to Intel’s definitive proxy statement filed on Schedule 14A with the Securities and Exchange Commission on March 30, 2022.
+
+Item 5.07
+
+Submission of Matters to a Vote of Security Holders.
+
+Intel’s Annual Stockholders’ Meeting was held on May 12, 2022. At the meeting:
+
+1)
+
+stockholders elected the 10 persons recommended by the Board to serve as directors of Intel;
+
+2)
+
+stockholders ratified the selection of Ernst & Young LLP to serve as the independent registered public accounting firm of Intel for 2022;
+
+3)
+
+stockholders did not approve, on an advisory basis, Intel’s executive compensation of its listed officers;
+
+4)
+
+stockholders approved the amendment and restatement of the 2006 Equity Incentive Plan;
+
+5)
+
+stockholders did not approve the stockholder proposal requesting amendment to Intel’s stockholder special meeting right; and
+
+6)
+
+stockholders did not approve the stockholder proposal requesting a third-party audit and report on whether written policies or unwritten norms at Intel reinforce racism in its culture.
+
+Set forth below, with respect to each such matter, are the number of votes cast for or against, the number of abstentions and the number of broker
+non-votes.
+
+1)
+
+Election of Directors
+
+Nominee
+
+For
+
+Against
+
+Abstain
+
+Broker Non-Votes
+
+Patrick P. Gelsinger
+
+2,697,917,183
+
+14,295,680
+
+7,139,970
+
+556,288,630
+
+James J. Goetz
+
+2,672,905,441
+
+36,303,918
+
+10,143,474
+
+556,288,630
+
+Andrea J. Goldsmith
+
+2,692,265,316
+
+16,748,795
+
+10,338,722
+
+556,288,630
+
+Alyssa H. Henry
+
+1,365,869,670
+
+1,343,196,985
+
+10,286,178
+
+556,288,630
+
+Omar Ishrak
+
+1,893,420,213
+
+814,535,837
+
+11,396,783
+
+556,288,630
+
+Risa Lavizzo-Mourey
+
+2,012,950,473
+
+695,788,110
+
+10,614,250
+
+556,288,630
+
+Tsu-Jae
+King Liu
+
+2,681,174,350
+
+27,760,203
+
+10,418,280
+
+556,288,630
+
+Gregory D. Smith
+
+2,673,841,764
+
+35,138,297
+
+10,372,772
+
+556,288,630
+
+Dion J. Weisler
+
+1,936,887,555
+
+771,396,704
+
+11,068,574
+
+556,288,630
+
+Frank D. Yeary
+
+2,589,552,038
+
+119,020,238
+
+10,780,557
+
+556,288,630
+
+2)
+
+Ratification of Selection of Independent Registered Public Accounting Firm
+
+For
+
+Against
+
+Abstain
+
+Broker
+Non-Votes
+
+3,089,319,952
+
+175,577,896
+
+10,743,615
+
+0
+
+3)
+
+Advisory Vote to Approve Executive Compensation of Intel’s Listed Officers
+
+For
+
+Against
+
+Abstain
+
+Broker
+Non-Votes
+
+921,224,090
+
+1,777,027,364
+
+21,101,379
+
+556,288,630
+
+4)
+
+Approval of the Amendment and Restatement of the 2006 Equity Incentive Plan
+
+For
+
+Against
+
+Abstain
+
+Broker
+Non-Votes
+
+1,975,846,039
+
+724,717,724
+
+18,789,070
+
+556,288,630
+
+5)
+
+Stockholder Proposal Requesting Amendment to Intel’s Stockholder Special Meeting Right
+
+For
+
+Against
+
+Abstain
+
+Broker
+Non-Votes
+
+896,541,651
+
+1,770,479,408
+
+52,331,774
+
+556,288,630
+
+6)
+
+Stockholder Proposal Requesting a Third-Party Audit and Report on Whether Written Policies or Unwritten Norms at Intel Reinforce Racism in its Culture
+
+For
+
+Against
+
+Abstain
+
+Broker
+Non-Votes
+
+443,059,046
+
+2,203,458,990
+
+72,834,797
+
+556,288,630
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+INTEL CORPORATION
+
+(Registrant)
+
+Date: May 16, 2022
+
+/s/ Susie Giordano
+
+Susie Giordano
+
+Interim General Counsel, Corporate Vice President and Corporate Secretary

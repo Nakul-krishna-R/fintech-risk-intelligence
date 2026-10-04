@@ -1,0 +1,172 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported)
+April 25, 2023
+General Electric Co
+mpany
+(Exact name of registrant as specified in its charter)
+
+New York
+001-00035
+14-0689340
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+
+5 Necco Street
+Boston,
+MA
+
+02210
+(Address of principal executive offices)
+
+(Zip Code)
+
+(Registrant’s telephone number, including area code)
+
+(
+617
+)
+443-3000
+
+_______________________________________________
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, par value $0.01 per share
+GE
+New York Stock Exchange
+1.250% Notes due 2023
+GE 23E
+New York Stock Exchange
+0.875% Notes due 2025
+GE 25
+New York Stock Exchange
+1.875% Notes due 2027
+GE 27E
+New York Stock Exchange
+1.500% Notes due 2029
+GE 29
+New York Stock Exchange
+7 1/2% Guaranteed Subordinated Notes due 2035
+GE /35
+New York Stock Exchange
+2.125% Notes due 2037
+GE 37
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 8.01 Other Events.
+General Electric Company (the Company or GE) is filing this Form 8-K to retrospectively present certain financial information in the Company's Annual Report on Form 10-K for the year ended December 31, 2022 (2022 Form 10-K) to reflect the required reclassification of its HealthCare business to discontinued operations, as well as the adoption of Accounting Standards Update No. 2018-12,
+Financial Services – Insurance (Topic 944): Targeted Improvements to the Accounting for Long-Duration Contracts (ASU 2018-12)
+. This financial information includes our 2022 annual financial statements and related Management’s Discussion and Analysis.
+On January 3, 2023, the Company completed the previously announced separation (the Separation) of its HealthCare business, into a separate, independent, publicly traded company, GE HealthCare Technologies Inc. (GE HealthCare). The Separation was structured as a tax free spin-off, where GE distributed a pro rata dividend (the Distribution) to holders of GE common stock of approximately 80.1% of the outstanding shares of GE HealthCare. On the distribution date, each holder of record of GE common stock received one share of GE HealthCare common stock for every three shares of GE common stock held. GE HealthCare is now an independent public company that trades under the symbol “GEHC” on The Nasdaq Stock Market LLC. After the Distribution, GE no longer consolidates GE HealthCare into its financial results.
+In connection with the Separation, the historical results of GE HealthCare and certain assets and liabilities included in the Separation have been reported in GE's consolidated financial statements as discontinued operations beginning with the first quarter of 2023. Additionally, in the first quarter of 2023, GE prospectively measured its remaining approximately 19.9% ownership interest in GE HealthCare at fair value in continuing operations.
+As previously disclosed in our 2022 Form 10-K, the Company was required to adopt ASU 2018-12 effective January 1, 2023. The Company recognized a $7,285 million after-tax decrease in Total equity at January 1, 2021 from the effect of transition date adjustments due to adoption of the new guidance. As of December 31, 2022, the after-tax decrease to Total equity was reduced to $2.7 billion, primarily due to changes in the market interest rate environment subsequent to the January 1, 2021 transition date.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits.
+23(a)
+Consent of Deloitte & Touche LLP
+23(b)
+Consent of KPMG LLP
+31
+(a)
+Certification Pursuant to Rules 13a-14(a) or 15d-14(a) under the Securities Exchange Act of 1934, as Amended
+31
+(
+b)
+Ce
+rtification Pursuant to Rules 13a-14(a) or 15d-14(a) under the Securities Exchange Act of 1934, as Amended
+32
+Certification Pursuant to 18 U.S.C. Section 1350
+The following Exhibit 99(a) filed with this Form 8-K and incorporated herein by reference revises and supersedes portions of the Company’s 2022 10-K to reflect, to the extent the company deems appropriate, the HealthCare business being reclassified to discontinued operations and the adoption of ASU 2018-12 effective January 1, 2023.
+No other information in our 2022 Form 10-K has been updated for events or developments that occurred subsequent to the filing of the 2022 Form 10-K with the U.S. Securities and Exchange Commission (SEC). For developments since the filing of the 2022 Form 10-K, please refer to the Company's Forms 8-K and 10-Q filed since the filing of the 2022 Form 10-K. The information in this Form 8-K, including the exhibits, should be read in conjunction with the 2022 Form 10-K and the Company’s subsequent SEC filings.
+9
+9
+(a
+)
+
+Portions of
+2022
+Form 10-K
+reflecting
+the
+reclassification of GE HealthCare to discontinued operations and
+the
+adoption of
+ASU 2018-12
+.
+101
+The following materials from General Electric Company's Report on Form 8-K dated April 25, 2023, formatted as Inline XBRL (eXtensible Business Reporting Language); (i) Statement of Earnings (Loss) for the years ended December 31, 2022, 2021 and 2020, (ii) Statement of Financial Position at December 31, 2022 and 2021, (iii) Statement of Cash Flows for the years ended December 31, 2022, 2021 and 2020, (iv) Statement of Comprehensive Income (Loss) for the years ended December 31, 2022, 2021 and , (v) Statement of Changes in Shareholders' Equity for the years ended December 31, 2022, 2021 and , and (vi) the Notes to Consolidated Financial Statements.*
+104
+The cover page from this Form 8-K, formatted in Inline XBRL.
+FORWARD-LOOKING STATEMENTS.
+Our public communications and SEC filings may contain statements related to future, not past, events. These forward-looking statements often address our expected future business and financial performance and financial condition, and often contain words such as "expect," "anticipate," "intend," "plan," "believe," "seek," "see," "will," "would," "estimate," "forecast," "target," "preliminary," or "range." Forward-looking statements by their nature address matters that are, to different degrees, uncertain, such as statements about planned and potential transactions, including our plan to pursue a spin-off of our portfolio of energy businesses that are planned to be combined as GE Vernova (Renewable Energy, Power, Digital and Energy Financial Services); the impacts of macroeconomic and market conditions and volatility on our business operations, financial results and financial position and on the global supply chain and world economy; our expected financial performance, including cash flows, revenues, organic growth, margins, earnings and earnings per share; impacts related to the COVID-19 pandemic; our de-leveraging plans, including leverage ratios and targets, the timing and nature of actions to reduce indebtedness and our credit ratings and outlooks; our funding and liquidity; our businesses’ cost structures and plans to reduce costs; restructuring, goodwill impairment or other financial charges; or tax rates.
+For us, particular areas where risks or uncertainties could cause our actual results to be materially different than those expressed in our forward-looking statements include:
+•
+our success in executing planned and potential transactions, including our plan to pursue a spin-off of GE Vernova, and sales or other dispositions of our equity interests in AerCap Holdings N.V. (AerCap) and GE HealthCare, the timing for such transactions, the ability to satisfy any applicable pre-conditions, and the expected proceeds, consideration and benefits to GE;
+•
+changes in macroeconomic and market conditions and market volatility, including impacts related to the COVID-19 pandemic, risk of recession, inflation, supply chain constraints or disruptions, rising interest rates, perceived weakness or failures of banks, the value of securities and other financial assets (including our equity interests in AerCap and GE HealthCare), oil, natural gas and other commodity prices and exchange rates, and the impact of such changes and volatility on our business operations, financial results and financial position;
+•
+global economic trends, competition and geopolitical risks, including impacts from the ongoing conflict between Russia and Ukraine and the related sanctions and other measures, decreases in the rates of investment or economic growth globally or in key markets we serve, or an escalation of sanctions, tariffs or other trade tensions between the U.S. and China or other countries, and related impacts on our businesses' global supply chains and strategies;
+•
+the continuing severity, magnitude and duration of the COVID-19 pandemic, including impacts of virus variants and resurgences, and of government, business and individual responses, such as continued or new government-imposed lockdowns and travel restrictions, and in particular any adverse impacts to the aviation industry and its participants;
+•
+our capital allocation plans, including de-leveraging actions to reduce GE's indebtedness, the capital structures of the public companies that we plan to form from our businesses with the planned spin-off, the timing and amount of dividends, share repurchases, acquisitions, organic investments, and other priorities;
+•
+downgrades of our current short- and long-term credit ratings or ratings outlooks, or changes in rating application or methodology, and the related impact on our funding profile, costs, liquidity and competitive position;
+•
+the amount and timing of our cash flows and earnings, which may be impacted by macroeconomic, customer, supplier, competitive, contractual and other dynamics and conditions;
+•
+capital and liquidity needs associated with our financial services operations, including in connection with our run-off insurance operations and mortgage portfolio in Poland (Bank BPH), the amount and timing of any required capital contributions and any strategic actions that we may pursue;
+•
+market developments or customer actions that may affect demand and the financial performance of major industries and customers we serve, such as demand for air travel and other aviation industry dynamics related to the COVID-19 pandemic; pricing, cost, volume and the timing of investment by customers or industry participants and other factors in renewable energy markets; conditions in key geographic markets; technology developments; and other shifts in the competitive landscape for our products and services;
+•
+operational execution by our businesses, including the success at our Renewable Energy business in improving product quality and fleet availability, executing on cost reduction initiatives and other aspects of operational performance, as well as the performance of GE Aerospace amidst the ongoing market recovery;
+•
+changes in law, regulation or policy that may affect our businesses, such as trade policy and tariffs, regulation and incentives related to climate change (including the impact of the Inflation Reduction Act and other policies), and the effects of tax law changes;
+•
+our decisions about investments in research and development, and new products, services and platforms, and our ability to launch new products in a cost-effective manner;
+•
+our ability to increase margins through implementation of operational improvements, restructuring and other cost reduction measures;
+•
+the impact of regulation and regulatory, investigative and legal proceedings and legal compliance risks, including the impact of Alstom, Bank BPH and other investigative and legal proceedings;
+•
+the impact of actual or potential quality issues or failures of our products or third-party products with which our products are integrated, and related costs and reputational effects;
+•
+the impact of potential information technology, cybersecurity or data security breaches at GE or third parties; and
+•
+the other factors that are described in the "Risk Factors" in this Annual Report on Form 10-K for the year ended December 31, 2022, as such descriptions may be updated or amended in any future reports we file with the SEC.
+These or other uncertainties may cause our actual future results to be materially different than those expressed in our forward-looking statements. We do not undertake to update our forward-looking statements. This document includes certain forward-looking projected financial information that is based on current estimates and forecasts. Actual results could differ materially.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+General Electric Company
+(Registrant)
+Date: April 25, 2023
+/s/ Thomas S. Timko
+Thomas S. Timko
+Vice President, Chief Accounting Officer and Controller

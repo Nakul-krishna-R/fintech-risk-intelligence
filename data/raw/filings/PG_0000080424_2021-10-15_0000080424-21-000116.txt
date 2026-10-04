@@ -1,0 +1,402 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of Report (Date of Earliest Event Reported):
+October 15, 2021
+
+(October 12, 2021)
+
+THE PROCTER & GAMBLE COMPANY
+
+(Exact Name of Registrant as Specified in Its Charter)
+
+Ohio
+
+001-00434
+
+31-0411980
+
+(State or Other Jurisdiction of Incorporation)
+
+(Commission File Number)
+
+(I.R.S. Employer Identification No.)
+
+One Procter & Gamble Plaza
+,
+Cincinnati
+,
+Ohio
+
+45202
+
+(Address of principal executive offices, including zip code)
+
+513
+-
+983-1100
+
+(Registrant’s telephone number, including area code)
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock without Par Value
+
+PG
+
+New York Stock Exchange
+
+2.000% Notes due 2021
+
+PG21
+
+New York Stock Exchange
+
+2.000% Notes due 2022
+
+PG22B
+
+New York Stock Exchange
+
+1.125% Notes due 2023
+
+PG23A
+
+New York Stock Exchange
+
+0.500% Notes due 2024
+
+PG24A
+
+New York Stock Exchange
+
+0.625% Notes due 2024
+
+PG24B
+
+New York Stock Exchange
+
+1.375% Notes due 2025
+
+PG25
+
+New York Stock Exchange
+
+4.875% EUR notes due May 2027
+
+PG27A
+
+New York Stock Exchange
+
+1.200% Notes due 2028
+
+PG28
+
+New York Stock Exchange
+
+1.250% Notes due 2029
+
+PG29B
+
+New York Stock Exchange
+
+1.800% Notes due 2029
+
+PG29A
+
+New York Stock Exchange
+
+6.250% GBP notes due January 2030
+
+PG30
+
+New York Stock Exchange
+
+5.250% GBP notes due January 2033
+
+PG33
+
+New York Stock Exchange
+
+1.875% Notes due 2038
+
+PG38
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934
+(§240.12b-2 of this chapter).
+
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended tramsition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+
+Item 5.07.
+
+Submission of Matters to a Vote of Security Holders
+
+On October 12, 2021, The Procter & Gamble Company (“the Company”), held its 2021 Annual Meeting of Shareholders. Set forth below are the final voting results for each of the proposals submitted to a vote
+of the shareholders.
+
+Proposal 1 – Election of Directors
+.
+
+Each of the following nominees was elected to serve a one-year term on the Company’s Board of Directors.
+
+Votes For
+
+Votes Against
+
+Abstentions
+
+Broker Non-Votes
+
+Allen, B. Marc
+
+1,687,235,125
+
+13,346,908
+
+7,172,478
+
+367,401,219
+
+Braly, Angela F.
+
+1,556,006,344
+
+134,656,019
+
+17,092,148
+
+367,401,219
+
+Chang, Amy L.
+
+1,681,508,140
+
+19,647,424
+
+6,598,947
+
+367,401,219
+
+Jimenez, Joseph
+
+1,685,401,708
+
+15,774,553
+
+6,578,250
+
+367,401,219
+
+Kempczinski, Christopher
+
+1,687,845,039
+
+12,348,094
+
+7,561,378
+
+367,401,219
+
+Lee, Debra L.
+
+1,668,185,058
+
+33,122,789
+
+6,446,664
+
+367,401,219
+
+Lundgren, Terry J.
+
+1,667,835,693
+
+32,943,493
+
+6,975,325
+
+367,401,219
+
+McCarthy, Christine M.
+
+1,680,141,254
+
+21,419,392
+
+6,193,865
+
+367,401,219
+
+Moeller, Jon R.
+
+1,687,743,495
+
+13,878,746
+
+6,132,270
+
+367,401,219
+
+Taylor, David S.
+
+1,646,500,867
+
+45,589,451
+
+15,664,193
+
+367,401,219
+
+Whitman, Margaret C.
+
+1,676,614,568
+
+24,151,034
+
+6,988,909
+
+367,401,219
+
+Woertz, Patricia A.
+
+1,622,717,589
+
+77,539,197
+
+7,497,725
+
+367,401,219
+
+Proposal 2- Ratify Appointment of the
+Independent Registered Public Accounting Firm
+.
+
+The proposal was approved.
+
+Votes For
+
+Votes Against
+
+Abstentions
+
+Broker Non-Votes
+
+1,962,656,478
+
+104,845,027
+
+7,654,225
+
+0
+
+Proposal 3 - Advisory Vote to Approve
+the Company’s Executive Compensation (the “Say on Pay” vote)
+.
+
+The proposal was approved.
+
+Votes For
+
+Votes Against
+
+Abstentions
+
+Broker Non-Votes
+
+1,535,250,478
+
+150,109,474
+
+22,394,559
+
+367,401,219
+
+Proposal 4 - Inclusion of Non-Management
+Employees on Director Nominee Candidate List
+.
+
+The proposal was not approved.
+
+Votes For
+
+Votes Against
+
+Abstentions
+
+Broker Non-Votes
+
+130,765,663
+
+1,554,654,774
+
+22,334,074
+
+367,401,219
+
+The Company is filing this Form 8-K pursuant to Item 5.07, "Submission of Matters to a Vote of Security Holders."
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this Report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+THE PROCTER & GAMBLE COMPANY
+
+BY:
+
+/s/ Sandra T. Lane
+
+Sandra T. Lane
+
+Assistant Secretary
+
+October 15, 2021

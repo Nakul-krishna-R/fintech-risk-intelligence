@@ -1,0 +1,229 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+________________________________________________________
+FORM
+8-K
+________________________________________________________
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+June 8, 2023
+
+Date of Report (date of earliest event reported)
+
+_________________________________________________________
+Salesforce, Inc.
+(Exact name of registrant as specified in its charter)
+
+__________________________________________________________
+
+Delaware
+001-32224
+94-3320693
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+Salesforce Tower
+415 Mission Street, 3rd Fl
+San Francisco
+,
+California
+
+94105
+(Address of principal executive offices)
+Registrant’s telephone number, including area code: (
+415
+)
+901-7000
+N/A
+(Former name or former address, if changed since last report)
+_________________________________________________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.001 per share
+CRM
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+Salesforce, Inc. (the “Company”) held its 2023 Annual Meeting of Stockholders on June 8, 2023 (the “Meeting”). The proposals considered at the Meeting are described in the Company’s 2023 Proxy Statement filed with the Securities and Exchange Commission on April 27, 2023 (the “Proxy Statement”), and the final voting results are set forth below:
+1.
+Election of directors:
+For
+Against
+Abstain
+Broker Non-Votes
+Marc Benioff
+714,569,951
+29,657,498
+2,535,208
+104,643,560
+Laura Alber
+733,379,114
+12,096,218
+1,287,325
+104,643,560
+Craig Conway
+717,723,340
+27,754,243
+1,285,074
+104,643,560
+Arnold Donald
+741,121,581
+4,336,762
+1,304,314
+104,643,560
+Parker Harris
+732,951,706
+12,667,124
+1,143,827
+104,643,560
+Neelie Kroes
+725,384,908
+20,076,447
+1,301,302
+104,643,560
+Sachin Mehra
+743,433,723
+2,036,421
+1,292,513
+104,643,560
+Mason Morfit
+743,124,090
+2,324,010
+1,314,557
+104,643,560
+Oscar Munoz
+727,963,481
+17,449,536
+1,349,640
+104,643,560
+John V. Roos
+706,337,369
+39,083,190
+1,342,098
+104,643,560
+Robin Washington
+706,713,996
+38,738,347
+1,310,314
+104,643,560
+Maynard Webb
+728,497,392
+16,930,481
+1,334,784
+104,643,560
+Susan Wojcicki
+741,257,793
+4,237,931
+1,266,933
+104,643,560
+2. Amendment and restatement of the Company’s 2013 Equity Incentive Plan:
+For
+Against
+Abstain
+Broker Non-Votes
+678,700,951
+63,367,704
+4,694,002
+104,643,560
+3. Ratification of Ernst & Young LLP as the Company’s independent auditor for the fiscal year ending January 31, 2024:
+For
+Against
+Abstain
+Broker Non-Votes
+808,538,658
+37,580,081
+5,287,478
+0
+4. Advisory vote to approve the fiscal 2023 compensation of the Company’s named executive officers:
+For
+Against
+Abstain
+Broker Non-Votes
+608,476,586
+132,551,274
+5,734,797
+104,643,560
+5. Advisory vote on the frequency of holding future advisory votes to approve executive compensation:
+1 Year
+2 Years
+3 Years
+Abstain
+Broker Non-Votes
+738,214,225
+1,221,139
+6,097,510
+1,229,783
+104,643,560
+With respect to the frequency of holding future advisory votes to approve executive compensation, considering the strong support for an annual advisory vote as reflected in the voting results, the Company’s past practice of holding annual advisory votes, and the Board’s recommendation of an annual advisory vote, the Company has determined that it will continue to hold advisory votes to approve the compensation of the Company’s named executive officers annually until the matter is again submitted to the Company’s stockholders for a vote.
+6. Stockholder proposal regarding an independent chair of the board:
+For
+Against
+Abstain
+Broker Non-Votes
+167,647,612
+574,307,554
+4,807,491
+104,643,560
+7. Stockholder proposal regarding a policy to forbid all Company directors from sitting on any other boards:
+For
+Against
+Abstain
+Broker Non-Votes
+3,393,521
+740,646,268
+2,722,868
+104,643,560
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+As reported above, at the Meeting, the Company’s stockholders approved an amendment to the Company’s 2013 Equity Incentive Plan (the “Amended Equity Incentive Plan”) to increase the number of shares reserved for issuance by 10 million shares. The Amended Equity Incentive Plan is described in more detail in the Proxy Statement.
+
+The foregoing description and the summary contained in the Proxy Statement do not purport to be complete and are qualified in their entirety by reference to the full texts of the Amended Equity Incentive Plan, which is attached hereto as Exhibit 10.1.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit No.
+Description
+10.1
+Salesforce, Inc. Amended and Restated 2013 Equity Incentive Plan (incorporated by reference to Exhibit
+4.3
+to the Company’s Registration Statement on Form S-8 filed on June
+12
+, 202
+3
+)
+104
+Cover Page Interactive Data File—the cover page XBRL tags are embedded within the Inline XBRL document
+Signature
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated:
+June 12, 2023
+Salesforce, Inc.
+/s/ T
+ODD
+M
+ACHTMES
+Todd Machtmes
+Executive Vice President and General Counsel

@@ -1,0 +1,266 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15 (D)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+DATE OF REPORT (DATE OF EARLIEST EVENT REPORTED)
+April 25, 2024
+
+BERKSHIRE HATHAWAY INC.
+
+(EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+DELAWARE
+
+001-14905
+
+47-0813844
+
+(STATE OR OTHER JURISDICTION
+
+OF INCORPORATION)
+
+(COMMISSION
+
+FILE NUMBER)
+
+(I.R.S. EMPLOYER
+
+IDENTIFICATION NO.)
+
+3555 Farnam Street
+
+Omaha
+,
+Nebraska
+
+68131
+
+(ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)
+
+(ZIP CODE)
+
+(402)
+
+346-1400
+
+REGISTRANT’S TELEPHONE NUMBER, INCLUDING AREA CODE
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbols
+
+Name of each exchange
+
+on which registered
+
+Class A Common Stock
+
+BRK.A
+
+New York Stock Exchange
+
+Class B Common Stock
+
+BRK.B
+
+New York Stock Exchange
+
+1.125% Senior Notes due 2027
+
+BRK27
+
+New York Stock Exchange
+
+1.625% Senior Notes due 2035
+
+BRK35
+
+New York Stock Exchange
+
+2.150% Senior Notes due 2028
+
+BRK28
+
+New York Stock Exchange
+
+2.375% Senior Notes due 2039
+
+BRK39
+
+New York Stock Exchange
+
+2.625% Senior Notes due 2059
+
+BRK59
+
+New York Stock Exchange
+
+0.000% Senior Notes due 2025
+
+BRK25
+
+New York Stock Exchange
+
+0.500% Senior Notes due 2041
+
+BRK41
+
+New York Stock Exchange
+
+1.500% Senior Notes due 2030
+
+BRK30
+
+New York Stock Exchange
+
+2.000% Senior Notes due 2034
+
+BRK34
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01
+
+Other Events.
+
+On April 25, 2024, Berkshire Hathaway Inc. (“Berkshire”) issued (i) ¥169,000,000,000 aggregate principal amount of its 0.974% Senior Notes due 2027, (ii) ¥22,000,000,000 aggregate principal amount of its 1.143% Senior Notes due 2029, (iii) ¥5,200,000,000 aggregate principal amount of its 1.287% Senior Notes due 2030, (iv) ¥35,300,000,000 aggregate principal amount of its 1.457% Senior Notes due 2031, (v) ¥9,500,000,000 aggregate principal amount of its 1.680% Senior Notes due 2034, (vi) ¥7,000,000,000 aggregate principal amount of its 2.278% Senior Notes due 2044, and (vii) ¥15,300,000,000 aggregate principal amount of its 2.498% Senior Notes due 2054 ((i) through (vii) collectively, the “Notes”) under a registration statement on Form
+S-3
+under the Securities Act of 1933, as amended (the “Securities Act”), filed with the Securities and Exchange Commission (the “Commission”) on January 28, 2022 (Registration
+No. 333-262384)
+(the “Registration Statement”). The Notes were sold pursuant to an underwriting agreement entered into on April 18, 2024, by and among (a) Berkshire and (b) Merrill Lynch International and Mizuho Securities USA LLC.
+
+The Notes were issued under an Indenture, dated as of January 28, 2022, by and among Berkshire, Berkshire Hathaway Finance Corporation and The Bank of New York Mellon Trust Company, N.A. (the “Indenture”) and (i) an officers’ certificate dated as of April 25, 2024 by Berkshire with respect to its 0.974% Senior Notes due 2027 (the “2027 Notes Officers’ Certificate”), (ii) an officers’ certificate dated as of April 25, 2024 by Berkshire with respect to its 1.143% Senior Notes due 2029 (the “2029 Notes Officers’ Certificate”), (iii) an officers’ certificate dated as of April 25, 2024 by Berkshire with respect to its 1.287% Senior Notes due 2030 (the “2030 Notes Officers’ Certificate”), (iv) an officers’ certificate dated as of April 25, 2024 by Berkshire with respect to its 1.457% Senior Notes due 2031 (the “2031 Notes Officers’ Certificate”), (v) an officers’ certificate dated as of April 25, 2024 by Berkshire with respect to its 1.680% Senior Notes due 2034 (the “2034 Notes Officers’ Certificate”), (vi) an officers’ certificate dated as of April 25, 2024 by Berkshire with respect to its 2.278% Senior Notes due 2044 (the “2044 Notes Officers’ Certificate”) and (vii) an officers’ certificate dated as of April 25, 2024 by Berkshire with respect to its 2.498% Senior Notes due 2054 (the “2054 Notes Officers’ Certificate”) ((i) through (vii) collectively, the “Officers’ Certificates”).
+
+The relevant terms of the Notes and the Indenture are further described under the caption “Description of the Notes” in the prospectus supplement relating to the Notes, dated April 18, 2024, filed with the Commission by Berkshire on April 22, 2024, pursuant to Rule 424(b)(5) under the Securities Act and in the section entitled “Description of the Debt Securities” in the base prospectus relating to debt securities of Berkshire, dated January 28, 2022, included in the Registration Statement, which descriptions are incorporated herein by reference.
+
+A copy of the Indenture is set forth in Exhibit 4.1 of the Registration Statement and is incorporated herein by reference. A copy of the 2027 Notes Officers’ Certificate is attached hereto as Exhibit 4.2 and is incorporated herein by reference. A copy of the 2029 Notes Officers’ Certificate is attached hereto as Exhibit 4.3 and is incorporated herein by reference. A copy of the 2030 Notes Officers’ Certificate is attached hereto as Exhibit 4.4 and is incorporated herein by reference. A copy of the 2031 Notes Officers’ Certificate is attached hereto as Exhibit 4.5 and is incorporated herein by reference. A copy of the 2034 Notes Officers’ Certificate is attached hereto as Exhibit 4.6 and is incorporated herein by reference. A copy of the 2044 Notes Officers’ Certificate is attached hereto as Exhibit 4.7 and is incorporated herein by reference. A copy of the 2054 Notes Officers’ Certificate is attached hereto as Exhibit 4.8 and is incorporated herein by reference. The descriptions of the Indenture, the Officers’ Certificates and the Notes in this report are summaries and are qualified in their entirety by the terms of the Indenture, the Officers’ Certificates and the Notes, respectively.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+1.1
+
+Underwriting Agreement, dated April 18, 2024, by and among (a) Berkshire Hathaway Inc. and (b) Merrill Lynch International and Mizuho Securities USA LLC.
+
+4.1
+
+Indenture, dated as of January 28, 2022, by and among Berkshire Hathaway Inc., Berkshire Hathaway Finance Corporation and The Bank of New York Mellon Trust Company, N.A. (incorporated by reference to Exhibit 4.1 of Berkshire Hathaway Inc.’s Registration Statement on Form
+S-3
+(Registration
+No. 333-262384)
+filed with the Commission on January 28, 2022).
+
+4.2
+
+Officers’ Certificate of Berkshire Hathaway Inc., dated as of April 25, 2024, including the form of Berkshire Hathaway Inc.’s 0.974% Senior Notes due 2027.
+
+4.3
+
+Officers’ Certificate of Berkshire Hathaway Inc., dated as of April 25, 2024, including the form of Berkshire Hathaway Inc.’s 1.143% Senior Notes due 2029.
+
+4.4
+
+Officers’ Certificate of Berkshire Hathaway Inc., dated as of April 25, 2024, including the form of Berkshire Hathaway Inc.’s 1.287% Senior Notes due 2030.
+
+4.5
+
+Officers’ Certificate of Berkshire Hathaway Inc., dated as of April 25, 2024, including the form of Berkshire Hathaway Inc.’s 1.457% Senior Notes due 2031.
+
+4.6
+
+Officers’ Certificate of Berkshire Hathaway Inc., dated as of April 25, 2024, including the form of Berkshire Hathaway Inc.’s 1.680% Senior Notes due 2034.
+
+4.7
+
+Officers’ Certificate of Berkshire Hathaway Inc., dated as of April 25, 2024, including the form of Berkshire Hathaway Inc.’s 2.278% Senior Notes due 2044.
+
+4.8
+
+Officers’ Certificate of Berkshire Hathaway Inc., dated as of April 25, 2024, including the form of Berkshire Hathaway Inc.’s 2.498% Senior Notes due 2054.
+
+5.1
+
+Opinion of Munger, Tolles & Olson LLP, dated April 25, 2024, with respect to the Notes.
+
+23.1
+
+Consent of Munger, Tolles & Olson LLP (included in Exhibit 5.1).
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+April 25, 2024
+
+BERKSHIRE HATHAWAY INC.
+
+/s/ Marc D. Hamburg
+
+By: Marc D. Hamburg
+
+Senior Vice President and Chief Financial Officer

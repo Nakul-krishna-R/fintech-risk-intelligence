@@ -1,0 +1,104 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+December 4, 2024
+
+INTEL CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+000-06217
+94-1672743
+(State or other jurisdiction
+(Commission
+(IRS Employer
+of incorporation)
+File Number)
+Identification No.)
+
+2200 Mission College Boulevard
+,
+Santa Clara
+,
+California
+95054-1549
+(Address of principal executive offices)
+(Zip Code)
+Registrant's telephone number, including area code:
+(408)
+
+765-8080
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, $0.001 par value
+INTC
+Nasdaq Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+1
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(d) Election of New Director.
+On December 4, 2024, the board of directors (the "
+Board
+") of Intel Corporation appointed Eric Meurice and Steve Sanghi to the Board, effective immediately. The Board determined that each of Mr. Meurice and Mr. Sanghi qualifies as “independent” in accordance with the published listing requirements of Nasdaq. Mr. Meurice and Mr. Sanghi were selected as directors based on their extensive experience in the semiconductor industry, including as chief executive officers and public company directors, as summarized below.
+Mr. Meurice, 68, has over three decades of leadership experience in the semiconductor and electronics industries, including most recently as President and Chief Executive Officer (CEO) of ASML Holding N.V., the world’s largest supplier of advanced lithography systems used to manufacture semiconductors, from 2004 until his retirement in 2013, though he continued on as chairman of the board of management into 2014. As CEO, he led a highly successful period for ASML over which there was a five-fold increase in the company’s value and ASML’s research and development was highly successful and significantly expanded, in particular through significant strategic investments by Intel, Samsung and TSMC to support ASML’s research and development, including extreme ultraviolet (EUV) lithography. Prior to ASML, Mr. Meurice was Executive Vice President, Television Division of Thomson S.A., an electronics company, from 2001 to 2004, where he led the television division, Vice President and General Manager, Southern and Eastern Europe, of Dell Computer Corporation, a leading computer company, from 1995 to 2001, where he ran the company’s regional operations, Worldwide Marketing and Sales Director of ITT Semiconductors, a discrete components and integrated circuits manufacturer, from 1989 to 1995, where he was responsible for sales, marketing and strategic alliance activities, and in various roles at Intel Corporation from 1984 to 1989, where he was responsible for product development and marketing for the automotive sector.
+Mr. Meurice currently serves on the board of directors of Global Blue Group Holding AG, a payment solutions provider, and IPG Photonics Corporation, a maker of fiber lasers, amplifiers and laser diodes. His previous board roles have included Verigy Ltd., a leading semiconductor test equipment manufacturer, ARM Holdings plc, a leading semiconductor and software design company, NXP Semiconductors N.V., a leading semiconductor manufacturing and design company, Meyer Burger Technology A.G., then a leading photovoltaic equipment vendor, Umicore, NV/SA, a materials technology and recycling company, and Soitec S.A., a semiconductor materials company.
+Mr. Meurice holds an M.A. in engineering from École Centrale Paris, an M.A. in economics from the Université Paris 1 Panthéon-Sorbonne, and an M.B. A. from the Stanford University Graduate School of Business.
+Mr. Sanghi, 69, serves as Chairman for Microchip Technology Incorporated, a leading manufacturer of microcontroller, mixed-signal, analog, FPGA, timing, connectivity, non-volatile memory and Flash IP solutions for various embedded control applications, a company at which he held executive leadership roles for over 30 years. In November 2024, he agreed to serve as interim CEO at and president at Microchip Technology. His prior roles at Microchip Technology included serving as Executive Chairman from 2021 to 2024, as CEO from 1991 to 2021, as President and CEO from 1991 to 2016, and as President and Chief Operating Officer from 1990 to 1991. During his tenure as CEO, he helped transform the company from a small company focused on non-volatile memory products to a leading embedded control solutions company, acquired over 20 companies, including Silicon Storage, Standard Microsystems, Micrel, Atmel and Microsemi, to enable the company to serve more than 123,000 customers across the industrial, automotive, consumer aerospace and defense, communications and computing markets, and led the company through more than 121 consecutive quarters of profitability. Prior to Microchip Technology, Mr. Sanghi served as Vice President, Operations of Waferscale Integration, Inc., an EPROM and flash memory-based programmable systems-chips company, from 1988 to 1990, and in various roles at Intel from 1978 to 1988, where he ultimately served as General Manager of Programmable Memory Operations.
+In addition to being Chairman at Microchip Technology, Mr. Sanghi also currently serves on the board of directors of Impinj, Inc., a manufacturer of radio-frequency identification (RFID) devices and software. His previous board roles have included Mellanox Technologies Ltd., a high-performance ethernet interconnect company that was acquired by Nvidia Corporation, Hittite Microwave Corporation, a radio-frequency, microwave, and millimeter wave technologies company acquired by Analog Devices, Inc., Xyratex Technology Ltd., a storage systems company acquired by Seagate Technology Holdings plc, FlipChip International LLC, a semiconductor wafer bumping technology company sold to HuaTian Technology Corporation, ADFlex Solutions, Inc., a provider of flexible circuit-based interconnect solutions acquired by Innovex, Inc., Artisoft, Inc., a peer-to-peer networking and software development company, and Myomo, Inc., a wearable medical robotics company.
+Mr. Sanghi holds a B.S. in electronics and electrical communications from Punjab University and an M.S. in electrical and computer engineering from the University of Massachusetts Amherst.
+2
+Mr. Meurice and Mr. Sanghi will receive the standard compensation payable to non-employee directors of the Board. Pursuant to these arrangements, they will each be paid the standard annual cash retainer (in addition to any committee fees), which will be pro-rated for the first year of service. In addition, in the first quarter of 2025, they will each be granted an award of non-employee director time-based restricted stock units with a value on the grant date of approximately $104,167, which is pro-rated from the value of the annual award granted to Intel’s non-employee directors in May 2024. The awards will vest on the earlier of May 7, 2025 and the date of Intel’s 2025 Annual Stockholders’ Meeting, the same schedule as the annual award granted to Intel’s other non-employee directors in May 2024, subject to their continued service on the Board.
+Mr. Meurice and Mr. Sanghi will also enter into Intel’s standard form of directors’ indemnification agreement with Intel, pursuant to which Intel agrees to indemnify its directors to the fullest extent permitted by applicable law and subject to certain conditions to advance expenses in connection with proceedings as described in the indemnification agreement.
+Mr. Meurice and Mr. Sanghi do not have any family relationship with any director or executive officer of Intel, or person nominated or chosen by Intel to become a director or executive officer, and they have no direct or indirect material interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation S-K.
+Item 7.01 Regulation FD Disclosure.
+Intel’s press release dated December 5, 2024 announcing the appointments of Mr. Meurice and Mr. Sanghi to the Board is attached hereto as Exhibit 99.1 and incorporated by reference herein.
+The information in this Item 7.01 and the press release attached hereto as Exhibit 99.1 are furnished and shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+Item 9.01
+
+Financial Statements and Exhibits.
+(d) Exhibits.
+The following exhibits are provided as part of this Report:
+Exhibit Number
+Description
+99.1
+Press Release issued by Intel titled “Intel Appoints Semiconductor Leaders Eric Meurice and Steve Sanghi to Board of Directors,” dated December 5, 2024.
+104
+Cover Page Interactive Data File, formatted in Inline XBRL and included as Exhibit 101.
+3
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+INTEL CORPORATION
+(Registrant)
+Date:
+December 4, 2024
+By:
+/s/ APRIL MILLER BOISE
+April Miller Boise
+Executive Vice President and Chief Legal Officer
+4

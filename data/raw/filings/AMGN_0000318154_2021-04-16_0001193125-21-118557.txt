@@ -1,0 +1,224 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+April 16, 2021
+
+Amgen Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-37702
+
+95-3540776
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+One Amgen Center Drive
+Thousand Oaks
+California
+
+91320-1799
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+
+(
+805
+)
+447-1000
+
+Not Applicable
+
+(Former Name or Former Address, if Changed since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities Registered under Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock $0.0001 par value
+
+AMGN
+
+The Nasdaq Stock Market LLC
+
+1.250% Senior Notes Due 2022
+
+AMGN22
+
+The Nasdaq Stock Market LLC
+
+2.000% Senior Notes Due 2026
+
+AMGN26
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 2.01.
+
+Completion of Acquisition or Disposition of Assets.
+
+As previously disclosed in the Current Report on Form
+8-K
+filed with the Securities and Exchange Commission (the “
+SEC
+”) by Amgen Inc. (“
+Amgen
+”) on March 4, 2021, Amgen entered into an Agreement and Plan of Merger, dated as of March 4, 2021 (the “
+Merger Agreement
+”), with Franklin Acquisition Sub, Inc., a Delaware corporation and a wholly owned subsidiary of Amgen (“
+Purchaser
+”), and Five Prime Therapeutics, Inc., a Delaware corporation (“
+Five Prime
+”). Pursuant to the Merger Agreement, on March 18, 2021, Purchaser commenced a tender offer to purchase all of the outstanding shares of common stock of Five Prime, par value $0.001 per share (the “
+Shares
+”), at a price of $38.00 per Share (the “
+Offer Price
+”) in cash, minus any applicable withholding taxes and without interest, upon the terms and subject to the conditions set forth in the offer to purchase, dated March 18, 2021 (together with any amendments, supplements or modifications thereto, the “
+Offer to Purchase
+”), and in the related letter of transmittal (together with any amendments, supplements or modifications thereto, the “
+Letter of Transmittal
+” and, together with the Offer to Purchase, the “
+Offer
+”).
+
+The Offer and related withdrawal rights expired at 12:00 midnight, New York time, on April 16, 2021 (one minute after 11:59 p.m., New York time, on April 15, 2021) (the “
+Offer Expiration Time
+”). American Stock Transfer & Trust Company, LLC, the depositary for the Offer, has advised Purchaser that a total of 40,392,569 Shares (together with any Shares then owned by Purchaser and its “affiliates” (as such term is defined in Section 251(h)(6)(a) of the General Corporation Law of the State of Delaware (the “
+DGCL
+”)), but excluding Shares tendered pursuant to guaranteed delivery procedures that have not yet been “received” by the “depository” (as such terms are defined in Section 251(h)(6) of the DGCL)) had been validly tendered (and not properly withdrawn) pursuant to the Offer prior to the Offer Expiration Time, representing approximately 87.8% of the outstanding Shares as of the Offer Expiration Time. Accordingly, the Minimum Condition (as defined in the Merger Agreement) has been satisfied.
+
+As a result of the satisfaction of the Minimum Condition and each of the other conditions to the Offer, on April 16, 2021, Purchaser accepted for payment all Shares that were validly tendered (and not properly withdrawn) pursuant to the Offer, and will promptly (and in any event within two business days) pay for all such validly tendered Shares.
+
+Following the consummation of the Offer, the remaining conditions to the Merger (as defined below) set forth in the Merger Agreement were satisfied, and on April 16, 2021, Purchaser was merged with and into Five Prime without a vote of the stockholders of Five Prime (the “
+Merger
+”) in accordance with Section 251(h) of the DGCL, with Five Prime surviving the Merger as a wholly owned subsidiary of Amgen.
+
+At the effective time of the Merger (the “
+Effective Time
+”), each then issued and outstanding Share not previously purchased in the Offer (other than (a) Shares that at the Effective Time were held by Five Prime (including any Shares held in treasury), Amgen, Purchaser or any other direct or indirect wholly owned subsidiary of Amgen and (b) Shares outstanding immediately prior to the Effective Time that were held by stockholders of Five Prime who were entitled to appraisal rights under the DGCL and had properly exercised and perfected, and not withdrawn or otherwise lost, such appraisal rights) was converted into the right to receive the Offer Price in cash, minus any applicable withholding taxes and without interest.
+
+Pursuant to the Merger Agreement, at the Effective Time, each option to purchase Shares that was outstanding and unexercised immediately prior to the Effective Time (each, a “
+Five Prime Option
+”) (whether vested or unvested) that had a per Share exercise price that was less than the Offer Price was cancelled and converted into the right to receive an amount in cash equal to the product of (a) the total number of Shares subject to such Five Prime Option immediately prior to the Effective Time,
+multiplied by
+(b) the excess, if any, of (x) the Offer Price over (y) the exercise price payable per Share under such Five Prime Option immediately prior to the Effective Time. Each Five Prime Option (whether vested or unvested) that had a per Share exercise price that was equal to or more than the Offer Price at the Effective Time was cancelled without any consideration payable therefor.
+
+In addition, immediately prior to the time Purchaser accepted for payment all Shares validly tendered (and not properly withdrawn) pursuant to the Offer (the “
+Offer Acceptance Time
+”), each Five Prime restricted Share that was outstanding immediately prior to the Offer Acceptance Time became fully vested and became entitled to receive the Offer Price in accordance with the terms of the Merger Agreement.
+
+-1-
+
+The aggregate consideration to be paid by Purchaser to complete the Offer and the Merger is approximately $1.9 billion, without giving effect to related transaction fees and expenses.
+
+Following consummation of the Merger, the Shares will be delisted and will cease to trade on the Nasdaq Global Select Market. Pursuant to the terms of the Merger Agreement, Amgen and Five Prime will take steps to cause the Shares to be deregistered under the Exchange Act as promptly as practicable following the Effective Time.
+
+The foregoing description of the Merger Agreement, the Offer and the Merger does not purport to be complete and is qualified in its entirety by reference to the Merger Agreement, which was filed as Exhibit 2.1 to the Current Report on Form
+8-K
+filed by Amgen with the SEC on March 4, 2021, and is incorporated by reference into this Item 2.01.
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On April 16, 2021, Amgen issued a press release announcing the successful completion of its acquisition of Five Prime, including the completion of both the Offer and the Merger. A copy of the press release is filed as Exhibit 99.1 hereto and is incorporated by reference into this Item 7.01.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit
+
+Description
+
+2.1
+
+Agreement and Plan of Merger, dated as of March 4, 2021, by and among Amgen Inc., Franklin Acquisition Sub, Inc. and Five Prime Therapeutics, Inc., incorporated by reference to Exhibit 2.1 to the Current Report on Form
+8-K
+filed by Amgen with the SEC on March 4, 2021.
+
+99.1
+
+Press Release, dated April 16, 2021.
+
+104
+
+Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document).
+
+-2-
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+AMGEN INC.
+
+Date: April 16, 2021
+
+By:
+
+/s/ Jonathan P. Graham
+
+Name:
+
+Jonathan P. Graham
+
+Title:
+
+Executive Vice President, General Counsel and Secretary

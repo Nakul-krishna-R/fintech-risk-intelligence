@@ -1,0 +1,96 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of report (Date of earliest event reported):
+April 20, 2022
+
+PFIZER INC
+.
+(Exact name of registrant as specified in its charter)
+Delaware
+1-3619
+13-5315170
+(State or other
+(Commission File
+(I.R.S. Employer
+jurisdiction of
+Number)
+Identification No.)
+incorporation)
+
+235 East 42nd Street
+10017
+New York,
+
+New York
+
+(Zip Code)
+(Address of principal executive offices)
+Registrant’s telephone number, including area code:
+(
+212
+)
+733-2323
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2 (b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $.05 par value
+PFE
+New York Stock Exchange
+1.000% Notes due 2027
+PFE27
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 2.02
+
+Results of Operations and Financial Condition.
+As discussed in the
+Non-GAAP Financial Measure: Adjusted Income
+section of Management’s Discussion and Analysis of Financial Condition and Results of Operations in Pfizer’s 2021 Annual Report on Form 10-K, non-GAAP Adjusted income is an alternative measure of performance used by Pfizer Inc. (the “Company” or “we”) management to evaluate our overall performance as a supplement to our GAAP Reported performance measures. We use Adjusted income, certain components of Adjusted income and Adjusted diluted EPS to present the results of our major operations––the discovery, development, manufacture, marketing, sale and distribution of biopharmaceutical products worldwide––prior to considering certain income statement elements.
+After consultation with the Staff of the U.S. Securities and Exchange Commission, beginning in the first quarter of 2022, we will begin including the following expenses in our non-GAAP Adjusted income: (a) all acquired in-process research and development costs incurred in connection with upfront and milestone payments on collaboration and in-license agreements, including premiums on equity securities, and (b) asset acquisitions of acquired in-process research and development. Prior to this change, certain of these items were excluded from our non-GAAP adjusted results. We expect the impact of this change in our non-GAAP financial measure will reduce our Adjusted income and Adjusted diluted EPS for the first quarter of 2022 by approximately $275 million, and $0.05, respectively,
+although the Company has not yet finalized its results for the period and therefore actual amounts could differ from those the Company currently anticipates
+. These first quarter of 2022 amounts may not be indicative of similar costs which may be incurred in connection with any future acquired in process research and development. In the first quarter of 2022, we will begin reporting in our earnings release and Form 10-Q
+Acquired in-process research and development expenses
+as a separate line item in our consolidated statements of income. We will recast prior periods to conform to this new presentation. Also in the first quarter of 2022, we will begin to include in full-year financial guidance the impact of acquired in-process research and development expenses incurred in the current quarter, or expected to be incurred for transactions signed through a defined date, but will not include any impact for acquired in-process research and development expenses which may be incurred in connection with potential business development activities entered after that time. We plan to post our recasted unaudited GAAP to non-GAAP reconciliations for each quarter of 2021, as well as for full year 2020 and 2021 in the “About—Investors” section of our website at www.Pfizer.com on or before April 30, 2022.
+The information contained in Item 2.02 of this Current Report on Form 8-K is being furnished pursuant to Item 2.02 of Form 8-K and shall not be deemed “filed” for purposes of Section 18 of the U.S. Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed to be incorporated by reference into any future filings by the Company under the U.S. Securities Act of 1933, as amended, or the Exchange Act, regardless of any general incorporation language in any such filing, except as otherwise expressly stated in such filing.
+Forward-Looking Statements
+This Current Report on Form 8-K contains forward-looking statements about the expected impact of a change in our non-GAAP financial measure that are subject to substantial risks and uncertainties. Examples of forward-looking statements include the Company’s expected change to its Adjusted income and Adjusted diluted EPS for the first quarter of 2022.
+
+Should known or unknown risks or uncertainties materialize or should underlying assumptions prove inaccurate, actual results could vary materially from past results, future plans and projected future results. Please refer to the Company’s Annual Report on Form 10-K for the year ended December 31, 2021, and the Company’s subsequent reports on Form 10-Q, in each case including in the sections thereof captioned “Risk Factors” and “Forward-Looking Information and Factors That May Affect Future Results,” as well as the Company’s subsequent reports on Form 8-K for a description of the substantial risks and uncertainties related to the forward-looking statements included in the Current Report on Form 8-K. These reports are available on the Company’s website at www.pfizer.com and on the U.S. Securities and Exchange Commission’s website at www.sec.gov. The forward-looking statements in this Current Report on Form 8-K speak only as of the original date of this Current Report on Form 8-K, and except as required by applicable law, we undertake no obligation to update or revise any of these statements as the result of new information or future events or developments or otherwise.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+PFIZER INC.
+
+By:
+/s/ Jennifer B. Damico
+
+Jennifer B. Damico
+
+Senior Vice President and Controller
+Dated: April 20, 2022

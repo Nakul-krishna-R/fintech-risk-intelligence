@@ -1,0 +1,252 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported):
+June 14, 2021
+
+NVIDIA CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+0-23985
+
+94-3177549
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+2788 San Tomas Expressway
+,
+Santa Clara
+,
+CA
+
+95051
+
+(Address of principal executive offices) (Zip Code)
+
+Registrant’s telephone number, including area code:
+(408)
+
+486-2000
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.001 par value per share
+
+NVDA
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging Growth Company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01.
+
+Entry into a Material Definitive Agreement.
+
+Underwriting Agreement
+
+On June 14, 2021, NVIDIA Corporation, or the Company, entered into an underwriting agreement, or the Underwriting Agreement, with Morgan Stanley & Co. LLC, as representative of the several underwriters named in Schedule I thereto, or the Underwriters, to issue and sell $5.0 billion aggregate principal amount of unsecured notes, consisting of $1.25 billion principal amount of 0.309% notes due 2023, or the 2023 Notes, $1.25 billion principal amount of 0.584% notes due 2024, or the 2024 Notes, $1.25 billion principal amount of 1.550% notes due 2028, or the 2028 Notes, and $1.25 billion principal amount of 2.000% notes due 2031, or the 2031 Notes. The 2023 Notes, 2024 Notes, 2028 Notes and 2031 Notes are collectively referred to as the Notes. The Underwriting Agreement includes customary representations, warranties, conditions and covenants, including an agreement to indemnify the Underwriters against certain liabilities.
+
+The net proceeds from the offering of the Notes were approximately $4.98 billion, after deducting underwriting discounts and estimated offering expenses. The Company intends to use the net proceeds of the offering for general corporate purposes, which may include, among other things, repayment of indebtedness.
+
+The offering of the Notes was made pursuant to the Company’s Registration Statement on Form
+S-3
+(File
+No. 333-237390)
+and a related prospectus, including a prospectus supplement, filed with the Securities and Exchange Commission, or the SEC.
+
+The above description of the Underwriting Agreement does not purport to be complete and is qualified in its entirety by reference to the Underwriting Agreement, attached as Exhibit 1.1 hereto, and incorporated herein by reference.
+
+Indenture
+
+The terms of the Notes are governed by an indenture, dated as of September 16, 2016, or the Base Indenture, between the Company and Wells Fargo Bank, National Association, or the Trustee, as supplemented by an Officers’ Certificate, dated as of June 16, 2021. The Base Indenture, as supplemented by the Officers’ Certificate, is referred to as the Indenture.
+
+The 2023 Notes will mature on June 15, 2023, the 2024 Notes will mature on June 14, 2024, the 2028 Notes will mature on June 15, 2028 and the 2031 Notes will mature on June 15, 2031. Interest on the 2024 Notes is payable on June 14 and December 14 of each year, beginning on December 14, 2021. Interest on all other series of Notes is payable on June 15 and December 15 of each year, beginning on December 15, 2021. The Company may redeem the Notes for cash in whole, at any time, or in part, from time to time, prior to maturity, upon at least 10 but no more than 60 days prior notice (other than in certain circumstances), at redemption prices that include accrued and unpaid interest, if any, to, but excluding, the redemption date, and a make-whole premium. However, no make-whole premium will be paid for redemptions of (i) the 2023 Notes on or after June 15, 2022, (ii) the 2024 Notes on or after June 14, 2023, (iii) the 2028 Notes on or after April 15, 2028, or (iv) the 2031 Notes on or after March 15, 2031.
+
+The Indenture includes covenants limiting the Company’s ability to create liens on its properties, enter into sale and leaseback transactions with respect to its properties or consolidate, merge or sell all or substantially all of its assets, subject to a number of important exceptions as specified in the Indenture. The Indenture also contains customary event of default provisions. In the event of the occurrence of both (1) a change of control of the Company and (2) a downgrade of a series of Notes below an investment grade rating by each of Moody’s Investors Service, Inc. and S&P Global Ratings within a specified period relating to the applicable change of control, the Company will be required to offer to repurchase any outstanding Notes of that series at a price in cash equal to 101% of the then outstanding principal amount of such series of Notes, plus accrued and unpaid interest, if any, on the Notes to be repurchased to, but excluding, the date of repurchase. The Notes are the Company’s unsecured senior obligations and rank equally with all of the Company’s existing and future unsecured and unsubordinated indebtedness from time to time outstanding. The Notes will be structurally subordinated to the liabilities of the Company’s subsidiaries and will be effectively subordinated to any secured indebtedness to the extent of the value of the assets securing such indebtedness. All existing and future liabilities of the Company’s subsidiaries will be effectively senior to the Notes.
+
+The above description of the Indenture and the Notes does not purport to be complete and is qualified in its entirety by reference to the Indenture and the forms of Notes, attached as Exhibits 4.1 through 4.6 hereto, and incorporated herein by reference.
+
+The agreements included as exhibits to this Current Report on Form
+8-K
+are included to provide information regarding their terms and are not intended to provide any other factual or disclosure information about the Company or the other parties to the agreements. The agreements may contain representations and warranties by each of the parties to the applicable agreement. These representations and warranties have been made solely for the benefit of the other parties to the applicable agreement and:
+
+•
+
+should not in all instances be treated as categorical statements of fact, but rather as a way of allocating the risk to one of the parties if those statements prove to be inaccurate;
+
+•
+
+may have been qualified by disclosures that were made to the other party in connection with the negotiation of the applicable agreement, which disclosures would not necessarily be reflected in the agreement;
+
+•
+
+may apply standards of materiality in a way that is different from what may be viewed as material to other investors; and
+
+•
+
+were made only as of the date of the applicable agreement or such other date or dates as may be specified in the agreement and are subject to more recent developments.
+
+Accordingly, these representations and warranties may not describe the actual state of affairs as of the date they were made or at any other time. Additional information about the Company may be found elsewhere in this Current Report on Form
+8-K
+and the Company’s other public filings, which are available without charge through the SEC’s website at
+http://www.sec.gov
+.
+
+Item 2.03.
+
+Creation of a Direct Financial Obligation or an Obligation under an
+Off-Balance
+Sheet Arrangement of a Registrant.
+
+The information set forth in Item 1.01 above is hereby incorporated by reference into this Item 2.03, insofar as it relates to the creation of a direct financial obligation.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+
+Number
+
+Description
+
+1.1
+
+Underwriting Agreement, dated as of June 14, 2021, by and among the Company and Morgan Stanley & Co. LLC , as representative of the several underwriters.
+
+4.1
+
+Indenture, dated as of September 16, 2016, by and between the Company and Wells Fargo Bank, National Association, as Trustee (filed as Exhibit 4.1 to NVIDIA Corporation’s Current Report on Form
+8-K
+filed on September 16, 2016 (File
+No. 000-23985),
+and incorporated by reference herein).
+
+4.2
+
+Officers’ Certificate, dated as of June 16, 2021.
+
+4.3
+
+Form of 2023 Note (included in Exhibit 4.2).
+
+4.4
+
+Form of 2024 Note (included in Exhibit 4.2).
+
+4.5
+
+Form of 2028 Note (included in Exhibit 4.2).
+
+4.6
+
+Form of 2031 Note (included in Exhibit 4.2).
+
+5.1
+
+Opinion of Cooley LLP regarding the validity of the Notes.
+
+23.1
+
+Consent of Cooley LLP (included in Exhibit 5.1).
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+NVIDIA Corporation
+
+Date: June 16, 2021
+
+By:
+
+/s/ Colette M. Kress
+
+Colette M. Kress
+
+Executive Vice President and Chief Financial Officer

@@ -1,0 +1,103 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+June 2, 2021
+
+Broadcom Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+Delaware
+001-38449
+35-2617337
+(State or other jurisdiction of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+1320 Ridder Park Drive,
+San Jose,
+California
+95131-2313
+(Address of principal executive offices including zip code)
+(408)
+433-8000
+( Registrant’s telephone number, including area code)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol(s)
+Name of Each Exchange on Which Registered
+Common Stock, $0.001 par value
+AVGO
+The NASDAQ Global Select Market
+8.00% Mandatory Convertible Preferred Stock, Series A, $0.001 par value
+AVGOP
+The NASDAQ Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+¨
+Item 2.02 Results of Operations and Financial Condition.
+On June 3, 2021, Broadcom Inc. (the “Company”) issued a press release announcing its unaudited financial results for the
+second
+fiscal quarter ended May 2, 2021.
+A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+The information in Item 2.02 of this Report and the press release attached hereto as Exhibit 99.1 are furnished and shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On June 2, 2021, the Board of Directors of the Company (the “Board”) amended the Company
+’
+s Policy on Acceleration of Executive Staff Equity Awards in the Event of Permanent Disability (the “Acceleration Upon Permanent Disability Policy”) and Policy on Acceleration of Equity Awards in the Event of Death (the “Acceleration Upon Death Policy”). These policies were amended to provide that upon a permanent disability or death (as each is defined in such policies), for each outstanding and unvested performance-based equity award for which vesting has already commenced but the performance criteria has not yet been met, the performance criteria shall be deemed achieved at one hundred percent (100%) of target level.
+The foregoing summary of the material amendments to the Acceleration Upon Permanent Disability Policy and the Acceleration Upon Death Policy is qualified in its entirety by reference to the full text of such policies, which are attached hereto as Exhibits 10.1 and 10.2, respectively.
+Item 8.01
+
+Other Events.
+On
+June 3, 2021
+, the Company announced that the Board has declared a quarterly cash dividend on the Company’s 8.00% Mandatory Convertible Preferred Stock, Series A (the
+“
+Mandatory Convertible Preferred Stock
+”
+), of $20.00 per share. This dividend is payable on June 30, 2021 to Mandatory Convertible Preferred Stock holders of record at the close of business (5:00 p.m., Eastern Time) on June 15, 2021.
+The Company also announced that the Board has declared a quarterly cash dividend on the Company’s common stock of $3.60 per share. This dividend is payable on June 30, 2021 to common stockholders of record at the close of business (5:00 p.m., Eastern Time) on June 22, 2021.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit No.
+Description
+10.1+
+Policy on Acceleration of Executive Staff Equity Awards in the Event of Permanent Disability.
+10.2+
+Policy on Acceleration of Equity Awards in the Event of Death.
+99.1
+Press release issued by Broadcom Inc. dated June 3, 2021.
+104
+Cover Page Interactive Data File (formatted as Inline XBRL).
++ Indicates a management contract or compensatory plan or arrangement.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Date:
+June 3, 2021
+
+Broadcom Inc.
+By:
+/s/ Kirsten Spears
+Name:
+Kirsten Spears
+Title:
+Vice President, Chief Financial Officer and Chief Accounting Officer

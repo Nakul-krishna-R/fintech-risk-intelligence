@@ -1,0 +1,172 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (date of earliest event reported): June 30, 2022 (
+June 30, 2022
+)
+
+ADOBE INC.
+
+(Exact name of Registrant as specified in its charter)
+
+Delaware
+
+0-15175
+
+77-0019522
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(I.R.S. Employer
+Identification No.)
+
+345 Park Avenue
+
+San Jose
+,
+California
+
+95110-2704
+
+(Address of principal executive offices and zip code)
+
+Registrant’s telephone number, including area code:
+(408)
+
+536-6000
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+
+Trading
+
+Symbol
+
+Name of Each Exchange
+
+on Which Registered
+
+Common Stock, $0.0001 par value per share
+
+ADBE
+
+NASDAQ Global Select Market
+
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+On June 30, 2022, Adobe Inc. (the “Company”) entered into a five-year Credit Agreement (the “Revolving Credit Agreement”), among the Company, certain subsidiaries of the Company party thereto, Bank of America, N.A. (“Bank of America”), as Administrative Agent and the lenders party thereto. The Revolving Credit Agreement replaces the Credit Agreement, dated as of October 17, 2018, among the Company, certain subsidiaries of the Company party thereto, the lenders party thereto and Bank of America, as Administrative Agent and Swingline Lender (as amended, the “Prior Revolving Credit Agreement”). The initial maximum aggregate principal amount of availability under the Revolving Credit Agreement is $1.5 billion, with
+sub-limits
+for
+non-U.S.
+dollar borrowings and borrowings by certain of the Company’s subsidiaries.
+
+The Revolving Credit Agreement provides for loans to the Company and certain of its subsidiaries that may be designated from time to time as additional borrowers. Pursuant to the terms of the Revolving Credit Agreement, the Company may, subject to the agreement of lenders to provide additional commitments, obtain up to an additional $500 million in commitments, for a maximum aggregate principal amount of $2.0 billion. At the Company’s election, Loans under the Revolving Credit Agreement will bear interest at either (i) Term SOFR (as defined in the Revolving Credit Agreement) plus an applicable margin, (ii) the Adjusted Daily SOFR Rate (as defined in the Revolving Credit Agreement) plus an applicable margin or (iii) a Base Rate (as defined in the Revolving Credit Agreement) plus an applicable margin. The applicable margin is based on the Company’s debt rating. Loans under the Revolving Credit Agreement denominated in
+non-U.S.
+dollar currency will bear interest at a reference rate applicable to the relevant alternative currency plus an applicable margin based on the Company’s debt rating.
+
+The Revolving Credit Agreement also requires the Company to pay a facility fee based on the aggregate commitments in effect under the Revolving Credit Agreement from time to time, whether used or unused, and based upon the Company’s debt rating in effect from time to time. The Company is permitted to permanently reduce the aggregate commitment under the Revolving Credit Agreement at any time. Subject to certain conditions stated in the Revolving Credit Agreement, the Company and any of its subsidiaries designated as additional borrowers may borrow, prepay and
+re-borrow
+amounts under the Revolving Credit Agreement at any time during the term of the Revolving Credit Agreement.
+
+The Revolving Credit Agreement contains customary representations, warranties, affirmative and negative covenants, including events of default and indemnification provisions in favor of the lenders. The negative covenants include restrictions regarding the incurrence of liens and indebtedness, certain merger transactions and other matters, all subject to certain exceptions.
+
+The Revolving Credit Agreement will mature and all amounts owing thereunder will be due and payable on June 30, 2027 unless (a) the commitments are terminated earlier on a voluntary basis by the Company or upon the occurrence of certain events, including an event of default, or (b) the maturity date is extended upon the Company’s request, subject to the agreement of the lenders.
+
+The Revolving Credit Agreement contains customary events of default relating to, among other things, payment defaults, breach of covenants, cross acceleration to material indebtedness, bankruptcy-related defaults, judgment defaults, and the occurrence of certain change of control events. The occurrence of an event of default may result in the termination of the Revolving Credit Agreement and acceleration of repayment obligations with respect to any outstanding principal amounts.
+
+In the ordinary course of their respective businesses, one or more of the lenders under the Revolving Credit Agreement, or their affiliates, have or may have various relationships with the Company and the Company’s subsidiaries involving the provision of a variety of financial services, including cash management, commercial banking, investment banking, advisory or other financial services, for which they received, or will receive, customary fees and expenses. In addition, the Company and the Company’s subsidiaries may have entered into or may in the future enter into in certain engagements with one or more of such lenders or their affiliates relating to specific endeavors.
+
+The description of the Revolving Credit Agreement provided above does not purport to be complete and is qualified in its entirety by reference to the full text of the Revolving Credit Agreement, which is filed as Exhibit 10.1 to this Current Report on Form
+8-K,
+which is incorporated herein by reference.
+
+Item 1.02. Termination of a Material Definitive Agreement.
+
+In connection with and at the time that the Company entered into the Revolving Credit Agreement, the Prior Revolving Credit Agreement originally scheduled to expire on October 17, 2023 was terminated. There were no outstanding borrowings or letters of credit issued under the Prior Revolving Credit Agreement at the time of termination. There were no termination penalties paid as a result of the termination of the Prior Revolving Credit Agreement.
+
+Item 2.03. Creation of a Direct Financial Obligation or an Obligation under an
+Off-Balance
+Sheet Arrangement of a Registrant.
+
+The information set forth above under Item 1.01 is hereby incorporated by reference into this Item 2.03.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d)
+
+Exhibits
+
+Exhibit
+Number
+
+Exhibit Description
+
+10.1
+
+Credit Agreement, dated as of June 30, 2022, among the Company, certain subsidiaries of the Company party thereto, Bank of America, N.A. as Administrative Agent and the other lenders party thereto.
+
+104
+
+Cover Page Interactive Data File (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ADOBE INC.
+
+By:
+
+/s/ DANIEL DURN
+
+Daniel Durn
+
+Executive Vice President and Chief Financial Officer
+
+Date: June 30, 2022

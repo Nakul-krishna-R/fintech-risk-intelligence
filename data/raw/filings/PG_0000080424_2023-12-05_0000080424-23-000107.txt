@@ -1,0 +1,268 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of Report (Date of Earliest Event Reported):
+December 5, 2023
+
+(December 1, 2023)
+
+THE PROCTER & GAMBLE COMPANY
+
+(Exact Name of Registrant as Specified in Its Charter)
+
+Ohio
+
+001-00434
+
+31-0411980
+
+(State or Other Jurisdiction of Incorporation)
+
+(Commission File Number)
+
+(I.R.S. Employer Identification No.)
+
+One Procter & Gamble Plaza
+,
+
+Cincinnati
+,
+Ohio
+
+45202
+
+(Address of principal executive offices, including zip code)
+
+513
+-
+983-1100
+
+(Registrant’s telephone number, including area code)
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock without Par Value
+
+PG
+
+NYSE
+
+0.500% Notes due 2024
+
+PG24A
+
+NYSE
+
+0.625% Notes due 2024
+
+PG24B
+
+NYSE
+
+1.375% Notes due 2025
+
+PG25
+
+NYSE
+
+0.110% Notes due 2026
+
+PG26D
+
+NYSE
+
+3.25% EUR Notes due 2026
+
+PG26E
+
+NYSE
+
+4.875% EUR notes due May 2027
+
+PG27A
+
+NYSE
+
+1.200% Notes due 2028
+
+PG28
+
+NYSE
+
+1.250% Notes due 2029
+
+PG29B
+
+NYSE
+
+1.800% Notes due 2029
+
+PG29A
+
+NYSE
+
+6.250% GBP notes due January 2030
+
+PG30
+
+NYSE
+
+0.350% Notes due 2030
+
+PG30C
+
+NYSE
+
+0.230% Notes due 2031
+
+PG31A
+
+NYSE
+
+3.25% EUR Notes due 2031
+
+PG31B
+
+NYSE
+
+5.250% GBP notes due January 2033
+
+PG33
+
+NYSE
+
+1.875% Notes due 2038
+
+PG38
+
+NYSE
+
+0.900% Notes due 2041
+
+PG41
+
+NYSE
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934
+(§240.12b-2 of this chapter).
+
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended tramsition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+
+Item 7.01 Regulation FD Disclosure
+
+The Procter & Gamble Company (the “Company”) announced today a limited market portfolio restructuring of its business operations, primarily in certain Enterprise Markets,
+including Argentina and Nigeria, to address challenging macroeconomic and fiscal conditions. In connection with this announcement, the Company expects to record incremental restructuring charges of $1.0 to 1.5 billion after tax, including foreign
+currency translation losses to be recognized upon the substantial liquidation of operations in the affected markets. The Company estimates the large majority of these charges will be noncash.
+
+Although the timing of the completion of this restructuring program has yet to be determined, the Company currently anticipates that these restructuring charges will be
+recognized in the fiscal years ending June 30, 2024 and 2025, with initial charges recognized in the quarter ending December 31, 2023.
+
+Combining the restructuring program with an impairment charge described further below, the Company anticipates total charges of approximately $2.0 billion to $2.5 billion after
+tax over the periods described. The Company estimates a large majority of these charges will be noncash. These charges will be reported as non-core charges.
+
+The Company is furnishing the information under this item pursuant to Item 7.01, “Regulation FD Disclosure.”
+
+Item 2.06 Material Impairments
+
+In connection with the restructuring program discussed above, on December 1, 2023, the Company concluded it will record an approximately $1.3 billion before tax ($1.0 billion
+after tax) noncash impairment charge in the quarter ending December 31, 2023, on intangible assets acquired as part of the Company’s 2005 acquisition of The Gillette Company.
+
+The impairment charge arises from a reduction in the estimated fair value of the Gillette indefinite-lived intangible asset due to a higher discount rate, weakening of several
+currencies relative to the U.S. dollar and the impact of the restructuring program described above. This impairment charge adjusts the carrying value of the Gillette indefinite-lived intangible asset to fair value. Underlying performance of the
+Gillette business remains strong. However, future adverse changes in the business or macroeconomic environment may trigger a further impairment charge.
+
+The Company is filing the information under this item pursuant to Item 2.06, “Material Impairments.”
+
+Forward-Looking Statements
+
+Certain statements in this current report, other than purely historical information, including estimates, projections, statements relating to our business
+plans, objectives and expected operating results, and the assumptions upon which those statements are based, are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the
+Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. These forward-looking statements generally are identified by the words “believe,” “project,” “expect,” “anticipate,” “estimate,” “intend,” “strategy,” “future,”
+“opportunity,” “plan,” “may,” “should,” “will,” “would,” “will be,” “will continue,” “will likely result” and similar expressions. Forward-looking statements are based on current expectations and assumptions, which are subject to risks and
+uncertainties that may cause results to differ materially from those expressed or implied in the forward-looking statements. We undertake no obligation to update or revise publicly any forward-looking statements, whether because of new
+information, future events or otherwise, except to the extent required by law.
+
+Risks and uncertainties to which our forward-looking statements are subject include, without limitation: (1) the ability to successfully manage global
+financial risks, including foreign currency fluctuations, currency exchange or pricing controls and localized volatility; (2) the ability to successfully manage local, regional or global economic volatility, including reduced market growth rates,
+and to generate sufficient income and cash flow to allow the Company to effect the expected share repurchases and dividend payments; (3) the ability to manage disruptions in credit markets or to our banking partners or changes to our credit
+rating; (4) the ability to maintain key manufacturing and supply arrangements (including execution of supply chain optimizations and sole supplier and sole manufacturing plant arrangements) and to manage disruption of business due to various
+factors, including ones outside of our control, such as natural disasters, acts of war (including the Russia-Ukraine War) or terrorism or disease outbreaks; (5) the ability to successfully manage cost fluctuations and pressures, including prices
+of commodities and raw materials and costs of labor, transportation, energy, pension and healthcare; (6) the ability to stay on the leading edge of innovation, obtain necessary intellectual property protections and successfully respond to
+changing consumer habits, evolving digital marketing and selling platform requirements and technological advances attained by, and patents granted to, competitors; (7) the ability to compete with our local and global competitors in new and
+existing sales channels, including by successfully responding to competitive factors such as prices, promotional incentives and trade terms for products; (8) the ability to manage and maintain key customer relationships; (9) the ability to
+protect our reputation and brand equity by successfully managing real or perceived issues, including concerns about safety, quality, ingredients, efficacy, packaging content, supply chain practices or similar matters that may arise; (10) the
+ability to successfully manage the financial, legal, reputational and operational risk associated with third-party relationships, such as our suppliers, contract manufacturers, distributors, contractors and external business partners; (11) the
+ability to rely on and maintain key company and third-party information and operational technology systems, networks and services and maintain the security and functionality of such systems, networks and services and the data contained therein;
+(12) the ability to successfully manage uncertainties related to changing political and geopolitical conditions and potential implications such as exchange rate fluctuations and market contraction; (13) the ability to successfully manage current
+and expanding regulatory and legal requirements and matters (including, without limitation, those laws and regulations involving product liability, product and packaging composition, intellectual property, labor and employment, antitrust, privacy
+and data protection, tax, the environment, due diligence, risk oversight, accounting and financial reporting) and to resolve new and pending matters within current estimates; (14) the ability to manage changes in applicable tax laws and
+regulations; (15) the ability to successfully manage our ongoing acquisition, divestiture and joint venture activities, in each case to achieve the Company’s overall business strategy and financial objectives, without impacting the delivery of
+base business objectives; (16) the ability to successfully achieve productivity improvements and cost savings and manage ongoing organizational changes while successfully identifying, developing and retaining key employees, including in key
+growth markets where the availability of skilled or experienced employees may be limited; (17) the ability to successfully manage the demand, supply and operational challenges, as well as governmental responses or mandates, associated with a
+disease outbreak, including epidemics, pandemics or similar widespread public health concerns; (18) the ability to manage the uncertainties, sanctions and economic effects from the war between Russia and Ukraine; and (19) the ability to
+successfully achieve our ambition of reducing our greenhouse gas emissions and delivering progress towards our environmental sustainability priorities. For additional information concerning factors that could cause actual results and events to
+differ materially from those projected herein, please refer to our most recent 10-K, 10-Q and 8-K reports.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this Report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+THE PROCTER & GAMBLE COMPANY
+
+BY:
+
+/s/ Sandra T. Lane
+
+Sandra T. Lane
+
+Assistant Secretary
+
+December 5, 2023

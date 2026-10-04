@@ -1,0 +1,110 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+________________________
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of Report (date of earliest event reported)
+August 15, 2024
+Walmart Inc.
+(Exact name of registrant as specified in its charter)
+DE
+001-06991
+71-0415188
+(State or other jurisdiction of incorporation or organization)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+702 S.W. 8th Street
+
+Bentonville
+,
+AR
+
+72716-0215
+
+(Address of Principal Executive Offices) (Zip code)
+Registrant's telephone number, including area code
+(
+479
+)
+273-4000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.10 per share
+WMT
+New York Stock Exchange
+2.550% Notes due 2026
+WMT26
+New York Stock Exchange
+1.050% Notes due 2026
+WMT26A
+New York Stock Exchange
+1.500% Notes due 2028
+WMT28C
+New York Stock Exchange
+4.875% Notes due 2029
+WMT29B
+New York Stock Exchange
+5.750% Notes due 2030
+WMT30B
+New York Stock Exchange
+1.800% Notes due 2031
+WMT31A
+New York Stock Exchange
+5.625% Notes due 2034
+WMT34
+New York Stock Exchange
+5.250% Notes due 2035
+WMT35A
+New York Stock Exchange
+4.875% Notes due 2039
+WMT39
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+Effective as of August 15, 2024, the Board of Directors (the "Board") of Walmart Inc. ("Walmart") appointed Robert E. Moritz, Jr. as a member of the Board. Mr. Moritz will become a member of the Audit Committee and the Technology and eCommerce Committee of the Board. There is no arrangement or understanding between Mr. Moritz and any other persons or entities pursuant to which Mr. Moritz was appointed as a director.
+Upon his appointment to the Board, Mr. Moritz became entitled to a prorated portion of the non-management directors’ compensation for the term ending on the date of Walmart’s 2025 Annual Shareholders’ Meeting. The components of Walmart’s non-management director compensation were disclosed in Walmart’s proxy statement dated April 25, 2024 relating to the Annual Shareholders’ Meeting held on June 5, 2024. As part of his non-management director compensation, on August 15, 2024, Mr. Moritz will receive a prorated portion of the $200,000 annual stock award. He will also be entitled to receive a prorated portion of the $100,000 annual retainer payable to non-management directors. The annual retainer will be paid quarterly in arrears through the 2025 Annual Shareholders’ Meeting, and Mr. Moritz may elect to receive these quarterly retainers in cash or Walmart common stock, defer in stock units, defer in cash in an interest-bearing account, or receive in any combination thereof.
+A copy of the press release announcing Mr. Moritz’s appointment to the Board is attached as Exhibit 99.1 to this current report on Form 8-K and incorporated herein.
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits
+The following documents are furnished as exhibits to this Current Report on Form 8-K:
+99.1
+Press Release dated August 15, 2024, announcing appointment of Robert E. Moritz, Jr. to the Board of Walmart
+Exhibit 104
+Cover Page Interactive Data File (formatted as Inline XBRL).
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated: August 15, 2024
+WALMART INC.
+By:
+/s/ Gordon Y. Allison
+Name:
+Gordon Y. Allison
+Title:
+Senior Vice President, Office of the Corporate Secretary, and Chief Counsel for Finance and Governance

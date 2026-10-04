@@ -1,0 +1,194 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)
+
+July 11, 2022
+
+ALPHABET INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-37580
+
+61-1767919
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+1600 Amphitheatre Parkway
+
+Mountain View
+,
+CA
+
+94043
+
+(Address of principal executive offices, including zip code)
+
+(650)
+
+253-0000
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Class A Common Stock, $0.001 par value
+
+GOOGL
+
+Nasdaq Stock Market LLC
+
+(Nasdaq Global Select Market)
+
+Class C Capital Stock, $0.001 par value
+
+GOOG
+
+Nasdaq Stock Market LLC
+
+none
+
+none
+
+(Nasdaq Global Select Market)
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02.
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On July 11, 2022, the Board of Directors (the “
+Board
+”) of Alphabet Inc. (the “
+Company
+”) appointed R. Martin Chávez to serve as a member of the Board and the Audit and Compliance Committee of the Board (the “
+Audit and Compliance Committee
+”), effective immediately. Upon the effective date of Mr. Chávez’s appointment to the Audit and Compliance Committee, Robin L. Washington resigned from the Audit and Compliance Committee. Ms. Washington will continue to serve as chair of the Leadership Development, Inclusion and Compensation Committee of the Board.
+
+There are no arrangements or understandings between Mr. Chávez and any other persons pursuant to which Mr. Chávez was selected as a director of the Company. There are no relationships or related transactions between Mr. Chávez and the Company that would be required to be reported.
+
+Mr. Chávez has been a partner and vice chairman of Sixth Street, a global asset manager, since May 2021. From November 1993 to December 1997, and from January 2005 to December 2019, he served in a number of executive positions at Goldman Sachs, including Chief Information Officer, Chief Financial Officer, and global
+co-head
+of the firm’s Securities Division, and was a partner and a member of Goldman Sachs’ management committee. Previously, Mr. Chávez was Chief Executive Officer and
+co-founder
+of Kiodex, which was acquired by Sungard in 2004, and Chief Technology Officer and
+co-founder
+of Quorum Software Systems. Mr. Chávez has been a member of the board of directors of Recursion Pharmaceuticals, Inc., a digital biology company, since April 2020, and serves as its chair and a member of its audit committee. Mr. Chávez was previously a director of Banco Santander, S.A., a financial services company, from October 2020 to June 2022, and served on its nomination committee. Mr. Chávez currently serves as a member of the board of directors of the Broad Institute of MIT and Harvard, the Stanford Medicine Board of Fellows, and the Los Angeles Philharmonic. He holds a Bachelor of Arts degree in biochemical sciences and a Master of Science degree in computer science from Harvard University, and a Doctoral degree in medical information sciences from Stanford University.
+
+In connection with his appointment to the Board, Mr. Chávez will be granted an initial equity award of $1,000,000 in the form of the Company’s Restricted Stock Units (“
+GSUs
+”) on the first Wednesday of the month following the effective date of his appointment to the Board, with each GSU entitling Mr. Chávez to receive one share of the Company’s Class C capital stock as the GSU vests. The exact number of GSUs comprising the grant will be calculated by dividing $1,000,000 by the average closing price of the Company’s Class C capital stock during the month prior to the month in which the grant occurs, rounded up to the nearest whole share. These GSUs will vest at the rate of 25% on the 25th day of the month in which the grant’s first anniversary occurs, and an additional 1/48th will vest on the 25th day of each month thereafter, subject to continued service on the Board on the applicable vesting dates. Following each of the Company’s annual stockholder meetings, Mr. Chávez will also be eligible to receive the Company’s standard compensation arrangement for
+non-employee
+directors, which consists of an annual $350,000 GSU grant, vesting monthly over a period of four years, and an annual $75,000 cash retainer. The grant and payment following the 2023 annual stockholder meeting will be prorated based upon the time between the effective date of Mr. Chávez’s appointment to the Board and the date of the 2023 annual stockholder meeting. The GSUs are subject to the terms and conditions of the Company’s Amended and Restated 2021 Stock Plan and its related grant agreements. The Company will also reimburse Mr. Chávez all reasonable expenses in connection with his services to the Company. A copy of the letter agreement between Mr. Chávez and the Company is filed as Exhibit 10.1 to this Current Report on Form
+8-K.
+
+Mr. Chávez will execute the Company’s form of indemnification agreement, a copy of which has been filed as Exhibit 10.4 to the Company’s Current Report on Form
+8-K
+filed with the U.S. Securities and Exchange Commission on October 2, 2015.
+
+A copy of the press release announcing the above is filed as Exhibit 99.1 to this Current Report on Form
+8-K.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit
+No.
+
+Description
+
+10.1
+
+Letter Agreement, dated July 11, 2022, between R. Martin Chávez and Alphabet Inc.
+
+10.4
+
+Form of Indemnification Agreement (incorporated by reference from
+Current Report on Form 8-K
+(File No. 001-37580) filed on October 2, 2015
+
+99.1
+
+Press release of Alphabet Inc. dated July 14, 2022
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ALPHABET INC.
+
+Date: July 14, 2022
+
+/s/ Kathryn W. Hall
+
+Kathryn W. Hall
+
+Assistant Secretary

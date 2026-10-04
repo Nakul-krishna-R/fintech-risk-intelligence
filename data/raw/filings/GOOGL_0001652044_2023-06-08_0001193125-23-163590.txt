@@ -1,0 +1,664 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)
+
+June 2, 2023
+
+ALPHABET INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-37580
+
+61-1767919
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+1600 Amphitheatre Parkway
+
+Mountain View
+,
+CA
+
+94043
+
+(Address of principal executive offices, including zip code)
+
+(650)
+
+253-0000
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Class A Common Stock, $0.001 par value
+
+GOOGL
+
+Nasdaq Stock Market LLC
+
+(Nasdaq Global Select Market)
+
+Class C Capital Stock, $0.001 par value
+
+GOOG
+
+Nasdaq Stock Market LLC
+
+none
+
+none
+
+(Nasdaq Global Select Market)
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02.
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+Amended and Restated Alphabet Inc. 2021 Stock Plan
+
+At the Annual Meeting of Stockholders of Alphabet Inc. (“
+Alphabet
+”) held on June 2, 2023 (the “
+2023 Annual Meetin
+g”), Alphabet’s stockholders approved the amendment and restatement of the Alphabet Inc. Amended and Restated 2021 Stock Plan (the “
+2021 Stock Plan
+”) to increase the share reserve by 170,000,000 shares of Class C capital stock.
+
+A description of the 2021 Stock Plan and related matters was set forth in Alphabet’s definitive proxy statement on Form 14A filed with the U.S. Securities and Exchange Commission on April 21, 2023 (the “
+2023 Proxy Statement
+”) and is qualified in its entirety by reference to the full text of the 2021 Stock Plan, a copy of which is being filed as Exhibit 10.01 to this Form
+8-K.
+
+Item 5.07.
+
+Submission of Matters to a Vote of Security Holders.
+
+At the 2023 Annual Meeting, Alphabet’s stockholders voted on nineteen proposals as set forth below, eighteen of which are described in detail in the 2023 Proxy Statement. Holders of the shares of Class A common stock were entitled to one vote per share held as of the close of business on April 4, 2023 (the “
+Record Date
+”) and holders of the shares of Class B common stock were entitled to ten votes per share held as of the Record Date. Holders of the shares of Class A common stock and holders of the shares of Class B common stock voted together as a single class on all matters (including the election of directors) submitted to a vote of stockholders at the 2023 Annual Meeting. The number of votes cast for and against and the number of abstentions and broker
+non-votes
+with respect to each matter voted upon are set forth below.
+
+1. The individuals listed below were elected at the 2023 Annual Meeting to serve as directors of Alphabet until the next annual meeting of stockholders or until their respective successors have been duly elected and qualified:
+
+Director Nominee
+
+For
+
+Against
+
+Abstentions
+
+Broker Non-Votes
+
+Larry Page
+
+12,631,049,270
+
+185,039,557
+
+15,696,609
+
+592,425,793
+
+Sergey Brin
+
+12,630,696,538
+
+185,190,472
+
+15,898,426
+
+592,425,793
+
+Sundar Pichai
+
+12,662,132,801
+
+153,686,958
+
+15,965,677
+
+592,425,793
+
+John L. Hennessy
+
+10,791,696,524
+
+2,019,742,113
+
+20,346,799
+
+592,425,793
+
+Frances H. Arnold
+
+11,469,984,369
+
+1,339,242,213
+
+22,558,854
+
+592,425,793
+
+R. Martin “Marty” Chávez
+
+12,773,751,152
+
+40,995,922
+
+17,038,362
+
+592,425,793
+
+L. John Doerr
+
+11,993,651,485
+
+821,490,656
+
+16,643,295
+
+592,425,793
+
+Roger W. Ferguson Jr.
+
+12,718,137,871
+
+96,671,443
+
+16,976,122
+
+592,425,793
+
+Ann Mather
+
+11,634,021,024
+
+1,179,935,996
+
+17,828,416
+
+592,425,793
+
+K. Ram Shriram
+
+12,240,632,825
+
+571,800,525
+
+19,352,086
+
+592,425,793
+
+Robin L. Washington
+
+12,007,738,992
+
+807,306,070
+
+16,740,374
+
+592,425,793
+
+2
+
+2. The ratification of the appointment of Ernst & Young LLP as Alphabet’s independent registered public accounting firm for the fiscal year ending December 31, 2023. There were no broker
+non-votes
+on this matter. This proposal was approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+13,104,253,756
+
+300,350,797
+
+19,606,676
+
+3. The approval of the amendment and restatement of the 2021 Stock Plan to increase the share reserve by 170,000,000 shares of Class C capital stock. This proposal was approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker Non-Votes
+
+10,842,958,851
+
+1,966,819,224
+
+22,007,361
+
+592,425,793
+
+4. The approval, on an advisory basis, of the compensation awarded to Alphabet’s named executive officers, as disclosed in the 2023 Proxy Statement. This proposal was approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker Non-Votes
+
+9,690,996,228
+
+3,117,019,312
+
+23,769,896
+
+592,425,793
+
+5. An advisory vote on the frequency of advisory votes to approve compensation awarded to named executive officers. A frequency of 3 years received the highest number of votes as set forth below (and Alphabet will hold advisory votes on executive compensation once every 3 years):
+
+1 Year
+
+2 Years
+
+3 Years
+
+Abstentions
+
+Broker Non-Votes
+
+3,937,776,422
+
+5,555,451
+
+8,871,432,162
+
+17,021,401
+
+592,425,793
+
+3
+
+6. A stockholder proposal regarding a lobbying report. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker Non-Votes
+
+2,275,998,621
+
+10,473,643,536
+
+82,143,279
+
+592,425,793
+
+7. A stockholder proposal regarding a congruency report. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker Non-Votes
+
+55,512,414
+
+12,723,842,969
+
+52,430,053
+
+592,425,793
+
+8. A stockholder proposal regarding a climate lobbying report. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker Non-Votes
+
+1,813,942,162
+
+10,968,228,804
+
+49,614,470
+
+592,425,793
+
+9. A stockholder proposal regarding a report on reproductive rights and data privacy. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker Non-Votes
+
+894,679,585
+
+11,847,277,597
+
+89,828,254
+
+592,425,793
+
+10. A stockholder proposal regarding a human rights assessment of data center siting. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker Non-Votes
+
+1,670,256,263
+
+11,071,345,807
+
+90,183,366
+
+592,425,793
+
+4
+
+11. A stockholder proposal regarding a human rights assessment of targeted ad policies and practices. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker Non-Votes
+
+2,281,438,520
+
+10,380,637,459
+
+169,709,457
+
+592,425,793
+
+12. A stockholder proposal regarding algorithm disclosures. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker Non-Votes
+
+2,177,846,989
+
+10,618,493,044
+
+35,445,403
+
+592,425,793
+
+13. A stockholder proposal regarding a report on alignment of YouTube policies with legislation. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+2,301,401,235
+
+10,495,777,571
+
+34,606,630
+
+592,425,793
+
+14. A stockholder proposal regarding a content governance report. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+80,179,398
+
+12,694,759,214
+
+56,846,824
+
+592,425,793
+
+15. A stockholder proposal regarding a performance review of the Audit and Compliance Committee. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker Non-Votes
+
+1,070,146,850
+
+11,723,039,308
+
+38,599,278
+
+592,425,793
+
+5
+
+16. A stockholder proposal regarding bylaws amendment. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+634,267,797
+
+12,168,425,191
+
+29,092,448
+
+592,425,793
+
+17. A stockholder proposal regarding “executives to retain significant stock.” This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+1,246,419,473
+
+11,550,780,219
+
+34,585,744
+
+592,425,793
+
+18. A stockholder proposal regarding equal shareholder voting. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+3,942,644,250
+
+8,867,098,685
+
+22,042,501
+
+592,425,793
+
+19. A stockholder proposal presented at the 2023 Annual Meeting but not included in the 2023 Proxy Statement regarding vesting of performance stock units. This proposal was not approved as set forth below:
+
+For
+
+Against
+
+Abstentions
+
+Broker Non-Votes
+
+8,959
+
+12,831,776,477
+
+0
+
+592,425,793
+
+6
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit
+
+No.
+
+Description
+
+10.01
+
+Alphabet Inc. Amended and Restated 2021 Stock Plan
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+7
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ALPHABET INC.
+
+June 8, 2023
+
+/s/ Kathryn W. Hall
+
+Kathryn W. Hall
+
+Assistant Secretary
+
+8

@@ -1,0 +1,208 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+__________________________________
+FORM
+8-K
+
+__________________________________
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+June 2, 2022
+
+__________________________________
+NETFLIX, INC.
+(Exact name of registrant as specified in its charter)
+__________________________________
+Delaware
+001-35727
+77-0467272
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+100 Winchester Circle
+,
+Los Gatos
+,
+California
+95032
+(Address of principal executive offices)
+(Zip Code)
+(
+408
+)
+540-3700
+
+(Registrant’s telephone number, including area code)
+(Former name or former address, if changed since last report)
+__________________________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, par value $0.001 per share
+NFLX
+NASDAQ Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.03
+Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+On June 2, 2022, Netflix, Inc. (the “Company”) held its 2022 annual meeting of stockholders via the internet (the “Annual Meeting”), at which the stockholders voted to amend the Company’s Restated Certificate of Incorporation (the “Charter”) to declassify the Company’s board of directors, eliminate supermajority voting provisions and create a new stockholder right to call a special meeting (collectively, the “Charter Amendments”). Detailed descriptions of the foregoing amendments were set forth in Management Proposals Two, Three and Four in the Company’s definitive Proxy Statement on Schedule 14A filed with the Securities and Exchange Commission on April 22, 2022 (the “Proxy Statement”), which descriptions are incorporated herein by reference and are qualified in their entirety by reference to the full text of the Company’s Amended and Restated Certificate of Incorporation filed herewith as Exhibit 3.1. These amendments became effective upon filing the Amended and Restated Certificate of Incorporation with the Secretary of State of the State of Delaware on June 7, 2022.
+Additionally, the Board approved an amendment and restatement of the Company’s bylaws (the “Bylaws”), which became effective concurrently with the effectiveness of the Amended and Restated Certificate of Incorporation. The Bylaws were amended and restated to:
+•
+Implement a majority vote standard for the election of directors in uncontested director elections, with a plurality vote standard applying to contested director elections;
+•
+Adopt a resignation policy consistent with the majority vote standard, so that an incumbent director who does not receive the requisite affirmative majority of the votes cast for his or her re-election will be required to promptly tender his or her resignation to the Board, subject to acceptance by the Board;
+•
+Declassify the board of directors to give effect to the Charter Amendments;
+•
+Eliminate the supermajority stockholder vote required for stockholders to amend the bylaws to give effect to the Charter Amendments;
+•
+Create a new stockholder right to call a special meeting to give effect to the Charter Amendments; and
+•
+Make certain technical, conforming and administrative changes.
+The foregoing description of the Amended and Restated Bylaws is qualified in its entirety by reference to, and should be read in conjunction with, the complete text of Amended and Restated Bylaws, which is attached to this Current Report on Form 8-K as Exhibit 3.2, the terms of which are incorporated herein by reference. In addition, a marked copy of the Amended and Restated Bylaws showing all changes made to the Company’s prior bylaws is attached hereto as Exhibit 3.3.
+Item 5.07
+Submission of Matters to a Vote of Security Holders.
+Set forth below are the voting results from the Company’s Annual Meeting. As of April 4, 2022, the Company’s record date, there were a total of 444,273,850 shares of common stock outstanding and entitled to vote at the Annual Meeting. At the Annual Meeting, 372,186,742 shares of common stock were represented in person or by proxy and, therefore, a quorum was present. For more information about the following proposals, see the Proxy Statement.
+The number of votes cast, as applicable, for, against and withheld, and the number of abstentions and broker non-votes with respect to each matter voted upon are set forth below:
+1. The following individuals were elected as Class II directors at the Annual Meeting to serve until the 2025 annual meeting of stockholders, by the following votes:
+
+Nominee
+For
+Withheld
+Broker Non-Votes
+Timothy Haley
+106,841,715
+224,736,489
+40,608,538
+Nominee
+For
+Withheld
+Broker Non-Votes
+Leslie Kilgore
+256,888,302
+74,689,902
+40,608,538
+Nominee
+For
+Withheld
+Broker Non-Votes
+Strive Masiyiwa
+312,883,408
+18,694,796
+40,608,538
+Nominee
+For
+Withheld
+Broker Non-Votes
+Anne Mather
+185,962,531
+145,615,673
+40,608,538
+2. Management Proposal Two to declassify the board of directors was approved by the following votes:
+
+For
+Against
+Abstain
+Broker Non-Votes
+330,239,856
+886,263
+452,085
+40,608,538
+3. Management Proposal Three to eliminate supermajority voting provisions was approved by the following votes:
+
+For
+Against
+Abstain
+Broker Non-Votes
+330,293,640
+886,119
+398,445
+40,608,538
+4.
+Management Proposal Four to create a new stockholder right to call a special meeting was approved by the following votes:
+
+For
+Against
+Abstain
+Broker Non-Votes
+330,270,028
+950,494
+357,682
+40,608,538
+5. The proposal to ratify the appointment of Ernst & Young LLP as the Company’s independent registered public accounting firm for the year ending December 31, 2022 was approved by the following votes:
+For
+Against
+Abstain
+368,789,366
+3,026,261
+371,115
+6. The proposal to approve the Company's executive officer compensation on a non-binding advisory basis was not approved by the following votes:
+For
+Against
+Abstain
+Broker Non-Votes
+89,265,430
+241,753,093
+559,681
+40,608,538
+7. The non-binding stockholder proposal entitled, "Proposal 7 - Simple Majority Vote" was approved by the following votes:
+For
+Against
+Abstain
+Broker Non-Votes
+192,921,808
+137,662,980
+993,416
+40,608,538
+8. The non-binding stockholder proposal entitled, "Proposal 5 - Lobbying Activity Report" was approved by the following votes:
+For
+Against
+Abstain
+Broker Non-Votes
+199,195,615
+130,697,414
+1,685,175
+40,608,538
+Item 9.01
+Financial Statements and Exhibits
+(d) Exhibits
+
+Exhibit Number
+Description of Exhibit
+3.1
+Amended and Restated Certificate of Incorporation of Netflix, Inc.
+3.2
+Amended and Restated Bylaws of Netflix, Inc.
+3.3
+Marked Amended and Restated Bylaws of Netflix, Inc.
+104
+Cover Page Interactive Data File (embedded within the inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+NETFLIX, INC.
+Date:
+June 8, 2022
+/s/ David Hyman
+David Hyman
+Chief Legal Officer and Secretary

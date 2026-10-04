@@ -1,0 +1,166 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported):
+May 3, 2021
+
+Merck & Co., Inc.
+
+(Exact name of registrant as specified in its charter)
+
+New Jersey
+
+1-6571
+
+22-1918501
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(I.R.S. Employer
+Identification No.)
+
+2000 Galloping Hill Road
+,
+Kenilworth
+,
+NJ
+
+07033
+
+(Address of principal executive offices)
+
+(Zip code)
+
+(Registrant’s telephone number, including area code):
+(908)
+
+740-4000
+
+Not Applicable
+
+(Former name or former address if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+
+Trading
+Symbol(s)
+
+Name of Each Exchange
+on which Registered
+
+Common Stock ($0.50 par value)
+
+MRK
+
+New York Stock Exchange
+
+1.125% Notes due 2021
+
+MRK/21
+
+New York Stock Exchange
+
+0.500% Notes due 2024
+
+MRK24
+
+New York Stock Exchange
+
+1.875% Notes due 2026
+
+MRK/26
+
+New York Stock Exchange
+
+2.500% Notes due 2034
+
+MRK/34
+
+New York Stock Exchange
+
+1.375% Notes due 2036
+
+MRK36A
+
+New York Stock Exchange
+
+Item 5.04 Temporary Suspension of Trading Under Registrant’s Employee Benefit Plans.
+
+On May 3, 2021, a notification was made regarding a blackout period for the Merck U.S. Savings Plan, the MSD Employee Stock Purchase and Savings Plan, and the MSD Puerto Rico Savings & Security Plan (collectively, the “401(k) plans”). The blackout period relates to the upcoming plan to separate Organon & Co. from Merck & Co., Inc. (the “Company”). During the blackout period, 401(k) plan participants will be unable to direct or diversify investments, obtain a plan loan using assets, obtain a distribution of assets or obtain a full distribution of their account balance, in each case, with respect to the common shares, par value $0.50 per share, of the Company held by the trust for the 401(k) plans in the Merck Common Stock Fund. The blackout period is expected to begin at 4:00 p.m. Eastern Time on June 2, 2021 and to continue through the week of June 7, 2021. The notification described under Section 101(i)(2)(E) of the Employment Retirement Income Security Act of 1974 relating to the blackout period was provided to the Company on May 3, 2021.
+
+On May 5, 2021, the Company sent a notice to its directors and executive officers informing them of the blackout period and stock trading restrictions (including with respect to derivatives) that apply to them during the blackout period. This notice was required pursuant to Section 306 of the Sarbanes-Oxley Act of 2002 and Section 104 of Regulation BTR under the Securities Exchange Act of 1934.
+
+A copy of the notice to the directors and executive officers is attached as Exhibit 99.1. During the blackout period and for a period of two years after the ending date of the blackout period, shareholders or other interested parties may obtain, without charge, information about the actual beginning and ending dates of the blackout period by contacting the Company’s Corporate Secretary by telephone at (908)
+740-4000
+or by mail at Corporate Secretary, Merck & Co., Inc., 2000 Galloping Hill Road, Kenilworth, NJ 07033.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit 99.1
+
+Notice to Directors and Executive Officers, dated May 5, 2021
+
+Exhibit 104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Merck & Co., Inc.
+
+Date: May 5, 2021
+
+By:
+
+/s/ Kelly E. W. Grez
+
+Name: Kelly E. W. Grez
+
+Title: Deputy Corporate Secretary

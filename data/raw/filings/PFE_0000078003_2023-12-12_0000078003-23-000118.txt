@@ -1,0 +1,102 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of report (Date of earliest event reported):
+December 7, 2023
+PFIZER INC
+.
+(Exact name of registrant as specified in its charter)
+Delaware
+1-3619
+13-5315170
+(State or other
+(Commission File
+(I.R.S. Employer
+jurisdiction of
+Number)
+Identification No.)
+incorporation)
+
+66 Hudson Boulevard East
+10001-2192
+New York,
+
+New York
+
+(Zip Code)
+(Address of principal executive offices)
+Registrant’s telephone number, including area code:
+(
+212
+)
+733-2323
+
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2 (b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $.05 par value
+PFE
+New York Stock Exchange
+1.000% Notes due 2027
+PFE27
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On December 12, 2023, Pfizer Inc. (“Pfizer” or “the Company”) announced that given the size and geographic scope of Pfizer’s commercial operations and the anticipated close of the acquisition of Seagen Inc. (“Seagen”), the following changes to its commercial operations will become effective on January 1, 2024.
+Pfizer will create an end-to-end business organization called Pfizer Oncology Division, which will integrate certain Oncology Commercial and R&D operations from both Pfizer and Seagen and will be led by Dr. Chris Boshoff, who will become Chief Oncology Officer, Executive Vice President, and continue reporting to Dr. Albert Bourla, Chairman and Chief Executive Officer. Pfizer will split its non-oncology commercial organization into two more focused business divisions: the Pfizer U.S. Commercial Division, which will be led by Aamir Malik, who will become Chief U.S. Commercial Officer, Executive Vice President, and continue reporting to Dr. Bourla, and the Pfizer International Commercial Division, which will be led by Alexandre de Germay, who will join Pfizer as Chief International Commercial Officer, Executive Vice President, and will report to Dr. Bourla. Dr. Boshoff and Messrs. Malik and de Germay’s new roles will be effective December 15, 2023.
+As a result of this reorganization, the role currently held by Angela Hwang, Chief Commercial Officer, Executive Vice President, is being eliminated and she will cease serving in her current role and as a member of the Company’s Executive Leadership Team effective as of December 15, 2023. Ms. Hwang has agreed to assist with the reorganization and transition of her duties and will serve as Advisor to the Chief Executive Officer continuing until a date to be determined. As a result of the elimination of Ms. Hwang’s role, which the Company determined to be an involuntary termination without cause (due to position elimination and reorganization) under the Executive Severance Plan, she will be entitled to severance benefits under the terms and conditions of the Executive Severance Plan. Severance benefits are subject to Ms. Hwang’s execution and non-revocation of a release of claims in favor of the Company and continued compliance with restrictive covenants and her confidentiality obligations. In addition, due to her age and years of service, Ms. Hwang will also be eligible for retirement benefits under the pension and savings plans and retiree medical plan, as well as retirement treatment for her long-term incentive awards in accordance with their terms. All payments and benefits being provided to Ms. Hwang in connection with her departure are consistent with her existing benefit entitlements.
+Item 7.01. Regulation FD Disclosure.
+As previously disclosed, on March 12, 2023, Pfizer entered into an Agreement and Plan of Merger with Seagen, pursuant to which Pfizer will acquire Seagen through a merger (the “Merger”). On December 12, 2023, Pfizer announced that the waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, expired on December 11, 2023. A copy of the press release is attached as Exhibit 99.1 hereto.
+Pfizer and Seagen have now received all required regulatory approvals for the closing of the Merger. Pfizer now expects to complete the Merger on December 14, 2023, subject to the satisfaction of other customary closing conditions.
+Pursuant to General Instruction B.2. to Form 8-K, the information set forth in this Item 7.01, including Exhibit 99.1, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section.
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit No.
+Exhibit Description
+Exhibit 99.1
+Press Release of Pfizer Inc. dated December 12, 2023
+.
+104
+Cover Page Interactive Data File--the cover page XBRL tags are embedded within the Inline XBRL document.
+Cautionary Statement Regarding Forward-Looking Statements
+This current report on Form 8-K contains forward-looking information about, among other topics, Pfizer’s proposed acquisition of Seagen and changes to Pfizer’s commercial organization, that involves substantial risks and uncertainties that could cause actual results to differ materially from those expressed or implied by such statements. Risks and uncertainties include, among other things, risks related to the satisfaction or waiver of the conditions to closing the proposed acquisition in the anticipated timeframe or at all, including the possibility that the proposed acquisition does not close; risks related to the ability to realize the anticipated benefits of the proposed acquisition, including the possibility that the expected benefits from the acquisition will not be realized or will not be realized within the expected time period; the risk that the businesses will not be integrated
+successfully; disruption from the transaction making it more difficult to maintain business and operational relationships; negative effects of the consummation of the proposed acquisition on the market price of Pfizer’s common stock and/or operating results; significant transaction costs; unknown liabilities; the risk of litigation and/or regulatory actions related to the proposed acquisition or Seagen’s business; risks related to the financing of the transaction; the impact of and risks and uncertainties related to internal reorganizations, as well as any other corporate strategic initiatives and growth strategies, and cost-reduction and productivity initiatives, each of which requires upfront costs but may fail to yield anticipated benefits and may result in unexpected costs, organizational disruption or other unintended consequences; uncertainties regarding the impact of COVID-19; other business effects and uncertainties; and competitive developments.
+A further description of risks and uncertainties can be found in Pfizer’s Annual Report on Form 10-K for the fiscal year ended December 31, 2022 and in its subsequent reports on Form 10-Q, including in the sections thereof captioned “Risk Factors” and “Forward-Looking Information and Factors That May Affect Future Results”, as well as in its subsequent reports on Form 8-K, all of which are filed with the U.S. Securities and Exchange Commission and available at www.sec.gov and www.pfizer.com.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+PFIZER INC.
+
+By:
+/s/ Margaret M. Madden
+
+Margaret M. Madden
+
+Senior Vice President and Corporate Secretary
+
+Chief Governance Counsel
+
+Dated: December 12, 2023

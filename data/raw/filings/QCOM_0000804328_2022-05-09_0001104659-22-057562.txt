@@ -1,0 +1,226 @@
+UNITED STATES
+
+SECURITIES AND
+EXCHANGE COMMISSION
+
+Washington, D.C.
+20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section
+13 or 15(d) of
+
+the Securities
+Exchange Act of 1934
+
+May 5, 2022
+
+Date of Report
+(Date of earliest event reported)
+
+QUALCOMM Incorporated
+
+QUALCOMM INC/DE
+
+(Exact name of
+registrant as specified in its charter)
+
+Delaware
+
+(State or other jurisdiction
+of incorporation)
+
+000-19528
+
+95-3685934
+
+(Commission
+File Number)
+
+(IRS
+Employer Identification No.)
+
+5775
+Morehouse Drive
+,
+San
+Diego
+,
+CA
+
+92121
+
+(Address
+of principal executive offices)
+
+(Zip
+Code)
+
+858
+-
+587-1121
+
+(Registrant’s
+telephone number, including area code)
+
+Check the appropriate
+box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered
+pursuant to Section 12(b) of the Act:
+
+Title
+of each class
+
+Trading
+Symbol(s)
+
+Name
+of each exchange on which registered
+
+Common Stock, $0.0001 par value
+
+QCOM
+
+Nasdaq Stock Market
+
+Indicate by check mark
+whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging
+growth company
+¨
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+On May 9, 2022, QUALCOMM Incorporated (the
+Company) executed an Officers’ Certificate (the Officers’ Certificate), in accordance with Sections 2.02, 2.03, 10.04 and
+10.05 of the Indenture dated May 20, 2015 (the Base Indenture and, together with the Officers’ Certificate, the Indenture)
+between the Company and U.S. Bank Trust Company, National Association (as successor in interest to U.S. Bank National Association), as
+trustee (the Trustee), in connection with the sale of $500,000,000 in aggregate principal amount of the Company’s 4.250% Notes due
+2032 (the 2032 Notes) and $1,000,000,000 in aggregate principal amount of the Company’s 4.500% Notes due 2052 (the 2052 Notes and,
+together with the 2032 Notes, the Notes). The 2032 Notes mature on May 20, 2032 and the 2052 Notes mature on May 20, 2052, unless
+earlier repurchased or redeemed, if applicable. The Notes are the Company’s senior unsecured obligations and rank equally with the
+Company’s other senior debt from time to time outstanding.
+
+The
+
+2032 Notes will bear interest at the rate of 4.250% per year and the 2052 Notes will bear interest at the rate of 4.500% per year.
+Interest on the Notes will be payable semiannually on May 20 and November 20 of each year, beginning on November 20, 2022.
+The Company will make each interest payment to the holders of record on the immediately preceding May 1 or November 1, respectively.
+
+The Company may redeem some or all of the notes
+of each series of Notes at the applicable redemption price, as described in the applicable form of Note.
+
+The Indenture contains customary events of default
+with respect to the Notes, including failure to make required payments, failure to comply with certain agreements or covenants, and certain
+events of bankruptcy and insolvency. Events of default under the Indenture arising from certain events of bankruptcy or insolvency will
+automatically cause the acceleration of the amounts due under the Notes. If any other event of default under the Indenture occurs and
+is continuing, the Trustee or the holders of at least 25% in aggregate principal amount of the then outstanding Notes may declare the
+acceleration of the amounts due under the Notes.
+
+The foregoing description of the Notes and the
+Indenture is qualified in its entirety by reference to the full text of the Indenture, which is incorporated herein by reference to Exhibit 4.1
+to the Company’s
+Current Report on Form 8-K filed with the Securities and Exchange Commission (SEC) on May 21, 2015,
+the Officers’ Certificate,
+which is included as Exhibit 4.2 to this report, and the forms of Notes, which are included as Exhibits 4.3 and 4.4 to this report,
+and each of which is incorporated into this Current Report on Form 8-K.
+
+Item 8.01. Other Events.
+
+On
+
+May 5, 2022, the Company entered into an underwriting agreement (the Underwriting Agreement) with BofA Securities, Inc., Citigroup
+Global Markets Inc., Goldman Sachs & Co. LLC and J.P. Morgan Securities LLC, on behalf of the several Underwriters listed in
+Schedule I thereto (the Underwriters), pursuant to which the Company agreed to issue and sell the Notes to the Underwriters in a registered
+public offering (the Offering). The Offering was pursuant to the Company’s shelf registration statement on
+Form S-3 (Registration File No. 333-258239), filed with the SEC on July 29, 2021.
+For a complete description of the
+terms and conditions of the Underwriting Agreement, please refer to the Underwriting Agreement, which is filed as Exhibit 1.1 hereto,
+and is incorporated herein by reference.
+
+1
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit No
+
+Description
+
+1.1
+
+Underwriting Agreement, dated May 5, 2022, among QUALCOMM Incorporated, BofA Securities, Inc., Citigroup Global Markets Inc., Goldman Sachs & Co. LLC and J.P. Morgan Securities LLC
+
+4.1
+
+Indenture, dated May 20, 2015, between QUALCOMM Incorporated and U.S. Bank Trust Company, National Association (as successor in interest to U.S. Bank National Association), as trustee (incorporated herein by reference to Exhibit 4.1 to QUALCOMM Incorporated’s Current Report on Form 8-K filed with the SEC on May 21, 2015)
+
+4.2
+
+Officers’ Certificate, dated May 9, 2022, for the 20
+32 Notes and the 2052 Notes
+
+4.3
+
+Form of 20
+32 Notes
+
+4.4
+
+Form of 20
+52 Notes
+
+5.1
+
+Opinion of Cravath, Swaine & Moore LLP, relating to the Notes (including the consent required with respect thereto)
+
+104
+
+Cover Page Interactive Data File, formatted in Inline XBRL and included as Exhibit 101
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+QUALCOMM Incorporated
+
+Date: May 9, 2022
+
+By:
+
+/s/ Akash Palkhiwala
+
+Akash Palkhiwala
+
+Chief Financial Officer

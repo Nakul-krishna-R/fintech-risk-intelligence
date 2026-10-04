@@ -1,0 +1,354 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+DATE OF REPORT (Date of earliest event reported):
+July 26, 2021
+
+Linde plc
+
+(Exact name of registrant as specified in its charter)
+
+Ireland
+
+001-38730
+
+98-1448883
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(I.R.S. Employer
+Identification No.)
+
+10 Riverview Dr.
+
+Danbury
+,
+Connecticut
+United States
+
+06810
+
+The Priestley Centre
+10 Priestley Road
+Surrey Research Park
+Guildford
+, Surrey
+GU2 7XY
+United Kingdom
+(Address of principal executive offices) (Zip Code)
+
++
+44
+
+1483 242200
+(Registrant’s telephone numbers, including area code)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading symbol(s)
+
+Name of each exchange on which registered
+Ordinary shares (€0.001 nominal value per share)
+
+LIN
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ITEM 5.07 Submission of Matters to a Vote of Security Holders
+
+The Annual General Meeting of Shareholders of Linde plc was held on July 26, 2021 (the “AGM”), at which shareholders voted upon the items set forth below. The total number of shares that were present or represented by proxy at the Annual Meeting was 410,049,926, which was 78.08% of the shares outstanding and entitled to vote and which constituted a quorum. The final voting results of the items submitted to a vote of the shareholders are set forth below.
+
+Proposal 1
+
+The twelve nominees for election as a director were elected to serve until the 2022 annual general meeting of shareholders and until his or her successor is elected and qualified. The vote results were as follows:
+
+Director Nominees
+Shares For
+Shares Against
+Shares Abstained
+Broker Non-Votes
+% of Votes
+Cast For
+Prof. Dr. Wolfgang Reitzle
+368,999,057
+26,957,840
+214,183
+13,878,846
+93.19%
+Stephen F. Angel
+383,851,034
+12,000,457
+319,589
+13,878,846
+96.97%
+Prof DDr. Ann-Kristin Achleitner
+382,070,375
+13,063,863
+1,036,842
+13,878,846
+96.69%
+Prof. Dr. Clemens A.H. Börsig
+365,933,586
+30,010,215
+227,279
+13,878,846
+92.42%
+Dr. Nance K. Dicciani
+378,563,840
+17,387,124
+220,116
+13,878,846
+95.61%
+Dr. Thomas Enders
+392,526,281
+3,418,138
+226,661
+13,878,846
+99.14%
+Franz Fehrenbach
+382,687,210
+13,226,052
+257,818
+13,878,846
+96.66%
+Edward G. Galante
+371,351,607
+24,557,528
+261,945
+13,878,846
+93.80%
+Larry D. McVay
+374,081,859
+21,820,969
+268,252
+13,878,846
+94.49%
+Victoria E. Ossadnik
+390,051,402
+5,709,213
+410,465
+13,878,846
+98.56%
+Prof. Dr. Martin H. Richenhagen
+381,794,416
+14,130,986
+245,678
+13,878,846
+96.43%
+Robert L. Wood
+368,233,358
+25,935,700
+2,002,022
+13,878,846
+93.42%
+
+Proposal 2a
+
+Shareholders ratified, on an advisory and non-binding basis, the appointment of PricewaterhouseCoopers (“PWC”) as the independent auditor by the votes set forth below.
+
+Shares Voted For
+
+Shares Voted Against
+
+Shares Abstained
+
+Broker Non-Votes
+377,707,666
+
+32,082,275
+
+259,985
+
+N/A
+(92.11% of votes cast)
+
+(7.82% of votes cast)
+
+2
+
+Proposal 2b
+
+Shareholders approved the authorization of the Board, acting through the Audit Committee, to determine PWC’s remuneration by the votes set forth below.
+
+Shares Voted For
+
+Shares Voted Against
+
+Shares Abstained
+
+Broker Non-Votes
+398,945,978
+
+10,635,038
+
+468,910
+
+N/A
+(97.29% of votes cast)
+
+(2.59% of votes cast)
+
+Proposal 3
+
+Shareholders approved, on an advisory and non-binding basis, the compensation of Linde plc’s Named Executive Officers as disclosed in the 2021 proxy statement by the votes set forth below.
+
+Shares Voted For
+
+Shares Voted Against
+
+Shares Abstained
+
+Broker Non-Votes
+368,554,600
+
+27,153,191
+
+463,289
+
+13,878,846
+(93.03% of votes cast)
+
+(6.62% of votes cast)
+
+Proposal 4
+
+Shareholders approved, on an advisory and on-binding basis, the Linde plc Directors’ Remuneration Policy as disclosed in the 2021 proxy statement by the votes set forth below.
+
+Shares Voted For
+
+Shares Voted Against
+
+Shares Abstained
+
+Broker Non-Votes
+374,262,022
+
+19,903,240
+
+2,005,818
+
+13,878,846
+(94.47% of votes cast)
+
+(4.85% of votes cast)
+
+Proposal 5
+
+Shareholders approved, on an advisory and non-binding basis, the Directors’ Remuneration Report (excluding the Directors’ Remuneration Policy) as set forth in the Linde plc IFRS Annual Report for the financial year ended December 31, 2020 by the votes set forth below.
+
+Shares Voted For
+
+Shares Voted Against
+
+Shares Abstained
+
+Broker Non-Votes
+371,365,133
+
+24,309,603
+
+496,344
+
+13,878,846
+(93.74% of votes cast)
+
+(5.93% of votes cast)
+
+Proposal 6
+
+Shareholders approved the 2021 Linde plc Long Term Incentive Plan by the votes set forth below.
+
+Shares Voted For
+
+Shares Voted Against
+
+Shares Abstained
+
+Broker Non-Votes
+369,659,704
+
+26,100,457
+
+410,919
+
+13,878,846
+(93.31% of votes cast)
+
+(6.37% of votes cast)
+
+Proposal 7
+
+Shareholders approved the determination of the price range at which Linde plc can re-allot shares that it acquires as treasury shares under Irish law as disclosed in the 2021 proxy statement by the votes set forth below.
+
+Shares Voted For
+
+Shares Voted Against
+
+Shares Abstained
+
+Broker Non-Votes
+407,563,778
+
+1,042,507
+
+1,443,641
+
+N/A
+(99.39% of votes cast)
+
+(0.25% of votes cast)
+
+3
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+LINDE PLC
+
+By:
+/s/ Guillermo Bichara
+
+Name:
+Guillermo Bichara
+
+Title:
+General Counsel
+
+Date: July 28, 2021
+
+4

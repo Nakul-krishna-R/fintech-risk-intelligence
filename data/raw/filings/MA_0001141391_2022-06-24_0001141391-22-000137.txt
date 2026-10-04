@@ -1,0 +1,259 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+_______________________________________
+FORM
+8-K
+
+_______________________________________
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+June 21, 2022
+_______________________________________
+Mastercard Incorporated
+(Exact name of registrant as specified in its charter)
+
+_______________________________________
+Delaware
+001-32877
+13-4172551
+(State or other jurisdiction
+of incorporation)
+(Commission File
+Number)
+(IRS Employer
+Identification No.)
+2000 Purchase Street
+10577
+Purchase,
+NY
+(Address of principal executive offices)
+(Zip Code)
+(914)
+249-2000
+(Registrant's telephone number, including area code)
+NOT APPLICABLE
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange of which registered
+Class A common stock
+MA
+New York Stock Exchange
+1.1% Notes due 2022
+MA22
+New York Stock Exchange
+2.1% Notes due 2027
+MA27
+New York Stock Exchange
+1.0% Notes due 2029
+MA29A
+New York Stock Exchange
+2.5% Notes due 2030
+MA30
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+1
+Item 5.03 Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+On June 21, 2022 at the 2022 annual meeting of stockholders (the “Annual Meeting”) of Mastercard Incorporated (the “Company”), the holders of the Company’s Class A common stock, par value $0.0001 (“Class A common stock”), approved the amendment and restatement of the Company’s certificate of incorporation (the “Amended and Restated Certificate of Incorporation”) to enable the adoption of a stockholders' right to call special meetings of stockholders.
+On June 21, 2022, the Company filed the Amended and Restated Certificate of Incorporation with the Secretary of State in the form previously attached to, and as described in, the Company’s proxy statement, dated April 29, 2022, in connection with the Annual Meeting (the “Proxy Statement”).
+Also on June 21, 2022, the Company’s amended and restated bylaws (the “Amended and Restated By-Laws”), in the form described in the Proxy Statement, became effective. The Amended and Restated By-Laws have been amended to
+require that the Company call a special meeting of the stockholders on the direction of the Board, the Chairman of the Board, or the Chief Executive Officer of the Company, or upon written request of one or more stockholders who:
+
+•
+own shares representing at least 15% of the voting power of all outstanding shares of the Company's Class A common stock for at least one year; and
+•
+comply with the other applicable requirements and procedures set forth in the Amended and Restated By-Laws from time to time.
+The foregoing summaries do not purport to be complete and are qualified in their entirety by reference to the Amended and Restated Certificate of Incorporation and the Amended and Restated By-Laws, which are attached as Exhibit 3.1 and Exhibit 3.2 to this Current Report, respectively, and are incorporated herein by reference as though they were fully set forth herein.
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+Holders of Class A common stock at the close of business on April 22, 2022 (the “Record Date”) were entitled to vote at the Annual Meeting. A total of 857,852,233 shares of Class A common stock, constituting a quorum, were represented in person or by proxy at the Annual Meeting. The votes cast with respect to the matters voted upon at the Annual Meeting are set forth below:
+1. The holders of Class A common stock elected the following individuals to serve on the Board as directors for a one-year term expiring on the date of Mastercard’s 2023 annual meeting of stockholders:
+Director
+For
+Against
+Abstain
+Broker
+Non-Votes
+Merit E. Janow
+794,280,058
+15,308,645
+715,102
+47,548,428
+Candido Bracher
+808,841,229
+900,743
+561,833
+47,548,428
+Richard K. Davis
+796,023,059
+13,728,067
+552,679
+47,548,428
+Julius Genachowski
+783,433,531
+26,314,645
+555,629
+47,548,428
+Choon Phong Goh
+763,207,520
+46,369,799
+726,486
+47,548,428
+Oki Matsumoto
+799,477,493
+10,265,733
+560,579
+47,548,428
+Michael Miebach
+807,576,098
+2,171,986
+555,721
+47,548,428
+Youngme Moon
+799,946,119
+9,801,259
+556,427
+47,548,428
+Rima Qureshi
+798,347,934
+11,420,087
+535,784
+47,548,428
+Gabrielle Sulzberger
+791,741,076
+17,829,063
+733,666
+47,548,428
+Jackson Tai
+786,543,863
+23,027,505
+732,437
+47,548,428
+Harit Talwar
+808,793,940
+932,154
+577,711
+47,548,428
+Lance Uggla
+803,809,418
+5,936,171
+558,216
+47,548,428
+2
+2. The holders of Class A common stock approved Mastercard’s executive compensation on an advisory basis:
+For
+Against
+Abstain
+Broker
+Non-Votes
+770,400,431
+38,464,478
+1,438,896
+47,548,428
+3. The holders of Class A common stock ratified the appointment of PricewaterhouseCoopers LLP as Mastercard’s independent registered public accounting firm for 2022:
+For
+Against
+Abstain
+Broker
+Non-Votes
+814,350,496
+42,733,736
+768,001
+N/A
+4. The holders of Class A common stock approved the amendments to the Certificate of Incorporation to enable a stockholders' right to call special meetings of stockholders:
+For
+Against
+Abstain
+Broker
+Non-Votes
+797,711,963
+11,976,915
+614,927
+47,548,428
+5.
+
+The holders of Class A common stock did not approve the stockholder proposal on the right to call special meetings of stockholders:
+For
+Against
+Abstain
+Broker
+Non-Votes
+262,000,145
+544,302,636
+4,001,024
+47,548,428
+6. The holders of Class A common stock did not approve the stockholder proposal requesting Board approval of certain political contributions:
+For
+Against
+Abstain
+Broker
+Non-Votes
+81,634,570
+719,224,957
+9,444,278
+47,548,428
+7. The holders of Class A common stock did not approve the stockholder proposal requesting charitable donation disclosure:
+For
+Against
+Abstain
+Broker
+Non-Votes
+16,588,257
+787,274,087
+6,441,461
+47,548,428
+8. The holders of Class A common stock did not approve the stockholder proposal requesting a report on "ghost guns":
+For
+Against
+Abstain
+Broker
+Non-Votes
+82,828,344
+719,244,965
+8,230,496
+47,548,428
+3
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit Number
+Exhibit Description
+3.1
+Amended and Restated Certificate of Incorporat
+ion
+of Mastercard Incorporated
+3.2
+Amended and Restated By-Laws of Mastercard Incorporated
+4
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+MASTERCARD INCORPORATED
+Date:
+June 24, 2022
+By:
+/s/ Craig Brown
+Craig Brown
+Assistant Corporate Secretary
+5

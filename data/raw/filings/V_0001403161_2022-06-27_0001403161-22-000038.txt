@@ -1,0 +1,96 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+June 23, 2022
+
+VISA INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+Delaware
+
+001-33977
+
+26-0267673
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+Identification No.)
+
+P.O. Box 8999
+
+San Francisco,
+California
+
+94128-8999
+(Address of Principal Executive Offices)
+(Zip Code)
+Registrant’s Telephone Number, Including Area Code: (
+650
+)
+432-3200
+
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Class A Common Stock, par value $0.0001 per share
+V
+New York Stock Exchange
+1.500% Senior Notes due 2026
+V26
+New York Stock Exchange
+2.000% Senior Notes due 2029
+V29
+New York Stock Exchange
+2.375% Senior Notes due 2034
+V34
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.02
+Departure of Directors or Certain Officers: Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On June 27, 2022, Visa Inc. (the “Company”) announced that on June 23, 2022, James Hoffmeister, Senior Vice President,
+Global Corporate Controller and Chief Accounting Officer, tendered his resignation, effective July 1, 2022. Mr. Hoffmeister will transition to the role of Chief Financial Officer of Visa Europe Limited on July 1, 2022.
+The Company also announced that on June 23, 2022, Peter Andreski, age 49, was appointed as Senior Vice President, Global Corporate Controller and Chief Accounting Officer of the Company, effective July 1, 2022. Mr. Andreski has served as Senior Vice President, Global Head of Revenue Operations of the Company since June 2019. Prior to Visa, Mr. Andreski held a variety of accounting and finance leadership positions with the Boeing Company, ABB Ltd. and Deloitte & Touche. Mr. Andreski earned a Bachelor of Science degree in Business Administration - Accounting from the University of Nebraska in 1995 and a Master of Business Administration degree from the University of Washington in 2012. He is a certified public accountant in the state of Washington.
+In connection with this appointment, Mr. Andreski will receive an annual base salary of $450,000 and will be eligible to participate in the Visa Inc. Incentive Plan with a target opportunity of 65% and a maximum opportunity of 130% of his annual base salary. Mr. Andreski will also be eligible to participate in the Company’s long-term incentive plan. Mr. Andreski’s target long-term incentive value will be $500,000, with his actual grant value determined at the conclusion of each fiscal year based on an evaluation of his performance. Any long-term incentive award will be subject to the terms and conditions, including vesting requirements, of the Company’s 2007 Equity Incentive Compensation Plan, as amended, and the individual award agreement corresponding to the award.
+The Company intends to enter into its standard form of indemnification agreement with Mr. Andreski. There are no arrangements or understandings between Mr. Andreski and any other persons pursuant to which he was selected as an officer, he has no family relationships with any of the Company’s directors or executive officers, and he has no direct or indirect material interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation S-K.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VISA INC.
+
+Date:
+June 27, 2022
+
+By:
+
+/s/ Vasant M. Prabhu
+
+Vasant M. Prabhu
+Vice Chair, Chief Financial Officer

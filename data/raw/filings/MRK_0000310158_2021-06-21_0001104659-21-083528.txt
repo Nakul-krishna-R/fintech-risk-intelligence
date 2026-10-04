@@ -1,0 +1,233 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of
+
+the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)
+
+June 21, 2021
+
+Merck & Co., Inc.
+
+(Exact name of registrant as specified in
+its charter)
+
+New Jersey
+
+(State or other jurisdiction
+
+of incorporation)
+
+1-6571
+
+(Commission
+
+File Number)
+
+22-1918501
+
+(I.R.S Employer
+
+Identification No.)
+
+2000 Galloping Hill Road
+
+Kenilworth
+
+New Jersey
+
+(Address of principal executive offices)
+
+07033
+
+(Zip Code)
+
+(Registrant’s telephone number, including
+area code)
+(
+908
+)
+740-4000
+
+Not Applicable
+
+(Former name, former address and former fiscal year, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+¨
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock
+($0.50 par value)
+
+MRK
+
+New York Stock Exchange
+
+1.125% Notes due 2021
+
+MRK/21
+
+New York Stock Exchange
+
+0.500% Notes due 2024
+
+MRK 24
+
+New York Stock Exchange
+
+1.875% Notes due 2026
+
+MRK/26
+
+New York Stock Exchange
+
+2.500% Notes due 2034
+
+MRK/34
+
+New York Stock Exchange
+
+1.375% Notes due 2036
+
+MRK 36A
+
+New York Stock Exchange
+
+Item 7.01 Regulation FD Disclosure.
+
+On June 2, 2021, Merck & Co., Inc. (Merck)
+completed the spinoff of products from its women’s health, biosimilars and established brands businesses into a new, independent,
+publicly traded company named Organon & Co. (Organon) through a distribution of Organon’s publicly traded stock to Merck shareholders.
+Attached as Exhibit 99.1 hereto are consolidated statements of income that recast the sales and expenses of the businesses that were
+contributed to Organon in the spinoff as discontinued operations for the first quarter of 2021, each quarter and full year of 2020, and
+full-year 2019. Also included in Exhibit 99.1 are reconciliations of certain financial information prepared in accordance with generally
+accepted accounting principles in the United States (GAAP) to non-GAAP financial information on a continuing operations basis for these
+same periods.
+
+As previously disclosed, when Merck reported
+first quarter earnings on April 29, 2021, Merck stated that its operating margin on a continuing operations basis would be slightly
+lower in 2021 versus what it was prior to the spinoff due to the higher relative profitability of the Organon products within Merck’s
+portfolio and the absorption of certain overhead costs that Merck would continue to incur after the spinoff. Merck indicated that the
+operating margin for the Organon products within Merck was approximately 45%. In addition, Merck also disclosed at that time that it
+would continue to incur overhead costs of approximately $400 million annually that were previously allocated to the Organon products,
+and that these costs were expected to be reduced over time. Finally, Merck disclosed that it expected to achieve operating efficiencies
+as a result of the spinoff of approximately $500 million in 2021, which were factored into Merck’s full year financial outlook
+provided in February 2021 and reiterated by Merck in April.
+
+The recast consolidated statements of income on
+a continuing operations, non-GAAP basis for the first quarter of 2021 reflect the following as compared with the originally reported figures
+which included both Merck and Organon:
+
+o
+
+Sales of $10.6 billion, which exclude $1.5 billion of Organon product sales;
+
+o
+
+Gross margin of 76.6%, an increase of 0.9% reflecting lower gross margins on the revenue associated with the Organon products;
+
+o
+
+Operating expenses are 42.9% of sales, an increase of 2.8% reflecting lower operating expenses on the revenue associated with the Organon products;
+
+o
+
+Operating margin of 33.7%, a decrease of 1.8% reflecting higher operating margins on the revenue associated with the Organon products relative to the overall Merck product portfolio, as well as overhead costs that Merck is continuing to incur that were not allocated to discontinued operations;
+
+o
+A de minimis impact to other income and expense; and
+
+o
+A tax rate of 14.3%, an increase of 0.2%.
+
+The
+recast
+consolidated statements of income on a continuing operations basis and the financial information contained herein
+are
+for informational purposes only. They do not necessarily reflect the results that would have been reported had the spinoff actually
+been completed prior to the periods presented and are not necessarily indicative of future results.
+
+Merck intends to provide detailed financial guidance
+with its second quarter earnings release scheduled for July 29, 2021. Merck will reflect the impact of the spinoff on its consolidated
+statement of cash flows and consolidated balance sheet beginning with its second quarter Form 10-Q.
+
+This
+information, including the information reflected in
+Exhibit 99.1,
+is not
+deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act),
+or otherwise subject to the liabilities of that Section, and is not incorporated by reference into a filing under the Securities Act of
+1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d)
+Exhibits
+
+Exhibit 99.1
+
+Historical Financial Information Reflecting Spinoff of Organon &
+Co.
+
+Exhibit 104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Merck & Co., Inc.
+
+Date: June 21, 2021
+
+By:
+
+/s/ Kelly E. W. Grez
+
+Kelly E. W. Grez
+
+Deputy Corporate Secretary

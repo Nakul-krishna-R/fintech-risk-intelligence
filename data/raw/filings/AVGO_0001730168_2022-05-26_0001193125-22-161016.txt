@@ -1,0 +1,287 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported):
+May 26, 2022
+
+Broadcom Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+Delaware
+
+001-38449
+
+35-2617337
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+1320 Ridder Park Drive
+,
+
+San Jose
+,
+California
+
+95131-2313
+
+(Address of principal executive offices including zip code)
+
+(408)
+
+433-8000
+
+(Registrant’s telephone number, including area code)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☒
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+
+Trading
+
+Symbol(s)
+
+Name of Each Exchange
+
+on Which Registered
+
+Common Stock, $0.001 par value
+
+AVGO
+
+The NASDAQ Global Select Market
+
+8.00% Mandatory Convertible Preferred Stock, Series A, $0.001 par value
+
+AVGOP
+
+The NASDAQ Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+As previously announced, on May 26, 2022, Broadcom Inc., a Delaware corporation (the “Company” or “Broadcom”), entered into an Agreement and Plan of Merger (the “Merger Agreement”) with VMware, Inc. (“VMware”), a Delaware corporation, Verona Holdco, Inc. a Delaware corporation and a direct wholly owned subsidiary of VMware (“Holdco”), Verona Merger Sub, Inc., a Delaware corporation and a direct wholly owned subsidiary of Holdco (“Merger Sub 1”), Barcelona Merger Sub 2, Inc., a Delaware corporation and a direct wholly owned subsidiary of the Company (“Merger Sub 2”), and Barcelona Merger Sub 3, LLC, a Delaware limited liability company and a direct wholly owned subsidiary of the Company (“Merger Sub 3”). The Merger Agreement provides that, upon the terms and subject to the conditions set forth therein, (i) Merger Sub 1 will be merged with and into VMware (the “First Merger”), with VMware continuing as the surviving corporation in the First Merger (the “Surviving Company”) and becoming a wholly owned subsidiary of HoldCo; (ii) following the First Merger, the Surviving Company will be converted from a Delaware corporation into a Delaware limited liability company (the “Conversion”); (iii) following the Conversion, Merger Sub 2 will be merged with and into Holdco (the “Second Merger”), with Holdco continuing as the surviving corporation in the Second Merger (the “Holdco Surviving Company”) and becoming a wholly owned subsidiary of Broadcom; and (iv) following the Second Merger, the Holdco Surviving Company will be merged with and into Merger Sub 3 (the “Third Merger,” and together with the First Merger, the Conversion and the Second Merger, the “Transactions”), with Merger Sub 3 continuing as the surviving limited liability company and as a wholly owned subsidiary of Broadcom.
+
+As a result of the Transactions, each share of Class A common stock, par value $0.01 per share, of VMware (“VMware Common Stock”) issued and outstanding immediately prior to the effective time of the Mergers will be indirectly converted into the right to receive, at the election of the holder of such share of VMware Common Stock, and subject to proration in accordance with the Merger Agreement as described below: (a) $142.50 per share in cash, without interest, or (b) 0.25200 shares of common stock, par value $0.001 per share, of Broadcom (“Broadcom Common Stock”). The shareholder election will be subject to a proration mechanism, such that the total number of shares of VMware Common Stock entitled to receive the Cash Consideration, and the total number of shares of VMware Common Stock entitled to receive the Stock Consideration, will, in each case, be equal to 50% of the aggregate number of shares of VMware Common Stock issued and outstanding immediately prior to the effective time of the Mergers.
+
+Effective upon the effective time of the Second Merger, one member of the VMware board of directors, to be mutually agreed by VMware and Broadcom, will be added to Broadcom’s board of directors.
+
+Each of VMware, Holdco and Merger Sub 1 has made customary representations, warranties and covenants in the Merger Agreement. Each of Broadcom, Merger Sub 2 and Merger Sub 3 also has made customary representations, warranties and covenants in the Merger Agreement.
+
+Until 11:59 p.m. Pacific time on July 5, 2022, VMware and its subsidiaries and their respective representatives will have the right to solicit any acquisition proposal and any proposal, inquiry or offer that could reasonably be expected to lead to, result in or constitute an acquisition proposal, including providing information regarding VMware to any person pursuant to an acceptable confidentiality agreement, and engaging in discussions or negotiations with respect to such acquisition proposal. From and after 11:59 p.m. Pacific time on July 5, 2022, VMware must comply with
+customary non-solicitation restrictions.
+Subject to certain customary “fiduciary out” exceptions, the VMware board of directors is required to recommend that VMware’s stockholders adopt the Merger Agreement.
+
+Consummation of the Transactions, which is expected to be in Broadcom’s fiscal year 2023, is subject to the satisfaction or waiver of customary closing conditions, including (i) adoption of the Merger Agreement by VMware stockholders, (ii) the expiration or termination of the waiting period under the United States Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, and clearance under the antitrust laws of the European Union and certain other jurisdictions, (iii) the receipt by VMware of a tax opinion to the effect that (a) the First Merger and the Conversion, taken together, and (b) the Second Merger and the Third Merger, taken together, will each qualify for federal income tax purposes as a “reorganization” within the meaning of Section 368(a) of the Internal Revenue Code of 1986, as amended, (iv) the absence of certain orders or laws preventing consummation of the Transactions, (v) the effectiveness of the registration statement on Form
+S-4
+to be filed by Broadcom with the U.S. Securities and Exchange Commission (the “SEC”) in connection with the Transactions and (vi) the authorization for listing on Nasdaq of the shares of Broadcom Common Stock to be issued in connection with the Second Merger. The obligation of each party to consummate the Transactions is also subject to other customary closing conditions, including, among others, the absence of a material adverse effect with respect
+
+to the other party, the accuracy of the other party’s representations and warranties, subject to certain materiality standards set forth in the Merger Agreement and compliance in all material respects with the other party’s obligations under the Merger Agreement.
+
+The Merger Agreement contains termination rights for either or each of Broadcom and VMware, including, among others:
+
+•
+
+by either party if the consummation of the Transactions does not occur on or before February 26, 2023, subject to three extensions of three months each (at either Broadcom or VMware’s election) if on such date all of the closing conditions except those relating to regulatory approvals have been satisfied or waived;
+
+•
+
+by either party if the Merger Agreement is not adopted by VMware’s stockholders;
+
+•
+
+by Broadcom if the VMware board of directors changes its recommendation that VMware’s stockholders adopt the Merger Agreement or VMware willfully breaches in a material respect its
+non-solicitation
+covenants; and
+
+•
+
+subject to the requirements of the Merger Agreement, by VMware if it wishes to terminate the Merger Agreement to enter into a definitive agreement with respect to a Superior Proposal (as such term is defined in the Merger Agreement).
+
+Upon termination of the Merger Agreement under certain specified circumstances, including by VMware to enter into a definitive agreement with respect to a Superior Proposal in accordance with the terms of the Merger Agreement, VMware will be required to pay Broadcom a termination fee in the amount of $1.5 billion, unless VMware terminates the Merger Agreement in order to enter into a definitive agreement with respect to a Superior Proposal prior to 11:59 p.m. Pacific time on July 5, 2022, in which case VMware will be required to pay Broadcom a lower termination fee in the amount of $750 million. Upon termination of the Merger Agreement under specified circumstances, including the termination by either party because certain required regulatory clearances are not obtained before the Outside Date, Broadcom would be required to pay VMware a termination fee of $1.5 billion.
+
+The foregoing summary of the Merger Agreement and the transactions contemplated thereby does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Merger Agreement attached hereto as Exhibit 2.1 and incorporated herein by reference.
+
+The Merger Agreement has been attached as an exhibit hereto to provide investors with information regarding its terms. It is not intended to provide any other factual information about Broadcom, Merger Sub 2, Merger Sub 3, VMware, Holdco or Merger Sub 1, their respective businesses, or the actual conduct of their respective businesses during the period prior to the consummation of the Transactions. The representations, warranties and covenants contained in the Merger Agreement were made only for purposes of the Merger Agreement as of the specific dates therein, were solely for the benefit of the parties to the Merger Agreement, may be subject to limitations agreed upon by the contracting parties, including being qualified by confidential disclosures made for the purposes of allocating contractual risk between the parties to the Merger Agreement instead of establishing these matters as facts, and may be subject to standards of materiality applicable to the contracting parties that differ from those applicable to investors. Accordingly, the representations and warranties may not describe the actual state of affairs as of the date they were made or at any other time and investors should not rely on them as statements of fact.
+
+Item 8.01
+
+Other Events.
+
+MSD Voting Agreement
+
+In connection with the execution of the Merger Agreement, Michael S. Dell and Susan Lieberman Dell Separate Property Trust (collectively, the “MSD Stockholders”) have entered into a Voting Agreement, dated as of May 26, 2022, with Broadcom (the “MSD Voting Agreement”). Subject to the terms and conditions of the MSD Voting Agreement, the MSD Stockholders have agreed, among other things, to vote all of the shares of VMware Common Stock held by them (representing in the aggregate approximately 40.2% of the total outstanding shares of VMware Common Stock) in favor of the adoption of the Merger Agreement, and, subject to certain exceptions, not to transfer their shares of VMware Common Stock. Except for certain obligations set forth therein, the MSD Voting Agreement will terminate upon the earliest of (i) the termination of the Merger Agreement in accordance with its terms and (ii) the MSD Stockholders delivering written notice to Broadcom that it is terminating the MSD Voting Agreement at any time following (A) a change of recommendation of the VMware board of directors that VMware’s stockholders adopt the Merger Agreement or (B) an amendment or notification that alters or changes the amount or form of consideration to be paid to VMware’s stockholders in connection with the Transactions or otherwise amends or modifies the Merger Agreement in a manner adverse in any material respect to the MSD Stockholders.
+
+SLP Voting Agreement
+
+In connection with the execution of the Merger Agreement, Silver Lake Partners IV, L.P. (“SLP IV”), Silver Lake Technology Investors IV, L.P. (“SLTI IV”), Silver Lake Partners V DE (AIV), L.P. (“SLP V”), Silver Lake Technology Investors V, L.P. (“SLTI V”), SL
+SPV-2,
+L.P. (“SL
+SPV-2”),
+and Silver Lake Group, L.L.C. (and together with SLP IV, SLTI IV, SLP V, SLTI V, and SL
+SPV-2,
+the “SLP Stockholders”) have entered into a Voting Agreement, dated as of May 26, 2022, with Broadcom (the “SLP Voting Agreement”). Subject to the terms and conditions of the SLP Voting Agreement, the SLP Stockholders have agreed, among other things, to vote all of the shares of VMware Common Stock held by them (representing in the aggregate approximately 10% of the total outstanding shares of VMware Common Stock) in favor of the adoption of the Merger Agreement, and, subject to certain exceptions, not to transfer their shares of VMware Common Stock. Except for certain obligations set forth therein, the SLP Voting Agreement will terminate upon the earliest of (i) the termination of the Merger Agreement in accordance with its terms and (ii) the SLP Stockholders delivering written notice to Broadcom that it is terminating the SLP Voting Agreement at any time following (A) a change of recommendation of the VMware board of directors that VMware’s stockholders adopt the Merger Agreement or (B) an amendment or notification that alters or changes the amount or form of consideration to be paid to VMware’s stockholders in connection with the Transactions or otherwise amends or modifies the Merger Agreement in a manner adverse in any material respect to the SLP Stockholders.
+
+The foregoing summary of the MSD Voting Agreement and the SLP Voting Agreement, and the transactions contemplated thereby do not purport to be complete and are subject to, and qualified in their entirety by, the full text of the MSD Voting Agreement and the SLP Voting Agreement attached hereto as Exhibit 99.1 and Exhibit 99.2 respectively, and are incorporated herein by reference.
+
+Commitment Letter
+
+In connection with the execution of the Merger Agreement, the Company entered into a commitment letter, dated as of May 26, 2022 with the financial institutions party thereto, pursuant to which such financial institutions have committed to provide, subject to the terms and conditions of the commitment letter, a senior unsecured bridge facility in aggregate principal amount of $32.0 billion.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+No.
+
+Description
+
+2.1
+
+Agreement and Plan of Merger, dated as of May 26, 2022, by and among Broadcom Inc., VMware, Inc., Verona Holdco, Inc., Verona Merger Sub, Inc., Barcelona Merger Sub 2, Inc. and Barcelona Merger Sub 3, LLC.
+
+99.1
+
+Voting Agreement, dated as of May 26, 2022, by and among Broadcom Inc., Michael S. Dell and Susan Lieberman Dell Separate Property Trust.
+
+99.2
+
+Voting Agreement, dated as of May 26, 2022, by and among Broadcom Inc., Silver Lake Partners IV, L.P., Silver Lake Technology Investors IV, L.P., Silver Lake Partners V DE (AIV), L.P., Silver Lake Technology Investors V, L.P., SL
+SPV-2,
+L.P. and Silver Lake Group, L.L.C.
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL).
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This communication includes forward-looking statements within the meaning of Section 21E of the U.S. Securities Exchange Act of 1934, as amended, and Section 27A of the U.S. Securities Act of 1933, as amended. These forward-looking statements include but are not limited to statements that relate to the expected future business and financial performance, the anticipated benefits of the proposed transaction, the anticipated impact of the proposed transaction on the combined business, the expected amount and timing of the synergies from the proposed transaction, and the anticipated closing date of the proposed transaction. These forward-looking statements are identified by words such as “will,” “expect,” “believe,” “anticipate,” “estimate,” “should,” “intend,” “plan,” “potential,” “predict,” “project,” “aim,” and similar words or phrases. These forward-looking statements are based on current expectations and beliefs of Barcelona management and current market trends and conditions.
+
+These forward-looking statements involve risks and uncertainties that are outside Broadcom’s control and may cause actual results to differ materially from those contained in forward-looking statements, including but not limited to: the effect of the proposed transaction on our ability to maintain relationships with customers, suppliers and other business partners or operating results and business; the ability to implement plans, forecasts and other expectations with respect to the business after the completion of the proposed transaction and realize expected synergies; business disruption following the proposed transaction; difficulties in retaining and hiring key personnel and employees due to the proposed transaction and business combination; the satisfaction of the conditions precedent to consummation of the proposed transaction, including the ability to secure regulatory approvals on the terms expected, at all or in a timely manner; significant indebtedness, including indebtedness incurred in connection with the proposed transaction, and the need to generate sufficient cash flows to service and repay such debt; the disruption of current plans and operations; the outcome of any legal proceedings related to the transaction; the ability to consummate the proposed transaction on a timely basis or at all; the ability to successfully integrate VMware’s operations; the ability to implement plans, forecasts and other expectations with respect to the business after the completion of the proposed transaction and realize synergies; the impact of public health crises, such as pandemics (including
+COVID-19)
+and epidemics and any related company or government policies and actions to protect the health and safety of individuals or government policies or actions to maintain the functioning of national or global economies and markets; global political and economic conditions, including rising interest rates, the impact of inflation and challenges in manufacturing and the global supply chain; and other events and trends on a national, regional and global scale, including the cyclicality in the semiconductor industry and other target markets and those of a political, economic, business, competitive and regulatory nature.
+
+These risks, as well as other risks related to the proposed transaction, will be included in the registration statement on Form
+S-4
+and proxy statement/prospectus that will be filed with the SEC in connection with the proposed transaction. While the list of factors presented here is, and the list of factors to be presented in the registration statement on Form
+S-4
+are, considered representative, no such list should be considered to be a complete statement of all potential risks and uncertainties. For additional information about other factors that could cause actual results to differ materially from those described in the forward-looking statements, please refer to Broadcom’s and VMware’s respective periodic reports and other filings with the SEC, including the risk factors identified in Broadcom’s and VMware’s most recent Quarterly Reports on Form
+10-Q
+and Annual Reports on
+Form 10-K.
+
+The forward-looking statements included in this communication are made only as of the date hereof. Neither Broadcom nor VMware undertakes any obligation to update any forward-looking statements to reflect subsequent events or circumstances, except as required by law
+.
+
+No Offer or Solicitation
+
+This communication is not intended to and shall not constitute an offer to buy or sell or the solicitation of an offer to buy or sell any securities, or a solicitation of any vote or approval, nor shall there be any sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. No offering of securities shall be made, except by means of a prospectus meeting the requirements of Section 10 of the U.S. Securities Act of 1933, as amended
+.
+
+Additional Information about the Transaction and Where to Find It
+
+In connection with the proposed transaction, Broadcom intends to file with the SEC a registration statement on Form
+S-4
+that will include a proxy statement of VMware and that also constitutes a prospectus of Broadcom. Each of Broadcom and VMware may also file other relevant documents with the SEC regarding the proposed transaction. This document is not a substitute for the proxy statement/prospectus or registration statement or any other document that Broadcom or VMware may file with the SEC. The definitive proxy statement/prospectus (if and when available) will be mailed to stockholders of VMware. INVESTORS AND SECURITY HOLDERS ARE URGED TO READ THE REGISTRATION STATEMENT, PROXY STATEMENT/PROSPECTUS AND ANY OTHER RELEVANT DOCUMENTS THAT MAY BE FILED WITH THE SEC, AS WELL AS ANY AMENDMENTS OR SUPPLEMENTS TO THESE DOCUMENTS, CAREFULLY AND IN THEIR ENTIRETY IF AND WHEN THEY BECOME AVAILABLE BECAUSE THEY CONTAIN OR WILL CONTAIN IMPORTANT INFORMATION ABOUT THE PROPOSED TRANSACTION. Investors and security holders will be able to obtain free copies of the registration statement and proxy statement/prospectus (if and when available) and other documents containing important information about Broadcom, VMware and the proposed transaction, once such documents are filed with the SEC through the website maintained by the SEC at http://www.sec.gov. Copies of the documents filed with the SEC by Broadcom will be available free of charge on Broadcom’s website at https://investors.broadcom.com/. Copies of the documents filed with the SEC by VMware will be available free of charge on VMware’s website at ir.vmware.com
+.
+
+Participants in the Solicitation
+
+Broadcom, VMware and certain of their respective directors and executive officers may be deemed to be participants in the solicitation of proxies in respect of the proposed transaction. Information about the directors and executive officers of Broadcom, including a description of their direct or indirect interests, by security holdings or otherwise, is set forth in Broadcom’s proxy statement for its 2022 Annual Meeting of Stockholders, which was filed with the SEC on February 18, 2022, and Broadcom’s Annual Report on Form
+10-K
+for the fiscal year ended October 31, 2021, which was filed with the SEC on December 17, 2021. Information about the directors and executive officers of VMware, including a description of their direct or indirect interests, by security holdings or otherwise, is set forth in VMware’s proxy statement for its 2021 Annual Meeting of Stockholders, which was filed with the SEC on May 28, 2021, VMware’s Annual Report on Form
+10-K
+for the fiscal year ended January 28, 2022, which was filed with the SEC on March 24, 2022, a Form
+8-K
+filed by VMware on April 22, 2022 and a Form
+8-K
+filed by VMware on May 2, 2022. Other information regarding the participants in the proxy solicitations and a description of their direct and indirect interests, by security holdings or otherwise, will be contained in the proxy statement/prospectus and other relevant materials to be filed with the SEC regarding the proposed transaction when such materials become available. Investors should read the proxy statement/prospectus carefully when it becomes available before making any voting or investment decisions. You may obtain free copies of these documents from Broadcom or VMware using the sources indicated above
+.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: May 26, 2022
+
+Broadcom Inc.
+
+By:
+
+/s/ Kirsten Spears
+
+Name:
+
+Kirsten Spears
+
+Title:
+
+Chief Financial Officer and
+Chief Accounting Officer

@@ -1,0 +1,328 @@
+Title of each class
+
+Capital stock, par value $.20 per share
+
+Trading
+symbol
+
+IBM
+
+Common Stock
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+WASHINGTON,
+D.C. 20549
+
+FORM
+
+8-K
+
+CURRENT
+REPORT PURSUANT TO SECTION 13 OR 15 (d)
+
+OF
+THE SECURITIES EXCHANGE ACT OF 1934
+
+Date
+of Report:
+October 1, 2021
+
+(Date of earliest event
+reported)
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+
+(Exact name of registrant
+as specified in its charter)
+
+New York
+
+1-2360
+
+13-0871985
+
+(State of Incorporation)
+
+(Commission File Number)
+
+(IRS employer Identification No.)
+
+One New Orchard Road
+
+Armonk
+,
+
+New York
+
+10504
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+914
+-
+499-1900
+
+(Registrant
+’
+s
+telephone number)
+
+Check the appropriate
+box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+Title
+of each class
+
+Trading
+symbol(s)
+
+Name
+of each exchange
+on which registered
+
+Capital stock, par value $.20 per share
+
+IBM
+
+New York Stock Exchange
+
+NYSE
+Chicago
+
+2.625% Notes due 2022
+
+IBM 22A
+
+New York Stock Exchange
+
+1.250% Notes due 2023
+
+IBM 23A
+
+New York Stock Exchange
+
+0.375% Notes due 2023
+
+IBM 23B
+
+New York Stock Exchange
+
+1.125% Notes due 2024
+
+IBM 24A
+
+New York Stock Exchange
+
+2.875% Notes due 2025
+
+IBM 25A
+
+New York Stock Exchange
+
+0.950% Notes due 2025
+
+IBM 25B
+
+New York Stock Exchange
+
+0.875% Notes due 2025
+
+IBM 25C
+
+New York Stock Exchange
+
+0.300% Notes due 2026
+
+IBM 26B
+
+New York Stock Exchange
+
+1.250% Notes due 2027
+
+IBM 27B
+
+New York Stock Exchange
+
+0.300% Notes due 2028
+
+IBM 28B
+
+New York Stock Exchange
+
+1.750% Notes due 2028
+
+IBM 28A
+
+New York Stock Exchange
+
+1.500% Notes due 2029
+
+IBM 29
+
+New York Stock Exchange
+
+1.750% Notes due 2031
+
+IBM 31
+
+New York Stock Exchange
+
+0.650% Notes due 2032
+
+IBM 32A
+
+New York Stock Exchange
+
+1.200% Notes due 2040
+
+IBM 40
+
+New York Stock Exchange
+
+7.00% Debentures due 2025
+
+IBM 25
+
+New York Stock Exchange
+
+6.22% Debentures due 2027
+
+IBM 27
+
+New York Stock Exchange
+
+6.50% Debentures due 2028
+
+IBM 28
+
+New York Stock Exchange
+
+7.00% Debentures due 2045
+
+IBM 45
+
+New York Stock Exchange
+
+7.125% Debentures due 2096
+
+IBM 96
+
+New York Stock Exchange
+
+Indicate by check mark
+whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (
+§
+230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (
+§
+240.12b-2
+of this chapter).
+
+Emerging growth company
+
+¨
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any
+new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+
+Item 3.02. Unregistered Sales of Equity
+Securities.
+
+On October 1, 2021, International Business Machines Corporation (the
+“Company”) issued 54,908,899 shares of its Series A Preferred Stock to a wholly owned subsidiary of the Company in exchange
+for 164,726,696 shares of the Company’s common stock held by the subsidiary.
+
+The shares of Series A Preferred Stock described above were issued
+in reliance on the exemption contained in Section 4(a)(2) of the Securities Act of 1933, as amended, on the basis that the transaction
+did not involve a public offering. No underwriters were involved in the transaction.
+
+Item 5.03. Amendments to Articles of Incorporation or Bylaws; Change
+in Fiscal Year.
+
+On October 1, 2021, the Company filed a Certificate of Amendment (the
+“Certificate of Amendment”) to the Company’s Certificate of Incorporation with the Secretary of State of the State of
+New York to establish the terms, rights, obligations and preferences of the Company’s Series A Preferred Stock. The Certificate
+of Amendment became effective upon filing with the Secretary of State of New York. The Certificate of Amendment designates 75,000,000
+shares as Series A Preferred Stock, par value $0.01 per share. The Company does not intend to issue or transfer any shares of Series A
+Preferred Stock to any third parties.
+
+Each share of Series A Preferred Stock will be entitled, when, as and
+if declared, to a per share dividend payment equal to three times the dividend declared per share of the Company’s common stock;
+provided that if the Company distributes equity securities of a subsidiary, then, in lieu of participating in such distribution, each
+share of Series A Preferred Stock will receive an additional number of shares of Series A Preferred Stock or other property of at least
+equivalent value, in each case as determined by the Company’s board of directors. Each share of Series A Preferred Stock will entitle
+the holder thereof to one vote on all matters submitted to a vote of the stockholders of the Company, however, shares of Series A Preferred
+Stock held by a subsidiary of the Company will not be entitled to any voting rights. Upon liquidation, a holder of Series A Preferred
+Stock will be entitled to the greater of the par value per share of Series A Preferred Stock or the amount that would be distributable
+on three shares of the Company’s common stock. The terms of the Series A Preferred Stock are subject to customary anti-dilution
+adjustments.
+
+The foregoing description of the Certificate of Amendment and the terms
+of the Series A Preferred Stock does not purport to be complete and is subject to, and qualified in its entirety by, the full text of
+the Certificate of Amendment, a copy of which is filed as Exhibit 3.1 hereto and is incorporated by reference herein.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits
+
+The following exhibits are being filed as part of this report:
+
+Exhibit No.
+
+Description of Exhibit
+
+3.1
+
+Certificate of Amendment of the Certificate of Incorporation with respect to the Series A Preferred Stock, dated October 1, 2021
+
+104
+
+Cover Page Interactive Data File – the cover page interactive data file does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document
+
+IBM’s web site (www.ibm.com) contains a significant amount of
+information about IBM, including financial and other information for investors (www.ibm.com/investor/). IBM encourages investors to visit
+its various web sites from time to time, as information is updated and new information is posted.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+Date: October 1, 2021
+
+By:
+
+/s/ Frank Sedlarcik
+
+Frank Sedlarcik
+
+Vice President, Assistant General Counsel and Secretary

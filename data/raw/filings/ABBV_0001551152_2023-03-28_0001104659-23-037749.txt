@@ -1,0 +1,217 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington
+, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event
+reported):
+March 28, 2023
+
+ABBVIE INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-35565
+
+32-0375147
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+Identification No.)
+
+1 North Waukegan Road
+
+North Chicago
+,
+Illinois
+
+60064-6400
+
+(Address of principal executive offices)(Zip Code)
+
+Registrant’s telephone number, including area code:
+(
+847
+)
+932-7900
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, $0.01 Par Value
+
+ABBV
+
+New York Stock Exchange
+
+Chicago Stock Exchange
+
+1.500% Senior Notes due 2023
+
+ABBV23B
+
+New York Stock Exchange
+
+1.375% Senior Notes due 2024
+
+ABBV24
+
+New York Stock Exchange
+
+1.250% Senior Notes due 2024
+
+ABBV24B
+
+New York Stock Exchange
+
+0.750% Senior Notes due 2027
+
+ABBV27
+
+New York Stock Exchange
+
+2.125% Senior Notes due 2028
+
+ABBV28
+
+New York Stock Exchange
+
+2.625% Senior Notes due 2028
+
+ABBV28B
+
+New York Stock Exchange
+
+2.125% Senior Notes due 2029
+
+ABBV29
+
+New York Stock Exchange
+
+1.250% Senior Notes due 2031
+
+ABBV31
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+¨
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+
+Common Stock, $0.01 Par Value
+
+ABBV
+
+Item 1.01
+
+Entry into a Material Definitive Agreement
+
+Second Amended and Restated Revolving Credit Agreement
+
+On March 28, 2023 (the “Effective Date”), AbbVie
+Inc. (“AbbVie”) entered into an amended and restated revolving credit agreement (the “Second Amended and Restated Revolving
+Credit Agreement”) among AbbVie, as borrower, the lenders and other parties party thereto and JPMorgan Chase Bank, N.A., as administrative
+agent (in such capacity, the “Agent”), providing for the amendment and restatement, effective as of the Effective Date, of
+that certain amended and restated revolving credit agreement, dated as of August 27, 2019, among AbbVie, as borrower, the lenders
+and other parties party thereto and the Agent. The Second Amended and Restated Revolving Credit Agreement: (i) increases the unsecured
+revolving credit facility commitments from $4.0 billion to $5.0 billion and (ii) extends the maturity date of the facility from August 27,
+2024 to March 28, 2028. The foregoing summary of the Second Amended and Restated Revolving Credit Agreement does not purport to be
+complete and is subject to, and qualified in its entirety by, the full text of the Second Amended and Restated Revolving Credit Agreement,
+which is attached as Exhibit 10.1 to this Current Report on Form 8-K and incorporated herein by reference.
+
+Item 2.03
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+
+On March 28, 2023, AbbVie entered into the Second Amended and
+Restated Revolving Credit Agreement as described in Item 1.01 above. The description of the Second Amended and Restated Revolving Credit
+Agreement set forth in Item 1.01 above is hereby incorporated by reference.
+
+Item 9.01
+
+Financial Statements and Exhibits
+
+(d) Exhibits
+
+Exhibit
+
+No.
+
+Exhibit
+
+10.1
+
+Second Amended and Restated Revolving Credit Agreement, dated as of March 28, 2023, among AbbVie, the lenders and other parties party thereto and JPMorgan Chase Bank, N.A., as administrative agent.
+
+104
+
+The cover page from this Current Report on Form 8-K formatted in Inline XBRL (included as Exhibit 101).
+
+1
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ABBVIE INC.
+
+By:
+
+/s/ Scott T. Reents
+
+Date: March 28, 2023
+
+Name:
+
+Scott T. Reents
+
+Title:
+
+Executive Vice President, Chief Financial Officer
+
+2

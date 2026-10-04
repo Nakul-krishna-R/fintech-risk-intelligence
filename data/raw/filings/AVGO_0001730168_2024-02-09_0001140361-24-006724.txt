@@ -1,0 +1,137 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported):
+February 5, 2024
+
+Broadcom Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+Delaware
+
+001-38449
+
+35-2617337
+
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(I.R.S. Employer Identification No.)
+
+3421 Hillview Avenue
+
+Palo Alto
+,
+
+California
+
+94304
+
+(Address of principal executive offices including zip code)
+
+(
+650
+)
+427-6000
+
+(Registrant’s telephone number, including area code)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+
+Trading Symbol(s)
+
+Name of Each Exchange on Which Registered
+
+Common Stock, $0.001 par value
+
+AVGO
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of
+the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised
+financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02
+
+Departure of Directors of Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+Appointment of New Director
+
+On and effective February 5, 2024, the Board of Directors (the “Board”) of Broadcom Inc. (“Broadcom”) increased the size of the Board to ten members and appointed Kenneth
+Y. Hao,
+Chairman and Managing Partner of Silver Lake,
+as an independent member of the Board. Mr. Hao has not been appointed to any Board committees at this time.
+
+The compensation of Mr. Hao will be consistent with Broadcom’s compensation of its other non-employee directors in effect and as described in Broadcom’s
+definitive proxy statement filed with the Securities and Exchange Commission on February 17, 2023. Mr. Hao was granted an initial restricted stock unit (“RSU”) award with a value of $53,279 on February 5, 2024, which will vest in full on the earlier
+of (i) the first anniversary of the grant date or (ii) the date on which Broadcom’s annual meeting of stockholders immediately following the grant date is held, subject to his continued service on the Board. The number of shares of Broadcom common
+stock subject to this RSU award was determined by dividing the value of the RSU award by the average closing price of Broadcom common stock quoted on the Nasdaq Global Select Market over 30 calendar days immediately preceding the grant date.
+
+Mr. Hao will also enter into the standard form of Indemnification and Advancement Agreement with Broadcom, pursuant to which Broadcom agrees to indemnify
+its Board members to the fullest extent permitted by applicable law and subject to the terms in such agreement.
+
+Retirement of Director
+
+Raul Fernandez notified the Board that he does not intend to stand for re-election at Broadcom’s 2024 annual meeting of stockholders (the “2024 Annual Meeting”), effective
+February 5, 2024. Mr. Fernandez intends to continue to serve as a member of the Board, the Audit Committee and the Nominating, Environmental, Social and Governance Committee until his current term expires at the 2024 Annual Meeting. Mr. Fernandez’s
+decision not to stand for re-election is not due to any disagreement with Broadcom. The Board appreciates and thanks Mr. Fernandez for his invaluable contribution to Broadcom through his service as a member of the Board.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+Date: February 9, 2024
+
+Broadcom Inc.
+
+By:
+
+/s/ Kirsten M. Spears
+
+Name:
+Kirsten M. Spears
+
+Title:
+Chief Financial Officer and Chief
+Accounting Officer

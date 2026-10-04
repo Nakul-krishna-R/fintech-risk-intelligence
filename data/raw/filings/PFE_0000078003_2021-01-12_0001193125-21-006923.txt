@@ -1,0 +1,359 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of report (Date of earliest event reported):
+January 12, 2021
+
+PFIZER INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+1-3619
+
+13-5315170
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+235 East 42nd Street
+
+New York
+,
+New York
+
+10017
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+
+(212)
+
+733-2323
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the
+Form 8-K filing
+is intended to simultaneously satisfy the obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to
+Rule 14a-12 under
+the Exchange Act (17
+CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications
+pursuant to
+Rule 14d-2(b) under
+the Exchange Act (17
+CFR 240.14d-2 (b))
+
+☐
+
+Pre-commencement communications
+pursuant to
+Rule 13e-4(c) under
+the Exchange Act (17
+CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $.05 par value
+
+PFE
+
+New York Stock Exchange
+
+0.250% Notes due 2022
+
+PFE22
+
+New York Stock Exchange
+
+1.000% Notes due 2027
+
+PFE27
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or
+Rule 12b-2 of
+the Securities Exchange Act of
+1934 (§240.12b-2 of
+this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 7.01
+
+Regulation FD Disclosure
+
+During the 39
+th
+Annual J.P. Morgan Health Care Conference on January 12, 2021, Albert Bourla, the Chairman and Chief Executive Officer of Pfizer Inc. (the “
+Company
+” or “
+Pfizer
+”), provided the following preliminary financial guidance for the Company for 2021:
+
+Based on a preliminary view, the Company projects 2021 adjusted diluted earnings per share (EPS)* in a range of $3.00 - $3.10.
+
+This preliminary financial guidance is subject to a number of assumptions, factors and uncertainties, including, among others, the Company’s current expectations and assumptions regarding the impact of the
+COVID-19
+pandemic and
+COVID-19
+vaccine supply and contracts, which remain dynamic. The Company expects to provide further details when it issues its financial guidance in connection with its press release announcing its financial results for the fourth quarter of 2020 on February 2, 2021.
+
+* Adjusted income and its components and adjusted diluted EPS are defined as reported U.S. GAAP net income and its components and reported diluted EPS excluding purchase accounting adjustments, acquisition-related costs, discontinued operations and certain significant items (some of which may recur, such as gains on the completion of joint venture transactions, restructuring charges, legal charges or gains and losses from equity securities, but which management does not believe are reflective of ongoing core operations). As described in the Financial
+Review––Non-GAAP
+Financial Measure (Adjusted Income) section of Pfizer’s 2019 Financial Report, which was filed as Exhibit 13 to Pfizer’s Annual Report on Form
+10-K
+for the fiscal year ended December 31, 2019, management uses Adjusted income, among other factors, to set performance goals and to measure the performance of the overall company. Because Adjusted income is an important internal measurement for Pfizer, management believes that investors’ understanding of our performance is enhanced by disclosing this performance measure. Pfizer reports Adjusted income, certain components of Adjusted income, and Adjusted diluted EPS in order to portray the results of the Company’s major operations—the discovery, development, manufacture, marketing and sale of prescription medicines and vaccines—prior to considering certain income statement elements. The Adjusted income and its components and Adjusted diluted EPS measures are not, and should not be viewed as, substitutes for U.S. GAAP net income and its components and diluted EPS. Pfizer does not provide guidance for GAAP reported financial measures (other than revenues) or a reconciliation of forward-looking
+non-GAAP
+financial measures to the most directly comparable GAAP reported financial measures on a forward-looking basis because it is unable to predict with reasonable certainty the ultimate outcome of pending litigation, unusual gains and losses, acquisition-related expenses, gains and losses from equity securities and potential future asset impairments without unreasonable effort. These items are uncertain, depend on various factors, and could have a material impact on GAAP reported results for the guidance period.
+
+The information contained in Item 7.01 of this Current Report on
+Form 8-K is
+being furnished pursuant to Item 7.01 of
+Form 8-K and
+shall not be deemed “filed” for purposes of Section 18 of the U.S. Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed to be incorporated by reference in any registration statement or other document filed under the U.S. Securities Act of 1933, as amended, or the Exchange Act, except as otherwise expressly stated in such filing.
+
+Forward-Looking Statements
+
+Except where otherwise noted, the information contained in this Current Report on Form
+8-K
+is as of January 12, 2021. We assume no obligation to update any forward-looking statements contained in this Current Report on Form
+8-K
+as a result of new information or future events or developments.
+
+This Current Report on Form
+8-K
+contains forward-looking statements about our anticipated future financial performance that involve substantial risks and uncertainties. You can identify these statements by the fact that they use future dates or use words such as “will,” “may,” “could,” “likely,” “ongoing,” “anticipate,” “estimate,” “expect,” “project,” “intend,” “plan,” “believe,” “assume,” “target,” “forecast,” “guidance,” “goal,” “objective,” “aim,” “seek” and other words and terms of similar meaning. Among the factors that could cause actual results to differ materially from past results and future plans and projected future results are the following:
+
+•
+
+the outcome of research and development activities, including, the ability to meet anticipated
+pre-clinical
+or clinical endpoints, commencement and/or completion dates for our
+pre-clinical
+or clinical trials, regulatory submission dates, and/or regulatory approval and/or launch dates, as well as the possibility of unfavorable
+pre-clinical
+and clinical trial results, including the possibility of unfavorable new clinical data and further analyses of existing clinical data;
+
+•
+
+our ability to successfully address comments received from regulatory authorities such as the U.S. Food and Drug Administration or the Europe Medicines Agency, or obtain approval from regulators on a timely basis or at all; regulatory decisions impacting labeling, manufacturing processes, safety and/or other matters; the impact of recommendations by technical or advisory committees; and the timing of pricing approvals and product launches;
+
+•
+
+claims and concerns that may arise regarding the safety or efficacy of
+in-line
+products and product candidates, including claims and concerns that may arise from the outcome of post-approval clinical trials, which could impact marketing approval, product labeling, and/or availability or commercial potential;
+
+•
+
+the success and impact of external business-development activities, including the ability to identify and execute on potential business development opportunities; the ability to satisfy the conditions to closing of announced transactions in the anticipated time frame or at all; the ability to realize the anticipated benefits of any such transactions in the anticipated time frame or at all; the potential need for and impact of additional equity or debt financing to pursue these opportunities; challenges integrating the businesses and operations; disruption to business and operations relationships; risks related to growing revenues for certain acquired products; significant transaction costs; and unknown liabilities;
+
+•
+
+competition, including from new product entrants,
+in-line
+branded products, generic products, private label products, biosimilars and product candidates that treat diseases and conditions similar to those treated by our
+in-line
+drugs and drug candidates;
+
+•
+
+the ability to successfully market both new and existing products, including biosimilars;
+
+•
+
+difficulties or delays in manufacturing, sales or marketing; supply disruptions, shortages or stock-outs at our facilities; and legal or regulatory actions;
+
+•
+
+the impact of public health outbreaks, epidemics or pandemics (such as the novel coronavirus disease of 2019
+(COVID-19)
+pandemic) on our business, operations and financial condition and results;
+
+•
+
+risks and uncertainties related to our efforts to develop a vaccine and potential treatment for
+COVID-19,
+as well as challenges related to their manufacturing and supply, including among others, the uncertainties inherent in research and development, including the ability to meet anticipated clinical endpoints, commencement and/or completion dates for clinical trials, regulatory submission dates, regulatory approval dates and/or launch dates, as well as risks associated with clinical data (including the Phase 3 data for the
+Pfizer-BioNTech
+
+COVID-19
+vaccine (BNT162b2)), including the possibility of unfavorable new preclinical or clinical trial data and further analyses of existing preclinical or clinical trial data; the ability to produce comparable clinical or other results, including the rate of vaccine effectiveness and safety and tolerability profile observed to date, in additional analyses of the Phase 3 trial and additional studies or in larger, more diverse populations upon commercialization; the ability of BNT162b2 to prevent
+COVID-19
+caused by new virus variants; the risk that more widespread use of the vaccine will lead to new information about efficacy, safety, or other developments, including the risk of additional adverse reactions, some of which may be serious; the risk that clinical trial data are subject to differing interpretations and assessments, including during the peer review/publication process, in the scientific community generally, and by regulatory authorities; whether and when additional data from the BNT162 mRNA vaccine program will be published in scientific journal publications and, if so, when and with what modifications; whether regulatory authorities will be satisfied with the design of and results from these and any future preclinical
+
+and clinical studies; when other biologics license and/or emergency use authorization applications may be filed in particular jurisdictions for BNT162b2 or any other potential vaccines; whether and when any other applications that may be pending or filed for BNT162b2 may be approved by particular regulatory authorities, which will depend on myriad factors, including making a determination as to whether the vaccine’s benefits outweigh its known risks and determination of the vaccine’s efficacy and, if approved, whether it will be commercially successful; decisions by regulatory authorities impacting labeling, manufacturing processes, safety and/or other matters that could affect the availability or commercial potential of a vaccine, including development of products or therapies by other companies; disruptions in the relationships between us and our collaboration partners or third-party suppliers; the risk that other companies may produce superior or competitive products; the risk that demand for any products may no longer exist; risks related to the availability of raw materials to manufacture a vaccine; challenges related to our vaccine’s
+ultra-low
+temperature formulation and attendant storage, distribution and administration requirements, including risks related to handling after delivery by Pfizer; the risk that we may not be able to successfully develop
+non-frozen
+formulations; the risk that we may not be able to create or scale up manufacturing capacity on a timely basis or have access to logistics or supply channels commensurate with global demand for our vaccine, which would negatively impact our ability to supply the estimated numbers of doses of our vaccine within the projected time periods indicated; whether and when additional supply agreements will be reached; uncertainties regarding the ability to obtain recommendations from vaccine technical committees and other public health authorities and uncertainties regarding the commercial impact of any such recommendations; and competitive developments;
+
+•
+
+trends toward managed care and healthcare cost containment, and our ability to obtain or maintain timely or adequate pricing or favorable formulary placement for our products;
+
+•
+
+the impact of any U.S. healthcare reform or legislation or any significant spending reductions or cost controls affecting Medicare, Medicaid or other publicly funded or subsidized health programs or changes in the tax treatment of employer-sponsored health insurance that may be implemented;
+
+•
+
+U.S. federal or state legislation or regulatory action and/or policy efforts affecting, among other things, pharmaceutical product pricing, intellectual property, reimbursement or access or restrictions on U.S.
+direct-to-consumer
+advertising; limitations on interactions with healthcare professionals; as well as pricing pressures for our products as a result of highly competitive insurance markets;
+
+•
+
+legislation or regulatory action in markets outside of the U.S., including China, affecting pharmaceutical product pricing, intellectual property, reimbursement or access, including, in particular, continued government-mandated reductions in prices and access restrictions for certain biopharmaceutical products to control costs in those markets;
+
+•
+
+the exposure of our operations outside of the U.S. to possible capital and exchange controls, economic conditions, expropriation and other restrictive government actions, changes in intellectual property legal protections and remedies, as well as political unrest, unstable governments and legal systems and inter-governmental disputes;
+
+•
+
+legal defense costs, insurance expenses, settlement costs and contingencies, including those related to actual or alleged environmental contamination;
+
+•
+
+the risk and impact of an adverse decision or settlement and the adequacy of reserves related to legal proceedings;
+
+•
+
+the risk and impact of tax related litigation;
+
+•
+
+any significant breakdown, infiltration or interruption of our information technology systems and infrastructure;
+
+•
+
+the risk that our currently pending or future patent applications may not be granted on a timely basis or at all, or any patent-term extensions that we seek may not be granted on a timely basis, if at all;
+
+•
+
+our ability to protect our patents and other intellectual property, including against claims of invalidity that could result in loss of exclusivity and in response to any pressure, or legal or regulatory action by, various stakeholders or governments that could potentially result in us not seeking intellectual property protection for, or agreeing not to enforce intellectual property related to, our medicines, including potential vaccines and treatments for
+COVID-19;
+
+•
+
+interest rate and foreign currency exchange rate fluctuations, including the impact of possible currency devaluations in countries experiencing high inflation rates;
+
+•
+
+governmental laws and regulations affecting our operations, including, without limitation, tax obligations and changes affecting the tax treatment by the U.S. of income earned outside of the U.S. that may result from pending and possible future proposals, as well as further clarifications and/or interpretations of, or changes to, existing laws and regulations, including the U.S. Tax Cuts and Jobs Act of 2017;
+
+•
+
+any significant issues involving our largest wholesale distributors, which account for a substantial portion of our revenues;
+
+•
+
+the impact of the increased presence of counterfeit medicines in the pharmaceutical supply chain;
+
+•
+
+any significant issues related to the outsourcing of certain operational and staff functions to third parties; and any significant issues related to our joint ventures and other third-party business arrangements;
+
+•
+
+uncertainties related to general economic, political, business, industry, regulatory and market conditions including, without limitation, uncertainties related to the impact on us, our customers, suppliers and lenders and counterparties to our foreign-exchange and interest-rate agreements of challenging global economic conditions and recent and possible future changes in global financial markets;
+
+•
+
+any changes in business, political and economic conditions due to actual or threatened terrorist activity, civil unrest or military action;
+
+•
+
+the impact of product recalls, withdrawals and other unusual items;
+
+•
+
+trade buying patterns;
+
+•
+
+the risk of an impairment charge related to our intangible assets, goodwill or equity-method investments; and
+
+•
+
+the impact of, and risks and uncertainties related to, restructurings and internal reorganizations, as well as any other corporate strategic initiatives, and cost-reduction and productivity initiatives, each of which requires upfront costs but may fail to yield anticipated benefits and may result in unexpected costs or organizational disruption.
+
+We cannot guarantee that any forward-looking statement will be realized. Should known or unknown risks or uncertainties materialize or should underlying assumptions prove inaccurate, actual results could vary materially from past results and those anticipated, estimated or projected. Investors are cautioned not to put undue reliance on forward-looking statements. A further list and description of risks, uncertainties and other matters can be found in our Annual Report on Form
+10-K
+for the fiscal year ended December 31, 2019 and in our subsequent reports on Form
+10-Q,
+in each case, including in the sections thereof captioned “Forward-Looking Information and Factors That May Affect Future Results” and “Item 1A. Risk Factors,” and in our subsequent reports on Form
+8-K.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+PFIZER INC.
+
+By:
+
+/s/ Margaret M. Madden
+
+Margaret M. Madden
+
+Senior Vice President and Corporate Secretary,
+
+Chief Governance Counsel
+
+Dated: January 12, 2021

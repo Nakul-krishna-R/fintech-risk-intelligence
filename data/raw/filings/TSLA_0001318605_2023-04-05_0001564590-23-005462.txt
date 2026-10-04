@@ -1,0 +1,147 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported):
+March 30, 2023
+
+Tesla, Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+Delaware
+
+001-34756
+
+91-2197729
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+1 Tesla Road
+
+Austin
+,
+Texas
+
+78725
+
+(Address of Principal Executive Offices, and Zip Code)
+
+(
+512
+)
+516-8177
+
+Registrant’s Telephone Number, Including Area Code
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+
+☐
+
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communication pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communication pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock
+
+TSLA
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 5.03
+Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+On March 30, 2023, the Board of Directors (the “Board”) of Tesla, Inc. (“Tesla”) adopted amendments to Tesla’s Amended and Restated Bylaws (as amended and restated, the “Bylaws”) in order to: (i) provide stockholders with a proxy access right, (ii) update the procedures and disclosure requirements for director nominations made under Tesla’s existing advance notice requirements to reflect the U.S. Securities and Exchange Commission’s adoption of Rule 14a-19 under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), and (iii) make other technical and conforming changes. The Bylaw amendments became effective March 30, 2023.
+
+Specifically, Section 2.15 has been added to the Bylaws to provide a proxy access right permitting a stockholder, or a group of up to 20 stockholders, owning 3% or more of Tesla’s outstanding common stock continuously for at least three years to nominate and include in Tesla’s proxy materials director nominees constituting up to the greater of (i) 20% of the Board or (ii) two directors, provided that the stockholder(s) and the nominee(s) satisfy the requirements specified in the Bylaws.
+
+Section 2.4 of the Bylaws was also amended to make compliance with the applicable provisions of the “universal proxy card” rules, as set forth in Rule 14a-19 of the Exchange Act a requirement for a stockholder’s eligibility to nominate a director candidate.
+
+Additional amendments were made to the Bylaws in connection with the above and make clarifying or conforming language changes, in addition to other technical changes.
+
+The foregoing description is qualified in its entirety by reference to the Bylaws filed as Exhibit 3.1 to this Report.
+
+Item 9.01
+Financial Statements and Exhibits.
+
+(d)
+
+Exhibits.
+
+Exhibit No.
+
+Description
+
+3.1
+
+104
+
+Amended and Restated Bylaws of Tesla, Inc
+.
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+TESLA, INC.
+
+By:
+
+/s/ Brandon Ehrhart
+
+Brandon Ehrhart
+
+General Counsel and Corporate Secretary
+
+Date: April 5, 2023

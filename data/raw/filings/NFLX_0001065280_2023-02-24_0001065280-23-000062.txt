@@ -1,0 +1,98 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+__________________________________
+FORM
+8-K
+
+__________________________________
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+February 22, 2023
+
+__________________________________
+NETFLIX, INC.
+(Exact name of registrant as specified in its charter)
+__________________________________
+Delaware
+001-35727
+77-0467272
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+121 Albright Way
+,
+Los Gatos
+,
+California
+95032
+(Address of principal executive offices)
+(Zip Code)
+(
+408
+)
+540-3700
+
+(Registrant’s telephone number, including area code)
+(Former name or former address, if changed since last report)
+__________________________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, par value $0.001 per share
+NFLX
+NASDAQ Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.03
+Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+On and effective as of February 22, 2023, the Board of Directors of Netflix, Inc. (the “Company”) approved the amended and restated bylaws (the “Bylaws”) to, among other things:
+•
+enhance procedural mechanisms in connection with stockholder nominations of directors to require a stockholder delivering a nomination notice pursuant to the advance notice provisions of the Bylaws to fully comply with Rule 14a-19 under the Securities Exchange Act of 1934, as amended, and other applicable law and provide reasonable evidence to the Company that such stockholder has met the requirements of Rule 14a-19;
+•
+require information included in a stockholder’s notice of nominations or proposals regarding other business be updated to be true and correct as of the stockholder meeting record date and as of ten calendar days prior to the stockholder meeting date;
+•
+require a stockholder directly or indirectly soliciting proxies from other stockholders to use a proxy card color other than white; and
+•
+modify the provisions relating to the availability of stockholder lists and meeting adjournment notices, in each case, to reflect recent amendments to the Delaware General Corporation Law.
+The foregoing description is a summary and is qualified in its entirety by reference to the full text of the Bylaws, a copy of which is attached as Exhibit 3.2 hereto and is incorporated by reference herein. In addition, a marked copy of the Bylaws showing all changes made to the Company’s prior bylaws is attached hereto as Exhibit 3.3.
+Item 9.01
+Financial Statements and Exhibits
+(d) Exhibits
+
+Exhibit Number
+Description of Exhibit
+3.2
+Amended and Restated Bylaws of Netflix, Inc.
+3.3
+Marked Amended and Restated Bylaws of Netflix, Inc.
+104
+Cover Page Interactive Data File (embedded within the inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+NETFLIX, INC.
+Date:
+February 24, 2023
+/s/ David Hyman
+David Hyman
+Chief Legal Officer and Secretary

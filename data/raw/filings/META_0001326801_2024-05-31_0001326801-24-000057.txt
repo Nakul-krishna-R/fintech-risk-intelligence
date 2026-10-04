@@ -1,0 +1,300 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+May 29, 2024
+
+Meta Platforms, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+001-35551
+20-1665019
+(State or Other Jurisdiction
+of Incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+1 Meta Way
+,
+Menlo Park
+,
+California
+
+94025
+
+(Address of principal executive offices and Zip Code)
+(
+650
+)
+543-4800
+
+(Registrant’s telephone number, including area code)
+N/A
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading symbol(s)
+Name of each exchange on which registered
+Class A Common Stock, $0.000006 par value
+META
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+On May 29, 2024, Meta Platforms, Inc. (the "Company") held its annual meeting of shareholders via live audio webcast (the "Annual Meeting"). At the Annual Meeting, the Company's shareholders voted on fourteen proposals, each of which is described in more detail in the Company's definitive proxy statement filed with the Securities and Exchange Commission on April 19, 2024 (the "Proxy Statement"). At the beginning of the Annual Meeting, there were 1,781,168,449 shares of Class A common stock and 3,448,102,660 shares of Class B common stock present or represented by proxy at the Annual Meeting, which represented 92.63% of the combined voting power of the shares of Class A common stock and Class B common stock entitled to vote at the Annual Meeting (voting together as a single class), and which constituted a quorum for the transaction of business. Holders of the Company's Class A common stock were entitled to one vote for each share held as of the close of business on April 1, 2024 (the "Record Date"), and holders of the Company's Class B common stock were entitled to ten votes for each share held as of the Record Date.
+The shareholders of the Company voted on the following proposals at the Annual Meeting:
+1.
+To elect the ten directors nominated by the Company's board of directors, all of whom are currently serving on the Company's board of directors, each to serve until the next annual meeting of shareholders and until his or her successor has been elected and qualified, or until his or her earlier death, resignation, or removal.
+2.
+To ratify the appointment of Ernst & Young LLP as the Company's independent registered public accounting firm for the fiscal year ending December 31, 2024.
+3.
+To approve an amendment to the Company's Amended and Restated Certificate of Incorporation to limit liability of officers as permitted by Delaware law.
+4.
+To approve an amendment to the Company's 2012 Equity Incentive Plan.
+5.
+A shareholder proposal regarding dual class capital structure.
+6.
+A shareholder proposal regarding report on generative AI misinformation and disinformation risks.
+7.
+A shareholder proposal regarding disclosure of voting results based on class of shares.
+8.
+A shareholder proposal regarding report on human rights risks in non-US markets.
+9.
+A shareholder proposal regarding amendment of corporate governance guidelines.
+10.
+A shareholder proposal regarding human rights impact assessment on AI systems driving targeted advertising.
+11.
+A shareholder proposal regarding report on child safety impacts and actual harm reduction to children.
+12.
+A shareholder proposal regarding report and advisory vote on minimum age for social media.
+13.
+A shareholder proposal regarding report on political advertising and election cycle enhanced actions.
+14.
+A shareholder proposal regarding report on framework to assess company lobbying alignment with climate goals.
+1.
+Election of Directors
+Nominee
+For
+Withheld
+Broker Non-Votes
+Peggy Alford
+4,099,222,237
+925,316,440
+204,808,280
+Marc L. Andreessen
+4,284,473,368
+740,065,309
+204,808,280
+John Arnold
+5,018,096,151
+6,442,526
+204,808,280
+Andrew W. Houston
+4,311,195,194
+713,343,483
+204,808,280
+Nancy Killefer
+4,973,308,060
+51,230,617
+204,808,280
+Robert M. Kimmitt
+4,903,011,212
+121,527,465
+204,808,280
+Hock E. Tan
+4,910,647,361
+113,891,316
+204,808,280
+Tracey T. Travis
+4,879,532,269
+145,006,408
+204,808,280
+Tony Xu
+4,374,110,349
+650,428,328
+204,808,280
+Mark Zuckerberg
+4,666,230,661
+358,308,016
+204,808,280
+Each of the ten nominees for director was elected to serve until the next annual meeting of shareholders and until his or her successor has been elected and qualified, or until his or her earlier death, resignation, or removal.
+2.
+Ratification of Appointment of Independent Registered Public Accounting Firm
+For
+Against
+Abstentions
+5,157,004,645
+71,103,216
+1,239,096
+There were no broker non-votes on this proposal.
+The shareholders ratified the appointment of Ernst & Young LLP as the Company's independent registered public accounting firm for the fiscal year ending December 31, 2024.
+3.
+Approval of Amendment to Amended and Restated Certificate of Incorporation
+For
+Against
+Abstentions
+Broker Non-Votes
+4,260,080,035
+763,070,247
+1,388,392
+204,808,280
+The shareholders approved the amendment to the Company's Amended and Restated Certificate of Incorporation.
+4.
+Approval of Amendment to 2012 Equity Incentive Plan
+For
+Against
+Abstentions
+Broker Non-Votes
+3,621,612,630
+1,399,269,866
+3,656,181
+204,808,280
+The shareholders approved the amendment to the Company's 2012 Equity Incentive Plan.
+5.
+Shareholder Proposal Regarding Dual Class Capital Structure
+For
+Against
+Abstentions
+Broker Non-Votes
+1,319,216,449
+3,700,633,961
+4,688,267
+204,808,280
+The shareholders did not approve the shareholder proposal regarding dual class capital structure.
+6.
+Shareholder Proposal Regarding Report on Generative AI Misinformation and Disinformation Risks
+For
+Against
+Abstentions
+Broker Non-Votes
+838,763,123
+4,175,425,461
+10,350,093
+204,808,280
+The shareholders did not approve the shareholder proposal regarding report on generative AI misinformation and disinformation risks.
+7.
+Shareholder Proposal Regarding Disclosure of Voting Results Based on Class of Shares
+For
+Against
+Abstentions
+Broker Non-Votes
+859,706,391
+4,160,399,350
+4,432,936
+204,808,280
+The shareholders did not approve the shareholder proposal regarding disclosure of voting results based on class of shares.
+8.
+Shareholder Proposal Regarding Report on Human Rights Risks in Non-US Markets
+For
+Against
+Abstentions
+Broker Non-Votes
+274,692,193
+4,738,800,101
+11,046,383
+204,808,280
+The shareholders did not approve the shareholder proposal regarding report on human rights risks in non-US markets.
+9.
+Shareholder Proposal Regarding Amendment of Corporate Governance Guidelines
+For
+Against
+Abstentions
+Broker Non-Votes
+888,139,858
+4,132,310,717
+4,088,102
+204,808,280
+The shareholders did not approve the shareholder proposal regarding amendment of corporate governance guidelines.
+10.
+Shareholder Proposal Regarding Human Rights Impact Assessment on AI Systems Driving Targeted Advertising
+For
+Against
+Abstentions
+Broker Non-Votes
+724,325,685
+4,288,278,217
+11,934,775
+204,808,280
+The shareholders did not approve the shareholder proposal regarding human rights impact assessment on AI systems driving targeted advertising.
+11.
+Shareholder Proposal Regarding Report on Child Safety Impacts and Actual Harm Reduction to Children
+For
+Against
+Abstentions
+Broker Non-Votes
+925,650,012
+4,088,656,336
+10,232,329
+204,808,280
+The shareholders did not approve the shareholder proposal regarding report on child safety impacts and actual harm reduction to children.
+12.
+Shareholder Proposal Regarding Report and Advisory Vote on Minimum Age for Social Media
+For
+Against
+Abstentions
+Broker Non-Votes
+15,595,323
+4,998,358,837
+10,584,517
+204,808,280
+The shareholders did not approve the shareholder proposal regarding report and advisory vote on minimum age for social media.
+13.
+Shareholder Proposal Regarding Report on Political Advertising and Election Cycle Enhanced Actions
+For
+Against
+Abstentions
+Broker Non-Votes
+152,703,615
+4,855,808,278
+16,026,784
+204,808,280
+The shareholders did not approve the shareholder proposal regarding report on political advertising and election cycle enhanced actions.
+14.
+Shareholder Proposal Regarding Report on Framework to Assess Company Lobbying Alignment with Climate Goals
+For
+Against
+Abstentions
+Broker Non-Votes
+413,592,763
+4,600,318,713
+10,627,201
+204,808,280
+The shareholders did not approve the shareholder proposal regarding report on framework to assess company lobbying alignment with climate goals.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit Number
+Exhibit Title or Description
+104
+Cover Page Interactive Data File (the cover page XBRL tags are embedded within the inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+META PLATFORMS, INC.
+Date:
+May 31, 2024
+By:
+/s/ Katherine R. Kelly
+Name:
+Katherine R. Kelly
+Title:
+Vice President and Corporate Secretary

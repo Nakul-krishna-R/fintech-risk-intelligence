@@ -1,0 +1,193 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+March 9, 2023
+
+Amgen Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-37702
+
+95-3540776
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+One Amgen Center Drive
+
+Thousand Oaks
+
+California
+
+91320-1799
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code
+
+(805)
+
+447-1000
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common stock, $0.0001 par value
+
+AMGN
+
+The Nasdaq Stock Market LLC
+
+2.000% Senior Notes due 2026
+
+AMGN26
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule
+12b-2
+of the Securities Exchange Act of 1934 (17 CFR
+§240.12b-2).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01.
+
+Entry into a Material Definitive Agreement.
+
+On March 9, 2023, Amgen Inc. (the “Company”) entered into a third amended and restated revolving credit agreement with Citibank, N.A., as administrative agent (“Citibank”), JPMorgan Chase Bank, N.A., as syndication agent, and the other banks party thereto (the “Revolving Credit Agreement”), for a total commitment of $4.0 billion. Financing under the Revolving Credit Agreement is available for general corporate purposes, including as a liquidity backstop to our commercial paper program. The commitments under the Revolving Credit Agreement may be increased by up to $1.25 billion in the aggregate upon our request at the discretion of the banks and subject to certain customary requirements. The commitments of each bank under the Revolving Credit Agreement have an initial term of five years and may be extended for up to two additional one year periods upon our request at the discretion of the respective banks, subject to certain customary requirements. The Revolving Credit Agreement amends and restates our existing revolving credit agreement dated as of December 12, 2019.
+
+Advances under the Revolving Credit Agreement will bear interest at an annual rate of, at our option, either (i) Adjusted Term SOFR Rate as defined in the Revolving Credit Agreement (or EURIBOR Rate as defined in the Revolving Credit Agreement for certain advances denominated in Euros) plus between 0.68% and 1.10%, depending on the rating of our senior long-term unsecured debt or (ii) the highest of (A) Citibank’s base commercial lending rate, (B) the overnight federal funds rate plus 0.50%, and
+(C) one-month
+Adjusted Term SOFR Rate plus 1.00%, plus between 0.00% and 0.10%, depending on the rating of our senior long-term unsecured debt. We have also agreed to pay a fee for committed funds under the Revolving Credit Agreement, whether used or unused, of between 0.07% and 0.15% per annum depending on the rating of our senior long-term unsecured debt. The Revolving Credit Agreement includes a $300 million
+sub-limit
+for issuances of letters of credit.
+
+The Revolving Credit Agreement contains customary affirmative and negative covenants, including limitations on mergers, consolidations and sales of assets, limitations on liens and sales and leasebacks, limitations on transactions with affiliates, and limitations on subsidiary indebtedness. In addition, the Revolving Credit Agreement requires maintenance of a minimum consolidated interest coverage ratio of EBITDA to total interest expense, each on a consolidated basis.
+
+The description of the Revolving Credit Agreement above does not purport to be complete and is qualified in its entirety by reference to the Revolving Credit Agreement, which is filed as Exhibit 10.1 to this report.
+
+Item 1.02.
+
+Termination of a Material Definitive Agreement.
+
+On December 12, 2022, the Company, Citibank, as administrative agent, Bank of America, N.A. (“Bank of America”), as syndication agent, and Citibank and Bank of America, as lead arrangers and book runners, entered into a bridge credit facility (the “Bridge Credit Facility”) (as filed in our Current Report on Form
+8-K
+on December 12, 2022) providing for borrowings of up to $28.5 billion to finance the Company’s acquisition of Horizon Therapeutics plc (the “Acquisition”).
+
+The commitments under the Bridge Credit Facility were automatically reduced on December 22, 2022 by the amount of our term loan credit facility (the “Term Loan Credit Facility”) (as filed in our Current Report on Form
+8-K
+on December 22, 2022) entered into by the Company, Citibank, as administrative agent, Bank of America, as syndication agent, Citibank, Bank of America, Goldman Sachs Bank USA and Mizuho Bank, Ltd., as lead arrangers and bookrunners, and Goldman Sachs Bank USA and Mizuho Bank, Ltd., as documentation agents, providing for (1) a $2,000,000,000
+18-month
+term loan tranche and (2) a $2,000,000,000
+3-year
+term loan tranche. The commitments under the Bridge Credit Facility were further reduced on March 2, 2023 by the net cash proceeds to the Company from the issuance and sale of senior notes of approximately $23,766,627,500 (the “Senior Note Proceeds”), after deducting underwriters’ discounts and estimated offering expenses payable by the Company (as described in our Current Report on Form
+8-K
+filed on March 2, 2023).
+
+On March 9, 2023, we elected to terminate all remaining outstanding commitments under our Bridge Credit Facility and terminate the Bridge Credit Facility in its entirety in accordance with its terms. In connection with the termination of the Bridge Credit Facility, all accrued and unpaid fees thereunder were paid in full. We elected to terminate the remaining outstanding commitments under our Bridge Credit Facility, as, together with cash on hand, the Senior Note Proceeds, and the commitments under our Term Loan Credit Facility, we have sufficient liquidity to finance the completion of the Acquisition, and the remaining commitments under the Bridge Credit Facility are not needed.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+Exhibit No.
+
+Document Description
+
+10.1
+
+Third Amended and Restated Credit Agreement, dated as of March 9, 2023, among Amgen Inc., the Banks therein named, Citibank, N.A., as Administrative Agent, and JPMorgan Chase Bank, N.A., as Syndication Agent.
+
+104
+
+Cover Page Interactive File (the cover page tags are embedded within the Inline XBRL document).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+AMGEN INC.
+
+Date: March 9, 2023
+
+By:
+
+/s/ Justin G. Claeys
+
+Name:
+
+Justin G. Claeys
+
+Title:
+
+Vice President, Finance and Treasurer

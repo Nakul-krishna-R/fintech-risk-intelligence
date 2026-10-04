@@ -1,0 +1,230 @@
+Common Stock
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+W
+ASHINGTON
+,
+D.C. 20549
+
+FORM
+8-K
+
+Current Report
+
+Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event
+reported):
+
+March 12,
+2021
+
+CATERPILLAR INC.
+
+(Exact name of registrant as specified in
+its charter)
+
+Delaware
+
+(State or other jurisdiction of
+
+incorporation)
+
+1-768
+
+(Commission File
+
+Number)
+
+37-0602744
+
+(I.R.S Employer Identification No.)
+
+510 Lake Cook Road
+,
+Suite 100
+,
+Deerfield
+,
+Illinois
+
+(Address of principal executive offices)
+
+60015
+
+(Zip Code)
+
+Registrant’s telephone number, including
+area code:
+(224)
+
+551-4000
+
+Former name or former address, if changed
+since last report:
+N/A
+
+¨
+Written communications pursuant to Rule
+425 under the Securities Act (17 CFR 230.425)
+
+¨
+Soliciting material pursuant to Rule 14a-12
+under the Exchange Act (17 CFR 240.14a-12)
+
+¨
+Pre-commencement communications pursuant
+to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+Pre-commencement communications pursuant
+to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange which registered
+
+Common Stock ($1.00 par value)
+
+CAT
+
+The New York Stock Exchange
+
+9 3/8% Debentures due March 15, 2021
+
+CAT21
+
+The New York Stock Exchange
+
+8% Debentures due February 15, 2023
+
+CAT23
+
+The New York Stock Exchange
+
+5.3% Debentures due September 15, 2035
+
+CAT35
+
+The New York Stock Exchange
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:
+
+Indicate by check mark whether the registrant is an emerging growth company as defined by Rule 405 of the Securities Act of 1933 (17 CFR §230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2 of this chapter).
+
+Emerging growth company
+¨
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+¨
+
+Item
+8.01 Other Events.
+
+On
+March 2, 2021, Caterpillar Inc. (the “Company”) entered into an Underwriting Agreement (the “Underwriting Agreement”)
+with BofA Securities, Inc., J.P. Morgan Securities LLC and MUFG Securities Americas Inc., as representatives of the several underwriters
+named therein (the “Underwriters”), with respect to the offering and sale of $500 million aggregate principal amount
+of the Company’s 1.900% Senior Notes due 2031 (the “Notes”) under the Company’s effective shelf registration
+statement on Form S-3 (File No. 333-228108) (the “Registration Statement”). The Underwriting Agreement contains customary
+representations, warranties and agreements by the Company, and customary closing conditions, indemnification rights and termination
+provisions.
+
+The
+sale of the Notes closed on March 12, 2021. The Notes are unsecured obligations of the Company and rank equally with all of the
+Company’s other unsecured senior indebtedness. The Company intends to use the net proceeds of the sale of the Notes, together
+with cash on hand, to redeem all of our $500 million aggregate principal amount of 2.600% Notes due 2022 at a redemption price
+equal to the applicable make-whole redemption price, plus accrued and unpaid interest thereon to, but excluding, the redemption
+date of March 15, 2021.
+
+The
+Notes were issued pursuant to the
+Indenture,
+dated as of May 1, 1987
+(as amended and supplemented from time to time, the “Indenture”), between the Company
+and U.S. Bank National Association, as successor trustee. The Notes were issued in minimum denominations of $2,000 and integral
+multiples of $1,000 in excess thereof and will bear interest at the rate of 1.900% per year and will mature on March 12, 2031.
+Interest on the Notes will be payable on March 12 and September 12 of each year, commencing on September 12, 2021, to the persons
+in whose names such Notes are registered on the fifteenth calendar day immediately preceding the relevant interest payment date
+(whether or not a business day). The amount of interest payable on the Notes will be computed on the basis of a 360-day year of
+twelve 30-day months. The Company may, at its option, redeem the Notes, at any time in whole or from time to time in part, at
+the redemption prices set forth in the Notes.
+
+The
+foregoing descriptions of the Underwriting Agreement and the Notes are qualified in their entirety by reference to the complete
+terms and conditions of the Underwriting Agreement and the form of the Notes, which are attached hereto as Exhibits 1.1 and 4.1,
+respectively, and incorporated herein by reference.
+
+The
+Underwriting Agreement has been included to provide investors and security holders with information regarding its terms and conditions.
+The representations, warranties and covenants contained in the Underwriting Agreement were made only for purposes of that agreement
+and as of specific dates, and were solely for the benefit of the parties to the Underwriting Agreement. Investors should not rely
+on the representations, warranties and covenants or any description thereof as characterizations of the actual state of facts or
+condition of the Company or any of its subsidiaries or affiliates. Moreover, information concerning the subject matter of the representations,
+warranties and covenants may change after the date of the Underwriting Agreement, which subsequent information may or may not be
+fully reflected in public disclosures by the Company.
+
+The
+following exhibits are filed with this Current Report on Form 8-K and are incorporated by reference herein and into the Registration
+Statement: (i) the Underwriting Agreement, (ii) the Form of 1.900% Senior Notes due 2031, and (iii) the legal opinion of Jennifer
+K. Schott, Deputy General Counsel and Assistant Corporate Secretary to the Company, and related consent.
+
+Item 9.01
+
+Financial Statements and Exhibits
+
+(d) Exhibits.
+
+Exhibit
+
+Number
+
+Description
+
+1.1
+
+Underwriting Agreement, dated as of March 2, 2021, by and among Caterpillar Inc., BofA Securities, Inc., J.P. Morgan Securities LLC and MUFG Securities Americas Inc., as representatives of the several underwriters named therei
+n
+
+4.1
+
+Form of 1.900% Senior Note due 2031
+
+5.1
+
+Opinion of Jennifer K. Schott, Deputy General Counsel and Assistant Corporate Secretary, relating to the legality of the Notes
+
+23.1
+
+Consent of Jennifer K. Schott, Deputy General Counsel and Assistant Corporate Secretary of the Company (included in Exhibit 5.1)
+
+104
+
+The cover page from this Current Report on Form 8-K, formatted in Inline XBRL.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+CATERPILLAR INC.
+
+March 12, 2021
+
+By:
+
+/s/ Suzette M. Long
+
+Suzette M. Long
+
+Chief Legal Officer & General Counsel

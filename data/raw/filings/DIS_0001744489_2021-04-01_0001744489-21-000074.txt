@@ -1,0 +1,100 @@
+________________________________________________________________________
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+April 1, 2021
+The Walt Disney Company
+(Exact name of registrant as specified in its charter)
+Delaware
+001-38842
+83-0940635
+(State or other jurisdiction
+(Commission File Number)
+(IRS Employer
+of incorporation)
+Identification No.)
+
+500 South Buena Vista Street
+
+Burbank
+,
+California
+
+91521
+
+(Address of Principal Executive Offices and Zip Code)
+(
+818
+)
+560-1000
+
+(Registrant’s telephone number, including area code)
+Not applicable
+
+(Former name or address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.01 par value
+DIS
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+________________________________________________________________________
+Item 8.01 Other Events
+This document provides a revised description of business and summary recast segment financial information for fiscal year 2020, 2019 and 2018 to reflect the following:
+Media and Entertainment Reorganization
+In October 2020, the Company reorganized its media and entertainment operations, which were previously reported in three segments: Media Networks, Studio Entertainment and Direct-to-Consumer & International. Under this reorganization, a single group is responsible for distributing all of the Company’s media and entertainment content across all platforms globally and has full accountability for the financial results of the media and entertainment businesses. Content in support of the distribution platforms is generally created by three production/content licensing groups: Studios, General Entertainment and Sports.
+As a result of the reorganization, effective at the beginning of the first quarter of fiscal 2021, operations of the media and entertainment businesses are reported as one segment, Disney Media and Entertainment Distribution (DMED), with financial results reported across three significant lines of business/distribution platforms: Direct-to-Consumer, Linear Networks and Content Sales/Licensing.
+Intersegment Transfer Pricing
+Under our previous segment structure, in certain instances production and distribution activities were in different segments. In these situations, for segment financial accounting purposes, the producer segment would recognize revenue based on an intersegment transfer price that included a “mark-up”. These transactions were reported “gross” (i.e. the segment producing the content reported revenue and the mark-up from intersegment transactions, and the required eliminations were reported on a separate “Eliminations” line when presenting a summary of our segment results). Under our new segment structure, the operating results of the production and distribution activities are reported in the same segment, and the fully loaded production cost is allocated across the distribution platforms utilizing the content.
+Elimination of Consumer Products Revenue Share
+Under our legacy segment financial reporting, the Studio Entertainment segment received a revenue share related to the consumer products business, which is included in the Disney Parks, Experiences and Products (DPEP) segment. Under the new reporting structure, DMED will not receive a revenue share from DPEP related to the consumer products business.
+Exhibit 99.1
+Exhibit 99.1 sets forth, and incorporated herein by reference are, Items 1, 2, 7 and 8 of the Company’s Annual Report on Form 10-K for the fiscal year ended October 3, 2020. This Current Report does not reflect events occurring after the November 25, 2020 filing date of the Annual Report and does not modify or update the disclosures therein except to present the above changes.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+23 -
+Consent of PricewaterhouseCoopers LLP
+99.1 -
+Updates to Annual Report on Form 10-K:
+- Part I, Item 1. Business
+- Part I, Item 2. Properties
+- Part II, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+- Part II, Item 8. Financial Statements and Supplementary Data
+101 -
+The following materials from the Company’s Annual Report on Form 10-K for the year ended October 3, 2020 formatted in Inline Extensible Business Reporting Language (iXBRL): (i) the Consolidated Statements of Operations, (ii) the Consolidated Statements of Comprehensive Income, (iii) the Consolidated Balance Sheets, (iv) the Consolidated Statements of Cash Flows, (v) the Consolidated Statements of Equity and (vi) related notes
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+The Walt Disney Company
+By:
+
+/s/ Brent A. Woodford
+
+Brent A. Woodford
+
+Executive Vice President
+
+Controllership, Financial Planning and Tax
+Dated: April 1, 2021

@@ -1,0 +1,176 @@
+UNITED
+
+STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+
+July 30, 2024
+
+NETFLIX, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-35727
+
+77-0467272
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+121 Albright Way
+,
+
+Los Gatos
+,
+California
+
+95032
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(
+408
+)
+540-3700
+
+(Registrant’s telephone number, including area code)
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+☐
+Written communications pursuant to Rule 425
+under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12
+under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to
+Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to
+Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock, par value $0.001 per share
+
+NFLX
+
+NASDAQ Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or
+Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 8.01. Other Events.
+
+On August 1, 2024, Netflix, Inc. (the “Company”) completed a registered public offering of $1 billion in aggregate principal amount of
+4.90% senior unsecured notes due 2034 and $800 million in aggregate principal amount of 5.40% senior unsecured notes due 2054 (collectively, the “Notes”) pursuant to an underwriting agreement (the “Underwriting Agreement”) with Morgan Stanley &
+Co. LLC, Goldman Sachs & Co. LLC, J.P. Morgan Securities LLC and Wells Fargo Securities, LLC, as representatives of the several underwriters named therein.
+
+The Notes were issued pursuant to an indenture dated as of July 29, 2024 (the “Base Indenture”), between the Company and Computershare
+Trust Company, National Association, as trustee (the “Trustee”), as supplemented by a supplemental indenture dated as of August 1, 2024 (the “Supplemental Indenture”), between the Company and the Trustee. The Company intends to use the net proceeds
+from the offering for the repayment at maturity of its outstanding 5.875% Senior Notes due 2025, 3.000% Senior Notes due 2025 and 3.625% Senior Notes due 2025, and for general corporate purposes. The Notes were issued and sold pursuant to the
+Company’s registration statement on Form S-3ASR (File No. 333-281071) (the “Registration Statement”).
+
+Copies of the Underwriting Agreement, the Base Indenture and Supplemental Indenture establishing the terms of the Notes, the forms of the
+Notes and the opinion of Wilson Sonsini Goodrich & Rosati, Professional Corporation, as to the validity of the Notes, are each filed as exhibits to this Current Report on Form 8-K and are incorporated herein by reference. The Company is filing
+this Current Report on Form 8-K to file certain items with the Securities and Exchange Commission that are to be incorporated by reference into the Registration Statement.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit No.
+
+Description
+
+1.1
+
+Underwriting Agreement, dated July 30, 2024, by and among Netflix, Inc. and Morgan Stanley & Co. LLC, Goldman Sachs & Co. LLC, J.P. Morgan
+Securities LLC and Wells Fargo Securities, LLC, as representatives of the several underwriters named therein.
+
+4.1
+
+Base Indenture, dated as of July 29, 2024, by and between Netflix, Inc. and Computershare Trust Company, National Association (incorporated by
+reference from Exhibit 4.1 to the Registration Statement).
+
+4.2
+
+Supplemental Indenture, dated as of August 1, 2024, by and between Netflix, Inc. and Computershare Trust Company, National Association
+
+4.3
+
+Form of Notes (included in Exhibit 4.2 above).
+
+5.1
+
+Opinion of Wilson Sonsini Goodrich & Rosati, Professional Corporation.
+
+23.1
+
+Consent of Wilson Sonsini Goodrich & Rosati, Professional Corporation (contained in Exhibit 5.1 above).
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+NETFLIX, INC.
+
+Dated:
+August 1, 2024
+
+By:
+
+/s/ Spencer Neumann
+
+Spencer Neumann
+
+Chief Financial Officer

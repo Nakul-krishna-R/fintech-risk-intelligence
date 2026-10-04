@@ -1,0 +1,187 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+DATE OF REPORT (Date of earliest event reported):
+November 12, 2021
+
+Linde plc
+
+(Exact name of registrant as specified in its charter)
+
+Ireland
+
+001-38730
+
+98-1448883
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(I.R.S. Employer
+Identification No.)
+
+The Priestley Centre
+
+10 Riverview Dr.
+
+10 Priestley Road
+
+Danbury
+,
+Connecticut
+
+Surrey Research Park
+
+United States
+
+06810
+
+Guildford
+,
+Surrey
+
+GU2 7XY
+
+United Kingdom
+
+(Address of principal executive offices) (Zip Code)
+
++
+44
+
+1483
+
+242200
+
+(Registrant’s telephone numbers, including area code)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+symbol(s)
+
+Name of each exchange
+on which registered
+
+Ordinary shares (€0.001 nominal value per share)
+
+LIN
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ITEM
+
+5.02
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(e) On October 25, 2021, the Board of Directors of Linde plc (the “Company”) appointed Sanjiv Lamba to succeed Stephen F. Angel as the Company’s Chief Executive Officer effective March 1, 2022. On November 12, 2021, the Company entered into an Offer Letter agreement with Mr. Lamba that sets forth certain terms of his employment and compensation effective March 1, 2022. Pursuant to the Offer Letter, (a) Mr. Lamba’s annual base salary will be $1,300,000; (b) he will be eligible to receive an annual variable compensation cash incentive payment at a target of 150% of his annual base salary pursuant to the Company’s Variable Compensation Program which provides for the opportunity to earn an annual cash award calculated based upon Company performance against previously set financial and
+non-financial
+goals; and (c) he will be eligible to receive annual long term equity incentive grants which are currently made in the form of stock options, performance share units, and restricted stock units at a target value of $9,750,000 for 2022.
+
+The Offer Letter also provides for certain other terms of Mr. Lamba’s employment and compensation including: (a) his participation in standard employee benefits programs, (b) the requirement that he enter into a Nondisclosure, Nonsolicitation and Noncompetition Agreement, and (c) the termination or expiration of certain existing compensatory agreements or arrangements with the Company and its subsidiaries, as more fully described in the Offer Letter.
+
+The foregoing description of Mr. Lamba’s compensation arrangements set forth in the Offer Letter is qualified in its entirety by reference to the Offer Letter and the Nondisclosure, Nonsolicitation and Noncompetition Agreement, each of which is attached as Exhibit 10.1 and 10.2, respectively, to this report and incorporated by reference into this Item 502(e).
+
+ITEM 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits. The following exhibits are filed herewith:
+
+Exhibit
+
+No.
+
+Description
+
+10.1
+
+Offer Letter between Linde plc and Sanjiv Lamba dated November 12, 2021.
+
+10.2
+
+Nondisclosure, Nonsolicitation and Noncompetition Agreement between Linde Inc. and Sanjiv Lamba dated as of November 7, 2021
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+LINDE PLC
+
+By:
+
+/s/ Guillermo Bichara
+
+Name:
+
+Guillermo Bichara
+
+Title:
+
+General Counsel
+
+Date: November 18, 2021

@@ -1,0 +1,327 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+May 29, 2024
+
+Exxon Mobil Corporation
+
+(Exact name of registrant as specified in its charter)
+
+New Jersey
+1-2256
+13-5409005
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+
+22777 Springwoods Village Parkway
+,
+
+Spring
+,
+
+Texas
+
+77389-1425
+
+(Address of principal executive offices) (Zip Code)
+
+Registrant’s telephone number, including area code:
+(
+972
+)
+
+940-6000
+
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+
+Name of Each Exchange
+Title of Each Class
+Trading Symbol
+on Which Registered
+Common Stock, without par value
+XOM
+New York Stock Exchange
+0.142% Notes due 2024
+XOM24B
+New York Stock Exchange
+0.524% Notes due 2028
+XOM28
+New York Stock Exchange
+0.835% Notes due 2032
+XOM32
+New York Stock Exchange
+1.408% Notes due 2039
+XOM39A
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+Item 5.07
+Submission of Matters to a Vote of Security Holders
+(a), (b)
+Exxon Mobil Corporation (the “Company,” “ExxonMobil,” “we,” or “our”) held its Annual Meeting of Shareholders on May 29, 2024. At the meeting, the matters set forth below were submitted for a vote of security holders.
+As of the close of business on April 3, 2024, which was the record date for the Annual Meeting, 3,942,353,584 shares of ExxonMobil common stock, without par value (“Common Stock”), were outstanding and entitled to vote.
+Set forth below are the proposals voted upon at the Annual Meeting, and the final vote tabulation that certified the voting results as received from the Inspector of Election. Based on the results, at least 3,302,904,215 shares of Common Stock were voted in person or by proxy at the Annual Meeting, representing 83.8% percent of the shares entitled to be voted. Percentages are based on the total votes cast. Under the corporate law of New Jersey, where we are incorporated, abstentions are not counted as votes cast.
+2
+The final voting results for the proposals presented at the Annual Meeting were as follows:
+Proposal 1 – Election of Directors
+The shareholders elected each of the Board’s twelve director nominees. The votes For and Against, as well as Abstentions and Broker Non-Votes, for each nominee are set forth below.
+Nominees
+Votes
+For
+%
+For
+Votes
+Against
+%
+Against
+Abstentions
+Broker
+Non-Votes
+Michael J. Angelakis
+2,561,406,060
+96.8
+%
+85,957,490
+3.2
+%
+8,629,460
+646,909,456
+Angela F. Braly
+2,504,926,838
+94.6
+%
+143,368,816
+5.4
+%
+7,689,371
+646,909,456
+Gregory J. Goff
+2,553,087,153
+96.4
+%
+94,632,409
+3.6
+%
+8,275,197
+646,909,456
+John D. Harris II
+2,574,327,842
+97.2
+%
+73,046,147
+2.8
+%
+8,619,181
+646,909,456
+Kaisa H. Hietala
+2,560,110,346
+96.7
+%
+87,539,262
+3.3
+%
+8,342,785
+646,909,456
+Joseph L. Hooley
+2,305,339,973
+87.1
+%
+340,736,593
+12.9
+%
+9,918,193
+646,909,456
+Steven A. Kandarian
+2,554,375,314
+96.5
+%
+92,856,263
+3.5
+%
+8,761,493
+646,909,456
+Alexander A. Karsner
+2,525,992,838
+95.4
+%
+121,261,975
+4.6
+%
+8,737,950
+646,909,456
+Lawrence W. Kellner
+2,549,173,473
+96.3
+%
+97,763,212
+3.7
+%
+9,058,075
+646,909,456
+Dina Powell McCormick
+2,606,634,337
+98.4
+%
+41,114,475
+1.6
+%
+8,244,358
+646,909,456
+Jeffrey W. Ubben
+2,533,220,367
+95.7
+%
+113,917,329
+4.3
+%
+8,855,419
+646,909,456
+Darren W. Woods
+2,425,080,096
+91.6
+%
+222,995,219
+8.4
+%
+7,909,435
+646,909,456
+The shareholders voted as set forth below on two management proposals:
+Proposal 2 – Ratification of Independent Auditors:
+Votes Cast For:
+3,197,567,441
+97.1
+%
+Votes Cast Against:
+96,648,437
+2.9
+%
+Abstentions:
+8,687,798
+Broker Non-Votes:
+0
+Proposal 3 – Advisory Vote to Approve Executive Compensation:
+Votes Cast For:
+2,431,692,553
+92.3
+%
+Votes Cast Against:
+203,869,281
+7.7
+%
+Abstentions:
+20,408,253
+Broker Non-Votes:
+646,909,456
+3
+The shareholders voted as set forth below on four shareholder proposals:
+Proposal 4 – Revisit Executive Pay Incentives for GHG Emission Reductions:
+Votes Cast For:
+44,845,415
+1.7
+%
+Votes Cast Against:
+2,591,710,537
+98.3
+%
+Abstentions:
+19,266,391
+Broker Non-Votes:
+646,909,456
+Proposal 5 – Additional Pay Report on Gender and Racial Basis:
+Votes Cast For:
+528,148,196
+20.0
+%
+Votes Cast Against:
+2,106,469,984
+80.0
+%
+Abstentions:
+21,185,822
+Broker Non-Votes:
+646,909,456
+Proposal 6 – Report on Plastic Production Under SCS Scenario:
+Votes Cast For:
+546,032,996
+20.8
+%
+Votes Cast Against:
+2,078,287,997
+79.2
+%
+Abstentions:
+31,501,754
+Broker Non-Votes:
+646,909,456
+Proposal 7 – Additional Social Impact Report:
+Votes Cast For:
+196,053,322
+7.5
+%
+Votes Cast Against:
+2,428,440,098
+92.5
+%
+Abstentions:
+31,495,338
+Broker Non-Votes:
+646,909,456
+Item 5.02
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+As previously reported by the Company in its Form 8-K filed with the U.S. Securities and Exchange Commission on May 3, 2024, Maria S. Dreyfus was elected as a non-employee director of the Company in connection with the acquisition of Pioneer Natural Resources Company. Ms. Dreyfus was not included with the Company’s nominees for election by shareholders at the Company’s annual meeting of shareholders on May 29, 2024 but was re-elected for a full term by the Company’s Board of Directors immediately following the annual meeting of shareholders.
+Initial Board Committee assignments for Ms. Dreyfus have not been determined at the time of this filing. The Form 8-K filed on May 3, 2024 will be amended to include that information when available.
+4
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+EXXON MOBIL CORPORATION
+
+Date: May 31, 2024
+By:
+/s/ LEN M. FOX
+
+Len M. Fox
+
+Vice President and Controller
+(Principal Accounting Officer)
+5

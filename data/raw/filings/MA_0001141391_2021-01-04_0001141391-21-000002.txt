@@ -1,0 +1,105 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+_______________________________________
+FORM
+8-K
+
+_______________________________________
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+December 31, 2020
+_______________________________________
+Mastercard Incorporated
+(Exact name of registrant as specified in its charter)
+
+_______________________________________
+Delaware
+001-32877
+13-4172551
+(State or other jurisdiction
+of incorporation)
+(Commission File
+Number)
+(IRS Employer
+Identification No.)
+2000 Purchase Street
+10577
+Purchase,
+NY
+(Address of principal executive offices)
+(Zip Code)
+(914)
+249-2000
+(Registrant's telephone number, including area code)
+NOT APPLICABLE
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+1
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange of which registered
+Class A Common Stock
+MA
+New York Stock Exchange
+1.100% Notes due 2022
+MA22
+New York Stock Exchange
+2.100% Notes due 2027
+MA27
+New York Stock Exchange
+2.500% Notes due 2030
+MA30
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+2
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers
+As described in further detail in the proxy statement for its 2020 annual meeting of stockholders, Mastercard Incorporated (“Mastercard” or the “Company”) has designed executive compensation programs to support its strategic objectives to grow, diversify and build the Company and to attract, motivate and retain its executives, who are critical to Mastercard’s long-term success. To achieve these objectives, the Human Resources and Compensation Committee (the “HRCC”) of the Board of Directors has the authority to make adjustments to ensure that compensation appropriately reflects operating performance that is reasonably within management's control and to achieve desired human capital objectives, including the retention and engagement of leadership talent needed to execute the Company’s business strategy and create long-term value for stockholders. Historically, the HRCC has used this authority from time to time to adjust payouts under the compensation programs, including by applying its discretion to reduce bonus payouts in consideration of performance against strategic objectives.
+On December 31, 2020, the HRCC made certain adjustments to the terms of annual incentive awards for 2020 (“2020 Annual Incentive Award”) and Performance Stock Unit awards with the three-year performance period ending December 31, 2020 scheduled to vest in 2021 (“2018 PSU Awards”) to account for the effect of the COVID-19 pandemic while also ensuring that compensation appropriately reflects operating performance that is reasonably within management's control.
+In contemplating potential adjustments, the HRCC carefully considered the Company’s Total Shareholder Return (“TSR”) to ensure the continued alignment of executive and stockholder interests. The Company’s one-year TSR as of December 31, 2020 was 20%, which was at the 68th percentile of the S&P 500. Mastercard’s three-year TSR as of December 31, 2020 was 140%, which was at the 94th percentile of the S&P 500.
+Specifically, on December 31, 2020, the HRCC approved modifications to the performance targets previously established for the 2020 Annual Incentive Awards and 2018 PSU Awards for the entire population of bonus-eligible employees and PSU holders, including the Company’s named executive officers. The HRCC decided to cap the maximum payout of both the 2020 Annual Incentive Awards and the 2018 PSU Awards at the target payout amount. The effect of the HRCC’s actions will result in a compensation outcome for 2020 that will be lower than that paid in each of the three years preceding the pandemic.
+The modifications to the 2020 Annual Incentive Awards consist of the one-time exclusion from the financial performance targets of the financial impact of the decrease in Personal Consumption Expenditure (“PCE”) and the decrease in cross-border travel due to the pandemic, both of which are outside of the Company’s control. The financial performance target modifications also exclude certain pandemic-related expense savings (such as T&E savings) from which employees would have otherwise benefited in connection with the determination of payouts under the Annual Incentive Awards.
+The 2018 PSU Awards by their original terms already contain a target adjustment for PCE. Therefore, the only modifications to the 2018 PSU Awards are to exclude from the financial targets the impact of the decrease in cross-border travel and certain pandemic-related expense savings (e.g., T&E savings).
+The target adjustments for the 2020 Annual Incentive Awards and 2018 PSU Awards are determined by incorporating independent third-party data measuring the impact of the COVID-19 pandemic on PCE and cross-border travel. Final payouts will be calculated based on achievement against these adjusted targets, subject to a maximum payout at target.
+In approving the above modifications, the HRCC acknowledged the unprecedented changes in the economic environment and the impact on the Company’s employees and stockholders as a result of the COVID-19 pandemic. The HRCC believes these modified performance targets facilitate a more accurate measurement of performance that is reasonably within management’s control and ensure the Company can continue to retain and motivate its key employees who are needed to execute the Company’s business strategy and sustain the creation of long-term value for stockholders.
+3
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits.
+Exhibit Number
+Exhibit Description
+104
+Cover Page Interactive Data File - the cover page interactive data file does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+4
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+MASTERCARD INCORPORATED
+Date:
+January 4, 2021
+By:
+/s/ Janet McGinness
+Janet McGinness
+Corporate Secretary
+5

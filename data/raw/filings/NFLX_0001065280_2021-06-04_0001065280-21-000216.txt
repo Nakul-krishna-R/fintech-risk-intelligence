@@ -1,0 +1,159 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+__________________________________
+FORM
+8-K
+
+__________________________________
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+June 3, 2021
+
+__________________________________
+NETFLIX, INC.
+(Exact name of registrant as specified in its charter)
+__________________________________
+Delaware
+001-35727
+77-0467272
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+100 Winchester Circle
+,
+Los Gatos
+,
+California
+95032
+(Address of principal executive offices)
+(Zip Code)
+(
+408
+)
+540-3700
+
+(Registrant’s telephone number, including area code)
+(Former name or former address, if changed since last report)
+__________________________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, par value $0.001 per share
+NFLX
+NASDAQ Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.07
+Submission of Matters to a Vote of Security Holders.
+On June 3, 2021, Netflix, Inc. (the “Company”) held its annual meeting of stockholders via the internet (“Annual Meeting”). As of April 8, 2021, the Company’s record date, there were a total of 443,402,736 shares of common stock outstanding and entitled to vote at the Annual Meeting. At the Annual Meeting, 382,582,309 shares of common stock were represented in person or by proxy and, therefore, a quorum was present. For more information about the following proposals, see the Company's definitive proxy statement dated April 23, 2021.
+The number of votes cast, as applicable, for, against and withheld, and the number of abstentions and broker non-votes with respect to each matter voted upon are set forth below:
+1. The following individuals were elected as Class I directors at the Annual Meeting to serve until the 2024 annual meeting of stockholders, by the following votes:
+
+Nominee
+For
+Withheld
+Broker Non-Votes
+Richard N. Barton
+93,420,662
+250,304,183
+38,857,464
+Nominee
+For
+Withheld
+Broker Non-Votes
+Rodolphe Belmer
+194,634,880
+149,089,965
+38,857,464
+Nominee
+For
+Withheld
+Broker Non-Votes
+Bradford L. Smith
+141,411,983
+202,312,862
+38,857,464
+Nominee
+For
+Withheld
+Broker Non-Votes
+Anne M. Sweeney
+182,768,593
+160,956,252
+38,857,464
+2. The proposal to ratify the appointment of Ernst & Young LLP as the Company’s independent registered public accounting firm for the year ending December 31, 2021 was approved by the following votes:
+
+For
+Against
+Abstain
+374,139,480
+7,966,132
+476,697
+3. The proposal to approve the Company's executive officer compensation on a non-binding advisory basis was approved by the following votes:
+
+For
+Against
+Abstain
+Broker Non-Votes
+173,891,929
+169,241,589
+591,327
+38,857,464
+4.
+The non-binding stockholder proposal entitled, "Proposal 4 - Political Disclosures" was approved by the following votes:
+
+For
+Against
+Abstain
+Broker Non-Votes
+275,897,576
+66,167,998
+1,659,271
+38,857,464
+5. The non-binding stockholder proposal entitled, "Proposal 5 - Simple Majority Vote" was approved by the following votes:
+For
+Against
+Abstain
+Broker Non-Votes
+309,083,100
+33,823,622
+818,123
+38,857,464
+6. The non-binding stockholder proposal entitled, "Stockholder Proposal to Improve the Executive Compensation Philosophy" was not approved and received the following votes:
+For
+Against
+Abstain
+Broker Non-Votes
+12,271,599
+329,057,740
+2,395,506
+38,857,464
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+NETFLIX, INC.
+Date:
+June 4, 2021
+/s/ David Hyman
+David Hyman
+Chief Legal Officer and Secretary

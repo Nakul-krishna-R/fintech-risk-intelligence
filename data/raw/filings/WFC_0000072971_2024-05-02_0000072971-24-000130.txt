@@ -1,0 +1,382 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (date of earliest event reported):
+April 30, 2024
+
+WELLS FARGO & COMPANY
+(Exact name of registrant as specified in its charter)
+Delaware
+
+001-02979
+
+No.
+41-0449260
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission File
+Number)
+
+(IRS Employer
+Identification No.)
+
+420 Montgomery Street
+,
+San Francisco
+,
+California
+
+94104
+
+(Address of principal executive offices) (Zip Code)
+Registrant's telephone number, including area code:
+1-
+866
+-
+249-3302
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol
+Name of Each Exchange
+on Which Registered
+Common Stock, par value $1-2/3
+WFC
+New York Stock
+Exchange
+(
+NYSE
+)
+7.5% Non-Cumulative Perpetual Convertible Class A Preferred Stock, Series L
+WFC.PRL
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Y
+WFC.PRY
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Z
+WFC.PRZ
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series AA
+WFC.PRA
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series CC
+WFC.PRC
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series DD
+WFC.PRD
+NYSE
+Guarantee of Medium-Term Notes, Series A, due October 30, 2028 of Wells Fargo Finance LLC
+WFC/28A
+NYSE
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act (17 CFR 230.405) or Rule 12b-2 of the Exchange Act (17 CFR 240.12b‑2).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+o
+Item 5.03 Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+As discussed under Item 5.07 of this Current Report on Form 8-K, at the 2024 Annual Meeting (as defined below) for Wells Fargo & Company (the “Company”), the Company’s shareholders approved an amendment to the Restated Certificate of Incorporation (the “Certificate”) to opt out of Delaware General Corporation Law (“DGCL”) Section 203.
+The amendment to the Certificate became effective upon the Company’s filing of a certificate of amendment on May 2, 2024, with the Secretary of the State of Delaware (the “Secretary of State”). Pursuant to DGCL Section 203(b)(3), the provision will not become eﬀective until 12 months after the ﬁling and eﬀectiveness of the certiﬁcate of amendment setting forth the amendment. The Board of Directors of the Company (the “Board”) also approved a Restated Certificate of Incorporation (the “Restated Certificate”), that restated and integrated, but did not further amend, the Certificate (as amended through the filing of the certificate of amendment described above). On May 2, 2024, the Company filed the Restated Certificate with the Secretary of State, and it was effective on filing.
+The foregoing descriptions of the amendments to the Certificate are qualified by reference to the full text of the certificate of amendment and the Restated Certificate, copies of which are filed herewith as Exhibits 3.1 and 3.2, respectively, and incorporated herein by reference.
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+The Company held its annual meeting of shareholders on
+April 30, 2024
+(“2024 Annual Meeting”). At the 2024 Annual Meeting, shareholders elected the 13 director nominees nominated by the Board as each director nominee received a greater number of votes cast “for” his or her election than votes cast “against” his or her election, as reflected below. In addition, shareholders approved, on an advisory basis, the compensation of the Company’s named executives as disclosed in the Proxy Statement; ratified the appointment of KPMG LLP as the Company’s independent registered public accounting firm for 2024; and approved an amendment to the Certificate to opt out of DGCL Section 203. Shareholders did not approve a proposed amendment to the Company’s By-Laws to remove the supermajority vote standard to amend the local directors provision. The eight shareholder proposals presented at the 2024 Annual Meeting described below did not receive majority support. The final voting results for each item presented at the 2024 Annual Meeting are set forth below. Voting results are, when applicable, reported by rounding fractional share voting up or down to the nearest round number.
+Election of Director Nominees
+DIRECTOR
+FOR
+%
+1
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+Steven D. Black
+2,676,651,898
+95.28%
+132,652,883
+14,449,769
+309,801,446
+Mark A. Chancy
+2,740,098,795
+97.54%
+69,201,239
+14,454,517
+309,801,446
+Celeste A. Clark
+2,717,413,235
+96.69%
+93,058,861
+13,282,454
+309,801,446
+Theodore F. Craver, Jr.
+2,716,242,527
+96.73%
+91,778,516
+15,733,506
+309,801,446
+Richard K. Davis
+2,744,175,335
+96.67%
+65,425,431
+14,153,784
+309,801,446
+Fabian T. Garcia
+2,729,393,290
+97.16%
+79,867,848
+14,493,412
+309,801,446
+Wayne M. Hewett
+2,547,652,038
+90.70%
+261,376,359
+14,726,154
+309,801,446
+CeCelia G. Morken
+2,737,641,251
+97.42%
+72,577,850
+13,535,450
+309,801,446
+Maria R. Morris
+2,727,278,270
+97.03%
+83,430,240
+13,046,039
+309,801,446
+Felicia F. Norwood
+2,740,981,369
+97.54%
+69,148,215
+13,624,966
+309,801,446
+Ronald L. Sargent
+2,672,534,061
+95.13%
+136,830,936
+14,389,553
+309,801,446
+Charles W. Scharf
+2,732,492,881
+97.25%
+77,245,551
+14,016,118
+309,801,446
+Suzanne M. Vautrinot
+2,735,210,923
+97.33%
+75,156,591
+13,387,037
+309,801,446
+Advisory Resolution to Approve Executive Compensation (Say on Pay)
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+2,618,568,744
+92.73%
+189,660,838
+15,524,968
+309,801,446
+Ratify the Appointment of KPMG LLP as the Company’s Independent Registered Public Accounting Firm for 2023
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+2,954,827,444
+94.30%
+167,509,696
+11,218,856
+—
+_________________________________
+1
+Votes cast for the proposal as a percentage of total votes cast for and against.
+2
+Votes cast for the proposal as a percentage of total votes cast for and against and abstentions.
+3
+Votes cast for the proposal as a percentage of total common stock outstanding.
+4
+Votes cast for the proposal as a percentage of total common stock outstanding at the time of the amendment.
+Approve an Amendment to the Restated Certificate of Incorporation to Opt Out of DGCL Section 203
+FOR
+%
+3
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+2,770,856,131
+78.26%
+37,463,801
+15,434,618
+309,801,446
+Approve an Amendment to the
+By-Laws to Remove the Supermajority Vote Standard to Amend the Local Directors Provision
+FOR
+%
+4
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+2,734,665,089
+78.73%
+74,635,857
+14,453,604
+309,801,446
+Shareholder Proposal – Annual Report on Prevention of Workplace Harassment and Discrimination
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+795,263,411
+28.16%
+1,996,476,022
+32,015,118
+309,801,446
+Shareholder Proposal – Third-Party Assessment of Respect for Freedom of Association and Collective Bargaining
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+854,046,592
+30.25%
+1,941,069,918
+28,638,040
+309,801,446
+Shareholder Proposal – Report on Respecting Indigenous Peoples’ Rights
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+673,468,042
+23.85%
+2,121,307,887
+28,978,621
+309,801,446
+Shareholder Proposal – Audit of Climate Transition Policies
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+74,178,995
+2.63%
+2,723,206,981
+26,368,575
+309,801,446
+Shareholder Proposal – Annual Climate Lobbying Congruency Report
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+773,914,447
+27.41%
+1,990,182,399
+59,657,704
+309,801,446
+Shareholder Proposal – Annual Report on Congruency of Political Spending and Corporate Values
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+697,480,093
+24.70%
+2,063,677,488
+62,596,969
+309,801,446
+Shareholder Proposal – Transparency in Lobbying Annual Report
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+998,316,435
+35.35%
+1,767,566,370
+57,871,745
+309,801,446
+Shareholder Proposal – Report on Risks of Politicized De-Banking
+FOR
+%
+2
+AGAINST
+ABSTENTIONS
+BROKER
+NON-VOTES
+78,582,570
+2.78%
+2,711,767,125
+33,404,854
+309,801,446
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits
+
+Exhibit No.
+Description
+Location
+3.1
+Certificate of Amendment of Restated Certificate of Incorporation
+Filed herewith
+3.2
+Restated Certificate of Incorporation, as amended and in effect on the date hereof
+Filed herewith
+104
+Cover Page Interactive Data File
+Embedded within the Inline XBRL document
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated:
+May 2, 2024
+WELLS FARGO & COMPANY
+By:
+/s/ EMMA M. BAILEY
+Emma M. Bailey
+Executive Vice President, Deputy General Counsel and Secretary

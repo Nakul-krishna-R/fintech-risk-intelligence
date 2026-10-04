@@ -1,0 +1,214 @@
+________________________________________________________________________
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+April 3, 2023
+The Walt Disney Company
+(Exact name of registrant as specified in its charter)
+Delaware
+001-38842
+83-0940635
+(State or other jurisdiction
+(Commission File Number)
+(IRS Employer
+of incorporation)
+Identification No.)
+
+500 South Buena Vista Street
+
+Burbank
+,
+California
+
+91521
+
+(Address of Principal Executive Offices and Zip Code)
+(
+818
+)
+560-1000
+
+(Registrant’s telephone number, including area code)
+Not applicable
+
+(Former name or address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.01 par value
+DIS
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+________________________________________________________________________
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+
+(a-b) The final results of voting on each of the matters submitted to a vote of security holders during the Registrant’s annual meeting of shareholders on April 3, 2023 are as follows.
+1.
+Election of Directors:
+For
+Against
+Abstentions
+Broker
+Non-Votes
+Mary T. Barra
+1,082,712,132
+40,260,933
+29,260,272
+246,275,740
+Safra A. Catz
+1,124,101,969
+21,860,641
+6,270,727
+246,275,740
+Amy L. Chang
+1,102,103,322
+20,694,100
+29,435,915
+246,275,740
+Francis A. deSouza
+1,092,226,941
+30,390,418
+29,615,978
+246,275,740
+Carolyn N. Everson
+1,127,907,213
+20,392,822
+3,933,302
+246,275,740
+Michael B.G. Froman
+1,091,045,671
+31,309,882
+29,877,784
+246,275,740
+Robert A. Iger
+1,111,066,881
+38,023,424
+3,143,032
+246,275,740
+Maria Elena Lagomasino
+1,045,572,065
+77,145,634
+29,515,638
+246,275,740
+Calvin R. McDonald
+1,090,864,368
+31,294,850
+30,074,119
+246,275,740
+Mark G. Parker
+1,045,824,057
+76,772,979
+29,636,301
+246,275,740
+Derica W. Rice
+1,060,805,797
+61,304,069
+30,123,471
+246,275,740
+For
+Against
+Abstentions
+2.
+Ratification of the appointment of PricewaterhouseCoopers LLP as independent registered public accountants
+1,311,359,484
+57,138,272
+30,011,320
+For
+Against
+Abstentions
+Broker
+Non-Votes
+3.
+Advisory vote to approve executive compensation
+994,691,796
+125,442,603
+32,098,938
+246,275,740
+One Year
+Two Years
+Three Years
+Abstentions
+Broker
+Non-Votes
+4.
+Advisory vote on the frequency of advisory votes on executive
+compensation
+1,126,746,433
+3,853,470
+15,468,333
+6,165,100
+246,275,740
+For
+Against
+Abstentions
+Broker
+Non-Votes
+5.
+Shareholder proposal requesting a report on operations related to China
+82,010,559
+1,024,266,893
+45,955,885
+246,275,740
+For
+Against
+Abstentions
+Broker
+Non-Votes
+6.
+Shareholder proposal requesting charitable contributions disclosure
+85,360,199
+1,062,900,765
+3,972,373
+246,275,740
+For
+Against
+Abstentions
+Broker
+Non-Votes
+7.
+Shareholder proposal requesting a political expenditures report
+417,542,731
+731,761,347
+2,929,258
+246,275,740
+(d) On April 3, 2023, following the Registrant’s annual meeting of shareholders, the Board of Directors adopted a resolution providing that an advisory vote on executive compensation would be presented for a vote by shareholders of the Registrant at each annual shareholder meeting until such time as the Board of Directors determines to change the frequency of such votes.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+Exhibit
+Number
+Description
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+The Walt Disney Company
+By:
+
+/s/ Jolene E. Negre
+
+Jolene E. Negre
+
+Associate General Counsel and Secretary
+Dated: April 4, 2023

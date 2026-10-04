@@ -1,0 +1,272 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+January 31, 2024
+Accenture plc
+
+(Exact name of Registrant as specified in its charter)
+Ireland
+001-34448
+98-0627530
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+1 Grand Canal Square
+
+Grand Canal Harbour
+
+Dublin
+
+2
+,
+Ireland
+
+(Address of principal executive offices)
+Registrant’s telephone number, including area code: (
+353
+) (
+1
+)
+646-2000
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A ordinary shares, par value $0.0000225 per share
+ACN
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers
+On January 31, 2024, Accenture plc (“Accenture”) held its 2024 annual general meeting of shareholders (the “Annual Meeting”). At the Annual Meeting, Accenture’s shareholders approved amendments and restatements of the Amended and Restated Accenture plc 2010 Share Incentive Plan (as amended and restated, the “Amended 2010 SIP”) and of the Amended and Restated Accenture plc 2010 Employee Share Purchase Plan (as amended and restated, the “Amended 2010 ESPP”), which had previously been approved by the Board of Directors of Accenture (the “Board”), subject to shareholder approval.
+The Amended 2010 SIP is substantially the same as the prior Amended and Restated Accenture plc 2010 Share Incentive Plan, except that it has been amended to, among other things, (1) authorize an additional 14 million shares for issuance, (2) add an explicit prohibition on reload option grants and (3) update the recoupment provisions to reflect that Accenture’s Mandatory Clawback Policy and Accenture’s Senior Leadership Clawback Policy apply to all awards granted under the plan.
+The Amended 2010 ESPP is substantially the same as the prior Amended and Restated Accenture plc 2010 Employee Share Purchase Plan, except that it has been amended to, among other things, (1) authorize an additional 45 million shares for issuance and (2) extend the term of the plan until December 13, 2033.
+The material terms of the Amended 2010 SIP and the Amended 2010 ESPP are described in Accenture’s definite proxy statement for the Annual Meeting filed with the Securities and Exchange Commission on December 13, 2023 (the “Proxy Statement”), and the descriptions of the plans included in the Proxy Statement under the sections entitled “
+Proposal 3: Approval of Amended and Restated Accenture plc 2010 Share Incentive Plan
+” and “
+Proposal 4: Approval of Amended and Restated Accenture plc 2010 Employee Share Purchase Plan
+” are incorporated herein by reference. The descriptions of the Amended 2010 SIP and the Amended 2010 ESPP are qualified in their entirety by reference to the full text of the (1) Amended 2010 SIP, a copy of which is filed as Exhibit 10.1 hereto, and (2) Amended 2010 ESPP, a copy of which is filed as Exhibit 10.2 hereto.
+Item 5.07 Submission of Matters to a Vote of Security Holders
+On January 31, 2024, Accenture held its Annual Meeting. Accenture’s shareholders approved each of the following proposals considered at the Annual Meeting. The following chart sets forth the number and percentage of votes cast for and against, and the number of abstention votes and broker non-votes, with respect to each proposal voted upon by Accenture’s shareholders (proposal numbers correspond to the proposal numbers used in the Proxy Statement):
+Proposals
+For
+Against
+Abstained
+Broker
+Non-Votes
+1.
+To appoint the following directors:
+Jaime Ardila
+462,941,319
+99.17
+%
+3,882,272
+0.83
+%
+577,595
+52,703,053
+Martin Brudermüller
+460,850,913
+98.74
+%
+5,892,448
+1.26
+%
+657,825
+52,703,053
+Alan Jope
+465,913,182
+99.82
+%
+857,634
+0.18
+%
+630,370
+52,703,053
+Nancy McKinstry
+364,814,022
+78.25
+%
+101,400,226
+21.75
+%
+1,186,938
+52,703,053
+Beth E. Mooney
+460,801,656
+98.73
+%
+5,932,943
+1.27
+%
+666,587
+52,703,053
+Gilles C. Pélisson
+452,798,698
+97.00
+%
+13,998,716
+3.00
+%
+603,772
+52,703,053
+Paula A. Price
+444,974,372
+95.33
+%
+21,796,136
+4.67
+%
+630,678
+52,703,053
+Venkata (Murthy) Renduchintala
+465,952,479
+99.83
+%
+805,944
+0.17
+%
+642,763
+52,703,053
+Arun Sarin
+458,491,469
+98.23
+%
+8,246,242
+1.77
+%
+663,475
+52,703,053
+Julie Sweet
+436,676,407
+93.82
+%
+28,775,746
+6.18
+%
+1,949,033
+52,703,053
+Tracey T. Travis
+428,424,979
+91.79
+%
+38,323,815
+8.21
+%
+652,392
+52,703,053
+2.
+To approve, in a non-binding vote, the compensation of Accenture’s named executive officers
+422,985,753
+90.89
+%
+42,383,248
+9.11
+%
+2,032,185
+52,703,053
+3.
+To approve the Amended and Restated Accenture plc 2010 Share Incentive Plan to increase the number of shares available for issuance thereunder
+446,707,655
+95.73
+%
+19,916,553
+4.27
+%
+776,978
+52,703,053
+4.
+To approve the Amended and Restated Accenture plc 2010 Employee Share Purchase Plan to increase the number of shares available for issuance and make other amendments
+461,814,824
+98.93
+%
+5,013,647
+1.07
+%
+572,715
+52,703,053
+5.
+To ratify, in a non-binding vote, the appointment of KPMG LLP (“KPMG”) as Accenture’s independent auditor and to authorize, in a binding vote, the Audit Committee of the Board to determine KPMG’s remuneration
+489,074,597
+94.22
+%
+29,980,526
+5.78
+%
+1,049,116
+—
+6.
+To grant the Board the authority to issue shares under Irish law
+506,107,925
+97.42
+%
+13,407,147
+2.58
+%
+589,167
+—
+7.
+To grant the Board the authority to opt-out of pre-emption rights under Irish law
+485,013,989
+93.40
+%
+34,253,262
+6.60
+%
+836,988
+—
+8.
+To determine the price range at which Accenture can re-allot shares that it acquires as treasury shares under Irish law
+515,387,429
+99.42
+%
+3,023,976
+0.58
+%
+1,692,834
+—
+
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+Exhibit No.
+Description
+10.1
+Amended and Restated Accenture plc 2010 Share Incentive Plan
+10.2
+Amended and Restated Accenture plc 2010 Employee Share Purchase Plan
+104
+The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+Date: January 31, 2024
+ACCENTURE PLC
+By:
+/s/ Joel Unruch
+Name:
+Joel Unruch
+Title:
+General Counsel & Corporate Secretary

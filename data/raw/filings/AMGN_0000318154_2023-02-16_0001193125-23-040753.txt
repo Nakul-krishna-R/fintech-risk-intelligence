@@ -1,0 +1,173 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+February 15, 2023
+
+Amgen Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-37702
+
+95-3540776
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+One Amgen Center Drive
+
+Thousand Oaks
+
+California
+
+91320-1799
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code
+
+(805)
+
+447-1000
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common stock, $0.0001 par value
+
+AMGN
+
+The Nasdaq Stock Market LLC
+
+2.000% Senior Notes due 2026
+
+AMGN26
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule
+12b-2
+of the Securities Exchange Act of 1934 (17 CFR
+§240.12b-2).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01.
+
+Entry into a Material Definitive Agreement.
+
+On February 15, 2023, Amgen Inc. (the “Company”) entered into an underwriting agreement (the “Underwriting Agreement”) with Citigroup Global Markets Inc., BofA Securities, Inc., Goldman Sachs & Co. LLC and Mizuho Securities USA LLC, as representatives of the several underwriters named therein (the “Underwriters”), to issue and sell to the Underwriters $2,000,000,000 aggregate principal amount of the Company’s 5.250% Senior Notes due 2025 (the “2025 Notes”), $1,500,000,000 aggregate principal amount of the Company’s 5.507% Senior Notes due 2026 (the “2026 Notes”), $3,750,000,000 aggregate principal amount of the Company’s 5.150% Senior Notes due 2028 (the “2028 Notes”), $2,750,000,000 aggregate principal amount of the Company’s 5.250% Senior Notes due 2030 (the “2030 Notes”), $4,250,000,000 aggregate principal amount of the Company’s 5.250% Senior Notes due 2033 (the “2033 Notes”), $2,750,000,000 aggregate principal amount of the Company’s 5.600% Senior Notes due 2043 (the “2043 Notes”), $4,250,000,000 aggregate principal amount of the Company’s 5.650% Senior Notes due 2053 (the “2053 Notes”), and $2,750,000,000 aggregate principal amount of the Company’s 5.750% Senior Notes due 2063 (the “2063 Notes,” and together with the 2025 Notes, 2026 Notes, 2028 Notes, 2030 Notes, 2033 Notes, 2043 Notes and 2053 Notes, the “Notes”).
+
+The Notes will rank equal in right of payment to all of the Company’s other existing and future senior unsecured indebtedness, senior in right of payment to all of the Company’s existing and future subordinated indebtedness, effectively subordinated in right of payment to all of the Company’s subsidiaries’ obligations (including secured and unsecured obligations) and subordinated in right of payment to the Company’s secured obligations, to the extent of the assets securing such obligations.
+
+The offering of the Notes is expected to close on March 2, 2023, subject to customary closing conditions.
+
+The above description of the Underwriting Agreement is qualified in its entirety by reference to the Underwriting Agreement, which is filed as Exhibit 1.1 to this Current Report on
+Form 8-K and
+is incorporated herein by reference.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+Exhibit
+No.
+
+Document Description
+
+1.1
+
+Underwriting Agreement, dated February 15, 2023, by and among the Company and Citigroup Global Markets Inc., BofA Securities, Inc., Goldman Sachs & Co. LLC and Mizuho Securities USA LLC, as representatives of the several underwriters named therein
+
+104
+
+Cover Page Interactive File (the cover page tags are embedded within the Inline XBRL document).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+AMGEN INC.
+
+Date: February 16, 2023
+
+By:
+
+/s/ Justin G. Claeys
+
+Name:
+
+Justin G. Claeys
+
+Title:
+
+Vice President, Finance and Treasurer

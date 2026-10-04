@@ -1,0 +1,256 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of report (Date of earliest event reported):
+May 16, 2023
+
+PFIZER INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+1-3619
+
+13-5315170
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+66 Hudson Boulevard East
+
+New York
+,
+New York
+
+10001-2192
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+
+(212)
+
+733-2323
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2
+(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.05 par value
+
+PFE
+
+New York Stock Exchange
+
+1.000% Notes due 2027
+
+PFE27
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01
+
+Other Events.
+
+On May 19, 2023, Pfizer Investment Enterprises Pte. Ltd. (the “Issuer”), a private company limited by shares incorporated under the laws of the Republic of Singapore and a wholly-owned subsidiary of Pfizer Inc. (the “Company”), completed a public offering of $3,000,000,000 aggregate principal amount of 4.650% Notes due 2025 (the “2025 Notes”), $3,000,000,000 aggregate principal amount of 4.450% Notes due 2026 (the “2026 Notes”), $4,000,000,000 aggregate principal amount of 4.450% Notes due 2028 (the “2028 Notes”), $3,000,000,000 aggregate principal amount of 4.650% Notes due 2030 (the “2030 Notes”), $5,000,000,000 aggregate principal amount of 4.750% Notes due 2033 (the “2033 Notes”), $3,000,000,000 aggregate principal amount of 5.110% Notes due 2043 (the “2043 Notes”), $6,000,000,000 aggregate principal amount of 5.300% Notes due 2053 (the “2053 Notes”) and $4,000,000,000 aggregate principal amount of 5.340% Notes due 2063 (the “2063 Notes” and, together with the 2025 Notes, the 2026 Notes, the 2028 Notes, the 2030 Notes, the 2033 Notes, the 2043 Notes and the 2053 Notes, collectively, the “Notes”). The Notes are fully and unconditionally guaranteed on a senior unsecured basis by the Company (collectively, the “Guarantee”).
+
+The offering of the Notes is part of the financing for the Company’s proposed acquisition (the “Merger”) of Seagen Inc. (“Seagen”). If (i) the Merger is not consummated on or before the later of (x) September 19, 2024 and (y) the date that is five business days after any later date to which Seagen and the Company may agree to extend the “Outside Date” in the merger agreement or (ii) the Issuer notifies the Trustee (as defined herein) under the Indenture (as defined herein) that the Company will not pursue consummation of the Merger, the Issuer will be required to redeem each series of the Notes (the “Special Mandatory Redemption”), other than the 2033 Notes and the 2053 Notes, at a special mandatory redemption price equal to 101% of the aggregate principal amount of such series of Notes, plus accrued and unpaid interest, if any, to, but excluding, the special mandatory redemption date.
+
+Absent a Special Mandatory Redemption of the Notes, the Company intends to use the net proceeds of the offering of the Notes to finance a portion of the consideration payable in connection with the Merger and to pay related fees and expenses. In the event of a Special Mandatory Redemption, the proceeds of the 2033 Notes and the 2053 Notes will be used for general corporate purposes, which may include repayment of borrowings under the Company’s revolving credit facilities or other indebtedness.
+
+The offering of the Notes was made pursuant to the Company’s shelf registration statement on Form
+S-3
+(Registration
+No. 333-253605),
+originally filed with the Securities and Exchange Commission (the “Commission”) on February 26, 2021, as amended by the Post-Effective Amendment No. 1 thereto, filed with the Commission on May 15, 2023.
+
+The Notes were issued pursuant to an indenture (the “Base Indenture”), dated as of May 19, 2023, among the Issuer, the Company and The Bank of New York Mellon, as trustee (the “Trustee”), as supplemented by the first supplemental indenture, dated as of May 19, 2023, among the Issuer, the Company and the Trustee (the “First Supplemental Indenture” and, the Base Indenture as supplemented by the First Supplemental Indenture, the “Indenture”).
+
+The Base Indenture and the First Supplemental Indenture are filed herewith as Exhibit 4.1 and Exhibit 4.2 to this Current Report on Form
+8-K,
+respectively, and are incorporated herein by reference.
+
+In connection with the offering of the Notes, the Issuer and the Company entered into an underwriting agreement (the “Underwriting Agreement”) and related pricing agreement (the “Pricing Agreement”), each dated May 16, 2023, with the several underwriters listed on Schedule I to the Pricing Agreement.
+
+The Underwriting Agreement and the Pricing Agreement are filed herewith as Exhibit 1.1 and Exhibit 1.2 to this Current Report on Form
+8-K,
+respectively, and are incorporated herein by reference.
+
+In addition, in connection with the offering of the Notes, the Company is filing a legal opinion regarding the validity of the Notes and the Guarantee, which is filed herewith as Exhibit 5.1 to this Current Report on Form
+8-K.
+A legal opinion of Drew & Napier LLC, relating to certain matters of Singapore law with respect to the Issuer, is also filed herewith as Exhibit 5.2 to this Current Report on Form
+8-K.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+No.
+
+Exhibit Description
+
+1.1
+
+Underwriting Agreement, dated May 16, 2023, among Pfizer Investment Enterprises Pte. Ltd., Pfizer Inc. and the several underwriters listed on Schedule I to the Pricing Agreement.
+
+1.2
+
+Pricing Agreement, dated May 16, 2023, among Pfizer Investment Enterprises Pte. Ltd., Pfizer Inc. and the several underwriters listed on Schedule I to the Pricing Agreement.
+
+4.1
+
+Indenture, dated as of May 19, 2023, among Pfizer Investment Enterprises Pte. Ltd., Pfizer Inc. and The Bank of New York Mellon, as trustee.
+
+4.2
+
+First Supplemental Indenture, dated as of May 19, 2023, among Pfizer Investment Enterprises Pte. Ltd., Pfizer Inc. and The Bank of New York Mellon, as trustee.
+
+4.3
+
+Form of 4.650% Notes due 2025 (included in Exhibit 4 .2).
+
+4.4
+
+Form of 4.450% Notes due 2026 (included in Exhibit 4 .2).
+
+4.5
+
+Form of 4.450% Notes due 2028 (included in Exhibit 4 .2).
+
+4.6
+
+Form of 4.650% Notes due 2030 (included in Exhibit 4 .2).
+
+4.7
+
+Form of 4.750% Notes due 2033 (included in Exhibit 4 .2).
+
+4.8
+
+Form of 5.110% Notes due 2043 (included in Exhibit 4 .2).
+
+4.9
+
+Form of 5.300% Notes due 2053 (included in Exhibit 4 .2).
+
+4.10
+
+Form of 5.340% Notes due 2063 (included in Exhibit 4 .2).
+
+5.1
+
+Opinion of Margaret M. Madden, Senior Vice President and Corporate Secretary, Chief Governance Counsel of the Company.
+
+5.2
+
+Opinion of Drew & Napier LLC.
+
+23.1
+
+Consent of Margaret M. Madden, Senior Vice President and Corporate Secretary, Chief Governance Counsel of the Company (included in Exhibit 5 .1).
+
+23.2
+
+Consent of Drew & Napier LLC (included in Exhibit 5 .2).
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+PFIZER INC.
+
+By:
+
+/s/ Margaret M. Madden
+
+Margaret M. Madden
+
+Senior Vice President and Corporate Secretary,
+
+Chief Governance Counsel
+
+Dated: May 19, 2023

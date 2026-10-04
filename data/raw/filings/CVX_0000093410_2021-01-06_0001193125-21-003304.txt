@@ -1,0 +1,290 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+January 6, 2021
+
+Chevron Corporation
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-00368
+
+94-0890210
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+6001 Bollinger Canyon Road
+,
+San Ramon
+,
+CA
+
+94583
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+(925)
+
+842-1000
+
+None
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligations of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol
+
+Name of each exchange
+
+on which registered
+
+Common stock, par value $.75 per share
+
+CVX
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01
+
+Other Events.
+
+On January 6, 2021, Chevron Corporation (“Chevron”) and Chevron U.S.A. Inc. (“CUSA”) announced that, as of 5:00 p.m., New York City time, on January 4, 2021, the aggregate principal amount of the ten series of notes described in the table below (collectively, the “Noble Notes”) issued by Noble Energy, Inc. (“Noble Energy”) had been validly tendered and not validly withdrawn in connection with Chevron’s and CUSA’s previously announced offers to exchange (the “Exchange Offers”) all validly tendered (and not validly withdrawn) and accepted Noble Notes of each such series for new notes to be issued by CUSA and fully and unconditionally guaranteed by Chevron (collectively, the “CUSA Notes”), and the related solicitations of consents to certain proposed amendments to the corresponding indentures pursuant to which such Noble Notes were issued (the “Noble Indentures”). A registration statement on Form
+S-4
+(File Nos.
+333-251094
+and
+333-251094-01)
+(the “Registration Statement”) relating to the Exchange Offers and consent solicitations was filed with the Securities and Exchange Commission (“SEC”) on December 3, 2020 (as amended by
+Pre-Effective
+Amendment No. 1 to the Registration Statement filed with the SEC on December 4, 2020) and declared effective on December 11, 2020.
+
+Pursuant to the Exchange Offers, the aggregate principal amount of Noble Notes set forth below were validly tendered and accepted and subsequently cancelled:
+
+Noble Notes
+
+Aggregate Principal Amount Tendered and Cancelled
+
+7.250% Notes due 2023
+
+$90,458,000
+
+3.900% Notes due 2024
+
+$625,047,000
+
+8.000% Senior Notes due 2027
+
+$234,454,000
+
+3.850% Notes due 2028
+
+$598,451,000
+
+3.250% Notes due 2029
+
+$499,368,000
+
+6.000% Notes due 2041
+
+$838,859,000
+
+5.250% Notes due 2043
+
+$996,223,000
+
+5.050% Notes due 2044
+
+$844,712,000
+
+4.950% Notes due 2047
+
+$495,355,000
+
+4.200% Notes due 2049
+
+$474,340,000
+
+Following such cancellation, $102,733,000 aggregate principal amount of the Noble Notes remain outstanding across ten series of notes issued by Noble Energy.
+
+In connection with the Exchange Offers, Chevron and CUSA also solicited consents from holders of the Noble Notes to amend (the “Proposed Amendments”) the three indentures governing the Noble Notes (the “Noble Indentures”) to, among other things, eliminate certain reporting requirements, restrictive covenants and events of default in the Noble Indentures. On January 6, 2021, Noble Energy, Wells Fargo Bank, National Association, and The Bank of New York Mellon, N.A., as applicable, entered into supplemental indentures to each of the Noble Indentures that govern the terms of the Noble Notes to adopt the Proposed Amendments (the “Supplemental Indentures”). The Supplemental Indentures will govern the Noble Notes that remain outstanding after the settlement of the Exchange Offers.
+
+The foregoing summaries of the Supplemental Indentures do not purport to be complete and are qualified in their entirety by reference to the complete terms of the Supplemental Indentures, copies of which are filed as exhibits hereto and are incorporated herein by reference.
+
+The CUSA Notes have been registered under the Securities Act of 1933, as amended (the “Securities Act”), pursuant to the Registration Statement. The terms of the CUSA Notes are further described in the Prospectus dated December 11, 2020, as filed with the SEC under Rule 424(b)(3) of the Securities Act on that date. The issuance of the CUSA Notes occurred on January 6, 2021. The CUSA Notes are unsecured and unsubordinated obligations of CUSA and will rank equally with all other unsecured and unsubordinated indebtedness of CUSA issued from time to time. The obligations under the CUSA Notes will be fully and unconditionally guaranteed by Chevron on an unsecured and unsubordinated basis and will rank equally to any other unsecured and unsubordinated indebtedness of Chevron that is currently outstanding or that Chevron may issue in the future.
+
+2
+
+The CUSA Notes are governed by the terms of an Indenture, dated August 12, 2020, as supplemented by a Second Supplemental Indenture, dated January 6, 2021, by and among CUSA, Chevron, as guarantor, and Deutsche Bank Trust Company Americas, as trustee.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d)
+Exhibits
+.
+
+Exhibit
+
+Number
+
+Description
+
+4.1
+
+Second Supplemental Indenture, dated as of January 6, 2021, to the Indenture dated as of August 12, 2020, between Chevron U.S.A. Inc., as Issuer, Chevron Corporation, as Guarantor, and Deutsche Bank Trust Company Americas, as Trustee.
+
+4.2
+
+First Indenture Supplement, dated as of January 6, 2021, to the Indenture, dated as of October 14, 1993, between Noble Energy, Inc. (formerly known as Noble Affiliates, Inc.) and The Bank of New York Mellon Trust Company, N.A., as Trustee.
+
+4.3
+
+Third Indenture Supplement, dated as of January 6, 2021, to the Indenture, dated as of April 1, 1997, between Noble Energy, Inc. (formerly known as Noble Affiliates, Inc.) and The Bank of New York Mellon Trust Company, N.A., as Trustee.
+
+4.4
+
+Ninth Supplemental Indenture, dated as of January 6, 2021, to the Indenture, dated as of February 27, 2009, between Noble Energy, Inc. and Wells Fargo Bank, National Association, as Trustee.
+
+4.5
+
+Form of CUSA’s 7.250% Notes due 2023.
+
+4.6
+
+Form of CUSA’s 3.900% Notes due 2024.
+
+4.7
+
+Form of CUSA’s 8.000% Notes due 2027.
+
+4.8
+
+Form of CUSA’s 3.850% Notes due 2028.
+
+4.9
+
+Form of CUSA’s 3.250% Notes due 2029.
+
+4.10
+
+Form of CUSA’s 6.000% Notes due 2041.
+
+4.11
+
+Form of CUSA’s 5.250% Notes due 2043.
+
+4.12
+
+Form of CUSA’s 5.050% Notes due 2044.
+
+4.13
+
+Form of CUSA’s 4.950% Notes due 2047.
+
+4.14
+
+Form of CUSA’s 4.200% Notes due 2049.
+
+104
+
+Cover Page Interactive Data File, formatted in Inline XBRL
+
+3
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated: January 6, 2021
+
+CHEVRON CORPORATION
+
+By
+
+/s/ Christine L. Cavallo
+
+Name:
+
+Christine L. Cavallo
+
+Title:
+
+Assistant Secretary
+
+4

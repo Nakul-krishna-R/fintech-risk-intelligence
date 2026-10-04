@@ -1,0 +1,128 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (date of earliest event reported):
+January 16, 2024
+
+JPMorgan Chase & Co
+.
+(Exact name of registrant as specified in its charter)
+Delaware
+1-5805
+13-2624428
+(State or other jurisdiction of
+incorporation or organization)
+(Commission File Number)
+(I.R.S. employer
+identification no.)
+383 Madison Avenue,
+New York,
+New York
+10179
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code: (
+212
+)
+270-6000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock
+JPM
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 5.75% Non-Cumulative Preferred Stock, Series DD
+JPM PR D
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 6.00% Non-Cumulative Preferred Stock, Series EE
+JPM PR C
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.75% Non-Cumulative Preferred Stock, Series GG
+JPM PR J
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.55% Non-Cumulative Preferred Stock, Series JJ
+JPM PR K
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.625% Non-Cumulative Preferred Stock, Series LL
+JPM PR L
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.20% Non-Cumulative Preferred Stock, Series MM
+JPM PR M
+The New York Stock Exchange
+Alerian MLP Index ETNs due May 24, 2024
+AMJ
+NYSE Arca, Inc.
+Guarantee of Callable Fixed Rate Notes due June 10, 2032 of JPMorgan Chase Financial Company LLC
+JPM/32
+The New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02(e) Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers
+JPMorgan Chase & Co. (the “Firm”) announced that the independent members of the Board of Directors (the “Board”) approved the annual compensation for 2023 for Mr. James Dimon, CEO, in the amount of $36,000,000, compared to last year’s annual compensation of $34,500,000. The annual compensation for 2023 reflects Mr. Dimon’s stewardship of the Firm, with growth across all of its market leading lines of business, record financial results and a fortress balance sheet. In addition, the Firm successfully navigated and supported its clients and customers through the regional bank turmoil as well as completed the acquisition of First Republic.
+Mr. Dimon’s total compensation includes an annual base salary of $1,500,000 and performance-based variable incentive compensation of $34,500,000. $5,000,000 of the variable incentive compensation will be delivered in cash and the remaining $29,500,000 will be delivered in the form of at-risk Performance Share Units ("PSUs"). PSUs tie 100% of Mr. Dimon’s annual equity-based compensation to ongoing performance metrics, representing 86% of his total variable incentive compensation. The key features of the PSU program are structurally consistent with last year, including the financial metric (return on tangible common equity
+1
+- "ROTCE") with absolute and relative performance goals, payout levels, vesting and hold requirements, as well as clawback and recovery provisions
+2
+.
+Amid the significant challenges of the regional bank turmoil, ongoing, growing geopolitical tensions, global economic uncertainty, and elevated inflation and higher rates, under Mr. Dimon's stewardship, the Firm continued to serve its clients and customers around the world to advance economic growth, while investing in and executing on long-term strategic initiatives. The Firm’s businesses saw continued momentum during 2023, demonstrating the power of its years of investments and the value of its consistency and fortress principles. In 2023, the Firm reported record revenue for the 6
+th
+consecutive year of $162.4 billion
+1
+and net income of $49.6 billion, or $16.23 per share, with ROTCE of 21%. The Firm increased its quarterly common dividend from $1.00 to $1.05 per share and continued to reinforce its fortress balance sheet.
+The Firm ended the year with a common equity Tier 1 ratio of 15.0%, CET1 capital of $250.6 billion and $1.4 trillion of cash and marketable securities, providing it with meaningful capacity to support clients and further invest in its business and communities. During 2023, the Firm raised over $2.3 trillion
+3
+of credit and capital for its consumer and institutional clients around the world, which includes individuals, homeowners, small businesses, larger corporations, schools, hospitals, cities and countries in all regions of the world. The Firm continued its investments in technology, people, systems and products, as well as its steadfast commitment to corporate responsibility, including helping to create a stronger, more inclusive economy and advance cities and neighborhoods around the world, positioning the Firm for future success.
+
+As part of determining Mr. Dimon’s compensation, the Board considered his holistic performance across financial and non-financial performance dimensions, including his continued exemplary leadership of the Firm which continues to be one of the largest financial services firms in the world and is a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing and asset management. Under the J.P. Morgan and Chase brands, the Firm serves millions of customers, predominantly in the United States, and many of the world’s most prominent corporate, institutional and government clients globally.
+The Board continues to recognize that the Firm is in a uniquely fortunate position to be led by such a highly talented and experienced executive who continues to grow the company, maintain market leadership positions, strengthen the Firm’s reputation, invest in opportunities for the future, promote diversity and best practices, manage risk and develop great leaders, while also maintaining his focus on the Firm’s clients.
+1
+Revenue is on a managed basis. Managed revenue and ROTCE are non-GAAP financial measures. For further discussion, see notes (a) and (b) on page 6 of Exhibit 99.1 to the Firm’s Current Report on Form 8-K dated January 12, 2024, which has been filed with the U.S. Securities and Exchange Commission, containing the Firm's earnings press release for the quarter ended December 31, 2023.
+2
+Equity incentives are subject to the JPMorgan Chase Bonus Recoupment Policy which applies in the event of a material restatement of the Firm's financial results as well as the Policy for the Recovery of Erroneously Awarded Incentive-Based Compensation. In addition, all equity awards granted in 2024 contain recapture provisions that enable the Firm to cancel outstanding awards and/or recover the value of certain stock distributed under the award in specified circumstances. In addition to recapture provisions, portions of equity awards awarded to the CEO are also subject to additional Protection-based Vesting provisions under which awards may be cancelled as determined by the Compensation & Management Development Committee of the Board of Directors and ratified by the Board of Directors.
+3
+Credit provided to clients represents new and renewed credit, including loans and commitments.
+2
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibit
+Exhibit No.
+Description of Exhibit
+101
+Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language).
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101).
+3
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+JPMorgan Chase & Co.
+(Registrant)
+By:
+/s/ John H. Tribolati
+John H. Tribolati
+Corporate Secretary
+Dated:
+January 18, 2024
+4

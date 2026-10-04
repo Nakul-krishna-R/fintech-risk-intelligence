@@ -1,0 +1,104 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+___________________________________
+FORM
+8-K
+___________________________________
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d)
+of The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+March 9, 2023
+___________________________________
+CISCO SYSTEMS, INC.
+(Exact name of registrant as specified in its charter)
+___________________________________
+Delaware
+(State or other jurisdiction of
+incorporation)
+001-39940
+(Commission File Number)
+77-0059951
+(IRS Employer Identification No.)
+170 West Tasman Drive
+,
+
+San Jose
+,
+California
+
+95134-1706
+(Address of principal executive offices)
+(Zip Code)
+(
+408
+)
+526-4000
+(Registrant's telephone number, including area code)
+Not Applicable
+(Former name or former address, if changed since last report)
+___________________________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.001 per share
+CSCO
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.03. Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+Amended and Restated Bylaws
+On March 9, 2023, the Board of Directors of Cisco Systems, Inc. (“Cisco”) amended Cisco’s Amended and Restated Bylaws (as amended, the “Amended and Restated Bylaws”), which became immediately effective.
+Among other things, the amendments:
+•
+revise certain provisions relating to adjournment procedures and lists of stockholders entitled to vote at stockholder meetings, in each case, to conform to recent amendments to the Delaware General Corporation Law (“DGCL”);
+•
+revise the procedures and disclosure requirements set forth in the advance notice bylaw provisions, including (i) requiring additional information, representations and disclosures from proposing stockholders, proposed nominees and other persons related to a stockholder’s solicitation of proxies; and (ii) restricting the number of nominees a stockholder may nominate for election at a meeting to the number of directors to be elected at such meeting;
+•
+address matters relating to Rule 14a-19 promulgated under the Securities Exchange Act of 1934, as amended (the “Universal Proxy Rules”), including (i) providing that stockholders delivering a notice of nomination certify to Cisco in writing that they have complied with the Universal Proxy Rules requirements; (ii) providing Cisco a remedy if a stockholder fails to satisfy the Universal Proxy Rules requirements; (iii) requiring that a stockholder providing notice pursuant to the advance notice bylaws to inform Cisco if a stockholder no longer plans to solicit proxies in accordance with the Universal Proxy Rules; and
+
+(iv) requiring stockholders intending to use the Universal Proxy Rules to provide reasonable evidence of the satisfaction of the requirements under the Universal Proxy Rules at least five business days before the meeting;
+•
+require that a stockholder directly or indirectly soliciting proxies from other stockholders use a proxy card color other than white;
+•
+revise certain provisions relating to procedures for the inspection of elections and certifications of any determinations related to such inspections;
+•
+update various provisions of the Amended and Restated Bylaws to make technical changes considering the Universal Proxy Rules and recent DGCL amendments; and
+•
+incorporate certain ministerial, clarifying, and conforming changes to provide clarification and consistency.
+The foregoing summary of the Amended and Restated Bylaws does not purport to be a complete description and is qualified in its entirety by reference to the full text of the Amended and Restated Bylaws, a copy of which is filed as Exhibit 3.2 to this Current Report on Form 8-K and incorporated herein by reference. A version of the Amended and Restated Bylaws which is marked to indicate the amendments is attached as Exhibit 3.3 to this Current Report on Form 8-K.
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit Number
+Description of Document
+3.2
+Amended and Restated Bylaws of Cisco Systems, Inc., as currently in effect
+3.3
+Amended and Restated Bylaws of Cisco Systems, Inc. (marked to show changes against prior version)
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+CISCO SYSTEMS, INC.
+Dated: March 10, 2023
+By:
+/s/ Evan Sloves
+Name:
+Evan Sloves
+Title:
+Secretary

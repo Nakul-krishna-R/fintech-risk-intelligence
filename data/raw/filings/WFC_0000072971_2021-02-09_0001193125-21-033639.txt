@@ -1,0 +1,346 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of Report (date of earliest event reported):
+February 9, 2021
+
+WELLS FARGO & COMPANY
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-2979
+
+No.
+41-0449260
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission File
+
+Number)
+
+(IRS Employer
+
+Identification No.)
+
+420 Montgomery Street
+,
+San Francisco
+,
+California
+
+94104
+
+(Address of principal executive offices) (Zip Code)
+
+Registrant’s telephone number, including area code:
+1-866
+-
+249-3302
+
+Not applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+
+Trading
+
+Symbol
+
+Name of Each Exchange
+on Which Registered
+
+Common Stock, par value
+$1-2/3
+
+WFC
+
+New York Stock Exchange
+(NYSE)
+
+7.5%
+Non-Cumulative
+Perpetual Convertible Class A Preferred Stock, Series L
+
+WFC.PRL
+
+NYSE
+
+Depositary Shares, each representing a 1/1000th interest in a share of
+Non-Cumulative
+Perpetual Class A Preferred Stock, Series N
+
+WFC.PRN
+
+NYSE
+
+Depositary Shares, each representing a 1/1000th interest in a share of
+Non-Cumulative
+Perpetual Class A Preferred Stock, Series O
+
+WFC.PRO
+
+NYSE
+
+Depositary Shares, each representing a 1/1000th interest in a share of
+Non-Cumulative
+Perpetual Class A Preferred Stock, Series P
+
+WFC.PRP
+
+NYSE
+
+Depositary Shares, each representing a 1/1000th interest in a share of 5.85%
+Fixed-to-Floating
+Rate
+Non-Cumulative
+Perpetual Class A Preferred Stock, Series Q
+
+WFC.PRQ
+
+NYSE
+
+Depositary Shares, each representing a 1/1000th interest in a share of 6.625%
+Fixed-to-Floating
+Rate
+Non-Cumulative
+Perpetual Class A Preferred Stock, Series R
+
+WFC.PRR
+
+NYSE
+
+Depositary Shares, each representing a 1/1000th interest in a share of
+Non-Cumulative
+Perpetual Class A Preferred Stock, Series W
+
+WFC.PRW
+
+NYSE
+
+Depositary Shares, each representing a 1/1000th interest in a share of
+Non-Cumulative
+Perpetual Class A Preferred Stock, Series X
+
+WFC.PRX
+
+NYSE
+
+Depositary Shares, each representing a 1/1000th interest in a share of
+Non-Cumulative
+Perpetual Class A Preferred Stock, Series Y
+
+WFC.PRY
+
+NYSE
+
+Depositary Shares, each representing a 1/1000th interest in a share of
+Non-Cumulative
+Perpetual Class A Preferred Stock, Series Z
+
+WFC.PRZ
+
+NYSE
+
+Depositary Shares, each representing a 1/1000th interest in a share of
+Non-Cumulative
+Perpetual Class A Preferred Stock, Series AA
+
+WFC.PRA
+
+NYSE
+
+Depositary Shares, each representing a 1/1000th interest in a share of
+Non-Cumulative
+Perpetual Class A Preferred Stock, Series CC
+
+WFC.PRC
+
+NYSE
+
+Guarantee of 5.80%
+Fixed-to-Floating
+Rate Normal Wachovia Income Trust Securities of Wachovia Capital Trust III
+
+WFC/TP
+
+NYSE
+
+Guarantee of Medium-Term Notes, Series A, due October 30, 2028 of Wells Fargo Finance LLC
+
+WFC/28A
+
+NYSE
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act (17 CFR 230.405) or Rule
+12b-2
+of the Exchange Act (17 CFR
+240.12b-2).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01.
+Other Events
+
+On February 9, 2021, Wells Fargo & Company (the “Company”) sold 2,000,000 Depositary Shares (the “Depositary Shares”), each Depositary Share representing a 1/1,000th interest in a share of the Company’s
+Non-Cumulative
+Perpetual Class A Preferred Stock, Series CC (the “Series CC Preferred Stock”), pursuant to the partial exercise of the underwriters’ over-allotment option set forth in the Underwriting Agreement, dated January 25, 2021, among the Company and Wells Fargo Securities, LLC, as representative of the several underwriters named therein, filed as Exhibit 1.1 to this report on Form
+8-K
+and incorporated by reference into this Item 8.01.
+
+Item 9.01.
+Financial Statements and Exhibits
+
+Additional exhibits are filed herewith in connection with the Registration Statement on Form
+S-3,
+as amended (File
+No. 333-236148),
+filed by the Company with the Securities and Exchange Commission. The following documents are being filed with this report on Form
+8-K:
+(i) Certificate of Designation of the Company dated January 28, 2021; (ii) Deposit Agreement dated as of February 1, 2021 among the Company, Equiniti Trust Company, as depositary, and the holders from time to time of Depositary Receipts; (iii) form of Depositary Receipt; and (iv) opinions with respect the additional shares of Series CC Preferred Stock, Deposit Agreement, and Depositary Receipts.
+
+(d)
+Exhibits
+
+Exhibit No.
+
+Description
+
+Location
+
+1.1
+
+Underwriting Agreement, dated January 25, 2021, among Wells Fargo & Company and Wells Fargo Securities, LLC, as representative of the several underwriters named therein.
+
+Incorporated by reference to Exhibit 1.1 to the Company’s Current Report on
+Form 8-K filed
+February 1, 2021
+
+4.1
+
+Certificate of Designation of Wells Fargo & Company with respect to the
+Non-Cumulative
+Perpetual Class A Preferred Stock, Series CC dated January 28, 2021.
+
+Incorporated by reference to Exhibit 4.1 to the Company’s Current Report on
+Form 8-K filed
+February 1, 2021
+
+4.2
+
+Deposit Agreement dated as of February 1, 2021 among Wells Fargo & Company, Equiniti Trust Company, as depositary, and the holders from time to time of Depositary Receipts.
+
+Incorporated by reference to Exhibit 4.2 to the Company’s Current Report on
+Form 8-K filed
+February 1, 2021
+
+4.3
+
+Form of Depositary Receipt.
+
+Included as part of Exhibit 4.2
+
+5.1
+
+Opinion of Richards, Layton & Finger, P.A. regarding the
+Non-Cumulative
+Perpetual Class A Preferred Stock, Series CC.
+
+Filed herewith
+
+2
+
+5.2
+
+Opinion of Faegre Drinker Biddle & Reath LLP regarding the Deposit Agreement and the Depositary Receipts.
+
+Filed herewith
+
+23.1
+
+Consent of Richards, Layton & Finger, P.A.
+
+Included as part of Exhibit 5.1
+
+23.2
+
+Consent of Faegre Drinker Biddle & Reath LLP.
+
+Included as part of Exhibit 5.2
+
+104
+
+The cover page from this Current Report on Form
+8-K,
+formatted in Inline XBRL.
+
+Filed herewith
+
+3
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+WELLS FARGO & COMPANY
+
+DATED: February 9, 2021
+
+/s/ Bryant Owens
+
+Bryant Owens
+
+Senior Vice President and Assistant Treasurer

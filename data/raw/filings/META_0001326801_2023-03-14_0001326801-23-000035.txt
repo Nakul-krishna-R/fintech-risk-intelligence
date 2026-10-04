@@ -1,0 +1,89 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+March 14, 2023
+Meta Platforms, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+001-35551
+20-1665019
+(State or Other Jurisdiction
+of Incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+1601 Willow Road
+,
+Menlo Park
+,
+California
+
+94025
+
+(Address of principal executive offices and Zip Code)
+(
+650
+)
+543-4800
+
+(Registrant’s telephone number, including area code)
+N/A
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A Common Stock, $0.000006 par value
+META
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 7.01 Regulation FD Disclosure.
+On March 14, 2023, Meta Platforms, Inc. ("Meta," "we" or "our") published a Newsroom post with more details about our year of efficiency, including planned layoffs. A copy of Meta's Newsroom post is attached as Exhibit 99.1 to this report. We are also providing a preliminary update to our total expense outlook provided on our conference call held on February 1, 2023. As of today, we expect our full-year 2023 total expenses to be in the range of $86-92 billion, lowered from $89-95 billion previously. This includes the anticipated impact of these layoffs and other cost reduction measures, and is inclusive of restructuring costs of approximately $3-5 billion related to facilities consolidation charges and severance and other personnel costs.
+The information furnished with this Item 7.01, including Exhibit 99.1, shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any other filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+This Current Report on Form 8-K and the accompanying Newsroom post contain forward-looking statements regarding Meta's future business plans and expectations, including statements relating to Meta's expectations with respect to its 2023 financial outlook. These forward-looking statements are only predictions and may differ materially from actual results due to a variety of factors, including: the impact of macroeconomic conditions on our business and financial results; risks associated with new products and changes to existing products as well as other new business initiatives, including our metaverse efforts; maintaining and enhancing our brand and reputation; our ongoing privacy, safety, security, and content review efforts; potential adverse outcomes in litigation and government inquiries, including settlements, judgments, fines, or other monetary penalties; privacy, legislative, and regulatory concerns or developments; risks associated with acquisitions and divestitures; security breaches; our ability to manage our scale and geographically-dispersed operations; and the impact of our cost-reduction initiatives, including the planned layoff. Because some of these risks and uncertainties cannot be predicted or quantified and some are beyond Meta's control, you should not rely on forward-looking statements as predictions of future events. More information about potential risks and uncertainties that could affect our business and financial results is more fully detailed under the caption "Risk Factors" in our Annual Report on Form 10-K filed with the SEC on February 2, 2023, which is available on our Investor Relations website at investor.fb.com and on the SEC website at www.sec.go
+v
+. In addition, please note that the date of this Current Report on Form 8-K and the accompanying Newsroom post is March 14, 2023, and any forward-looking statements contained herein are based on assumptions that Meta believes to be reasonable as of this date. Meta undertakes no obligation to update these statements as a result of new information or future events.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit Number
+Exhibit Title or Description
+99.1
+Newsroom Post dated March
+14
+, 2023
+104
+Cover Page Interactive Data File (the cover page XBRL tags are embedded within the inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+META PLATFORMS, INC.
+Date:
+March 14, 2023
+By:
+/s/ Katherine R. Kelly
+Name:
+Katherine R. Kelly
+Title:
+Vice President, Deputy General Counsel and Secretary

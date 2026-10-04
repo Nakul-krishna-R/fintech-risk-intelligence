@@ -1,0 +1,89 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+___________________________________
+FORM
+8-K
+___________________________________
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d)
+of The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+July 15, 2024
+___________________________________
+CISCO SYSTEMS, INC.
+(Exact name of registrant as specified in its charter)
+___________________________________
+Delaware
+(State or other jurisdiction of
+incorporation)
+001-39940
+(Commission File Number)
+77-0059951
+(IRS Employer Identification No.)
+170 West Tasman Drive
+,
+
+San Jose
+,
+California
+
+95134-1706
+(Address of principal executive offices)
+(Zip Code)
+(
+408
+)
+526-4000
+(Registrant's telephone number, including area code)
+Not Applicable
+(Former name or former address, if changed since last report)
+___________________________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.001 per share
+CSCO
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment
+of Certain Officers; Compensatory Arrangements of Certain Officers.
+Compensatory Arrangement of Certain Officer
+On July 15, 2024, Jeff Sharritts, former Executive Vice President and Chief Customer and Partner Officer of Cisco Systems, Inc. (“Cisco”), entered into a Separation Agreement and General Release (the “Separation Agreement”) in connection with his termination of employment as an executive advisor effective July 15, 2024. The Separation Agreement provides that Mr. Sharritts will be entitled to accelerated vesting of the time-based restricted stock unit awards which are scheduled to vest through December 10, 2025 and will be deemed eligible for retirement vesting of certain performance-based restricted stock units. Mr. Sharritts will also be entitled to a cash payment in the amount of $2,585,710.91, which is equal to eighteen months of his annual base salary, his annual target bonus award, and 17 months of COBRA premiums.
+In consideration for such benefits, Mr. Sharritts executed a release of claims relating to his employment and agreed to comply with the terms of the Separation Agreement, Cisco’s Code of Business Conduct and related policies, and Cisco’s Proprietary Information and Inventions Agreement.
+The foregoing description of the Separation Agreement is qualified in its entirety by reference to the Separation Agreement, a copy of which is filed as Exhibit 10.1 to this Current Report on Form 8-K.
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit
+Number
+Description of Document
+10.1
+Separation Agreement and General Release, by and between Cisco Systems, Inc. and
+Jeff Sharritts
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+CISCO SYSTEMS, INC.
+Dated: July 19, 2024
+By:
+/s/ Evan Sloves
+Name:
+Evan Sloves
+Title:
+Secretary

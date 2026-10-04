@@ -1,0 +1,133 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+February 23, 2022
+
+THERMO FISHER SCIENTIFIC INC.
+
+(Exact name of Registrant as specified in its Charter)
+
+Delaware
+1-8002
+04-2209186
+(State of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification Number)
+168 Third Avenue
+
+Waltham
+,
+Massachusetts
+
+02451
+
+(Address of principal executive offices) (Zip Code)
+Registrant’s telephone number, including area code: (
+781
+)
+622-1000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $1.00 par value
+TMO
+New York Stock Exchange
+0.750% Notes due 2024
+TMO 24A
+New York Stock Exchange
+0.125% Notes due 2025
+TMO 25B
+New York Stock Exchange
+2.000% Notes due 2025
+TMO 25
+New York Stock Exchange
+1.400% Notes due 2026
+TMO 26A
+New York Stock Exchange
+1.450% Notes due 2027
+TMO 27
+New York Stock Exchange
+1.750% Notes due 2027
+TMO 27B
+New York Stock Exchange
+0.500% Notes due 2028
+TMO 28A
+New York Stock Exchange
+1.375% Notes due 2028
+TMO 28
+New York Stock Exchange
+1.950% Notes due 2029
+TMO 29
+New York Stock Exchange
+0.875% Notes due 2031
+TMO 31
+New York Stock Exchange
+2.375% Notes due 2032
+TMO 32
+New York Stock Exchange
+2.875% Notes due 2037
+TMO 37
+New York Stock Exchange
+1.500% Notes due 2039
+TMO 39
+New York Stock Exchange
+1.875% Notes due 2049
+TMO 49
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 or Rule 12b-2 of the Securities Exchange Act of 1934.
+☐
+Emerging growth company
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+THERMO FISHER SCIENTIFIC INC.
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On February 23, 2022, the Board of Directors of Thermo Fisher Scientific Inc. (the “Company”) increased the size of its board to thirteen members and elected Ruby R. Chandy as a director of the Company for a term expiring at the Company’s 2022 annual meeting, both effective as of March 1, 2022. Ms. Chandy will serve on the Audit Committee of the Board.
+Ms. Chandy was the president of the Industrial Division of Pall Corporation, a leading supplier of filtration, separation, and purification technologies. Previously, Ms. Chandy was chief marketing officer at the Dow Chemical Company and Rohm and Haas Corporation. Ms. Chandy currently serves on the board of directors of DuPont de Nemours, Inc. and Flowserve Corporation. She also serves on the Advisory Board of Pritzker Private Capital, the MIT Sloan Americas Executive Board and is a mentor-in-residence at the University of Pennsylvania Penn Center for Innovation (PCI).
+In connection with her service as a director, Ms. Chandy will be entitled to receive the Company’s standard agreements and arrangements for non-employee directors, a description of which is filed as Exhibit 10.1 to this Current Report on Form 8-K and is incorporated herein by reference, and will enter into the Company’s standard form of indemnification agreement, which was filed as Exhibit 10.2 to the Company’s Registration Statement on Form S-4 (Reg. No. 333-90661).
+Also on February 23, 2022, Thomas J. Lynch, who has served as a director of the Company since 2009, and as Lead Director since 2020, advised the Board that he plans to retire from the Board when his current term as a director expires at the 2022 annual meeting. Mr. Lynch’s decision was not due to any disagreement with the Company on any matter relating to the Company’s operations, policies or practices. The Company expects that the Board will be decreased in size to twelve upon the election of directors at the 2022 annual meeting.
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit
+Number
+Description
+10.1
+Summary of Thermo Fisher Scientific Inc. Annual Non-Management Director Compensation
+.
+104
+Cover Page Interactive Data File (embedded with the Inline XBRL document).
+2
+THERMO FISHER SCIENTIFIC INC.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+THERMO FISHER SCIENTIFIC INC.
+Date:
+February 23, 2022
+By:
+/s/ Michael A. Boxer
+Michael A. Boxer
+Senior Vice President, General Counsel and Secretary
+3

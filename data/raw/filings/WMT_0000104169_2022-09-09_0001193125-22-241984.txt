@@ -1,0 +1,282 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 or 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported):
+
+September 9, 2022 (
+September 6, 2022
+)
+
+Walmart Inc.
+
+(Exact name of registrant as specified in its charter)
+
+DE
+
+001-06991
+
+71-0415188
+
+(State or other Jurisdiction
+
+of Incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+702 S.W. 8th Street
+
+Bentonville
+,
+AR
+
+72716-0215
+
+(Address of principal executive offices) (Zip Code)
+
+Registrant’s telephone number, including area code:
+
+(479)
+
+273-4000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.10 per share
+
+WMT
+
+NYSE
+
+2.550% Notes Due 2026
+
+WMT26
+
+NYSE
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01.
+
+Other Events.
+
+Walmart Inc., a Delaware corporation (the “
+Company
+”), and Barclays Capital Inc., BofA Securities, Inc., J.P. Morgan Securities LLC, Citigroup Global Markets Inc., HSBC Securities (USA) Inc. and Wells Fargo Securities, LLC, acting for themselves and as representatives of the other several underwriters named in Schedule I to the Pricing Agreement (as defined below) (collectively, the “
+Underwriters
+”), have entered into a Pricing Agreement, dated September 6, 2022 (the “
+Pricing Agreement
+”), pursuant to which, subject to the satisfaction of the conditions set forth therein, the Company has agreed to sell to the Underwriters, and the Underwriters have agreed to purchase from the Company, $1,750,000,000 aggregate principal amount of the Company’s 3.900% Notes Due 2025 (the “
+2025 Notes
+”), $1,000,000,000 aggregate principal amount of the Company’s 3.950% Notes Due 2027 (the “
+2027 Notes
+”), $1,250,000,000 aggregate principal amount of the Company’s 4.150% Notes Due 2032 (the “
+2032 Notes
+”) and $1,000,000,000 aggregate principal amount of the Company’s 4.500% Notes Due 2052 (the “
+2052 Notes
+” and, together with the 2025 Notes, the 2027 Notes and the 2032 Notes, the “
+Notes
+”). The Pricing Agreement incorporates by reference the terms and conditions of an Underwriting Agreement, dated September 6, 2022, between the Company and the Underwriters (the “
+Underwriting Agreement
+” and, together with the Pricing Agreement, the “
+Agreement
+”). The Company and the Underwriters consummated the sale and purchase of the Notes pursuant to the Agreement on September 9, 2022.
+
+The 2025 Notes will be sold to the public at a price equal to 99.930% of the aggregate principal amount of the 2025 Notes. The net proceeds to the Company from the sale of the 2025 Notes, after the underwriting discount, but before transaction expenses allocable to the sale of the 2025 Notes, will be $1,744,400,000.
+
+The 2027 Notes will be sold to the public at a price equal to 99.784% of the aggregate principal amount of the 2027 Notes. The net proceeds to the Company from the sale of the 2027 Notes, after the underwriting discount, but before transaction expenses allocable to the sale of the 2027 Notes, will be $994,340,000.
+
+The 2032 Notes will be sold to the public at a price equal to 99.692% of the aggregate principal amount of the 2032 Notes. The net proceeds to the Company from the sale of the 2032 Notes, after the underwriting discount, but before transaction expenses allocable to the sale of the 2032 Notes, will be $1,240,525,000.
+
+The 2052 Notes will be sold to the public at a price equal to 99.951% of the aggregate principal amount of the 2052 Notes. The net proceeds to the Company from the sale of the 2052 Notes, after the underwriting discount, but before transaction expenses allocable to the sale of the 2052 Notes, will be $992,010,000.
+
+The Notes will be sold to the public at an aggregate price of $4,992,275,000 before underwriting discounts and transaction expenses allocable to the sale of the Notes. The aggregate net proceeds to the Company from the sale of the Notes, after underwriting discounts, but before transaction expenses allocable to the sale of the Notes, will be $4,971,275,000.
+
+The 2025 Notes will constitute part of the Company’s newly created series of 3.900% Notes Due 2025 (the “
+2025 Series
+”), the 2027 Notes will constitute part of the Company’s newly created series of 3.950% Notes Due 2027 (the “
+2027 Series
+”), the 2032 Notes will constitute part of the Company’s newly created series of 4.150% Notes Due 2032 (the “
+2032 Series
+”) and the 2052 Notes will constitute part of the Company’s newly created series of 4.500% Notes Due 2052 (the “
+2052 Series
+” and, together with the 2025 Series, the 2027 Series and the 2032 Series, the “
+New Series
+”). The Notes of each of the New Series will be senior, unsecured debt securities of the Company, and the Notes of each New Series will rank equally with each other and with all of the other senior, unsecured debt obligations of the Company.
+
+2
+
+The New Series were created and established, and the terms and conditions of each New Series were established, by action of the Company and an authorized officer of the Company pursuant to, and in accordance with, the terms of the Indenture, dated as of July 19, 2005, as amended and supplemented (the “
+Indenture
+”), between the Company and The Bank of New York Mellon Trust Company, N.A., as successor trustee (the “
+Trustee
+”), and the Indenture and the related series terms certificates pursuant to the Indenture will govern the Notes of each New Series. The respective terms of the 2025 Notes, the 2027 Notes, the 2032 Notes and the 2052 Notes are as set forth in the Indenture and in the forms of the Global Notes (referred to below) that will represent the Notes of the 2025 Series, the 2027 Series, the 2032 Series and the 2052 Series, respectively, to be sold pursuant to the Pricing Agreement.
+
+The material terms of the Notes are described in the Company’s prospectus supplement dated September 6, 2022, which relates to the offer and sale of the Notes (the “
+Prospectus Supplement
+”), and the Company’s prospectus dated December 4, 2020, which relates to the offer and sale from time to time of an indeterminate amount of the Company’s debt securities, including the Notes (the “
+Prospectus
+”). The Prospectus Supplement, together with the Prospectus, was filed by the Company with the Securities and Exchange Commission (the “
+Commission
+”) on September 7, 2022 pursuant to Rule 424(b)(2) under the Securities Act of 1933, as amended (the “
+Securities Act
+”), in connection with the offer and sale of the Notes. A Final Term Sheet, dated September 6, 2022, relating to, and setting forth certain terms of, the Notes was filed with the Commission pursuant to Rule 433 under the Securities Act on September 6, 2022, and given a filing date of September 7, 2022.
+
+The Notes of each New Series will be initially issued and delivered in book-entry form only and will be represented by one or more global notes, which will be in definitive, fully registered form without interest coupons. The 2025 Notes will be represented by four global notes, three of which will be in the principal amount of $500,000,000 and one of which will be in the principal amount of $250,000,000 (the “
+2025 Global Notes
+”). The 2027 Notes will be represented by two global notes, each of which will be in the principal amount of $500,000,000 (the “
+2027 Global Notes
+”). The 2032 Notes will be represented by three global notes, two of which will be in the principal amount of $500,000,000 and one of which will be in the principal amount of $250,000,000 (the “
+2032 Global Notes
+”). The 2052 Notes will be represented by two global notes, each of which will be in the principal amount of $500,000,000 (the “
+2052 Global Notes
+” and, together with the 2025 Global Notes, the 2027 Global Notes and the 2032 Global Notes, the “
+Global Notes
+”). Each Global Note will be payable to Cede & Co., a New York corporation, as nominee of The Depository Trust Company. The Global Notes will be executed by the Company and authenticated by the Trustee in accordance with the Indenture.
+
+Filed as exhibits to this Current Report on Form
+8-K
+are: (i) the Pricing Agreement; (ii) the Underwriting Agreement; (iii) the Series Terms Certificate Pursuant to the Indenture Relating to 3.900% Notes Due 2025, which was executed in accordance with the Indenture and which evidences the establishment of the terms and conditions of the 2025 Series in accordance with the Indenture; (iv) the Series Terms Certificate pursuant to the Indenture relating to 3.950% Notes Due 2027, which was executed in accordance with the Indenture and which evidences the establishment of the terms and conditions of the 2027 Series in accordance with the Indenture; (v) the Series Terms Certificate pursuant to the Indenture relating to 4.150% Notes Due 2032, which was executed in accordance with the Indenture and which evidences the establishment of the terms and conditions of the 2032 Series in accordance with the Indenture; (vi) the Series Terms Certificate pursuant to the Indenture relating to 4.500% Notes Due 2052, which was executed in accordance with the Indenture and which evidences the establishment of the terms and conditions of the 2052 Series in accordance with the Indenture; (vii) the form of 2025 Global Note; (viii) the form of 2027 Global Note; (ix) the form of 2032 Global Note; (x) the form of 2052 Global Note; and (xi) the opinion of Hunton Andrews Kurth LLP, counsel to the Company,
+
+3
+
+regarding the legality of the issuance and sale of the Notes. The descriptions of such exhibits in this Current Report on Form
+8-K
+are qualified in their entirety by reference to the full copies of such exhibits filed hereto, which are incorporated herein by reference.
+
+The Company is offering and selling the Notes under the Company’s Registration Statement on Form
+S-3ASR
+(File
+No. 333-251124)
+(the “
+Registration Statement
+”), which registration statement relates to the offer and sale on a delayed basis from time to time of an indeterminate amount of the Company’s debt securities. This Current Report on Form
+8-K
+is being filed in connection with the offer and sale of the Notes as described herein and to file with the Commission, in connection with the Registration Statement, the documents and instruments attached hereto as exhibits.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+The following documents are filed as exhibits to this Current Report on Form
+8-K:
+
+1.1
+
+Pricing Agreement, dated September 6, 2022, between the Company and the Underwriters party thereto, together with the Underwriting Agreement, dated September 6, 2022, between the Company and the Underwriters party thereto
+
+4.1
+
+Series Terms Certificate Pursuant to the Indenture Relating to 3.900% Notes Due 2025 of the Company
+
+4.2
+
+Series Terms Certificate Pursuant to the Indenture Relating to 3.950% Notes Due 2027 of the Company
+
+4.3
+
+Series Terms Certificate Pursuant to the Indenture Relating to 4.150% Notes Due 2032 of the Company
+
+4.4
+
+Series Terms Certificate Pursuant to the Indenture Relating to 4.500% Notes Due 2052 of the Company
+
+4.5
+
+Form of Global Note to represent the 3.900% Notes Due 2025 of the Company
+
+4.6
+
+Form of Global Note to represent the 3.950% Notes Due 2027 of the Company
+
+4.7
+
+Form of Global Note to represent the 4.150% Notes Due 2032 of the Company
+
+4.8
+
+Form of Global Note to represent the 4.500% Notes Due 2052 of the Company
+
+5.1
+
+Legality Opinion of Hunton Andrews Kurth LLP, counsel to the Company, dated September 9, 2022
+
+Exhibit 104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+4
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+Dated: September 9, 2022
+
+WALMART INC.
+
+By:
+
+/s/ Gordon Y. Allison
+
+Name:
+
+Gordon Y. Allison
+
+Title:
+
+Senior Vice President, Office of the Corporate Secretary, Chief Counsel for Finance and Governance and Assistant Secretary
+
+5

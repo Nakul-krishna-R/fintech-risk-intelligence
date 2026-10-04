@@ -1,0 +1,135 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+DATE OF REPORT (Date of earliest event reported):
+November 27, 2024
+
+Linde plc
+(Exact name of registrant as specified in its charter)
+
+Ireland
+
+001-38730
+
+98-1448883
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(I.R.S. Employer
+Identification No.)
+
+10 Riverview Dr.
+Danbury
+,
+Connecticut
+United States
+
+06810
+Forge
+43 Church Street West
+Woking
+,
+Surrey
+
+GU21 6HT
+United Kingdom
+
+(Address of principal executive offices) (Zip Code)
+
++44
+1483
+
+242200
+(Registrant’s telephone numbers, including area code)
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading symbol(s)
+
+Name of each exchange on which registered
+Ordinary shares (€0.001 nominal value per share)
+
+LIN
+
+Nasdaq
+Stock Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(e)
+
+Linde plc (the “Company”) filed a Form 8-K on November 4, 2024, disclosing that John Panikar, formerly Executive Vice President-APAC, announced that he will retire from Linde effective March 31, 2025, after serving 33 years with Linde, and that his role as an executive officer of Linde plc terminated effective November 1, 2024.
+
+Subsequently, Linde Inc., a subsidiary of the Company (“Linde Inc.”) and Mr. Panikar entered into a Retirement Agreement and General Release (the “Retirement Agreement”) effective on November 27, 2024, pursuant to which Mr. Panikar will remain employed in a non-executive officer role from November 1, 2024, through March 31, 2025 (the “Retirement Date”). During this period, he will continue to (i) earn salary at the same annual rate of $700,000, (ii) receive standard employee benefits commensurate with his continued employment through to the Retirement Date, and (iii) be eligible to earn a potential variable compensation cash bonus for 2024 depending on Company performance against goals previously set by the Company’s Human Capital Committee of the Board of Directors, and an individual performance factor determined by his manager for his 2024 performance.
+
+Mr. Panikar’s employment with the Company will terminate on March 31, 2025, and he will be entitled to receive the severance benefits provided under the Retirement Agreement in lieu of any other severance benefits he may have otherwise been entitled, subject to his supplemental release of claims becoming effective (the “Supplemental Release”). Following the effective date of the Supplemental Release, Linde Inc. will pay Mr. Panikar: (i) a severance benefit of $525,000, payable in 18 semi-monthly installments of $29,166.67 each on what would have been Mr. Panikar’s regular pay dates until the full amount has been paid; (ii) an additional lump sum severance benefit of $235,658 to be paid within 15 business days; and (iii) an additional severance benefit equal to $665,000 (Mr. Panikar’s target variable cash compensation amount in effect as of the Retirement Date), multiplied by the actual Company corporate business performance factor for 2025, to be paid in a lump sum no later than March 15, 2026. In addition, Mr. Panikar and his eligible dependents will be eligible to receive Linde Inc.-subsidized COBRA continuation of group health plan benefits until the earlier of December 31, 2025, or the date he ceases to be eligible for COBRA continuation coverage.
+
+Under the Retirement Agreement, Mr. Panikar reaffirmed his obligations under his Nondisclosure, Nonsolicitation and Noncompetition Agreement with the Company, which sets forth certain restrictive covenants to which Mr. Panikar is subject, including a confidentiality covenant, and a two-year non-solicitation (of both Company employees and customers) and non-compete agreement.
+
+ITEM 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits. The following exhibit is filed herewith:
+
+Exhibit No.
+
+Description
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+2
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+LINDE PLC
+
+Date: December 2, 2024
+By:
+/s/ Guillermo Bichara
+
+Name:
+Guillermo Bichara
+
+Title:
+Executive Vice President & Chief Legal Officer
+
+3

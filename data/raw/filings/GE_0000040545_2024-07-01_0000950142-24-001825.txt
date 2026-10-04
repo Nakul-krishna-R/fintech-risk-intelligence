@@ -1,0 +1,291 @@
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington,
+D.C. 20549
+
+FORM
+
+8-K
+
+CURRENT
+REPORT
+
+Pursuant
+to Section 13 or 15(d) of The Securities Exchange Act of 1934
+
+Date
+of Report (Date of earliest event reported)
+June 30,
+2024
+
+General
+Electric Company
+
+(Exact
+name of registrant as specified in its charter)
+
+New
+York
+
+001-00035
+
+14-0689340
+
+(State
+or other jurisdiction
+
+of
+incorporation)
+
+(Commission
+
+File
+Number)
+
+(IRS
+Employer
+
+Identification
+No.)
+
+1
+Neumann Way
+,
+Evendale
+,
+
+OH
+
+45215
+
+(Address
+of principal executive offices)
+
+(Zip
+Code)
+
+(Registrant’s
+telephone number, including area code)
+(
+617
+)
+
+443-3000
+
+(Former
+name or former address, if changed since last report.)
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions (see General Instructions A.2. below):
+
+☐
+
+Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+Title
+of each class
+
+Trading
+
+Symbol(s)
+
+Name
+of each exchange
+
+on
+which registered
+
+Common
+stock, par value $0.01 per share
+
+GE
+
+New
+York Stock Exchange
+
+0.875%
+Notes due 2025
+
+GE
+25
+
+New
+York Stock Exchange
+
+1.875%
+Notes due 2027
+
+GE
+27E
+
+New
+York Stock Exchange
+
+1.500%
+Notes due 2029
+
+GE
+29
+
+New
+York Stock Exchange
+
+7
+1/2% Guaranteed Subordinated Notes due 2035
+
+GE
+/35
+
+New
+York Stock Exchange
+
+2.125%
+Notes due 2037
+
+GE
+37
+
+New
+York Stock Exchange
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging
+growth company
+☐
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers;
+Compensatory Arrangements of Certain Officers.
+
+On June 30, 2024, the Board of Directors (the “Board”)
+of General Electric Company, operating as GE Aerospace (the “Company”), approved a new employment agreement for H. Lawrence
+Culp, Jr., the Company’s Chairman and Chief Executive Officer, to extend his employment through December 31, 2027, or such later
+date as mutually agreed by the parties up to and through December 31, 2028. Mr. Culp’s prior employment agreement was set to terminate
+on August 17, 2024. In approving this new contract upon the recommendation of the Board’s Management Development and Compensation
+Committee (the “MDCC”), the Board considered the best interests of shareholders, the significant value creation under Mr. Culp’s
+leadership since he became Chairman and Chief Executive Officer in 2018 and the benefits of securing his continued leadership for the
+Company, among other factors.
+
+Pursuant to the employment agreement, effective July 1, 2024, the Board
+approved the following compensation for Mr. Culp: (1) a base salary of $2,000,000 per year; (2) a target annual bonus opportunity at 200%
+of base salary; (3) beginning in 2025, an annual equity award with a grant date fair value of $15,250,000; and (4) a one-time equity
+performance award as described below. Mr. Culp’s existing performance share grant, dated as of August 18, 2020, will become fully
+vested on August 17, 2024 having satisfied the performance and service conditions. The employment agreement includes restrictive covenants
+for 12 months following any termination of employment. The other terms of Mr. Culp’s employment agreement are substantially similar
+to the terms of his prior employment agreement, as described in the Company’s Definitive Proxy Statement for the 2024 Annual Shareholders
+Meeting.
+
+The one-time equity performance award granted on July 1, 2024 is
+exclusively performance-based, in the form of performance stock units (“PSUs”). At target, the award represents 310,289
+shares of common stock, with 0% to 150% of the target PSUs eligible to become earned based on the compound annual growth rate for
+adjusted earnings per share (EPS CAGR) over four fiscal years ending with, and subject to the satisfaction of service conditions
+through, December 31, 2027. The EPS CAGR performance target levels are aligned with the long-term operating profit guidance the
+Company provided for 2028 at the GE Aerospace Investor Day on March 7, 2024. The combination of this performance condition
+and service conditions is intended to promote the continued alignment of Mr. Culp’s compensation during the term of the
+agreement with the Company’s long-term value creation.
+
+The terms of the employment agreement and performance
+award permit Mr. Culp to transition to the role of Executive Chairman upon mutual agreement with the Board for the final six months of
+the term. Upon a termination without cause or for good reason, or upon death or disability, Mr. Culp would be eligible to earn the performance
+award based on the greater of (x) target level and (y) actual performance determined at the end of the performance period. In the case
+of termination without cause or for good reason, or death or disability, prior to December 31, 2026, the amount of shares earned from
+the performance award would be prorated.
+
+The foregoing description is qualified in its entirety
+by reference to the Employment Agreement and the form of Performance Stock Unit Grant Agreement, which are filed as Exhibits 10.1 and
+10.2, respectively, to this Current Report on Form 8-K and are incorporated herein by reference.
+
+Item 9.01
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit Number
+
+Description
+
+10.1
+
+Employment Agreement by and between H. Lawrence Culp, Jr. and General Electric Company, effective July 1, 2024
+
+10.2
+
+Form of Performance Stock Unit Grant Agreement by and between H. Lawrence Culp, Jr. and General Electric Company, dated July 1, 2024
+
+104
+
+The cover page of this Current Report on Form 8-K formatted as Inline XBRL.
+
+2
+
+Forward-Looking Statements
+
+This document contains “forward-looking statements”
+— that is, statements related to future, not past, events. These forward- looking statements often address the Company’s expected
+future business and financial performance and financial condition, and often contain words such as “expect,” “anticipate,”
+“intend,” “plan,” “believe,” “seek,” “see,” “will,” “would,”
+“estimate,” “forecast,” “target,” “preliminary,” or “range.” Forward-looking
+statements by their nature address matters that are, to different degrees, uncertain, and are subject to risks, uncertainties and assumptions.
+For GE Aerospace, particular areas where risks or uncertainties could cause actual results to be materially different than those expressed
+in our forward-looking statements include: changes in macroeconomic and market conditions and market volatility, including risk of recession,
+inflation, geopolitical conflict; supply chain constraints or disruptions, interest rates, the value of securities and other financial
+assets (including GE Aerospace’s equity interest in GE HealthCare), commodity prices and exchange rates, and the impact of such
+changes and volatility on GE Aerospace’s business operations, financial results and financial position; GE Aerospace’s capital
+allocation plans, including the timing and amount of dividends, share repurchases, acquisitions, organic investments, and other priorities;
+and other factors that are described in the “Risk Factors” section of our Quarterly Report on Form 10-Q for the quarter ended
+March 31, 2024, as such description may be updated or amended in any future reports that GE Aerospace files with the SEC. These or other
+uncertainties may cause GE Aerospace’s actual future results to be materially different than those expressed in its forward-looking
+statements. GE Aerospace does not undertake to update its forward-looking statements.
+
+3
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+General Electric Company
+
+(Registrant)
+
+Date: July 1, 2024
+
+/s/
+Brandon Smith
+
+Brandon Smith
+
+Vice President, Chief Corporate, Securities & Finance Counsel
+
+4

@@ -1,0 +1,91 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+Form
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+January 2, 2024
+
+Chevron Corporation
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-00368
+
+94-0890210
+(State or other jurisdiction
+of incorporation )
+
+(Commission File Number)
+
+(I.R.S. Employer
+Identification No.)
+
+6001 Bollinger Canyon Road,
+San Ramon,
+CA
+
+94583
+(Address of Principal Executive Offices)
+
+(Zip Code)
+Registrant’s telephone number, including area code:
+
+(
+925
+)
+842-1000
+
+N/A
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligations of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Common stock, par value $.75 per share
+CVX
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (
+§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter
+).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 2.02 Results of Operations and Financial Condition
+On January 2, 2024, Chevron Corporation announced that for fourth quarter 2023, the Company will be impairing a portion of its U.S. upstream assets, primarily in California, due to continuing regulatory challenges in the state that have resulted in lower anticipated future investment levels in its business plans. The Company expects to continue operating the impacted assets for many years to come. In addition, the Company will be recognizing a loss related to abandonment and decommissioning obligations from previously sold oil and gas production assets in the U.S. Gulf of Mexico, as companies that purchased these assets have filed for protection under Chapter 11 of the U.S. Bankruptcy Code, and we believe it is now probable and estimable that a portion of these obligations will revert to the Company. We expect to undertake the decommissioning activities on these assets over the next decade.
+The Company is in the process of finalizing the financial impacts of these actions, which it expects to treat as special items and exclude from adjusted earnings. These actions in the aggregate are currently estimated to result in non-cash, after-tax charges of $3.5 billion to $4.0 billion in the Company’s fourth quarter 2023 results.
+As used in this communication, terms such as “the Company,” “we,” “its” and "our" may refer to Chevron Corporation, one or more of its consolidated subsidiaries, or to all of them taken as a whole. All of these terms are used for convenience only and are not intended as a precise description of any of the separate companies, each of which manages its own affairs.
+Non-GAAP Financial Measures
+- This communication includes reference to adjusted earnings/(loss), which reflect earnings or losses excluding significant non-operational items including impairment charges, write-offs, severance costs, gains on asset sales, unusual tax items, effects of pension settlements and curtailments, foreign currency effects and other special items. We believe it is useful for investors to consider adjusted earnings in comparing the underlying performance of our business across periods. This additional information is not meant to be considered in isolation or as a substitute for net income (loss) as prepared in accordance with U.S. GAAP.
+
+CAUTIONARY STATEMENTS RELEVANT TO FORWARD-LOOKING INFORMATION FOR THE PURPOSE OF “SAFE HARBOR” PROVISIONS OF THE PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995
+This communication of Chevron Corporation contains forward-looking statements relating to Chevron’s operations and energy transition plans that are based on management’s current expectations, estimates and projections about the petroleum, chemicals and other energy-related industries. Words or phrases such as “anticipates,” “expects,” “intends,” “plans,” “targets,” “advances,” “commits,” “drives,” “aims,” “forecasts,” “projects,” “believes,” “approaches,” “seeks,” “schedules,” “estimates,” “positions,” “pursues,” “progress,” “may,” “can,” “could,” “should,” “will,” “budgets,” “outlook,” “trends,” “guidance,” “focus,” “on track,” “goals,” “objectives,” “strategies,” “opportunities,” “poised,” “potential,” “ambitions,” “aspires” and similar expressions are intended to identify such forward-looking statements. These statements are not guarantees of future performance and are subject to certain risks, uncertainties and other factors, many of which are beyond the company’s control and are difficult to predict. Therefore, actual outcomes and results may differ materially from what is expressed or forecasted in such forward-looking statements. The reader should not place undue reliance on these forward-looking statements, which speak only as of the date of this communication. Unless legally required, Chevron undertakes no obligation to update publicly any forward-looking statements, whether as a result of new information, future events or otherwise.
+Among the important factors that could cause actual results to differ materially from those in the forward-looking statements are: changing crude oil and natural gas prices and demand for the company’s products, and production curtailments due to market conditions; crude oil production quotas or other actions that might be imposed by the Organization of Petroleum Exporting Countries and other producing countries; technological advancements; changes to government policies in the countries in which the company operates; public health crises, such as pandemics and epidemics, and any related government policies and actions; disruptions in the company’s global supply chain, including supply chain constraints and escalation of the cost of goods and services; changing economic, regulatory and political environments in the various countries in which the company operates; general domestic and international economic, market and political conditions, including the military conflict between Russia and Ukraine, the war between Israel and Hamas and the global response to these hostilities; changing refining, marketing and chemicals margins; actions of competitors or regulators; timing of exploration expenses; timing of crude oil liftings; the competitiveness of alternate-energy sources or product substitutes; development of large carbon capture and offset markets; the results of operations and financial condition of the company’s suppliers, vendors, partners and equity affiliates; the inability or failure of the company’s joint-venture partners to fund their share of operations and development activities; the potential failure to achieve expected net production from existing and future crude oil and natural gas development projects; potential delays in the development, construction or start-up of planned projects; the potential disruption or interruption of the company’s operations due to war (including the war between Israel and Hamas and related military operations), accidents, political events, civil unrest, severe weather, cyber threats, terrorist acts, or other natural or human causes beyond the company’s control; the potential liability for remedial actions or assessments under existing or future environmental regulations and litigation; significant operational, investment or product changes undertaken or required by existing or future environmental statutes and regulations, including international agreements and national or regional legislation and regulatory measures
+to limit or reduce greenhouse gas emissions; the potential liability resulting from pending or future litigation; the ability to successfully integrate the operations of the company and PDC Energy, Inc. and achieve the anticipated benefits from the transaction, including the expected incremental annual free cash flow; the risk that Hess Corporation (Hess) stockholders do not approve the potential transaction, and the risk that regulatory approvals are not obtained or are obtained subject to conditions that are not anticipated by the company and Hess; potential delays in consummating the potential transaction, including as a result of regulatory proceedings; the company’s ability to integrate Hess’ operations in a successful manner and in the expected time period; the possibility that any of the anticipated benefits and projected synergies of the potential transaction will not be realized or will not be realized within the expected time period; the company’s future acquisitions or dispositions of assets or shares or the delay or failure of such transactions to close based on required closing conditions; the potential for gains and losses from asset dispositions or impairments; government mandated sales, divestitures, recapitalizations, taxes and tax audits, tariffs, sanctions, changes in fiscal terms or restrictions on scope of company operations; foreign currency movements compared with the U.S. dollar; higher inflation and related impacts; material reductions in corporate liquidity and access to debt markets; the receipt of required Board authorizations to implement capital allocation strategies, including future stock repurchase programs and dividend payments; the effects of changed accounting rules under generally accepted accounting principles promulgated by rule-setting bodies; the company’s ability to identify and mitigate the risks and hazards inherent in operating in the global energy industry; and the factors set forth under the heading “Risk Factors” on pages 20 through 26 of the company's 2022 Annual Report on Form 10-K and in subsequent filings with the U.S. Securities and Exchange Commission. Other unpredictable or unknown factors not discussed in this communication could also have material adverse effects on forward-looking statements.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated: January 2, 2024
+
+CHEVRON CORPORATION
+By
+/s/ Alana K. Knowles
+Alana K. Knowles
+Vice President and Controller
+(Principal Accounting Officer and
+Duly Authorized Officer)

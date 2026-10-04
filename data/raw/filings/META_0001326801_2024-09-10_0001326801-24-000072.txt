@@ -1,0 +1,85 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+September 5, 2024
+
+Meta Platforms, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+001-35551
+20-1665019
+(State or Other Jurisdiction
+of Incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+1 Meta Way
+,
+Menlo Park
+,
+California
+
+94025
+
+(Address of principal executive offices and Zip Code)
+(
+650
+)
+543-4800
+
+(Registrant’s telephone number, including area code)
+N/A
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A Common Stock, $0.000006 par value
+META
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.03 Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+On September 5, 2024, the Board of Directors (the “Board”) of Meta Platforms, Inc. (the “Company”) amended and restated the Company’s bylaws (the “Amended and Restated Bylaws”), which became effective as of such date. The Amended and Restated Bylaws, among other things, enhance and clarify certain procedural and disclosure requirements related to shareholder nominations of directors and submissions of proposals regarding other business at annual or special meetings of shareholders, including with respect to the information about any such shareholders and their affiliates required to be disclosed to the Company, the number of nominees that shareholders may nominate for election, and certain other updates in light of the “universal proxy” rules adopted by the Securities and Exchange Commission pursuant to Rule 14a-19 of the Securities Exchange Act of 1934, as amended. The Amended and Restated Bylaws also include updates to matters related to meetings of shareholders, including who may preside over such meetings, and certain other technical, clarifying and conforming changes, including updates to conform to the Delaware General Corporation Law.
+The foregoing summary of the Amended and Restated Bylaws does not purport to be complete and is qualified in its entirety by reference to the full text of the Amended and Restated Bylaws, a copy of which is attached hereto as Exhibit 3.1 and incorporated in this Item 5.03 by reference.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit Number
+Exhibit Title or Description
+3.1
+Amended and Restated Bylaws
+104
+Cover Page Interactive Data File (Embedded within the inline XBRL document and included in Exhibit)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+META PLATFORMS, INC.
+Date:
+September 10, 2024
+By:
+/s/ Katherine R. Kelly
+Name:
+Katherine R. Kelly
+Title:
+Vice President and Corporate Secretary

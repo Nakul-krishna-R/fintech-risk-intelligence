@@ -1,0 +1,187 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported):
+January 6, 2021
+
+Broadcom Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+Delaware
+
+001-38449
+
+35-2617337
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+1320 Ridder Park Drive
+,
+
+San Jose
+,
+California
+
+95131-2313
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(408)
+
+433-8000
+
+(Registrant’s telephone number, including
+
+area code)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☒
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+
+Trading
+
+Symbol(s)
+
+Name of Each Exchange
+
+on Which Registered
+
+Common Stock, $0.001 par value
+
+AVGO
+
+The NASDAQ Global Select Market
+
+8.00% Mandatory Convertible Preferred Stock, Series A, $0.001 par value
+
+AVGOP
+
+The NASDAQ Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01
+
+Other Events.
+
+Beginning after the market closed on January 6, 2021, Broadcom Inc. (“Broadcom”) provided the attached presentation (the “Investor Presentation”) to certain investors. Broadcom expects to use the Investor Presentation, in whole or in part, in connection with presentations to additional investors. The Investor Presentation is attached hereto as Exhibit 99.1. The foregoing description is qualified in its entirety by reference to the full text of the Investor Presentation, which is incorporated herein by reference.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This communication contains forward-looking statements (including within the meaning of Section 21E of the United States Securities Exchange Act of 1934, as amended, and Section 27A of the United States Securities Act of 1933, as amended) concerning Broadcom. These statements include, but are not limited to, statements that address our expected future business and financial performance and other statements identified by words such as “will”, “expect”, “believe”, “anticipate”, “estimate”, “should”, “intend”, “plan”, “potential”, “predict” “project”, “aim”, and similar words, phrases or expressions. These forward-looking statements are based on current expectations and beliefs of the management of Broadcom, as well as assumptions made by, and information currently available to, such management, current market trends and market conditions and involve risks and uncertainties, many of which are outside Broadcom’s and our management’s control, and which may cause actual results to differ materially from those contained in forward-looking statements. Accordingly, you should not place undue reliance on such statements.
+
+Particular uncertainties that could materially affect future results include risks associated with: the
+COVID-19
+pandemic, which has, and will likely continue to, negatively impact the global economy and disrupt normal business activity, and which may have an adverse effect on our results of operations; any loss of our significant customers and fluctuations in the timing and volume of significant customer demand; our dependence on contract manufacturing and outsourced supply chain; our dependency on a limited number of suppliers; global economic conditions and concerns; global political and economic conditions; government regulations, trade restrictions and trade tensions; our significant indebtedness and the need to generate sufficient cash flows to service and repay such debt; dependence on and risks associated with distributors and resellers of our products; dependence on senior management and our ability to attract and retain qualified personnel; any acquisitions we may make, such as delays, challenges and expenses associated with receiving governmental and regulatory approvals and satisfying other closing conditions, and with integrating acquired businesses with our existing businesses and our ability to achieve the benefits, growth prospects and synergies expected by such acquisitions; involvement in legal or administrative proceedings; quarterly and annual fluctuations in operating results; our ability to accurately estimate customers’ demand and adjust our manufacturing and supply chain accordingly; cyclicality in the semiconductor industry or in our target markets; our competitive performance and ability to continue achieving design wins with our customers, as well as the timing of any design wins; prolonged disruptions of our or our contract manufacturers’ manufacturing facilities, warehouses or other significant operations; our ability to improve our manufacturing efficiency and quality; our dependence on outsourced service providers for certain key business services and their ability to execute to our requirements; our ability to maintain or improve gross margin; our ability to protect our intellectual property and the unpredictability of any associated litigation expenses; compatibility of our software products with operating environments, platforms or third-party products; our ability to enter into satisfactory software license agreements; availability of third party software used in our products; use of open source code sources in our products; any expenses or reputational damage associated with resolving customer product warranty and indemnification claims; market acceptance of the end products into which our products are designed; our ability to sell to new types of customers and to keep pace with technological advances; our compliance with privacy and data security laws; our ability to protect against a breach of security systems; fluctuations in foreign exchange rates; our provision for income taxes and overall cash tax costs, legislation that may impact our overall cash tax costs and our ability to maintain tax concessions in certain jurisdictions; and other events and trends on a national, regional and global scale, including those of a political, economic, business, competitive and regulatory nature. Many of the foregoing risks and uncertainties are, and will be, exacerbated by the
+COVID-19
+pandemic and any worsening of the global business and economic environment as a result.
+
+Our filings with the SEC, which you may obtain for free at the SEC’s website at http://www.sec.gov, discuss some of the important risk factors that may affect our business, results of operations and financial condition. Actual results may vary from the estimates provided. We undertake no intent or obligation to publicly update or revise any of the estimates and other forward-looking statements made in this announcement, whether as a result of new information, future events or otherwise, except as required by law.
+
+Important Additional Information and Where to Find It
+
+Broadcom, its directors and certain of its executive officers may be deemed to be participants in the solicitation of proxies from Broadcom’s stockholders in connection with the matters to be considered at Broadcom’s 2021 Annual Meeting of Stockholders. Information regarding the identity of Broadcom’s directors and executive officers and their respective direct or indirect interests in Broadcom, by security holdings or otherwise, can be found in Broadcom’s proxy statement for its 2020 Annual Meeting of Stockholders, filed with the SEC on February 18, 2020. To the extent holdings of Broadcom’s securities by such directors or executive officers have changed since the amounts set forth in Broadcom’s proxy statement for the 2020 Annual Meeting of Stockholders, such changes have been reflected on Initial Statements of Beneficial Ownership on Form 3 or Statements of Change in Ownership on Form 4 filed with the SEC. These documents are available free of charge at the SEC’s website at http://www.sec.gov. Broadcom intends to file a proxy statement with the SEC in connection with the solicitation of proxies from Broadcom stockholders in connection with the matters to be considered at Broadcom’s 2021 Annual Meeting of Stockholders. Additional information regarding the identity of potential participants and their direct or indirect interests, by security holdings or otherwise, will be set forth in the proxy statement and other materials to be filed with the SEC in connection with Broadcom’s 2021 Annual Meeting of Stockholders. INVESTORS AND STOCKHOLDERS ARE STRONGLY ENCOURAGED TO READ ANY SUCH PROXY STATEMENT, THE ACCOMPANYING PROXY CARD AND ANY AMENDMENTS AND SUPPLEMENTS THERETO AS WELL AS ANY OTHER DOCUMENTS FILED BY BROADCOM WITH THE SEC CAREFULLY AND IN THEIR ENTIRETY WHEN THEY BECOME AVAILABLE AS THEY WILL CONTAIN IMPORTANT INFORMATION. Stockholders will be able to obtain copies of the proxy statement, any amendments or supplements to the proxy statement and other documents filed by Broadcom with the SEC for no charge at the SEC’s website at http://www.sec.gov. Copies will also be available at no charge at the Investor Relations section of Broadcom’s corporate website at https://investors.broadcom.com or by contacting Broadcom’s Investor Relations department at investor.relations@broadcom.com.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+No.
+
+Description
+
+99.1
+
+Investor Presentation dated January 6, 2021
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: January 6, 2021
+
+Broadcom Inc.
+
+By:
+
+/s/ Mark Brazeal
+
+Name:
+
+Mark Brazeal
+
+Title:
+
+Chief Legal Officer

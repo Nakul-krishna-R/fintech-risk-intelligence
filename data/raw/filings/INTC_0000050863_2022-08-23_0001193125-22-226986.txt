@@ -1,0 +1,199 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+August 22, 2022
+
+INTEL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+000-06217
+
+94-1672743
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+2200 Mission College Blvd.
+,
+Santa Clara
+,
+California
+
+95054-1549
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+(408)
+
+765-8080
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2 below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock, $0.001 par value
+
+INTC
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+Purchase and Contribution Agreement
+
+On August 22, 2022, Intel Corporation (“Intel,” “we,” “our” or “us”) and Arizona Fab HoldCo Inc. (“Intel HoldCo”), a wholly owned subsidiary of Intel, entered into a purchase and contribution agreement (the “Purchase and Contribution Agreement”) with Foundry JV Holdco LLC (“Brookfield”), an entity formed at the direction of and managed by certain affiliates of Brookfield Asset Management Inc., and Arizona Fab LLC (“NewCo”), a wholly owned, newly formed subsidiary of Brookfield. The Purchase and Contribution Agreement provides that, upon the terms and subject to certain conditions, Intel and Brookfield will jointly own NewCo, which will cause to be constructed, commissioned, operated, managed and maintained two semiconductor wafer fabrication buildings located on Intel’s Ocotillo campus in the State of Arizona, together with related assets and equipment owned or leased by NewCo (collectively, the “Arizona Project”). At the closing of the transactions contemplated by the Purchase and Contribution Agreement (the “Closing”), Intel and Brookfield will enter into an amended and restated limited liability company agreement of NewCo (the “LLC Agreement”), a form of which is attached to the Purchase and Contribution Agreement, under which each of Intel and Brookfield will have certain governing rights, including certain board and approval rights.
+
+Under the Purchase and Contribution Agreement and the LLC Agreement, and subject to their respective terms and conditions, (i) Intel will acquire 51% of the fully diluted equity interests of NewCo (the “Units”), and Brookfield will own 49% of the Units; (ii) Intel will contribute to NewCo certain assets,
+work-in-progress
+related to the Arizona Project and cash that is, in the aggregate, equal to approximately $14.8 billion, and Brookfield will contribute to NewCo approximately $14.2 billion in cash; and (iii) following the initial contributions at Closing, Intel will contribute all of its Units to Intel HoldCo, which at such time will become the majority member of NewCo.
+
+The Purchase and Contribution Agreement contains customary representations and warranties from both Intel and Brookfield, and each party has agreed to customary covenants, including, among others, covenants relating to confidentiality, cooperation in connection with certain regulatory filings to the Committee on Foreign Investment in the United States (“CFIUS”) and Brookfield’s financing arrangements. The representations, warranties and covenants of each party set forth in the Purchase and Contribution Agreement have been made only for purposes of, and were and are solely for the benefit of the parties to, the Purchase and Contribution Agreement, and investors should not rely on them as statements of fact.
+
+The Closing is subject to customary conditions, including receipt of required CFIUS approvals. The parties expect to close the transactions in the fourth quarter of 2022. The Purchase and Contribution Agreement provides certain termination rights for both Intel and Brookfield, including if the Closing shall not have occurred on or before February 22, 2023 and Intel or Brookfield validly terminates the Purchase and Contribution Agreement and at the time of such termination certain conditions to Closing have been satisfied or waived, Intel will be entitled to a termination fee of $250 million.
+
+Pursuant to the LLC Agreement to be entered into at the Closing, and subject to its terms and conditions, Intel (as the parent of Intel HoldCo) will have the right to appoint four managers to serve on the board of managers of NewCo (the “Board”), and Brookfield will have the right to appoint three managers to serve on the Board. The LLC Agreement contains certain protective provisions requiring the approval of a supermajority of the Board to take certain actions, including the incurrence of additional debt by NewCo, making any material change to the business purpose of NewCo and engaging in any merger, consolidation or business combination of NewCo. The LLC Agreement sets forth the capital contribution obligations of Intel and Brookfield. The LLC Agreement also includes certain transfer restrictions relating to the Units.
+
+The foregoing summaries of the Purchase and Contribution Agreement and the LLC Agreement do not purport to be a complete description of all the parties’ rights and obligations and are qualified in their entirety by reference to such agreements (or the form thereof), which are filed as Exhibits 10.1 and 10.2, respectively, to this Current Report and are incorporated by this reference.
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On August 23, 2022, Intel and Brookfield issued a joint press release announcing the entry into the Purchase and Contribution Agreement and the Arizona Project and a conference call for analysts and investors. A copy of the press release and presentation slides are attached as Exhibit 99.1 and 99.2, respectively, and are incorporated by this reference.
+
+The information in this Item 7.01 and Exhibits 99.1 and 99.2 shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, and is not incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act.
+
+Item 8.01
+
+Other Events.
+
+On August 22, 2022, in connection with the entry into the Purchase and Contribution Agreement, Intel, Intel HoldCo, Brookfield and NewCo entered into some or all of certain ancillary agreements that govern, among other things, the construction, commission, operation, management and maintenance of the Arizona Project, each of which would only become effective upon the Closing. These ancillary agreements generally provide Intel with the obligation to construct, commission, operate, manage and maintain the Arizona Project, consistent with Intel’s ordinary course practices with respect to such matters but subject to agreed minimum wafer production and sale obligations by Intel.
+
+Forward-Looking Statements
+
+This document contains certain forward-looking statements within the meaning of the “safe harbor” provisions of the United States Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Exchange Act, as amended, related to the proposed transactions between Intel and Brookfield and certain of their affiliates, including statements regarding the benefits and the timing of the transactions, and to our Semiconductor
+Co-Investment
+Program and Smart Capital program. Words such as “anticipate,” “believe,” “could,” “estimate,” “expect,” “forecast,” “intend,” “likely,” “may,” “plan,” “potential,” “project,” “predict,” “seek,” “should,” “target,” “would” and “will” and variations of such words and similar expressions are intended to identify such forward-looking statements. Such statements are based on management’s expectations as of the date they were first made and involve risks and uncertainties, many of which are beyond our control, that could cause our actual results to differ materially from those expressed or implied in our forward-looking statements. Such risks and uncertainties include, among others, uncertainties as to the timing of the consummation of the transactions and the potential failure to satisfy the conditions to the consummation of the transactions, including the receipt of CFIUS approval; the availability of government incentives and other legislation, including the CHIPS and Science Act of 2022; business interruptions related to our supply chain; delays, disruptions, challenges or increased costs in Intel’s construction or manufacturing expansion at its Ocotillo campus in Chandler, Arizona, whether due to events within or outside of Intel’s control; expected benefits, including financial benefits, of the transactions or the Smart Capital strategy may not be realized; litigation related to the transactions or otherwise; unanticipated costs may be incurred or undisclosed liabilities assumed; risks related to diverting management’s attention from Intel’s ongoing business operations; potential adverse reactions or changes to business relationships resulting from the announcement or completion of the transactions; and other risks detailed in Intel’s filings with the Securities and Exchange Commission (the “SEC”), including those discussed in Intel’s most recent Annual Report on Form
+10-K
+and in any subsequent periodic reports on Form
+10-Q
+and Form
+8-K,
+each of which is on file with or furnished to the SEC and available at the SEC’s website at www.sec.gov. SEC filings for Intel are also available on Intel’s Investor Relations website at www.intc.com. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date they were first made. Unless otherwise required by applicable law, Intel and Brookfield undertake no obligation and do not intend to update these forward-looking statements, whether as a result of new information, future events or otherwise.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+The following exhibits are provided as part of this report.
+
+Exhibit
+
+Number
+
+Description
+
+10.1*
+
+Purchase and Contribution Agreement, dated as of August 22, 2022, by and among Intel Corporation, Arizona Fab HoldCo Inc., Foundry JV Holdco LLC, and Arizona Fab LLC
+
+10.2*
+
+Form of Amended and Restated Limited Liability Company Agreement of Arizona Fab LLC by and between Arizona Fab HoldCo Inc. and Foundry JV Holdco LLC
+
+99.1
+
+Press Release, dated August 23, 2022
+
+99.2
+
+Investor Presentation, dated August 23, 2022
+
+104
+
+Cover Page Interactive Data File, formatted in Inline XBRL and included as Exhibit 101
+
+*
+
+Schedules and certain portions of this exhibit have been omitted pursuant to Item 601(a)(5) and Item 601(b)(10)(iv) of
+Regulation S-K.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+INTEL CORPORATION
+
+(Registrant)
+
+Date: August 23, 2022
+
+/s/ April Miller Boise
+
+April Miller Boise
+
+Executive Vice President and Chief Legal Officer

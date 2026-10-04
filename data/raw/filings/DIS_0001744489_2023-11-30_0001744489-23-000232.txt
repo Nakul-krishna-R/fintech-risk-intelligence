@@ -1,0 +1,99 @@
+________________________________________________________________________
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+November 30, 2023
+The Walt Disney Company
+(Exact name of registrant as specified in its charter)
+Delaware
+001-38842
+83-0940635
+(State or other jurisdiction
+(Commission File Number)
+(IRS Employer
+of incorporation)
+Identification No.)
+
+500 South Buena Vista Street
+
+Burbank
+,
+California
+
+91521
+
+(Address of Principal Executive Offices and Zip Code)
+(
+818
+)
+560-1000
+
+(Registrant’s telephone number, including area code)
+Not applicable
+
+(Former name or address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.01 par value
+DIS
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+________________________________________________________________________
+Item 5.03 Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+On November 30, 2023, the Board of Directors (the “Board”) of The Walt Disney Company (the “Company”) amended and restated the Company’s Amended and Restated Bylaws (as so amended and restated, the “Bylaws”), which became effective that same date. Among other things, the amendments effected by the Bylaws:
+•
+address recently adopted amendments to Rule 14a-19 under the Securities Exchange Act of 1934, as amended, by requiring that any person soliciting proxies in support of a director nominee other than the Board’s nominees provide a representation that such person will comply with Rule 14a-19 and deliver reasonable evidence to the Company that the Rule 14a-19 requirements have been met;
+•
+require that any person directly or indirectly soliciting proxies using its own proxy card use a proxy card color other than white; and
+•
+enhance the procedural mechanics and disclosure requirements relating to business proposals submitted and director nominations made by stockholders, including by requiring:
+◦
+certain additional background information, disclosures and representations regarding any proposing stockholders, any proposed director nominees and business and any other persons related to a stockholder’s solicitation of proxies; and
+◦
+any notice of director nomination be accompanied by all written questionnaires required of the Company’s directors completed and signed by any proposed director nominees.
+The Bylaws also incorporate various other updates and technical, clarifying and conforming changes.
+The foregoing description is qualified in its entirety by reference to the full text of the Bylaws, a copy of which is attached hereto as Exhibit 3.1 and is incorporated herein by reference.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit
+Number
+Description
+3.1
+Amended and Restated Bylaws of The Walt Disney Company, effective as of November 30, 2023
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+The Walt Disney Company
+By:
+
+/s/ Jolene E. Negre
+
+Jolene E. Negre
+
+Associate General Counsel and Secretary
+Dated: November 30, 2023

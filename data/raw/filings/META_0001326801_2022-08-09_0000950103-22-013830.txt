@@ -1,0 +1,267 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 or 15(d) OF
+
+THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported):
+
+August 9, 2022
+
+Meta Platforms, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-35551
+
+20-1665019
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+1601 Willow Road
+,
+Menlo Park
+,
+California
+
+94025
+
+(Address of principal executive offices and Zip
+Code)
+
+(
+650
+)
+543-4800
+
+(Registrant’s telephone number, including
+area code)
+
+N/A
+
+(Former name or former address, if changed since
+last report)
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Class A Common Stock, $0.000006 par value
+
+META
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+
+Item 8.01 Other Events.
+
+On August 4, 2022, Meta Platforms, Inc. (the “Company”)
+commenced an offering of senior unsecured notes. On August 9, 2022, the Company entered into an indenture (the “Base Indenture”)
+and a supplemental indenture (the “Supplemental Indenture” and, together with the Base Indenture, the “Indenture”)
+with U.S. Bank Trust Company, National Association, as trustee, pursuant to which the Company issued $2.75 billion aggregate principal
+amount of its 3.500% senior unsecured notes due 2027 (the “2027 Notes”), $3.00 billion aggregate principal amount of its 3.850%
+senior unsecured notes due 2032 (the “2032 Notes”), $2.75 billion aggregate principal amount of its 4.450% senior unsecured
+notes due 2052 (the “2052 Notes”) and $1.50 billion aggregate principal amount of its 4.650% senior unsecured notes due 2062
+(the “2062 Notes” and together with the 2027 Notes, the 2032 Notes and the 2052 Notes, the “Notes”). The Notes
+were offered and sold only to persons reasonably believed to be qualified institutional buyers in reliance on Rule 144A under the Securities
+Act of 1933, as amended (the “Securities Act”), and outside the United States, only to non-U.S. persons pursuant to Regulation
+S under the Securities Act.
+
+The Notes bear interest at
+a rate of 3.500% per year with respect to the 2027 Notes, 3.850% per year with respect to the 2032 Notes, 4.450% per year with respect
+to the 2052 Notes, and 4.650% per year with respect to the 2062 Notes, respectively. Interest on the Notes is payable semi-annually in
+arrears on February 15 and August 15 of each year, commencing on February 15, 2023. The Company will pay interest to those persons who
+were holders of record on the February 1 or August 1 immediately preceding each interest payment date. The Notes are unsecured obligations
+of the Company. The Indenture also contains customary event of default provisions.
+
+Each series of Notes will
+be redeemable as a whole or in part, at the Company’s option at any time and from time to time prior to the applicable Par Call
+Date (as set forth in the table below), at a redemption price equal to the greater of:
+
+(1)
+(a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption
+date (assuming the Notes matured on the applicable Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve
+30-day months) at the Treasury Rate (as defined in the Supplemental Indenture) plus the applicable Spread for such Notes (as set forth
+in the table below), less (b) interest accrued and unpaid thereon to the date of redemption, and
+
+(2)
+100% of the principal amount of the Notes to be redeemed,
+
+plus, in each case, accrued and unpaid interest, if any, to, but excluding,
+the date of redemption.
+
+Each series of Notes will be redeemable as a whole
+or in part, at the Company’s option at any time and from time to time on or after the applicable Par Call Date, at a redemption
+price equal to 100% of the principal amount of the Notes being redeemed, plus accrued and unpaid interest to, but excluding, the date
+of redemption.
+
+Series
+
+Par Call
+Date
+
+Spread
+
+2027 Notes
+
+July 15, 2027 (1 month prior to maturity)
+
+15 basis points
+
+2032 Notes
+
+May 15, 2032 (3 months prior to maturity)
+
+20 basis points
+
+2052 Notes
+
+February 15, 2052 (6 months prior to maturity)
+
+25 basis points
+
+2062 Notes
+
+February 15, 2062 (6 months prior to maturity)
+
+25 basis points
+
+On August 9, 2022, the Company
+entered into a registration rights agreement (the “Registration Rights Agreement”) with Morgan Stanley & Co. LLC, J.P.
+Morgan Securities LLC, BofA Securities, Inc. and Barclays Capital Inc. pursuant to which the Company agreed to use commercially reasonable
+efforts to:
+
+·
+file, no later than 270 days after the issue date of the Notes, a registration statement with
+respect to a registered offer to exchange the Notes for new exchange notes, which will have terms substantially identical in all
+material respects to the Notes (except that the new exchange notes will not contain terms with respect to transfer restrictions and
+additional interest); and
+
+·
+cause the exchange offer registration statement to be declared effective under the Securities Act within
+365 days after the issue date of the Notes.
+
+Promptly after the exchange
+registration statement has been declared effective, the Company will commence its registered exchange offer.
+
+The foregoing description
+of the Indenture, the Notes and the Registration Rights Agreement does not purport to be complete and is qualified in its entirety by
+reference to the entire text of the Indenture, the forms of the 2027 Notes, the 2032 Notes, the 2052 Notes and the 2062 Notes, and the
+Registration Rights Agreement, copies of which are filed hereto as Exhibit 4.1 through 4.7 and are incorporated by reference herein.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit No.
+
+Description
+
+4.1
+
+Indenture, dated as of August 9, 2022, between Meta Platforms, Inc. and U.S. Bank Trust Company, National Association, as trustee.
+
+4.2
+
+First Supplemental Indenture, dated as of August 9, 2022, between Meta Platforms, Inc. and U.S. Bank Trust Company, National Association, as trustee.
+
+4.3
+
+Form of 3.500% Note due 2027 (included in Exhibit 4.2 hereto).
+
+4.4
+
+Form of 3.850% Note due 2032 (included in Exhibit 4.2 hereto).
+
+4.5
+
+Form of 4.450% Note due 2052 (included in Exhibit 4.2 hereto).
+
+4.6
+
+Form of 4.650% Note due 2062 (included in Exhibit 4.2 hereto).
+
+4.7
+
+Registration Rights Agreement, dated as of August 9, 2022, by and among Meta Platforms, Inc., Morgan Stanley & Co. LLC, J.P. Morgan Securities LLC, BofA Securities, Inc. and Barclays Capital Inc.
+
+104.1
+
+Cover Page Interactive Data File (Embedded within the Inline XBRL document and included in Exhibit).
+
+SIGNATURES
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.
+
+META PLATFORMS, INC.
+
+Date:
+
+August 9, 2022
+
+By:
+
+/s/ Katherine R. Kelly
+
+Name:
+
+Katherine R. Kelly
+
+Title:
+
+Vice President, Deputy General Counsel and Secretary

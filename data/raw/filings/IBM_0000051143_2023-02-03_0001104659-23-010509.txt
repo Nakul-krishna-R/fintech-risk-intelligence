@@ -1,0 +1,351 @@
+Title of each class
+
+Capital stock, par value $.20 per share
+
+Trading
+symbol
+
+IBM
+
+Common Stock
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+WASHINGTON,
+D.C. 20549
+
+FORM
+
+8-K
+
+CURRENT
+REPORT PURSUANT TO SECTION 13 OR 15 (d)
+
+OF
+THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report:
+January 30, 2023
+
+(Date of earliest
+event reported)
+
+INTERNATIONAL
+BUSINESS MACHINES CORPORATION
+
+(Exact name of registrant
+as specified in its charter)
+
+New York
+
+1-2360
+
+13-0871985
+
+(State of Incorporation)
+
+(Commission File Number)
+
+(IRS employer Identification No.)
+
+One New Orchard Road
+
+Armonk
+,
+
+New York
+
+10504
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+914
+-
+499-1900
+
+(Registrant’s telephone number)
+
+Check the appropriate
+box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered
+pursuant to Section 12(b) of the Act:
+
+Title
+of each class
+
+Trading
+symbol(s)
+
+Name
+of each exchange
+on which registered
+
+Capital stock, par value $.20 per share
+
+IBM
+
+New York Stock Exchange
+
+NYSE
+Chicago
+
+1.250% Notes due 2023
+
+IBM 23A
+
+New York Stock Exchange
+
+1.125% Notes due 2024
+
+IBM 24A
+
+New York Stock Exchange
+
+2.875% Notes due 2025
+
+IBM 25A
+
+New York Stock Exchange
+
+0.950% Notes due 2025
+
+IBM 25B
+
+New York Stock Exchange
+
+0.875% Notes due 2025
+
+IBM 25C
+
+New York Stock Exchange
+
+0.300% Notes due 2026
+
+IBM 26B
+
+New York Stock Exchange
+
+1.250% Notes due 2027
+
+IBM 27B
+
+New York Stock Exchange
+
+0.300% Notes due 2028
+
+IBM 28B
+
+New York Stock Exchange
+
+1.750% Notes due 2028
+
+IBM 28A
+
+New York Stock Exchange
+
+1.500% Notes due 2029
+
+IBM 29
+
+New York Stock Exchange
+
+0.875% Notes due 2030
+
+IBM 30
+
+New York Stock Exchange
+
+1.750% Notes due 2031
+
+IBM 31
+
+New York Stock Exchange
+
+0.650% Notes due 2032
+
+IBM 32A
+
+New York Stock Exchange
+
+1.250% Notes due 2034
+
+IBM 34
+
+New York Stock Exchange
+
+1.200% Notes due 2040
+
+IBM 40
+
+New York Stock Exchange
+
+7.00% Debentures due 2025
+
+IBM 25
+
+New York Stock Exchange
+
+6.22% Debentures due 2027
+
+IBM 27
+
+New York Stock Exchange
+
+6.50% Debentures due 2028
+
+IBM 28
+
+New York Stock Exchange
+
+5.875% Debentures due 2032
+
+IBM 32D
+
+New York Stock Exchange
+
+7.00% Debentures due 2045
+
+IBM 45
+
+New York Stock Exchange
+
+7.125% Debentures due 2096
+
+IBM 96
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+
+¨
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any
+new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+
+Financial Statements and Exhibits.
+
+This Current Report on Form 8-K is being filed to incorporate by reference
+into Registration Statement No. 333-262911 on
+Form S-3, effective February 22, 2022
+, the documents included as (1) Exhibits 1.1, 4.1,
+4.2, 4.3 and 4.4 relating to €4,250,000,000 aggregate principal amount of debt securities of the Registrant (the “Euro Notes”)
+and Exhibits 1.1 and 4.5 relating to £750,000,000 aggregate principal amount of debt securities of the Registrant (the “Sterling
+Notes” and, together with the Euro Notes, the “Euro and Sterling Notes”), (2) Exhibits 1.2, 4.6, 4.7, 4.8 and 4.9 relating
+to $3,250,000,000 aggregate principal amount of debt securities of the Registrant (the “USD Notes” and, together with the
+Euro Notes and the Sterling Notes, the “Notes”) and (3) Exhibits 5.1 and 23.1 regarding the Notes. The Euro and Sterling Notes
+and the USD Notes were offered by means of separate prospectus supplements.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+
+No.
+
+Description of Exhibit
+
+1.1
+
+Underwriting Agreement dated January 30, 2023 among International Business Machines Corporation and Barclays Bank PLC, Citigroup Global Markets Limited, Goldman Sachs & Co. LLC, J.P. Morgan Securities plc, Merrill Lynch International, Mizuho International plc, MUFG Securities EMEA plc, The Toronto-Dominion Bank, Banco Bilbao Vizcaya Argentaria, S.A., Canadian Imperial Bank of Commerce, London Branch, Truist Securities, Inc., U.S. Bancorp Investments, Inc., Wells Fargo Securities International Limited, Academy Securities, Inc., Independence Point Securities LLC and Penserra Securities LLC, as Underwriters
+
+1.2
+
+Underwriting Agreement dated January 30, 2023 among International Business Machines Corporation and Barclays Capital Inc., BofA Securities, Inc., Citigroup Global Markets Inc., Goldman Sachs & Co. LLC, J.P. Morgan Securities LLC, Mizuho Securities USA LLC, MUFG Securities Americas Inc. and TD Securities (USA) LLC, as Underwriters
+
+4.1
+
+Form of 3.375% Note due 2027
+
+4.2
+
+Form of 3.625% Note due 2031
+
+4.3
+
+Form of 3.750% Note due 2035
+
+4.4
+
+Form of 4.000% Note due 2043
+
+4.5
+
+Form of 4.875% Note due 2038
+
+4.6
+
+Form of 4.500% Note due 2026
+
+4.7
+
+Form of 4.500% Note due 2028
+
+4.8
+
+Form of 4.750% Note due 2033
+
+4.9
+
+Form of 5.100% Note due 2053
+
+5.1
+
+Opinion of Frank Sedlarcik, Vice President, Assistant General Counsel and Secretary regarding the Notes
+
+23.1
+
+Consent of Frank Sedlarcik, Vice President, Assistant General Counsel and Secretary (included in Exhibit 5.1)
+
+104
+
+Cover Page Interactive Data File - the cover page interactive data file does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document
+
+IBM’s web site (www.ibm.com) contains a significant amount of
+information about IBM, including financial and other information for investors (www.ibm.com/investor/). IBM encourages investors to visit
+its various web sites from time to time, as information is updated and new information is posted.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+Date: February 3, 2023
+
+By:
+
+/s/ Simon J. Beaumont
+
+Simon J. Beaumont
+
+Vice President and Treasurer

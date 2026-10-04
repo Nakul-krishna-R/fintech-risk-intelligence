@@ -1,0 +1,163 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of Earliest Event Reported):
+June 12, 2023
+
+The Walt Disney Company
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-38842
+
+83-0940635
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+500 South Buena Vista Street
+
+Burbank
+,
+California
+
+91521
+
+(Address of Principal Executive Offices and Zip Code)
+
+(818)
+
+560-1000
+
+(Registrant’s telephone number, including area code)
+
+Not applicable
+
+(Former name or address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.01 par value
+
+DIS
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01
+
+Other Events.
+
+On June 12, 2023, Disney Enterprises, Inc. (f/k/a/ The Walt Disney Company) (“DEI”), a subsidiary of The Walt Disney Company, will deliver a notice under the applicable indenture that it will redeem all of DEI’s outstanding 7.55% Senior Debentures, due July 15, 2093 (CUSIP No. 254687AH9) (the “Senior Debentures”), on July 15, 2023, with payment to be made on the next business day, July 17, 2023. The Senior Debentures, which have a total principal amount of $201,169,000, will be redeemed at the redemption price calculated in accordance with the terms of the Indenture dated as of November 30, 1990 (the “Indenture”) between DEI and Deutsche Bank Trust Company Americas (as successor in interest to Bankers Trust Company), as trustee (the “Trustee”), plus accrued interest to but excluding the redemption date.
+
+On or about July 10, 2023, TWDC Enterprises 18 Corp. (f/k/a/ The Walt Disney Company) (“Enterprises”), a subsidiary of The Walt Disney Company, intends to deliver a notice under the applicable indenture that it will redeem all of Enterprises’ outstanding Floating Rate Notes, due August 15, 2057 (CUSIP No. 25468PAM8) (the “Notes”), on or about August 15, 2023. The Notes, which have a total principal amount of $6,425,000, will be redeemed at the redemption price calculated in accordance with the terms of the Indenture dated as of March 7, 1996 between Enterprises and Wells Fargo Bank, National Association (as successor in interest to Citibank, N.A.), as trustee, plus accrued interest to but excluding the redemption date.
+
+The information contained in this Current Report on Form
+8-K
+does not constitute a notice of redemption of the Senior Debentures or the Notes.
+
+Item 9.01
+
+Financial Statements and Exhibits
+
+(d) Exhibits
+
+Exhibit
+
+Number
+
+Description
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, The Walt Disney Company has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated: June 12, 2023
+
+The Walt Disney Company
+
+By:
+
+/s/ Jolene E. Negre
+
+Jolene E. Negre
+
+Associate General Counsel and Secretary

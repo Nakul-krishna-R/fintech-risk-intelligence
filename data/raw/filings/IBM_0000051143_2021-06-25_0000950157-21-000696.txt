@@ -1,0 +1,305 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT PURSUANT TO SECTION 13 OR 15 (d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report:
+June 22, 2021
+
+(Date of earliest event reported)
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+New York
+
+1-2360
+
+13-0871985
+
+(State of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+
+One New Orchard Road
+
+Armonk
+,
+New York
+
+10504
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+914
+-
+499-1900
+
+(Registrant’s telephone number)
+
+Check t
+he appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of
+the registrant under any of the following provisions:
+
+☐
+Written communications pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the
+Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to
+Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to
+Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Capital stock, par value $.20 per share
+
+IBM
+
+New York Stock Exchange
+
+Capital Stock, par value $.20 per share
+
+IBM
+
+NYSE Chicago
+
+0.500% Notes due 2021
+
+IBM 21B
+
+New York Stock Exchange
+
+2.625% Notes due 2022
+
+IBM 22A
+
+New York Stock Exchange
+
+1.250% Notes due 2023
+
+IBM 23A
+
+New York Stock Exchange
+
+0.375% Notes due 2023
+
+IBM 23B
+
+New York Stock Exchange
+
+1.125% Notes due 2024
+
+IBM 24A
+
+New York Stock Exchange
+
+2.875% Notes due 2025
+
+IBM 25A
+
+New York Stock Exchange
+
+0.950% Notes due 2025
+
+IBM 25B
+
+New York Stock Exchange
+
+0.875% Notes due 2025
+
+IBM 25C
+
+New York Stock Exchange
+
+0.300% Notes due 2026
+
+IBM 26B
+
+New York Stock Exchange
+
+1.250% Notes due 2027
+
+IBM 27B
+
+New York Stock Exchange
+
+0.300% Notes due 2028
+
+IBM 28B
+
+New York Stock Exchange
+
+1.750% Notes due 2028
+
+IBM 28A
+
+New York Stock Exchange
+
+1.500% Notes due 2029
+
+IBM 29
+
+New York Stock Exchange
+
+1.750% Notes due 2031
+
+IBM 31
+
+New York Stock Exchange
+
+0.650% Notes due 2032
+
+IBM 32A
+
+New York Stock Exchange
+
+1.200% Notes due 2040
+
+IBM 40
+
+New York Stock Exchange
+
+7.00% Debentures due 2025
+
+IBM 25
+
+New York Stock Exchange
+
+6.22% Debentures due 2027
+
+IBM 27
+
+New York Stock Exchange
+
+6.50% Debentures due 2028
+
+IBM 28
+
+New York Stock Exchange
+
+7.00% Debentures due 2045
+
+IBM 45
+
+New York Stock Exchange
+
+7.125% Debentures due 2096
+
+IBM 96
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of
+the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised
+financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+On June 22, 2021, International Business Machines Corporation (“IBM”) (i) entered into a new $2.5 billion Three-Year Credit Agreement (the “New Three-Year Credit
+Agreement”) with the several banks and other financial institutions from time to time party thereto (the “Three-Year Lenders”) and (ii) entered into a new $7.5 billion Five-Year Credit Agreement (the “New Five-Year Credit Agreement” and, together
+with the Three-Year Credit Agreement, the “New Credit Agreements”) with the several banks and other financial institutions from time to time party thereto (the “Five-Year Lenders” and, together with the Three-Year Lenders, the “Lenders”).
+
+The New Three-Year Credit Agreement replaces IBM’s existing Amended and Restated Three-Year Credit Agreement, dated as of July 19, 2018 (as amended, supplemented or
+otherwise modified from time to time, the “Existing Three-Year Credit Agreement”), among IBM, the several banks and other financial institutions from time to time parties thereto, JPMorgan Chase Bank, N.A., as Administrative Agent, BNP Paribas,
+Citibank, N.A., Royal Bank of Canada and Mizuho Bank, Ltd., as Syndication Agents, and the Documentation Agents named therein. The New Three-Year Credit Agreement expires, unless extended, on June 21, 2024, and the Existing Three-Year Credit
+Agreement was scheduled to expire on July 20, 2023. The New Five-Year Credit Agreement replaces IBM’s existing Amended and Restated Five-Year Credit Agreement, dated as of July 19, 2018 (as amended, supplemented or otherwise modified from time to
+time, the “Existing Five-Year Credit Agreement”), among IBM, the Subsidiary Borrowers (as defined in the Existing Five-Year Credit Agreement) parties thereto, the several banks and other financial institutions from time to time parties thereto,
+JPMorgan Chase Bank, N.A., as Administrative Agent, BNP Paribas, Citibank, N.A., Royal Bank of Canada and Mizuho Bank, Ltd., as Syndication Agents, and the Documentation Agents named therein. The New Five-Year Credit Agreement expires, unless
+extended, on June 22, 2026, and the Existing Five-Year Credit Agreement was scheduled to expire on July 20, 2024.
+
+Also on June 22, 2021, in connection with entering into the New Credit Agreements, IBM terminated the revolving credit commitments under the 364-Day Credit Agreement, dated
+as of July 2, 2020 (as amended, supplemented or otherwise modified from time to time, the “Existing 364-Day Credit Agreement”), among IBM, the several banks and other financial institutions from time to time parties thereto, JP Morgan Chase Bank,
+N.A., as Administrative Agent, BNP Paribas, Citibank N.A., Royal Bank of Canada and Mizuho Bank, Ltd., as Syndication Agents, and the Documentation Agents named therein. The Existing 364-Day Credit Agreement was scheduled to expire on July 1, 2021.
+
+The New Credit Agreements permit IBM and its Subsidiary Borrowers (if any) to borrow up to an aggregate of $10.0 billion on a revolving basis. Borrowings of any Subsidiary
+Borrowers will be unconditionally guaranteed by IBM under each of the New Credit Agreements. Subject to certain conditions stated in each New Credit Agreement, IBM and the Subsidiary Borrowers may borrow, prepay and re-borrow amounts under each New
+Credit Agreement at any time during the term of the applicable New Credit Agreement. Funds borrowed may be used for the general corporate purposes of IBM and its subsidiaries. Interest rates on borrowings under the New Credit Agreements will be
+based on prevailing market rates, plus a margin, as further described in the New Credit Agreements. The New Credit Agreements contain customary representations and warranties, covenants, events of default and indemnification provisions. This
+summary description of the New Credit Agreements does not purport to be complete and is qualified in its entirety by reference to the full text of the New Credit Agreements, which are filed as Exhibits 10.1 and 10.2 to this report, and are
+incorporated by reference herein.
+
+In the ordinary course of their respective businesses, the Lenders and their affiliates have engaged, and may in the future engage, in commercial banking, investment
+banking, financial advisory or other services with IBM and/or its subsidiaries for which they have in the past and/or may in the future receive customary compensation and expense reimbursement.
+
+Item 1.02. Termination of a Material Definitive Agreement.
+
+The information set forth in Item 1.01 of this Current Report on Form 8-K is incorporated by reference herein.
+
+Item 2.03. Creation of a Direct Financial Obligation or an Obligation
+under an Off-Balance Sheet Arrangement of a Registrant.
+
+The information set forth in Item 1.01 of this Current Report on Form 8-K is incorporated by reference herein.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit No.
+
+Description
+
+10.1
+
+$2,500,000,000 Three-Year Credit Agreement,
+dated as of June 22, 2021, among International Business Machines Corporation, the Subsidiary Borrowers parties thereto, the several banks and other financial institutions from time to time parties to such agreement, JPMorgan Chase Bank,
+N.A., as Administrative Agent, BNP Paribas, Citibank N.A. and Royal Bank of Canada, as Syndication Agents, and the Documentation Agents named therein.
+
+10.2
+
+$7,500,000,000 Five-Year Credit Agreement,
+dated as of June 22, 2021, among International Business Machines Corporation, the Subsidiary Borrowers parties thereto, the several banks and other financial institutions from time to time parties to such agreement, JPMorgan Chase Bank,
+N.A., as Administrative Agent, BNP Paribas, Citibank, N.A. and Royal Bank of Canada, as Syndication Agents, and the Documentation Agents named therein.
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL Document)
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly
+authorized.
+
+Date: June 25, 2021
+
+By:
+
+/s/ Simon J. Beaumont
+
+Simon J. Beaumont
+
+Vice President and Treasurer

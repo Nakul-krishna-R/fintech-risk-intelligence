@@ -1,0 +1,89 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+November 13, 2024
+Date of Report (Date of earliest event reported)
+ADVANCED MICRO DEVICES, INC.
+
+(Exact name of registrant as specified in its charter)
+Delaware
+001-07882
+94-1692300
+(State or Other Jurisdiction of
+Incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification Number)
+2485 Augustine Drive
+
+Santa Clara
+,
+California
+
+95054
+
+(Address of principal executive offices) (Zip Code)
+(
+408
+)
+749-4000
+
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.01 par value
+AMD
+The Nasdaq Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.02
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+Departure of Chief Accounting Officer
+On November 15, 2024, Ms. Darla Smith informed Advanced Micro Devices, Inc. (“AMD”) of her resignation as Corporate Vice President and Chief Accounting Officer of AMD. Effective November 18, 2024, Ms. Smith will cease serving as AMD’s Chief Accounting Officer and continue her employment as Corporate Vice President until January 17, 2025 to assist with transition matters.
+Ms. Smith’s resignation is not the result of any dispute or disagreement with AMD, including with respect to any matters relating to AMD’s accounting practices or financial reporting.
+Appointment of Chief Accounting Officer
+On November 13, 2024, the Board of Directors of AMD appointed Mr. Philip Carter, 46, as AMD’s Corporate Vice President, Chief Accounting Officer and principal accounting officer effective as of November 18, 2024. Mr. Carter previously served as Corporate Vice President, Chief Accounting Officer at Skyworks Solutions, Inc. where he had worked since February 2017.
+Mr. Carter is a certified public accountant and a chartered financial analyst. He holds a B.S. in Accounting from California State University, Fullerton and an MBA from the University of Southern California.
+Pursuant to an offer letter dated October 9, 2024, between Mr. Carter and AMD (the “Offer Letter”), Mr. Carter’s base salary will be $400,000, and he will be eligible for an annual performance bonus target amount of 70% of his base salary under AMD’s Annual Incentive Plan. Mr. Carter will also receive a cash sign-on bonus of $250,000, as well as an award of performance-based restricted stock units with a target value of $375,000 and a restricted stock unit award with a target value of $1,125,000 to be granted under AMD’s 2023 Equity Incentive Plan. The cash sign-on bonus is subject to repayment on a pro-rated basis if Mr. Carter’s service terminates within two years.
+There is no arrangement or understanding between Mr. Carter and any other person pursuant to which Mr. Carter was selected as an officer, nor does he have any direct or indirect material interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation S-K. Mr. Carter has no family relationships with any of AMD’s directors or executive officers.
+A copy of the Offer Letter is attached hereto as Exhibit 10.1 and incorporated herein by reference. The foregoing description of the Offer Letter is qualified in its entirety by reference to the full text of the agreement.
+Item 9.01
+Financial Statements and Exhibits
+(d) Exhibits
+Exhibit No.
+Description
+10.1
+Offer Letter, dated October 9, 2024 by and between Advanced Micro Devices, Inc. and Philip Carter
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Date: November 18, 2024
+ADVANCED MICRO DEVICES, INC.
+By:
+/s/ Jean Hu
+Name:
+Jean Hu
+Title:
+Executive Vice President, Chief Financial Officer and Treasurer

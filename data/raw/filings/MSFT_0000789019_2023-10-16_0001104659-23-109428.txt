@@ -1,0 +1,221 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934
+
+Date of Report (date of earliest event reported):
+
+October 16, 2023
+
+MICROSOFT CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+Washington
+
+001-37845
+
+91-1144442
+
+(State or other jurisdiction of
+
+incorporation)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+
+One Microsoft Way
+
+Redmond
+,
+Washington
+
+98052-6399
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant's telephone number, including area code:
+
+(
+425
+)
+882-8080
+
+(Former name or former address, if changed since
+last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2):
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which
+
+registered
+
+Common stock, $0.00000625 par value per share
+
+MSFT
+
+NASDAQ
+
+3.125% Notes due 2028
+
+MSFT
+
+NASDAQ
+
+2.625% Notes due 2033
+
+MSFT
+
+NASDAQ
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+¨
+
+If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section 13(a) of the Exchange Act.
+¨
+
+Item 8.01
+
+Other Events.
+
+Exchange
+Offers and Consent Solicitations
+
+On
+October 16, 2023, Microsoft Corporation (“Microsoft”) announced that, in connection with the previously announced merger
+of Activision Blizzard, Inc. (“Activision Blizzard”) with and into a wholly-owned subsidiary of Microsoft (the “Merger”),
+with Activision Blizzard surviving the Merger as a wholly-owned subsidiary of Microsoft, Microsoft has commenced offers to exchange (each,
+an “Exchange Offer” and, collectively, the “Exchange Offers”) any and all outstanding notes issued by Activision
+Blizzard (the “Existing Activision Blizzard Notes”) for (1) up to $3,650,000,000 aggregate principal amount of new notes
+to be issued by Microsoft (the “New Microsoft Notes”) and (2) cash. Concurrently with the Exchange Offers being made
+by Microsoft, Activision Blizzard is, upon Microsoft’s request, soliciting consents (each, a “Consent Solicitation”
+and, collectively, the “Consent Solicitations”) to adopt certain proposed amendments to each of the corresponding indentures
+governing the Existing Activision Blizzard Notes to eliminate certain of the covenants, restrictive provisions and events of default from
+such indentures.
+
+Each
+Exchange Offer and Consent Solicitation is conditioned upon the completion of the other Exchange Offers and Consent Solicitations, although
+Microsoft may waive such condition at any time with respect to an Exchange Offer.
+
+The
+New Microsoft Notes have not been registered with the Securities and Exchange Commission (the “SEC”) under the Securities
+Act of 1933, as amended (the “Securities Act”), or any state or foreign securities laws. Therefore, the New Microsoft Notes
+may not be offered or sold in the United States or to any U.S. person absent registration, except pursuant to an applicable exemption
+from, or in a transaction not subject to, the registration requirements of the Securities Act.
+
+The
+Exchange Offers and Consent Solicitations are being made pursuant to the terms and subject to the conditions set forth in the offering
+memorandum and consent solicitation statement dated as of October 16, 2023 (as it may be amended or supplemented, the “Offering
+Memorandum and Consent Solicitation Statement”). A copy of the press release announcing the Exchange Offers and the Consent Solicitations
+is furnished herewith as Exhibit 99.1 and is incorporated herein by reference.
+
+The
+information in this Item 8.01, as well as Exhibit 99.1 attached hereto, is being furnished, not filed. Accordingly, such information
+will not be incorporated by reference into any registration statement filed by Microsoft under the Securities Act, unless specifically
+identified as being incorporated by reference therein.
+
+Cautionary Statement Regarding Forward-Looking
+Information
+
+This communication includes
+forward-looking statements within the meaning of federal securities laws. All statements, other than statements of historical fact, included
+in this communication are forward-looking statements. Such forward-looking statements include, but are not limited to, statements about
+the timing of the Exchange Offers and Consent Solicitations. No assurances can be given that the forward-looking statements contained
+in this communication will occur as expected and actual results may differ materially from those included in this communication. Forward-looking
+statements are based on current expectations and assumptions that involve a number of risks and uncertainties that could cause actual
+results to differ materially from those included in this communication. Important risks, uncertainties and other factors are described
+in the Offering Memorandum and Consent Solicitation Statement, Microsoft’s Annual Report on Form 10-K for the fiscal year ended
+June 30, 2023, Current Reports on Form 8-K and other filings Microsoft makes with the SEC and in Activision Blizzard’s
+Annual Report on Form 10-K for the year ended December 31, 2022, Activision Blizzard’s Quarterly Reports on Form 10-Q
+for the quarterly periods ended March 31, 2023 and June 30, 2023, Current Reports on Form 8-K and other filings Activision
+Blizzard makes with the SEC. Forward-looking statements are based on the estimates and opinions of management at the time the statements
+are made. Except to the extent required by applicable law, neither Microsoft nor Activision Blizzard undertakes any obligation to publicly
+update or revise any forward-looking statement, whether as a result of new information, future events or otherwise. You are cautioned
+not to place undue reliance on these forward-looking statements that speak only as of the date hereof.
+
+No Offer or Solicitation
+
+This communication is not
+intended to and shall not constitute an offer to sell or purchase, or a solicitation of an offer to sell or purchase, or the solicitation
+of tenders or consents with respect to, any security. No offer, solicitation, purchase or sale will be made in any jurisdiction in which
+such an offer, solicitation, or sale would be unlawful. The Exchange Offers and Consent Solicitations are being made to eligible holders
+solely pursuant to the Offering Memorandum and Consent Solicitation Statement and only to such persons and in such jurisdictions as is
+permitted under applicable law.
+
+Item 9.01
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit
+
+No.
+
+Description
+
+99.1
+
+Joint Press Release, dated October 16, 2023
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+MICROSOFT CORPORATION
+
+By:
+
+/s/ Keith R. Dolliver
+
+Keith R. Dolliver
+
+Corporate Secretary
+
+Date: October 16, 2023

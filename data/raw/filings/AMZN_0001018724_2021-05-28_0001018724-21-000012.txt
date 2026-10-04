@@ -1,0 +1,278 @@
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+_________________________
+FORM
+8-K
+
+_________________________
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+May 26, 2021
+
+Date of Report
+(Date of earliest event reported)
+
+_________________________
+AMAZON.COM, INC.
+
+(Exact name of registrant as specified in its charter)
+_________________________
+
+Delaware
+000-22513
+91-1646860
+(State or other jurisdiction of
+incorporation)
+(Commission File Number)
+(IRS Employer Identification No.)
+410 Terry Avenue North
+,
+Seattle
+,
+Washington
+
+98109-5210
+
+(Address of principal executive offices, including Zip Code)
+(
+206
+)
+266-1000
+
+(Registrant’s telephone number, including area code)
+_________________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol(s)
+Name of Each Exchange on Which Registered
+Common Stock, par value $.01 per share
+AMZN
+Nasdaq Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Table of Contents
+TABLE OF CONTENTS
+
+ITEM 5.07. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+3
+SIGNATURES
+5
+Table of Contents
+ITEM 5.07. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+On May 26, 2021, the Company held its Annual Meeting of Shareholders.
+The following nominees were elected as directors, each to hold office until the next Annual Meeting of Shareholders or until his or her successor is elected and qualified, by the vote set forth below:
+Nominee
+For
+Against
+Abstain
+Broker
+Non-Votes
+Jeffrey P. Bezos
+343,971,682
+17,712,002
+730,927
+60,606,450
+Keith B. Alexander
+360,134,978
+1,745,991
+533,642
+60,606,450
+Jamie S. Gorelick
+353,523,812
+6,643,491
+2,247,308
+60,606,450
+Daniel P. Huttenlocher
+357,485,338
+4,379,227
+550,046
+60,606,450
+Judith A. McGrath
+352,913,358
+9,018,613
+482,640
+60,606,450
+Indra K. Nooyi
+358,913,909
+2,948,340
+552,362
+60,606,450
+Jonathan J. Rubinstein
+355,013,961
+6,848,025
+552,625
+60,606,450
+Thomas O. Ryder
+348,050,199
+13,814,239
+550,173
+60,606,450
+Patricia Q. Stonesifer
+350,562,042
+11,368,429
+484,140
+60,606,450
+Wendell P. Weeks
+356,816,085
+5,048,225
+550,301
+60,606,450
+The appointment of Ernst & Young LLP as our independent auditors for the fiscal year ending December 31, 2021 was ratified by the vote set forth below:
+For
+Against
+Abstain
+Broker
+Non-Votes
+410,995,904
+11,359,397
+665,760
+—
+The compensation of our named executive officers as disclosed in the proxy statement was approved in an advisory vote, as set forth below:
+For
+Against
+Abstain
+Broker
+Non-Votes
+292,928,270
+68,646,287
+840,054
+60,606,450
+A shareholder proposal requesting a report on customer due diligence was not approved, as set forth below:
+For
+Against
+Abstain
+Broker
+Non-Votes
+126,093,181
+231,103,314
+5,218,116
+60,606,450
+A shareholder proposal requesting a mandatory independent board chair policy was not approved, as set forth below:
+For
+Against
+Abstain
+Broker
+Non-Votes
+52,557,765
+299,204,942
+10,651,904
+60,606,450
+A shareholder proposal requesting additional reporting on gender/racial pay was not approved, as set forth below:
+For
+Against
+Abstain
+Broker
+Non-Votes
+93,415,729
+267,093,612
+1,905,270
+60,606,450
+3
+Table of Contents
+A shareholder proposal requesting a report on promotion data was not approved, as set forth below:
+For
+Against
+Abstain
+Broker
+Non-Votes
+64,913,836
+294,816,522
+2,684,253
+60,606,450
+A shareholder proposal requesting a report on packaging materials was not approved, as set forth below:
+For
+Against
+Abstain
+Broker
+Non-Votes
+127,811,216
+231,830,287
+2,773,108
+60,606,450
+A shareholder proposal requesting a diversity and equity audit report was not approved, as set forth below:
+For
+Against
+Abstain
+Broker
+Non-Votes
+158,884,190
+200,719,903
+2,810,518
+60,606,450
+A shareholder proposal requesting an alternative director candidate policy was not approved, as set forth below:
+For
+Against
+Abstain
+Broker
+Non-Votes
+63,114,460
+297,945,126
+1,355,025
+60,606,450
+A shareholder proposal requesting a report on competition strategy and risk was not approved, as set forth below:
+For
+Against
+Abstain
+Broker
+Non-Votes
+120,544,009
+236,846,573
+5,024,029
+60,606,450
+A shareholder proposal requesting an additional reduction in threshold for calling special shareholder meetings was not approved, as set forth below:
+For
+Against
+Abstain
+Broker
+Non-Votes
+123,327,426
+238,071,476
+1,015,709
+60,606,450
+A shareholder proposal requesting additional reporting on lobbying was not approved, as set forth below:
+For
+Against
+Abstain
+Broker
+Non-Votes
+125,796,239
+234,754,900
+1,863,472
+60,606,450
+A shareholder proposal requesting a report on customer use of certain technologies was not approved, as set forth below:
+For
+Against
+Abstain
+Broker
+Non-Votes
+122,673,640
+234,690,392
+5,050,579
+60,606,450
+4
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+AMAZON.COM, INC. (REGISTRANT)
+By:
+/s/ David A. Zapolsky
+David A. Zapolsky
+Senior Vice President
+Dated: May 28, 2021
+5

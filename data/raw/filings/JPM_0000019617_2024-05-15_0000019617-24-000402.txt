@@ -1,0 +1,130 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (date of earliest event reported):
+May 15, 2024
+
+JPMorgan Chase & Co
+.
+(Exact name of registrant as specified in its charter)
+Delaware
+1-5805
+13-2624428
+(State or other jurisdiction of
+incorporation or organization)
+(Commission File Number)
+(I.R.S. employer
+identification no.)
+383 Madison Avenue,
+New York,
+New York
+10179
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code: (
+212
+)
+270-6000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock
+JPM
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 5.75% Non-Cumulative Preferred Stock, Series DD
+JPM PR D
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 6.00% Non-Cumulative Preferred Stock, Series EE
+JPM PR C
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.75% Non-Cumulative Preferred Stock, Series GG
+JPM PR J
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.55% Non-Cumulative Preferred Stock, Series JJ
+JPM PR K
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.625% Non-Cumulative Preferred Stock, Series LL
+JPM PR L
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.20% Non-Cumulative Preferred Stock, Series MM
+JPM PR M
+The New York Stock Exchange
+Alerian MLP Index ETNs due May 24, 2024
+AMJ
+NYSE Arca, Inc.
+Guarantee of Callable Fixed Rate Notes due June 10, 2032 of JPMorgan Chase Financial Company LLC
+JPM/32
+The New York Stock Exchange
+Guarantee of Alerian MLP Index ETNs due January 28, 2044 of JPMorgan Chase Financial Company LLC
+AMJB
+NYSE Arca, Inc.
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 7.01 Regulation FD Disclosure
+JPMorgan Chase & Co. (“JPMorgan Chase” or the “Firm”) is furnishing this Current Report on Form 8-K to provide supplemental financial information reflecting the reorganization of the Firm's reportable business segments that became effective in the second quarter of 2024, resulting in:
+•
+The combination of the Corporate & Investment Bank and Commercial Banking business segments to form one segment called Commercial & Investment Bank ("CIB"); and
+•
+No impact to the Firm’s other segments.
+The information contained in this Current Report on Form 8-K is being furnished pursuant to Regulation FD in order to assist investors in understanding how the Firm's business segment results would have been presented in previously-filed reports had the Firm's activities been organized for management reporting purposes in the manner in which the Firm's business segments are being managed commencing in the second quarter of 2024. This Current Report on Form 8-K includes only the financial information affected by the reorganization, does not represent a restatement of previously-issued financial statements, and had no effect on the Firm’s previously-reported consolidated financial information.
+A copy of the supplemental financial information is attached hereto as Exhibit 99.1. This information is being furnished pursuant to Item 7.01 and shall not be deemed to be "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, or otherwise subject to the liabilities under that Section. Furthermore, the information contained in Exhibit 99.1 shall not be deemed to be incorporated by reference into the filings of the Firm under the Securities Act of 1933.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+Exhibit No.
+
+Description of Exhibit
+
+99.1
+JPMorgan Chase & Co. Supplemental Financial Information (Related to
+the
+reorganization of the Firm's
+
+Reportable
+
+Business Segment
+s
+) - Five Quarter Trend Through 1Q24 and Full Year
+
+2023 & 2022
+101
+Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language).
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101).
+2
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+JPMorgan Chase & Co.
+(Registrant)
+By:
+/s/ Elena Korablina
+Elena Korablina
+Managing Director and Firmwide Controller
+(Principal Accounting Officer)
+Dated:
+May 15, 2024
+3

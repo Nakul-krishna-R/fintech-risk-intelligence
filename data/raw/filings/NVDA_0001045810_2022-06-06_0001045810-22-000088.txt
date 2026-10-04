@@ -1,0 +1,245 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+______________
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+June 2, 2022
+
+NVIDIA CORP
+ORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+0-23985
+94-3177549
+(State or other jurisdiction
+(Commission
+(IRS Employer
+of incorporation)
+File Number)
+Identification No.)
+
+2788 San Tomas Expressway
+,
+Santa Clara
+,
+CA
+
+95051
+
+(Address of principal executive offices) (Zip Code)
+Registrant’s telephone number, including area code:
+(
+408
+)
+486-2000
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.001 par value per share
+NVDA
+The Nasdaq Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging Growth Company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+Amendment and Restatement of Amended and Restated 2007 Equity Incentive Plan
+On June 2, 2022, at the 2022 Annual Meeting of Stockholders of NVIDIA Corporation, or the 2022 Annual Meeting, our stockholders approved an amendment and restatement of our Amended and Restated 2007 Equity Incentive Plan, or the 2007 Plan, to increase the available share reserve by 51,500,000 shares as described in our definitive proxy statement for the 2022 Annual Meeting filed with the Securities and Exchange Commission on April 19, 2022, or the Proxy Statement. The 2007 Plan previously had been approved, subject to stockholder approval, by the Compensation Committee of the Board of Directors of NVIDIA Corporation. A summary of the 2007 Plan is set forth in our Proxy Statement. That summary and the foregoing description of the 2007 Plan are qualified in their entirety by reference to the text of the 2007 Plan, which is filed as Exhibit 10.1 to this Current Report on Form 8-K.
+Item 5.03. Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+(a) Amendment to Certificate of Incorporation
+On June 2, 2022, at the 2022 Annual Meeting, our stockholders approved an amendment to our Restated Certificate of Incorporation, or the Amendment, to increase the number of authorized shares of common stock from 4 billion to 8 billion. The Amendment, which was filed with the Secretary of State of the State of Delaware on June 6, 2022, is filed as Exhibit 3.1 to this Current Report on Form 8-K.
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+On June 2, 2022, at the 2022 Annual Meeting, the following proposals were adopted by the margin indicated. Proxies for the 2022 Annual Meeting were solicited pursuant to Section 14(a) of the Securities Exchange Act of 1934, as amended, and there was no solicitation in opposition of management’s solicitation.
+1. Stockholders approved the election of each of our thirteen (13) directors to serve for a one-year term until our 2023 Annual Meeting of Stockholders. The results of the voting were as follows:
+a. Robert K. Burgess
+Number of shares For
+1,557,656,916
+Number of shares Against
+25,355,663
+Number of shares Abstaining
+3,017,685
+Number of Broker Non-Votes
+363,931,578
+b. Tench Coxe
+Number of shares For
+1,464,863,119
+Number of shares Against
+118,067,881
+Number of shares Abstaining
+3,099,264
+Number of Broker Non-Votes
+363,931,578
+c. John O. Dabiri
+Number of shares For
+1,572,940,318
+Number of shares Against
+9,906,378
+Number of shares Abstaining
+3,183,568
+Number of Broker Non-Votes
+363,931,578
+d. Persis S. Drell
+Number of shares For
+1,537,139,500
+Number of shares Against
+43,074,541
+Number of shares Abstaining
+5,816,223
+Number of Broker Non-Votes
+363,931,578
+e. Jen-Hsun Huang
+Number of shares For
+1,558,030,069
+Number of shares Against
+25,750,474
+Number of shares Abstaining
+2,249,721
+Number of Broker Non-Votes
+363,931,578
+f. Dawn Hudson
+Number of shares For
+1,559,460,807
+Number of shares Against
+23,762,969
+Number of shares Abstaining
+2,806,488
+Number of Broker Non-Votes
+363,931,578
+g. Harvey C. Jones
+Number of shares For
+1,318,082,151
+Number of shares Against
+254,092,161
+Number of shares Abstaining
+13,855,952
+Number of Broker Non-Votes
+363,931,578
+h. Michael G. McCaffery
+Number of shares For
+1,572,269,568
+Number of shares Against
+10,468,897
+Number of shares Abstaining
+3,291,799
+Number of Broker Non-Votes
+363,931,578
+i. Stephen C. Neal
+Number of shares For
+1,519,848,673
+Number of shares Against
+60,331,533
+Number of shares Abstaining
+5,850,058
+Number of Broker Non-Votes
+363,931,578
+j. Mark L. Perry
+Number of shares For
+1,377,526,033
+Number of shares Against
+202,714,371
+Number of shares Abstaining
+5,789,860
+Number of Broker Non-Votes
+363,931,578
+k. A. Brooke Seawell
+Number of shares For
+1,428,618,970
+Number of shares Against
+154,322,851
+Number of shares Abstaining
+3,088,443
+Number of Broker Non-Votes
+363,931,578
+l. Aarti Shah
+Number of shares For
+1,574,048,777
+Number of shares Against
+8,864,157
+Number of shares Abstaining
+3,117,330
+Number of Broker Non-Votes
+363,931,578
+m. Mark A. Stevens
+Number of shares For
+1,451,553,368
+Number of shares Against
+128,685,619
+Number of shares Abstaining
+5,791,277
+Number of Broker Non-Votes
+363,931,578
+2. Stockholders approved, on an advisory basis, the compensation of our named executive officers as disclosed in the Proxy Statement. The results of the voting were as follows:
+Number of shares For
+1,470,420,627
+Number of shares Against
+106,301,854
+Number of shares Abstaining
+9,307,783
+Number of Broker Non-Votes
+363,931,578
+3. Stockholders approved the ratification of the appointment of PricewaterhouseCoopers LLP as our independent registered accounting firm for our fiscal year ending January 29, 2023. The results of the voting were as follows:
+Number of shares For
+1,923,274,578
+Number of shares Against
+23,850,761
+Number of shares Abstaining
+2,836,503
+Number of Broker Non-Votes
+—
+4. Stockholders approved the Amendment. The results of the voting were as follows:
+Number of shares For
+1,883,628,707
+Number of shares Against
+62,614,633
+Number of shares Abstaining
+3,718,502
+Number of Broker Non-Votes
+—
+5. Stockholders approved the 2007 Plan. The results of the voting were as follows:
+Number of shares For
+1,497,320,046
+Number of shares Against
+85,756,953
+Number of shares Abstaining
+2,953,265
+Number of Broker Non-Votes
+363,931,578
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit Number
+Description
+3.1
+Amendment to
+Restated Certificate of Incorporation of NVIDIA Corporation.
+10.1
+Amended and Restated 2007 Equity Incentive Plan.
+104
+The cover page of this Current Report on Form 8-K, formatted in inline XBRL (included as Exhibit 101).
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+NVIDIA Corporation
+Date: June 6, 2022
+By: /s/ Rebecca Peters
+Rebecca Peters
+Vice President, Deputy General Counsel and Assistant Secretary

@@ -1,0 +1,120 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+_________________________________________________
+FORM
+8-K
+
+_____________________________________________________________
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of
+The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported)
+
+October 25, 2022
+
+____________________________________________________________
+ALPHABET INC.
+
+(Exact name of registrant as specified in its charter)
+_______________________________________________________________
+Delaware
+001-37580
+61-1767919
+(State or other jurisdiction of incorporation)
+(Commission File Number)
+(IRS Employer Identification No.)
+1600 Amphitheatre Parkway
+
+Mountain View
+,
+CA
+
+94043
+
+(Address of principal executive offices, including zip code)
+(
+650
+)
+253-0000
+
+(Registrant’s telephone number, including area code)
+Not Applicable
+(Former name or former address, if changed since last report)
+
+______________________________________________________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A Common Stock, $0.001 par value
+GOOGL
+Nasdaq Stock Market LLC
+(Nasdaq Global Select Market)
+Class C Capital Stock, $0.001 par value
+GOOG
+Nasdaq Stock Market LLC
+(Nasdaq Global Select Market)
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 2.02. Results of Operations and Financial Condition.
+On October 25, 2022, Alphabet Inc. (“
+Alphabet
+”) is issuing a press release and holding a conference call regarding its financial results for the quarter ended September 30, 2022. A copy of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K.
+This information shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “
+Exchange Act
+”), or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+Alphabet is making reference to non-GAAP financial information in both the press release and the conference call. A reconciliation of these non-GAAP financial measures to the comparable GAAP financial measures is contained in the attached press release.
+Item 5.03. Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+Alphabet Inc. Amended and Restated Bylaws
+On October 19, 2022, the Board of Directors (the “
+Board
+”) of Alphabet adopted amendments to its Amended and Restated Bylaws (as amended, the “
+Bylaws
+”) effective immediately, to:
+•
+clarify and further enhance procedural mechanics in connection with stockholder nominations of directors, including by requiring:
+◦
+a stockholder delivering a nomination notice pursuant to the advance notice provisions of the Bylaws to fully comply with Rule 14a-19 under the Securities Exchange Act of 1934, as amended, and certify that such stockholder has met the requirements of Rule 14a-19(a), and to update and supplement such notice, if necessary, to be true and correct both as of the record date of the stockholder meeting and ten business days prior to the date of the stockholder meeting;
+◦
+in connection with any nomination notice delivered by a stockholder, both the nominating stockholder and nominee to provide to the Board certain information in questionnaires, representations and agreements and other information and materials as the Board may reasonably request; and
+◦
+a stockholder directly or indirectly soliciting proxies from other stockholders to use a proxy card color other than white;
+•
+reflect updates to requirements about stockholder lists at stockholder meetings and meeting adjournment notices, consistent with recent amendments to the Delaware General Corporation Law; and
+•
+use gender neutral terms.
+The foregoing general description of the amendments to the Bylaws does not purport to be complete and is qualified in its entirety by reference to the full text of the Bylaws set forth in Exhibit 3.02 to this Form 8-K and incorporated in this Item by reference
+.
+Item 9.01.
+Financial Statements and Exhibits.
+(d)
+Exhibits
+Exhibit No.
+Description
+3.02
+Alphabet Inc. Amended and Restated Bylaws, as of October 19, 2022
+99.1
+Press release of Alphabet Inc. dated October 25, 2022
+104
+Cover Page Interactive Data File (formatted as inline XBRL)
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ALPHABET INC.
+Date: October 25, 2022
+/s/ RUTH M. PORAT
+Ruth M. Porat
+Senior Vice President and Chief Financial Officer

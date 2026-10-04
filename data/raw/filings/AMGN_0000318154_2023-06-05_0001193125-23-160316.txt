@@ -1,0 +1,189 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+June 2, 2023
+
+Amgen Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-37702
+
+95-3540776
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+One Amgen Center Drive
+Thousand Oaks
+
+California
+
+91320-1799
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+
+(805)
+
+447-1000
+
+Not Applicable
+
+(Former Name or Former Address, if Changed since Last Report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities Registered under Section 12(b) of the Act:
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock, $0.0001 par value
+
+AMGN
+
+The Nasdaq Stock Market LLC
+
+2.000% Senior Notes Due 2026
+
+AMGN26
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter). Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01
+
+Other Events
+
+As previously disclosed, on December 11, 2022, Amgen Inc. (“Amgen”), Horizon Therapeutics plc (“Horizon”) and Pillartree Limited, a wholly owned subsidiary of Amgen (“Acquirer Sub”), entered into a Transaction Agreement, dated December 11, 2022 (the “Transaction Agreement”), pursuant to which, among other things, Acquirer Sub will acquire the entire issued ordinary share capital of Horizon (the “Acquisition”).
+
+As also previously disclosed, on May 16, 2023, the U.S. Federal Trade Commission (“FTC”) filed a complaint in the U.S. District Court for the Northern District of Illinois seeking a temporary restraining order and preliminary injunction enjoining the Acquisition. On May 17, 2023, the court granted a stipulated temporary restraining order (the “Initial Stipulated TRO”) submitted by Horizon, Amgen and the FTC providing that Horizon and Amgen would not close the Acquisition until the earlier of September 15, 2023 or the second business day after the court rules on the FTC’s request for a preliminary injunction. On May 24, 2023, the court scheduled an evidentiary hearing on the FTC’s request for a preliminary injunction beginning on September 11, 2023. Based on the court’s schedule, Horizon, Amgen and the FTC then jointly proposed an extension of the Initial Stipulated TRO to the earlier of October 31, 2023 or the second business day after the court rules on the FTC’s request for a preliminary injunction (the “Revised Stipulated TRO”). On June 2, 2023, the court issued an order granting the Revised Stipulated TRO. Amgen expects that the schedule set by the court would allow the Acquisition to close by
+mid-December
+if the court denies the FTC’s request for a preliminary injunction.
+
+Responsibility Statement Required by the Irish Takeover Rules
+
+The directors of Amgen accept responsibility for the information contained in this Item 8.01. To the best of the knowledge and belief of the directors (who have taken all reasonable care to ensure that such is the case), the information contained in this Item 8.01 is in accordance with the facts and does not omit anything likely to affect the import of such information.
+
+-1-
+
+Forward-Looking Statements
+
+This Current Report on
+Form 8-K contains
+certain statements about Horizon and Amgen that are or may be forward-looking statements which include, but are not limited to, statements regarding expected timing, completion and effects of the Acquisition. These forward-looking statements are subject to the safe harbor provisions under the U.S. Private Securities Litigation Reform Act of 1995. All statements other than statements of historical facts included in this Announcement may be forward-looking statements. Without limitation, forward-looking statements often include words such as “expect,” “anticipate,” “outlook,” “could,” “target,” “project,” “intend,” “plan,” “believe,” “seek,” “estimate,” “should,” “may,” “assume” and “continue” as well as variations of such words and similar expressions are intended to identify such forward-looking statements. Horizon’s and Amgen’s expectations and beliefs regarding these matters may not materialize. Actual outcomes and results may differ materially from those contemplated by these forward-looking statements as a result of uncertainties, risks, and changes in circumstances, including but not limited to risks and uncertainties related to: the ability of the parties to complete the transactions contemplated by the Transaction Agreement, including the Acquisition, in a timely manner or at all; the satisfaction (or waiver) of conditions to the consummation of the transactions contemplated by the Transaction Agreement, including the Acquisition; whether Horizon and Amgen are successful in or otherwise able to resolve the FTC litigation; the time it takes to resolve the FTC litigation; the possibility that the FTC litigation or any further inquires or actions from the FTC could have the effect of further delaying, imposing restrictions on, or impeding or precluding the completion of the Acquisition; the satisfaction (or waiver) of conditions to the consummation of the Acquisition; the occurrence of any event, change or other circumstance or condition that could give rise to the termination of the transaction agreement governing the Acquisition; potential delays in consummating the transactions contemplated by the Transaction Agreement, including the Acquisition; the ability of Horizon and Amgen to timely and successfully achieve the anticipated strategic benefits, synergies or opportunities expected of the transactions contemplated by the Transaction Agreement, including the Acquisition; the successful integration of Horizon into Amgen subsequent to the consummation of the transactions contemplated by the Transaction Agreement, including the Acquisition and the timing of such integration; the impact of changes in global, political, economic, business, competitive, market and regulatory forces; the impact of health pandemics, including
+the COVID-19 pandemic,
+on Horizon’s or Amgen’s respective businesses; the occurrence of any event, change or other circumstance or condition that could give rise to the termination of the Transaction Agreement; adverse effects on the market price of Horizon’s or Amgen’s securities and on Horizon’s or Amgen’s operating results because of a failure to complete the Acquisition; the effect of the announcement or pendency of the Acquisition on Horizon’s or Amgen’s business relationships, operating results and business generally; costs related to the transactions contemplated by the Transaction Agreement, including the Acquisition; and the outcome of any legal proceedings that may be instituted against Horizon, Amgen, Acquirer Sub or any of their respective directors or officers related to the Transaction Agreement or the transactions contemplated by the Transaction Agreement, including the Acquisition. Additional risks and uncertainties that could cause actual outcomes and results to differ materially from those contemplated by the forward-looking statements are included under the caption “Risk Factors” and elsewhere in Horizon’s most recent filings with the SEC, including its Annual Report on Form
+10-K
+for the year ended December 31, 2022 and its Quarterly Report on
+Form 10-Q for
+the quarter ended March 31, 2023, and Amgen’s most recent filings with the SEC, including its Annual Report on Form
+10-K
+for the year ended December 31, 2022 and its Quarterly Report on
+Form 10-Q for
+the quarter ended March 31, 2023, and any subsequent reports on
+Form 10-K, Form 10-Q or
+
+Form 8-K filed
+with the SEC by Horizon or Amgen from time to time and available at www.sec.gov. These documents can be accessed on Horizon’s web page
+at https://ir.horizontherapeutics.com/sec-filings or
+on Amgen’s web page
+at https://investors.amgen.com/financials/sec-filings.
+
+The forward-looking statements included in this Current Report on
+Form 8-K are
+made only as of the date hereof. Neither Amgen nor Horizon assumes any obligation to, and neither Amgen nor Horizon intends to, update these forward-looking statements, except as required by law.
+
+-2-
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+AMGEN INC.
+
+Date: June 2, 2023
+
+By:
+
+/s/ Jonathan P. Graham
+
+Name:
+
+Jonathan P. Graham
+
+Title:
+
+Executive Vice President and General Counsel and Secretary

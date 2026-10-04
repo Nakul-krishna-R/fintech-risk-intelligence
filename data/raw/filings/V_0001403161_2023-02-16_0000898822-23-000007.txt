@@ -1,0 +1,169 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+February 15, 2023
+
+VISA INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+Delaware
+
+001-33977
+
+26-0267673
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+P.O. Box 8999
+
+San Francisco
+,
+
+California
+
+94128-8999
+
+(Address of Principal Executive Offices)
+
+(Zip Code)
+
+Registrant's Telephone Number, Including Area Code: (
+650
+)
+
+432-3200
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions:
+
+☐
+Written communications pursuant to Rule 425
+under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule
+14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant
+to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant
+to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) Act:
+
+Title of each class
+
+Trading Symbol
+
+Name of each exchange on which registered
+
+Class A Common Stock, par value $0.001
+
+per share
+
+V
+
+New York Stock Exchange
+
+1.500% Senior Notes due 2026
+
+V26
+
+New York Stock Exchange
+
+2.000% Senior Notes due 2029
+
+V29
+
+New York Stock Exchange
+
+2.375% Senior Notes due 2034
+
+V34
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or
+Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02
+
+Departure of Directors or Certain Officers: Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On February 16, 2023, Visa Inc. (“Visa” or “the Company”) announced that Vasant Prabhu, 63, Vice Chair, Chief Financial Officer, will depart
+the Company on September 30, 2023. Mr. Prabhu will assist the Company with the search for and onboarding of his replacement, allowing sufficient time for an orderly transition of duties to his successor. With this departure, Mr. Prabhu will be
+entitled to receive the separation payments due under and in accordance with sections 2(h)(i) and 4(b) and the related terms of the Visa Inc. Executive Severance Plan (the “Plan”). The Plan was previously filed with the SEC as Exhibit 10.8 to the
+Company’s current report on Form 10-Q, filed January 28, 2022
+.
+No new compensatory arrangements are being entered into with Mr. Prabhu in connection with his departure from the Company. A press release
+announcing Mr. Prabhu’s departure is attached as Exhibit 99.1 and is incorporated by reference.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+
+Number
+
+Description
+
+99.1
+
+Press Release issued by Visa Inc. dated February 16, 2023
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+VISA INC.
+
+Date: February 16, 2023
+
+By:
+
+/s/ Kelly Mahon Tullier
+
+Kelly Mahon Tullier
+
+Vice Chair, Chief People and Corporate Affairs Officer, and Corporate Secretary

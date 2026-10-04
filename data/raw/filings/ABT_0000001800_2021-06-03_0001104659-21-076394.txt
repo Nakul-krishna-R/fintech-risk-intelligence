@@ -1,0 +1,181 @@
+Common Shares, Without Par Value
+
+ABT
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D. C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+the
+
+Securities Exchange Act of 1934
+
+May 27, 2021
+
+Date of Report (Date of earliest event reported)
+
+ABBOTT LABORATORIES
+
+(Exact name of registrant as specified in
+charter)
+
+Illinois
+
+1-2189
+
+36-0698440
+
+(State or other Jurisdiction
+
+(Commission File Number)
+
+(IRS Employer
+
+of Incorporation)
+
+Identification No.)
+
+100 Abbott Park Road
+
+Abbott Park
+,
+Illinois
+
+60064-6400
+
+(Address of principal executive offices)(Zip
+Code)
+
+Registrant’s telephone number, including
+area code:
+(
+224
+)
+667-6100
+
+Check the appropriate box below if the Form 8-K filing
+is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities Registered Pursuant to Section 12(b) of
+the Act:
+
+Title of Each Class
+
+Trading Symbol(s)
+
+Name of Each Exchange
+
+on Which Registered
+
+Common Shares, Without Par Value
+
+ABT
+
+New York Stock Exchange
+
+Chicago Stock Exchange, Inc.
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of
+the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging
+growth company
+¨
+
+If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with
+any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+
+Item 2.05.
+Costs Associated With Exit or Disposal Activities.
+
+On May 27, 2021, Abbott Laboratories (“Abbott”) approved
+a restructuring plan to align its manufacturing network for COVID-19 diagnostic tests with recent changes in projected testing demand.
+The significant changes in projected testing demand have been driven by several factors, including significant reductions in cases in
+the U.S. and other major developed countries, accelerated rollout of COVID-19 vaccines globally and, most recently, U.S. health authority
+guidance on testing for fully vaccinated individuals.
+
+Abbott estimates the pre-tax costs to be incurred to implement this
+plan to be approximately $550 million to $700 million. The costs are expected to be incurred during the remainder of 2021 with the majority
+of the costs expected to be recorded in the second quarter of 2021. The costs will be treated as specified items.
+
+The costs will include fixed asset write-downs of $100 million to $135
+million, inventory-related charges of $220 million to $265 million, and other exit costs, which include contract cancellations and employee-related
+costs, of $230 million to $300 million. Non-cash charges included in the total are estimated to be $320 million to $400 million, reflecting
+the fixed asset write-downs and inventory-related charges. The other exit costs are expected to result in future cash outlays.
+
+Item 7.01
+Regulation FD Disclosure.
+
+On June 1, 2021, Abbott issued a press release providing an update
+to its financial outlook for the full year 2021.
+
+Furnished as Exhibit 99.1, and incorporated herein by reference,
+is the news release issued by Abbott announcing its updated financial outlook. In that news release, Abbott provides forecasts of
+a non-GAAP financial measure, adjusted diluted earnings per share from continuing operations, which adjusts for factors that are unusual
+or unpredictable, such as expenses primarily associated with restructuring and cost reduction initiatives, including those outlined in
+Item 2.05 above, and expenses associated with acquisitions. This non-GAAP financial measure also excludes intangible amortization
+expense to provide greater visibility on the results of operations excluding these costs, similar to how Abbott’s management internally
+assesses performance. Abbott’s management believes the presentation of this non-GAAP financial measure provides useful information
+to investors regarding Abbott’s results of operations as this non-GAAP financial measure allows investors to better evaluate ongoing
+business performance. Abbott’s management also uses this non-GAAP financial measure internally to monitor performance of the
+businesses. Abbott, however, cautions investors to consider non-GAAP financial measures in addition to, and not as a substitute
+for, financial measures prepared in accordance with GAAP.
+
+Item 9.01
+Financial Statements and Exhibits.
+
+Exhibit No.
+
+Exhibit
+
+99.1
+
+Press Release dated June 1, 2021 (furnished pursuant to Item 7.01).
+
+104
+Cover Page Interactive Data File (the cover page XBRL tags are embedded in the Inline XBRL document).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ABBOTT LABORATORIES
+
+Date: June 3, 2021
+
+By:
+
+/s/ Robert E. Funck,
+Jr.
+
+Robert E. Funck, Jr.
+
+Executive Vice President, Finance and Chief Financial Officer

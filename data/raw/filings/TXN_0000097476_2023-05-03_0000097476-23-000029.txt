@@ -1,0 +1,214 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+DATE OF REPORT (DATE OF EARLIEST EVENT REPORTED):
+April 27, 2023
+TEXAS INSTRUMENTS INCORPORATED
+(Exact name of registrant as specified in charter)
+DELAWARE
+
+001-03761
+
+75-0289970
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+file number)
+
+(I.R.S. employer
+identification no.)
+12500 TI BOULEVARD
+DALLAS
+, TEXAS
+75243
+(Address of principal executive offices)
+Registrant’s telephone number, including area code: (
+214
+)
+479-3773
+
+Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange on which registered
+Common Stock, par value $1.00
+
+TXN
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+ITEM 5.07. Submission of Matters to a Vote of Security Holders
+
+At the annual meeting of stockholders held on April 27, 2023, the stockholders elected the Board of Directors of Texas Instruments Incorporated and voted upon the proposals contained within our Proxy Statement dated March 14, 2023.
+The Board nominees were elected with the following vote:
+Nominee
+For
+Against
+Abstentions
+Broker Non-Votes
+Mark A. Blinn
+725,092,458
+17,500,046
+1,232,412
+69,565,209
+Todd M. Bluedorn
+731,729,546
+10,942,575
+1,152,795
+69,565,209
+Janet F. Clark
+729,897,682
+12,928,030
+999,204
+69,565,209
+Carrie S. Cox
+618,514,766
+124,208,081
+1,102,069
+69,565,209
+Martin S. Craighead
+730,978,977
+11,694,875
+1,151,064
+69,565,209
+Curtis C. Farmer
+736,754,518
+5,907,694
+1,162,704
+69,565,209
+Jean M. Hobby
+708,721,943
+34,004,484
+1,098,489
+69,565,209
+Haviv Ilan
+736,035,904
+6,704,080
+1,084,932
+69,565,209
+Ronald Kirk
+720,742,274
+21,996,557
+1,086,085
+69,565,209
+Pamela H. Patsley
+634,202,881
+108,173,980
+1,448,055
+69,565,209
+Robert E. Sanchez
+722,701,325
+19,988,682
+1,134,909
+69,565,209
+Richard K. Templeton
+710,786,262
+30,144,993
+2,893,661
+69,565,209
+The stockholders voted on the following proposals and cast their votes as described below:
+Proposal
+For
+Against
+Abstentions
+Broker Non-Votes
+Board proposal to approve amendment and restatement of the TI Employees 2014 Stock Purchase Plan to extend the termination date
+739,923,117
+2,841,975
+1,059,824
+69,565,209
+Proposal
+1 Year
+2 Years
+3 Years
+Abstentions
+Broker Non-Votes
+Board proposal regarding advisory vote on the frequency of future advisory votes on executive compensation
+730,702,041
+1,501,389
+10,499,654
+1,121,832
+69,565,209
+The results being consistent with the Board’s recommendation, the company will continue to hold an advisory vote on executive compensation every year.
+Proposal
+For
+Against
+Abstentions
+Broker Non-Votes
+Board proposal regarding advisory approval of the company’s executive compensation
+627,636,290
+114,025,836
+2,162,790
+69,565,209
+Proposal
+For
+Against
+Abstentions
+Broker Non-Votes
+Board proposal to ratify the appointment of Ernst & Young LLP as the company’s independent registered public accounting firm for 2023
+763,040,083
+45,188,373
+5,161,669
+—
+Proposal
+For
+Against
+Abstentions
+Broker Non-Votes
+Stockholder proposal to permit a combined 10% of stockholders to call a special meeting
+335,626,155
+405,885,578
+2,313,183
+69,565,209
+Proposal
+For
+Against
+Abstentions
+Broker Non-Votes
+Stockholder proposal to report on due diligence efforts to trace end-user misuse of company products
+169,488,999
+565,911,868
+8,424,049
+69,565,209
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+TEXAS INSTRUMENTS INCORPORATED
+
+Date: May 3, 2023
+
+By:
+
+/s/ Cynthia Hoff Trochu
+
+Cynthia Hoff Trochu
+
+Senior Vice President, Secretary and
+
+General Counsel

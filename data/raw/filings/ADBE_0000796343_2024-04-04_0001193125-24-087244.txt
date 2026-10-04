@@ -1,0 +1,218 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (date of earliest event reported): April 4, 2024 (
+April 1, 2024
+)
+
+ADOBE INC.
+
+(Exact name of Registrant as specified in its charter)
+
+Delaware
+
+0-15175
+
+77-0019522
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+Identification No.)
+
+345 Park Avenue
+
+San Jose
+,
+California
+
+95110-2704
+
+(Address of principal executive offices and zip code)
+
+Registrant’s telephone number, including area code:
+(408)
+
+536-6000
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+
+Trading
+Symbol
+
+Name of Each Exchange
+
+on Which Registered
+
+Common Stock, $0.0001 par value per share
+
+ADBE
+
+NASDAQ
+
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01
+
+Entry Into a Material Definitive Agreement.
+
+On April 1, 2024, Adobe Inc. (“Adobe”) entered into an underwriting agreement (the “Underwriting Agreement”) with BofA Securities, Inc., J.P. Morgan Securities LLC, SG Americas Securities, LLC, U.S. Bancorp Investments, Inc. and Wells Fargo Securities, LLC, as representatives of the several underwriters. The Underwriting Agreement provides for the issuance and sale by Adobe of (i) $500,000,000 aggregate principal amount of the Company’s 4.850% Notes due 2027 (the “2027 Notes”), (ii) $750,000,000 aggregate principal amount of the Company’s 4.800% Notes due 2029 (the “2029 Notes”) and (iii) $750,000,000 aggregate principal amount of the Company’s 4.950% Notes due 2034 (the “2034 Notes”) (the “2034 Notes,” and, collectively with the 2027 Notes and the 2029 Notes, the “Notes”). The Underwriting Agreement contains customary representations, warranties and agreements by Adobe, and customary closing conditions, indemnification rights and termination provisions.
+
+The above description of the Underwriting Agreement is qualified in its entirety by reference to the Underwriting Agreement, which is filed as Exhibit 1.1 to this Current Report on Form
+8-K
+and is incorporated herein by reference.
+
+On April 4, 2024, Adobe completed the offering of the Notes. The Notes were issued and sold in a public offering pursuant to a registration statement on Form
+S-3
+(the “Registration Statement”), which became automatically effective upon filing with the Securities and Exchange Commission on February 4, 2022 (File
+No. 333-262547),
+and a related final prospectus supplement dated April 1, 2024. The Notes were issued pursuant to an Indenture, dated as of January 25, 2010 (the “Indenture”), between Adobe and Computershare Trust Company, N.A., as successor to Wells Fargo Bank, National Association, as trustee, together with the officer’s certificate, dated April 4, 2024 (the “Officer’s Certificate”), issued pursuant to the Indenture establishing the terms of each series of Notes.
+
+The net proceeds from the sale of the Notes were approximately $1.99 billion after deducting underwriting discounts and estimated offering expenses. Adobe intends to use the net proceeds for general corporate purposes, which may include repayment of debt, stock repurchases, capital expenditures and acquisitions.
+
+Interest on the Notes will accrue from April 4, 2024, their date of issuance, at a rate of 4.850% per year for the 2027 Notes, 4.800% per year for the 2029 Notes and 4.950% per year for the 2034 Notes. Interest on the Notes will be payable in cash semi-annually in arrears on April 4 and October 4 of each year, beginning on October 4, 2024.
+
+The 2027 Notes will mature on April 4, 2027, the 2029 Notes will mature on April 4, 2029, and the 2034 Notes will mature on April 4, 2034.
+
+Prior to (i) with respect to the 2027 Notes, March 4, 2027 (one month prior to the maturity date of such notes) (the “2027 Par Call Date”), (ii) with respect to the 2029 Notes, March 4, 2029 (one month prior to the maturity date of such notes) (the “2029 Par Call Date”) and (iii) with respect to the 2034 Notes, January 4, 2034 (three months prior to the maturity date of such notes) (the “2034 Par Call Date” and, collectively with the 2027 Par Call Date and the 2029 Par Call Date, each a “Par Call Date”), such series of notes may be redeemed at Adobe’s option, in whole or in part, at any time and from time to time, at a redemption price equal to the greater of the following amounts: (1) 100% of the principal amount of the notes to be redeemed and (2) (a) the sum of the present values of the remaining scheduled payments of principal and interest on the notes of such series being redeemed discounted to the redemption date (assuming, in the case of the 2027 Notes, the 2029 Notes and the 2034 Notes, that such notes matured on March 4, 2027, March 4, 2029 and January 4, 2034, respectively) on a semi-annual basis (assuming a
+360-day
+year consisting of twelve
+30-day
+months) at the Treasury Rate (as defined in the Officer’s Certificate), plus 10 basis points in the case of the 2027 Notes, plus 10 basis points in the case of the 2029 Notes and plus 10 basis points in the case of the 2034 Notes, less (b) interest accrued to, but not including, the date of redemption, plus, in either case, accrued and unpaid interest on the principal amount of the notes being redeemed to, but not including, the redemption date.
+
+In addition, on or after the applicable Par Call Date, such series of notes may be redeemed at Adobe’s option, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal amount of the notes being redeemed, plus accrued and unpaid interest on the principal amount being redeemed to, but not including, the date of redemption.
+
+2
+
+The above description is qualified in its entirety by reference to the Officer’s Certificate, including the forms of the Notes, which are filed herewith as Exhibits 4.1 through 4.4 and are incorporated herein by reference, and to the Indenture filed as Exhibit 4.1 to the Registration Statement on Form
+S-3,
+which became automatically effective upon filing with the Securities and Exchange Commission on February 4, 2022 (File
+No. 333-262547).
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit
+No.
+
+Description
+
+1.1
+
+Underwriting Agreement dated April 1, 2024, by and among Adobe Inc. and BofA Securities, Inc., J.P. Morgan Securities LLC, SG Americas Securities, LLC, U.S. Bancorp Investments, Inc. and Wells Fargo Securities, LLC, as representatives of the several underwriters.
+
+4.1
+
+Officer’s Certificate of Adobe Inc. dated April 4, 2024.
+
+4.2
+
+Form of Global Note representing the 2027 Notes (included in Exhibit 4.1).
+
+4.3
+
+Form of Global Note representing the 2029 Notes (included in Exhibit 4.1).
+
+4.4
+
+Form of Global Note representing the 2034 Notes (included in Exhibit 4.1).
+
+5.1
+
+Opinion of Skadden, Arps, Slate, Meagher & Flom LLP.
+
+23.1
+
+Consent of Skadden, Arps, Slate, Meagher & Flom LLP (included in Exhibit 5.1).
+
+104
+
+Cover Page Interactive Data File (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document).
+
+3
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ADOBE INC.
+
+Dated: April 4, 2024
+
+By:
+
+/s/ Daniel Durn
+
+Daniel Durn
+
+Executive Vice President and Chief Financial
+
+Officer
+
+4

@@ -1,0 +1,412 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington
+, D.C. 20549
+
+FORM
+8-K/A
+
+(AMENDMENT NO. 1)
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+
+February 14, 2024
+
+ABBVIE INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-35565
+
+32-0375147
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+Identification No.)
+
+1 North Waukegan Road
+
+North Chicago
+,
+Illinois
+
+60064-6400
+
+(Address of principal executive offices)(Zip Code)
+
+Registrant’s telephone
+number, including area code:
+(
+847
+)
+932-7900
+
+Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title
+of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, $0.01 Par Value
+
+ABBV
+
+New York Stock Exchange
+
+Chicago Stock Exchange
+
+1.375% Senior Notes due 2024
+
+ABBV24
+
+New York Stock Exchange
+
+1.250% Senior Notes due 2024
+
+ABBV24B
+
+New York Stock Exchange
+
+0.750% Senior Notes due 2027
+
+ABBV27
+
+New York Stock Exchange
+
+2.125% Senior Notes due 2028
+
+ABBV28
+
+New York Stock Exchange
+
+2.625% Senior Notes due 2028
+
+ABBV28B
+
+New York Stock Exchange
+
+2.125% Senior Notes due 2029
+
+ABBV29
+
+New York Stock Exchange
+
+1.250% Senior Notes due 2031
+
+ABBV31
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+¨
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+
+Common Stock, $0.01 Par Value
+
+ABBV
+
+Item 5.02
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of
+Certain Officers.
+
+On February 20, 2024, AbbVie Inc. (“AbbVie”)
+filed a Form 8-K to announce that the Board of Directors (the “Board”) selected Robert A. Michael to succeed Richard
+A. Gonzalez as AbbVie’s Chief Executive Officer (CEO), effective July 1, 2024 (the “Effective Date”). Upon the
+Effective Date, Mr. Michael will become a member of the Board as a Class II director and Mr. Gonzalez will become Executive
+Chairman of the Board.
+
+On May 2, 2024, the Board approved Mr. Michael's
+new compensation package as CEO, as of the Effective Date, as follows:
+
+·
+Mr. Michael will receive an annual base salary of $1,700,000.
+
+·
+Mr. Michael will continue to be eligible to participate in AbbVie’s Performance Incentive Plan or any successor annual
+bonus plan with a target bonus equal to 150% of his base salary, subject to the attainment of one or more pre-established performance
+targets.
+
+Mr. Gonzalez’s new compensation
+package as Executive Chairman was also approved as follows:
+
+·
+Mr. Gonzalez will receive an annual base salary of $1,500,000.
+
+·
+Mr. Gonzalez will continue to be eligible to participate in AbbVie’s Performance Incentive Plan or any successor annual
+bonus plan with a target bonus equal to 140% of his base salary, subject to the attainment of one or more pre-established performance
+targets.
+
+Item 5.07
+Submission of Matters to a Vote of Security Holders.
+
+AbbVie held its 2024 Annual Meeting of Stockholders
+on May 3, 2024. The following is a summary of the matters voted on at that meeting.
+
+(1)
+
+The stockholders elected AbbVie’s Class III directors with terms expiring in 2027, as follows:
+
+Name
+
+For
+
+Against
+
+Abstain
+
+Broker Non-Votes
+
+Roxanne S. Austin
+
+1,195,661,209
+
+77,171,745
+
+2,198,609
+
+245,929,517
+
+Richard A. Gonzalez
+
+1,174,460,841
+
+94,950,345
+
+5,620,377
+
+245,929,517
+
+Susan E. Quaggin
+
+1,264,358,441
+
+8,524,362
+
+2,148,760
+
+245,929,517
+
+Rebecca B. Roberts
+
+1,223,837,505
+
+48,797,905
+
+2,396,153
+
+245,929,517
+
+Glenn F. Tilton
+
+1,171,160,370
+
+101,200,449
+
+2,670,744
+
+245,929,517
+
+(2)
+
+The stockholders ratified the appointment of Ernst & Young LLP as AbbVie’s independent registered public accounting firm for 2024, as follows:
+
+For
+
+Against
+
+Abstain
+
+1,492,584,834
+
+25,439,349
+
+2,936,897
+
+(3)
+
+The stockholders approved, on an advisory basis, the compensation of AbbVie’s named executive officers, as follows:
+
+For
+
+Against
+
+Abstain
+
+Broker Non-Votes
+
+1,169,920,693
+
+96,635,849
+
+8,475,021
+
+245,929,517
+
+(4)
+
+The stockholders approved, on an advisory basis, the frequency of the vote to approve the compensation of AbbVie’s named executive officers, as follows:
+
+1 Year
+
+2 Years
+
+3 Years
+
+Abstain
+
+Broker Non-Votes
+
+1,245,324,966
+
+4,703,272
+
+18,046,245
+
+6,957,080
+
+245,929,517
+
+The Board had recommended a vote for holding
+future say on pay votes on an annual basis. In light of the voting result, AbbVie has determined to hold future say on pay votes on an
+annual basis until the next advisory vote on the frequency of say on pay votes, which is required to occur no later than AbbVie’s
+2030 Annual Meeting of Stockholders.
+
+(5)
+
+The stockholders did not approve the management proposal regarding amendment of the certificate of incorporation to eliminate supermajority voting, as follows:
+
+For
+
+Against
+
+Abstain
+
+Broker Non-Votes
+
+1,249,248,243
+
+21,439,823
+
+4,343,497
+
+245,929,517
+
+(6)
+
+The stockholders did not approve a stockholder proposal to implement simple majority voting, as follows:
+
+For
+
+Against
+
+Abstain
+
+Broker Non-Votes
+
+623,935,599
+
+644,183,358
+
+6,912,606
+
+245,929,517
+
+(7)
+
+The stockholders did not approve a stockholder proposal to issue an annual report on lobbying, as follows:
+
+For
+
+Against
+
+Abstain
+
+Broker Non-Votes
+
+341,147,876
+
+920,953,722
+
+12,929,965
+
+245,929,517
+
+(8)
+
+The stockholders did not approve a stockholder proposal to issue an annual report on patent process, as follows:
+
+For
+
+Against
+
+Abstain
+
+Broker Non-Votes
+
+315,426,248
+
+941,651,498
+
+17,953,817
+
+245,929,517
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ABBVIE INC.
+
+Date:
+
+May 8, 2024
+
+By:
+
+/s/ Perry C. Siatis
+
+Perry C. Siatis
+
+Executive Vice President, General Counsel and Secretary

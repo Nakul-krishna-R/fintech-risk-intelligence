@@ -1,0 +1,286 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+May 26, 2021
+
+Exxon Mobil Corporation
+
+(Exact name of registrant as specified in its charter)
+
+New Jersey
+1-2256
+13-5409005
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+
+5959 Las Colinas Boulevard
+,
+
+Irving
+,
+
+Texas
+
+75039-2298
+
+(Address of principal executive offices) (Zip Code)
+
+Registrant’s telephone number, including area code:
+(
+972
+)
+
+940-6000
+
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+
+Name of Each Exchange
+Title of Each Class
+Trading Symbol
+on Which Registered
+Common Stock, without par value
+XOM
+New York Stock Exchange
+0.142% Notes due 2024
+XOM24B
+New York Stock Exchange
+0.524% Notes due 2028
+XOM28
+New York Stock Exchange
+0.835% Notes due 2032
+XOM32
+New York Stock Exchange
+1.408% Notes due 2039
+XOM39A
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+Item 5.07
+Submission of Matters to a Vote of Security Holdings
+(a)
+Exxon Mobil Corporation (the “Company” or “ExxonMobil”) held its Annual Meeting of Shareholders on May 26, 2021, at which the matters set forth below in response to Item 5.07(b) were submitted to a vote of security holders.
+As of the close of business on March 29, 2021, the record date for the Annual Meeting, 4,233,538,767 shares of the Company’s common stock, without par value (“Common Stock”), were outstanding and entitled to vote.
+Set forth below are the proposals voted upon at the Annual Meeting, and the estimated preliminary voting results reported by the Company’s proxy solicitor, MacKenzie Partners, Inc. (the “Proxy Solicitor”), based on the information available to the Proxy Solicitor. Based on the estimated preliminary results from the Proxy Solicitor and subject to the qualifications set forth herein, at least 2,842,090,241 shares of Common Stock were voted in person or by proxy at the Annual Meeting, representing more than 67.1% percent of the shares entitled to be voted. Percentages are based on the total votes cast. Under the corporate law of New Jersey, where ExxonMobil is incorporated, abstentions are not votes cast. Broker non-votes are not separately reported.
+
+The numbers depicted as votes cast on each proposal and with respect to the voting for and withheld on the contested director election are only estimates and may not reflect the actual results, which are being tabulated by the independent inspector of election (the “Inspector of Election”). The Inspector of Election is the only person who will be able to count, tabulate and validate the votes to reflect, among other items: the net effect of legal proxies and other ballots or proxy cards voted at the Annual Meeting; the proxy votes received by Engine No. 1; any reconciliations between votes submitted on the blue card vs. the white card (including cases in which shareholders may have voted both cards or a later-dated proxy revoked a prior vote); the votes cast on behalf of the custodian banks and brokers by Broadridge Financial Solutions ("Broadridge") and votes cast through certain other intermediaries who do not participate in the proxy voting system maintained by Broadridge.
+These preliminary voting results will ultimately be updated through the filing of an amendment to this Current Report on Form 8-K to reflect the final certification of results from the Inspector of Election. At this time, the Company does not know when the Inspector of Election will complete his work and then be able to certify the Annual Meeting vote results. There can be no assurance that the outcome of the final results will be consistent with the outcome of the estimated vote results indicated on this Form 8-K.
+2
+(b)
+The estimated preliminary voting results from the Proxy Solicitor for the proposals presented at the Annual Meeting are as follows:
+Proposal 1 – Election of Directors
+The estimated preliminary votes in Favor and Withheld for each nominee, by order of the votes For each nominee, are set forth below.
+
+The twelve nominees with the most votes in favor will be
+
+elected to the board after certification of the final results by the Inspector of Election.
+Nominees
+Votes For
+Votes Withheld
+Michael J. Angelakis*
+2,795,977,247
+46,112,993
+Jeffrey W. Ubben*
+2,788,399,718
+53,690,522
+Ursula M. Burns*
+2,780,709,604
+61,380,636
+Joseph L. Hooley*
+2,757,824,558
+84,265,683
+Susan K. Avery*
+2,747,648,791
+94,441,450
+Angela F. Braly*
+2,708,193,493
+133,896,747
+Kenneth C. Frazier*
+2,684,683,067
+157,407,173
+Darren W. Woods*
+2,674,761,694
+167,328,547
+Kaisa Hietala**
+1,516,288,928
+118,756,243
+Gregory J. Goff**
+1,429,068,516
+205,976,655
+Alexander A. Karsner**
+1,188,343,388
+446,701,783
+Douglas R. Oberhelman*
+1,174,445,208
+32,599,861
+Steven A. Kandarian*
+1,173,545,328
+33,499,741
+Wan Zulkiflee*
+1,128,703,149
+78,341,921
+Samuel J. Palmisano*
+1,127,243,352
+79,801,717
+Anders Runevad**
+272,113,248
+1,362,931,923
+* ExxonMobil Nominees
+** Engine No. 1 Nominees
+Proposal 2 –
+
+Ratification of Independent Auditors:
+Votes Cast For:
+2,932,727,074
+96.8
+%
+Votes Cast Against:
+98,410,005
+3.2
+%
+Abstentions:
+15,532,899
+Proposal 3 – Advisory Vote to Approve Executive Compensation:
+Votes Cast For:
+2,467,959,717
+88.3
+%
+Votes Cast Against:
+326,696,514
+11.7
+%
+Abstentions:
+47,433,958
+3
+The shareholders voted as set forth below on seven shareholder proposals:
+Proposal 4 – Independent Chairman:
+Votes Cast For:
+605,287,850
+22.1
+%
+Votes Cast Against:
+2,139,304,007
+77.9
+%
+Abstentions:
+97,498,145
+Proposal 5 – Special Shareholder Meetings:
+Votes Cast For:
+570,342,592
+20.8
+%
+Votes Cast Against:
+2,165,517,003
+79.2
+%
+Abstentions:
+106,230,163
+Proposal 6 – Report on Scenario Analysis
+Votes Cast For:
+1,335,259,043
+48.9
+%
+Votes Cast Against:
+1,397,442,071
+51.1
+%
+Abstentions:
+109,389,104
+Proposal 7 – Report on Environmental Expenditures:
+Votes Cast For:
+142,754,351
+5.2
+%
+Votes Cast Against:
+2,602,828,237
+94.8
+%
+Abstentions:
+96,507,614
+Proposal 8 – Report on Political Contributions:
+Votes Cast For:
+838,542,434
+30.5
+%
+Votes Cast Against:
+1,911,320,273
+69.5
+%
+Abstentions:
+92,227,479
+Proposal 9 – Report on Lobbying:
+Votes Cast For:
+1,527,934,642
+55.6
+%
+Votes Cast Against:
+1,218,752,700
+44.4
+%
+Abstentions:
+95,402,850
+Proposal 10 – Report on Climate Lobbying:
+Votes Cast For:
+1,752,779,954
+63.8
+%
+Votes Cast Against:
+992,506,297
+36.2
+%
+Abstentions:
+96,781,076
+4
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+EXXON MOBIL CORPORATION
+
+Date: June 2, 2021
+By:
+/s/ LEN M. FOX
+
+Len M. Fox
+
+Vice President and Controller
+(Principal Accounting Officer)
+5

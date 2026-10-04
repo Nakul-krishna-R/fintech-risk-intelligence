@@ -1,0 +1,288 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+DATE OF REPORT (Date of earliest event reported):
+July 30, 2024
+
+Linde plc
+(Exact name of registrant as specified in its charter)
+
+Ireland
+
+001-38730
+
+98-1448883
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(I.R.S. Employer
+Identification No.)
+
+10 Riverview Dr.
+
+Danbury
+,
+Connecticut
+United States
+
+06810
+Forge
+43 Church Street West
+Woking
+,
+Surrey
+
+GU21 6HT
+United Kingdom
+
+(Address of principal executive offices) (Zip Code)
+
++44
+1483
+
+242200
+(Registrant’s telephone numbers, including area code)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+symbol(s)
+
+Name of each exchange
+on which registered
+Ordinary shares (€0.001 nominal value per share)
+
+LIN
+
+Nasdaq
+Stock Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ITEM 5.07 Submission of Matters to a Vote of Security Holders
+
+The Linde plc Annual General Meeting of Shareholders was held on July 30, 2024 (the “AGM”), at which shareholders voted upon the items set forth below. The total number of shares that were present or represented by proxy at the Annual Meeting was 404,887,136 which was 84.22% of the shares outstanding and entitled to vote and which constituted a quorum. The final voting results of the items submitted to a vote of the shareholders are set forth below.
+
+Proposal 1
+
+The ten nominees for election as a director were elected to serve until the 2025 annual general meeting of shareholders and until his or her successor is elected and qualified. The vote results were as follows:
+
+Director Nominees
+Shares For
+Shares Against
+Shares Abstained
+Broker Non-Votes
+% of Votes
+Cast For
+Stephen F. Angel
+374,170,969
+13,435,153
+195,583
+17,085,431
+96.53%
+Sanjiv Lamba
+386,839,145
+755,242
+207,318
+17,085,431
+99.81%
+Prof DDr. Ann-Kristin Achleitner
+369,186,446
+18,343,229
+272,030
+17,085,431
+95.27%
+Dr. Thomas Enders
+374,898,543
+12,637,610
+265,552
+17,085,431
+96.74%
+Hugh Grant
+382,589,702
+4,960,795
+251,208
+17,085,431
+98.72%
+Joe Kaeser
+346,731,544
+39,472,632
+1,597,529
+17,085,431
+89.78%
+Victoria E. Ossadnik
+359,414,123
+28,147,349
+240,233
+17,085,431
+92.74%
+Paula Rosput Reynolds
+386,699,597
+858,527
+243,581
+17,085,431
+99.78%
+Alberto Weisser
+383,847,647
+3,700,121
+253,937
+17,085,431
+99.05%
+Robert L. Wood
+382,240,500
+5,254,878
+306,327
+17,085,431
+98.64%
+
+Proposal 2a
+
+Shareholders ratified, on an advisory and non-binding basis, the appointment of PricewaterhouseCoopers (“PWC”) as the independent auditor by the votes set forth below.
+
+Shares Voted For
+
+Shares Voted Against
+
+Shares Abstained
+
+Broker Non-Votes
+376,798,953
+
+27,562,585
+
+525,598
+
+N/A
+(93.06% of votes cast)
+
+(6.81% of votes cast)
+
+2
+
+Proposal 2b
+
+Shareholders approved the authorization of the Board, acting through the Audit Committee, to determine PWC’s remuneration by the votes set forth below.
+
+Shares Voted For
+
+Shares Voted Against
+
+Shares Abstained
+
+Broker Non-Votes
+397,465,912
+
+6,968,991
+
+452,233
+
+N/A
+(98.17% of votes cast)
+
+(1.72% of votes cast)
+
+Proposal 3
+
+Shareholders approved, on an advisory and non-binding basis, the compensation of Linde plc’s Named Executive Officers as disclosed in the 2024 proxy statement by the votes set forth below.
+
+Shares Voted For
+
+Shares Voted Against
+
+Shares Abstained
+
+Broker Non-Votes
+358,841,687
+
+28,061,890
+
+898,128
+
+17,085,431
+(92.53% of votes cast)
+
+(6.93% of votes cast)
+
+Proposal 4
+
+Shareholders approved the proposal to determine the price range at which Linde plc can re-allot shares that it acquires as treasury shares under Irish law.
+
+Shares Voted For
+
+Shares Voted Against
+
+Shares Abstained
+
+Broker Non-Votes
+403,401,617
+
+864,902
+
+620,617
+
+N/A
+(99.63% of votes cast)
+
+(0.21% of votes cast)
+
+ITEM 9.01. Financial Statements and Exhibits.
+
+(d)
+Exhibits. The following exhibits are filed.
+
+Exhibit No.
+
+Description
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+3
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+LINDE PLC
+
+By:
+/s/ Guillermo Bichara
+
+Name:
+Guillermo Bichara
+
+Title:
+Chief Legal Officer
+
+Date: August 2, 2024
+
+4

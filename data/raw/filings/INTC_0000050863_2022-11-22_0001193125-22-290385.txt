@@ -1,0 +1,278 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+November 17, 2022
+
+INTEL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+000-06217
+
+94-1672743
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+2200 Mission College Blvd.
+,
+Santa Clara
+,
+California
+
+95054-1549
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+(408)
+
+765-8080
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock, $0.001 par value
+
+INTC
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+On November 22, 2022, Intel Corporation (“Intel” or the “Company”) announced that the Board of Directors (“Board”) and/or its committees approved the following actions in connection with their ongoing governance oversight responsibilities and board and committee refreshment.
+
+Item 5.02
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(d)
+
+Election of New Director.
+
+On November 17, 2022, the Board elected Barbara G. Novick to the Board, effective December 1, 2022 (the “Effective Date”). The Board determined that Ms. Novick qualifies as “independent” in accordance with the published listing requirements of Nasdaq, and she has been appointed to the Audit & Finance Committee and Compensation Committee as of the Effective Date.
+
+Ms. Novick, 62,
+co-founded
+BlackRock, Inc. in 1988 and continued as its Vice Chairman until February 2021 when she transitioned to Senior Advisor. From 1988 to 2009, Ms. Novick headed the Global Account Management Group at Blackrock and oversaw global business development, marketing and client service across equity, fixed income, liquidity, alternative investment and real estate products for institutional and individual investors and their intermediaries worldwide. In 2009, she established BlackRock’s Global Government Relations and Public Policy Group to provide a voice for investors, which she headed until 2021; and from 2018 to 2020, she additionally oversaw BlackRock’s Global Investment Stewardship team.
+
+Ms. Novick has served since 2021 on the private company board of directors of New York Life Insurance Company, a mutual insurance company, and American Financial Exchange (AFX), an electronic exchange for direct lending and borrowing by American banks and financial institutions. She also serves on the boards of the Peterson Institute for International Economics, 100 Women in Finance, Committee on Capital Markets Regulation, and the Millstein Center for Global Markets and Corporate Ownership, and on the advisory boards of Growth Curve Capital and Center for Financial Stability. She previously served on the boards of Cornell University from 2012 to 2020 and the Investment Company Institute from 2015 to 2021. Ms. Novick earned a B.A., cum laude, in Economics from Cornell University. She has authored numerous articles on asset management and public policy issues and over her career received numerous awards and accolades, including
+Barron’s
+100 Most Influential Women in U.S. Finance in 2020.
+
+Ms. Novick will receive the standard compensation payable to
+non-employee
+directors of the Board (“Intel Board Compensation”). Pursuant to these arrangements, commencing on the Effective Date, she will be paid an annual cash retainer of $90,000 (in addition to any committee fees), which will be
+pro-rated
+for her first year of service. In addition, in the first quarter of 2023
+,
+Ms. Novick will be granted an award of
+non-employee
+director time-based restricted stock units with a value on the grant date of approximately $91,667, which is
+pro-rated
+from the value of the annual award granted to Intel’s
+non-employee
+directors in May 2022. The award will vest on the earlier of May 12, 2023 and the date of Intel’s 2023 Annual Stockholders’ Meeting, the same schedule as the annual award granted to Intel’s other
+non-employee
+directors in May 2022, subject to Ms. Novick’s continued service on the Board.
+
+Ms. Novick will also enter into Intel’s standard form of directors’ indemnification agreement with Intel, pursuant to which Intel agrees to indemnify its directors to the fullest extent permitted by applicable law and subject to certain conditions to advance expenses in connection with proceedings as described in the indemnification agreement.
+
+Ms. Novick does not have any family relationship with any director or executive officer of Intel, or person nominated or chosen by Intel to become a director or executive officer, and she has no direct or indirect material interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation
+S-K.
+
+(e)
+
+Compensatory Arrangements of Certain Officers.
+
+Amendments to Chief Executive Officer’s 2021 New Hire Performance-Based Equity Awards
+
+The Compensation Committee (“Committee”) of the Board and Patrick Gelsinger, Chief Executive Officer of Intel, agreed to amend three equity grant agreements (“Amendments”) relating to Mr. Gelsinger’s new hire performance-based equity awards. The Amendments were entered into between the Company and Mr. Gelsinger on
+
+November 18, 2022. The Committee and Mr. Gelsinger desired to further strengthen the alignment of Mr. Gelsinger’s new hire performance-based equity awards with his commitment to long-term stockholder value creation. Accordingly, the Amendments to Mr. Gelsinger’s awards increase the stock price performance hurdles for certain awards and, for all three awards described below, provide even greater alignment with stockholders by lengthening the period during which stock price performance hurdles must be maintained. For reference, Intel’s closing stock price on the date of the Amendments was $29.87.
+
+The following is a summary of the Amendments:
+
+1.
+
+Performance Options
+. On February 15, 2021 (the “Grant Date”), Mr. Gelsinger was granted performance-based stock options (“Performance Options”) that may be exercised only if Intel’s stock price appreciates by 30% or more from a baseline stock price over the five-year period following the Grant Date. The terms of the Performance Options were amended to increase the performance stock price hurdle from 30% appreciation ($64.54) to 50% ($74.47). In addition, the terms of the Performance Options were amended to increase the period during which Intel’s stock price must be maintained at or above the amended performance stock price hurdle to achieve payout from 30 consecutive trading days to 90 calendar days.
+
+2.
+
+Strategic Growth PSUs
+. On the Grant Date, Mr. Gelsinger was granted performance stock units (“Strategic Growth PSUs”) that may be earned based on the appreciation in Intel’s stock price from a baseline stock price over the five-year period following the Grant Date and on the achievement of the threshold, target, or maximum stock price appreciation goals. The terms of the Strategic Growth PSUs were amended to remove the ability to vest and be paid out a portion of the award on the third anniversary of the Grant Date, and the Strategic Growth PSUs instead – and only to the extent the applicable performance stock price hurdle has been achieved - will vest on the fifth anniversary of the Grant Date. In addition, the terms of the Strategic Growth PSUs were amended to increase the period during which Intel’s stock must be maintained at or above the applicable performance stock price hurdle to achieve payout from 30 consecutive trading days to 90 calendar days. Similarly, the provision of the Strategic Growth PSUs that caps payout at target if at least the threshold stock price hurdle is not maintained for a period of time at the end of the five-year performance period was amended to increase such period from 30 consecutive trading days to 90 calendar days.
+
+3.
+
+Outperformance PSUs
+. On the Grant Date, Mr. Gelsinger was granted performance stock units (“Outperformance PSUs”) that may be earned based on the appreciation in Intel’s stock price of 200% ($148.95) or more from a baseline stock price over the five-year period following the Grant Date. The terms of the Outperformance PSUs were amended to remove the ability to vest and be paid out a portion of the award on the third anniversary of the Grant Date, and the Outperformance PSUs instead – and only to the extent the performance stock price hurdle has been achieved - will vest on the fifth anniversary of the Grant Date. In addition, the terms of the Outperformance PSUs were amended to increase the period during which Intel’s stock price must be maintained at or above the performance stock price hurdle of at least 200% from a baseline stock price to achieve payout from 30 consecutive trading days to 90 calendar days.
+
+The foregoing description of the Amendments to Mr. Gelsinger’s equity awards does not purport to be complete and is qualified in its entirety by reference to the Amendments, which are attached as Exhibit 10.1, 10.2, and 10.3 to this report.
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+Intel’s press release dated November 22, 2022 announcing the election of Barbara G. Novick to the Board as of the Effective Date is furnished as Exhibit 99.1 to this Current Report on Form
+8-K.
+The information in this Item 7.01 of this report is furnished and shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+
+Item 8.01
+
+Other Events.
+
+Compensation Program Changes and Commitments
+
+Additionally, after careful review and deliberation of the feedback Intel received from its stockholders during extensive engagement regarding the Company’s core compensation programs and disclosures, the Committee on November 17, 2022 approved the following changes and commitments beginning with fiscal year 2023 for the Company’s named executive officers (“NEOs”) (unless otherwise noted):
+
+Long-Term Incentive (“LTI”) Program
+
+•
+
+Added a cap at target payout on any relative TSR metric used under the performance stock unit (“PSU”) program in the event the Company’s absolute TSR is negative.
+
+•
+
+Other than Mr. Gelsinger, adjusted the LTI equity mix to 60% PSUs and 40% restricted stock units (“RSUs”) (previously 50% PSUs and 50% RSUs). Mr. Gelsinger’s LTI equity mix will remain 80% PSUs and 20% RSUs.
+
+•
+
+Changed the vesting schedule for RSU awards to vest in three annual installments over three years from the grant date (previously in 12 quarterly installments).
+
+Cash Bonus
+
+•
+
+Removed the NEOs from participation in the Company’s quarterly performance bonus program (“QPB”), effective January 1, 2022 for Mr. Gelsinger and effective January 1, 2023 for all other NEOs.
+
+Commitments
+
+•
+
+Committed that by no later than 2025 the PSU program will be based on multi-year performance goals instead of the current approach of setting performance goals annually and then averaging the results at the end of the three-year performance period.
+
+•
+
+Committed to not use stock price growth as the sole metric for any future NEO
+new-hire
+inducement awards.
+
+•
+
+In the very unlikely situation in the future that the Committee later modifies performance goals that were previously set under the incentive programs, committed to cap payouts at 100% of target of the revised goals.
+
+•
+
+Committed to further enhancing disclosures of the qualitative objectives and key results of the One Intel goals under the Executive Annual Performance Bonus Plan, to the extent practical without disclosing competitively harmful information.
+
+•
+
+Committed to continue the Committee’s annual practice of assessing the appropriate comparator index for Intel when using a relative TSR metric in the Company’s incentive programs and continue to solicit stockholder input around compensation design for our NEOs.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d)
+
+Exhibits.
+
+The following exhibits are provided as part of this report:
+
+Exhibit
+
+Description
+
+10.1
+
+First Amendment to Option Agreement (Performance Options) between Intel and Patrick Gelsinger, dated November 18, 2022.
+
+10.2
+
+First Amendment to Restricted Stock Unit Agreement (Strategic Growth PSUs) between Intel and Patrick Gelsinger, dated November 18, 2022.
+
+10.3
+
+First Amendment to Restricted Stock Unit Agreement (Outperformance PSUs) between Intel and Patrick Gelsinger, dated November 18, 2022.
+
+99.1
+
+Press Release issued by Intel titled “Intel Elects Barbara G. Novick to Board of Directors,” dated November 22, 2022.
+
+104
+
+Cover Page Interactive Data File, formatted in Inline XBRL and included as Exhibit 101
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+INTEL CORPORATION
+
+(Registrant)
+
+Date: November 22, 2022
+
+/s/ April Miller Boise
+
+April Miller Boise
+
+Executive Vice President and Chief Legal Officer

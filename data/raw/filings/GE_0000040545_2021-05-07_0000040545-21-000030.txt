@@ -1,0 +1,199 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported)
+May 4, 2021
+General Electric Co
+mpany
+(Exact name of registrant as specified in its charter)
+
+New York
+001-00035
+14-0689340
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+
+5 Necco Street
+Boston,
+MA
+
+02210
+(Address of principal executive offices)
+
+(Zip Code)
+
+(Registrant’s telephone number, including area code)
+
+(
+617
+)
+443-3000
+
+_______________________________________________
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, par value $0.06 per share
+GE
+New York Stock Exchange
+0.375% Notes due 2022
+GE 22A
+New York Stock Exchange
+1.250% Notes due 2023
+GE 23E
+New York Stock Exchange
+0.875% Notes due 2025
+GE 25
+New York Stock Exchange
+1.875% Notes due 2027
+GE 27E
+New York Stock Exchange
+1.500% Notes due 2029
+GE 29
+New York Stock Exchange
+7 1/2% Guaranteed Subordinated Notes due 2035
+GE /35
+New York Stock Exchange
+2.125% Notes due 2037
+GE 37
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+(a) GE held its annual meeting of shareholders on May 4, 2021 (the “Annual Meeting”).
+(b) At the Annual Meeting, shareholders elected all of the Company’s nominees for director; did not approve the advisory vote on our named executives’ compensation (“Say on Pay”); ratified the appointment of Deloitte & Touche LLP as the Company’s independent auditor for 2021 (“Auditor Ratification”); and approved a reverse stock split and reduction in authorized stock and par value (“Reverse Stock Split”). The shareholders did not approve the shareholder proposals dealing with multiple candidate elections or independent chair; consistent with the Company's recommendation, shareholders approved the shareholder proposal on the report on net zero indicator.
+Election of Directors
+For
+Against
+Abstain
+Non-Votes
+1. Sébastien Bazin
+3,863,960,460
+1,698,866,500
+100,010,072
+950,447,799
+2. Ashton Carter
+5,508,115,444
+121,075,074
+33,646,514
+950,447,799
+3. H. Lawrence Culp, Jr.
+5,360,637,997
+262,030,422
+40,168,613
+950,447,799
+4. Francisco D’Souza
+4,331,211,597
+1,232,481,571
+99,143,864
+950,447,799
+5. Edward Garden
+4,378,834,759
+1,185,390,960
+98,611,313
+950,447,799
+6. Thomas Horton
+3,918,655,676
+1,644,920,479
+99,260,877
+950,447,799
+7. Risa Lavizzo-Mourey
+5,453,639,205
+163,554,874
+45,642,953
+950,447,799
+8. Catherine Lesjak
+5,510,398,458
+119,373,294
+33,065,280
+950,447,799
+9. Paula Rosput Reynolds
+4,809,760,014
+754,503,179
+98,573,839
+950,447,799
+10. Leslie Seidman
+5,496,194,773
+133,615,422
+33,026,837
+950,447,799
+11. James Tisch
+4,463,982,219
+1,164,257,232
+34,597,581
+950,447,799
+Management Proposals
+For
+Against
+Abstain
+Non-Votes
+1. Say on Pay
+2,379,035,320
+3,237,533,413
+46,268,299
+950,447,799
+2. Auditor Ratification
+6,536,107,157
+50,855,981
+26,321,693
+0
+3. Reverse Stock Split
+5,456,557,933
+172,702,124
+33,576,975
+950,447,799
+Shareholder Proposals
+For
+Against
+Abstain
+Non-Votes
+1. Multiple Candidate Elections
+167,516,764
+5,449,420,129
+45,900,139
+950,447,799
+2. Independent Board Chairman
+1,677,856,609
+3,944,693,982
+40,286,441
+950,447,799
+3. Report on Net Zero Indicator
+6,386,794,493
+132,529,856
+93,960,482
+0
+(2)
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+General Electric Company
+(Registrant)
+Date: May 7, 2021
+/s/ Christoph A. Pereira
+Christoph A. Pereira
+Vice President, Chief Risk Officer and Chief Corporate Counsel
+(3)

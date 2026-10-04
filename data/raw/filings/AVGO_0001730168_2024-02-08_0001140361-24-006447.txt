@@ -1,0 +1,174 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K/A
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported):
+November 22, 2023
+
+Broadcom Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+Delaware
+
+001-38449
+
+35-2617337
+
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(I.R.S. Employer Identification No.)
+
+3421 Hillview Avenue
+
+Palo Alto
+,
+
+California
+
+94304
+
+(Address of principal executive offices including zip code)
+
+(
+650
+)
+
+427-6000
+
+(Registrant’s telephone number, including area code)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+
+Trading Symbol(s)
+
+Name of Each Exchange on Which Registered
+
+Common Stock, $0.001 par value
+
+AVGO
+
+The NASDAQ Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+
+Explanatory Note
+
+On November 22, 2023, Broadcom Inc. (“Broadcom”) completed its acquisition of VMware, Inc. (“VMware”) pursuant to the Agreement and
+Plan of Merger (the “Merger Agreement”), dated as of May 26, 2022, by and among Broadcom, VMware and the other parties named therein.
+
+This Amendment No. 1 on Form 8-K/A is being filed to amend Item 9.01(a) and (b) of the Current Report on Form 8-K that Broadcom filed
+with the Securities and Exchange Commission (“SEC”) on November 22, 2023 regarding the completion of its acquisition of VMware to include the historical financial statements of VMware required by Item 9.01(a) of Form 8-K and the pro forma financial
+information required by Item 9.01(b) of Form 8-K.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(a) Financial Statements of Businesses Acquired
+
+The audited financial statements of VMware as of and for the year ended February 3, 2023, together with the notes related thereto and
+the Report of Independent Registered Public Accounting Firm thereon, and unaudited financial statements of VMware as of and for the nine months ended November 3, 2023, are filed as Exhibits 99.1 and 99.2, respectively, to this Form 8-K/A and
+incorporated by reference herein.
+
+(b) Pro Forma Financial Information
+
+The unaudited pro forma financial information for Broadcom, after giving effect to the acquisition of VMware and adjustments described
+in such pro forma financial information, is attached hereto as Exhibit 99.3 and incorporated by reference herein.
+
+(d) Exhibits
+
+Exhibit No.
+
+Description
+
+23.1
+
+Consent of Independent Registered
+Public Accounting Firm, PricewaterhouseCoopers LLP.
+
+99.1
+
+Audited consolidated financial statements of VMware as of
+February 3, 2023 and for the fiscal year ended February 3, 2023 and the notes related thereto and Report of Independent Registered Public Accounting Firm thereon (incorporated by reference to pages 60 through 104 of VMware’s Annual Report
+on Form 10-K for the fiscal year ended February 3, 2023 (SEC File No. 001-33622), filed with the SEC on March 28, 2023).
+
+99.2
+
+Unaudited
+condensed consolidated financial statements of VMware as of November 3, 2023 and for the nine months ended November 3, 2023 and the notes related thereto.
+
+99.3
+
+Unaudited
+
+pro forma condensed combined balance sheet as of October 29, 2023 and the unaudited pro forma condensed combined statement of operations for the fiscal year ended October 29, 2023, giving effect to the acquisition of VMware.
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned hereunto duly authorized.
+
+Date:
+February 8, 2024
+
+Broadcom Inc.
+
+By:
+
+/s/ Kirsten M. Spears
+
+Name:
+
+Kirsten M. Spears
+
+Title:
+
+Chief Financial Officer and Chief Accounting Officer

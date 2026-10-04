@@ -1,0 +1,162 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+________________________________________________________
+FORM
+8-K
+________________________________________________________
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+March 22, 2021
+
+Date of Report (date of earliest event reported)
+
+_________________________________________________________
+salesforce.com, inc.
+(Exact name of registrant as specified in its charter)
+
+__________________________________________________________
+
+Delaware
+001-32224
+94-3320693
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+Salesforce Tower
+415 Mission Street, 3rd Fl
+San Francisco
+,
+California
+
+94105
+(Address of principal executive offices)
+Registrant’s telephone number, including area code: (
+415
+)
+901-7000
+N/A
+(Former name or former address, if changed since last report)
+_________________________________________________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.001 per share
+CRM
+New York Stock Exchange
+, Inc.
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On March 22, 2021, the Compensation Committee (the “Committee”) of the Board of Directors of salesforce.com, inc. (the “Company”) approved cash bonuses pursuant to the Company’s Gratitude Bonus Plan to Mr. Marc Benioff, our principal executive officer, Ms. Amy Weaver, our principal financial officer, and Messrs. Parker Harris, Srinivas Tallapragada, and Bret Taylor, each a named executive officer in the Company’s 2020 Proxy Statement. The bonus amounts were based primarily on the achievement of specific corporate performance goals as well as individual performance during the Company’s fiscal year 2021, from February 1, 2020 to January 31, 2021, net of mid-year bonus payouts made on September 30, 2020.
+The following table sets forth the bonus amounts to be paid on or about April 15, 2021 to the Company’s Named Executive Officers as approved by the Committee:
+Name
+Position
+Bonus Amount
+Marc Benioff (1)
+Chair of the Board and Chief Executive Officer
+$2,049,100
+Amy Weaver (2)
+President and Chief Financial Officer
+$543,983
+Parker Harris (3)
+Co-Founder and Chief Technology Officer
+$661,000
+Srinivas Tallapragada (4)
+President and Chief Engineering Officer
+$627,950
+Bret Taylor (5)
+President and Chief Operating Officer
+$661,000
+(1)
+Mr. Benioff’s mid-year bonus payout on September 30, 2020 was $775,000.
+(2)
+Ms. Weaver’s mid-year bonus payout on September 30, 2020 was $200,000.
+(3)
+Mr. Harris’s mid-year bonus payout on September 30, 2020 was $250,000.
+(4)
+Mr. Tallapragada’s mid-year bonus payout on September 30, 2020 was $237,500.
+(5)
+Mr. Taylor’s mid-year bonus payout on September 30, 2020 was $250,000.
+Mr. Mark Hawkins, the Company’s former President and Chief Financial Officer will also receive a cash bonus under the Gratitude Bonus Plan of $661,000 on or about April 15, 2021, pursuant to his transition agreement with the Company. His mid-year bonus payout on September 30, 2020 was $250,000.
+Also on March 22, 2021, the Committee approved compensation arrangements for Mr. Benioff, Ms. Weaver, and Messrs. Harris, Tallapragada, and Taylor for fiscal year 2022 in the below amounts. The table below sets forth the annual base salary and annual target bonus for each of the foregoing executives that are effective as of February 1, 2021. The bonus amounts will be determined based upon achievement of a mix of Company and individual performance objectives pursuant to the Company’s Gratitude Bonus Plan.
+Name
+Annual Base Salary for Fiscal Year 2022
+Annual Target Bonus for Fiscal Year 2022
+Marc Benioff
+$1,550,000
+200%
+Amy Weaver
+$1,000,000
+100%
+Parker Harris
+$1,000,000
+100%
+Srinivas Tallapragada
+$1,000,000
+100%
+Bret Taylor
+$1,000,000
+150%
+Additionally, on March 22, 2021, the Committee approved stock option, restricted stock unit and performance-based restricted stock unit awards to the Named Executive Officers as set forth below. The stock options grant the right to purchase shares of common stock at a price of $215.17, the fair market value on the grant date. Both the stock option and restricted stock unit grants are subject in each case to the Company’s standard four-year vesting schedule. The performance-based restricted stock
+units are subject to vesting based on a performance-based condition and a service-based condition, as described in more detail below.
+Name
+Stock Options (#)
+Restricted Stock Units (#)
+Performance-Based
+Restricted Stock Units (target #)
+Marc Benioff
+158,261
+n/a
+65,694
+Amy Weaver
+105,508
+13,943
+14,599
+Parker Harris
+105,508
+13,943
+14,599
+Srinivas Tallapragada
+105,508
+13,943
+14,599
+Bret Taylor
+131,884
+17,429
+18,249
+The performance-based restricted stock unit awards granted to the Named Executive Officers provide that, if the officer remains employed through April 15, 2024, his or her shares will vest in a percentage of the target number of shares shown above, between zero and 200 percent, depending on how the Company’s total shareholder return (“TSR”) ranks over the three-year period from the grant date (the “Performance Period”), relative to the companies in the NASDAQ-100 Index as of the grant date (the “Index Group”). If the Company’s TSR over the Performance Period is at the 60th percentile when ranked against the TSRs of the companies in the Index Group, 100 percent of the target number of shares will be eligible to vest. For every percentile by which the Company’s TSR ranking within the Index Group exceeds the 60th percentile, the number of shares eligible to vest will increase by 2 22/39 percent of target, up to a maximum payout of 200 percent of target if the Company’s TSR ranking is at the 99th percentile. For every percentile by which the Company’s TSR ranking within the Index Group is below the 60th percentile, the number of shares eligible to vest will decrease by 3 1/3 percent of target, with no payout if the Company’s TSR ranking is below the 30th percentile. Additionally, if the Company’s absolute TSR over the Performance Period is negative, in no event will the number of shares eligible to vest exceed 100 percent of the target amount, even if the Company’s TSR ranks above the 60th percentile within the Index Group. Special vesting rules apply in the event of a change of control.
+Signature
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated:
+March 26, 2021
+salesforce.com, inc.
+/s/ T
+ODD
+M
+ACHTMES
+Todd Machtmes
+Executive Vice President and General Counsel

@@ -1,0 +1,149 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+August 8, 2022
+
+Date of Report (date of earliest event reported)
+
+Salesforce, Inc.
+
+(Exact name of Registrant as specified in its charter)
+
+Delaware
+
+001-32224
+
+94-3320693
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+Salesforce Tower
+
+415 Mission Street
+,
+3rd Fl
+
+San Francisco
+,
+CA
+
+94105
+
+(Address of principal executive offices)
+
+Registrant’s telephone number, including area code:
+(415)
+
+901-7000
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Exchange Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock, par value $0.001 per share
+
+CRM
+
+New York Stock Exchange, Inc.
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On August 8, 2022, Salesforce, Inc. (the “Company”) announced that Brian Millham, age 53, has been appointed President and Chief Operating Officer of the Company, effective August 8, 2022. In this new role, Mr. Millham will continue to oversee the Customer Success Group and Professional Services and will take on responsibility for the Global Sales organization, partnering across the business to ensure relevance, enablement, and operational excellence to support the Company’s continued growth.
+
+Mr. Millham has been with Salesforce since its inception in 1999, most recently serving as Chief Customer Success Officer and Chief Operating Officer, Global Distribution, from February 2022 to August 2022. From February 2021 to February 2022, he served as President, Customer Success Group and Chief Operating Officer, Worldwide Distribution. From August 2018 to February 2021, Mr. Millham served as President, Customer Success Group. Salesforce’s Customer Success Group offers services globally to ensure customer success by accelerating adoption, engagement, and growth for customers of all sizes. From June 2017 to August 2018, Mr. Millham served as Executive Vice President, Americas Commercial, and
+B-to-C
+Sales, Global Strategy. Previously, Mr. Millham served in various leadership roles in business development, account management, and sales. Mr. Millham received his B.A. from the University of California, Berkeley.
+
+The Company intends to enter into its standard form of indemnification agreement with Mr. Millham and its standard form of change of control and retention agreement applicable to non-CEO Section 16 officers. There are no arrangements or understandings between Mr. Millham and any other persons pursuant to which he was selected as an officer, he has no family relationships with any of the Company’s directors or executive officers, and he has no direct or indirect material interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation
+S-K.
+
+The Company also announced that Gavin Patterson has transitioned from his current role as President and Chief Revenue Officer, where he oversaw significant revenue growth over the last two years, to Chief Strategy Officer of the Company, effective August 8, 2022. In his new role, Mr. Patterson will help the Company continue to innovate and deliver customer success.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Salesforce, Inc.
+
+By:
+
+/s/ Amy Weaver
+
+Amy Weaver
+
+President and Chief Financial Officer
+
+Dated: August 8, 2022

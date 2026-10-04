@@ -1,0 +1,166 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+June 30, 2021
+
+Oracle Corporation
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-35992
+
+54-2185193
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+2300 Oracle Way
+,
+Austin
+,
+Texas
+
+78741
+
+(Address of principal executive offices) (Zip Code)
+
+(737)
+
+867-1000
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock, par value $0.01 per share
+
+3.125% senior notes due July 2025
+
+ORCL
+
+New York Stock Exchange
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Section 5-Corporate Governance and Management
+
+Item 5.02
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers
+
+On June 30, 2021, the Compensation Committee of the Board of Directors of Oracle Corporation (“Oracle”) approved an amendment (the “PSO Amendment”) to the terms of the Performance Stock Options (the “PSOs”) granted on July 20, 2017 to each of Lawrence J. Ellison, Chairman, Chief Technology Officer and Founder of Oracle, and Safra A. Catz, Chief Executive Officer and Director of Oracle. The PSO Amendment extends the term of the performance period of the PSOs by three additional fiscal years from May 31, 2022 to May 31, 2025. To date, the PSO stock price goal and the first market capitalization goal have been certified as achieved by the Compensation Committee and consequently, one tranche (representing
+one-seventh
+of the PSOs) have vested. If any of the remaining operational and market capitalization performance goals are achieved before May 31, 2025 additional tranches of the PSOs may vest.
+
+For additional details regarding the PSOs, please refer to the
+Executive Compensation
+section of Oracle’s 2020 Proxy Statement filed with the Securities and Exchange Commission on September 18, 2020. The foregoing description of the PSO Amendment is qualified in its entirety by reference to the amended agreement, which is filed as Exhibit 10.15 to this report.
+
+Section 9-Financial Statements and Exhibits
+
+Item 9.01
+
+Financial Statements and Exhibits
+
+(d) Exhibits
+
+Exhibit
+No.
+
+Description
+
+10.15*
+
+First Amendment to Performance-Based Stock Option Agreement with Lawrence J. Ellison and Safra A. Catz under the Amended and Restated 2000 Long-Term Equity Incentive Plan
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+*
+
+Indicates management contract or compensatory plan or arrangement.
+
+2|3
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ORACLE CORPORATION
+
+Dated: July 7, 2021
+
+By:
+
+/s/ Brian S. Higgins
+
+Name:
+
+Brian S. Higgins
+
+Title:
+
+Vice President, Associate General Counsel and
+Secretary
+
+3|3

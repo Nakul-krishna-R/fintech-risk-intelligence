@@ -1,0 +1,92 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+July 13, 2022
+Accenture plc
+
+(Exact name of Registrant as specified in its charter)
+Ireland
+001-34448
+98-0627530
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+1 Grand Canal Square
+
+Grand Canal Harbour
+
+Dublin
+
+2
+,
+Ireland
+
+(Address of principal executive offices)
+Registrant’s telephone number, including area code: (
+353
+) (
+1
+)
+646-2000
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A ordinary shares, par value $0.0000225 per share
+ACN
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On July 14, 2022, Accenture plc (“Accenture”) issued a news release announcing that
+Leo Framil
+, who currently serves as Accenture’s market unit lead for Latin America, has been appointed as Accenture’s chief executive officer – Growth Markets, effective September 1, 2022. Mr. Framil succeeds Gianfranco Casati, who will continue in the position until September 1, 2022. Mr. Casati will then step down as chief executive officer – Growth Markets and from Accenture’s Global Management Committee and become chairman – Growth Markets, continuing to serve clients and working closely with account teams. A copy of Accenture’s news release is filed as Exhibit 99 to this Form 8-K.
+On July 13, 2022, the Board of Directors of Accenture also appointed Melissa Burgum to the role of Accenture’s Chief Accounting Officer, effective September 1, 2022, in addition to continuing her current role as Accenture’s Corporate Controller. Ms. Burgum succeeds Richard Clark, who has been Accenture’s Chief Accounting Officer since 2013 and will continue in the position until September 1, 2022. Mr. Clark will remain part of Accenture’s Global Management Committee as Accenture’s Chief Transformation Officer – Business Enablement.
+Ms. Burgum, 50, has been Accenture’s Corporate Controller since September 2021. Prior to assuming her current role, Ms. Burgum served as Accenture’s Assistant Corporate Controller from December 2016 to September 2021 and as Controller for Accenture Federal Services from May 2013 to December 2016. Previously, Ms. Burgum held controllership roles at two public companies and was an auditor and consultant for Arthur Andersen. Ms. Burgum has been with Accenture for 9 years.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+Exhibit No.
+Description
+99
+News Release of Accenture, dated
+July 14, 2022
+104
+The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+Date: July 14, 2022
+ACCENTURE PLC
+By:
+
+/s/ Joel Unruch
+Name:
+
+Joel Unruch
+Title:
+
+General Counsel & Corporate Secretary

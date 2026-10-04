@@ -1,0 +1,133 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+______________
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+March 2, 2023
+
+NVIDIA CORP
+ORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+0-23985
+94-3177549
+(State or other jurisdiction
+(Commission
+(IRS Employer
+of incorporation)
+File Number)
+Identification No.)
+2788 San Tomas Expressway
+,
+Santa Clara
+,
+CA
+
+95051
+
+(Address of principal executive offices) (Zip Code)
+Registrant’s telephone number, including area code:
+(
+408
+)
+486-2000
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.001 par value per share
+NVDA
+The Nasdaq Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging Growth Company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+Adoption of Fiscal Year 2024 Variable Compensation Plan
+On March 2, 2023, the Compensation Committee of the Board of Directors, or the Board, of NVIDIA Corporation, or the Company, adopted the Variable Compensation Plan for Fiscal Year 2024, or the 2024 Plan, which provides eligible executive officers the opportunity to earn a variable cash payment based on the level of achievement by the Company of certain corporate performance goals, or the Performance Goals, during fiscal year 2024. The Company operates on a fiscal year ending on the last Sunday in January and designates its fiscal year by the year in which that fiscal year ends. Fiscal year 2024 refers to the Company’s fiscal year ending January 28, 2024.
+The Compensation Committee has set the Performance Goals for fiscal year 2024 based upon the achievement of specified fiscal year 2024 revenue and has established threshold, base compensation plan, and stretch compensation plan levels. An eligible participant’s variable cash compensation under the 2024 Plan will be based on the achievement by the Company of the Performance Goals in fiscal year 2024.
+Unless otherwise determined by the Compensation Committee, a participant must remain an employee through the payment date under the 2024 Plan to be eligible to earn an award.
+The following table sets forth the respective target award opportunities for base compensation plan achievement for the Company’s named executive officers under the 2024 Plan:
+Named Executive Officer
+Target Award Opportunity for Base Compensation Plan
+Achievement
+Target Award Opportunity for
+Base Compensation Plan
+Achievement as a % of
+Fiscal Year 2024 Base Salary
+Jen-Hsun Huang
+President and Chief Executive Officer
+$2,000,000
+200%
+Colette M. Kress
+Executive Vice President and Chief Financial Officer
+$300,000
+33%
+Ajay K. Puri
+Executive Vice President, Worldwide Field Operations
+$650,000
+68%
+Debora Shoquist
+Executive Vice President, Operations
+$250,000
+29%
+Timothy S. Teter
+Executive Vice President, General Counsel and Secretary
+$250,000
+29%
+The foregoing description is subject to, and qualified in its entirety by, the 2024 Plan, which is filed with this report as Exhibit 10.1 and is incorporated herein by reference.
+Item 5.03. Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+(a) Amendment to Bylaws
+On March 2, 2023, the Board of the Company amended and restated the Company’s Bylaws, or the Restated Bylaws, which became effective immediately upon adoption by the Board.
+Among other things, the Restated Bylaws update procedural mechanics and disclosure requirements in connection with stockholder nominations of directors and submissions of stockholder proposals regarding other business at stockholder meetings (other than nominations pursuant to the Company’s proxy access bylaws and proposals to be included in the Company’s proxy materials pursuant to Rule 14a-8 under the Securities and Exchange Act of 1934, as amended, or the Exchange Act), including by requiring:
+•
+additional background information and disclosures regarding proposing stockholders, proposed nominees and business, and other persons related to a stockholder’s solicitation of proxies;
+•
+any stockholder submitting a nomination notice to make a representation as to whether such stockholder intends to solicit proxies in support of director nominees other than the Company’s nominees in accordance with Rule 14a-19 under the Exchange Act and to timely provide reasonable evidence that certain requirements of such rule have been satisfied;
+•
+that disclosures included in a stockholder’s notice of nominations or proposals regarding other business be updated, if necessary, to be accurate both as of the stockholder meeting record date and as of five business days prior to the stockholder meeting;
+•
+that if any stockholder provides a nomination notice and subsequently either (i) notifies the Company that such stockholder no longer intends to solicit proxies in support of director nominees other than the Company’s nominees or (ii) fails either to comply with the requirements of Rule 14a-19 or fails to timely provide reasonable evidence to the Company that such stockholder has met the requirements of Rule 14a-19, then such stockholder’s nominees will be disregarded and no vote on such nominees proposed by such stockholder will occur, notwithstanding any proxies or votes the Company has received in respect of such nominees; and
+•
+a stockholder directly or indirectly soliciting proxies from other stockholders to use a proxy card color other than white, which shall be reserved for the exclusive use by the Board.
+The foregoing summary of the amendments effected by the Restated Bylaws does not purport to be complete and is qualified in its entirety by reference to the complete text of the Restated Bylaws, a copy of which is filed as Exhibit 3.1 hereto and incorporated herein by reference.
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit Number
+
+Description
+3.1
+Bylaws of NVIDIA Corporation, Amended and Restated as of
+March 2
+, 2023
+10.1
+Variable Compensation Plan - Fiscal Year 2024
+104
+The cover page of this Current Report on Form 8-K, formatted in inline XBRL (included as Exhibit 101)
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+NVIDIA Corporation
+Date: March 8, 2023
+By:
+/s/ Rebecca Peters
+Rebecca Peters
+Vice President, Deputy General Counsel and Assistant Secretary

@@ -1,0 +1,177 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+June 1, 2021
+
+VISA INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+Delaware
+
+001-33977
+
+26-0267673
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+Identification No.)
+
+P.O. Box 8999
+
+San Francisco,
+California
+
+94128-8999
+(Address of Principal Executive Offices)
+(Zip Code)
+Registrant’s Telephone Number, Including Area Code: (
+650
+)
+432-3200
+
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Class A common stock, par value $0.0001 per share
+V
+New York Stock Exchange
+(Title of each Class)
+(Trading Symbol)
+(Name of each exchange on which registered)
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 7.01
+Regulation FD Disclosure.
+Visa continues to monitor the COVID-19 impact globally. As we began to lap the most significant COVID-19 impacts starting in March 2020, year-over-year growth rates were not reflective of the underlying trend, therefore performance metrics relative to fiscal 2019 have also been provided. Compared to fiscal 2019 levels, operational metrics in May were generally consistent or better than April levels.
+For U.S. payments volume in May, Credit continued to improve, up 3 points from April as compared to 2019 levels, while Debit remained elevated at 151% of 2019. Card not present excluding travel remained strong at 159% of 2019 and card present increased 4 points from April to 113% of 2019. Excluding travel, May spend was at least 10 points above 2019 levels in each industry category. While travel spend was still below 2019 levels, it has steadily improved over the last several months relative to 2019, expanding about 30 points from January through May.
+International market payments volume trends in May versus the same period in 2019 were relatively stable to April trends, with the exception of India, which continued to slow, and several other Asian countries that were impacted by new COVID-related restrictions. Conversely in Europe, many countries improved versus 2019 levels with the relaxing of COVID-related restrictions.
+Cross-border volume excluding intra-Europe transactions improved 6 points to 85% of 2019 in May, with card not present excluding travel volume remaining elevated at 162% of 2019 and travel-related spend (card present and card not present) improving 5 points from April to 45% of 2019. Total cross-border volume increased to 98% of 2019 in May.
+Global processed transactions were 121% of 2019 in May, which was higher than in previous months as transactions increased along with volume in several countries, particularly in Europe.
+The tables below show the increase / (decrease) and indexed results in certain key metrics against the comparable 2020 and 2019 periods, respectively, for April, May and quarter-to-date (April 1 – May 31, 2021):
+Increase / (Decrease) Year-over-Year
+April
+May
+Quarter-to-Date
+U.S. Payments Volume
+59%
+38%
+48%
+Credit
+58%
+44%
+50%
+Debit
+60%
+34%
+46%
+Cross-Border Volume Excluding Intra-Europe Transactions*
+61%
+55%
+58%
+Cross-Border Volume Total*
+57%
+50%
+53%
+Processed Transactions
+55%
+37%
+45%
+Indexed to 2019 with a Baseline of 100
+April
+May
+Quarter-to-Date
+U.S. Payments Volume
+131
+132
+131
+Credit
+111
+114
+113
+Debit
+151
+151
+151
+Cross-Border Volume Excluding Intra-Europe Transactions*
+79
+85
+82
+Cross-Border Volume Total*
+91
+98
+95
+Processed Transactions
+117
+121
+119
+*In constant dollars
+Charts that follow provide growth and index trends against the comparable 2020 and 2019 periods, respectively, by week in March, April, and May for U.S. payments volumes, processed transactions and cross-border volumes. When indexed, the 2019 baseline is 100.
+The foregoing information is preliminary in nature and has not been audited or reviewed by our auditors and is subject to change.
+All information in Item 7.01 is furnished but not filed and shall not be deemed to be incorporated by reference into any of Visa’s filings under the Securities Act of 1933 or the Securities Exchange Act of 1934 except to the extent otherwise set forth therein.
+Forward-Looking Statements
+This current report contains forward-looking statements within the meaning of the U.S. Private Securities Litigation Reform Act of 1995 that relate to, among other things, the impact on our underlying business drivers and other volume and transaction trends as a result of COVID-19, our future operations, prospects, developments, strategies and business growth. Forward-looking statements generally are identified by words such as “anticipates,” “estimates,” “expects,” “intends,” “may,” “projects,” “outlook,” “could,” “should,” “will,” “continue” and other similar expressions. All statements other than statements of historical fact could be forward-looking statements, which speak only as of the date they are made, are not guarantees of future performance and are subject to certain risks, uncertainties and other factors, many of which are beyond our control and are difficult to predict.
+Actual results could differ materially from those expressed in, or implied by, our forward-looking statements due to a variety of factors, including, but not limited to:
+•
+impact of global economic, political, market, health and social events or conditions, including the impact of COVID-19;
+•
+increased oversight and regulation of the global payments industry and our business;
+•
+impact of government-imposed obligations and/or restrictions on international payment systems;
+•
+outcome of tax, litigation and governmental investigation matters;
+•
+increasingly intense competition in the payments industry, including competition for our clients and merchants;
+•
+proliferation and continuous evolution of new technologies and business models;
+•
+our ability to maintain relationships with our clients, acquirers, processors, merchants and other third parties;
+•
+brand or reputational damage;
+•
+exposure to loss or illiquidity due to settlement guarantees;
+•
+the impact of the United Kingdom’s withdrawal from the European Union;
+•
+a disruption, failure, breach or cyber-attack of our networks or systems;
+•
+risks, uncertainties and the failure to achieve the anticipated benefits with respect to our acquisitions and other strategic investments; and
+•
+other factors described in our filings with the U.S. Securities and Exchange Commission, including our Annual Report on Form 10-K for the year ended September 30, 2020, and our subsequent reports on Forms 10-Q and 8-K.
+Except as required by law, we do not intend to update or revise any forward-looking statements as a result of new information, future events or otherwise.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VISA INC.
+
+Date: June 1, 2021
+
+By:
+
+/s/ Vasant M. Prabhu
+
+Vasant M. Prabhu
+Vice Chairman and Chief Financial Officer

@@ -1,0 +1,239 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant
+to Section 13 or 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)
+
+March 9, 2021
+
+General Electric Company
+
+(Exact name of registrant as specified in its
+charter)
+
+New York
+
+001-00035
+
+14-0689340
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+5 Necco Street
+
+Boston
+,
+MA
+
+02210
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(Registrant’s telephone number, including
+area code)
+(
+617
+)
+443-3000
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate
+box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instructions A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+Title
+of each class
+
+Trading
+
+Symbol(s)
+
+Name
+of each exchange
+
+on
+which registered
+
+Common
+stock, par value $0.06 per share
+
+GE
+
+New York Stock Exchange
+
+0.375% Notes due 2022
+
+GE 22A
+
+New York Stock Exchange
+
+1.250% Notes due 2023
+
+GE 23E
+
+New York Stock Exchange
+
+0.875% Notes due 2025
+
+GE 25
+
+New York Stock Exchange
+
+1.875% Notes due 2027
+
+GE 27E
+
+New York Stock Exchange
+
+1.500% Notes due 2029
+
+GE 29
+
+New York Stock Exchange
+
+7 1/2% Guaranteed Subordinated Notes due 2035
+
+GE /35
+
+New York Stock Exchange
+
+2.125% Notes due 2037
+
+GE 37
+
+New York Stock Exchange
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging
+growth company
+
+☐
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act.
+
+☐
+
+Item 8.01
+Other Events.
+
+On March 9, 2021, General Electric Company (“GE”) entered
+into a transaction agreement with AerCap Holdings N.V. (“AerCap”), pursuant to which GE will combine its GE Capital
+Aviation Services (“GECAS”) business with AerCap for total consideration consisting of approximately $24 billion in
+cash, 111.5 million ordinary shares of AerCap equivalent to approximately 46% ownership of the combined company and $1 billion
+paid in AerCap notes and/or cash upon closing. For the first quarter of 2021, in connection with signing the transaction agreement,
+GE will record an approximate $3 billion non-cash charge and report GECAS as discontinued operations. After the transaction closes,
+GE intends to use the transaction proceeds and its existing cash sources to reduce debt by approximately $30 billion. The transaction
+is expected to close in 9-12 months, subject to AerCap shareholder approval, regulatory approvals and other customary closing
+conditions.
+
+Item 9.01
+
+Financial
+Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit 99.1 is being furnished as part of this report:
+
+Exhibit No.
+
+Description
+
+99.1
+
+Press release, dated March 10, 2021 issued by General Electric Company
+
+104
+
+The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+
+This document contains “forward-looking statements”—that
+is, statements related to future, not past, events. These forward-looking statements often address our expected future business
+and financial performance and financial condition, and often contain words such as "expect," "anticipate,"
+"intend," "plan," "believe," "seek," "see," "will," "would,"
+"estimate," "forecast," "target," "preliminary," or "range." Forward-looking
+statements by their nature address matters that are, to different degrees, uncertain, and are subject to risks, uncertainties and
+assumptions. Should one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect,
+actual results may vary materially from those indicated or anticipated by such forward-looking statements. The inclusion of such
+statements should not be regarded as a representation that such plans, estimates or expectations will be achieved. Important factors
+that could cause actual results to differ materially from such plans, estimates or expectations include, among others, (1) that
+one or more closing conditions to the transaction, including certain regulatory approvals, may not be satisfied or waived, on a
+timely basis or otherwise, including that a governmental entity may prohibit, delay or refuse to grant approval for the consummation
+of the proposed transaction, may require conditions, limitations or restrictions in connection with such approvals or that the
+required approval by the shareholders of AerCap may not be obtained; (2) the risk that the proposed transaction may not be completed
+in the time frame expected by GE or AerCap, or at all; (3) unexpected costs, charges or expenses resulting from the proposed transaction;
+(4) uncertainty of the expected financial performance of GE or AerCap following completion of the proposed transaction; (5) failure
+to realize the anticipated benefits of the proposed transaction, including as a result of delay in completing the proposed transaction;
+(6) the occurrence of any event that could give rise to termination of the proposed transaction; (7) the risk that stockholder
+litigation in connection with the proposed transaction or other settlements or investigations may affect the timing or occurrence
+of the contemplated merger or result in significant costs of defense, indemnification and liability; (8) evolving legal, regulatory
+and tax regimes; (9) changes in general economic and/or industry specific conditions; (10) actions by third parties, including
+government agencies; and (11) other risk factors as detailed from time to time in GE’s and AerCap’s reports filed with
+the SEC, including GE’s and AerCap’s annual reports on Forms 10-K and 20-F, periodic quarterly reports on Form 10-Q,
+periodic current reports on Forms 8-K and 6-K and other documents filed with the SEC. The foregoing list of important factors is
+not exclusive.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+General Electric Company
+
+(Registrant)
+
+Date: March 10, 2021
+
+/s/
+Christoph A. Pereira
+
+Christoph A. Pereira
+
+Vice President, Chief Risk Officer and Chief Corporate Counsel

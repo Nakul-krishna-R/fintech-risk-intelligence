@@ -1,0 +1,127 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported)
+November 1, 2021
+General Electric Co
+mpany
+(Exact name of registrant as specified in its charter)
+
+New York
+001-00035
+14-0689340
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+
+5 Necco Street
+Boston,
+MA
+
+02210
+(Address of principal executive offices)
+
+(Zip Code)
+
+(Registrant’s telephone number, including area code)
+
+(
+617
+)
+443-3000
+
+_______________________________________________
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, par value $0.01 per share
+GE
+New York Stock Exchange
+0.375% Notes due 2022
+GE 22A
+New York Stock Exchange
+1.250% Notes due 2023
+GE 23E
+New York Stock Exchange
+0.875% Notes due 2025
+GE 25
+New York Stock Exchange
+1.875% Notes due 2027
+GE 27E
+New York Stock Exchange
+1.500% Notes due 2029
+GE 29
+New York Stock Exchange
+7 1/2% Guaranteed Subordinated Notes due 2035
+GE /35
+New York Stock Exchange
+2.125% Notes due 2037
+GE 37
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 2.01 Completion of Acquisition or Disposition of Assets.
+On November 1, 2021, General Electric Company (the “Company” or “GE”) completed the previously announced combination of its GE Capital Aviation Services (“GECAS”) business in its Capital segment with AerCap Holdings N.V. (“AerCap”) for total consideration
+consisting of $22.6 billion cash, subject to future contract closing adjustments, 111.5 million ordinary shares of AerCap (approximately 46% ownership interest), valued at $6.6 billion based on the closing share price of $59.04 on October 29, 2021, and $1 billion in AerCap senior notes with an interest rate of 1.899% and a maturity date of November 1, 2025. Pursuant to the shareholders' agreement entered in connection with the transaction, GE also has the right to nominate two board members of AerCap so long as it owns at least 10% of the ordinary shares of AerCap, or one board member so long as it owns any of the ordinary shares of AerCap.
+In connection with the transaction, the historical results of GECAS were reported in GE's consolidated financial statements as discontinued operations beginning in the first quarter of 2021. Upon completion of the transaction, GE deconsolidated GECAS and expects to use the proceeds to further reduce debt, with total reduction since the end of 2018 now expected to reach approximately $75 billion.
+GE will elect to prospectively measure its equity method investment in AerCap at fair value. This investment and the related earnings impact from subsequent changes in fair value in the investment will be recognized in continuing operations.
+The unaudited pro forma financial information giving effect to this transaction is filed herewith as Exhibit 99.1.
+Unaudited pro forma financial information included in this Current Report on Form 8-K has been presented to illustrate the estimated effects of the GECAS transaction and is not necessarily indicative of the results of operations that GE would have achieved had the GECAS transaction been completed as of the dates indicated or of the results that may be obtained in the future.
+Item 7.01 Regulation FD Disclosure.
+As previously disclosed in our Quarterly Reports on Form 10-Q, with the completion of the GECAS transaction, the remainder of GE Capital, including Energy Financial Services (EFS) and our run-off insurance operations, will be reported within Corporate. This means we will transition from three-column to simpler one-column financial statement reporting effective with our 2021 Annual Report on Form 10-K ("2021 Form 10-K").
+To assist investors and others in advance of this financial reporting transition, we are providing the supplemental financial information in Exhibit 99.2 with key financial metrics for the nine months ended September 30, 2021, that were presented in our Quarterly Report on Form 10-Q for the quarter ended September 30, 2021, retroactively restated on the one-column consolidated basis that will be presented in our 2021 Form 10-K. While not required in this Form 8-K, we believe this supplemental one-column financial statement information will be useful to evaluate performance and period-to-period comparability of consolidated company results.
+The information provided pursuant to this Item 7.01, including Exhibit 99.2, is being furnished and shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934 (the "Exchange Act") or otherwise subject to the liabilities under that Section and shall not be deemed to be incorporated by reference into any filing of the Company under the Securities Act of 1933 or the Exchange Act.
+Item 9.01 Financial Statements and Exhibits.
+(b) Pro Forma Financial Information.
+The following unaudited pro forma financial information of the Company is filed as Exhibit 99.1 to this Report on Form 8-K and is incorporated herein by reference:
+•
+Unaudited Pro Forma Condensed Consolidated Statement of Earnings (Loss) for each of the years ended December 31, 2020, 2019, and 2018.
+•
+Notes to the Unaudited Pro Forma Condensed Consolidated Financial Statements.
+No pro forma consolidated condensed statement of earnings for the nine months ended September 30, 2021 or related balance sheet as of September 30, 2021 are provided in this report, as GECAS was presented as discontinued operations in the interim financial statements included in the Company’s Quarterly Report on Form 10-Q for the nine months ended September 30, 2021, filed on October 26, 2021. Total assets held for sale had a carrying value of $37.2 billion and $33.8 billion as of December 31, 2020 and September 30, 2021, respectively, and total liabilities held for sale had a carrying value of $5.0 billion and $4.8 billion as of December 31, 2020 and September 30, 2021, respectively. After transaction costs of $0.3 billion, GE expects to incur an estimated pretax loss of $3.1 billion ($3.7 billion after tax).
+(d) Exhibits.
+99
+.1.
+General Electric Company Unaudited Pro Forma Condensed Consolidated Financial Statements.
+99.2
+.
+Supplemental One-column Financial Statement Information.
+104
+. The cover page from this Current Report on Form 8-K, formatted in Inline XBRL.
+(2)
+Forward-Looking Statements
+This document contains “forward-looking statements”—that is, statements related to future, not past, events. These forward-looking statements often address our expected future business and financial performance and financial condition, and often contain words such as "expect," "anticipate," "intend," "plan," "believe," "seek," "see," "will," "would," "estimate," "forecast," "target," "preliminary," or "range." Forward-looking statements by their nature address matters that are, to different degrees, uncertain, such as statements about the impacts of the COVID-19 pandemic on our business operations, financial results and financial position and on the world economy; our expected financial performance, including cash flows, revenues, organic growth, margins, earnings and earnings per share; macroeconomic and market conditions and volatility; planned and potential business or asset dispositions; our de-leveraging plans, including leverage ratios and targets, the timing and nature of actions to reduce indebtedness and our credit ratings and outlooks; GE's and GE Capital's funding and liquidity; our businesses’ cost structures and plans to reduce costs; restructuring, goodwill impairment or other financial charges; or tax rates. For us, particular uncertainties that could cause our actual results to be materially different than those expressed in our forward-looking statements include: the continuing severity, magnitude and duration of the COVID-19 pandemic, including impacts of the pandemic, of businesses’ and governments’ responses to the pandemic and of individual factors such as aviation passenger confidence on our operations and personnel, and on commercial activity and demand across our and our customers’ businesses, and on global supply chains; the extent to which the COVID-19 pandemic and related impacts, including global supply chain disruptions, will continue to adversely impact our business operations, financial performance, results of operations, financial position, the prices of our securities and the achievement of our strategic objectives; our success in executing and completing asset dispositions or other transactions, including our plan to exit our equity ownership positions in AerCap and Baker Hughes, the timing of such transactions, and the expected proceeds, consideration and benefits to GE; changes in macroeconomic and market conditions and market volatility (including developments and volatility arising from the COVID-19 pandemic), including inflation, interest rates, the value of securities and other financial assets (including our equity ownership position in AerCap and Baker Hughes), oil, natural gas and other commodity prices and exchange rates, and the impact of such changes and volatility on our financial position and businesses; our de-leveraging and capital allocation plans, including with respect to actions to reduce our indebtedness, the timing and amount of GE dividends, organic investments, and other priorities; further downgrades of our current short- and long-term credit ratings or ratings outlooks, or changes in rating application or methodology, and the related impact on our liquidity, funding profile, costs and competitive position; GE’s liquidity and the amount and timing of our GE Industrial cash flows and earnings, which may be impacted by customer, supplier, competitive, contractual and other dynamics and conditions; GE Capital's capital and liquidity needs, including in connection with GE Capital’s run-off insurance operations and discontinued operations such as Bank BPH, the amount and timing of any required capital contributions and any strategic actions that we may pursue; the impact of conditions in the financial and credit markets on GE Capital's ability to sell financial assets; the availability and cost of funding; and GE Capital's exposure to particular counterparties and markets, including through its equity interest in AerCap the aviation sector and adverse impacts related to COVID-19; global economic trends, competition and geopolitical risks, including changes in the rates of investment or economic growth in key markets we serve, or an escalation of sanctions, tariffs or other trade tensions between the U.S. and China or other countries, and related impacts on our businesses' global supply chains and strategies; market developments or customer actions that may affect demand and the financial performance of major industries and customers we serve, such as secular, cyclical and competitive pressures in our Power business; pricing, the timing of customer investment and other factors in renewable energy markets; demand for air travel and other dynamics related to the COVID-19 pandemic; conditions in key geographic markets; and other shifts in the competitive landscape for our products and services; operational execution by our businesses, including the operations and execution of our Power and Renewable Energy businesses, and the performance of our Aviation business; changes in law, regulation or policy that may affect our businesses, such as trade policy and tariffs, regulation and incentives related to climate change (including extension of the U.S. wind Production Tax Credit), and the effects of tax law changes; our decisions about investments in new products, services and platforms, and our ability to launch new products in a cost-effective manner; our ability to increase margins through implementation of operational changes, restructuring and other cost reduction measures; the impact of regulation and regulatory, investigative and legal proceedings and legal compliance risks, including the impact of Alstom and other investigative and legal proceedings; the impact of actual or potential failures of our products or third-party products with which our products are integrated, and related reputational effects; the impact of potential information technology, cybersecurity or data security breaches at GE or third parties; and the other factors that are described in the "Risk Factors" section of our Annual Report on Form 10-K for the year ended December 31, 2020 and our Quarterly Report on Form 10-Q for the quarter ended March 31, 2021, as such descriptions may be updated or amended in any future reports we file with the SEC. These or other uncertainties may cause our actual future results to be materially different than those expressed in our forward-looking statements. We do not undertake to update our forward-looking statements.
+(3)
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+General Electric Company
+(Registrant)
+Date: November 5, 2021
+/s/ Thomas S. Timko
+Thomas S. Timko
+Vice President, Chief Accounting Officer and Controller
+(4)

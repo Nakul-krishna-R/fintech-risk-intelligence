@@ -1,0 +1,183 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+September 9, 2022
+
+Date of Report (date of earliest event reported)
+NIKE, Inc.
+
+(Exact name of registrant as specified in its charter)
+Oregon
+1-10635
+93-0584541
+(State or other jurisdiction of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+ONE BOWERMAN DRIVE
+
+BEAVERTON
+,
+OR
+
+97005-6453
+
+(Address of principal executive offices and zip code)
+(
+503
+)
+671-6453
+
+Registrant's telephone number, including area code
+NO CHANGE
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Class B Common Stock
+NKE
+New York Stock Exchange
+(Title of each class)
+(Trading Symbol)
+(Name of each exchange on which registered)
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+o
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On June 16, 2022, the Board of Directors of NIKE, Inc. (the “Company”) adopted an amendment and restatement of the NIKE, Inc. Employee Stock Purchase Plan (as amended and restated, the “ESPP”), subject to shareholder approval at the Company’s annual meeting of shareholders (the “Annual Meeting”). At the Annual Meeting, held on September 9, 2022, the Company’s shareholders approved the ESPP to increase the number of shares of the Company’s Class B Common Stock authorized for issuance under the ESPP by 11,000,000 shares. A description of the ESPP was set forth in the Company’s definitive proxy statement on Form 14A filed with the U.S. Securities and Exchange Commission on July 21, 2022 (the “Proxy Statement”) in the section titled “Summary of the Employee Stock Purchase Plan.” The descriptions of the ESPP contained herein and in the Proxy Statement are qualified in their entirety by reference to the ESPP, a copy of which is attached hereto as Exhibit 10.1 and incorporated herein by reference.
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+The Company’s annual meeting of shareholders was held virtually on Friday, September 9, 2022. The following matters were submitted to a vote of the shareholders, the results of which were as follows:
+Proposal 1 - Election of Directors:
+Directors Elected by Holders of Class A Common Stock:
+
+Votes Cast For
+
+Votes Withheld
+Broker Non-Votes
+Cathleen A. Benko
+298,107,848
+0
+0
+Timothy D. Cook
+298,107,848
+0
+0
+John J. Donahoe II
+298,107,848
+0
+0
+Thasunda B. Duckett
+298,107,848
+0
+0
+Travis A. Knight
+298,107,848
+0
+0
+Mark G. Parker
+298,107,848
+0
+0
+John W. Rogers, Jr.
+298,107,848
+0
+0
+Directors Elected by Holders of Class B Common Stock:
+
+Votes Cast For
+
+Votes Withheld
+Broker Non-Votes
+Alan B. Graf, Jr.
+914,590,417
+73,253,700
+101,691,849
+Peter B. Henry
+971,058,364
+16,785,753
+101,691,849
+Michelle A. Peluso
+859,803,517
+128,040,600
+101,691,849
+
+Proposal 2 - Advisory Vote on Executive Compensation
+Class A and Class B Common Stock Voting Together:
+For
+Against
+Abstain
+Broker Non-Votes
+832,876,712
+451,434,918
+1,640,335
+101,691,849
+Proposal 3 - Ratify the appointment of PricewaterhouseCoopers LLP as the Company’s independent registered public accounting firm for fiscal year ending May 31, 2023
+Class A and Class B Common Stock Voting Together:
+For
+Against
+Abstain
+Broker Non-Votes
+1,325,597,936
+60,327,088
+1,718,790
+0
+Proposal 4 - Approval of the NIKE, Inc. Employee Stock Purchase Plan, as amended and restated
+Class A and Class B Common Stock Voting Together:
+For
+Against
+Abstain
+Broker Non-Votes
+1,273,920,210
+10,951,784
+1,079,971
+101,691,849
+Proposal 5 - Shareholder proposal regarding a policy on China sourcing
+Class A and Class B Common Stock Voting Together:
+For
+Against
+Abstain
+Broker Non-Votes
+79,642,809
+1,175,118,421
+31,190,735
+101,691,849
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit No.
+Exhibit
+10.1
+NIKE, Inc. Employee Stock Purchase Plan
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+NIKE, Inc.
+(Registrant)
+
+Date:
+September 14, 2022
+By:
+/s/ Matthew Friend
+
+Matthew Friend
+
+Executive Vice President and Chief Financial Officer

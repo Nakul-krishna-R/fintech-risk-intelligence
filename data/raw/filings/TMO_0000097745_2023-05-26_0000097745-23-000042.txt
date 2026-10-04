@@ -1,0 +1,243 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+May 24, 2023
+
+THERMO FISHER SCIENTIFIC INC.
+
+(Exact name of Registrant as specified in its Charter)
+
+Delaware
+1-8002
+04-2209186
+(State of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification Number)
+168 Third Avenue
+
+Waltham
+,
+Massachusetts
+
+02451
+
+(Address of principal executive offices) (Zip Code)
+Registrant’s telephone number, including area code: (
+781
+)
+622-1000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $1.00 par value
+TMO
+New York Stock Exchange
+0.750% Notes due 2024
+TMO 24A
+New York Stock Exchange
+0.125% Notes due 2025
+TMO 25B
+New York Stock Exchange
+2.000% Notes due 2025
+TMO 25
+New York Stock Exchange
+3.200% Notes due 2026
+TMO 26B
+New York Stock Exchange
+1.400% Notes due 2026
+TMO 26A
+New York Stock Exchange
+1.450% Notes due 2027
+TMO 27
+New York Stock Exchange
+1.750% Notes due 2027
+TMO 27B
+New York Stock Exchange
+0.500% Notes due 2028
+TMO 28A
+New York Stock Exchange
+1.375% Notes due 2028
+TMO 28
+New York Stock Exchange
+1.950% Notes due 2029
+TMO 29
+New York Stock Exchange
+0.875% Notes due 2031
+TMO 31
+New York Stock Exchange
+2.375% Notes due 2032
+TMO 32
+New York Stock Exchange
+3.650% Notes due 2034
+TMO 34
+New York Stock Exchange
+2.875% Notes due 2037
+TMO 37
+New York Stock Exchange
+1.500% Notes due 2039
+TMO 39
+New York Stock Exchange
+1.875% Notes due 2049
+TMO 49
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 or (§230.405 of this chapter) Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers
+Amended and Restated 2013 Stock Incentive Plan
+On May 24, 2023, at the Thermo Fisher Scientific Inc. (the “Company”) annual meeting of shareholders (the “Annual Meeting”), as further described in Item 5.07 below, the Company’s shareholders approved the Amended and Restated 2013 Stock Incentive Plan (the “Plan”). Previously, the Board of Directors of the Company approved the Plan (subject to shareholder approval) to, among other changes, increase the number of shares of the Company’s Common Stock authorized for issuance under the Plan by 7,000,000 shares. A description of the material terms of the Plan was set forth in the Company’s proxy statement for the Annual Meeting which was filed with the U.S. Securities and Exchange Commission on April 7, 2023 (the “Proxy Statement”). The description of the Plan contained herein is qualified in its entirety by reference to the Plan, a copy of which is filed as Exhibit 10.1 to this Current Report on Form 8-K and incorporated herein by reference.
+2023 Global Employee Stock Purchase Plan
+At the Annual Meeting, the Company’s shareholders also approved the 2023 Global Employee Stock Purchase Plan (the “ESPP”). Previously, the Board of Directors of the Company approved the ESPP (subject to shareholder approval). Up to 12,000,000 shares of the Company’s Common Stock are authorized for issuance under the ESPP. A description of the material terms of the ESPP was set forth in the Proxy Statement. The description of the ESPP contained herein is qualified in its entirety by reference to the ESPP, a copy of which is filed as Exhibit 10.2 to this Current Report on Form 8-K and incorporated herein by reference.
+Item 5.07 Submission of Matters to a Vote of Security Holders
+At the Annual Meeting held on May 24, 2023, the shareholders of the Company voted on the following proposals:
+1. The following nominees were elected to the Company’s Board of Directors for a one-year term expiring at the 2024 annual meeting of shareholders.
+For
+Against
+Abstain
+Broker Non-Votes
+Marc N. Casper
+292,552,916
+30,261,664
+1,350,678
+18,986,879
+Nelson J. Chai
+302,287,357
+21,158,341
+719,560
+18,986,879
+Ruby R. Chandy
+319,922,493
+3,942,167
+300,598
+18,986,879
+C. Martin Harris
+307,173,930
+16,689,675
+301,653
+18,986,879
+Tyler Jacks
+315,243,173
+8,557,663
+364,422
+18,986,879
+R. Alexandra Keith
+309,690,142
+14,140,673
+334,443
+18,986,879
+James C. Mullen
+316,424,303
+7,440,013
+300,942
+18,986,879
+Lars R. Sørensen
+291,759,034
+31,752,536
+653,688
+18,986,879
+Debora L. Spar
+319,945,740
+3,909,868
+309,650
+18,986,879
+Scott M. Sperling
+303,594,389
+20,201,565
+369,304
+18,986,879
+Dion J. Weisler
+306,831,551
+17,032,747
+300,960
+18,986,879
+2. A non-binding, advisory proposal on the compensation of the Company’s named executive officers was approved.
+For:
+255,371,632
+Against:
+68,034,961
+Abstain:
+758,665
+Broker Non-Votes:
+18,986,879
+3. Shareholders approved, on an advisory basis, a frequency of “1 Year” for future advisory votes on named executive officer compensation. Future advisory votes on named executive officer compensation will be held every year.
+1 Year:
+319,559,883
+2 Years:
+330,669
+3 Years:
+3,964,661
+Abstain:
+310,045
+2
+4. The appointment of PricewaterhouseCoopers LLP as the independent registered public accounting firm for the Company for the fiscal year ending December 31, 2023 was ratified.
+For:
+309,795,691
+Against:
+33,056,068
+Abstain:
+300,378
+5. The Amended and Restated 2013 Stock Incentive Plan was approved.
+For:
+305,558,797
+Against:
+18,084,900
+Abstain:
+521,561
+Broker Non-Votes:
+18,986,879
+6. The 2023 Global Employee Stock Purchase Plan was approved.
+For:
+322,605,155
+Against:
+1,214,391
+Abstain:
+345,712
+Broker Non-Votes:
+18,986,879
+Item 9.01 Financial Statements and Exhibits
+Exhibit
+Number
+Description of Exhibit
+10.1
+Thermo Fisher Scientific Inc. Amended and Restated 2013 Stock Incentive Plan
+(filed as Exhibit 99.1 to the Registrant’s Form S-8 filed May 24, 2023 [File No. 333-272173] and incorporated in this document by reference).
+10.2
+Thermo Fisher Scientific Inc. 2023 Global Employee Stock Purchase Plan
+(filed as Exhibit 99.2 to the Registrant’s Form S-8 filed May 24, 2023 [File No. 333-272173] and incorporated in this document by reference).
+3
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+THERMO FISHER SCIENTIFIC INC.
+Date:
+May 26, 2023
+By:
+/s/ Michael A. Boxer
+Michael A. Boxer
+Senior Vice President and General Counsel
+4

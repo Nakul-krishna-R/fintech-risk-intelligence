@@ -1,0 +1,257 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (date of earliest event reported):
+October 22, 2024
+
+JPMorgan Chase & Co.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+1-5805
+
+13-2624428
+
+(State or other jurisdiction of
+
+incorporation or organization)
+
+(Commission
+
+File Number)
+
+(I.R.S. employer
+
+identification no.)
+
+383 Madison Avenue
+,
+
+New York
+,
+New York
+
+10179
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+(212)
+
+270-6000
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock
+
+JPM
+
+The New York Stock Exchange
+
+Depositary Shares, each representing a
+one-four
+hundredth interest in a share of 5.75%
+Non-Cumulative
+Preferred Stock, Series DD
+
+JPM PR D
+
+The New York Stock Exchange
+
+Depositary Shares, each representing a
+one-four
+hundredth interest in a share of 6.00%
+Non-Cumulative
+Preferred Stock, Series EE
+
+JPM PR C
+
+The New York Stock Exchange
+
+Depositary Shares, each representing a
+one-four
+hundredth interest in a share of 4.75%
+Non-Cumulative
+Preferred Stock, Series GG
+
+JPM PR J
+
+The New York Stock Exchange
+
+Depositary Shares, each representing a
+one-four
+hundredth interest in a share of 4.55%
+Non-Cumulative
+Preferred Stock, Series JJ
+
+JPM PR K
+
+The New York Stock Exchange
+
+Depositary Shares, each representing a
+one-four
+hundredth interest in a share of 4.625%
+Non-Cumulative
+Preferred Stock, Series LL
+
+JPM PR L
+
+The New York Stock Exchange
+
+Depositary Shares, each representing a
+one-four
+hundredth interest in a share of 4.20%
+Non-Cumulative
+Preferred Stock, Series MM
+
+JPM PR M
+
+The New York Stock Exchange
+
+Guarantee of Callable Fixed Rate Notes due June 10, 2032 of JPMorgan Chase Financial Company LLC
+
+JPM/32
+
+The New York Stock Exchange
+
+Guarantee of Alerian MLP Index ETNs due January 28, 2044 of JPMorgan Chase Financial Company LLC
+
+AMJB
+
+NYSE Arca, Inc.
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01.
+
+Other Events.
+
+On October 22, 2024, JPMorgan Chase & Co. closed public offerings of (i) $500,000,000 aggregate principal amount of Floating Rate Notes due 2028 (the “Floating Rate Notes”), (ii) $2,000,000,000 aggregate principal amount of
+Fixed-to-Floating
+Rate Notes due 2028 (the “2028
+Fixed-to-Floating
+Rate Notes”), (iii) $2,500,000,000 aggregate principal amount of
+Fixed-to-Floating
+Rate Notes due 2030 (the “2030
+Fixed-to-Floating
+Rate Notes”) and (iv) $3,000,000,000 aggregate principal amount of
+Fixed-to-Floating
+Rate Notes due 2035 (together with the Floating Rate Notes, the 2028
+Fixed-to-Floating
+Rate Notes and the 2030
+Fixed-to-Floating
+Rate Notes, the “Notes”).
+
+The offerings of the Notes were registered under the Securities Act of 1933, as amended, pursuant to a registration statement on Form
+S-3
+(File
+No. 333-263304),
+as amended. In connection with these offerings, the legal opinion as to the legality of the Notes is being filed as Exhibit 5.1 to this report.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+5.1
+
+Opinion of Simpson Thacher & Bartlett LLP as to the legality of the Notes.
+
+23.1
+
+Consent of Simpson Thacher & Bartlett LLP (included as part of Exhibit 5.1).
+
+101
+
+Pursuant to Rule 406 of Regulation
+S-T,
+the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language).
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+JPMORGAN CHASE & CO.
+
+(Registrant)
+
+By:
+
+/s/ Jordan A. Costa
+
+Name:
+
+Jordan A. Costa
+
+Title:
+
+Managing Director
+
+Dated: October 22, 2024

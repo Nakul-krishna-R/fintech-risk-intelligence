@@ -1,0 +1,135 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+June 17, 2022
+
+INTEL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+000-06217
+
+94-1672743
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+2200 Mission College Blvd.
+,
+Santa Clara
+,
+California
+
+95054-1549
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+(408)
+
+765-8080
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock, $0.001 par value
+
+INTC
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 5.02
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(c)
+Appointment of Chief Accounting Officer
+
+Scott Gawel has been appointed as Corporate Vice President and Chief Accounting Officer of Intel Corporation (“Intel”), effective as of July 6, 2022 (the “Effective Date”). In this role, he will serve as Intel’s principal accounting officer.
+
+Mr. Gawel, 51, will join Intel from Oracle Corporation, a software and technology company. From December 2020 to June 2022, he served as Senior Vice President and Corporate Controller of Oracle. He served as Oracle’s Senior Vice President and Assistant Controller from September 2017 to December 2020, Vice President and Corporate Accounting from June 2009 to September 2017, and Senior Director and Corporate Accounting from 2004 to June 2009.
+
+In connection with his appointment as Chief Accounting Officer, Intel entered into an offer letter with Mr. Gawel (the “Offer Letter”) setting forth the terms of his employment and compensation. The following is a brief description of the material arrangements entered into with Mr. Gawel. Pursuant to the Offer Letter, Mr. Gawel’s base salary will be $475,000, and he will be eligible for an annual incentive cash bonus with a target amount of $475,000 under Intel’s Executive Annual Performance Bonus Plan and a quarterly incentive cash bonus under Intel’s broad-based quarterly bonus program. Mr. Gawel will be granted an annual equity award of restricted stock units (“RSUs”) with a target value of approximately $1,500,000.
+
+The Offer Letter also provides for certain new hire “make-whole” compensation to be provided to Mr. Gawel in the form of an equity award and a cash bonus, designed primarily to make him whole for compensation that he forfeited upon his departure from his prior employer. These include RSUs with a target value of approximately $2,000,000. In addition, Mr. Gawel will receive a cash bonus of $2,500,000, payable in three annual installments with the first payment being made within 30 days of the Effective Date. In the event he voluntarily terminates his employment or is terminated by Intel for cause within one year of each payment date, he must repay the cash bonus on a prorated basis. Mr. Gawel’s equity awards will be subject to the terms and conditions of Intel’s 2006 Equity Incentive Plan.
+
+Mr. Gawel will also enter into Intel’s standard form of officers’ indemnification agreement with Intel, pursuant to which Intel agrees to indemnify its officers to the fullest extent permitted by applicable law and subject to certain conditions to advance expenses in connection with proceedings as described in the indemnification agreement.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+INTEL CORPORATION
+
+(Registrant)
+
+Date: June 22, 2022
+
+/s/ David Zinsner
+
+David Zinsner
+
+Executive Vice President and Chief Executive Officer

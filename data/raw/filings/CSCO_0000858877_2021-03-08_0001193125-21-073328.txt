@@ -1,0 +1,156 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+March 4, 2021
+
+CISCO SYSTEMS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-39940
+
+77-0059951
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+170 West Tasman Drive
+,
+San Jose
+,
+California
+
+95134-1706
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(408)
+
+526-4000
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock, par value $0.001 per share
+
+CSCO
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02.
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+Appointment of Certain Officer
+
+On March 4, 2021, the Board of Directors (the “Board”) of Cisco Systems, Inc. (“Cisco”) appointed Maria Martinez as Chief Operating Officer of Cisco.
+
+Ms. Martinez, 63, joined Cisco in April 2018 as Executive Vice President and Chief Customer Experience Officer, and in December 2020, Ms. Martinez took on an expanded role to lead certain operations functions in addition to customer experience as one, united team, including supply chain, IT, security and trust, data and analytics, customer and partner services, and strategy and business acceleration. Prior to joining Cisco, Ms. Martinez served in a variety of senior executive roles at salesforce.com, inc. (“Salesforce”), including as President, Global Customer Success and Latin America from March 2016 to April 2018; President, Sales and Customer Success from February 2013 to March 2016; Executive Vice President and Chief Growth Officer from February 2012 to February 2013; and Executive Vice President, Customers for Life from February 2010 to February 2012. Ms. Martinez’s experience prior to Salesforce includes serving as Corporate Vice President of Worldwide Services at Microsoft Corporation, President and Chief Executive Officer of Embrace Networks, Inc. and in various senior leadership roles at Motorola, Inc. and AT&T Inc./Bell Laboratories. Ms. Martinez is a member of the board of directors of McKesson Corporation and was a member of the board of directors of Plantronics, Inc. from September 2015 to April 2018.
+
+Appointment of Director
+
+On March 4, 2021, the Board appointed Marianna Tessel, Executive Vice President and Chief Technology Officer of Intuit Inc., as a member of the Board effective March 5, 2021. It has not yet been determined on which Board committees, if any, Ms. Tessel will serve.
+
+In connection with her service as a director, Ms. Tessel will receive Cisco’s standard
+non-employee
+director cash and equity compensation. Ms. Tessel will receive a pro rata portion of the $80,000 annual retainer for her service through the remaining portion of the year ending at Cisco’s 2021 annual meeting of stockholders.
+Non-employee
+directors may instead elect to receive the annual cash retainer in fully vested shares of Cisco common stock, fully vested deferred stock units that would be settled in shares after the
+non-employee
+director leaves the Board, or a deferred cash payment under the Cisco Systems, Inc. Deferred Compensation Plan. If appointed to serve on any committees of the Board, she also would receive fees of $2,000 per committee meeting attended. Upon her appointment, pursuant to the Board’s equity grant policy for
+non-employee
+directors, Ms. Tessel automatically received a fully vested initial
+non-employee
+director equity award under Cisco’s 2005 Stock Incentive Plan with a grant date fair value equal to a pro rata portion of $230,000 based on the portion of the year of her board service.
+Non-employee
+directors may elect to defer receipt of the equity award such that the award would be settled in shares after the
+non-employee
+director leaves the Board.
+Non-employee
+directors are also eligible to participate in Cisco’s charitable matching gifts program to the same extent as all Cisco employees (for calendar year 2021, the maximum match amount is $25,000).
+
+In connection with her appointment, Ms. Tessel also entered into Cisco’s standard form of Indemnity Agreement with Cisco which provides for indemnification of an indemnitee to the fullest extent permitted by law. The foregoing description of the Indemnity Agreement does not purport to be complete and is qualified in its entirety by the full text of the form of Indemnity Agreement, which was filed with the Securities and Exchange Commission on January 25, 2021 as Exhibit 10.1 to Cisco’s Current Report on Form
+8-K.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+CISCO SYSTEMS, INC.
+
+Dated: March 8, 2021
+
+By:
+
+/s/ Evan Sloves
+
+Name:
+
+Evan Sloves
+
+Title:
+
+Secretary

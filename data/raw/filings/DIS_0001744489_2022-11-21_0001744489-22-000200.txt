@@ -1,0 +1,100 @@
+________________________________________________________________________
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+November 20, 2022
+The Walt Disney Company
+(Exact name of registrant as specified in its charter)
+Delaware
+001-38842
+83-0940635
+(State or other jurisdiction
+(Commission File Number)
+(IRS Employer
+of incorporation)
+Identification No.)
+
+500 South Buena Vista Street
+
+Burbank
+,
+California
+
+91521
+
+(Address of Principal Executive Offices and Zip Code)
+(
+818
+)
+560-1000
+
+(Registrant’s telephone number, including area code)
+Not applicable
+
+(Former name or address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.01 par value
+DIS
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+________________________________________________________________________
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On November 20, 2022, The Walt Disney Company (the “Company”) appointed Robert A. Iger as Chief Executive Officer for a term ending December 31, 2024. The Company’s Board of Directors (the “Board”) also appointed Mr. Iger to serve as a Director on the Board with a term expiring at the 2023 Annual Meeting. The Company exercised its right to terminate without cause the employment of Robert A. Chapek as Chief Executive Officer. Effective as of the termination, Mr. Chapek also resigned from the Board pursuant to the terms of his employment agreement. In connection with his termination, Mr. Chapek will receive the separation benefits payable in accordance with the terms of his previously disclosed employment agreement.
+Mr. Iger, 71, served as Executive Chairman of the Company from February 2020 through December 2021. Previously, Mr. Iger served as Chief Executive Officer of the Company from September 2005 to February 2020. Mr. Iger served on the Board from January 2000 through December 2021. In light of the Company’s business and structure, Mr. Iger’s 27 years of experience in the entertainment industry and with the Company, including as the Chief Executive Officer of the Company, are expected to contribute to the Board and the Company.
+Under his prior employment agreement, for the five-year period following his retirement at December 31, 2021, Mr. Iger is to provide consulting services, and continue to receive certain security benefits provided to Mr. Iger as an officer of the Company, in each case for five years following his termination. These post-employment arrangements will be tolled during his period of employment, with the parties commitments under these arrangements to be fulfilled for the remaining term when his employment ends.
+In connection with his appointment as Chief Executive Officer, Mr. Iger entered into an employment agreement with the Company (the “Employment Agreement”) providing that Mr. Iger’s annual rate of base salary is $1 million. The Employment Agreement provides that Mr. Iger is also eligible for an annual, performance-based bonus under the Company’s applicable annual incentive plan (currently, the Company’s Management Incentive Bonus Program) with a target equal to 100% of the annual base salary. The actual amount payable to Mr. Iger as an annual bonus will be dependent upon the achievement of performance objectives, which will be substantially the same as the objectives established under the plan for other executive officers of the Company. Depending on performance, the actual amount payable as an annual bonus to Mr. Iger may be less than, greater than or equal to the stated target bonus (and could be zero).
+The Employment Agreement also provides that Mr. Iger is entitled to participate in the Company’s equity-based long-term incentive plans and programs generally made available to executive officers of the Company. For each fiscal year ended during the term of the Agreement, Mr. Iger will be granted a long-term incentive award having a target value of $25 million. Sixty percent (60%) of this target award value will be provided in the form of performance-based restricted stock units and the remaining forty percent (40%) will be in the form of stock options. The other terms of these awards will be subject to substantially the same terms and conditions (except for (i) two year vesting and performance conditions for the performance-based stock units and (ii) full vesting of the stock option awards on December 31, 2024, if Mr. Iger remains in employment through such date), as will be established for other executive officers of the Company in accordance with the Board’s policies for the grant of equity-based awards, as in effect at the time of the award, and do not guarantee Mr. Iger any minimum amount of compensation. The actual amounts payable to Mr. Iger in respect of such opportunities will be determined based on the extent to which any performance conditions and/or service conditions applicable to such awards are satisfied and on the value of the Company’s stock. Accordingly, Mr. Iger may receive compensation in respect of any such award that is greater or less than the stated target value, depending on whether, and to what extent, the applicable performance and other conditions are satisfied, and on the value of the Company’s stock.
+Mr. Iger’s employment may be terminated by the Company for “cause,” which is defined to include a felony conviction, unauthorized disclosure of confidential information, failure to substantially perform his duties, or any other significant policy violation that is significantly injurious to the Company.
+Mr. Iger has the right to terminate his employment for “good reason,” which is defined as (i) a reduction in any of his base salary, annual target bonus opportunity or annual target long-term incentive award opportunity; (ii) removal from the position of Chief Executive Officer; (iii) a material reduction in his duties and responsibilities; (iv) the assignment to him of duties that are materially inconsistent with his position as Chief Executive Officer or duties
+or that materially impair his ability to function as Chief Executive Officers or any other position in which he is then serving; (vi) relocation of his principal office to a location that is more than 50 miles outside of the greater Los Angeles area; or (vii) a material breach of any material provision of the Agreement by the Company. Following a change in control of the Company, as defined in the Company’s stock plans, good reason also includes any event that is a triggering event as defined in the plans. A triggering event is defined to include a termination of employment by the Company other than for “cause” or a termination of employment by the participant following a reduction in position, pay or other “constructive termination.”
+In the event that Mr. Iger’s employment is terminated by the Company without “cause” or by Mr. Iger for “good reason,” he will be entitled to termination benefits, which include the following: (i) a lump sum payment of the base salary that would have been payable over the remaining term of the Agreement; (ii) a pro-rated bonus for the year of termination (any prior-year bonus not yet paid at time of termination is also paid); and (iii) the outstanding unvested stock options and outstanding unvested restricted stock unit awards that could vest in accordance with their scheduled vesting provisions if Mr. Iger’s employment had continued through the remaining term of the Agreement will be eligible to vest at the same time and subject to the same performance conditions as though he continued in the Company’s employ, and all stock options, whether vested on the date of termination or vesting thereafter as described above, shall vest and remain exercisable to the same extent as if his employment had continued through the term of the Agreement.
+To qualify for the above described cash severance benefit, pro-rated bonus (and prior-year bonus, if not already paid), opportunity to vest in unvested equity awards available under each Agreement and extended exercisability of stock options following an involuntary termination by the Company without cause, or a termination by Mr. Iger for good reason, he must execute a release in favor of the Company
+Under the Employment Agreement, Mr. Iger is entitled to participate in employee benefits and perquisites generally made available to executive officers of the Company. The Employment Agreement provides that Mr. Iger will enter into the Company’s standard officer indemnification agreement.
+The foregoing descriptions are qualified by reference to the terms of the Employment Agreement, which is filed herewith as Exhibit 10.1 and is incorporated herein by reference. A copy of the press release issued by the Company on November 20, 2022, is attached as Exhibit 99.1 hereto.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+Exhibit
+Number
+Description
+10.1
+Employment Agreement Dated as of November 20, 2022, between the Company and Robert A. Iger
+99.1
+Press Release dated November 20, 2022
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+The Walt Disney Company
+By:
+
+/s/ Jolene E. Negre
+
+Jolene E. Negre
+
+Associate General Counsel and Secretary
+Dated: November 21, 2022

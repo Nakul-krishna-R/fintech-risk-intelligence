@@ -1,0 +1,192 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of
+the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)
+May 26, 2022
+(
+May 24, 2022
+)
+
+Merck & Co., Inc.
+(Exact name of registrant as specified in its charter)
+
+New Jersey
+1-6571
+22-1918501
+(State or other jurisdiction
+(Commission
+(I.R.S Employer
+of incorporation)
+File Number)
+Identification No.)
+126 East Lincoln Avenue
+Rahway
+New Jersey
+07065
+(Address of principal executive offices)
+(Zip Code)
+
+(Registrant’s telephone number, including area code)
+(
+908
+)
+740-4000
+
+Not Applicable
+(Former name, former address and former fiscal year, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock ($0.50 par value)
+MRK
+New York Stock Exchange
+0.500% Notes due 2024
+MRK 24
+New York Stock Exchange
+1.875% Notes due 2026
+MRK/26
+New York Stock Exchange
+2.500% Notes due 2034
+MRK/34
+New York Stock Exchange
+1.375% Notes due 2036
+MRK 36A
+New York Stock Exchange
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+(a) The Annual Meeting of Shareholders of Merck & Co., Inc. (the "Company") was held on May 24, 2022.
+(b) Shareholders voted on the matters set forth below:
+1.
+The following nominees were elected to the Company’s Board of Directors to hold office until the Company’s next Annual Meeting of Shareholders and received the number of votes set forth opposite their names:
+Names
+Votes For
+Votes Against
+Abstentions
+Broker
+Non-Votes
+Douglas M. Baker, Jr.
+1,780,984,040
+6,528,771
+4,691,991
+323,364,405
+Mary Ellen Coe
+1,779,429,445
+7,859,159
+4,916,198
+323,364,405
+Pamela J. Craig
+1,692,355,200
+95,577,191
+4,272,411
+323,364,405
+Robert M. Davis
+1,774,674,995
+12,884,351
+4,645,456
+323,364,405
+Kenneth C. Frazier
+1,732,254,447
+54,859,038
+5,091,317
+323,364,405
+Thomas H. Glocer
+1,697,902,650
+88,973,584
+5,328,568
+323,364,405
+Risa J. Lavizzo-Mourey, M.D.
+1,756,457,228
+31,502,898
+4,244,676
+323,364,405
+Stephen L. Mayo, Ph.D.
+1,781,071,829
+6,746,997
+4,385,976
+323,364,405
+Paul B. Rothman, M.D.
+1,779,382,586
+7,669,301
+5,152,915
+323,364,405
+Patricia F. Russo
+1,536,818,865
+250,967,059
+4,418,878
+323,364,405
+Christine E. Seidman, M.D.
+1,780,105,880
+7,252,569
+4,846,353
+323,364,405
+Inge G. Thulin
+1,769,168,113
+17,923,028
+5,113,661
+323,364,405
+Kathy J. Warden
+1,777,663,402
+10,258,048
+4,283,352
+323,364,405
+Peter C. Wendell
+1,708,427,277
+78,700,280
+5,077,245
+323,364,405
+2.
+Non-binding advisory vote to approve the compensation of our named executive officers:
+1,638,611,142 votes FOR
+144,654,654 votes AGAINST
+8,939,006 shares abstained from voting
+323,364,405 broker non votes
+3.
+Ratification of the appointment of the Company’s independent registered public accounting firm for 2022:
+2,026,097,702 votes FOR
+83,727,641 votes AGAINST
+5,743,867 shares abstained from voting
+4.
+Shareholder proposal regarding independent board chairman:
+615,122,318 votes FOR
+1,168,095,979 votes AGAINST
+8,986,505 shares abstained from voting
+323,364,405 broker non votes
+5.
+Shareholder proposal regarding access to COVID-19 products:
+627,659,497 votes FOR
+1,117,396,234 votes AGAINST
+47,149,071 shares abstained from voting
+323,364,405 broker non votes
+6.
+Shareholder proposal regarding lobbying expenditure disclosure:
+286,221,316 votes FOR
+1,492,430,156 votes AGAINST
+13,553,330 shares abstained from voting
+323,364,405 broker non votes
+A majority of the votes cast was required for all six proposals to be approved.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Merck & Co., Inc.
+Date: May 26, 2022
+By:
+/s/ Kelly E. W. Grez
+Kelly E. W. Grez
+Corporate Secretary

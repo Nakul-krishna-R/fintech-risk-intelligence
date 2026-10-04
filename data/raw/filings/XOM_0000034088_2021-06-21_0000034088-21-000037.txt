@@ -1,0 +1,299 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+
+8-K/A
+
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+May 26, 2021
+
+Exxon Mobil Corporation
+
+(Exact name of registrant as specified in its charter)
+
+New Jersey
+1-2256
+13-5409005
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+
+5959 Las Colinas Boulevard
+,
+
+Irving
+,
+
+Texas
+
+75039-2298
+
+(Address of principal executive offices) (Zip Code)
+
+Registrant’s telephone number, including area code:
+(
+972
+)
+
+940-6000
+
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+
+Name of Each Exchange
+Title of Each Class
+Trading Symbol
+on Which Registered
+Common Stock, without par value
+XOM
+New York Stock Exchange
+0.142% Notes due 2024
+XOM24B
+New York Stock Exchange
+0.524% Notes due 2028
+XOM28
+New York Stock Exchange
+0.835% Notes due 2032
+XOM32
+New York Stock Exchange
+1.408% Notes due 2039
+XOM39A
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+Explanatory Note
+This Current Report on Form 8-K/A is being filed by Exxon Mobil Corporation (the “Company” or “ExxonMobil”) as an amendment (the “Amendment”) to the Current Report on Form 8-K that the Company filed with the SEC on June 2, 2021 to announce the preliminary results of the Company’s Annual Meeting of Shareholders held on May 26, 2021. This Amendment is being filed to disclose the final, certified voting results received from the independent inspector of election (the “Inspector of Election”) for the Annual Meeting.
+
+Item 5.07
+Submission of Matters to a Vote of Security Holdings
+(a)
+At its Annual Meeting, the matters set forth below in response to Item 5.07(b) were submitted to a vote of security holders.
+As of the close of business on March 29, 2021, the record date for the Annual Meeting, 4,233,538,767 shares of the Company’s common stock, without par value (“Common Stock”), were outstanding and entitled to vote.
+Set forth below are the proposals voted upon at the Annual Meeting, and the final vote tabulation that certified the voting results as received from the Inspector of Election. Based on the results, at least 3,047,661,428 shares of Common Stock were voted in person or by proxy at the Annual Meeting, representing 72.0% percent of the shares entitled to be voted. Percentages are based on the total votes cast. Under the corporate law of New Jersey, where ExxonMobil is incorporated, abstentions are not votes cast.
+2
+(b)
+The final voting results for the proposals presented at the Annual Meeting are as follows:
+Proposal 1 – Election of Directors
+The final votes in Favor and Withheld for each nominee, by order of the votes For each nominee, are set forth below. The twelve nominees with the most votes in favor have been elected to the board with the certification of the final results by the Inspector of Election.
+Nominees
+Votes For
+Votes Withheld
+Michael J. Angelakis*
+2,796,428,863
+46,636,107
+Jeffrey W. Ubben*
+2,788,738,768
+54,326,219
+Ursula M. Burns*
+2,753,092,463
+61,220,881
+Susan K. Avery*
+2,748,172,284
+94,892,487
+Joseph L. Hooley*
+2,747,469,168
+95,596,019
+Angela F. Braly*
+2,709,049,323
+134,015,448
+Darren W. Woods*
+2,686,402,783
+156,662,205
+Kenneth C. Frazier*
+2,685,351,293
+157,713,694
+Kaisa Hietala**
+1,510,819,249
+154,384,137
+Gregory J. Goff**
+1,425,523,196
+239,680,189
+Alexander A. Karsner**
+1,218,032,919
+447,170,467
+Steven A. Kandarian*
+1,173,176,391
+33,438,686
+Douglas R. Oberhelman*
+1,145,335,462
+32,527,746
+Wan Zulkiflee*
+1,099,727,702
+78,135,506
+Samuel J. Palmisano*
+1,098,045,723
+79,817,485
+Anders Runevad**
+295,055,259
+1,370,148,126
+* ExxonMobil Nominees
+** Engine No. 1 Nominees
+Proposal 2 –
+
+Ratification of Independent Auditors:
+Votes Cast For:
+2,932,636,122
+96.7
+%
+Votes Cast Against:
+99,282,004
+3.3
+%
+Abstentions:
+15,743,302
+Broker Non-Votes:
+0
+Proposal 3 – Advisory Vote to Approve Executive Compensation:
+Votes Cast For:
+2,476,571,665
+88.6
+%
+Votes Cast Against:
+318,289,746
+11.4
+%
+Abstentions:
+48,209,356
+Broker Non-Votes:
+204,590,661
+3
+The shareholders voted as set forth below on seven shareholder proposals:
+Proposal 4 – Independent Chairman:
+Votes Cast For:
+640,399,934
+23.0
+%
+Votes Cast Against:
+2,146,285,341
+77.0
+%
+Abstentions:
+56,383,360
+Broker Non-Votes:
+204,592,793
+Proposal 5 – Special Shareholder Meetings:
+Votes Cast For:
+575,682,260
+20.7
+%
+Votes Cast Against:
+2,201,869,356
+79.3
+%
+Abstentions:
+65,516,778
+Broker Non-Votes:
+204,593,034
+Proposal 6 – Report on Scenario Analysis
+Votes Cast For:
+1,371,200,560
+49.4
+%
+Votes Cast Against:
+1,403,256,862
+50.6
+%
+Abstentions:
+68,610,428
+Broker Non-Votes:
+204,593,578
+Proposal 7 – Report on Environmental Expenditures:
+Votes Cast For:
+146,891,373
+5.3
+%
+Votes Cast Against:
+2,640,966,303
+94.7
+%
+Abstentions:
+55,211,065
+Broker Non-Votes:
+204,592,686
+Proposal 8 – Report on Political Contributions:
+Votes Cast For:
+845,157,527
+30.3
+%
+Votes Cast Against:
+1,947,152,972
+69.7
+%
+Abstentions:
+50,759,124
+Broker Non-Votes:
+204,591,805
+Proposal 9 – Report on Lobbying:
+Votes Cast For:
+1,564,619,207
+56.1
+%
+Votes Cast Against:
+1,224,381,062
+43.9
+%
+Abstentions:
+54,067,528
+Broker Non-Votes:
+204,593,631
+Proposal 10 – Report on Climate Lobbying:
+Votes Cast For:
+1,789,297,091
+64.2
+%
+Votes Cast Against:
+998,403,223
+35.8
+%
+Abstentions:
+55,345,826
+Broker Non-Votes:
+204,615,288
+4
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+EXXON MOBIL CORPORATION
+
+Date: June 21, 2021
+By:
+/s/ LEN M. FOX
+
+Len M. Fox
+
+Vice President and Controller
+(Principal Accounting Officer)
+5

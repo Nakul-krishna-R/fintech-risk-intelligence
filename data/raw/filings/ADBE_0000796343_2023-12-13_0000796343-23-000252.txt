@@ -1,0 +1,126 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+_________________________
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (date of earliest event reported): December 13, 2023 (
+December 11, 2023
+)
+ADOBE INC.
+
+(Exact name of Registrant as specified in its charter)
+Delaware
+0-15175
+77-0019522
+(State or other jurisdiction of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+345 Park Avenue
+San Jose
+,
+California
+
+95110-2704
+(Address of principal executive offices and zip code)
+Registrant’s telephone number, including area code:
+(
+408
+)
+536-6000
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol
+Name of Each Exchange on Which Registered
+Common Stock, $0.0001 par value per share
+ADBE
+NASDAQ Global Select Market
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 2.02. Results of Operations and Financial Condition.
+On December 13, 2023, Adobe Inc. (the “Company”) issued a press release announcing financial results for its fourth quarter and fiscal year 2023 ended December 1, 2023. A copy of this press release is furnished and attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+The information in this report and the exhibit attached hereto are being furnished and shall not be deemed filed for purposes of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly stated by specific reference in such filing.
+The attached press release includes non-GAAP adjusted or constant currency revenue growth rates, non-GAAP operating income, non-GAAP net income, non-GAAP diluted net income per share (earnings per share) and non-GAAP tax rate.
+These non-GAAP measures are not in accordance with, or an alternative for, generally accepted accounting principles and may be different from non-GAAP measures used by other companies. In addition, these non-GAAP measures are not based on any comprehensive set of accounting rules or principles. We believe that non-GAAP measures have limitations in that they do not reflect all of the amounts associated with our results of operations as determined in accordance with GAAP and that these measures should only be used to evaluate our results of operations in conjunction with the corresponding GAAP measures.
+We use these non-GAAP financial measures in making operating decisions because we believe the measures provide meaningful supplemental information regarding our operational performance and give us a better understanding of how we should invest in research and development and fund infrastructure and go-to-market strategies. We use these measures to help us make budgeting decisions, for example, as between product development expenses and research and development, sales and marketing and general and administrative expenses and to facilitate our internal comparisons to our historical operating results. In addition, we believe these non-GAAP financial measures are useful because they allow for greater transparency with respect to key metrics used by management in its financial and operational decision making. This allows institutional investors, the analyst community and others to better understand and evaluate our operating results and future prospects in the same manner as management and to compare operating results across accounting periods and to those of our peer companies.
+We include adjusted or constant currency revenue growth rates to provide a framework for assessing how our underlying businesses have performed or are expected to perform on a year-over-year basis, excluding the effects of foreign currency rate fluctuations and the impact of our 52/53-week fiscal year, if applicable. Adjusted or constant currency revenue growth rates are calculated in constant currency by converting non-United States Dollar revenue using comparative period exchange rates and determining the change from prior period reported revenue, adjusted for any hedging effects.
+In addition, we use non-GAAP financial measures which exclude:
+A.
+Stock-based and deferred compensation expenses.
+Stock-based compensation expense consists of charges for employee restricted stock units, performance shares and employee stock purchases in accordance with current GAAP including stock-based compensation expense associated with any unvested options and restricted stock units assumed in connection with our acquisitions. We believe that it is useful to investors to understand the impact of the application of accounting standards pertaining to stock-based compensation to our operational performance, liquidity and our ability to invest in research and development and fund acquisitions and capital expenditures. Deferred compensation expense consists of charges associated with movements in our deferred compensation plan liability. Although stock-based compensation and deferred compensation expenses constitute ongoing and recurring expenses, such expenses are excluded from non-GAAP results because they are not expenses that typically require current cash settlement by us and because such expenses are not used by us to assess the core profitability of our business operations. We further believe these measures are useful to investors in that they allow for greater transparency to certain line items in our financial statements. In addition, excluding these items from various non-GAAP measures facilitates comparisons to our competitors’ operating results.
+B.
+Amortization of intangibles.
+We recognize amortization expense of intangibles in connection with our acquisitions. Intangibles include (i) purchased technology, (ii) trademarks, (iii) customer contracts and relationships and (iv) other intangible assets. In accordance with GAAP, we amortize the fair value of the intangibles based on the pattern in which we expect the economic benefits of the intangibles will be consumed as revenue is generated. Although the intangibles generate revenue for us, we exclude this item because the expense is non-cash in nature and because we believe the non-GAAP financial measures excluding this item provide meaningful supplemental information regarding our operational performance, liquidity and our ability to invest in research and development, fund acquisitions and capital expenditures. In addition, excluding this item from various non-GAAP measures facilitates our internal comparisons to our historical operating results and comparisons to our competitors’ operating results.
+2
+C.
+Acquisition-related expenses.
+We exclude certain acquisition-related expenses, including deal costs and certain professional fees, associated with the proposed Figma acquisition due to its significant base purchase price and expected costs to complete the transaction. Acquisition-related expenses are inconsistent in amount and are significantly impacted by the timing and nature of acquisitions. Therefore, although we may incur these types of expenses in connection with future acquisitions, such expenses are excluded from our non-GAAP financial measures because these expenses are not used by us to assess the core profitability of our business operations. Consequently, we believe the non-GAAP financial measures excluding these expenses facilitate more meaningful evaluation of the core profitability of our business operations and comparisons to our historical operating results, and allow for greater transparency to certain line items in our financial statements.
+D.
+Investment gains and losses.
+We recognize investment gains and losses principally from realized gains or losses from the sale and exchange of marketable equity investments, other-than-temporary declines in the value of marketable and non-marketable equity securities, unrealized holding gains and losses associated with our deferred compensation plan assets, gains and losses on the sale of equity securities held indirectly through investment partnerships and gains and losses associated with the recording of equity or cost method investments to fair value upon obtaining control through a business combination, as required by GAAP. We do not actively trade publicly held securities nor do we rely on these securities positions for funding our ongoing operations. We exclude investment gains and losses on these equity securities because these items are unrelated to our ongoing business and operating results.
+E.
+Accrued loss contingencies associated with significant litigation events.
+In connection with ongoing litigation or similar events, we accrue losses in the event such losses are determined to be both probable and estimable under Accounting Standards Codification (ASC) 450-20, Loss Contingencies, although such litigation may be under appeal. Upon resolution of the litigation or event, we adjust the accrual to reflect final resolution. We exclude the impact of such loss contingencies when they relate to significant events that are unrelated to our ongoing business and operating results.
+F.
+Income tax adjustments.
+We apply a fixed long-term projected non-GAAP tax rate to determine our non-GAAP provision for income taxes, which can differ significantly from our GAAP provision for income taxes. In arriving at our long-term projected non-GAAP tax rate, we evaluated projections and currently available information for the three year period from fiscal 2023 through fiscal 2025 that exclude certain significant, non-recurring and period-specific income tax effects, such as tax charges in connection with acquisitions, resolution of certain income tax examinations and impacts from tax legislation or from changes to our trading structure, which helps us assess the core profitability of our business operations and compare to our historical operating results. This projected long-term non-GAAP tax rate could be subject to change for several reasons, including significant changes in our geographic earnings mix or fundamental tax law changes in major jurisdictions in which we operate. As such, we periodically re-evaluate the appropriateness of the long-term non-GAAP tax rate and may adjust for significant changes.
+G.
+Income tax effect of the non-GAAP pre-tax adjustments from the provision for income taxes.
+Excluding the income tax effect of the non-GAAP pre-tax adjustments from the provision for income taxes assists investors in understanding the tax provision associated with those adjustments and the effective tax rate related to our ongoing operations.
+We believe that non-GAAP measures have limitations in that they do not reflect all of the amounts associated with our financial results as determined in accordance with GAAP and that these measures should only be used to evaluate our financial results in conjunction with the corresponding GAAP measures; therefore we qualify the use of non-GAAP financial information in a statement when non-GAAP information is presented.
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On December 11, 2023, the Executive Compensation Committee of the Board of Directors of the Company approved the Adobe Inc. 2023 Executive Severance Plan in the Event of a Change of Control (the “Change of Control Plan”), to be effective on December 13, 2023. The Change of Control Plan is attached to this Current Report on Form 8-K as Exhibit 10.1 and incorporated herein by reference. The Change of Control Plan replaces Adobe’s 2020 Executive Severance Plan in the Event of a Change of Control (the "Prior Change of Control Plan"), which terminates in accordance with its terms on December 13, 2023. The terms of the Change of Control Plan are substantially the same as the Prior Change of Control Plan.
+Item 8.01. Other Events.
+Since June 2022, we have been cooperating with the Federal Trade Commission (“FTC”) staff in response to a Civil Investigative Demand seeking information regarding our disclosure and subscription cancellation practices relative to the Restore Online Shoppers’ Confidence Act. In November 2023, the FTC staff asserted that they had the authority to enter into consent negotiations to determine if a settlement regarding their investigation of these issues could be reached. We believe our
+3
+practices comply with the law and are currently engaging in discussion with FTC staff. The defense or resolution of this matter could involve significant monetary costs or penalties and could have a material impact on our financial results and operations.
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit Number
+Exhibit Description
+10.1
+Adobe Inc. 2023 Executive Severance Plan in the Event of a Change of Control
+99.1
+Press release issued on
+December
+1
+3
+, 2023 entitled “Adobe Reports
+Record
+Q4 and Fiscal 202
+3
+
+Revenue
+”
+104
+Cover Page Interactive Data File (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document)
+4
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ADOBE INC.
+
+By:
+/s/ DANIEL DURN
+
+Daniel Durn
+
+Executive Vice President and Chief Financial Officer
+Date: December 13, 2023
+5

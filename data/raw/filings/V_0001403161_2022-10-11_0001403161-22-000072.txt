@@ -1,0 +1,108 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+October 7, 2022
+
+VISA INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+Delaware
+
+001-33977
+
+26-0267673
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+Identification No.)
+
+P.O. Box 8999
+
+San Francisco,
+California
+
+94128-8999
+(Address of Principal Executive Offices)
+(Zip Code)
+Registrant’s Telephone Number, Including Area Code: (
+650
+)
+432-3200
+
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Class A Common Stock, par value $0.0001 per share
+V
+New York Stock Exchange
+1.500% Senior Notes due 2026
+V26
+New York Stock Exchange
+2.000% Senior Notes due 2029
+V29
+New York Stock Exchange
+2.375% Senior Notes due 2034
+V34
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.02
+
+Departure of Directors or Certain Officers: Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On October 7, 2022, the board of directors (the "Board") of Visa Inc. (the "Company"), upon the recommendation of the Board's Nominating and Corporate Governance Committee, increased the size of the Board from 11 to 12 members and appointed Kermit R. Crawford to the Board, effective October 7, 2022, for a term that will expire at the Company's 2023 Annual Meeting of Stockholders. A press release announcing Mr. Crawford's appointment to the Board is attached as Exhibit 99.1 and is incorporated by reference.
+The Board determined that Mr. Crawford is an independent director within the meaning of the New York Stock Exchange listing standards. Mr. Crawford has also been appointed to the Board's Audit and Risk Committee and Nominating and Corporate Governance Committee, effective January 1, 2023. There are no arrangements or understandings between Mr. Crawford and any other persons pursuant to which he was selected as a director. There are no transactions involving the Company and Mr. Crawford that the Company would be required to report pursuant to Item 404(a) of Regulation S-K.
+Mr. Crawford will receive compensation for his Board and committee service in accordance with the Company’s standard compensation arrangements for non-employee directors, which are described in the Company’s definitive proxy statement on Schedule 14A filed with the U.S. Securities and Exchange Commission (the “SEC”) on December 2, 2021.
+The Company will enter into an indemnification agreement with Mr. Crawford. Such form of indemnification agreement was included as Exhibit 10.1 to the Company’s Quarterly Report on Form 10-Q, filed with the SEC on January 31, 2020, and is incorporated herein by reference.
+Item 9.01
+
+Financial Statements and Exhibits.
+(d) Exhibits
+
+Exhibit
+Number
+Description
+99.1
+Press Release issued by Visa Inc. dated October 11, 2022
+104
+Cover Page Interactive Data File (formatted as Inline XBRL)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VISA INC.
+
+Date:
+October 11, 2022
+
+By:
+
+/s/ Alfred F. Kelly, Jr.
+
+Alfred F. Kelly, Jr.
+Chairman and Chief Executive Officer

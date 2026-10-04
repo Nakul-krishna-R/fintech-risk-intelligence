@@ -1,0 +1,410 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+February 13, 2023
+
+Philip Morris International Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Virginia
+
+1-33708
+
+13-3435103
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+677 Washington Blvd
+,
+Suite 1100
+,
+Stamford
+,
+
+Connecticut
+
+06901-3707
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+(203)
+
+905-2410
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, no par value
+
+PM
+
+New York Stock Exchange
+
+2.625% Notes due 2023
+
+PM23
+
+New York Stock Exchange
+
+2.125% Notes due 2023
+
+PM23B
+
+New York Stock Exchange
+
+3.600% Notes due 2023
+
+PM23A
+
+New York Stock Exchange
+
+2.875% Notes due 2024
+
+PM24
+
+New York Stock Exchange
+
+2.875% Notes due 2024
+
+PM24C
+
+New York Stock Exchange
+
+0.625% Notes due 2024
+
+PM24B
+
+New York Stock Exchange
+
+3.250% Notes due 2024
+
+PM24A
+
+New York Stock Exchange
+
+2.750% Notes due 2025
+
+PM25
+
+New York Stock Exchange
+
+3.375% Notes due 2025
+
+PM25A
+
+New York Stock Exchange
+
+2.750% Notes due 2026
+
+PM26A
+
+New York Stock Exchange
+
+2.875% Notes due 2026
+
+PM26
+
+New York Stock Exchange
+
+0.125% Notes due 2026
+
+PM26B
+
+New York Stock Exchange
+
+3.125% Notes due 2027
+
+PM27
+
+New York Stock Exchange
+
+3.125% Notes due 2028
+
+PM28
+
+New York Stock Exchange
+
+2.875% Notes due 2029
+
+PM29
+
+New York Stock Exchange
+
+3.375% Notes due 2029
+
+PM29A
+
+New York Stock Exchange
+
+0.800% Notes due 2031
+
+PM31
+
+New York Stock Exchange
+
+3.125% Notes due 2033
+
+PM33
+
+New York Stock Exchange
+
+2.000% Notes due 2036
+
+PM36
+
+New York Stock Exchange
+
+1.875% Notes due 2037
+
+PM37A
+
+New York Stock Exchange
+
+6.375% Notes due 2038
+
+PM38
+
+New York Stock Exchange
+
+1.450% Notes due 2039
+
+PM39
+
+New York Stock Exchange
+
+4.375% Notes due 2041
+
+PM41
+
+New York Stock Exchange
+
+4.500% Notes due 2042
+
+PM42
+
+New York Stock Exchange
+
+3.875% Notes due 2042
+
+PM42A
+
+New York Stock Exchange
+
+4.125% Notes due 2043
+
+PM43
+
+New York Stock Exchange
+
+4.875% Notes due 2043
+
+PM43A
+
+New York Stock Exchange
+
+4.250% Notes due 2044
+
+PM44
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.02.
+
+Termination of a Material Definitive Agreement.
+
+The information set forth in Item 8.01 below as to the termination of the
+364-day
+bridge credit agreement dated as of May 11, 2022 (as amended or modified from time to time prior to the date hereof) among Philip Morris International Inc. (“PMI”), the lenders from
+time-to-time
+party thereto and Citibank Europe PLC, UK Branch as facility agent (the “Bridge Facility”), is incorporated by reference into this Item 1.02.
+
+Item 8.01.
+
+Other Events.
+
+On February 15, 2023, PMI issued US$1,250,000,000 aggregate principal amount of its 4.875% Notes due 2026 (the “2026 Notes”), US$1,000,000,000 aggregate principal amount of its 4.875% Notes due 2028 (the “2028 Notes”), US$1,500,000,000 aggregate principal amount of its 5.125% Notes due 2030 (the “2030 Notes”) and US$1,500,000,000 aggregate principal amount of its 5.375% Notes due 2033 (the “2033 Notes” and, together with the 2026 Notes, 2028 Notes and 2030 Notes, the “Notes”). The Notes were issued pursuant to an Indenture dated as of April 25, 2008, by and between PMI and HSBC Bank USA, National Association, as trustee.
+
+In connection with the issuance of the Notes, on February 13, 2023, PMI entered into a Terms Agreement (the “Terms Agreement”) with Barclays Capital Inc., BofA Securities, Inc., Citigroup Global Markets Inc., Deutsche Bank Securities Inc., HSBC Securities (USA) Inc., Mizuho Securities USA LLC, SMBC Nikko Securities America, Inc., BBVA Securities Inc., Credit Suisse Securities (USA) LLC, Santander US Capital Markets LLC, Standard Chartered Bank, and Wells Fargo Securities, LLC, as representatives of the several underwriters named therein (the “Underwriters”), pursuant to which PMI agreed to issue and sell the Notes to the Underwriters. The provisions of an Underwriting Agreement, dated as of April 25, 2008 (the “Underwriting Agreement”), are incorporated by reference in the Terms Agreement.
+
+PMI has filed with the Securities and Exchange Commission a Prospectus dated February 10, 2023 and a Prospectus Supplement (the “Prospectus Supplement”) dated February 13, 2023 (Registration
+No. 333-269690)
+in connection with the public offering of the Notes.
+
+On February 17, 2023, PMI applied a portion of the net proceeds of the offering to prepay USD 4.4 billion under its Bridge Facility, which represents all borrowings outstanding under the Bridge Facility. PMI intends to use the remaining net proceeds of the offering for general corporate purposes, to repay outstanding commercial paper, or to meet its working capital requirements.
+
+In addition to the full prepayment of the borrowings under the Bridge Facility, on February 15, 2023, PMI submitted a notice to reduce the remaining outstanding commitments under the Bridge Facility to $0 effective as of February 20, 2023. Pursuant to the notice, the Bridge Facility will terminate on February 20, 2023 in accordance with its terms.
+
+The Notes are subject to certain customary covenants, including limitations on PMI’s ability, with significant exceptions, to incur debt secured by liens and engage in sale/leaseback transactions. PMI may redeem the Notes, in whole or in part, at the applicable redemption prices described in the Prospectus Supplement, plus accrued and unpaid interest thereon to, but excluding, the applicable redemption date. PMI may also redeem all, but not part, of the Notes of each series upon the occurrence of specified tax events as described in the Prospectus Supplement.
+
+Interest on the 2026 Notes is payable from February 15, 2023 semiannually in arrears on February 13 and August 13, commencing August 13, 2023, to holders of record on the preceding February 1 and August 1, as the case may be. Interest on the 2028 Notes is payable from February 15, 2023 semiannually in arrears on February 15 and August 15, commencing August 15, 2023, to holders of record on the preceding February 1 and August 1, as the case may be. Interest on the 2030 Notes is payable from February 15, 2023 semiannually in arrears on February 15 and August 15, commencing August 15, 2023, to holders of record on the preceding February 1 and August 1, as the case may be. Interest on the 2033 Notes is payable from February 15, 2023 semiannually in arrears on February 15 and August 15, commencing August 15, 2023, to holders of record on the preceding February 1 and August 1, as the case may be.
+
+The 2026 Notes will mature on February 13, 2026, the 2028 Notes will mature on February 15, 2028, the 2030 Notes will mature on February 15, 2030 and the 2033 Notes will mature on February 15, 2033.
+
+The Notes will be PMI’s senior unsecured obligations and will rank equally in right of payment with all of its existing and future senior unsecured indebtedness.
+
+For a complete description of the terms and conditions of the Underwriting Agreement, the Terms Agreement and the Notes, please refer to such agreements and the form of Notes, each of which is incorporated herein by reference and is an exhibit to this report as Exhibits 1.1, 1.2, 4.1, 4.2, 4.3 and 4.4, respectively.
+
+Certain of the Underwriters and their respective affiliates have, from time to time, performed, and may in the future perform, various financial advisory, commercial and investment banking services for PMI, for which they received or will receive customary fees and expenses. Certain of the Underwriters and their respective affiliates are lenders under PMI’s credit facilities. PMI and some of its subsidiaries may enter into foreign exchange and other derivative arrangements with certain of the Underwriters or their respective affiliates. In addition, certain of the Underwriters or their respective affiliates act as dealers in connection with PMI’s commercial paper programs.
+
+CAUTIONARY STATEMENT FOR FORWARD-LOOKING STATEMENTS
+
+This Current Report on Form
+8-K
+contains forward-looking statements, including statements regarding the reduction of commitments under and termination of the Bridge Facility. Achievement of results is subject to risks, uncertainties and inaccurate assumptions, including the risk that the Bridge Facility is not terminated in accordance with its terms in a timely manner or at all. In the event that risks or uncertainties materialize, or underlying assumptions prove inaccurate, actual results could vary materially from those contained in such forward-looking statements. Pursuant to the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995, PMI is identifying important factors that, individually or in the aggregate, could cause actual results and outcomes to differ materially from those contained in any forward-looking statements made by PMI.
+
+PMI’s business risks include: excise tax increases and discriminatory tax structures; increasing marketing and regulatory restrictions that could reduce our competitiveness, eliminate our ability to communicate with adult consumers, or ban certain of our products in certain markets or countries; health concerns relating to the use of tobacco and other nicotine-containing products and exposure to environmental tobacco smoke; litigation related to tobacco use and intellectual property; intense competition; the effects of global and individual country economic, regulatory and political developments, natural disasters and conflicts; the impact and consequences of Russia’s invasion of Ukraine; changes in adult smoker behavior; the impact of
+COVID-19
+on PMI’s business; lost revenues as a result of counterfeiting, contraband and cross-border purchases; governmental investigations; unfavorable currency exchange rates and currency devaluations, and limitations on the ability to repatriate funds; adverse changes in applicable corporate tax laws; adverse changes in the cost, availability, and quality of tobacco and other agricultural products and raw materials, as well as components and materials for our electronic devices; and the integrity of its information systems and effectiveness of its data privacy policies. PMI’s future profitability may also be adversely affected should it be unsuccessful in its attempts to produce and commercialize reduced-risk products or if regulation or taxation do not differentiate between such products and cigarettes; if it is unable to successfully introduce new products, promote brand equity, enter new markets or improve its margins through increased prices and productivity gains; if it is unable to expand its brand portfolio internally or through acquisitions and the development of strategic business relationships; if it is unable to attract and retain the best global talent, including women or diverse candidates; or if it is unable to successfully integrate and realize the expected benefits from recent transactions and acquisitions. Future results are also subject to the lower predictability of our reduced-risk product category’s performance.
+
+PMI is further subject to other risks detailed from time to time in its publicly filed documents, including PMI’s Annual Report on Form
+10-K
+for the fourth quarter and year ended December 31, 2022. PMI cautions that the foregoing list of important factors is not a complete discussion of all potential risks and uncertainties. PMI does not undertake to update any forward-looking statement that it may make from time to time, except in the normal course of its public disclosure obligations.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d)
+Exhibits
+.
+
+Exhibit
+
+Number
+
+Description
+
+1.1
+
+Underwriting Agreement, dated as of April 25, 2008 (incorporated by reference to Exhibit 1.1 of PMI’s Registration Statement on
+Form S-3
+(No.
+333-150449))
+
+1.2
+
+Terms Agreement, dated February 13, 2023, among PMI and Barclays Capital Inc., BofA Securities, Inc., Citigroup Global Markets Inc., Deutsche Bank Securities Inc., HSBC Securities (USA) Inc., Mizuho Securities USA LLC, SMBC Nikko Securities America, Inc., BBVA Securities Inc., Credit Suisse Securities (USA) LLC, Santander US Capital Markets LLC, Standard Chartered Bank and Wells Fargo Securities, LLC as representatives of the several underwriters
+
+4.1
+
+Form of 4.875% Notes due 2026
+
+4.2
+
+Form of 4.875% Notes due 2028
+
+4.3
+
+Form of 5.125% Notes due 2030
+
+4.4
+
+Form of 5.375% Notes due 2033
+
+5.1
+
+Opinion of DLA Piper LLP (US)
+
+104
+
+Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document and contained in Exhibit 101)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+PHILIP MORRIS INTERNATIONAL INC.
+
+By:
+
+/s/ DARLENE QUASHIE HENRY
+
+Name:
+
+Darlene Quashie Henry
+
+Title:
+
+Vice President, Associate General Counsel and Corporate Secretary
+
+DATE: February 17, 2023

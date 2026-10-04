@@ -1,0 +1,533 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+March 4, 2022
+
+Date of Report (Date of earliest event reported)
+
+Apple Inc.
+
+(Exact name of Registrant as specified in its charter)
+
+California
+
+001-36743
+
+94-2404110
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(I.R.S. Employer
+Identification No.)
+
+One Apple Park Way
+
+Cupertino
+,
+California
+
+95014
+
+(Address of principal executive offices) (Zip Code)
+
+(
+408
+)
+996-1010
+
+(Registrant’s telephone number, including area code)
+
+Not applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock, $0.00001 par value per share
+
+AAPL
+
+The Nasdaq Stock Market LLC
+
+1.000% Notes due 2022
+
+—
+
+The Nasdaq Stock Market LLC
+
+1.375% Notes due 2024
+
+—
+
+The Nasdaq Stock Market LLC
+
+0.000% Notes due 2025
+
+—
+
+The Nasdaq Stock Market LLC
+
+0.875% Notes due 2025
+
+—
+
+The Nasdaq Stock Market LLC
+
+1.625% Notes due 2026
+
+—
+
+The Nasdaq Stock Market LLC
+
+2.000% Notes due 2027
+
+—
+
+The Nasdaq Stock Market LLC
+
+1.375% Notes due 2029
+
+—
+
+The Nasdaq Stock Market LLC
+
+3.050% Notes due 2029
+
+—
+
+The Nasdaq Stock Market LLC
+
+0.500% Notes due 2031
+
+—
+
+The Nasdaq Stock Market LLC
+
+3.600% Notes due 2042
+
+—
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 5.02
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers
+
+The Board of Directors (the “Board”) of Apple Inc. (the “Company” or “Apple”) previously adopted, subject to shareholder approval, the Apple Inc. 2022 Employee Stock Plan (the “2022 Plan”). Apple’s shareholders approved the 2022 Plan at the Company’s Annual Meeting of Shareholders held on March 4, 2022 (the “Annual Meeting”). Apple’s grant authority under the Apple Inc. 2014 Employee Stock Plan (the “2014 Plan”) will terminate after the 2022 Plan is registered on Form
+S-8.
+The 2022 Plan, which became effective upon shareholder approval, permits the granting of stock options, stock appreciation rights, stock grants and restricted stock units. Employees and consultants of Apple and its subsidiaries are eligible to participate in the 2022 Plan.
+
+The maximum number of shares that may be issued or transferred pursuant to awards under the 2022 Plan will equal:
+
+•
+
+510 million shares, plus
+
+•
+
+the number of shares available for new award grants under the 2014 Plan on the date of the Annual Meeting, plus
+
+•
+
+the number of any shares subject to stock options granted under the 2014 Plan and outstanding as of the date of the Annual Meeting which expire or terminate after the Annual Meeting, plus
+
+•
+
+two times the number of shares subject to restricted stock units (“RSUs”) or restricted awards granted under the 2014 Plan that are outstanding as of the date of the Annual Meeting that are forfeited or terminated or with respect to which shares are withheld to satisfy tax withholding obligations after the date of the Annual Meeting.
+
+The maximum number of shares that may be issued or transferred pursuant to awards under the 2022 Plan as a result of applying the share limit formula described above will not exceed 1,274,374,682 shares.
+
+Shares issued with respect to full-value awards (RSUs or restricted stock awards) granted under the 2022 Plan are counted against the 2022 Plan’s aggregate share limit as two shares for every one share actually issued in connection with the full-value award. The 2022 Plan also includes other rules for counting shares against the share limits.
+
+The foregoing brief description is qualified in its entirety by the text of the 2022 Plan, a copy of which is filed as Exhibit 10.1 hereto and incorporated herein by reference.
+
+Grants under the 2022 Plan may be evidenced by entry into the Restricted Stock Unit Award Agreement and the Performance Award Agreement under the 2022 Plan, forms of which are filed as Exhibits 10.2 and 10.3 hereto and incorporated herein by reference.
+
+Item 5.07
+
+Submission of Matters to a Vote of Security Holders.
+
+The Annual Meeting was held on March 4, 2022. At the Annual Meeting, Apple’s shareholders voted on the following ten proposals and cast their votes as described below.
+
+1.
+
+The individuals listed below were elected at the Annual Meeting to serve as directors of Apple until the next annual meeting of shareholders and until their successors are duly elected and qualified:
+
+For
+
+Against
+
+Abstained
+
+Broker
+Non-Vote
+
+James Bell
+
+9,592,631,863
+
+75,189,711
+
+34,172,422
+
+3,360,214,513
+
+Tim Cook
+
+9,504,951,515
+
+179,216,057
+
+17,826,424
+
+3,360,214,513
+
+Al Gore
+
+8,868,389,175
+
+794,210,797
+
+39,394,024
+
+3,360,214,513
+
+Alex Gorsky
+
+8,953,921,820
+
+712,234,573
+
+35,837,603
+
+3,360,214,513
+
+Andrea Jung
+
+8,627,809,656
+
+1,032,432,390
+
+41,751,950
+
+3,360,214,513
+
+Art Levinson
+
+8,971,086,986
+
+696,491,723
+
+34,415,287
+
+3,360,214,513
+
+Monica Lozano
+
+9,598,142,509
+
+69,997,728
+
+33,853,759
+
+3,360,214,513
+
+Ron Sugar
+
+8,614,503,163
+
+1,050,063,179
+
+37,427,654
+
+3,360,214,513
+
+Sue Wagner
+
+9,345,991,079
+
+313,316,460
+
+42,686,457
+
+3,360,214,513
+
+2.
+
+A management proposal to ratify the appointment of Ernst & Young LLP as Apple’s independent registered public accounting firm for 2022 was approved.
+
+For
+
+Against
+
+Abstained
+
+12,872,446,315
+
+149,619,462
+
+40,142,732
+
+3.
+
+An advisory resolution to approve executive compensation was approved.
+
+For
+
+Against
+
+Abstained
+
+Broker
+Non-Vote
+
+6,211,599,020
+
+3,435,137,681
+
+55,257,295
+
+3,360,214,513
+
+4.
+
+A management proposal to approve the 2022 Plan was approved.
+
+For
+
+Against
+
+Abstained
+
+Broker
+Non-Vote
+
+9,377,995,041
+
+286,025,295
+
+37,973,660
+
+3,360,214,513
+
+5.
+
+A shareholder proposal entitled “Reincorporate with Deeper Purpose” was not approved.
+
+For
+
+Against
+
+Abstained
+
+Broker
+Non-Vote
+
+297,301,070
+
+9,290,944,230
+
+113,748,696
+
+3,360,214,513
+
+6.
+
+A shareholder proposal entitled “Transparency Reports” was not approved.
+
+For
+
+Against
+
+Abstained
+
+Broker
+Non-Vote
+
+3,042,933,417
+
+6,545,878,624
+
+113,181,955
+
+3,360,214,513
+
+7.
+
+A shareholder proposal entitled “Report on Forced Labor” was not approved.
+
+For
+
+Against
+
+Abstained
+
+Broker
+Non-Vote
+
+3,225,431,798
+
+6,341,269,524
+
+135,292,674
+
+3,360,214,513
+
+8.
+
+A shareholder proposal entitled “Pay Equity” was not approved.
+
+For
+
+Against
+
+Abstained
+
+Broker
+Non-Vote
+
+3,231,073,170
+
+6,372,272,757
+
+98,648,069
+
+3,360,214,513
+
+9.
+
+A shareholder proposal entitled “Civil Rights Audit” was approved.
+
+For
+
+Against
+
+Abstained
+
+Broker
+Non-Vote
+
+5,125,278,012
+
+4,445,469,491
+
+131,246,493
+
+3,360,214,513
+
+10.
+
+A shareholder proposal entitled “Report on Concealment Clauses” was approved.
+
+For
+
+Against
+
+Abstained
+
+Broker
+Non-Vote
+
+4,784,964,717
+
+4,777,582,306
+
+139,446,973
+
+3,360,214,513
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d)
+
+Exhibits.
+
+Exhibit
+No.
+
+Description
+
+10.1
+
+2022 Employee Stock Plan.
+
+10.2
+
+Form of Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as of March 4, 2022.
+
+10.3
+
+Form of Performance Award Agreement under 2022 Employee Stock Plan effective as of March 4, 2022.
+
+104
+
+Inline XBRL for the cover page of this Current Report on Form
+8-K.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: March 4, 2022
+
+Apple Inc.
+
+By:
+
+/s/ Katherine Adams
+
+Katherine Adams
+
+Senior Vice President, General Counsel and Secretary

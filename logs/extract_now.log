@@ -1,0 +1,6 @@
+Loaded 4910 chunks from C:\Users\NAKUL KRISHNA R\fintech-risk-intelligence\data\cleaned\chunks.csv
+Resuming: 180 chunks already extracted
+[280/4910] processed=100 parse_errors=0 avg=5.4s/chunk eta=419min
+Loaded 4910 chunks from C:\Users\NAKUL KRISHNA R\fintech-risk-intelligence\data\cleaned\chunks.csv
+Resuming: 302 chunks already extracted
+[402/4910] processed=100 parse_errors=4 avg=6.1s/chunk eta=458min

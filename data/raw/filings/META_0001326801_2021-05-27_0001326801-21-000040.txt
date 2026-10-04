@@ -1,0 +1,229 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+May 26, 2021
+
+Facebook, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+001-35551
+20-1665019
+(State or Other Jurisdiction
+of Incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+1601 Willow Road
+,
+Menlo Park
+,
+California
+
+94025
+
+(Address of principal executive offices and Zip Code)
+(
+650
+)
+543-4800
+
+(Registrant’s telephone number, including area code)
+N/A
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A Common Stock, $0.000006 par value
+FB
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+On May 26, 2021, Facebook, Inc. (the "Company") held its annual meeting of shareholders via live audio webcast (the "Annual Meeting"). At the Annual Meeting, the Company's shareholders voted on nine proposals, each of which is described in more detail in the Company's definitive proxy statement filed with the Securities and Exchange Commission on April 9, 2021 (the "Proxy Statement"). At the beginning of the Annual Meeting, there were 1,979,493,340 shares of Class A common stock and 394,040,182 shares of Class B common stock present or represented by proxy at the Annual Meeting, which represented 86.99% of the combined voting power of the shares of Class A common stock and Class B common stock entitled to vote at the Annual Meeting (voting together as a single class), and which constituted a quorum for the transaction of business. Holders of the Company's Class A common stock were entitled to one vote for each share held as of the close of business on April 1, 2021 (the "Record Date"), and holders of the Company's Class B common stock were entitled to ten votes for each share held as of the Record Date.
+The shareholders of the Company voted on the following proposals at the Annual Meeting:
+1.
+To elect nine directors, each to serve until the next annual meeting of shareholders and until his or her successor has been elected and qualified, or until his or her earlier death, resignation, or removal.
+2.
+To ratify the appointment of Ernst & Young LLP as the Company's independent registered public accounting firm for the fiscal year ending December 31, 2021.
+3.
+To approve an amendment to the director compensation policy.
+4.
+A shareholder proposal regarding dual class capital structure.
+5.
+A shareholder proposal regarding an independent chair.
+6.
+A shareholder proposal regarding child exploitation.
+7.
+A shareholder proposal regarding human/civil rights expert on board.
+8.
+A shareholder proposal regarding platform misuse.
+9.
+A shareholder proposal regarding public benefit corporation.
+1.
+Election of Directors
+Nominee
+For
+Withheld
+Broker Non-Votes
+Peggy Alford
+5,485,997,633
+212,047,001
+224,974,829
+Marc L. Andreessen
+5,001,391,366
+696,653,268
+224,974,829
+Andrew W. Houston
+5,117,937,515
+580,107,119
+224,974,829
+Nancy Killefer
+5,669,161,171
+28,883,463
+224,974,829
+Robert M. Kimmitt
+5,512,611,329
+185,433,305
+224,974,829
+Sheryl K. Sandberg
+5,626,744,141
+71,300,493
+224,974,829
+Peter A. Thiel
+5,061,785,142
+636,259,492
+224,974,829
+Tracey T. Travis
+5,631,242,105
+66,802,529
+224,974,829
+Mark Zuckerberg
+5,536,362,813
+161,681,821
+224,974,829
+Each of the nine nominees for director was elected to serve until the next annual meeting of shareholders and until his or her successor has been elected and qualified, or until his or her earlier death, resignation, or removal.
+2.
+Ratification of Appointment of Independent Registered Public Accounting Firm
+For
+Against
+Abstentions
+5,874,213,716
+44,492,802
+4,312,945
+There were no broker non-votes on this proposal.
+The shareholders ratified the appointment of Ernst & Young LLP as the Company's independent registered public accounting firm for the fiscal year ending December 31, 2021.
+3.
+Approval of an Amendment to the Director Compensation Policy
+For
+Against
+Abstentions
+Broker Non-Votes
+4,484,982,049
+1,207,893,369
+5,169,216
+224,974,829
+The shareholders approved the amendment to the director compensation policy.
+4.
+Shareholder Proposal Regarding Dual Class Capital Structure
+For
+Against
+Abstentions
+Broker Non-Votes
+1,576,747,929
+4,106,291,797
+15,004,908
+224,974,829
+The shareholders did not approve the shareholder proposal regarding dual class capital structure.
+5.
+Shareholder Proposal Regarding an Independent Chair
+For
+Against
+Abstentions
+Broker Non-Votes
+915,845,677
+4,775,659,477
+6,539,480
+224,974,829
+The shareholders did not approve the shareholder proposal regarding an independent chair.
+6.
+Shareholder Proposal Regarding Child Exploitation
+For
+Against
+Abstentions
+Broker Non-Votes
+979,571,637
+4,696,638,234
+21,834,763
+224,974,829
+The shareholders did not approve the shareholder proposal regarding child exploitation.
+7.
+Shareholder Proposal Regarding Human/Civil Rights Expert on Board
+For
+Against
+Abstentions
+Broker Non-Votes
+230,876,513
+5,453,270,271
+13,897,850
+224,974,829
+The shareholders did not approve the shareholder proposal regarding human/civil rights expert on board.
+8.
+Shareholder Proposal Regarding Platform Misuse
+For
+Against
+Abstentions
+Broker Non-Votes
+1,107,574,418
+4,573,044,219
+17,425,997
+224,974,829
+The shareholders did not approve the shareholder proposal regarding platform misuse.
+9.
+Shareholder Proposal Regarding Public Benefit Corporation
+For
+Against
+Abstentions
+Broker Non-Votes
+57,072,379
+5,625,589,656
+15,382,599
+224,974,829
+The shareholders did not approve the shareholder proposal regarding public benefit corporation.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit Number
+Exhibit Title or Description
+104
+Cover Page Interactive Data File (the cover page XBRL tags are embedded within the inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+FACEBOOK, INC.
+Date:
+May 27, 2021
+By:
+/s/ Michael Johnson
+Name: Michael Johnson
+Title: Vice President, Deputy General Counsel and Assistant Secretary

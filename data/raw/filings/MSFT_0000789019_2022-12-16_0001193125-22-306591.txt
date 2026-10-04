@@ -1,0 +1,596 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(D)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported)
+December 13, 2022
+
+Microsoft Corporation
+
+Washington
+
+001-37845
+
+91-1144442
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+One Microsoft Way
+,
+Redmond
+,
+Washington
+
+98052-6399
+
+(
+425
+)
+882-8080
+
+www.microsoft.com/investor
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol
+
+Name of exchange on which registered
+
+COMMON STOCK, $0.00000625 par value per share
+
+MSFT
+
+NASDAQ
+
+3.125% Notes due 2028
+
+MSFT
+
+NASDAQ
+
+2.625% Notes due 2033
+
+MSFT
+
+NASDAQ
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has Re-elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 5.07. Submission of Matters to a Vote of Security Holders
+
+On December 13, 2022, Microsoft Corporation (the “Company”) held its 2022 Annual Shareholders Meeting (the “Annual Meeting”). There were 7,456,502,484 shares of common stock entitled to be voted at the Annual Meeting, of which 6,407,164,715 were voted in person or by proxy. The results for each item submitted for a vote of shareholders are as follows. The shareholders:
+
+(1) Voted to elect each of the twelve (12) nominees for director.
+
+(2) Approved, on an advisory basis, the compensation of the Company’s named executive officers.
+
+(3) Voted to ratify the appointment of Deloitte & Touche LLP as the Company’s independent registered public accounting firm for fiscal year 2023.
+
+(4) Did not approve a shareholder proposal concerning a cost/benefit analysis of diversity and inclusion.
+
+(5) Did not approve a shareholder proposal concerning a report on hiring of persons with arrest or incarceration records.
+
+(6) Did not approve a shareholder proposal concerning a report on investment of retirement funds in companies contributing to climate change
+
+(7) Did not approve a shareholder proposal concerning a report on
+
+government use of Microsoft technology.
+
+(8) Did not approve a shareholder proposal concerning a report on development of products for the military.
+
+(9) Did not approve a shareholder proposal concerning a report on tax transparency.
+
+The Company’s inspector of election certified the following vote tabulations:
+
+Election of Directors
+
+Director
+
+Vote Results
+
+% Votes
+
+For
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+Reid G. Hoffman
+
+Re-elected
+
+99.36
+
+%
+
+5,160,882,524
+
+33,174,425
+
+7,489,821
+
+1,205,617,945
+
+Hugh F. Johnston
+
+Re-elected
+
+97.22
+
+%
+
+5,049,948,273
+
+144,383,497
+
+7,215,000
+
+1,205,617,945
+
+Teri L. List
+
+Re-elected
+
+98.11
+
+%
+
+5,096,798,624
+
+97,765,350
+
+6,982,796
+
+1,205,617,945
+
+Satya Nadella
+
+Re-elected
+
+94.81
+
+%
+
+4,910,653,831
+
+268,298,408
+
+22,594,531
+
+1,205,617,945
+
+Sandra E. Peterson
+
+Re-elected
+
+97.93
+
+%
+
+5,087,619,318
+
+107,175,209
+
+6,752,243
+
+1,205,617,945
+
+Penny S. Pritzker
+
+Re-elected
+
+99.62
+
+%
+
+5,175,115,956
+
+19,592,685
+
+6,838,129
+
+1,205,617,945
+
+Carlos A. Rodriguez
+
+Re-elected
+
+99.53
+
+%
+
+5,170,479,184
+
+23,953,746
+
+7,113,840
+
+1,205,617,945
+
+Charles W. Scharf
+
+Re-elected
+
+98.62
+
+%
+
+5,122,800,449
+
+71,604,817
+
+7,141,504
+
+1,205,617,945
+
+John W. Stanton
+
+Re-elected
+
+99.50
+
+%
+
+5,168,492,930
+
+25,964,121
+
+7,089,719
+
+1,205,617,945
+
+John W. Thompson
+
+Re-elected
+
+98.77
+
+%
+
+5,099,883,372
+
+63,367,837
+
+38,295,561
+
+1,205,617,945
+
+Emma N. Walmsley
+
+Re-elected
+
+98.65
+
+%
+
+5,125,070,256
+
+69,672,875
+
+6,803,639
+
+1,205,617,945
+
+Padmasree Warrior
+
+Re-elected
+
+98.64
+
+%
+
+5,124,164,692
+
+70,387,897
+
+6,994,181
+
+1,205,617,945
+
+Advisory Vote to Approve Named Executive Officer Compensation
+
+Vote result
+
+% Votes For
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+Approved
+
+88.84
+
+%
+
+4,592,889,815
+
+576,592,671
+
+32,064,284
+
+1,205,617,945
+
+Ratification of Appointment of Independent Auditor for Fisal Year 2023
+
+Vote result
+
+% Votes For
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+Approved
+
+95.37
+
+%
+
+6,090,828,328
+
+295,468,078
+
+20,868,309
+
+N/A
+
+Shareholder Proposal: Cost/Benefit Analysis of Diversity and Inclusion
+
+Vote result
+
+% Votes For
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+Not approved
+
+1.26
+
+%
+
+65,452,580
+
+5,096,572,869
+
+39,521,321
+
+1,205,617,945
+
+Shareholder Proposal: Report on Hiring of Persons with Arrest or Incarceration Records
+
+Vote result
+
+% Votes For
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+Not approved
+
+10.93
+
+%
+
+561,881,321
+
+4,575,515,870
+
+64,149,579
+
+1,205,617,945
+
+Shareholder Proposal: Report on Investment of Retirement Funds in Companies Contributing to Climate Change
+
+Vote result
+
+% Votes For
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+Not approved
+
+11.21
+
+%
+
+558,833,392
+
+4,423,581,196
+
+219,132,182
+
+1,205,617,945
+
+Shareholder Proposal: Report on Government Use of Microsoft Technology
+
+Vote result
+
+% Votes For
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+Not approved
+
+20.43
+
+%
+
+1,052,632,888
+
+4,099,222,359
+
+49,691,523
+
+1,205,617,945
+
+Shareholder Proposal: Report on Development of Products for Military
+
+Vote result
+
+% Votes For
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+Not approved
+
+10.52
+
+%
+
+538,430,806
+
+4,575,935,372
+
+87,180,592
+
+1,205,617,945
+
+Shareholder Proposal: Report on Tax Transparency
+
+Vote result
+
+% Votes For
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+Not approved
+
+22.97
+
+%
+
+1,188,222,206
+
+3,982,547,802
+
+30,776,762
+
+1,205,617,945
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+MICROSOFT CORPORATION
+
+(Registrant)
+
+Date: December 16, 2022
+
+/s/ Keith R. Dolliver
+
+Keith R. Dolliver
+
+Assistant Secretary

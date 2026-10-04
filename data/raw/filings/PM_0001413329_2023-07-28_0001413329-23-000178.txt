@@ -1,0 +1,180 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of
+The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+July 28, 2023
+
+Philip Morris International Inc.
+
+(Exact name of registrant as specified in its charter)
+Virginia
+1-33708
+13-3435103
+(State or other jurisdiction
+of incorporation)
+(Commission File Number)
+(I.R.S. Employer
+Identification No.)
+677 Washington Blvd, Ste. 1100
+Stamford
+Connecticut
+06901
+(Address of principal executive offices)
+(Zip Code)
+Registrant's telephone number, including area code: (
+203
+)
+905-2410
+
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, no par value
+PM
+New York Stock Exchange
+3.600% Notes due 2023
+PM23A
+New York Stock Exchange
+2.875% Notes due 2024
+PM24
+New York Stock Exchange
+2.875% Notes due 2024
+PM24C
+New York Stock Exchange
+0.625% Notes due 2024
+PM24B
+New York Stock Exchange
+3.250% Notes due 2024
+PM24A
+New York Stock Exchange
+2.750% Notes due 2025
+PM25
+New York Stock Exchange
+3.375% Notes due 2025
+PM25A
+New York Stock Exchange
+2.750% Notes due 2026
+PM26A
+New York Stock Exchange
+2.875% Notes due 2026
+PM26
+New York Stock Exchange
+0.125% Notes due 2026
+PM26B
+New York Stock Exchange
+3.125% Notes due 2027
+PM27
+New York Stock Exchange
+3.125% Notes due 2028
+PM28
+New York Stock Exchange
+2.875% Notes due 2029
+PM29
+New York Stock Exchange
+3.375% Notes due 2029
+PM29A
+New York Stock Exchange
+0.800% Notes due 2031
+PM31
+New York Stock Exchange
+3.125% Notes due 2033
+PM33
+New York Stock Exchange
+2.000% Notes due 2036
+PM36
+New York Stock Exchange
+1.875% Notes due 2037
+PM37A
+New York Stock Exchange
+6.375% Notes due 2038
+PM38
+New York Stock Exchange
+1.450% Notes due 2039
+PM39
+New York Stock Exchange
+4.375% Notes due 2041
+PM41
+New York Stock Exchange
+4.500% Notes due 2042
+PM42
+New York Stock Exchange
+3.875% Notes due 2042
+PM42A
+New York Stock Exchange
+4.125% Notes due 2043
+PM43
+New York Stock Exchange
+4.875% Notes due 2043
+PM43A
+New York Stock Exchange
+4.250% Notes due 2044
+PM44
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 8.01.
+Other Events.
+On July 28, 2023, Swedish Match AB (publ) (“Swedish Match”), a wholly owned subsidiary of Philip Morris International Inc. (“PMI”), held a meeting (the “Meeting”) of the holders (the “Noteholders”) of the following series of notes (each a “Series” and together the “Notes”) issued by Swedish Match:
+Description of Notes
+Aggregate Nominal Amount Outstanding
+ISIN/Common Code
+USD 50,000,000 4.00 per cent. Fixed Rate Notes due 31 May 2028
+USD 50,000,000
+XS0939505003 / 093950500
+SEK 250,000,000 Floating Rate Notes due October 2023
+SEK 250,000,000
+XS1400621030 / 140062103
+EUR 300,000,000 0.875 per cent. Fixed Rate Notes due 23 September 2024
+EUR 300,000,000
+XS1493333717 / 149333371
+EUR 300,000,000 1.20 per cent. Fixed Rate Notes due 10 November 2025
+EUR 300,000,000
+XS1715328768 / 171532876
+SEK 1,000,000,000 2.71 per cent. Fixed Rate Notes due 28 January 2026
+SEK 1,000,000,000
+XS1940966317 / 194096631
+EUR 300,000,000 0.875 per cent. Fixed Rate Notes due 26 February 2027
+EUR 300,000,000
+XS2125123039 / 212512303
+SEK 1,200,000,000 1.395 per cent. Fixed Rate Notes due 24 February 2026
+SEK 1,200,000,000
+XS2306815114 / 230681511
+SEK 300,000,000 2.19 per cent. Fixed Rate Notes due 12 April 2029
+SEK 300,000,000
+XS2329603539 / 232960353
+The eligible Noteholders were asked to consent, by way of an extraordinary resolution (the “Extraordinary Resolution”), to modify certain terms and conditions in respect of the Notes.
+At the Meeting, the Extraordinary Resolution was duly passed and the other effectiveness conditions of the Extraordinary Resolution have also been satisfied, thereby (i) amending certain terms of the Notes, thereby removing Swedish Match’s obligation under the Notes to prepare audited consolidated financial accounts; (ii) amending the events of default under the conditions for each Series so that such events of default are limited to Swedish Match and do not extend to certain of its subsidiaries, as well as deleting the existing cross-default provision and imposing no restrictions on Swedish Match’s ability to manage its subsidiaries, including any potential sale, disposal (including intragroup asset or share transfers) or dissolution; and (iii) procuring a guarantee from PMI of Swedish Match’s payment obligations under the Notes (the “Guarantee”).
+As a result of the passage of the Extraordinary Resolution, PMI entered into the Guarantee, effective as of July 28, 2023, which guarantees unconditionally and irrevocably to the Noteholders the punctual payment when due, whether at stated maturity, by acceleration or otherwise, of the principal, premium, if any, and interest on the Notes, according to the terms of the Notes and the conditions in respect of each Series, and any other amounts payable by Swedish Match under the Notes. Under the Guarantee, PMI agrees that, if and each time that Swedish Match shall fail to make any payment under the Notes as and when the same becomes due, PMI will on demand make such payment to the relevant Noteholder in the amount and currency then payable by Swedish Match.
+The Notes provide for customary events of default typical for notes of this nature.
+As previously disclosed, as of November 11, 2022, Swedish Match’s obligations under the Notes are included in PMI’s consolidated financial statements, and, as a result, the Guarantee does not affect PMI’s debt on a consolidated basis.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+PHILIP MORRIS INTERNATIONAL INC.
+By:
+/s/ DARLENE QUASHIE HENRY
+Name:
+Darlene Quashie Henry
+Title:
+Vice President, Associate General Counsel & Corporate Secretary
+Date: July 28, 2023

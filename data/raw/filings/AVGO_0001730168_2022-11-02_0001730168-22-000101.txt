@@ -1,0 +1,175 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+October 31, 2022
+
+Broadcom Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+Delaware
+001-38449
+35-2617337
+(State or other jurisdiction of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+1320 Ridder Park Drive
+San Jose,
+California
+95131-2313
+(Address of principal executive offices including zip code)
+(408)
+433-8000
+( Registrant’s telephone number, including area code)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol(s)
+Name of Each Exchange on Which Registered
+Common Stock, $0.001 par value
+AVGO
+The NASDAQ Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+¨
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain
+Officers; Compensatory Arrangements of Certain Officers.
+On October 31, 2022 (the “
+Grant Date
+”), in connection with the annual equity incentive award grant review and in consultation with its independent compensation consultant, the independent members of the Board of Directors (the “
+Board
+”) of Broadcom Inc. (the “
+Company
+”) granted Hock E. Tan, the Company’s President and Chief Executive Officer, an award of performance stock units (the “
+PSUs
+”) with vesting contingent on both achievement of formidable stock price performance milestones and continued service requirements over a five-year period (the “
+Tan PSU Award
+”).
+In addition, the Compensation Committee of the Board (the “
+Compensation Committee
+”), in consultation with its independent compensation consultant, granted Charlie B. Kawwas, Ph.D., the Company’s President of the Semiconductor Solutions Group, on the Grant Date an award of PSUs with similar vesting terms as are in the Tan PSU Award contingent on both achievement of formidable stock performance milestones and continued service requirements over a five-year period (the “
+Kawwas PSU Award
+,” and together with the
+Tan PSU Award
+, the “
+PSU Awards
+”).
+
+Leading Broadcom through the Next Stage of Growth
+The Board approved the Tan PSU Award to incentivize achievement of the Company’s long-term growth strategy and drive substantial return to stockholders by (i) aligning Mr. Tan’s interests with those of the Company’s stockholders by shifting material elements of Mr. Tan’s compensation opportunity to performance-based compensation and (ii) providing a significant incentive for Mr. Tan to continue to lead the Company, while executing critical growth initiatives, including the pending acquisition of VMware, Inc.
+
+Under Mr. Tan’s leadership, the Company increased total shareholder return by over 3,500% since its initial public offering in 2009. Mr. Tan has been and continues to be the driving force behind the Company’s transformation from a semiconductor company into the world’s leading infrastructure technology company that is poised to continue its platform expansion to accelerate innovation and address the most complex information technology infrastructure needs. The Board believes that Mr. Tan’s leadership is a key factor for the Company’s ongoing success and growth potential, and thus, a long-term equity incentive program that motivates Mr. Tan to realize the Company’s success and growth potential is in the best interests of all of its stockholders.
+The Compensation Committee approved the Kawwas PSU Award to reflect Dr. Kawwas’ promotion as the Company’s President of the Semiconductor Solutions Group in July 2022 and increased responsibilities in overseeing the Company’s broad semiconductor portfolio
+in addition to continuing to oversee the Company’s worldwide semiconductor sales and global operations,
+and to provide a significant incentive for Dr. Kawwas to continue to contribute towards the achievement of the Company’s long-term performance goals.
+
+In approving the PSU Awards, the Board and the Compensation Committee recognized, among other things, the unique blend of leadership, experience and knowledge that Mr. Tan and Dr. Kawwas bring to the Company and the continued importance of their strategic contributions in leading the Company’s long-term growth strategy that creates substantial value for the Company and its stockholders.
+Incentive Opportunities Aligned with Stockholders
+The Board designed the PSU Awards to be 100% at risk and to deliver value to Mr. Tan and Dr. Kawwas only if the Company’s stockholders have also received significant and sustained value appreciation during the five-year performance period (the “
+Performance Period
+”).
+
+The shares of the Company’s common stock (the “
+Shares
+”) under the PSU Awards can be earned only during the period beginning after the third anniversary of the Grant Date and concluding on the fifth anniversary of the Grant Date (the “
+Earning Period
+”) (i) if the Company’s consecutive 20-trading days closing stock price average (the “
+Average Stock Price
+”) meets or exceeds the pre-set stock price hurdles during the Earning Period and (ii) there is no termination of employment, consultancy or Board membership (the “
+Termination of Services
+”), except as otherwise set forth below.
+
+The Shares under the PSU Awards will vest on the fifth anniversary of the Grant Date, without any interim vesting opportunities and except as otherwise set forth below.
+
+Terms of the PSU Awards
+The Tan PSU Award provides Mr. Tan with an opportunity to earn up to 1,000,000 Shares and the Kawwas PSU Award provides Dr. Kawwas with an opportunity to earn up to 300,000 Shares on the fifth anniversary of the Grant Date if the Average Stock Price meets or exceeds the pre-set stock price hurdles during the Earning Period as set forth below.
+For Mr. Tan, the Shares under the Tan PSU Award will vest on the fifth anniversary of the Grant Date if the following occurs during the Earning Period: (i) if the Average Stock Price equals or exceeds $825, 333,333 Shares will vest; (ii) if the Average Stock Price equals or exceeds $950, another 333,334 Shares will vest; and (iii) if the Average Stock Price equals or exceeds $1,125, another 333,333 Shares will vest (the “
+Tan Milestones
+”).
+
+For Dr. Kawwas, the Shares under the Kawwas PSU Award will vest on the fifth anniversary of the Grant Date if the following occurs during the Earning Period: (i) if the Average Stock Price equals or exceeds $825, 100,000 Shares will vest; (ii) if the Average Stock Price equals or exceeds $950, another 100,000 Shares will vest; and (iii) if the Average Stock Price equals or exceeds $1,125, another 100,000 Shares will vest (the “
+Kawwas Milestones
+,” and together with the Tan Milestones, the “
+Milestones
+”).
+
+These stock price hurdles reflect a 75.5%, 102.1% and 139.3% increase to the Grant Date closing stock price over a five-year period.
+
+If the Average Stock Price does not equal or exceed $825 during the Earning Period, the PSU Awards will be forfeited in full on the fifth anniversary of the Grant Date.
+
+There will be no linear interpolation between the Milestones; no additional Shares will vest if a stock price hurdle is attained more than once; no cash dividend equivalent rights will be credited or paid; and the maximum aggregate amount of Shares that may vest will not exceed the maximum number of Shares provided above for Mr. Tan and Dr. Kawwas.
+
+The grant date fair value of the maximum vesting opportunities for these PSU Awards (per the Accounting Standards Codification Topic Number 718) is estimated to be $161 million for Mr. Tan and $48 million for Dr. Kawwas.
+In the event Mr. Tan or Dr. Kawwas incurs a Termination of Services during the Performance Period, 100% of the PSU Awards will be forfeited and the Shares will not be issued, except as otherwise set forth below.
+If, prior to the Earning Period, Mr. Tan or Dr. Kawwas incurs a Termination of Services (i) by the executive for Good Reason (as defined in Mr. Tan’s and Dr. Kawwas’ Severance Benefit Agreement), (ii) by the Company without Cause (as defined in Mr. Tan’s and Dr. Kawwas’ Severance Benefit Agreement), or (iii) due to death or Permanent Disability (as defined in the PSU Awards) (each, a “
+Covered Termination
+”),
+the Performance Period will end and the Average Stock Price will be subject to a compound annual growth rate (CAGR) calculation. For the Shares to be issuable, the calculated CAGR must equal or exceed
+11.9%, 15.1%
+or
+19.1% (the “
+CAGR Milestones
+”),
+and the issuable Shares will be pro rated.
+If, during the Earning Period, Mr. Tan or Dr. Kawwas incurs a Covered Termination or, in the case of Mr. Tan, retirement, the
+Earning Period will end and the Average Stock Price will be determined; provided, however, in the event of retirement, the issuable Shares will be pro rated.
+In the event of both a Change in Control (as defined in the PSU Awards) and a Covered Termination, the Performance Period will end within ten days prior to the closing of the Change in Control, the Average Stock Price will be determined based on
+the greater of (i) the Average Stock Price ending on (and including) the last trading day of the shortened Performance Period and (ii) the price per Share paid by the successor in the Change in Control transaction, and the issuable Shares will vest.
+If, however,
+a Change in Control and a Covered Termination occur prior to the Earning Period
+,
+the determination of issuable Shares will be subject to the CAGR Milestones.
+The foregoing description of the PSU Awards does not purport to be complete and is qualified in its entirety by reference to the form of PSU Award Agreement, which is attached as Exhibit 10.1 to this report and incorporated by reference herein.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit No.
+Description
+10.1
+Form of
+
+Performance
+Stock Unit
+Award A
+g
+reement
+(
+Price Contingency)
+under
+Br
+oadcom Inc. 2012
+Stock
+In
+centive Plan.
+104
+Cover Page Interactive Data File (formatted as Inline XBRL).
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Date:
+November 2, 2022
+
+Broadcom Inc.
+By:
+/s/ Kirsten Spears
+Name:
+Kirsten Spears
+Title:
+Vice President, Chief Financial Officer and Chief Accounting Officer

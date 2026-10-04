@@ -1,0 +1,216 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington
+, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+
+February 12, 2024
+
+ABBVIE INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-35565
+
+32-0375147
+
+(State or other jurisdiction
+of incorporation or organization)
+
+(Commission File Number)
+
+(I.R.S. Employer
+Identification Number)
+
+1 North Waukegan Road
+
+North Chicago
+,
+Illinois
+
+60064-6400
+
+(Address of principal executive offices)(Zip Code)
+
+Registrant’s telephone number, including area code:
+(
+847
+)
+932-7900
+
+Former name or former address,
+if changed since last report:
+Not Applicable
+
+Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation to the registrant under any of the following provisions:
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title
+of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, $0.01 Par Value
+
+ABBV
+
+New York Stock Exchange
+
+Chicago Stock Exchange
+
+1.375% Senior Notes due 2024
+
+ABBV24
+
+New York Stock Exchange
+
+1.250% Senior Notes due 2024
+
+ABBV24B
+
+New York Stock Exchange
+
+0.750% Senior Notes due 2027
+
+ABBV27
+
+New York Stock Exchange
+
+2.125% Senior Notes due 2028
+
+ABBV28
+
+New York Stock Exchange
+
+2.625% Senior Notes due 2028
+
+ABBV28B
+
+New York Stock Exchange
+
+2.125% Senior Notes due 2029
+
+ABBV29
+
+New York Stock Exchange
+
+1.250% Senior Notes due 2031
+
+ABBV31
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+¨
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+
+Common Stock, $0.01 Par Value
+
+ABBV
+
+Item 7.01
+Regulation FD Disclosure
+
+On February 12, 2024, AbbVie Inc. (the “Company”)
+issued a press release announcing the completion of its acquisition of ImmunoGen, Inc. The press release is attached hereto as Exhibit 99.1
+and incorporated by reference herein.
+
+The information in this Item 7.01, including the exhibit referenced
+herein and attached hereto, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of
+1934 (the “Exchange Act”), nor shall it be deemed incorporated by reference in any Company filing under the Securities Act
+of 1933 or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+
+Forward-Looking Statements
+
+Some statements in this Current Report on Form 8-K are, or may
+be considered, forward-looking statements for purposes of the Private Securities Litigation Reform Act of 1995. The words “believe,”
+“expect,” “anticipate,” “project” and similar expressions and uses of future or conditional verbs,
+generally identify forward-looking statements. The Company cautions that these forward-looking statements are subject to risks and uncertainties
+that may cause actual results to differ materially from those expressed or implied in the forward-looking statements. Such risks and uncertainties
+include, but are not limited to, risks related to the ability to realize the anticipated benefits of the ImmunoGen acquisition on the
+anticipated timeframe or at all, risks that the cost to consummate the ImmunoGen acquisition or to obtain the anticipated benefits of
+the acquisition could be greater than expected, the risk that the ImmunoGen business will not be integrated successfully, disruption from
+the ImmunoGen acquisition making it more difficult to maintain business and operational relationships, the diversion of management’s
+attention from ongoing business operations and opportunities, negative effects of the consummation of the acquisition on business or employee
+relationships or the market price of AbbVie’s common stock and/or operating results, significant transaction costs, the assumption
+of unknown liabilities, the risk of litigation and/or regulatory actions related to the acquisition or ImmunoGen’s business, challenges
+to intellectual property, competition from other products, difficulties inherent in the research and development process, adverse litigation
+or government action, and changes to laws and regulations applicable to our industry. Additional information about the economic, competitive,
+governmental, technological and other factors that may affect the Company’s operations is set forth in Item 1A, “Risk Factors,”
+of the Company’s 2022 Annual Report on Form 10-K, which has been filed with the Securities and Exchange Commission (the “SEC”),
+as updated by its subsequent Quarterly Reports on Form 10-Q and in other documents that the Company subsequently files with the SEC
+that update, supplement or supersede such information. The Company undertakes no obligation, and specifically declines, to release publicly
+any revisions to forward-looking statements as a result of subsequent events or developments, except as required by law.
+
+Item 9.01
+
+Financial Statements and Exhibits
+
+Exhibit No.
+
+Description
+
+99.1
+
+Press Release, dated February 12, 2024, issued by AbbVie Inc.
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ABBVIE INC.
+
+Date: February 12, 2024
+
+By:
+
+/s/ Scott T. Reents
+
+Scott T. Reents
+
+Executive Vice President,
+
+Chief Financial Officer

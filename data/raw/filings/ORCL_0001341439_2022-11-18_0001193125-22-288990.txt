@@ -1,0 +1,294 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+November 16, 2022
+
+Oracle Corporation
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-35992
+
+54-2185193
+
+(State or other jurisdiction of
+
+incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+2300 Oracle Way
+,
+Austin
+,
+Texas
+
+78741
+
+(Address of principal executive offices) (Zip Code)
+
+(737)
+
+867-1000
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock, par value $0.01 per share
+
+ORCL
+
+New York Stock Exchange
+
+3.125% senior notes due July 2025
+
+ORCL
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Section 5—Corporate Governance and Management
+
+Item 5.07 Submission of Matters to a Vote of Security Holders
+
+On November 16, 2022, Oracle Corporation (“Oracle”) held its 2022 Annual Meeting of Stockholders (the “Annual Meeting”). Below is a brief description of each matter submitted to a vote at the Annual Meeting, as well as the final voting results with respect to each matter. For more information about these proposals, please refer to Oracle’s definitive proxy statement filed with the U.S. Securities and Exchange Commission on September 23, 2022.
+
+Proposal No.
+1: Election of Directors
+
+The stockholders elected each of the following persons as a director to hold office until the 2023 Annual Meeting of Stockholders and until his or her successor is elected and qualified, or until his or her earlier resignation or removal.
+
+Director Nominee
+
+Votes For
+
+Votes Withheld
+
+Broker Non-Votes
+
+Awo Ablo
+
+2,231,053,646
+
+5,861,351
+
+256,517,676
+
+Jeffrey S. Berg
+
+1,743,133,996
+
+493,781,001
+
+256,517,676
+
+Michael J. Boskin
+
+1,862,344,383
+
+374,570,614
+
+256,517,676
+
+Safra A. Catz
+
+1,878,963,941
+
+357,951,056
+
+256,517,676
+
+Bruce R. Chizen
+
+1,719,483,874
+
+517,431,123
+
+256,517,676
+
+George H. Conrades
+
+1,553,704,099
+
+683,210,898
+
+256,517,676
+
+Lawrence J. Ellison
+
+1,910,287,327
+
+326,627,670
+
+256,517,676
+
+Rona A. Fairhead
+
+1,934,398,729
+
+302,516,268
+
+256,517,676
+
+Jeffrey O. Henley
+
+1,926,939,272
+
+309,975,725
+
+256,517,676
+
+Renée J. James
+
+1,944,491,166
+
+292,423,831
+
+256,517,676
+
+Charles W. Moorman
+
+1,626,573,699
+
+610,341,298
+
+256,517,676
+
+Leon E. Panetta
+
+1,568,288,384
+
+668,626,613
+
+256,517,676
+
+William G. Parrett
+
+1,809,849,147
+
+427,065,850
+
+256,517,676
+
+Naomi O. Seligman
+
+1,581,044,204
+
+655,870,793
+
+256,517,676
+
+Vishal Sikka
+
+1,944,401,518
+
+292,513,479
+
+256,517,676
+
+Proposal No.
+2: Advisory Vote to Approve the Compensation of Oracle’s Named Executive Officers
+
+The stockholders cast an advisory vote approving the compensation of Oracle’s named executive officers as follows: 1,495,324,338 shares in favor, 736,954,726 shares against, 4,635,933 shares abstaining and 256,517,676 broker
+non-votes.
+
+Proposal No.
+3: Ratification of Selection of Independent Registered Public Accounting Firm
+
+The stockholders ratified the appointment of Ernst & Young LLP as Oracle’s independent registered public accounting firm for the fiscal year ending May 31, 2023, with 2,444,659,366 shares in favor, 45,744,826 shares against and 3,028,481 shares abstaining.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ORACLE CORPORATION
+
+Dated: November 18, 2022
+
+By:
+
+/s/ Kimberly Woolley
+
+Name:
+
+Kimberly Woolley
+
+Title:
+
+Vice President, Assistant General Counsel and Assistant Secretary

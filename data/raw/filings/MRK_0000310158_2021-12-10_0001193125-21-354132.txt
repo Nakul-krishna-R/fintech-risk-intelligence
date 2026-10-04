@@ -1,0 +1,209 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported):
+December 10, 2021
+
+Merck & Co., Inc.
+
+(Exact name of registrant as specified in its charter)
+
+New Jersey
+
+1-6571
+
+22-1918501
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+2000 Galloping Hill Road
+,
+Kenilworth
+,
+NJ
+
+07033
+
+(Address of principal executive offices)
+
+(Zip code)
+
+(Registrant’s telephone number, including area code):
+(908)
+
+740-4000
+
+Not Applicable
+
+(Former name or former address if changed since last report.)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+
+Trading
+
+Symbol(s)
+
+Name of Each Exchange
+
+on which Registered
+
+Common Stock ($0.50 par value)
+
+MRK
+
+New York Stock Exchange
+
+0.500% Notes due 2024
+
+MRK 24
+
+New York Stock Exchange
+
+1.875% Notes due 2026
+
+MRK/26
+
+New York Stock Exchange
+
+2.500% Notes due 2034
+
+MRK/34
+
+New York Stock Exchange
+
+1.375% Notes due 2036
+
+MRK 36A
+
+New York Stock Exchange
+
+Item 8.01 Other Events.
+
+On December 10, 2021, Merck & Co., Inc. (the “Company”) closed an underwritten public offering of $1,500,000,000 aggregate principal amount of 1.700% Notes due 2027 (the “2027 Notes”), $1,000,000,000 aggregate principal amount of 1.900% Notes due 2028 (the “2028 Notes”), $2,000,000,000 aggregate principal amount of 2.150% Notes due 2031 (the “2031 Notes”), $2,000,000,000 aggregate principal amount of 2.750% Notes due 2051 (the “2051 Notes”) and $1,500,000,000 aggregate principal amount of 2.900% Notes due 2061 (the “2061 Notes” and, together with the 2027 Notes, the 2028 Notes, the 2031 Notes and the 2051 Notes, collectively, the “Notes”) under the Company’s Registration Statement on Form
+S-3ASR
+
+(Registration No. 333-254703).
+
+The Notes are being issued under an indenture dated as of January 6, 2010, between the Company and U.S. Bank Trust National Association, as trustee, a copy of which was attached as Exhibit 4.1 to the Company’s Current Report on Form
+8-K
+previously filed with the Securities and Exchange Commission on December 10, 2010 and is incorporated herein by reference. Copies of the officers’ certificate for each series of the Notes (including forms of each of the respective Notes attached thereto) pursuant to Section 301 of the indenture governing the Notes are attached hereto as exhibits 4.1, 4.2, 4.3, 4.4 and 4.5 and are incorporated herein by reference. The legal opinion related to these Notes is attached hereto as Exhibit 5.1 and is incorporated herein by reference.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d)
+Exhibits
+
+Exhibit 4.1
+
+1.700% Notes due 2027 Officers’ Certificate of the Company dated December 10, 2021, including form of the 2027 Notes.
+
+Exhibit 4.2
+
+1.900% Notes due 2028 Officers’ Certificate of the Company dated December 10, 2021, including form of the 2028 Notes.
+
+Exhibit 4.3
+
+2.150% Notes due 2031 Officers’ Certificate of the Company dated December 10, 2021, including form of the 2031 Notes.
+
+Exhibit 4.4
+
+2.750% Notes due 2051 Officers’ Certificate of the Company dated December 10, 2021, including form of the 2051 Notes.
+
+Exhibit 4.5
+
+2.900% Notes due 2061 Officers’ Certificate of the Company dated December 10, 2021, including form of the 2061 Notes.
+
+Exhibit 5.1
+
+Opinion and Consent of Jennifer Zachary, Esq., Executive Vice President, General Counsel and Corporate Secretary of the Company.
+
+Exhibit 23.1
+
+Consent of Jennifer Zachary, Esq., Executive Vice President, General Counsel and Corporate Secretary of the Company (contained in Exhibit 5.1 to this Current Report on Form
+8-K).
+
+Exhibit 104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Merck & Co., Inc.
+
+Date: December 10, 2021
+
+By:
+
+/s/ Kelly E. W. Grez
+
+Kelly E. W. Grez
+
+Deputy Corporate Secretary

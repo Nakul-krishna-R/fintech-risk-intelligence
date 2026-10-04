@@ -1,0 +1,177 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+September 3, 2021
+
+VISA INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+Delaware
+
+001-33977
+
+26-0267673
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+Identification No.)
+
+P.O. Box 8999
+
+San Francisco,
+California
+
+94128-8999
+(Address of Principal Executive Offices)
+(Zip Code)
+Registrant’s Telephone Number, Including Area Code: (
+650
+)
+432-3200
+
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Class A common stock, par value $0.0001 per share
+V
+New York Stock Exchange
+(Title of each Class)
+(Trading Symbol)
+(Name of each exchange on which registered)
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 7.01
+Regulation FD Disclosure.
+Visa continues to monitor the COVID-19 impact globally. As in prior periods, we have provided performance metrics for year-over-year growth rates as well as relative to fiscal 2019.
+From August 1-28 ("August"), U.S. payments volume was 30 points above 2019 levels but fell slightly from July, with Credit down 2 points and Debit down 4 points. Card not present excluding travel was 151% of 2019, down 6 points from July, while card present remained at 115% of 2019. Across categories relative to 2019, August food, drug and fuel spending improved and all other categories declined from July, including travel spending, which was down 7 points but consistent with early June levels.
+International market payments volume trends in August versus the same period in 2019 generally increased from July levels, with the exception of declines in select Asian countries and in New Zealand, which was impacted by recently instituted COVID-related restrictions. India continued its strong recovery from prior lows and Europe experienced improvements in several markets.
+Cross-border volume excluding intra-Europe transactions improved 4 points from July to 85% of 2019 in August, with card not present excluding travel volume at 141% of 2019 and total card present and card not present travel improving 4 points from July to 59% of 2019 – its highest level yet in the pandemic. Total cross-border volume increased to 99% of 2019.
+Global processed transactions were 125% of 2019 in August, which was 1 point better than July.
+The tables below show the increase / (decrease) and indexed results in certain key metrics against the comparable 2020 and 2019 periods, respectively, for July, August (1-28) and quarter-to-date (July 1 – August 28, 2021):
+Increase / (Decrease) Year-over-Year
+July
+August
+Quarter-to-Date
+U.S. Payments Volume
+23%
+21%
+22%
+Credit
+30%
+26%
+28%
+Debit
+18%
+17%
+17%
+Cross-Border Volume Excluding Intra-Europe Transactions*
+44%
+48%
+46%
+Cross-Border Volume Total*
+35%
+40%
+37%
+Processed Transactions
+23%
+21%
+22%
+Indexed to 2019 with a Baseline of 100
+July
+August
+Quarter-to-Date
+U.S. Payments Volume
+133
+130
+131
+Credit
+119
+117
+118
+Debit
+148
+144
+146
+Cross-Border Volume Excluding Intra-Europe Transactions*
+81
+85
+83
+Cross-Border Volume Total*
+93
+99
+96
+Processed Transactions
+124
+125
+124
+*In constant dollars
+Charts that follow provide growth and index trends against the comparable 2020 and 2019 periods, respectively, by month for U.S. payments volumes, processed transactions and cross-border volumes. Please note that August represents August 1-28. When indexed, the 2019 baseline is 100.
+The foregoing information is preliminary in nature and has not been audited or reviewed by our auditors and is subject to change.
+All information in Item 7.01 is furnished but not filed and shall not be deemed to be incorporated by reference into any of Visa’s filings under the Securities Act of 1933 or the Securities Exchange Act of 1934 except to the extent otherwise set forth therein.
+Forward-Looking Statements
+This current report contains forward-looking statements within the meaning of the U.S. Private Securities Litigation Reform Act of 1995 that relate to, among other things, the impact on our underlying business drivers and other volume and transaction trends as a result of COVID-19, our future operations, prospects, developments, strategies and business growth. Forward-looking statements generally are identified by words such as “anticipates,” “estimates,” “expects,” “intends,” “may,” “projects,” “outlook,” “could,” “should,” “will,” “continue” and other similar expressions. All statements other than statements of historical fact could be forward-looking statements, which speak only as of the date they are made, are not guarantees of future performance and are subject to certain risks, uncertainties and other factors, many of which are beyond our control and are difficult to predict.
+Actual results could differ materially from those expressed in, or implied by, our forward-looking statements due to a variety of factors, including, but not limited to:
+•
+impact of global economic, political, market, health and social events or conditions, including the impact of COVID-19, the measures taken in response, as well as the speed and strength of an economic recovery;
+•
+increased oversight and regulation of the global payments industry and our business;
+•
+impact of government-imposed obligations and/or restrictions on international payment systems;
+•
+outcome of tax, litigation and governmental investigation matters;
+•
+increasingly intense competition in the payments industry, including competition for our clients and merchants;
+•
+proliferation and continuous evolution of new technologies and business models;
+•
+our ability to maintain relationships with our clients, acquirers, processors, merchants and other third parties;
+•
+brand or reputational damage;
+•
+exposure to loss or illiquidity due to settlement guarantees;
+•
+the impact of the United Kingdom’s withdrawal from the European Union;
+•
+a disruption, failure, breach or cyber-attack of our networks or systems;
+•
+risks, uncertainties and the failure to achieve the anticipated benefits with respect to our acquisitions and other strategic investments; and
+•
+other factors described in our filings with the U.S. Securities and Exchange Commission, including our Annual Report on Form 10-K for the year ended September 30, 2020, and our subsequent reports on Forms 10-Q and 8-K.
+Except as required by law, we do not intend to update or revise any forward-looking statements as a result of new information, future events or otherwise.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VISA INC.
+
+Date: September 3, 2021
+
+By:
+
+/s/ Vasant M. Prabhu
+
+Vasant M. Prabhu
+Vice Chairman and Chief Financial Officer

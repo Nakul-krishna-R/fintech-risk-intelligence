@@ -1,0 +1,202 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+June 1, 2021
+
+Amgen Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-37702
+
+95-3540776
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+One Amgen Center Drive
+Thousand Oaks
+California
+
+91320-1799
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+
+(
+805
+)
+447-1000
+
+Not Applicable
+
+(Former Name or Former Address, if Changed since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities Registered under Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock $0.0001 par value
+
+AMGN
+
+The Nasdaq Stock Market LLC
+
+1.250% Senior Notes Due 2022
+
+AMGN22
+
+The Nasdaq Stock Market LLC
+
+2.000% Senior Notes Due 2026
+
+AMGN26
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01.
+
+Entry Into a Material Definitive Agreement.
+
+On June 1, 2021 (the “
+Effective Date
+”), Amgen Inc. (“
+Amgen
+”) entered into a License and Collaboration Agreement (the “
+Collaboration Agreement
+”) with Kyowa Kirin Co., Ltd. (“
+KKC
+”), pursuant to which Amgen and KKC will collaborate on the development and commercialization of KHK4083 (the “
+Product
+”), an anti-OX40 fully human monoclonal antibody, worldwide, except Japan (the “
+Territory
+”).
+
+The Collaboration Agreement and transactions contemplated thereunder have been approved by the boards of directors of both Amgen and KKC. The consummation of the Agreement is subject to obtaining any necessary consents and approvals, including those that may be required by regulators.
+
+Under the terms of the Collaboration Agreement, Amgen will lead the development, manufacturing and commercialization for the Product in the Territory, under the oversight of joint governing bodies. Additionally, KKC will
+co-promote
+the Product with Amgen in the U.S. and
+co-market
+the Product in South Korea, and KKC will also have
+opt-in
+rights to
+co-promote
+the Product in certain other markets outside the U.S. Amgen and KKC will share global development costs and U.S. commercialization costs. Amgen will book all revenue from sales in the Territory. KKC will provide to Amgen certain drug supplies necessary for the development of the Product, with the understanding that Amgen will assume responsibility for manufacturing commercial product.
+
+Amgen will make a $400 million
+one-time
+upfront payment, as well as future contingent milestone payments potentially worth up to an additional $850 million, and pay significant royalties on any net sales in the U.S. and significant, tiered royalties on any net sales in the
+Ex-U.S
+Territory, until the latest of (i) the expiration of the last valid patent claim owned or exclusively controlled by KKC, (ii) the expiration of regulatory exclusivity, or (iii) the earlier of (x) ten years after the first commercial sale of such product in the country of sale or (y) 20 years after the first commercial sale of such product anywhere in the world.
+
+The Collaboration Agreement contains customary representations, warranties and covenants by the parties, and will continue in effect unless terminated by either party pursuant to its terms. Either Amgen or KKC may terminate the Collaboration Agreement in its entirety for the other side’s insolvency, uncured material breach or failure to comply with specified compliance provisions. Amgen may terminate the Collaboration Agreement for convenience upon prior written notice.
+
+During the term of the Collaboration Agreement, Amgen and KKC are subject to certain restrictions in the Territory and worldwide related to the clinical development, commercial manufacture, distribution and commercialization of certain products that, as a therapeutic mechanism of action, are directed to the same target as the Product and are expected to treat the same inflammation-related diseases and conditions as treated by the Product.
+
+The foregoing description of the terms of the Collaboration Agreement is not complete and is qualified in its entirety by reference to the Collaboration Agreement, a copy of which Amgen intends to file as an exhibit to a subsequent periodic report.
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+Amgen has issued a press release which is attached hereto as Exhibit 99.1 and incorporated into this Item 7.01 by reference.
+
+The information contained in this Item 7.01 and Exhibit 99.1 shall not be deemed to be “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “
+Exchange Act
+”), or otherwise subject to the liabilities of such section, nor will such information be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as may be expressly set forth by specific reference in such filing.
+
+-1-
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit
+
+Description
+
+99.1
+
+Press Release, dated June 1, 2021.
+
+104
+
+Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document).
+
+-2-
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+AMGEN INC.
+
+Date: June 1, 2021
+
+By:
+
+/s/ Jonathan P. Graham
+
+Name:
+
+Jonathan P. Graham
+
+Title:
+
+Executive Vice President, General Counsel and Secretary

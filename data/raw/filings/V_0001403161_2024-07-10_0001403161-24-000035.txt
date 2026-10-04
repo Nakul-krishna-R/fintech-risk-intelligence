@@ -1,0 +1,99 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+July 10, 2024
+
+VISA INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+Delaware
+
+001-33977
+
+26-0267673
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+Identification No.)
+
+P.O. Box 8999
+
+San Francisco,
+California
+
+94128-8999
+(Address of Principal Executive Offices)
+(Zip Code)
+Registrant’s Telephone Number, Including Area Code: (
+650
+)
+432-3200
+
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Class A Common Stock, par value $0.0001 per share
+V
+New York Stock Exchange
+1.500% Senior Notes due 2026
+V26
+New York Stock Exchange
+2.000% Senior Notes due 2029
+V29
+New York Stock Exchange
+2.375% Senior Notes due 2034
+V34
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 3.02
+
+Unregistered Sales of Equity Securities.
+On July 10, 2024, Visa Inc. (“Visa” or the “Company”) announced that it will release approximately $2.7 billion from its Series B and Series C Convertible Participating Preferred Stock (“Series B Preferred Stock” and “Series C Preferred Stock,” respectively, and collectively, “Preferred Stock”) in connection with the third mandatory release assessment on June 21, 2024, the eighth anniversary of the Visa Europe acquisition transaction and the issuance of the Preferred Stock. As required by the Litigation Management Deed (“LMD”) entered into at the time of the transaction, at each release assessment, Visa, in consultation with the Litigation Management Committee comprising representatives of former Visa Europe members (“LMC”), performs a conservative assessment of the ongoing risk of liability to Visa and its subsidiaries arising from certain existing and potential litigation relating to the setting of multilateral interchange fee rates in the Visa Europe territory. Visa and the LMC have followed the procedures identified in the LMD, and the third release amount is now final.
+The release will result in a downward adjustment of the Class A Common Equivalent Number (as defined in the certificates of designations (“CODs”) for the Preferred Stock), and a partial conversion of the Preferred Stock into Series A Convertible Participating Preferred Stock (“Series A Preferred Stock”) in accordance with the applicable COD, each of which was filed as an exhibit to Visa’s Annual Report on Form 10-K for the fiscal year ended September 30, 2023. The adjustments were calculated in accordance with the CODs using the volume-weighted average price for Visa’s Class A Common Stock over the 10-day trading period from June 6, 2024 through June 20, 2024.
+Effective July 19, 2024 (the “Effective Date”), the Liability Coverage Reduction Amount (as defined in the CODs), Conversion Adjustment (as defined in the CODs) and new Class A Common Equivalent Number for each series of Preferred Stock will be updated as follows:
+a. Series B Preferred Stock: A Liability Coverage Reduction Amount of approximately $1.1 billion, which will result in a Conversion Adjustment Reduction of 1.695 and reduce the Class A Common Equivalent Number for the Series B Preferred Stock from 2.698 to 1.003; and
+b. Series C Preferred Stock: A Liability Coverage Reduction Amount of approximately $1.6 billion, which will result in a Conversion Adjustment Reduction of 1.819 and reduce the Class A Common Equivalent Number for the Series C Preferred Stock from 3.605 to 1.786.
+On the Effective Date, the Company will issue approximately 99,264 shares of Series A Preferred Stock, subject to adjustment to account for fractional shares, to holders of record of Preferred Stock as of July 19, 2024. Each holder of Preferred Stock will receive a number of shares of Series A Preferred Stock equal to the applicable Conversion Adjustment per share of Preferred Stock, divided by 100. The Company will pay cash in lieu of issuing fractional shares of Series A Preferred Stock. Each share of Series A Preferred Stock will be automatically converted into 100 shares of Class A Common Stock in connection with a sale to a person eligible to hold Class A Common Stock in accordance with Visa’s certificate of incorporation.
+The Series A Preferred Stock issued in connection with the release, and the Class A Common Stock issued in connection with any sale of Series A Preferred Stock to a person eligible to hold Class A Common Stock, will be issued in reliance on the exemption from the registration requirements of the Securities Act of 1933 set forth in Section 3(a)(9) thereof.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VISA INC.
+
+Date:
+July 10, 2024
+
+By:
+
+/s/ Chris Suh
+
+Chris Suh
+Chief Financial Officer

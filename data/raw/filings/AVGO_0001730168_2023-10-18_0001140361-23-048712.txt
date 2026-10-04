@@ -1,0 +1,187 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported):
+October 18, 2023
+
+Broadcom Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+Delaware
+
+001-38449
+
+35-2617337
+
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(I.R.S. Employer Identification No.)
+
+1320 Ridder Park Drive
+
+San Jose
+,
+
+California
+
+95131-2313
+
+(Address of principal executive offices including zip code)
+
+(
+408
+)
+433-8000
+
+(Registrant’s telephone number, including area code)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☒
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+
+Trading Symbol(s)
+
+Name of Each Exchange on Which Registered
+
+Common Stock, $0.001 par value
+
+AVGO
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised
+financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01
+
+Other Events.
+
+On October 18, 2023, Broadcom Inc. (“Broadcom”) and VMware, Inc. (“VMware”) issued a joint press release announcing that the deadline for
+VMware stockholders of record to elect the form of merger consideration they wish to receive in connection with Broadcom’s acquisition of VMware (the “Transaction”) is 5:00 p.m. Eastern Time on October 23, 2023 pursuant to the Agreement and Plan of
+Merger, dated as of May 26, 2022, by and among Broadcom, VMware, Verona Holdco, Inc., Verona Merger Sub, Inc., Barcelona Merger Sub 2, Inc., and Barcelona Merger Sub 3, LLC. VMware stockholders who hold shares through a bank, broker or other nominee
+may be subject to an earlier election deadline and should carefully review any materials they received from their bank, broker or other nominee regarding how to make an election as to the form of merger consideration they wish to receive.
+
+The press release also stated that, as previously disclosed, the parties expect to close the Transaction on October 30, 2023, subject to
+the receipt of regulatory approvals and other customary closing conditions.
+
+The press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+This Current Report on Form 8-K relates to a proposed business combination transaction between Broadcom and VMware. This Current Report on Form 8-K includes
+forward-looking statements within the meaning of Section 21E of the U.S. Securities Exchange Act of 1934, as amended, and Section 27A of the U.S. Securities Act of 1933, as amended. These forward-looking statements include but are not limited to
+statements that relate to the expected future business and financial performance, the anticipated benefits of the proposed transaction, the anticipated impact of the proposed transaction on the combined business, the expected amount and timing of the
+synergies from the proposed transaction, and the anticipated closing date of the proposed transaction. These forward-looking statements are identified by words such as “will,” “expect,” “believe,” “anticipate,” “estimate,” “should,” “intend,” “plan,”
+“potential,” “predict,” “project,” “aim,” and similar words or phrases. These forward-looking statements are based on current expectations and beliefs of Broadcom management and current market trends and conditions.
+
+These forward-looking statements involve risks and uncertainties that are outside Broadcom’s control and may cause actual results to differ materially from
+those contained in forward-looking statements, including but not limited to: the effect of the proposed transaction on our ability to maintain relationships with customers, suppliers and other business partners or operating results and business; the
+ability to implement plans, achieve forecasts and meet other expectations with respect to the business after the completion of the proposed transaction and realize expected synergies; business disruption following the announcement and closing of the
+proposed transaction; difficulties in retaining and hiring key personnel and employees due to the proposed transaction and business combination; the diversion of management time on transaction-related issues; the satisfaction of the conditions
+precedent to completion of the proposed transaction, including the ability to secure regulatory approvals on the terms expected, at all or in a timely manner; significant indebtedness, including indebtedness incurred in connection with the proposed
+transaction, and the need to generate sufficient cash flows to service and repay such debt; the disruption of current plans and operations; the outcome of legal proceedings related to the Transaction; the ability to complete the proposed transaction
+on a timely basis or at all; the ability to successfully integrate VMware’s operations; cyber-attacks, information security and data privacy; global political and economic conditions, including cyclicality in the semiconductor industry and in
+Broadcom’s other target markets, rising interest rates, the impact of inflation and challenges in manufacturing and the global supply chain; the impact of public health crises, such as pandemics (including COVID-19) and epidemics and any related
+company or government policies and actions to protect the health and safety of individuals or government policies or actions to maintain the functioning of national or global economies and markets; and events and trends on a national, regional and
+global scale, including those of a political, economic, business, competitive and regulatory nature.
+
+These risks, as well as other risks related to the proposed transaction, are included in the registration statement on Form S-4 and proxy
+statement/prospectus that has been filed with the Securities and Exchange Commission (“SEC”) in connection with the proposed transaction. While the list of factors presented here is, and the list of factors presented in the registration statement on
+Form S-4 are, considered representative, no such list should be considered to be a complete statement of all potential risks and uncertainties. For additional information about other factors that could cause actual results to differ materially from
+those described in the forward-looking statements, please refer to Broadcom’s and VMware’s respective periodic reports and other filings with the SEC, including the risk factors identified in Broadcom’s and VMware’s most recent Quarterly Reports on
+Form 10-Q and Annual Reports on Form 10-K. The forward-looking statements included in this Current Report on Form 8-K are made only as of the date hereof. Neither Broadcom nor VMware undertakes any obligation to update any forward-looking statements
+to reflect subsequent events or circumstances, except as required by law.
+
+No Offer or Solicitation
+
+This Current Report on Form 8-K is not intended to and shall not constitute an offer to buy or sell or the solicitation of an offer to buy or sell any
+securities, or a solicitation of any vote or approval, nor shall there be any sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any
+such jurisdiction. No offering of securities shall be made, except by means of a prospectus meeting the requirements of Section 10 of the U.S. Securities Act of 1933, as amended.
+
+Additional Information about the Transaction and Where to Find It
+
+In connection with the proposed transaction, Broadcom has filed with the SEC a registration statement on Form S-4 that includes a proxy statement of VMware
+and that also constitutes a prospectus of Broadcom. Each of Broadcom and VMware may also file other relevant documents with the SEC regarding the proposed transaction. The registration statement was declared effective by the SEC on October 3, 2022
+and the definitive proxy statement/prospectus has been mailed to VMware shareholders. This document is not a substitute for the proxy statement/prospectus or registration statement or any other document that Broadcom or VMware may file with the SEC.
+INVESTORS AND SECURITY HOLDERS ARE URGED TO READ THE REGISTRATION STATEMENT, PROXY STATEMENT/ PROSPECTUS AND ANY OTHER RELEVANT DOCUMENTS THAT MAY BE FILED WITH THE SEC, AS WELL AS ANY AMENDMENTS OR SUPPLEMENTS TO THESE DOCUMENTS, CAREFULLY AND IN
+THEIR ENTIRETY IF AND WHEN THEY BECOME AVAILABLE BECAUSE THEY CONTAIN OR WILL CONTAIN IMPORTANT INFORMATION ABOUT THE PROPOSED TRANSACTION. Investors and security holders may obtain free copies of the registration statement and proxy
+statement/prospectus and other documents containing important information about Broadcom, VMware and the proposed transaction once such documents are filed with the SEC through the website maintained by the SEC at http://www.sec.gov. Copies of the
+documents filed with the SEC by Broadcom may be obtained free of charge on Broadcom’s website at https://investors.broadcom.com. Copies of the documents filed with the SEC by VMware may be obtained free of charge on VMware’s website at ir.vmware.com.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit No.
+
+Description
+
+99.1
+
+Press Release issued by Broadcom dated October 18, 2023.
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+Date: October 18, 2023
+
+Broadcom Inc.
+
+By:
+
+/s/ Kirsten M. Spears
+
+Name:
+
+Kirsten M. Spears
+
+Title:
+
+Chief Financial Officer and Chief Accounting Officer

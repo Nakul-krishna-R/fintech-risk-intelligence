@@ -1,0 +1,199 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of
+the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)
+May 27, 2021
+(
+May 25, 2021
+)
+
+Merck & Co., Inc.
+(Exact name of registrant as specified in its charter)
+
+New Jersey
+1-6571
+22-1918501
+(State or other jurisdiction
+(Commission
+(I.R.S Employer
+of incorporation)
+File Number)
+Identification No.)
+2000 Galloping Hill Road
+Kenilworth
+New Jersey
+07033
+(Address of principal executive offices)
+(Zip Code)
+
+(Registrant’s telephone number, including area code)
+(
+908
+)
+740-4000
+
+Not Applicable
+(Former name, former address and former fiscal year, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock ($0.50 par value)
+MRK
+New York Stock Exchange
+1.125% Notes due 2021
+MRK/21
+New York Stock Exchange
+0.500% Notes due 2024
+MRK 24
+New York Stock Exchange
+1.875% Notes due 2026
+MRK/26
+New York Stock Exchange
+2.500% Notes due 2034
+MRK/34
+New York Stock Exchange
+1.375% Notes due 2036
+MRK 36A
+New York Stock Exchange
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+(a) The Annual Meeting of Shareholders of Merck & Co., Inc. (the "Company") was held on May 25, 2021.
+(b) Shareholders voted on the matters set forth below:
+1.
+The following nominees were elected to the Company’s Board of Directors to hold office until the Company’s next Annual Meeting of Shareholders and received the number of votes set forth opposite their names:
+Names
+Votes For
+Votes Against
+Abstentions
+Broker
+Non-Votes
+Leslie A. Brun
+1,590,394,355
+190,291,257
+19,229,671
+310,721,741
+Mary Ellen Coe
+1,780,912,796
+14,941,089
+4,061,398
+310,721,741
+Pamela J. Craig
+1,772,378,262
+23,197,822
+4,339,199
+310,721,741
+Kenneth C. Frazier
+1,702,484,196
+81,564,423
+15,866,664
+310,721,741
+Thomas H. Glocer
+1,726,728,827
+68,473,293
+4,713,163
+310,721,741
+Risa J. Lavizzo-Mourey, M.D.
+1,775,837,642
+19,646,973
+4,430,668
+310,721,741
+Stephen L. Mayo, Ph.D.
+1,787,595,469
+7,962,199
+4,357,615
+310,721,741
+Paul B. Rothman, M.D.
+1,780,754,217
+14,832,061
+4,329,005
+310,721,741
+Patricia F. Russo
+1,567,172,478
+228,468,615
+4,274,190
+310,721,741
+Christine E. Seidman, M.D.
+1,780,853,223
+15,020,183
+4,041,877
+310,721,741
+Inge G. Thulin
+1,774,105,658
+21,594,126
+4,215,499
+310,721,741
+Kathy J. Warden
+1,777,972,634
+17,872,978
+4,069,671
+310,721,741
+Peter C. Wendell
+1,738,529,655
+56,892,934
+4,492,694
+310,721,741
+2.
+The proposal to approve, by non-binding advisory vote, the compensation of our Named Executive Officers was approved based on the following number of votes:
+Votes For:
+1,619,442,173
+Votes Against:
+156,048,261
+Abstentions:
+24,424,849
+Broker Non-Votes:
+310,721,741
+3.
+The proposal to ratify the appointment of PricewaterhouseCoopers LLP as the Company's independent registered public accounting firm for 2021 was approved based on the following number of votes:
+Votes For:
+2,058,306,500
+Votes Against:
+46,907,020
+Abstentions:
+5,423,504
+4.
+The shareholder proposal concerning shareholders right to act by written consent was not approved based on the following number of votes:
+Votes For:
+710,597,243
+Votes Against:
+1,076,028,332
+Abstentions:
+13,289,708
+Broker Non-Votes:
+310,721,741
+5.
+The shareholder proposal regarding access to COVID-19 products was not approved based on the following number of votes:
+Votes For:
+593,421,332
+Votes Against:
+1,174,542,871
+Abstentions:
+31,951,080
+Broker Non-Votes:
+310,721,741
+A majority of the votes cast was required for all five proposals to be approved.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Merck & Co., Inc.
+Date: May 27, 2021
+By:
+/s/ Kelly E. W. Grez
+Kelly E. W. Grez
+Deputy Corporate Secretary

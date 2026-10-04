@@ -1,0 +1,219 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+_________________________
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (date of earliest event reported): January 27, 2021 (
+January 25, 2021
+)
+ADOBE INC.
+
+(Exact name of Registrant as specified in its charter)
+Delaware
+0-15175
+77-0019522
+(State or other jurisdiction of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+345 Park Avenue
+
+San Jose
+,
+California
+
+95110-2704
+
+(Address of principal executive offices and zip code)
+Registrant’s telephone number, including area code:
+(
+408
+)
+536-6000
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol
+Name of Each Exchange on Which Registered
+Common Stock, $0.0001 par value per share
+ADBE
+NASDAQ
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(e)
+2021 Performance Share Program
+On January 25, 2021, the Executive Compensation Committee (the “
+Committee
+”) of the Board of Directors (the “
+Board
+”) of Adobe Inc. (the “
+Company
+” or “
+Adobe
+”) approved the 2021 Performance Share Program, including the Award Calculation Methodology (the “
+Program
+”), under the terms of the Company’s 2019 Equity Incentive Plan. The Committee established the Program to help focus key employees on building stockholder value, provide significant award potential for achieving outstanding Company performance, and enhance the ability of the Company to attract and retain highly talented individuals. Members of the Company’s executive management team and other key members of senior management were selected by the Committee to participate in the Program for fiscal year 2021. The Committee granted awards to the executive officers under the Program on January 25, 2021 in the form of a target award and a maximum award of performance shares (“
+Performance Shares
+”), approved pursuant to the terms of the Company’s 2019 Equity Incentive Plan.
+Under the Program, shares may be earned based on the achievement of objective relative total stockholder return (“
+TSR
+”) measured over a three-year performance period (Adobe’s 2021 - 2023 fiscal years). The Committee will certify actual performance achievement following the Company’s 2023 fiscal year end and the corresponding number of Performance Shares earned for the three-year performance period, subject to specified change of control exceptions. In addition, as a condition to earning any Performance Shares, a participant must continue to provide service to Adobe (or an affiliate) through the later of the certification date and January 24, 2024. Accordingly, the Performance Shares will align our executives’ interests with those of our stockholders, while serving as a key retention mechanism over the long term.
+Participants can earn between 0% and 200% (the payout cap under the Program) of their target number of Performance Shares. The amount of Performance Shares actually earned is based on a relative three-year TSR measure, which objectively compares the TSR of Adobe’s common stock against the TSR of the companies included in the NASDAQ 100 Index as of November 28, 2020 (the first day of Adobe’s 2021 fiscal year) during the course of the three-year period. Generally, TSR will be compared using the 90-calendar day average immediately preceding Adobe’s 2021 fiscal year and ending at the end of Adobe’s 2023 fiscal year. The number of Performance Shares awarded will increase or decrease 2.5% for every percentile that Adobe’s TSR percentile rank is above or below, respectively, the NASDAQ 100 companies’ 50th percentile, and no shares will be awarded if the Company’s performance ranks below the 25th percentile for the three-year performance period. Additionally, regardless of Adobe’s relative position with respect to the NASDAQ 100 companies, the award will be capped at 100% of target if Adobe has a negative absolute TSR over the performance period.
+The target awards and maximum awards for the Performance Shares granted to the Company’s principal executive officer and other named executive officers* on January 25, 2021 are as set forth below.
+Officer**
+Title
+Target
+Award
+Maximum
+Award
+Shantanu Narayen
+Chairman, President and Chief Executive Officer
+48,789
+97,578
+John Murphy
+Executive Vice President and Chief Financial Officer
+6,970
+13,940
+Abhay Parasnis
+Executive Vice President, Chief Technology Officer and Chief Product Officer, Document Cloud
+7,506
+15,012
+Scott Belsky
+Chief Product Officer and Executive Vice President, Creative Cloud
+7,506
+15,012
+* For purposes of this filing, the term “named executive officer” refers to executive officers for whom disclosure was required in our most recent filing with the Securities and Exchange Commission under the Securities Act of 1933 or the Securities Exchange Act of 1934 that required disclosure pursuant to Item 402(c) of Regulation S-K.
+** As noted in the 8-K filed on October 23, 2020, Bryan Lamkin announced his intent to retire as an executive officer in the first quarter of fiscal 2021 and is not included in this table.
+A participant may receive less than his or her target award, and in no event may actual shares earned exceed the maximum award. Any shares issued under the Program are subject to recoupment in accordance with the Company’s clawback policies.
+The description of the Program contained herein is a summary of the material terms of the Program, does not purport to be complete, and is qualified in its entirety by reference to the Program used in connection with the 2019 Equity Incentive Plan, which is incorporated herein by reference as Exhibit 10.1. Copies of the 2021 Performance Share Program and the form
+2
+of Performance Share Award Grant Notice and Performance Share Award Agreement for use in connection with grants under the Program are filed herewith as Exhibits 10.2 and 10.3, respectively, and are incorporated herein by reference.
+
+2021 Executive Annual Incentive Plan
+On January 25, 2021, the Committee approved the terms of the 2021 Executive Annual Incentive Plan (the “
+Incentive Plan
+”). The Incentive Plan is designed to drive revenue growth and profitability, encourage accountability, drive execution of short-term priorities tied to long-term strategy and annual operating plan objectives, and recognize and reward the Company’s executives upon the achievement of certain objectives.
+Executive officers designated by the Board as an officer for purposes of Section 16 of the Securities and Exchange Act of 1934, as amended, and employees who are Vice President level or above, and who are employed by the Company during its 2021 fiscal year are eligible to participate in the Incentive Plan. Pursuant to the Incentive Plan, participants are eligible to receive an incentive bonus calculated as a percentage of their base salary. The Committee selected the participants under the Incentive Plan on January 25, 2021.
+The Incentive Plan requires that the Company achieve (1) at least 80% of the GAAP revenue target set forth in the annual operating plan for fiscal year 2021 as approved by the Board at the beginning of the fiscal year (the “
+FY21 Operating Plan
+”) and (2) at least 80% of the non-GAAP earnings per share target set forth in the FY21 Operating Plan, as minimum performance thresholds before participants may earn any incentive bonus under the Incentive Plan. If these initial thresholds are achieved, each participant is eligible to earn a maximum bonus equal to 200% of such participant’s Target Award, up to a maximum of $5 million (the “
+Maximum Award
+”). The “
+Target Award
+” is calculated by multiplying a participant’s base salary (prorated for any changes during the fiscal year) by a Committee-approved target bonus percentage.
+For fiscal year 2021, the Target Award and Maximum Award, expressed as a percentage of base salary for the Company’s principal executive officer and other named executive officers are set forth below:
+Officer
+Title
+Target
+Award
+Maximum
+Award
+Shantanu Narayen
+Chairman, President and Chief Executive Officer
+200%
+400%
+John Murphy
+Executive Vice President and Chief Financial Officer
+100%
+200%
+Abhay Parasnis
+Executive Vice President, Chief Technology Officer and Chief Product Officer, Document Cloud
+100%
+200%
+Scott Belsky
+Chief Product Officer and Executive Vice President, Creative Cloud
+100%
+200%
+The Maximum Award for each participant is subject to adjustment based on the Company’s or the participant’s performance. A participant’s “
+Actual Award
+” is comprised of:
+Actual Award ($)*
+=
+Corporate Performance Result (%)
+*
+Individual Performance Result (%)
+*
+Target Award ($)
+* Cannot exceed Target Award unless the Financial Performance Result (as set forth below) is at least 90%.
+The Corporate Performance Result is based on the Company’s financial performance for the period (“
+Financial Performance Result
+”). The Financial Performance Result is determined based on both (1) a Net New Sales metric (“
+New New Sales Performance Result
+”), comprised of the sum of (a) net new annualized recurring revenue in Digital Media (“
+ARR
+”) and (b) net new subscription bookings for Digital Experience and (2) a payout matrix of our GAAP revenue and non-GAAP EPS performance against the FY21 Operating Plan (“
+Revenue/EPS Performance Result
+”). The Financial Performance Result is calculated by averaging the Net New Sales Performance Result and the Revenue/EPS Performance Result, which are percentages based off of the achievement of targets set forth in the FY21 Operating Plan, as shown on Exhibits A and B of the Incentive Plan.
+As described in our Annual Report on Form 10-K for the fiscal year ended November 27, 2020, we define ARR as the sum of Creative ARR and Document Cloud ARR. We define Creative ARR as the sum of: (1) the annual value of Creative Cloud subscriptions and services, plus (2) the annual contract value of Creative Enterprise Term License Agreements. We define Document Cloud ARR as the sum of: (1) the annual value of Document Cloud subscriptions and services, plus (2) the annual contract value of Document Cloud Enterprise Term License Agreements.
+3
+The Financial Performance Result is subject to adjustment by the Committee by up to 25 percentage points up or down based on the Committee’s assessment of the Company’s performance against its corporate priorities and objectives during the performance period. This results in the “
+Corporate Performance Result
+” (expressed as a percentage, which may range from 0% to 145%).
+The “
+Individual Performance Result
+” is based on the Committee’s assessment of each participant's individual performance including, without limitation, achievement of individual performance goals set by the Committee at the outset of the performance period. The goals are specifically tailored to each participant and aligned with the achievement of strategic objectives in the FY21 Operating Plan. A participant’s Individual Performance Result may range from 0% to 150%.
+Once each component described above is certified by the Committee, the Actual Award earned by each participant under the Incentive Plan is determined using the formula above, provided that in no event will a participant's Actual Award exceed their Target Award if the Financial Performance Result is not at least 90%.
+Any amounts paid under the Incentive Plan are subject to recoupment from participants in accordance with the Company’s clawback policies.
+The description of the Incentive Plan contained herein is a summary of the material terms of the Incentive Plan, does not purport to be complete, and is qualified in its entirety by reference to the Incentive Plan which is filed as Exhibit 10.4 and is incorporated herein by reference.
+4
+Item 9.01 Financial Statements and Exhibits.
+
+(d)
+Exhibits
+Incorporated by Reference
+Exhibit Number
+Exhibit Description
+Form
+Filing Date
+Number
+SEC File No.
+Filed Herewith
+10.1
+2019 Equity Incentive Plan
+8-K
+4/12/19
+10.1
+000-15175
+10.2
+2021 Performance Share Program
+X
+10.3
+Form of 2021 Performance Share Award Grant Notice and Award Agreement pursuant to 2021 Performance Share Program
+X
+10.4
+2021 Executive Annual Incentive Plan
+X
+104
+Cover Page Interactive Data File (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document)
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ADOBE INC.
+Date: January 27, 2021
+By:
+/s/ JOHN MURPHY
+John Murphy
+Executive Vice President and Chief Financial Officer
+5

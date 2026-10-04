@@ -1,0 +1,170 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+July 14, 2021
+
+INTEL CORPORATION
+
+(Exact Name of registrant as specified in its charter)
+
+Delaware
+
+000-06217
+
+94-1672743
+
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+Identification No.)
+
+2200 Mission College Blvd.
+,
+Santa Clara
+,
+California
+
+95054-1549
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+(408)
+
+765-8080
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading symbol(s)
+
+Name of each exchange
+on which registered
+
+Common stock, $0.001 par value
+
+INTC
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 5.02
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(d) Election of New Director.
+
+On July 14, 2021, the Board of Directors (“Board”) of Intel Corporation (“Intel”) elected Dr. Andrea J. Goldsmith to the Board, effective September 1, 2021. The Board determined that Dr. Goldsmith qualifies as “independent” in accordance with the published listing requirements of Nasdaq. Dr. Goldsmith has not been appointed to any Board committees at this time.
+
+Dr. Goldsmith, 57, served for over two decades on the faculty of Stanford University before she was named Dean of Engineering and Applied Science and the Arthur LeGrand Doty Professor of Electrical and Computer Engineering at Princeton University in 2020. From 2012 to 2020, Dr. Goldsmith served as the Stephen Harris Professor of Engineering and a Professor of Engineering at Stanford University. From 1999 to 2012, she served as an Assistant, Associate, then full Professor in Stanford University’s Department of Electrical Engineering. From 2010 to 2014, Dr. Goldsmith
+co-founded
+and served as the Chief Technology Officer at Plume WiFi (formerly Accelera, Inc.), a provider of software-defined wireless networking technology. From 2005 to 2009, Dr. Goldsmith
+co-founded
+and served as Chief Technology Officer for Quantenna Communications (formerly mySource Communications, Inc.), a producer of silicon chipsets designed for high-speed, wireless networking. Dr. Goldsmith has served as a member of the board of directors of Medtronic plc since 2019 and as a board member of Crown Castle International Corp. since 2018. She received B.S., M.S. and Ph.D degrees in electrical engineering from the University of California, Berkeley in 1986, 1991, and 1994, respectively. Dr. Goldsmith is a member of the National Academy of Engineering and the American Academy of Arts and Sciences and she is a Fellow of the Institute of Electrical and Electronics Engineers (“IEEE”). Dr. Goldsmith is the founding Chair of the IEEE Board of Directors Committee on Diversity, Inclusion, and Ethics.
+
+Dr. Goldsmith will receive the standard compensation amounts payable to
+non-employee
+directors of the Board. Pursuant to these arrangements, commencing in September 2021, Dr. Goldsmith will be paid an annual cash retainer of $90,000 (in addition to any committee fees), which will be
+pro-rated
+for her first year of service. In addition, in the fourth quarter of 2021, Dr. Goldsmith will be granted
+non-employee
+director time-based restricted stock units (“RSUs”) with a value on the grant date of approximately $146,667, which is
+pro-rated
+from the value of the annual award granted to
+non-employee
+directors. The award will vest on the earlier of May 13, 2022 and the date of Intel’s 2022 Annual Stockholders’ Meeting, the same schedule as the annual award granted to the
+non-employee
+directors in May 2021, subject to Dr. Goldsmith’s continued service on the Board.
+
+Dr. Goldsmith will also enter into Intel’s standard form of directors’ indemnification agreement with Intel, pursuant to which Intel agrees to indemnify its directors to the fullest extent permitted by applicable law and subject to certain conditions to advance expenses in connection with proceedings as described in the indemnification agreement.
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+Intel’s press release dated July 19, 2021 announcing the election of Dr. Goldsmith to the Board effective September 1, 2021, is furnished as Exhibit 99.1 to this Current Report on Form
+8-K.
+The information in this Item 7.01 of this Report is furnished and shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+The following exhibits are provided as part of this report:
+
+Exhibit
+Number
+
+Description
+
+99.1
+
+Press Release issued by Intel titled “Intel Elects Andrea Goldsmith to Board of Directors,” dated July 19, 2021.
+
+104
+
+Cover Page Interactive Data File, formatted in Inline XBRL and included as Exhibit 101.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+INTEL CORPORATION
+
+(Registrant)
+
+Date: July 19, 2021
+
+/s/ Susie Giordano
+
+Susie Giordano
+
+Corporate Vice President and Corporate Secretary

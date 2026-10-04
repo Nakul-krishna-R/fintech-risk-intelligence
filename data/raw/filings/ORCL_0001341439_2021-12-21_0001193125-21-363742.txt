@@ -1,0 +1,186 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+December 20, 2021
+
+Oracle Corporation
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-35992
+
+54-2185193
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+2300 Oracle Way
+,
+Austin
+,
+Texas
+
+78741
+
+(Address of principal executive offices) (Zip Code)
+
+(737)
+
+867-1000
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☒
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock, par value $0.01 per share
+
+ORCL
+
+New York Stock Exchange
+
+3.125% senior notes due July 2025
+
+ORCL
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Section 1—Registrant’s Business and Operations
+
+Item 1.01
+
+Entry into a Material Definitive Agreement
+
+On December 20, 2021, Oracle Corporation, a Delaware corporation (“Oracle”), Cerner Corporation, a Delaware corporation (“Cerner” or the “Company”), OC Acquisition LLC, a Delaware limited liability company and wholly owned subsidiary of Oracle (“Parent”), and Cedar Acquisition Corporation, a Delaware corporation and wholly owned subsidiary of Parent (“Merger Subsidiary”), entered into an Agreement and Plan of Merger (the “Merger Agreement”). Pursuant to the Merger Agreement, and upon the terms and conditions thereof: (i) Merger Subsidiary has agreed to commence a cash tender offer to acquire all of the shares of the Company’s common stock (the “Offer”) for a purchase price of $95.00 per share, net to the holders thereof, in cash (the “Offer Price”), without interest and subject to any required tax withholding; and (ii) after completion of the Offer, Merger Subsidiary will merge with and into the Company, the separate corporate existence of Merger Subsidiary shall cease and the Company shall be the successor or surviving corporation of the merger (the “Merger”).
+
+Pursuant to the Merger Agreement, and upon the terms and conditions thereof, Merger Subsidiary has agreed to commence the Offer as promptly as reasonably practicable (but in no event later than 20 business days) after the date of the Merger Agreement. The consummation of the Offer is conditioned on there having been validly tendered into and not withdrawn from the Offer a number of shares of the Company’s common stock that, together with any shares of the Company’s common stock owned by Oracle, Parent or Merger Subsidiary, represents a majority of the shares of the Company’s common stock. The consummation of the Offer is also conditioned on: (i) receipt of certain regulatory approvals, including expiration of the waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976 and, if applicable, approval under certain other foreign antitrust laws, including the European Union; and (ii) other customary conditions.
+
+The Merger Agreement provides that, following the consummation of the Offer, subject to limited conditions contained in the Merger Agreement, the Merger will occur, pursuant to which each outstanding share of the Company’s common stock (other than treasury shares, shares held by Oracle, Parent or Merger Subsidiary, shares held by any subsidiaries of the Company, or shares held by a holder who has properly exercised appraisal rights of such shares in accordance with Section 262 of the Delaware General Corporation Law) will be converted into the right to receive the Offer Price.
+
+In connection with the Offer and Merger, concurrently with entering into the Merger Agreement, Parent and Merger Subsidiary entered into Tender and Support Agreements, dated as of December 20, 2021 (the “Tender and Support Agreements”), with each of the current directors and certain executive officers of the Company (each a “Supporting Stockholder”). The Tender and Support Agreements obligate each Supporting Stockholder to tender all shares of the Company’s common stock beneficially owned by such Supporting Stockholder into the Offer and otherwise support the transactions contemplated by the Merger Agreement. The Supporting Stockholders collectively beneficially owned, in the aggregate, less than 1% of the outstanding shares of the Company’s common stock as of December 20, 2021.
+
+In addition, in connection with the transactions contemplated by the Merger Agreement, the unvested portion of each Company stock option, each Company restricted stock award, each Company time-based restricted stock unit, and each Company performance-based restricted stock unit (each, a “Company Compensatory Award”) that is outstanding immediately prior to the time the Merger is consummated and held by an employee of the Company or any of its subsidiaries will be assumed by Oracle and converted automatically into a corresponding option, share of restricted stock, restricted stock unit, performance share or performance share unit, denominated in shares of Oracle common stock, the number and terms of which will be determined pursuant to the terms of the Merger Agreement. The vested portion of each Company Compensatory Award that is outstanding immediately
+
+prior to the time the Merger is consummated will be cancelled and extinguished and, in exchange therefor, each former holder of any such vested portion of a Company Compensatory Award will have the right to receive (i) an amount in cash equal to the product of (x) the aggregate number of shares of Company common stock subject to such vested portion of a Company Compensatory Award to the time the Merger is consummated and (y) the Offer Price less any per share exercise or purchase price of such vested portion of a Company Compensatory Award immediately prior to such cancellation and (ii) an amount equal to any dividend equivalent rights payable with respect to such vested portion of the Company Compensatory Award. The unvested portion of each Company Compensatory Award that is outstanding immediately prior to the time the Merger is consummated and held by a person who is not an employee of the Company or any of its subsidiaries will be cancelled for no consideration.
+
+Under the terms of the Merger Agreement, the Company has agreed not to solicit or support any alternative acquisition proposals, subject to customary exceptions for the Company to respond to and support unsolicited proposals in the exercise of the duties of the Board of Directors of the Company. The Company will be obligated to pay a termination fee of $950 million to Parent in certain customary circumstances.
+
+The Board of Directors of the Company has unanimously approved the Merger Agreement and the transactions contemplated thereby and agreed to recommend that the Company’s stockholders accept the Offer and tender their shares of the Company’s common stock to Merger Subsidiary in the Offer.
+
+The Merger Agreement has been filed as an exhibit to this Form
+8-K
+to provide information regarding the terms of the agreement and is not intended to modify or supplement any factual disclosures about Oracle or Cerner in Oracle’s or Cerner’s public reports filed with the U.S. Securities and Exchange Commission (the “SEC”) or otherwise. In particular, the Merger Agreement is not intended to be, and should not be relied upon as, disclosures regarding any facts and circumstances relating to Oracle and Cerner. The representations and warranties contained in the Merger Agreement may also be subject to a contractual standard of materiality different from those generally applicable to stockholders. The foregoing description of the Merger Agreement does not purport to be complete, and is qualified in its entirety by reference to such agreement.
+
+A copy of the Merger Agreement is filed as Exhibit 2.1 hereto.
+
+Additional Information about the Acquisition and Where to Find It
+
+In connection with the proposed acquisition, Oracle will commence a tender offer for the outstanding shares of Cerner. The tender offer has not yet commenced. This document is for informational purposes only and is neither an offer to purchase nor a solicitation of an offer to sell shares of Cerner, nor is it a substitute for the tender offer materials that Oracle, Parent and Merger Subsidiary will file with the SEC upon commencement of the tender offer. At the time the tender offer is commenced, Oracle, Parent and Merger Subsidiary will file tender offer materials on Schedule TO, and Cerner will file a Solicitation/Recommendation Statement on Schedule
+14D-9
+with the SEC with respect to the tender offer. The tender offer materials (including an Offer to Purchase, a related Letter of Transmittal and certain other tender offer documents) and the Solicitation/Recommendation Statement will contain important information. Holders of shares of Cerner common stock are urged to read these documents carefully when they become available (as each may be amended or supplemented from time to time) because they will contain important information that holders of shares of Cerner common stock should consider before making any decision regarding tendering their shares. The Offer to Purchase, the related Letter of Transmittal and certain other tender offer documents, as well as the Solicitation/Recommendation Statement, will be made available to all holders of shares of Cerner at no expense to them. The tender offer materials and the Solicitation/Recommendation Statement will be made available for free at the SEC’s website at www.sec.gov. Oracle and Cerner also file annual, quarterly and special reports and other information with the SEC, which are available at the SEC’s website at www.sec.gov.
+
+Section 9—Financial Statements and Exhibits
+
+Item 9.01
+
+Financial Statements and Exhibits
+
+(d) Exhibits
+
+Exhibit
+No.
+
+Description
+
+2.1
+
+Agreement and Plan of Merger, dated December 20, 2021, among Oracle Corporation, Cerner Corporation, OC Acquisition LLC and Cedar Acquisition Corporation*
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+* Certain of the exhibits and schedules to this exhibit have been omitted pursuant to Item 601(a)(5) and 601(b)(2) of Regulation
+S-K.
+The Company agrees to furnish supplementally a copy of any omitted exhibits and schedules to the SEC upon its request.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ORACLE CORPORATION
+
+Dated: December 21, 2021
+
+By:
+
+/s/ Brian S. Higgins
+
+Name:
+
+Brian S. Higgins
+
+Title:
+
+Senior Vice President, Associate General Counsel and Secretary

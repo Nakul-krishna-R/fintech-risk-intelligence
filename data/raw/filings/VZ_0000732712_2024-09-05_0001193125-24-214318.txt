@@ -1,0 +1,376 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+September 5, 2024
+
+VERIZON COMMUNICATIONS INC.
+(Exact name of registrant as specified in its charter)
+
+Delaware
+(State or other jurisdiction of incorporation)
+
+1-8606
+
+23-2259884
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+
+1095 Avenue of the Americas
+New York
+,
+New York
+
+10036
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+(
+212
+)
+395-1000
+Not Applicable
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☒
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class:
+
+Trading
+Symbol:
+
+Name of Each Exchange
+on Which Registered:
+
+Common Stock, par value $0.10
+
+VZ
+
+New York Stock Exchange
+
+Common Stock, par value $0.10
+
+VZ
+
+The Nasdaq Global Select Market
+
+0.875% Notes due 2025
+
+VZ 25
+
+New York Stock Exchange
+
+3.25% Notes due 2026
+
+VZ 26
+
+New York Stock Exchange
+
+1.375% Notes due 2026
+
+VZ 26B
+
+New York Stock Exchange
+
+0.875% Notes due 2027
+
+VZ 27E
+
+New York Stock Exchange
+
+1.375% Notes due 2028
+
+VZ 28
+
+New York Stock Exchange
+
+1.125% Notes due 2028
+
+VZ 28A
+
+New York Stock Exchange
+
+2.350% Fixed Rate Notes due 2028
+
+VZ 28C
+
+New York Stock Exchange
+
+1.875% Notes due 2029
+
+VZ 29B
+
+New York Stock Exchange
+
+0.375% Notes due 2029
+
+VZ 29D
+
+New York Stock Exchange
+
+1.250% Notes due 2030
+
+VZ 30
+
+New York Stock Exchange
+
+1.875% Notes due 2030
+
+VZ 30A
+
+New York Stock Exchange
+
+4.250% Notes due 2030
+
+VZ 30D
+
+New York Stock Exchange
+
+2.625% Notes due 2031
+
+VZ 31
+
+New York Stock Exchange
+
+2.500% Notes due 2031
+
+VZ 31A
+
+New York Stock Exchange
+
+3.000% Fixed Rate Notes due 2031
+
+VZ 31D
+
+New York Stock Exchange
+
+0.875% Notes due 2032
+
+VZ 32
+
+New York Stock Exchange
+
+0.750% Notes due 2032
+
+VZ 32A
+
+New York Stock Exchange
+
+3.500% Notes due 2032
+
+VZ 32B
+
+New York Stock Exchange
+
+1.300% Notes due 2033
+
+VZ 33B
+
+New York Stock Exchange
+
+4.75% Notes due 2034
+
+VZ 34
+
+New York Stock Exchange
+
+4.750% Notes due 2034
+
+VZ 34C
+
+New York Stock Exchange
+
+3.125% Notes due 2035
+
+VZ 35
+
+New York Stock Exchange
+
+1.125% Notes due 2035
+
+VZ 35A
+
+New York Stock Exchange
+
+3.375% Notes due 2036
+
+VZ 36A
+
+New York Stock Exchange
+
+3.750% Notes due 2036
+
+VZ 36B
+
+New York Stock Exchange
+
+2.875% Notes due 2038
+
+VZ 38B
+
+New York Stock Exchange
+
+1.875% Notes due 2038
+
+VZ 38C
+
+New York Stock Exchange
+
+1.500% Notes due 2039
+
+VZ 39C
+
+New York Stock Exchange
+
+3.50% Fixed Rate Notes due 2039
+
+VZ 39D
+
+New York Stock Exchange
+
+1.850% Notes due 2040
+
+VZ 40
+
+New York Stock Exchange
+
+3.850% Fixed Rate Notes due 2041
+
+VZ 41C
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act ☐
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+As previously disclosed, on September 4, 2024, Verizon Communications Inc., a Delaware corporation (“Verizon”), Frontier Communications Parent, Inc., a Delaware corporation (“Frontier”) and France Merger Sub Inc., a Delaware corporation and a wholly-owned subsidiary of Verizon (“Merger Sub”), entered into an Agreement and Plan of Merger (the “Merger Agreement”), pursuant to which, upon the terms and subject to the conditions set forth therein, among other things, Merger Sub will merge with and into Frontier, with Frontier surviving such merger as the surviving corporation (collectively with the other transactions contemplated by the Merger Agreement, the “Transactions”).
+On September 5, 2024, Verizon hosted a webcast to discuss the Transactions and made available an investor presentation relating to the Transactions and, additionally, certain executives of Verizon attended the Citi 2024 Global TMT Conference (the “Citi Conference”) and discussed the Transactions. Also on September 5, 2024, Verizon sent an email regarding the Transactions to members of the media and a separate email regarding the Transactions to its employees.
+Lastly, on September 5, 2024, Verizon’s Chief Executive Officer Hans Vestberg appeared on CNBC’s
+Squawk Box
+(the “Squawk Box Interview”) to discuss the Transactions.
+Copies of the transcript of the webcast, the investor presentation, a transcript of the discussion at the Citi Conference related to the Transactions, the text of the email to members of the media, the text of the email to Verizon employees and the transcript of the Squawk Box Interview are attached as Exhibit 99.1, Exhibit 99.2, Exhibit 99.3, Exhibit 99.4, Exhibit 99.5, and Exhibit 99.6, respectively, to this Current Report on Form
+8-K
+and the information contained therein is incorporated by reference into this Item 7.01.
+Exhibit 99.1, Exhibit 99.2, Exhibit 99.3, Exhibit 99.4, Exhibit 99.5 and Exhibit 99.6 are being furnished, not filed, pursuant to this Item 7.01. Accordingly, such information will not be incorporated by reference into any filing filed by Verizon under the Securities Act or the Exchange Act, unless specifically identified therein as being incorporated by reference therein. The furnishing of the information in this Current Report on Form
+8-K
+is not intended to, and does not, constitute a determination or admission by Verizon that such information is material or complete, or that investors should consider this information before making an investment decision with respect to any security of Verizon.
+Forward-Looking Statements
+In this report, we have made forward-looking statements. These statements are based on our estimates and assumptions and are subject to risks and uncertainties. Forward-looking statements include the information concerning our possible or assumed future results of operations. Forward-looking statements also include those preceded or followed by the words “anticipates,” “assumes,” “believes,” “estimates,” “expects,” “forecasts,” “hopes,” “intends,” “plans,” “targets” or similar expressions. For those statements, we claim the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. For a discussion of some of the risks and important factors that could affect such forward-looking statements, see our and Frontier’s most recent annual and quarterly reports and other filings filed with the SEC.
+Factors which could have an adverse effect on our operations and future prospects include, but are not limited to, the following: risks relating to the Transactions, including in respect of the ability to obtain required regulatory approvals and the requisite company stockholder approval, and the satisfaction of other closing conditions on a timely basis or at all; unanticipated difficulties and/or expenditures relating to the Transactions and any related financing; uncertainties as to the timing of the completion of the Transactions; litigation relating to the Transactions; the impact of the Transactions on each company’s business operations (including the threatened or actual loss of subscribers, employees or suppliers); the inability to obtain, or delays in obtaining cost savings and synergies from the Transactions; incurrence of unexpected costs and expenses in connection with the Transactions; risks related to changes in the financial, equity and debt markets; and risks related to political, economic and market conditions. In addition, the risks to which Frontier’s business is subject, including those risks set forth in Part I, Item 1A of Frontier’s most recent Annual Report on Form
+10-K
+and its periodic reports filed with the SEC, could adversely affect the Transactions and, following the completion of the Transactions, our operations and future prospects.
+Important Additional Information and Where to Find It
+In connection with the Transactions, Frontier intends to file with the SEC a proxy statement on Schedule 14A (the “Proxy Statement”), in preliminary and definitive form, the definitive version of which will be sent or provided to Frontier stockholders. Verizon or Frontier may also file other relevant documents with the SEC regarding the Transactions. This document is not a substitute for the Proxy Statement or any other document which Frontier may file with the SEC. Promptly after filing its definitive Proxy Statement with the SEC, Frontier will mail or provide the
+
+definitive Proxy Statement and a proxy card to each Frontier stockholder entitled to vote at the meeting relating to the Transactions. INVESTORS AND SECURITY HOLDERS ARE URGED TO READ THE PROXY STATEMENT AND ANY OTHER RELEVANT DOCUMENTS THAT ARE FILED OR WILL BE FILED WITH THE SEC (WHEN THEY ARE AVAILABLE), AS WELL AS ANY AMENDMENTS OR SUPPLEMENTS TO THESE DOCUMENTS, CAREFULLY AND IN THEIR ENTIRETY BEFORE MAKING ANY VOTING OR INVESTMENT DECISION WITH RESPECT TO THE TRANSACTIONS BECAUSE THEY CONTAIN OR WILL CONTAIN IMPORTANT INFORMATION ABOUT THE TRANSACTIONS AND RELATED MATTERS. Investors and security holders may obtain free copies of the Proxy Statement and other documents that are filed or will be filed with the SEC by Frontier or Verizon (when they are available) through the website maintained by the SEC at www.sec.gov, Frontier’s investor relations website at investor.frontier.com or Verizon’s investor relations website at verizon.com/about/investors.
+Participants in the Solicitation
+Verizon may be deemed to be a “participant” in the solicitation of proxies from the stockholders of Frontier in connection with the Transactions. Additional information regarding the identity of potential participants, and their direct or indirect interests, by security holdings or otherwise, will be included in Frontier’s definitive Proxy Statement relating to the Transactions when it is filed by Frontier with the SEC. These documents (when available) may be obtained free of charge from the SEC’s website at www.sec.gov or Frontier’s website at investor.frontier.com.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+(d) Exhibits.
+
+Exhibit
+Number
+
+Description
+
+99.1
+
+Webcast Transcript, dated as of September 5, 2024.
+
+99.2
+
+Investor Presentation, dated as of September 5, 2024.
+
+99.3
+
+Citi Conference Transcript, dated as of September 5, 2024.
+
+99.4
+
+Text of Email to Media, dated as of September 5, 2024.
+
+99.5
+
+Text of Email to Verizon Employees, dated as of September 5, 2024.
+
+99.6
+
+Transcript of the Squawk Box Interview, as of September 5, 2024.
+
+104
+
+Cover Page Interactive Data File (formatted as inline XBRL)
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VERIZON COMMUNICATIONS INC.
+
+By:
+
+/s/ William L. Horton, Jr.
+
+Name:
+
+William L. Horton, Jr.
+
+Title:
+
+Senior Vice President, Deputy General Counsel and Corporate Secretary
+Date: September 5, 2024

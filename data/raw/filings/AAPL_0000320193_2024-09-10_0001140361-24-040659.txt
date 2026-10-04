@@ -1,0 +1,197 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+September 10, 2024
+
+Date of Report (Date of earliest event reported)
+
+Apple Inc.
+
+(Exact name of Registrant as specified in its charter)
+
+California
+
+(State or other jurisdiction
+
+of incorporation)
+
+001-36743
+
+(Commission
+
+File Number)
+
+One Apple Park Way
+
+Cupertino
+,
+California
+
+95014
+
+(Address of principal executive offices) (Zip Code)
+
+(
+408
+)
+996-1010
+
+(Registrant’s telephone number, including area code)
+
+Not applicable
+
+(Former name or former address, if changed since last report.)
+
+94-2404110
+
+(I.R.S. Employer
+
+Identification No.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.00001 par value per share
+
+AAPL
+
+The Nasdaq Stock Market LLC
+
+0.000% Notes due 2025
+
+—
+
+The Nasdaq Stock Market LLC
+
+0.875% Notes due 2025
+
+—
+
+The Nasdaq Stock Market LLC
+
+1.625% Notes due 2026
+
+—
+
+The Nasdaq Stock Market LLC
+
+2.000% Notes due 2027
+
+—
+
+The Nasdaq Stock Market LLC
+
+1.375% Notes due 2029
+
+—
+
+The Nasdaq Stock Market LLC
+
+3.050% Notes due 2029
+
+—
+
+The Nasdaq Stock Market LLC
+
+0.500% Notes due 2031
+
+—
+
+The Nasdaq Stock Market LLC
+
+3.600% Notes due 2042
+
+—
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the
+Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition
+period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On August 30, 2016, the European Commission (the “Commission”) announced its decision that Ireland granted state aid to Apple Inc. (the “Company”) by providing
+tax opinions in 1991 and 2007 concerning the tax allocation of profits of the Irish branches of two subsidiaries of the Company (the “State Aid Decision”). The State Aid Decision ordered Ireland to calculate and recover additional taxes from the
+Company for the period June 2003 through December 2014. Irish legislative changes, effective as of January 2015, eliminated the application of the tax opinions from that date forward. The Company and Ireland appealed the State Aid Decision to the
+General Court of the Court of Justice of the European Union (the “General Court”). On July 15, 2020, the General Court annulled the State Aid Decision. On September 25, 2020, the Commission appealed the General Court’s decision to the European Court
+of Justice (the “ECJ”) and a hearing was held on May 23, 2023.
+
+On September 10, 2024, the ECJ announced that it had set aside the 2020 judgment of the General Court and confirmed the Commission’s 2016 State Aid Decision. As
+a result, the Company expects to record a one-time income tax charge in its fourth fiscal quarter ending September 28, 2024, of up to approximately $10 billion, which will increase the Company’s effective tax rate for the quarter.
+
+The information presented in this Current Report is preliminary and actual results may differ when the Company reports its final results for the fourth quarter.
+
+The information contained in this Current Report shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the
+“Exchange Act”), or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+
+This Current Report contains forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking
+statements include without limitation those about the Company’s anticipated effective tax rate and financial results. These statements involve risks and uncertainties, and actual results may differ materially from any future results expressed or
+implied by the forward-looking statements. Risks and uncertainties include without limitation: effects of global and regional economic conditions, including as a result of government policies, war, terrorism, natural disasters, and public health
+issues; risks relating to the design, manufacture, introduction, and transition of products and services in highly competitive and rapidly changing markets, including from reliance on third parties for components, technology, manufacturing,
+applications, and content; risks relating to information technology system failures, network disruptions, and failure to protect, loss of, or unauthorized access to, or release of, data; and effects of unfavorable legal proceedings, government
+investigations, and complex and changing laws and regulations. More information on these risks and other potential factors that could affect the Company’s business, reputation, results of operations, financial condition, and stock price is included
+in the Company’s filings with the SEC, including in the “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” sections of the Company’s most recently filed periodic reports on Form 10-K and Form
+10-Q and subsequent filings. The Company assumes no obligation to update any forward-looking statements, which speak only as of the date they are made.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly
+authorized.
+
+Date: September 10, 2024
+
+Apple Inc.
+
+By:
+
+/s/ Luca Maestri
+
+Luca Maestri
+
+Senior Vice President, Chief Financial Officer

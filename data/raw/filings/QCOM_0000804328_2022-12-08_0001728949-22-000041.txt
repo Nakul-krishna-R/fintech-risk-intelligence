@@ -1,0 +1,77 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of
+The Securities Exchange Act of 1934
+December 5, 2022
+
+Date of Report (Date of earliest event reported)
+QUALCOMM Incorporated
+(Exact name of registrant as specified in its charter)
+Delaware
+
+(State or other jurisdiction of incorporation)
+000-19528
+95-3685934
+(Commission File Number)
+(IRS Employer Identification No.)
+5775 Morehouse Drive
+,
+San Diego
+,
+California
+92121
+(Address of principal executive offices)
+(Zip Code)
+858
+-
+587-1121
+
+(Registrant’s telephone number, including area code)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.0001 par value
+
+QCOM
+Nasdaq Stock Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(b) On December 5, 2022, Erin Polek, Senior Vice President, Corporate Controller and Chief Accounting Officer (Principal Accounting Officer) of QUALCOMM Incorporated (the Company), informed the Company that she will be retiring from the Company. In connection with her retirement, Ms. Polek stepped down from her position as Corporate Controller and Chief Accounting Officer effective December 8, 2022. She will remain with the Company as an employee to support a smooth transition of her responsibilities through a date to be mutually agreed upon.
+(c) On December 6, 2022, the Company appointed Neil Martin to serve as its Senior Vice President and Chief Accounting Officer (Principal Accounting Officer) effective December 8, 2022. Mr. Martin, age 47, served as Senior Vice President, Finance for Qualcomm Technologies, Inc., a wholly owned subsidiary of the Company, since March 2022. He served as Senior Vice President and Treasurer of the Company from May 2019 to March 2022, and as Vice President, Finance from April 2013 to May 2019.
+Mr. Martin served in various other finance and leadership roles since joining the Company in February 2001.
+Prior to joining the Company, he was a senior auditor at McGladrey & Pullen, LLP (now RSM). Mr. Martin holds a B.S. in Accounting from Loyola Marymount University. There was not and is not any arrangement or understanding between Mr. Martin and any other person pursuant to which he was selected to this position. Mr. Martin did not receive any change in his compensation in connection with his appointment.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+QUALCOMM Incorporated
+Date:
+December 8, 2022
+By:
+/s/ Akash Palkhiwala
+
+Akash Palkhiwala
+
+Chief Financial Officer

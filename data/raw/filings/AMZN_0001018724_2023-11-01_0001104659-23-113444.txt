@@ -1,0 +1,247 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant
+to Section 13 or 15(d) of the
+
+Securities
+Exchange Act of 1934
+
+November 1, 2023
+
+Date of Report
+
+(Date of earliest
+event reported)
+
+AMAZON.COM, INC.
+
+(Exact name of
+registrant as specified in its charter)
+
+Delaware
+
+000-22513
+
+91-1646860
+
+(State
+or other jurisdiction of
+
+incorporation)
+
+(Commission
+File Number)
+
+(IRS
+Employer Identification No.)
+
+410 Terry Avenue North
+,
+Seattle
+,
+Washington
+
+98109-5210
+
+(Address of principal
+executive offices, including Zip Code)
+
+(
+206
+)
+
+266-1000
+
+(Registrant’s
+telephone number, including area code)
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of
+the Act:
+
+Title of Each Class
+
+Trading Symbol(s)
+
+Name of Each Exchange on Which Registered
+
+Common Stock, par value $.01 per share
+
+AMZN
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+
+¨
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+¨
+
+TABLE OF CONTENTS
+
+ITEM 1.01. ENTRY INTO A MATERIAL DEFINITIVE
+AGREEMENT.
+
+3
+
+ITEM
+1.02. Termination of a Material Definitive Agreement.
+
+3
+
+ITEM 2.03. CREATION OF A DIRECT FINANCIAL OBLIGATION OR AN OBLIGATION
+UNDER AN OFF-BALANCE SHEET ARRANGEMENT OF A REGISTRANT.
+
+3
+
+ITEM 9.01. FINANCIAL STATEMENTS AND EXHIBITS.
+
+4
+
+SIGNATURES
+
+5
+
+EXHIBIT 10.1
+
+EXHIBIT 10.2
+
+2
+
+ITEM 1.01.
+
+ENTRY INTO A MATERIAL DEFINITIVE AGREEMENT.
+
+On November 1, 2023, Amazon.com, Inc. (the “Company”),
+Citibank N.A., as administrative agent, and the lenders party thereto entered into a five-year revolving credit agreement (the “Credit
+Agreement”). The Credit Agreement replaces the prior $10.0 billion amended and restated credit agreement entered into by the Company,
+JPMorgan Chase Bank, N.A., and other lenders on March 29, 2022, which was terminated on November 1, 2023. The Credit Agreement provides
+the Company with an unsecured revolving credit facility with a borrowing capacity of up to $15.0 billion. The term of the Credit Agreement
+is five years, but it may be extended on one or more occasions for additional one-year terms if approved by the lenders.
+
+In addition, on November 1, 2023, the Company,
+Citibank N.A., as administrative agent, and the lenders party thereto entered into a 364-day revolving credit agreement (the “Short-Term
+Credit Agreement”). The Short-Term Credit Agreement replaces the prior $10.0 billion 364-day revolving credit agreement entered
+into by the Company, JPMorgan Chase Bank, N.A., and other lenders on November 18, 2022, which was terminated on November 1, 2023. The
+Short-Term Credit Agreement provides the Company with an unsecured revolving credit facility with a borrowing capacity of up to $5.0 billion.
+The term of the Short-Term Credit Agreement is 364 days, but it may be extended for an additional period of 364 days if approved by the
+lenders.
+
+The interest rate applicable to outstanding
+balances under the Credit Agreement and the Short-Term Credit Agreement is the applicable benchmark rate specified in the agreement plus 0.45%, with a commitment fee of 0.03% on the
+undrawn portion of the credit facility.
+
+Borrowings under the Credit Agreement and the Short-Term
+Credit Agreement will be used for general corporate purposes, including backstopping any notes that the Company may issue under its commercial
+paper program.
+
+The Credit Agreement and the Short-Term Credit
+Agreement contain customary representations and warranties, covenants, and events of default, but do not contain financial covenants.
+Upon an event of default that is not cured within applicable grace periods or waived, any unpaid amounts under the Credit Agreement or
+the Short-Term Credit Agreement may be declared immediately due and payable and the commitments may be terminated.
+
+The financial institutions party to the Credit
+Agreement and the Short-Term Credit Agreement and their respective affiliates are full service financial institutions engaged in various
+activities, which may include sales and trading, commercial and investment banking, advisory, investment management, investment research,
+principal investment, hedging, market making, brokerage, and other financial and non-financial activities and services. Certain of these
+financial institutions and their respective affiliates have provided, and may in the future provide, a variety of these services to the
+Company and to persons and entities with relationships with the Company, for which they received or will receive customary fees and expenses.
+
+The foregoing descriptions of the Credit Agreement
+and Short-Term Credit Agreement are qualified in their entirety by the terms of such agreements, which are filed hereto as Exhibit 10.1
+and Exhibit 10.2, respectively, and incorporated herein by reference.
+
+ITEM 1.02.
+
+Termination of a Material Definitive Agreement.
+
+The information set forth in Item 1.01 of this
+Current Report on Form 8-K is hereby incorporated by reference into this Item 1.02.
+
+ITEM 2.03.
+
+CREATION OF A DIRECT FINANCIAL OBLIGATION OR AN OBLIGATION UNDER AN OFF-BALANCE SHEET ARRANGEMENT OF A REGISTRANT.
+
+The information set forth in Item 1.01 of this
+Current Report on Form 8-K is hereby incorporated by reference into this Item 2.03.
+
+3
+
+ITEM 9.01.
+
+FINANCIAL STATEMENTS AND EXHIBITS.
+
+(d) Exhibits.
+
+Exhibit
+
+Number
+
+Description
+
+10.1
+
+Five-Year Revolving Credit Agreement, dated as of November 1, 2023, among
+Amazon.com, Inc., Citibank N.A., as administrative agent, and the lenders party thereto.
+
+10.2
+
+364-Day Revolving Credit Agreement, dated as of November 1, 2023, among
+Amazon.com, Inc., Citibank N.A., as administrative agent, and the lenders party thereto.
+
+104
+
+The cover page from this Current Report on Form 8-K, formatted in Inline
+XBRL (included as Exhibit 101).
+
+4
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+AMAZON.COM, INC. (REGISTRANT)
+
+By:
+
+/s/ Antonio Masone
+
+Dated: November 1, 2023
+
+Antonio Masone
+
+Vice President and Treasurer
+
+5

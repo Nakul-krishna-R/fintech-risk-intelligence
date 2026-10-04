@@ -1,0 +1,208 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+
+September 30,
+2024
+
+Chevron Corporation
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-00368
+
+94-0890210
+
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(I.R.S. Employer Identification No.)
+
+5001 Executive Parkway
+,
+Suite 200
+
+San Ramon
+,
+CA
+
+94583
+
+(Address of Principal Executive Offices)
+
+(Zip Code)
+
+(
+925
+)
+842-1000
+
+Registrant’s telephone number, including area code
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligations of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol
+
+Name of each exchange on which registered
+
+Common stock, par value $.75 per share
+
+CVX
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging
+growth company
+☐
+
+If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any
+new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 8.01.
+Other Events.
+
+As
+
+previously
+disclosed, on October 22, 2023, Chevron Corporation (“
+Chevron
+”), Hess
+Corporation (“
+Hess
+”) and Yankee Merger Sub Inc., a wholly owned subsidiary of Chevron (“
+Merger Sub
+”),
+entered into an Agreement and Plan of Merger (the “
+Merger Agreement
+”), pursuant to which, among other things and subject
+to the terms and conditions therein, Merger Sub will be merged with and into Hess, with Hess surviving the merger as a direct, wholly
+owned subsidiary of Chevron (such transaction, the “
+Merger
+”).
+
+The
+consummation of the Merger is subject to the satisfaction or waiver of certain closing conditions including, among other things, the expiration
+or termination of the applicable waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended (the “
+HSR
+Act
+”). As previously disclosed, on December 7, 2023, Chevron and Hess each received a request for additional information and
+documentary material (the “
+Second Request
+”) from the U.S. Federal Trade Commission (“
+FTC
+”) in connection
+with the FTC’s review of the transactions contemplated by the Merger Agreement. The effect of the Second Request was to extend the
+waiting period under the HSR Act until 30 days after both Chevron and Hess certified substantial compliance with the Second Request. Following
+Chevron’s and Hess’s certifications of substantial compliance, the waiting period under the HSR Act expired on July 1, 2024.
+
+On
+September 30, 2024, the FTC announced that a majority of the FTC Commissioners voted to accept a consent agreement among the FTC, Chevron and Hess (the
+“
+Consent Agreement
+”), and on September 30, 2024, Chevron issued a press release announcing that the FTC’s
+review of the Merger has been completed. A copy of the press release is included as Exhibit 99.1 to this current report on Form
+8-K. Under the Consent Agreement, Chevron and Hess have agreed that John B. Hess will not be appointed to the Chevron Board of Directors
+following consummation of the Merger. Mr. Hess will serve as an advisor and representative for Chevron on government relations and social
+investments in Guyana, as well as on support for the Salk Institute’s Harnessing Plants Initiative.
+
+Pursuant
+to the regulations issued under the HSR Act, the parties have one year from the expiration of the waiting period to close the Merger.
+Chevron and Hess will take appropriate steps in order to maintain HSR clearance for the Merger closing following satisfactory resolution
+of the
+ongoing arbitration proceedings regarding preemptive rights in the Stabroek Block joint operating agreement,
+including
+if necessary filing additional notifications under the HSR Act.
+
+The
+completion of the Merger remains subject to the Merger Agreement’s closing conditions, including the satisfactory resolution of
+the Stabroek Block joint operating agreement arbitration.
+
+Item 9.01
+Financial Statements and Exhibits.
+
+(d)
+
+Exhibits
+.
+
+Exhibit
+
+Number
+
+Description
+
+99.1
+
+News release issued by Chevron Corporation, dated September 30, 2024.
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated: September 30,
+2024
+
+CHEVRON CORPORATION
+
+By:
+
+/s/ Christine L. Cavallo
+
+Name:
+
+Christine L. Cavallo
+
+Title:
+
+Assistant Secretary

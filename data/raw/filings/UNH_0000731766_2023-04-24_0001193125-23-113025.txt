@@ -1,0 +1,180 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+Current Report
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported):
+April 18, 2023
+
+UNITEDHEALTH GROUP INCORPORATED
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+1-10864
+
+41-1321939
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+UnitedHealth Group Center
+
+9900 Bren Road East
+
+Minnetonka
+,
+Minnesota
+
+55343
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+(952)
+
+936-1300
+
+N/A
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $.01 par value
+
+UNH
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+On April 18, 2023, UnitedHealth Group Incorporated (the “Company”) and U.S. Bank Trust Company, National Association, as trustee, entered into a supplemental indenture (the “2038 Supplemental Indenture”) to the Company’s indenture, dated as of February 4, 2008 (the “2008 Base Indenture”), as supplemented by the officers’ certificate and company order (the “2038 Officers’ Certificate”) relating to the Company’s outstanding 6.875% Senior Notes due 2038 (the “2038 Notes”).
+
+The 2038 Supplemental Indenture gives effect to the consents validly delivered and not validly revoked by holders representing $819,804,000 in aggregate principal amount (representing 74.53% of the aggregate principal amount) of the 2038 Notes, as set forth in the Company’s consent solicitation statement dated April 4, 2023 (the “Statement”). The 2038 Supplemental Indenture removes the liens covenant set forth in Section (A)12 of the 2038 Officers’ Certificate in order to align the terms of the 2038 Notes with the terms of the most recently issued series of senior notes under the 2008 Base Indenture.
+
+The 2038 Supplemental Indenture became operative on April 18, 2023 following the payment by the Company of the cash consideration to the holders of the 2038 Notes who validly delivered consents in the manner described in the Statement.
+
+The foregoing description of the 2038 Supplemental Indenture does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the 2038 Supplemental Indenture, a copy of which is filed herewith as Exhibit 4.1 and incorporated herein by reference.
+
+Item 3.03
+
+Material Modification to Rights of Security Holders.
+
+The information set forth in Item 1.01 is incorporated by reference into this Item 3.03.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit
+
+Description
+
+4.1
+
+Supplemental Indenture, dated as of April 18, 2023, between UnitedHealth Group Incorporated and U.S. Bank Trust Company, National Association, as trustee, relating to the 6.875% Senior Notes due 2038.
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL)
+
+Signatures
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: April 24, 2023
+
+UNITEDHEALTH GROUP
+
+INCORPORATED
+
+By:
+
+/s/ Kuai H. Leong
+
+Name:
+
+Kuai H. Leong
+
+Title:
+
+Deputy Corporate Secretary

@@ -1,0 +1,367 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+February 23, 2021
+
+Date of Report (Date of earliest event reported)
+
+Apple Inc.
+
+(Exact name of Registrant as specified in its charter)
+
+California
+
+001-36743
+
+94-2404110
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(I.R.S. Employer
+Identification No.)
+
+One Apple Park Way
+
+Cupertino
+,
+California
+
+95014
+
+(Address of principal executive offices) (Zip Code)
+
+(
+408
+)
+996-1010
+
+(Registrant’s telephone number, including area code)
+
+Not applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock, $0.00001 par value per share
+
+AAPL
+
+The Nasdaq Stock Market LLC
+
+1.000% Notes due 2022
+
+—
+
+The Nasdaq Stock Market LLC
+
+1.375% Notes due 2024
+
+—
+
+The Nasdaq Stock Market LLC
+
+0.000% Notes due 2025
+
+—
+
+The Nasdaq Stock Market LLC
+
+0.875% Notes due 2025
+
+—
+
+The Nasdaq Stock Market LLC
+
+1.625% Notes due 2026
+
+—
+
+The Nasdaq Stock Market LLC
+
+2.000% Notes due 2027
+
+—
+
+The Nasdaq Stock Market LLC
+
+1.375% Notes due 2029
+
+—
+
+The Nasdaq Stock Market LLC
+
+3.050% Notes due 2029
+
+—
+
+The Nasdaq Stock Market LLC
+
+0.500% Notes due 2031
+
+—
+
+The Nasdaq Stock Market LLC
+
+3.600% Notes due 2042
+
+—
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 5.07
+
+Submission of Matters to a Vote of Security Holders.
+
+The Annual Meeting of Shareholders of Apple Inc. was held on February 23, 2021. At the Annual Meeting, Apple’s shareholders voted on the following five proposals and cast their votes as described below.
+
+1.
+
+The individuals listed below were elected at the Annual Meeting to serve as directors of Apple until the next annual meeting of shareholders and until their successors are duly elected and qualified:
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Vote
+
+James Bell
+
+9,708,866,652
+
+72,111,065
+
+29,746,366
+
+3,536,704,458
+
+Tim Cook
+
+9,634,029,153
+
+160,024,782
+
+16,670,148
+
+3,536,704,458
+
+Al Gore
+
+9,186,546,702
+
+601,015,496
+
+23,161,885
+
+3,536,704,458
+
+Andrea Jung
+
+9,065,855,420
+
+717,239,408
+
+27,629,255
+
+3,536,704,458
+
+Art Levinson
+
+9,230,840,902
+
+551,935,547
+
+27,947,634
+
+3,536,704,458
+
+Monica Lozano
+
+9,722,139,317
+
+59,330,799
+
+29,253,967
+
+3,536,704,458
+
+Ron Sugar
+
+8,885,188,331
+
+894,011,726
+
+31,524,026
+
+3,536,704,458
+
+Sue Wagner
+
+9,590,064,988
+
+192,080,034
+
+28,579,061
+
+3,536,704,458
+
+2.
+
+A management proposal to ratify the appointment of Ernst & Young LLP as Apple’s independent registered public accounting firm for 2021 was approved.
+
+For
+
+Against
+
+Abstained
+
+13,148,792,411
+
+153,657,833
+
+44,978,297
+
+3.
+
+An advisory resolution to approve executive compensation was approved.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Vote
+
+9,254,006,580
+
+499,113,309
+
+57,604,194
+
+3,536,704,458
+
+4.
+
+A shareholder proposal entitled “Shareholder Proxy Access Amendments” was not approved.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Vote
+
+3,320,476,647
+
+6,394,730,252
+
+95,517,184
+
+3,536,704,458
+
+5.
+
+A shareholder proposal entitled “Shareholder Proposal to Improve Executive Compensation Program” was not approved.
+
+For
+
+Against
+
+Abstained
+
+Broker Non-Vote
+
+539,512,386
+
+9,141,454,196
+
+129,757,501
+
+3,536,704,458
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: February 24, 2021
+
+Apple Inc.
+
+By:
+
+/s/ Katherine Adams
+
+Katherine Adams
+
+Senior Vice President, General Counsel and Secretary

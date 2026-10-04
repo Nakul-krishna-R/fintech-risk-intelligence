@@ -1,0 +1,414 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+September 29, 2021
+
+Philip Morris International Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Virginia
+
+1-33708
+
+13-3435103
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(I.R.S. Employer
+Identification No.)
+
+120 Park Avenue
+,
+New York
+,
+New York
+
+10017-5592
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (
+917
+)
+663-2000
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock, no par value
+
+PM
+
+New York Stock Exchange
+
+2.900% Notes due 2021
+
+PM21A
+
+New York Stock Exchange
+
+2.625% Notes due 2022
+
+PM22A
+
+New York Stock Exchange
+
+2.375% Notes due 2022
+
+PM22B
+
+New York Stock Exchange
+
+2.500% Notes due 2022
+
+PM22
+
+New York Stock Exchange
+
+2.500% Notes due 2022
+
+PM22C
+
+New York Stock Exchange
+
+2.625% Notes due 2023
+
+PM23
+
+New York Stock Exchange
+
+2.125% Notes due 2023
+
+PM23B
+
+New York Stock Exchange
+
+3.600% Notes due 2023
+
+PM23A
+
+New York Stock Exchange
+
+2.875% Notes due 2024
+
+PM24
+
+New York Stock Exchange
+
+2.875% Notes due 2024
+
+PM24C
+
+New York Stock Exchange
+
+0.625% Notes due 2024
+
+PM24B
+
+New York Stock Exchange
+
+3.250% Notes due 2024
+
+PM24A
+
+New York Stock Exchange
+
+2.750% Notes due 2025
+
+PM25
+
+New York Stock Exchange
+
+3.375% Notes due 2025
+
+PM25A
+
+New York Stock Exchange
+
+2.750% Notes due 2026
+
+PM26A
+
+New York Stock Exchange
+
+2.875% Notes due 2026
+
+PM26
+
+New York Stock Exchange
+
+0.125% Notes due 2026
+
+PM26B
+
+New York Stock Exchange
+
+3.125% Notes due 2027
+
+PM27
+
+New York Stock Exchange
+
+3.125% Notes due 2028
+
+PM28
+
+New York Stock Exchange
+
+2.875% Notes due 2029
+
+PM29
+
+New York Stock Exchange
+
+3.375% Notes due 2029
+
+PM29A
+
+New York Stock Exchange
+
+0.800% Notes due 2031
+
+PM31
+
+New York Stock Exchange
+
+3.125% Notes due 2033
+
+PM33
+
+New York Stock Exchange
+
+2.000% Notes due 2036
+
+PM36
+
+New York Stock Exchange
+
+1.875% Notes due 2037
+
+PM37A
+
+New York Stock Exchange
+
+6.375% Notes due 2038
+
+PM38
+
+New York Stock Exchange
+
+1.450% Notes due 2039
+
+PM39
+
+New York Stock Exchange
+
+4.375% Notes due 2041
+
+PM41
+
+New York Stock Exchange
+
+4.500% Notes due 2042
+
+PM42
+
+New York Stock Exchange
+
+3.875% Notes due 2042
+
+PM42A
+
+New York Stock Exchange
+
+4.125% Notes due 2043
+
+PM43
+
+New York Stock Exchange
+
+4.875% Notes due 2043
+
+PM43A
+
+New York Stock Exchange
+
+4.250% Notes due 2044
+
+PM44
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+
+Item 1.01.
+
+Entry into a Material Definitive Agreement.
+
+On September 29, 2021, Philip Morris International Inc. (“PMI”) entered into a credit agreement (the “Credit Agreement”) relating to a senior unsecured revolving credit facility (the “Facility”) with the lenders named therein, Citibank Europe PLC, UK Branch, as facility agent, and Citibank, N.A., as swingline agent. The Facility provides for borrowings up to an aggregate principal amount of US$2.5 billion (or the equivalent in Euro) and expires on September 29, 2026, unless extended as further described in the Credit Agreement.
+
+Interest rates on borrowings under the Facility will be based on prevailing interest rates for U.S. Dollars or Euro, as applicable, and as further described in the Credit Agreement. The Facility may
+be used for general corporate purposes. The Credit Agreement also contains business transformation-linked pricing adjustments that may result in the reduction or increase in both the interest rate and commitment fee under the Credit Agreement if PMI achieves, or fails to achieve, certain specified targets based on its business transformation goals, specifically to increase the percentage of PMI’s total net revenues from smoke-free products and increase the number of markets where PMI’s smoke-free products are available for sale.
+
+The Credit Agreement contains certain events of default customary for credit facilities of this type (with customary grace periods, as applicable), including nonpayment of principal or interest when due; material incorrectness of representations and warranties when made; breach of covenants; bankruptcy and insolvency; unsatisfied ERISA obligations; unstayed material judgment beyond specified periods; acceleration or payment default of other material indebtedness; and invalidation of PMI’s guaranty of subsidiary borrowings.
+
+If any events of default occur and are not cured within applicable grace periods or waived, any outstanding loans may be accelerated and the lenders’ commitments may be terminated. The occurrence of a bankruptcy and insolvency event of default will result in the automatic termination of commitments and acceleration of outstanding loans under the Credit Agreement.
+
+Certain of the lenders and their respective affiliates have, from time to time, performed, and may in the future perform, various financial advisory, commercial and investment banking services for PMI, for which they received or will receive customary fees and expenses. Certain affiliates of the lenders are underwriters of certain of PMI’s note issuances. PMI and some of its subsidiaries may enter into foreign exchange and other derivative arrangements with certain of the lenders and their affiliates. In addition, certain of the lenders and their respective affiliates act as dealers in connection with PMI’s commercial paper programs.
+
+The Facility replaces PMI’s existing US$3.5 billion (or the equivalent in Euro) revolving credit facility with the lenders named therein and Citibank Europe PLC, UK Branch (legal successor to Citibank International Limited), as facility agent, and Citibank, N.A., as swingline agent, which was to expire on October 1, 2022 (the “Terminated Facility”). The Terminated Facility was terminated effective September 29, 2021.
+
+At September 29, 2021, PMI had no borrowings outstanding under the Terminated Facility.
+
+The description above is a summary and is qualified in its entirety by the Credit Agreement, which is filed as Exhibit 10.1 to this report and is incorporated herein by reference.
+
+Item 1.02.
+
+Termination of a Material Definitive Agreement.
+
+The information set forth above under Item 1.01 regarding the credit agreement governing the Terminated Facility is hereby incorporated by reference into this Item 1.02.
+
+Item 2.03.
+
+Creation of a Direct Financial Obligation or an Obligation under an
+Off-Balance
+Sheet Arrangement of a Registrant.
+
+The information set forth above under Item 1.01 is hereby incorporated by reference into this Item 2.03.
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On September 30, 2021, PMI issued a press release announcing that PMI entered into the Facility. The press release is attached as Exhibit 99.1 to this Current Report on Form
+8-K
+and incorporated by reference into this Item 7.01.
+
+In accordance with General Instruction B.2 of Form
+8-K,
+the information of this Item 7.01, including Exhibit 99.1 hereto, shall not be deemed “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section. The information of this Item 7.01, including Exhibit 99.1 hereto shall not be incorporated by reference into any filing or other document pursuant to the Securities Act of 1933, as amended, except as may be expressly set forth by specific reference in such filing or document.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d)
+
+Exhibits
+.
+
+Exhibit
+
+Number
+
+Description
+
+10.1
+
+Credit Agreement, dated as of September 29, 2021, among PMI, the lenders named therein, Citibank Europe PLC, UK Branch, as facility agent, and Citibank, N.A., as swingline agent
+
+99.1
+
+Philip Morris International Inc. Press Release dated September 30, 2021 (furnished pursuant to Item 7.01).
+
+104
+
+Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document and contained in Exhibit 101)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+PHILIP MORRIS INTERNATIONAL INC.
+
+By:
+
+D
+ARLENE
+Q
+UASHIE
+H
+ENRY
+
+Name:
+
+Darlene Quashie Henry
+
+Title:
+
+Vice President, Associate General
+Counsel & Corporate Secretary
+
+DATE: September 30, 2021

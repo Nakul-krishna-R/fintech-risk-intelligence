@@ -1,0 +1,87 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+________________________________________________________
+FORM
+8-K
+________________________________________________________
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+August 13, 2021
+
+Date of Report (date of earliest event reported)
+
+_________________________________________________________
+salesforce.com, inc.
+(Exact name of Registrant as specified in its charter)
+
+__________________________________________________________
+
+Delaware
+001-32224
+94-3320693
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+Salesforce Tower
+415 Mission Street, 3rd Fl
+San Francisco
+,
+California
+
+94105
+(Address of principal executive offices)
+Registrant’s telephone number, including area code: (
+415
+)
+901-7000
+N/A
+(Former name or former address, if changed since last report)
+_________________________________________________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.001 per share
+CRM
+New York Stock Exchange
+, Inc.
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On August 18, 2021, salesforce.com, inc. (the “Company”) announced that Joe Allanson will retire from his position as Executive Vice President, Chief Accounting Officer and Corporate Controller of the Company and transition to the role of Executive Vice President, Finance ESG at the Company, effective September 15, 2021.
+On August 18, 2021, the Company also announced that Sundeep Reddy, age 48, will serve as Executive Vice President & Chief Accounting Officer of the Company, effective September 15, 2021. Mr. Reddy most recently served as Senior Vice President, Controller and Chief Accounting Officer for McKesson Corporation, a pharmaceutical distribution company, since 2018 and has served in a variety of accounting and finance-related leadership positions with McKesson Corporation since 2013. Mr. Reddy earned a Bachelor of Business Administration degree in accounting from Georgia State University in 1996 and a Masters of Business Administration degree from Emory University in 2014. He is a certified public accountant in Georgia.
+In connection with this appointment, the Company and Mr. Reddy entered into an offer letter that provides for an initial annual base salary of $528,572, an initial annual bonus targeted at 75% of base salary, and a sign-on bonus of $100,000. Subject to Compensation Committee approval, the Company also intends to grant Mr. Reddy $1,750,000 of restricted stock units and options to purchase $1,750,000 of the Company’s common stock at an exercise price equal to the per share closing price of the Company’s common stock on the date of grant. These equity awards will be subject to the Company’s standard time-based vesting provisions. Mr. Reddy is also eligible to participate in the compensation and benefit programs generally available to senior executives of the Company. The Company also intends to enter into its standard form of indemnification agreement with Mr. Reddy and its standard form of change of control and retention agreement applicable to non-CEO Section 16 officers. Additional information regarding the Company’s compensatory and benefit programs applicable to executive officers is available in the “Compensation Discussion and Analysis” section of the Company’s definitive Proxy Statement filed with the Securities and Exchange Commission on April 29, 2021.
+There are no arrangements or understandings between Mr. Reddy and any other persons pursuant to which he was selected as an officer, he has no family relationships with any of the Company’s directors or executive officers, and he has no direct or indirect material interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation S-K.
+Signature
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated:
+August 18, 2021
+salesforce.com, inc.
+/s/ A
+MY
+W
+EAVER
+Amy Weaver
+President and Chief Financial Officer

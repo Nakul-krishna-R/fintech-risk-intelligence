@@ -1,0 +1,238 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of
+The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+May 11, 2022
+
+Philip Morris International Inc.
+
+(Exact name of registrant as specified in its charter)
+Virginia
+1-33708
+13-3435103
+(State or other jurisdiction
+of incorporation)
+(Commission File Number)
+(I.R.S. Employer
+Identification No.)
+120 Park Avenue
+New York
+New York
+10017-5592
+(Address of principal executive offices)
+(Zip Code)
+Registrant's telephone number, including area code: (
+917
+)
+663-2000
+
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, no par value
+PM
+New York Stock Exchange
+2.375% Notes due 2022
+PM22B
+New York Stock Exchange
+2.500% Notes due 2022
+PM22
+New York Stock Exchange
+2.500% Notes due 2022
+PM22C
+New York Stock Exchange
+2.625% Notes due 2023
+PM23
+New York Stock Exchange
+2.125% Notes due 2023
+PM23B
+New York Stock Exchange
+3.600% Notes due 2023
+PM23A
+New York Stock Exchange
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+2.875% Notes due 2024
+PM24
+New York Stock Exchange
+2.875% Notes due 2024
+PM24C
+New York Stock Exchange
+0.625% Notes due 2024
+PM24B
+New York Stock Exchange
+3.250% Notes due 2024
+PM24A
+New York Stock Exchange
+2.750% Notes due 2025
+PM25
+New York Stock Exchange
+3.375% Notes due 2025
+PM25A
+New York Stock Exchange
+2.750% Notes due 2026
+PM26A
+New York Stock Exchange
+2.875% Notes due 2026
+PM26
+New York Stock Exchange
+0.125% Notes due 2026
+PM26B
+New York Stock Exchange
+3.125% Notes due 2027
+PM27
+New York Stock Exchange
+3.125% Notes due 2028
+PM28
+New York Stock Exchange
+2.875% Notes due 2029
+PM29
+New York Stock Exchange
+3.375% Notes due 2029
+PM29A
+New York Stock Exchange
+0.800% Notes due 2031
+PM31
+New York Stock Exchange
+3.125% Notes due 2033
+PM33
+New York Stock Exchange
+2.000% Notes due 2036
+PM36
+New York Stock Exchange
+1.875% Notes due 2037
+PM37A
+New York Stock Exchange
+6.375% Notes due 2038
+PM38
+New York Stock Exchange
+1.450% Notes due 2039
+PM39
+New York Stock Exchange
+4.375% Notes due 2041
+PM41
+New York Stock Exchange
+4.500% Notes due 2042
+PM42
+New York Stock Exchange
+3.875% Notes due 2042
+PM42A
+New York Stock Exchange
+4.125% Notes due 2043
+PM43
+New York Stock Exchange
+4.875% Notes due 2043
+PM43A
+New York Stock Exchange
+4.250% Notes due 2044
+PM44
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+Item 1.01.
+Entry into a Material Definitive Agreement.
+On May 11, 2022, Philip Morris International Inc. (the “
+Company
+”) entered into a credit agreement (the “
+Credit Agreement
+”) relating to a 364-day senior unsecured bridge facility (the “
+Facility
+”) with the lenders named therein and Citibank Europe PLC, UK Branch, as facility agent. The Facility provides for borrowings up to an aggregate principal amount of $17 billion and expires 364 days after the occurrence of certain events unless extended, in each case, as further described in the Credit Agreement. The Credit Agreement was entered into in connection with the Company’s all-cash recommended public offer to the shareholders of Swedish Match AB, a public limited liability company organized under the laws of the Kingdom of Sweden (“
+Swedish Match
+”), for all the outstanding shares of Swedish Match (the “
+Offer
+”), described below in Item 8.01.
+Interest rates on borrowings under the Facility will be based on prevailing interest rates for U.S. Dollars or Swedish Krona, as applicable, and as further described in the Credit Agreement. The Facility will be used, directly or indirectly, to finance the Offer, including currency exchange or other hedging arrangements and to pay fees and expenses incurred in connection with the Offer.
+The Credit Agreement contains certain events of default customary for credit facilities of this type (with customary grace periods, as applicable), including nonpayment of principal or interest when due; material incorrectness of representations and warranties when made; breach of covenants; bankruptcy and insolvency; unsatisfied ERISA obligations; unstayed material judgment beyond specified periods; acceleration or payment default of other material indebtedness; and invalidation of the Company’s guaranty of subsidiary borrowings.
+If any events of default occur and are not cured within applicable grace periods or waived, any outstanding loans may be accelerated and the lenders’ commitments may be terminated. The occurrence of a bankruptcy and insolvency event of default will result in the automatic termination of commitments and acceleration of outstanding loans under the Credit Agreement.
+Certain of the lenders under the Credit Agreement and their respective affiliates have, from time to time, performed, and may in the future perform, various financial advisory, commercial and investment banking services for the Company, for which they received or will receive customary fees and expenses. Certain affiliates of the lenders are underwriters of certain of the Company’s note issuances. The Company and some of its subsidiaries may enter into foreign exchange and other derivative arrangements with certain of the lenders and their affiliates. In addition, certain of the lenders and their respective affiliates act as dealers in connection with the Company’s commercial paper programs.
+The description above is a summary and is qualified in its entirety by the Credit Agreement, which is filed as Exhibit 10.1 to this report and is incorporated herein by reference.
+Item 2.03.
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+The information required by Item 2.03 and included under Item 1.01 of this Current Report on Form 8-K is incorporated herein by reference.
+Item 7.01.
+Regulation FD Disclosure.
+In connection with the Offer, on May 11, 2022, the Company is releasing an investor presentation. In connection with the presentation, the Company is furnishing to the Securities and Exchange Commission the following documents attached as exhibits to this Current Report on Form 8-K and incorporated by reference to this Item 7.01: (i) the presentation script, dated May 11, 2022, attached as Exhibit 99.1 hereto; and (ii) the presentation slides, dated May 11, 2022, attached as Exhibit 99.2 hereto.
+In accordance with General Instruction B.2 of Form 8-K, the information in Item 7.01 of this Current Report on Form 8-K, including Exhibits 99.1 and 99.2, shall not be deemed “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section. The information in Item 7.01 of this Current Report on Form 8-K shall not be incorporated by reference into any filing or other document pursuant to the Securities Act of 1933, as amended, except as may be expressly set forth by specific reference in such filing or document.
+Item 8.01.
+Other Events.
+Announcement of a public offer for all the outstanding shares of Swedish Match
+On May 11, 2022, Philip Morris Holland Holdings B.V., a limited liability company organized under the laws of The Netherlands and an indirect wholly-owned subsidiary of the Company (“
+PMHH
+”), announced the Offer (the “
+Offer Announcement
+”) at a price of SEK 106 in cash per share, implying a value of approximately SEK 161 billion, or $16 billion using the exchange rate at the time of the Offer Announcement. If, prior to settlement of the Offer, Swedish Match (i) distributes dividends or (ii) in any other way distributes or transfers value to its shareholders, the consideration in the Offer will be reduced accordingly.
+The board of directors of Swedish Match has resolved to recommend that the shareholders of Swedish Match accept the Offer. The acceptance period for the Offer for shares of Swedish Match has not commenced. An offer document regarding the Offer is expected to be made public on or around June 22, 2022. The acceptance period in the Offer is expected to commence on or around June 23, 2022 and expire on or around September 30, 2022. However, PMHH reserves the right to extend the acceptance period and, to the extent necessary and permissible, will do so in order for the acceptance period to cover applicable decision-making procedures at relevant authorities. PMHH also reserves the right to postpone the settlement date. PMHH will announce any extension of the acceptance period and/or postponement of the settlement date by a press release in accordance with applicable laws and regulations. The Company expects that the Offer will close by the fourth quarter of 2022.
+The completion of the Offer is subject to certain customary closing conditions for an offer governed by Nasdaq Stockholm’s Takeover Rules and the Takeover Act of Sweden (collectively, the “
+Takeover Rules
+”), including holders of at least 90% of the outstanding Swedish Match shares (on a fully diluted basis) tendering their shares into the Offer (the “
+Minimum Tender Condition
+”) and receipt of all necessary regulatory, governmental or similar clearances, approvals and decisions, including from competition authorities. PMHH reserves the right to withdraw the Offer in the event it becomes clear that any of the conditions to the Offer are not satisfied or cannot be satisfied. Other than with respect to the Minimum Tender Condition, however, such withdrawal will only be permitted if the non-satisfaction of such condition is of material importance to the proposed transaction. PMHH also reserves the right to waive, in whole or in part, any of the conditions to the Offer, including, with respect to the Minimum Tender Condition, to complete the Offer at a lower level of acceptance.
+As soon as practicable after the Minimum Tender Condition has been satisfied and in compliance with the Takeover Rules, PMHH intends to commence compulsory redemption proceedings under the Swedish Companies Act to acquire all remaining shares in Swedish Match. In connection therewith, PMHH intends to delist Swedish Match’s shares from Nasdaq Stockholm.
+The Takeover Rules and the Swedish Securities Council’s statements and rulings regarding interpretation and application of the Takeover Rules are applicable to the Offer.
+The foregoing summary of the Offer Announcement does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Offer Announcement. A copy of the Offer Announcement is attached hereto as Exhibit 99.3 and is incorporated herein by reference.
+No Offer or Solicitation
+This document is provided for informational purposes only and does not constitute an offer to sell, or an invitation to subscribe for, purchase or exchange, any securities or the solicitation of any vote or approval in any jurisdiction, nor shall there be any sale, issuance, exchange or transfer of the securities referred to in this document in any jurisdiction in contravention of applicable law.
+Cautionary Statement Concerning Forward-Looking Statements
+This document contains statements relating to future status or circumstances, including statements regarding the success of the acquisition, future performance, growth and other trend projections and other benefits of the acquisition, are forward-looking statements made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These statements may generally, but not always, be identified by the use of words such as “anticipates”, “intends”, “expects”, “believes”, or similar expressions. By their nature, forward-looking statements involve risk and uncertainty because they relate to events and depend on circumstances that will occur in the future. There can be no assurance that actual results will not differ materially from those expressed or implied by these forward-looking statements due to many factors, many of which are outside the control of the Company. Examples of forward-looking statements include, but are not limited to, statements made about the proposed transaction. Any forward-looking statements speak only as of the date on which they are made and the Company has no obligation (and undertakes no such obligation) to update or revise any of them, whether as a result of new information, future events or otherwise, except for in accordance with applicable laws and regulations.
+The Company’s business risks include: excise tax increases and discriminatory tax structures; increasing marketing and regulatory restrictions that could reduce our competitiveness, eliminate our ability to communicate with adult consumers, or ban certain of our products in certain markets or countries; health concerns relating to the use of tobacco and other nicotine-containing products and exposure to environmental tobacco smoke; litigation related to tobacco use and intellectual property; intense competition; the effects of global and individual country economic, regulatory and political developments, natural disasters and conflicts; the impact and consequences of Russia’s invasion of Ukraine; changes in adult smoker behavior; lost revenues as a result of counterfeiting, contraband and cross-border purchases; governmental investigations; unfavorable currency exchange rates and currency devaluations, and limitations on the ability to repatriate funds; adverse changes in applicable corporate tax laws; adverse changes in the cost, availability, and quality of tobacco and other agricultural products and raw materials, as well as components and materials for our electronic devices; and the integrity of its information systems and effectiveness of its data privacy policies. The Company’s future profitability may also be adversely affected should it be unsuccessful in its attempts to produce and commercialize reduced-risk products or if regulation or taxation do not differentiate between such products and cigarettes; if it is unable to successfully introduce new products, promote brand equity, enter new markets or improve its margins through increased prices and productivity gains; if it is unable to expand its brand portfolio internally or through acquisitions and the development of strategic business relationships; or if it is unable to attract and retain the best global talent, including women or diverse candidates. Future results are also subject to the lower predictability of our reduced risk product category’s performance.
+In addition, important factors that could cause actual results to differ materially from those indicated by forward-looking statements include risks and uncertainties related to: the possibility that expected benefits related to recent or pending acquisitions, including the proposed transaction, may not materialize as expected; the proposed transaction not being timely completed, if completed at all; regulatory approvals required for the transaction not being timely obtained, if obtained at all, or being obtained subject to conditions; prior to the completion of the transaction, Swedish Match’s business experiencing disruptions due to transaction-related uncertainty or other factors, including issues relating to maintaining relationships with employees, customers, licensees, other business partners or governmental entities; difficulty retaining key employees; the outcome of any legal proceedings related to the proposed transaction; and the parties being unable to successfully implement integration strategies or to achieve expected synergies and operating efficiencies within the expected time-frames or at all.
+The Company is further subject to other risks detailed from time to time in its publicly filed documents, including the Form 10-K for the year ended December 31, 2021, and
+
+the
+
+Form 10-Q for the quarter ended March 31, 2022. The Company cautions that the foregoing list of important factors is not a complete discussion of all potential risks and uncertainties. The Company does not undertake to update any forward-looking statement that we may make from time to time, except in the normal course of its public disclosure obligations.
+Item 9.01.
+Financial Statements and Exhibits.
+(d)
+Exhibits.
+10.1
+Credit Agreement, dated May
+11
+, 2022, among the Company, the lenders named therein and Citibank Europe
+PLC, UK B
+ranch, as facility agent.
+99.1
+Presentation
+Script
+, dated May 11, 2022.
+99.2
+Presentation Slides
+, dated May 11, 2022.
+99.3
+Offer Announcement, dated May 11, 2022.
+104
+Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document and contained in Exhibit 101)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+PHILIP MORRIS INTERNATIONAL INC.
+By:
+/s/ DARLENE QUASHIE HENRY
+Name:
+Darlene Quashie Henry
+Title:
+Vice President, Associate General Counsel & Corporate Secretary
+Date: May 11, 2022

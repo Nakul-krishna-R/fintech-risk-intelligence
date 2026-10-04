@@ -1,0 +1,75 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of
+The Securities Exchange Act of 1934
+January 4, 2021
+
+Date of Report (Date of earliest event reported)
+QUALCOMM Incorporated
+(Exact name of registrant as specified in its charter)
+Delaware
+
+(State or other jurisdiction of incorporation)
+000-19528
+95-3685934
+(Commission File Number)
+(IRS Employer Identification No.)
+5775 Morehouse Drive
+,
+San Diego
+,
+California
+92121
+(Address of principal executive offices)
+(Zip Code)
+858
+-
+587-1121
+
+(Registrant’s telephone number, including area code)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.0001 par value
+
+QCOM
+Nasdaq Stock Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(b) Effective on January 4, 2021, Steve Mollenkopf, the Chief Executive Officer (“CEO”) of QUALCOMM Incorporated (the “Company”), informed the Chair of the Board of Directors of the Company of his intention to retire as CEO effective June 30, 2021. Following 26 years of service at Qualcomm, including seven years as CEO, Mr. Mollenkopf believes that Qualcomm’s strong position makes this an appropriate time for an orderly transition in leadership. The Board of Directors requested that Mr. Mollenkopf continue his employment with the Company as a Special Advisor following the conclusion of his service as CEO. As discussed below, Mr. Mollenkopf, drawing on his deep experience and relationships, will report to the Board of Directors through its Chair to assist the Company in several key areas. Upon completion of Mr. Mollenkopf’s service as CEO on June 30, 2021, he plans to resign from the Board of Directors.
+(c) Effective on January 4, 2021, the Board of Directors appointed Cristiano Amon as CEO-elect, to serve as the Company’s CEO beginning on July 1, 2021. Mr. Amon, age 50, has served as President of the Company since January 2018. He served as Executive Vice President, Qualcomm Technologies, Inc. (“QTI”), a subsidiary of the Company, and President, Qualcomm CDMA Technologies (“QCT”) from November 2015 to January 2018. He served as Executive Vice President, QTI and Co-President, QCT from October 2012 to November 2015, Senior Vice President of the Company and Co-President, QCT from June 2012 to October 2012, and as Senior Vice President, QCT Product Management of the Company from October 2007 to June 2012, with responsibility for QTI’s product roadmap, including the Qualcomm Snapdragon platforms. He joined Qualcomm in 1995 as an engineer and throughout his tenure at Qualcomm has held several other technical and leadership positions. He holds a B.S. in Electrical Engineering and an honorary doctorate from UNICAMP, the State University of Campinas, Brazil.
+Effective July 1, 2021, in connection with his appointment as CEO, Mr. Amon will receive a base salary of $1,150,000 per year and will be eligible to receive a bonus under the Company’s 2021 Annual Cash Incentive Plan (“2021 ACIP”) of 200% of his base salary at target.
+Mr. Amon is the brother of Rogerio Amon, who currently serves as a Vice President, Program Management, QTI. Rogerio Amon is compensated according to the Company’s standard practices, including participation in its employee benefit plans generally made available to employees of a similar responsibility level. His current base salary is $280,530 per year, and he is eligible to participate in the Company’s cash bonus plan and to receive equity awards in amounts reflecting his relative position and performance. We do not view Mr. Amon as having an interest in the compensation of Rogerio Amon that is material to him or the Company.
+(e) Among other matters, as Special Advisor Mr. Mollenkopf (with Mr. Amon or individually, as appropriate) will focus on assisting the Company in governmental affairs matters (including interaction and engagement with high level domestic and foreign agencies and personnel), advising on current and any future regulatory and legal proceedings, advising on commercialization of existing and new intellectual properties (including negotiation of significant license agreements), advising on potential strategic acquisitions and other transactions, and advising on strategies designed to maintain the Company’s leadership in 5G technology development, as well as assisting with continuing CEO transition activities. As a Special Advisor to the Company, Mr. Mollenkopf will: (i) receive an annual salary of $150,000, (ii) to the extent he is eligible under existing plans and agreements, remain eligible to participate in the Company’s employee benefit plans and receive credit for service under previously outstanding equity awards, and (iii) participate in the 2021 ACIP. Mr. Mollenkopf will not receive any additional equity awards or participate in future cash bonus plans, nor will he receive any benefits under the Company’s Executive Officer Severance Plan or Executive Officer Change-in-Control Severance Plan, following his conclusion of service as CEO, although certain definitions in the severance plans will continue to apply to outstanding equity awards.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+QUALCOMM Incorporated
+Date:
+January 8, 2021
+By:
+/s/ Heather Ace
+Heather Ace
+Executive Vice President, Human Resources

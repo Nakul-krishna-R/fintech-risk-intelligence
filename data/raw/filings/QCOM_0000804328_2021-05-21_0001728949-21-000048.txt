@@ -1,0 +1,72 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of
+The Securities Exchange Act of 1934
+May 18, 2021
+
+Date of Report (Date of earliest event reported)
+QUALCOMM Incorporated
+(Exact name of registrant as specified in its charter)
+Delaware
+
+(State or other jurisdiction of incorporation)
+000-19528
+95-3685934
+(Commission File Number)
+(IRS Employer Identification No.)
+5775 Morehouse Drive
+,
+San Diego
+,
+California
+92121
+(Address of principal executive offices)
+(Zip Code)
+858
+-
+587-1121
+
+(Registrant’s telephone number, including area code)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.0001 par value
+
+QCOM
+Nasdaq Stock Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(d) As previously disclosed, effective January 4, 2021, the Board of Directors (the “Board”) of QUALCOMM Incorporated (the “Company”) appointed Cristiano R. Amon, the Company’s President, as CEO-elect, to serve as the Company’s Chief Executive Officer (“CEO”) and President following the retirement of Steve Mollenkopf as CEO effective June 30, 2021. Additionally, as previously disclosed, Mr. Mollenkopf has resigned from the Board effective June 30, 2021. On May 18, 2021, the Board elected Mr. Amon to the Board, for a term of office that begins on June 30, 2021 and expires at the Company’s next annual meeting of stockholders. There was not and is not any arrangement or understanding between Mr. Amon and any other person pursuant to which Mr. Amon was selected as a director. The Board has not appointed, and does not expect to appoint, Mr. Amon to serve on any of its standing committees. Mr. Amon will not receive any compensation for his service as a director.
+Mr. Amon is the brother of Rogerio Amon, who currently serves as a Vice President, Program Management, Qualcomm Technologies, Inc. Rogerio Amon’s compensation is described in the Company’s Current Report on Form 8-K filed with the Securities and Exchange Commission on January 8, 2021. We do not view Mr. Amon as having an interest in the compensation of Rogerio Amon that is material to him or the Company.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+QUALCOMM Incorporated
+Date:
+May 21, 2021
+By:
+/s/ Donald J. Rosenberg
+Donald J. Rosenberg
+Executive Vice President, General Counsel and Corporate Secretary

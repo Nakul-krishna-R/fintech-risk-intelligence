@@ -1,0 +1,315 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (date of earliest event reported):
+May 21, 2024
+
+JPMorgan Chase & Co
+.
+(Exact name of registrant as specified in its charter)
+Delaware
+1-5805
+13-2624428
+(State or other jurisdiction of
+incorporation or organization)
+(Commission File Number)
+(I.R.S. employer
+identification no.)
+383 Madison Avenue,
+New York,
+New York
+10179
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code: (
+212
+)
+270-6000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock
+JPM
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 5.75% Non-Cumulative Preferred Stock, Series DD
+JPM PR D
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 6.00% Non-Cumulative Preferred Stock, Series EE
+JPM PR C
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.75% Non-Cumulative Preferred Stock, Series GG
+JPM PR J
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.55% Non-Cumulative Preferred Stock, Series JJ
+JPM PR K
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.625% Non-Cumulative Preferred Stock, Series LL
+JPM PR L
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.20% Non-Cumulative Preferred Stock, Series MM
+JPM PR M
+The New York Stock Exchange
+Alerian MLP Index ETNs due May 24, 2024
+AMJ
+NYSE Arca, Inc.
+Guarantee of Callable Fixed Rate Notes due June 10, 2032 of JPMorgan Chase Financial Company LLC
+JPM/32
+The New York Stock Exchange
+Guarantee of Alerian MLP Index ETNs due January 28, 2044 of JPMorgan Chase Financial Company LLC
+AMJB
+NYSE Arca, Inc.
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02(b) Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+Timothy P. Flynn and Michael A. Neal, who served as directors of the Firm since 2012 and 2014, respectively, retired from the Board.
+The Board of Directors appointed Mark A. Weinberger as Chair of the Audit Committee and Alex Gorsky as a member of the Audit Committee. The Board also appointed Mr. Gorsky to the Public Responsibility Committee, concluding his service on the Risk Committee.
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+(a) Registrant held its Annual Meeting of Shareholders on Tuesday, May 21, 2024; 2,443,906,572 shares were represented in person or by proxy, or 85.09% of the total shares outstanding.
+(b) The results of the shareholder voting on the proposals presented were as follows:
+MANAGEMENT PROPOSALS
+Proposal 1 - Shareholders elected the 10 director nominees named in the Proxy Statement. All director nominees received at least 90.44% of the votes cast.
+Name
+For
+Against
+Abstain
+Broker Non-Votes
+Linda B. Bammann
+2,044,823,022
+49,409,185
+4,575,461
+345,098,904
+Stephen B. Burke
+1,907,581,633
+186,408,756
+4,817,279
+345,098,904
+Todd A. Combs
+1,893,709,045
+200,134,472
+4,964,151
+345,098,904
+Alicia Boler Davis
+2,084,143,155
+9,526,166
+5,138,347
+345,098,904
+James Dimon
+1,966,409,343
+120,547,508
+11,850,817
+345,098,904
+Alex Gorsky
+2,082,763,419
+10,855,711
+5,188,538
+345,098,904
+Mellody Hobson
+2,068,500,364
+25,710,297
+4,597,007
+345,098,904
+Phebe N. Novakovic
+2,062,907,060
+31,008,645
+4,891,963
+345,098,904
+Virginia M. Rometty
+2,048,165,597
+45,748,178
+4,893,893
+345,098,904
+Mark A. Weinberger
+2,057,059,744
+36,609,139
+5,138,785
+345,098,904
+Proposal 2 - Shareholders approved the advisory resolution to approve executive compensation.
+For
+Against
+Abstain
+Broker Non-Votes
+1,917,720,146
+167,266,011
+13,821,511
+345,098,904
+91.37
+%
+7.97
+%
+0.66
+%
+Proposal 3 - Shareholders approved the amended and restated long-term incentive plan.
+For
+Against
+Abstain
+Broker Non-Votes
+2,005,252,009
+85,219,720
+8,335,939
+345,098,904
+95.54
+%
+4.06
+%
+0.40
+%
+2
+Proposal 4 - Shareholders ratified the appointment of PricewaterhouseCoopers LLP as Registrant's independent registered public accounting firm for 2024.
+For
+Against
+Abstain
+Broker Non-Votes
+2,307,335,802
+131,119,379
+5,451,391
+N/A
+94.41
+%
+5.37
+%
+0.22
+%
+SHAREHOLDER PROPOSALS
+Proposal 5 - Shareholders did not approve the proposal on independent board chairman.
+For
+Against
+Abstain
+Broker Non-Votes
+895,666,130
+1,185,963,053
+17,178,485
+345,098,904
+42.67
+%
+56.51
+%
+0.82
+%
+Proposal 6 - Shareholders did not approve the proposal on humanitarian risks due to climate change policies.
+For
+Against
+Abstain
+Broker Non-Votes
+21,761,402
+2,051,253,367
+25,792,899
+345,098,904
+1.04
+%
+97.73
+%
+1.23
+%
+Proposal 7 - Shareholders did not approve the proposal on indigenous peoples' rights indicators.
+For
+Against
+Abstain
+Broker Non-Votes
+638,304,447
+1,431,378,762
+29,124,459
+345,098,904
+30.41
+%
+68.20
+%
+1.39
+%
+Proposal 8 - Shareholders did not approve the proposal on proxy voting alignment.
+For
+Against
+Abstain
+Broker Non-Votes
+163,558,093
+1,901,752,748
+33,496,827
+345,098,904
+7.79
+%
+90.61
+%
+1.60
+%
+Proposal 9 - Shareholders did not approve the proposal on report on due diligence in conflict-affected and high-risk areas.
+For
+Against
+Abstain
+Broker Non-Votes
+152,781,530
+1,912,330,099
+33,696,039
+345,098,904
+7.28
+%
+91.11
+%
+1.61
+%
+Proposal 10 - Shareholders did not approve the proposal on shareholder opportunity to vote on excessive golden parachutes.
+For
+Against
+Abstain
+Broker Non-Votes
+853,406,340
+1,237,894,270
+7,507,058
+345,098,904
+40.66
+%
+58.98
+%
+0.36
+%
+3
+Proposal 11 - Shareholder proposal on report on respecting workforce civil liberties was withdrawn by the shareholder.
+For
+Against
+Abstain
+Broker Non-Votes
+N/A
+N/A
+N/A
+N/A
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibit
+Exhibit No.
+Description of Exhibit
+101
+Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language).
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101).
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+JPMorgan Chase & Co.
+(Registrant)
+By:
+/s/ John H. Tribolati
+John H. Tribolati
+Corporate Secretary
+Dated:
+May 23, 2024
+4

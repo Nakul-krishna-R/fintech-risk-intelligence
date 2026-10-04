@@ -1,0 +1,407 @@
+Title of each class
+
+Capital stock, par value $.20 per share
+
+Trading
+symbol
+
+IBM
+
+Common Stock
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+WASHINGTON,
+D.C. 20549
+
+FORM
+
+8-K
+
+CURRENT
+REPORT PURSUANT TO SECTION 13 OR 15 (d)
+
+OF
+THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report:
+January 29, 2024
+
+(Date of earliest
+event reported)
+
+INTERNATIONAL
+BUSINESS MACHINES CORPORATION
+
+(Exact name of registrant
+as specified in its charter)
+
+New York
+
+1-2360
+
+13-0871985
+
+(State of Incorporation)
+
+(Commission File Number)
+
+(IRS employer Identification No.)
+
+One New Orchard Road
+
+Armonk
+,
+
+New York
+
+10504
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+914
+-
+499-1900
+
+(Registrant’s telephone number)
+
+Check the appropriate box
+below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following
+provisions:
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered
+pursuant to Section 12(b) of the Act:
+
+Title
+of each class
+
+Trading
+symbol(s)
+
+Name
+of each exchange
+on which registered
+
+Capital stock, par value $.20 per share
+
+IBM
+
+New York Stock Exchange
+
+NYSE
+Chicago
+
+1.125% Notes due 2024
+
+IBM 24A
+
+New York Stock Exchange
+
+2.875% Notes due 2025
+
+IBM 25A
+
+New York Stock Exchange
+
+0.950% Notes due 2025
+
+IBM 25B
+
+New York Stock Exchange
+
+0.875% Notes due 2025
+
+IBM 25C
+
+New York Stock Exchange
+
+0.300% Notes due 2026
+
+IBM 26B
+
+New York Stock Exchange
+
+1.250% Notes due 2027
+
+IBM 27B
+
+New York Stock Exchange
+
+3.375% Notes due 2027
+
+IBM 27F
+
+New York Stock Exchange
+
+0.300% Notes due 2028
+
+IBM 28B
+
+New York Stock Exchange
+
+1.750% Notes due 2028
+
+IBM 28A
+
+New York Stock Exchange
+
+1.500% Notes due 2029
+
+IBM 29
+
+New York Stock Exchange
+
+0.875% Notes due 2030
+
+IBM 30A
+
+New York Stock Exchange
+
+1.750% Notes due 2031
+
+IBM 31
+
+New York Stock Exchange
+
+3.625% Notes due 2031
+
+IBM 31B
+
+New York Stock Exchange
+
+0.650% Notes due 2032
+
+IBM 32A
+
+New York Stock Exchange
+
+1.250% Notes due 2034
+
+IBM 34
+
+New York Stock Exchange
+
+3.750% Notes due 2035
+
+IBM 35
+
+New York Stock Exchange
+
+4.875% Notes due 2038
+
+IBM 38
+
+New York Stock Exchange
+
+1.200% Notes due 2040
+
+IBM 40
+
+New York Stock Exchange
+
+4.000% Notes due 2043
+
+IBM 43
+
+New York Stock Exchange
+
+7.00% Debentures due 2025
+
+IBM 25
+
+New York Stock Exchange
+
+6.22% Debentures due 2027
+
+IBM 27
+
+New York Stock Exchange
+
+6.50% Debentures due 2028
+
+IBM 28
+
+New York Stock Exchange
+
+5.875% Debentures due 2032
+
+IBM 32D
+
+New York Stock Exchange
+
+7.00% Debentures due 2045
+
+IBM 45
+
+New York Stock Exchange
+
+7.125% Debentures due 2096
+
+IBM 96
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+
+¨
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any
+new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+The information set forth in the second and third paragraphs and the
+last sentence of Item 8.01 of this Current Report on Form 8-K is incorporated by reference herein.
+
+Item 8.01. Other Events.
+
+On January 29, 2024, IBM International Capital Pte.
+Ltd. (“IIC”), a private company limited by shares incorporated under the laws of the Republic of Singapore and a 100%
+owned “finance subsidiary” (as described by the U.S. Securities and Exchange Commission in Rule 13-01(a)(4)(vi) of
+Regulation S-X) of International Business Machines Corporation (“IBM”), and IBM entered into an underwriting agreement
+(the “Underwriting Agreement”) with Merrill Lynch (Singapore) Pte. Ltd., Citigroup Global Markets Singapore Pte. Ltd.,
+Goldman Sachs (Singapore) Pte., J.P. Morgan Securities Asia Private Limited and The Hongkong and Shanghai Banking Corporation
+Limited, Singapore Branch pursuant to which IIC agreed to sell $600,000,000
+aggregate principal amount of its 4.700% Notes due 2026, $500,000,000 aggregate principal amount of its 4.600% Notes due 2027,
+$500,000,000 aggregate principal amount of its 4.600% Notes due 2029, $500,000,000 aggregate principal amount of its 4.750% Notes
+due 2031, $1,000,000,000 aggregate principal amount of its 4.900% Notes due 2034, $1,000,000,000 aggregate principal amount of its
+5.250% Notes due 2044 and $1,400,000,000 aggregate principal amount of its 5.300% Notes due 2054 (together, the “Notes”)
+and the related guarantee of the Notes in a registered public offering (the “Offering”). The Notes will be fully and
+unconditionally guaranteed by IBM (the “Guarantee”).
+
+On February 2, 2024, IIC and IBM, as guarantor, entered into
+an indenture (the “Indenture”) with The Bank of New York Mellon, as trustee. The Indenture provides for the issuance of debt
+securities by IIC and the full and unconditional guarantee of such debt securities by IBM.
+
+Under the Indenture, subject to no event of default, IBM has the
+right, at its option at any time, without the consent of any holders of any series of debt securities, to be substituted for, and assume
+the obligations of, IIC under each series of debt securities that are then outstanding under the Indenture. The Indenture also contains
+covenants that limit the aggregate amount of secured indebtedness and sale and leaseback transactions of IBM, subject to exceptions described therein, and restrict IIC’s and IBM’s ability to merge or consolidate unless certain conditions are
+met.
+
+The Notes and the Guarantee will be issued pursuant to the Indenture
+and the closing of the Offering is expected to occur on February 5, 2024, subject to customary closing conditions.
+
+The Underwriting Agreement is filed as Exhibit 1.1 to this Current
+Report on Form 8-K and is incorporated herein by reference. The Indenture is filed as Exhibit 4.1 to this Current Report on
+Form 8-K and is incorporated herein by reference.
+
+Item 9.01. Financial Statements and Exhibits.
+
+This Current Report on Form 8-K is also being filed to incorporate
+by reference into Registration Statement Nos.
+333-276739
+and
+333-276739-01
+on Form S-3, effective January 29, 2024, the documents
+included as (1) Exhibits 4.2, 4.3, 4.4, 4.5, 4.6, 4.7 and 4.8 relating to the Notes and (2) Exhibits 5.1, 5.2, 23.1 and 23.2
+regarding the Notes.
+
+(d) Exhibits
+
+Exhibit No.
+
+Description of Exhibit
+
+1.1
+
+Underwriting Agreement dated January 29, 2024 among IBM International Capital Pte. Ltd., International Business Machines Corporation and Merrill Lynch (Singapore) Pte. Ltd., Citigroup Global Markets Singapore Pte. Ltd., Goldman Sachs (Singapore) Pte., J.P. Morgan Securities Asia Private Limited and The Hongkong and Shanghai Banking Corporation Limited, Singapore Branch, as Underwriters
+
+4.1
+
+Indenture dated as of February 2, 2024, between IBM International Capital Pte. Ltd., International Business Machines Corporation, as guarantor, and The Bank of New York Mellon, as trustee
+
+4.2
+
+Form of 4.700% Note due 2026
+
+4.3
+
+Form of 4.600% Note due 2027
+
+4.4
+
+Form of 4.600% Note due 2029
+
+4.5
+
+Form of 4.750% Note due 2031
+
+4.6
+
+Form of 4.900% Note due 2034
+
+4.7
+
+Form of 5.250% Note due 2044
+
+4.8
+
+Form of 5.300% Note due 2054
+
+5.1
+
+Opinion of Frank Sedlarcik, Vice President, Assistant General Counsel and Secretary of IBM regarding the Notes
+
+5.2.
+
+Opinion of Drew & Napier LLC
+
+23.1
+
+Consent of Frank Sedlarcik, Vice President, Assistant General Counsel and Secretary of IBM (included in Exhibit 5.1)
+
+23.2
+
+Consent of Drew & Napier LLC (included in Exhibit 5.2)
+
+104
+
+Cover Page Interactive Data File - the cover page interactive data file does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document
+
+IBM’s web site (www.ibm.com) contains a significant amount of
+information about IBM, including financial and other information for investors (www.ibm.com/investor/). IBM encourages investors to visit
+its various web sites from time to time, as information is updated and new information is posted.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+Date: February 2, 2024
+
+By:
+
+/s/ Simon J. Beaumont
+
+Simon J. Beaumont
+
+Vice President and Treasurer

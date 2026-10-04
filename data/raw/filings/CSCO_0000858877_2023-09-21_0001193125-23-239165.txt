@@ -1,0 +1,315 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+September 20, 2023
+
+CISCO SYSTEMS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-39940
+
+77-0059951
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+170 West Tasman Drive
+,
+San Jose
+,
+California
+
+95134-1706
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(408)
+
+526-4000
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☒
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.001 per share
+
+CSCO
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934 (§
+240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+Agreement and Plan of Merger
+
+On September 20, 2023, Cisco Systems, Inc. (“
+Cisco
+” or the “
+Company
+”), entered into an Agreement and Plan of Merger (the “
+Merger Agreement
+”), by and among the Company, Splunk Inc., a Delaware corporation (“
+Splunk
+”), and Spirit Merger Corp., a Delaware corporation and wholly owned subsidiary of the Company (“
+Merger Sub
+”), pursuant to which Merger Sub will merge with and into Splunk (the “
+Merger
+”), with Splunk surviving the Merger as a wholly-owned subsidiary of the Company. Capitalized terms used herein without definition shall have the respective meanings specified in the Merger Agreement.
+
+The Company’s Board of Directors (the “
+Board
+”) has unanimously approved the Merger Agreement.
+
+As a result of the Merger, each share of common stock, par value $0.001 per share, of Splunk (“
+Splunk Common Stock
+”) outstanding immediately prior to the effective time of the Merger (the “
+Effective Time
+”) (subject to certain exceptions, including shares of Splunk Common Stock owned by stockholders of Splunk who have not voted in favor of the adoption of the Merger Agreement and have properly exercised appraisal rights in accordance with Section 262 of the General Corporation Law of the State of Delaware (the “
+DGCL
+”)) will, at the Effective Time, automatically be converted into the right to receive $157.00 in cash, subject to applicable withholding taxes (the “
+Merger Consideration
+”). The aggregate equity value of the Splunk Common Stock acquired by the Company will be approximately $28 billion.
+
+Pursuant to the Merger Agreement, as of the Effective Time, the Merger Consideration in respect of each of Splunk’s Unvested Company Shares (as defined in the Merger Agreement) shall remain subject to the same restrictions, vesting arrangements or repurchase rights that were applicable to such Unvested Company Shares immediately prior to or at the Effective Time, and shall become payable by Cisco on the date that such Unvested Company Share would have become vested under the vesting schedule in place for such shares immediately prior to or at the Effective Time and shall otherwise remain subject to substantially the same terms and conditions as were applicable to the underlying Unvested Company Share immediately prior to the Effective Time, and each outstanding repurchase right shall be assigned to Cisco in the Merger and shall thereafter be exercisable by Cisco upon the same terms and subject to the same conditions that were in effect immediately prior to the Effective Time.
+
+Pursuant to the Merger Agreement, as of the Effective Time, each option to purchase shares of Splunk Common Stock that is vested as of the Effective Time and that is outstanding as of immediately prior to the Effective Time will, automatically and without any required action on the part of the holder thereof, be cancelled and converted into the right to receive an amount in cash, without interest, equal to the product obtained by multiplying (x) the excess, if any, of (a) the Merger Consideration over (b) the
+per-share
+exercise price for such vested stock option, by (y) the total number of shares of Splunk Common Stock underlying such vested stock option, subject to applicable withholding taxes. Each option to purchase shares of Splunk Common Stock that is not vested and is outstanding as of immediately prior to the Effective Time will, automatically and without any required action on the part of the holder thereof, be converted into the contingent right to receive an amount in cash, without interest, equal to the product obtained by multiplying (x) the excess, if any, of (a) the Merger Consideration over (b) the
+per-share
+exercise price for such unvested stock option, by (y) the total number of shares of Splunk Common Stock underlying such unvested stock option, which resulting amount will, subject to certain exceptions, vest and become payable at the same time as the unvested stock option from which such resulting amount was converted would have vested and been payable pursuant to its terms and will generally remain subject to the same terms and conditions as were applicable to such awards immediately prior to the Effective Time.
+
+Pursuant to the Merger Agreement, as of the Effective Time, each of Splunk’s time- and performance-based restricted stock units that is vested as of, or as a result of, the transactions contemplated by the Merger Agreement and that is outstanding as of the Effective Time will, automatically and without any required action on the part of the holder thereof, be cancelled and converted into the contingent right to receive an amount in cash, without interest, equal to the product obtained by multiplying (x) the total number of shares of Splunk Common Stock underlying such time- or performance-based restricted stock units (with performance-based restricted stock units vesting at the actual level of performance as determined prior to the closing by Splunk’s Board of Directors (the “
+Splunk Board
+”) or a committee thereof in accordance solely with the terms of the applicable contract with Splunk as in effect immediately prior to the Effective Time), by (y) the Merger Consideration, subject to applicable withholding taxes.
+
+Each of Splunk’s time- or performance-based restricted stock units that is not vested and is outstanding as of immediately prior to the Effective Time will, automatically and without any required action on the part of the holder thereof, be converted into the right to receive an amount in cash, without interest, equal to the product obtained by multiplying (x) the total number of shares of Splunk Common Stock underlying such unvested time- or performance-based restricted stock units (with performance-based restricted stock units converting at the actual level of performance as determined prior to the closing by the Splunk Board or a committee thereof in accordance solely with the terms of the applicable contract with Splunk as in effect immediately prior to the Effective Time), by (y) the Merger Consideration, which resulting amount will, subject to certain exceptions, vest and become payable at the same time as the unvested time- or performance-based restricted stock unit from which such resulting amount was converted would have vested and been payable pursuant to its terms and will generally remain subject to the same terms and conditions as were applicable to such awards immediately prior to the Effective Time.
+
+If the Merger is consummated, the Splunk Common Stock will be delisted from the Nasdaq Global Select Market and deregistered under the Securities Exchange Act of 1934, as amended (the “
+Exchange Act
+”).
+
+Closing Conditions
+
+Completion of the Merger is subject to certain closing conditions, including (1) the adoption of the Merger Agreement by a majority of the holders of the outstanding shares of Splunk Common Stock, (2) the expiration or early termination of the applicable waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, and the approval of the Merger under other applicable antitrust and foreign investment regimes, (3) the absence of any order, injunction or law prohibiting the Merger, (4) the accuracy of the other party’s representations and warranties, subject to certain standards set forth in the Merger Agreement, (5) compliance in all material respects with the other party’s obligations under the Merger Agreement, and (6) no Company Material Adverse Effect (as defined in the Merger Agreement) having occurred since the date of the Merger Agreement. The parties expect the transaction to close by the end of the third quarter of calendar year 2024.
+
+No Solicitation; Splunk Board Recommendation
+
+Splunk has also agreed not to (a) solicit proposals relating to alternative transactions or (b) enter into discussions or negotiations or provide
+non-public
+information in connection with any proposal for an alternative transaction from a third party, subject to certain exceptions to permit the Splunk Board to comply with its fiduciary obligations. Splunk has further agreed to cease and cause to be terminated any existing discussions or negotiations, if any, with regard to alternative transactions. However, subject to satisfaction of certain conditions and under the circumstances specified in the Merger Agreement prior to the adoption of the Merger Agreement by Splunk’s stockholders, the Splunk Board may change its recommendation and may terminate the Merger Agreement in response to a bona fide acquisition proposal that the Splunk Board determines in good faith constitutes a Superior Proposal, subject to customary match rights. The Splunk Board may also change its recommendation in response to an Intervening Event.
+
+Termination and Fees
+
+Either Splunk or the Company may terminate the Merger Agreement in certain circumstances, including if (1) the Merger is not completed by March 20, 2025, subject to certain limitations, (2) a governmental authority of competent jurisdiction has issued a final
+non-appealable
+governmental order prohibiting the Merger, (3) Splunk’s stockholders fail to adopt the Merger Agreement, or (4) the other party materially breaches its representations, warranties or covenants in the Merger Agreement, subject in certain cases, to the right of the breaching party to cure the breach. The Company and Splunk may also terminate the Merger Agreement by mutual written consent.
+
+Upon termination of the Merger Agreement, (a) the Company, under specified circumstances, including termination following an injunction arising in connection with certain Antitrust Laws, will be required to pay Splunk a termination fee of $1,478,000,000; and (b) Splunk, under specified circumstances, including termination of the Merger Agreement by Splunk to accept and enter into a definitive agreement with respect to a Superior Proposal or by the Company upon the Splunk Board’s Change of Recommendation, will be required to pay the Company a termination fee of $1,000,000,000.
+
+Other Terms of the Merger Agreement
+
+Splunk has made customary representations, warranties and covenants in the Merger Agreement, including, among others, covenants to conduct its business in all material respects in the ordinary course during the period between the date of the Merger Agreement and the completion of the Merger. The parties have agreed to use reasonable best efforts to take all actions necessary to consummate the Merger, including cooperating to obtain the regulatory approvals necessary to complete the Merger.
+
+The foregoing description of the Merger Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Merger Agreement, a copy of which is attached hereto as Exhibit 2.1 and incorporated herein by reference. A copy of the Merger Agreement has been included to provide Company stockholders and other security holders with information regarding its terms and is not intended to provide any factual information about Splunk, the Company, Merger Sub or their respective affiliates. The representations, warranties and covenants contained in the Merger Agreement have been made solely for the purposes of the Merger Agreement and as of specific dates; were made solely for the benefit of the parties to the Merger Agreement; are not intended as statements of fact to be relied upon by Company stockholders or other security holders, but rather as a way of allocating the risk between the parties in the event the statements therein prove to be inaccurate; have been modified or qualified by certain confidential disclosures that were made between the parties in connection with the negotiation of the Merger Agreement, which disclosures are not reflected in the Merger Agreement itself; may no longer be true as of a given date; and may apply standards of materiality in a way that is different from what may be viewed as material by Company stockholders or other security holders. Company stockholders and other security holders are not third-party beneficiaries under the Merger Agreement (except, following the Effective Time, with respect to Splunk’s shareholders’ right to receive the Merger Consideration and the right of holders of Splunk’s equity awards to receive the consideration provided for such equity awards pursuant to the Merger Agreement) and should not rely on the representations, warranties and covenants or any descriptions thereof as characterizations of the actual state of facts or condition of Splunk, the Company, Merger Sub or their respective affiliates. Moreover, information concerning the subject matter of the representations and warranties may change after the date of the Merger Agreement, which subsequent information may or may not be fully reflected in Splunk’s public disclosures. The Company acknowledges that, notwithstanding the inclusion of the foregoing cautionary statements, it is responsible for considering whether additional specific disclosures of material information regarding material contractual provisions are required to make the statements in this Form
+8-K
+not misleading. The Merger Agreement should not be read alone but should instead be read in conjunction with the other information regarding the Merger Agreement, the Merger, Splunk, the Company, Merger Sub, their respective affiliates and their respective businesses, that will be contained in, or incorporated by reference into, the Proxy Statement that Splunk will file, as well as in the Forms
+10-K,
+Forms
+10-Q,
+Forms
+8-K
+and other filings that Splunk and the Company will make with the U.S. Securities and Exchange Commission (the “
+SEC
+”).
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On September 21, 2023, the Company and Splunk jointly issued a press release announcing the execution of the Merger Agreement. The full text of the press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+
+The information contained in Item 7.01 of this report, including the information in Exhibit 99.1 attached to this report, is furnished pursuant to Item 7.01 of
+Form 8-K and
+shall not be deemed “filed” for the purposes of Section 18 of the Exchange Act, or otherwise subject to the liabilities of that section. Furthermore, the information in Item 7.01 of this report, including the information in Exhibit 99.1 attached to this report, shall not be deemed to be incorporated by reference in the filings of the registrant under the Securities Act of 1933, as amended.
+
+Item 8.01
+
+Other Events.
+
+Voting and Support Agreement
+
+On September 20, 2023, in connection with the Merger Agreement, the Company also entered into a Voting and Support Agreement (the “
+Voting and Support Agreement
+”) with certain funds affiliated with Hellman & Friedman Advisors LLC (such funds, collectively, “
+H&F
+”) and Splunk, pursuant to which H&F has agreed, among other things, to vote its shares of Splunk Common Stock in favor of adoption of the Merger Agreement and against any
+
+competing transaction so long as, among other things, the Merger Agreement remains in effect. As of the date hereof, H&F owns 12,799,822 shares of Splunk Common Stock, representing approximately 7.6% of the total outstanding Splunk Common Stock.
+
+The foregoing description of the Voting and Support Agreement does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Voting and Support Agreement, a copy of which is filed as Exhibit 99.2 hereto and is incorporated by reference herein.
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+This report may be deemed to contain forward-looking statements, which are subject to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Any statements that are not statements of historical fact (including statements containing the words “will,” “believes,” “plans,” “anticipates,” “expects,” “estimates,” “strives,” “goal,” “intends,” “may,” “endeavors,” “continues,” “projects,” “seeks,” or “targets,” or the negative of these terms or other comparable terminology, as well as similar expressions) should be considered to be forward-looking statements, although not all forward-looking statements contain these identifying words. Readers should not place undue reliance on these forward-looking statements, as these statements are the management’s beliefs and assumptions, many of which, by their nature, are inherently uncertain, and outside of the management’s control. Forward-looking statements may include statements regarding the expected benefits to Cisco, Splunk and their respective customers from completing the transaction, the integration of Splunk’s and Cisco’s complementary capabilities to create an
+end-to-end
+platform designed to unlock greater digital resilience for customers, plans for future investment and capital allocation, the expected financial performance of Cisco following the expected completion of the transaction, and the expected completion of the transaction. Statements regarding future events are based on the parties’ current expectations, estimates and projections and are necessarily subject to associated risks related to, among other things, (i) the completion of the proposed transaction on anticipated terms and timing, including obtaining stockholder and regulatory approvals and other conditions to the completion of the transaction, (ii) the effect of the announcement or pendency of the proposed transaction on Splunk’s business, operating results, and relationships with customers, suppliers, competitors and others, (iii) risks that the proposed transaction may disrupt Splunk’s current plans and business operations, (iv) risks related to the diverting of management’s attention from Splunk’s ongoing business operations, (v) the occurrence of any event, change or other circumstances that could give rise to the termination of the definitive agreement, (vi) the outcome of any legal proceedings related to the transaction, (vii) the potential effects on the accounting of the proposed transaction, (viii) legislative, regulatory and economic developments, (ix) general economic conditions, (x) restrictions during the pendency of the proposed transaction that may impact Splunk’s ability to pursue certain business opportunities or strategic transactions, (xi) the retention of key personnel, and (xii) the ability of Cisco to successfully integrate Splunk’s market opportunities, technology, personnel and operations and to achieve expected benefits. Therefore, actual results may differ materially and adversely from the anticipated results or outcomes indicated in any forward-looking statements. For information regarding other related risks, see the “Risk Factors” section of Cisco’s most recent report on Form
+10-K
+filed on September 7, 2023, as well as the “Risk Factors” section of Splunk’s most recent reports on Form
+10-Q
+and Form
+10-K
+filed with the SEC on August 24, 2023 and March 23, 2023, respectively. The parties undertake no obligation to revise or update any forward-looking statements for any reason, except as required by law.
+
+Additional Information and Where to Find It
+
+In connection with the proposed transaction and required stockholder approval, Splunk will file with the SEC a preliminary proxy statement and a definitive proxy statement. The proxy statement will be mailed to the stockholders of Splunk.
+Splunk’s stockholders are urged to carefully read the proxy statement (including all amendments, supplements and any documents incorporated by reference therein) and other relevant materials filed or to be filed with the SEC and in their entirety when they become available because they will contain important information about the proposed transaction and the parties to the transaction.
+Investors may obtain free copies of these documents (when they are available) and other documents filed with the SEC at its website at
+www.sec.gov
+. In addition, investors may obtain free copies of the documents filed with the SEC by Splunk by going to Splunk’s Investor Relations page on its corporate website at
+https://investors.splunk.com
+or by contacting Splunk Investor Relations at
+ir@splunk.com
+.
+
+Participants in the Solicitation
+
+Splunk and its executive officers and directors may be deemed to be participants in the solicitation of proxies from Splunk’s stockholders with respect to the transaction. Information about Splunk’s directors and executive officers, including their ownership of Splunk securities, is set forth in the proxy statement for Splunk’s 2023 Annual Meeting of Stockholders, which was filed with the SEC on May 9, 2023, Form
+8-K
+filed with the SEC on September 21, 2023, and Splunk’s other filings with the SEC. Investors may obtain more detailed information regarding the direct and indirect interests of Splunk and its respective executive officers and directors in the transaction, which may be different than those of Splunk stockholders generally, by reading the preliminary and definitive proxy statements regarding the transaction, which will be filed with the SEC.
+
+In addition, Cisco and its executive officers and directors may be deemed to have participated in the solicitation of proxies from Splunk’s stockholders in favor of the approval of the transaction. Information concerning Cisco’s directors and executive officers is set forth in Cisco’s proxy statement for its 2022 Annual Meeting of Stockholders, which was filed with the SEC on October 18, 2022, annual report on Form
+10-K
+filed with the SEC on September 7, 2023, Forms
+8-K
+filed with the SEC on February 21, 2023, July 19, 2023, and September 21, 2023, and Cisco’s other filings with the SEC. These documents are available free of charge at the SEC’s website at www.sec.gov or by going to Cisco’s Investor Relations website at https://investor.cisco.com.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+
+No.
+
+Description of Exhibit
+
+2.1
+
+Agreement and Plan of Merger, dated as of September 20, 2023, by and among Cisco Systems, Inc., Spirit Merger Corp., and Splunk Inc.
+
+99.1
+
+Joint Press Release, dated as of September 21, 2023.
+
+99.2
+
+Voting and Support Agreement, dated as of September 20, 2023, by and among Cisco Systems, Inc., Splunk Inc., and the Stockholders party thereto.
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+CISCO SYSTEMS, INC.
+
+Dated: September 21, 2023
+
+By:
+
+/s/ Evan Sloves
+
+Name:
+
+Evan Sloves
+
+Title:
+
+Secretary

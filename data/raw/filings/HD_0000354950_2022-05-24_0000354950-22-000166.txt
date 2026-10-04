@@ -1,0 +1,296 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+__________________
+FORM
+8-K
+
+__________________
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+May 18, 2022
+
+__________________
+THE
+HOME DEPOT, INC.
+
+(Exact Name of Registrant as Specified in Charter)
+
+__________________
+Delaware
+
+1-8207
+
+95-3261426
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+2455 Paces Ferry Road
+,
+Atlanta
+,
+Georgia
+
+30339
+
+(Address of Principal Executive Offices) (Zip Code)
+(
+770
+)
+433-8211
+
+(Registrant’s Telephone Number, Including Area Code)
+Not Applicable
+(Former Name or Former Address, if Changed Since Last Report)
+
+__________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2 below):
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.05 Par Value Per Share
+HD
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On May 18, 2022, the Leadership Development and Compensation Committee (“LDC Committee”) of the Board of Directors (the “Board”) of The Home Depot, Inc. (the “Company”) approved the Company's amended and restated Management Incentive Plan (the “Amended and Restated MIP”). The primary purpose of the amendment and restatement was to remove provisions related to the performance-based compensation exception under Internal Revenue Code § 162(m) and other conforming changes, including aligning with similar changes in the Company’s amended and restated Omnibus Stock Incentive Plan approved by the shareholders at the Company’s Annual Meeting of Shareholders held May 19, 2022 (the “Omnibus Plan”). The Amended and Restated MIP also permits the LDC Committee to adjust performance targets during a performance period due to an event occurring or existing after the establishment of the target.
+Also on May 18, 2022, the LDC Committee adopted new forms of Executive Officer Equity Award Agreements (the “Executive Officer Award Agreements”) and a new form of Nonemployee Director Deferred Share Award Agreement (the “Deferred Share Award Agreement” and together with the Executive Officer Award Agreements, the “Award Agreements”) with respect to the granting of performance shares, performance-based restricted stock, nonqualified stock options, and deferred shares under the Omnibus Plan. The new Executive Officer Award Agreements will be used for awards to executive officers under the Omnibus Plan made on or after May 19, 2022, and the new Deferred Share Award Agreement will be used for awards to nonemployee directors under the Omnibus Plan made on or after May 19, 2022. The Award Agreements have been updated to align with the changes in the Omnibus Plan, as well as other ministerial and conforming changes. Otherwise, the terms of the Executive Officer Award Agreements are substantially similar to those in the forms of executive officer award agreements last approved by the LDC Committee in February 2021 and November 2020 and disclosed by the Company in its Current Report on Form 8-K filed on March 1, 2021 and its Quarterly Report on Form 10-Q filed on November 24, 2020 (Exhibit 10.4), respectively, and the terms of the Deferred Share Award Agreement are substantially similar to those in the form of deferred share award agreement last approved by the LDC Committee in November 2017 and disclosed by the Company in its Annual Report on Form 10-K filed on March 23, 2017 (Exhibit 10.21).
+The foregoing summary is qualified by reference to the Amended and Restated MIP and the Award Agreements, which are filed as exhibits to this Current Report on Form 8-K and are incorporated by reference herein.
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+The 2022 Annual Meeting of Shareholders of The Home Depot, Inc. (the “Company”) was held on May 19, 2022. Below are the final vote results from the meeting.
+Proposal 1
+: The following nominees were elected by majority vote to serve on the Board of Directors:
+FOR
+AGAINST
+ABSTAIN
+BROKER
+NON-VOTES
+Gerard J. Arpey
+711,382,095
+20,116,182
+2,778,695
+143,770,510
+Ari Bousbib
+705,225,758
+27,493,763
+1,557,451
+143,770,510
+Jeffery H. Boyd
+692,361,485
+39,136,855
+2,778,632
+143,770,510
+Gregory D. Brenneman
+673,350,957
+59,386,571
+1,539,444
+143,770,510
+J. Frank Brown
+709,572,094
+23,161,327
+1,543,551
+143,770,510
+Albert P. Carey
+623,001,264
+108,489,722
+2,785,986
+143,770,510
+Edward P. Decker
+728,336,490
+4,432,400
+1,508,082
+143,770,510
+Linda R. Gooden
+725,905,497
+6,977,727
+1,393,748
+143,770,510
+Wayne M. Hewett
+725,444,716
+7,301,305
+1,530,951
+143,770,510
+Manuel Kadre
+721,086,208
+11,625,083
+1,565,681
+143,770,510
+Stephanie C. Linnartz
+715,491,064
+16,096,573
+2,689,335
+143,770,510
+Craig A. Menear
+713,202,041
+19,728,773
+1,346,158
+143,770,510
+Paula Santilli
+729,991,601
+2,855,472
+1,429,899
+143,770,510
+Caryn Seidman-Becker
+720,961,380
+11,895,020
+1,420,572
+143,770,510
+2
+Proposal 2
+: The appointment of KPMG LLP as the Company's independent registered public accounting firm for fiscal 2022 was ratified.
+FOR
+AGAINST
+ABSTAIN
+BROKER
+NON-VOTE
+830,660,746
+45,818,832
+1,567,904
+N/A
+Proposal 3
+: An advisory vote on executive compensation (“Say-on-Pay”) was approved.
+FOR
+AGAINST
+ABSTAIN
+BROKER
+NON-VOTE
+694,602,306
+36,806,742
+2,867,924
+143,770,510
+Proposal 4
+: The Company’s Omnibus Stock Incentive Plan, as Amended and Restated May 19, 2022, was approved.
+FOR
+AGAINST
+ABSTAIN
+BROKER
+NON-VOTE
+702,800,699
+28,854,391
+2,621,882
+143,770,510
+Proposal 5
+: A shareholder proposal to reduce the threshold for calling special shareholder meetings was not approved.
+FOR
+AGAINST
+ABSTAIN
+BROKER
+NON-VOTE
+280,029,241
+448,965,553
+5,282,178
+143,770,510
+Proposal 6
+: A shareholder proposal regarding an independent chair of the Board was not approved.
+FOR
+AGAINST
+ABSTAIN
+BROKER
+NON-VOTE
+167,804,445
+532,927,235
+33,545,292
+143,770,510
+Proposal 7
+: A shareholder proposal regarding a political contributions congruency analysis was not approved.
+FOR
+AGAINST
+ABSTAIN
+BROKER
+NON-VOTE
+311,404,280
+419,594,568
+3,278,124
+143,770,510
+Proposal 8
+: A shareholder proposal regarding a report on gender and racial equity on the Board was not approved.
+FOR
+AGAINST
+ABSTAIN
+BROKER
+NON-VOTE
+98,650,250
+627,101,430
+8,525,292
+143,770,510
+Proposal 9
+: A shareholder proposal regarding a report on deforestation was approved.
+FOR
+AGAINST
+ABSTAIN
+BROKER
+NON-VOTE
+469,758,767
+256,769,584
+7,748,621
+143,770,510
+Proposal 10
+: A shareholder proposal regarding a racial equity audit was approved.
+FOR
+AGAINST
+ABSTAIN
+BROKER
+NON-VOTE
+455,281,245
+269,989,425
+9,006,302
+143,770,510
+3
+Item 9.01. Financial Statements and Exhibits.
+(d)
+Exhibits
+Exhibit
+Description
+10.1
+The Home Depot Amended and Restated Management Incentive Plan
+10.2
+Form
+of Executive Officer Equity Award Agreement
+(Performance Shares, Performance-Based Restricted Stock and Nonqualified Stock Options)
+Pursuant to The Home Depot, Inc. Omnibus Stock Incentive Plan, as Amended and Restated May 19,
+2022
+10.3
+Form of Executive Officer Equity Award Agreement (Restricted Stock and Nonqualified Stock Options) Pursuant to The Home Depot, Inc. Omnibus Stock Incentive Plan, as Amended and Restated May 19, 2022
+10.4
+Form of Nonemployee Director Deferred Share Award Agreement Pursuant to The Home Depot, Inc. Omnibus Stock Incentive Plan, as Amended and Restated May 19, 2022
+104
+The cover page of this Current Report on Form 8-K formatted in Inline XBRL (included as Exhibit 101).
+4
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+THE HOME DEPOT, INC.
+Date: May 24, 2022
+By:
+/s/ Teresa Wynn Roseborough
+Name:
+Teresa Wynn Roseborough
+
+Title:
+Executive Vice President, General Counsel and Corporate Secretary
+5

@@ -1,0 +1,90 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+October 30, 2023
+INTEL CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+000-06217
+94-1672743
+(State or other jurisdiction
+(Commission
+(IRS Employer
+of incorporation)
+File Number)
+Identification No.)
+
+2200 Mission College Boulevard
+,
+Santa Clara
+,
+California
+95054-1549
+(Address of principal executive offices)
+(Zip Code)
+Registrant's telephone number, including area code:
+(408)
+
+765-8080
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, $0.001 par value
+INTC
+Nasdaq Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+Item 7.01
+
+Regulation FD Disclosure.
+As Intel Corporation ("Intel") seeks to accelerate its transition to an internal foundry model and transform its manufacturing group – inclusive of manufacturing, technology development, and Intel Foundry Services – into a world-class systems foundry, the Board of Directors of Intel ("Board") determined that it would beneficial for Lip-Bu Tan, a Board member who joined in September 2022, to dedicate significant additional time to provide the Board additional visibility into and more frequent engagement with management with respect to such efforts. As requested by the Board, in addition to the duties expected of all Board members, Mr. Tan's responsibilities include engaging with management to provide oversight and guidance with respect to: (i) strategy and key focus areas within the manufacturing group; (ii) customer and service centricity and outside-in perspectives thereof; (iii) key customer and supplier engagements to establish a vibrant ecosystem in support of the foundry business; (iv) the foundry talent pipeline and development; (v) external financial perspectives of the manufacturing group’s income statement; and (vi) other matters relating to the business that may be requested from time to time by Chair of the Board. Mr. Tan will report regularly to the Board with respect to such engagements. The time commitment of these additional responsibilities is expected to entail a meaningful amount of work in addition to Mr. Tan's regular service as a Board member.
+Mr. Tan has extensive experience in the semiconductor industry, including over a decade as chief executive officer and then as executive chairman of Cadence Design Systems, a leading software company providing solutions to design and develop complex semiconductor chips and electronic systems. He also has significant financial and investment, sales and marketing, and human capital expertise, including extensive venture capital experience evaluating and developing emerging technologies and business models.
+In consideration for his additional director responsibilities anticipated for a one-year period and in addition to his annual director compensation, Mr. Tan will receive two awards of restricted stock units ("RSU"), each with a target value (calculated in the same manner as other RSU awards to directors) of $500,000 on the grant date. The two RSU awards are expected to be made on October 30, 2023 and January 30, 2024, respectively, and the RSU awards will vest 100% on the first anniversary of the applicable grant date.
+The information in Item 7.01 of this report is furnished and shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+Item 9.01
+
+Financial Statements and Exhibits.
+(d)
+
+Exhibits.
+The following exhibits are provided as part of this report:
+Exhibit Number
+Description
+104
+Cover Page Interactive Data File, formatted in Inline XBRL and included as Exhibit 101.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+INTEL CORPORATION
+(Registrant)
+Date:
+October 30, 2023
+By:
+/s/ April Miller Boise
+April Miller Boise
+Executive Vice President and Chief Legal Officer

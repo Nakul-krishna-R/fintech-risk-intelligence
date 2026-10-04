@@ -1,0 +1,201 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+May 6, 2024
+
+VISA INC.
+
+(Exact Name of Registrant as Specified in Its Charter)
+
+Delaware
+
+001-33977
+
+26-0267673
+
+(State or Other Jurisdiction of
+
+Incorporation or Organization)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+P.O. Box 8999
+
+San Francisco
+,
+California
+
+94128-8999
+
+(Address of Principal Executive Offices)
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code:
+(650)
+
+432-3200
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Securities Exchange Act of 1934:
+
+Title of each class
+
+Trading
+
+Symbol
+
+Name of each exchange
+
+on which registered
+
+Class A common stock, par value $0.0001 per share
+
+V
+
+New York Stock Exchange
+
+1.500% Senior Notes due 2026
+
+V26
+
+New York Stock Exchange
+
+2.000% Senior Notes due 2029
+
+V29
+
+New York Stock Exchange
+
+2.375% Senior Notes due 2034
+
+V34
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+1.01 Entry into a Material Definitive Agreement.
+
+On May 8, 2024, Visa Inc. (“Visa”) settled its previously announced
+Class B-1
+exchange offer (the “Exchange Offer”), the terms of which were described in the prospectus, dated April 8, 2024, constituting part of Visa’s registration statement on Form
+S-4,
+as amended (File
+No. 333-276747).
+
+In connection with the Exchange Offer, Visa entered into makewhole agreements (collectively, the “Makewhole Agreements”), effective May 6, 2024, with the holders of the Class B-1 common stock accepted in the Exchange Offer and, where applicable, such holders’ respective parent guarantors.
+
+Under the Makewhole Agreements, each participating holder is obligated, after the value of the Class B-2 common stock it received in the Exchange Offer has been depleted through downward conversion rate adjustments, to reimburse Visa in cash for the portion of any future deposit into the U.S. covered litigation escrow account that, but for the holder’s participation in the Exchange Offer, would have been absorbed by such holder through downward adjustments to the conversion rate of
+the Class B-1 common
+stock it tendered in the Exchange Offer.
+
+The Makewhole Agreements also provide for the staged transfer of the Class C common stock that participating holders received in the Exchange Offer. A participating holder may only transfer up
+to one-third of
+the Class C common stock it received in the Exchange Offer prior to June 20, 2024, and only up
+to two-thirds of
+the Class C common stock it received in the Exchange Offer prior to August 4, 2024.
+
+The foregoing description of the Makewhole Agreements does not purport to be complete and is qualified entirely by reference to the Form of the Makewhole Agreement, filed as Exhibit 10.1 hereto and incorporated by reference herein.
+
+8.01 Other Events.
+
+The information set forth in the first paragraph under Item 1.01 concerning the settlement of the Exchange Offer is incorporated by reference into this Item 8.01.
+
+*   *   *
+
+2
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+Number
+
+Description
+
+10.1
+
+Form of Makewhole Agreement (incorporated by reference to Exhibit 99.2 to Amendment No. 1 to Visa Inc.’s Registration Statement on Form
+S-4
+(File
+No. 333-276747)
+filed on March 11, 2024).
+
+104
+
+The cover page from this Current Report on Form
+8-K
+(formatted as Inline XBRL).
+
+3
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VISA INC.
+
+Date: May 8, 2024
+
+By:
+
+/s/ Chris Suh
+
+Name: Chris Suh
+
+Title:  Chief Financial Officer
+
+4

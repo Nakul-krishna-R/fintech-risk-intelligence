@@ -1,0 +1,730 @@
+Table of Contents
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+the
+
+Securities Exchange Act of 1934
+
+May 25, 2022
+
+Date of Report
+
+(Date of earliest event reported)
+
+AMAZON.COM, INC.
+
+(Exact name of registrant
+as specified in its charter)
+
+Delaware
+
+000-22513
+
+91-1646860
+
+(State
+or other jurisdiction
+
+of
+incorporation)
+
+(Commission
+File Number)
+
+(IRS
+Employer
+
+Identification No.)
+
+410 Terry Avenue North
+,
+Seattle
+,
+Washington
+
+98109-5210
+
+(Address of principal
+executive offices, including Zip Code)
+
+(
+206
+)
+
+266-1000
+
+(Registrant’s
+telephone number, including area code)
+
+Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+¨
+
+Written communications pursuant
+to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under
+the Exchange Act (17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under
+the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under
+the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of
+the Act:
+
+Title
+of Each Class
+
+Trading
+Symbol(s)
+
+Name
+of Each Exchange on Which Registered
+
+Common Stock, par value $.01 per share
+
+AMZN
+
+Nasdaq Global Select Market
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+
+¨
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+¨
+
+Table of Contents
+
+TABLE OF CONTENTS
+
+ITEM 5.03. AMENDMENTS
+TO ARTICLES OF INCORPORATION OR BYLAWS; CHANGE IN FISCAL YEAR.
+
+3
+
+ITEM 5.07. SUBMISSION
+OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+3
+
+ITEM 9.01. FINANCIAL
+STATEMENTS AND EXHIBITS.
+
+5
+
+SIGNATURES
+
+6
+
+EXHIBIT 3.1
+
+Table of Contents
+
+ITEM 5.03. AMENDMENTS TO ARTICLES OF INCORPORATION OR BYLAWS;
+CHANGE IN FISCAL YEAR.
+
+On May 25, 2022, the shareholders of Amazon.com, Inc.
+(the “Company”) approved an amendment (the “Amendment”) to the Company’s Restated Certificate of Incorporation
+(the “Certificate”) to effect a 20-for-1 split of the Company’s common stock and a proportionate increase in the
+number of authorized shares of common stock. The Amendment became effective upon its filing with the Secretary of State of the State
+of Delaware on May 27, 2022.
+
+As previously announced, each Company shareholder
+of record at the close of business on May 27, 2022 will have 19 additional shares for every one share held as of such date reflected
+in their accounts on or about June 3, 2022. Trading is expected to begin on a split-adjusted basis on June 6, 2022.
+
+This description of the Amendment is not complete
+and is qualified in its entirety by reference to the text of the Certificate, as amended and restated, a copy of which is filed as Exhibit 3.1
+to this Form 8-K.
+
+ITEM 5.07. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+On May 25, 2022, the Company held its Annual
+Meeting of Shareholders.
+
+The following nominees were elected as directors,
+each to hold office until the next Annual Meeting of Shareholders or until his or her successor is elected and qualified, by the vote
+set forth below:
+
+Nominee
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+Jeffrey P. Bezos
+
+355,354,719
+
+17,063,820
+
+451,990
+
+53,465,310
+
+Andrew R. Jassy
+
+369,656,151
+
+2,717,030
+
+497,348
+
+53,465,310
+
+Keith B. Alexander
+
+367,975,690
+
+3,686,608
+
+1,208,231
+
+53,465,310
+
+Edith W. Cooper
+
+368,728,492
+
+3,553,846
+
+588,191
+
+53,465,310
+
+Jamie S. Gorelick
+
+361,054,790
+
+10,789,448
+
+1,026,291
+
+53,465,310
+
+Daniel P. Huttenlocher
+
+346,211,515
+
+25,018,621
+
+1,640,393
+
+53,465,310
+
+Judith A. McGrath
+
+290,390,396
+
+81,802,511
+
+677,622
+
+53,465,310
+
+Indra K. Nooyi
+
+366,532,776
+
+5,784,717
+
+553,036
+
+53,465,310
+
+Jonathan J. Rubinstein
+
+361,336,439
+
+10,502,585
+
+1,031,505
+
+53,465,310
+
+Patricia Q. Stonesifer
+
+359,126,370
+
+12,770,763
+
+973,396
+
+53,465,310
+
+Wendell P. Weeks
+
+367,079,373
+
+4,606,224
+
+1,184,932
+
+53,465,310
+
+The appointment of Ernst & Young LLP
+as our independent auditors for the fiscal year ending December 31, 2022 was ratified by the vote set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+410,571,386
+
+14,981,071
+
+783,382
+
+
+
+The compensation of our named executive officers
+as disclosed in the proxy statement was approved in an advisory vote, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+208,213,120
+
+163,510,060
+
+1,147,349
+
+53,465,310
+
+The
+Amendment to the Certificate to effect a 20-for-1 split of the Company’s common stock and a proportionate increase in the number
+of authorized shares of common stock
+was approved by the vote set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+424,725,250
+
+1,099,939
+
+510,650
+
+
+
+3
+
+Table of Contents
+
+A shareholder proposal requesting a report on retirement
+plan options was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+32,500,386
+
+323,838,148
+
+16,531,995
+
+53,465,310
+
+A shareholder proposal requesting a report on
+customer due diligence was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+149,120,683
+
+221,341,797
+
+2,408,049
+
+53,465,310
+
+A shareholder proposal requesting an alternative
+director candidate policy was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+82,592,694
+
+288,823,065
+
+1,454,770
+
+53,465,310
+
+A shareholder proposal requesting a report on
+packaging materials was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+181,296,823
+
+189,313,134
+
+2,260,572
+
+53,465,310
+
+A shareholder proposal requesting a report on
+worker health and safety differences was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+47,396,406
+
+311,788,969
+
+13,685,154
+
+53,465,310
+
+A shareholder proposal requesting additional
+reporting on risks associated with the use of certain contract clauses was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+91,922,568
+
+277,883,493
+
+3,064,468
+
+53,465,310
+
+A shareholder proposal requesting a report on
+charitable contributions was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+10,015,893
+
+359,923,212
+
+2,931,424
+
+53,465,310
+
+A shareholder proposal requesting alternative
+tax reporting was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+64,702,796
+
+305,060,237
+
+3,107,496
+
+53,465,310
+
+A shareholder proposal requesting additional
+reporting on freedom of association was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+143,829,190
+
+225,841,301
+
+3,200,038
+
+53,465,310
+
+4
+
+Table of Contents
+
+A shareholder proposal requesting additional
+reporting on lobbying was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+175,351,802
+
+195,721,490
+
+1,797,237
+
+53,465,310
+
+A shareholder proposal requesting a policy requiring
+more director candidates than board seats was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+3,037,944
+
+367,390,195
+
+2,442,390
+
+53,465,310
+
+A shareholder proposal requesting a report on
+warehouse working conditions was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+163,081,744
+
+207,204,341
+
+2,584,444
+
+53,465,310
+
+A shareholder proposal requesting additional
+reporting on gender/racial pay was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+106,835,184
+
+263,888,171
+
+2,147,174
+
+53,465,310
+
+A shareholder proposal requesting a report on
+customer use of certain technologies was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+150,732,906
+
+219,746,074
+
+2,391,549
+
+53,465,310
+
+A shareholder proposal presented at the Annual
+Meeting of Shareholders pursuant to the Company’s bylaws requesting that the Company end the use of productivity expectations and
+workplace monitoring was not approved, as set forth below:
+
+For
+
+Against
+
+Abstain
+
+Broker
+
+Non-Votes
+
+914,148
+
+371,956,370
+
+10
+
+53,465,310
+
+ITEM 9.01. FINANCIAL STATEMENTS
+AND EXHIBITS.
+
+(d) Exhibits.
+
+Exhibit
+
+Number
+
+Description
+
+3.1
+
+Amended and Restated
+Certificate of Incorporation of the Company.
+
+104
+
+The cover page from this Current Report on Form 8-K,
+formatted in Inline XBRL (included as Exhibit 101).
+
+5
+
+Table of Contents
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+AMAZON.COM, INC. (REGISTRANT)
+
+By:
+
+/s/
+David A. Zapolsky
+
+David A. Zapolsky
+
+Senior Vice President
+
+Dated: May 27, 2022
+
+6

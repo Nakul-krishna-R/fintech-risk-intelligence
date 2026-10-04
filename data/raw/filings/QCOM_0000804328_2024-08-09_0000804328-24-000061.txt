@@ -1,0 +1,104 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of
+The Securities Exchange Act of 1934
+August 8, 2024
+
+Date of Report (Date of earliest event reported)
+QUALCOMM Incorporated
+(Exact name of registrant as specified in its charter)
+Delaware
+
+(State or other jurisdiction of incorporation)
+000-19528
+95-3685934
+(Commission File Number)
+(IRS Employer Identification No.)
+5775 Morehouse Drive
+,
+San Diego
+,
+California
+92121
+(Address of principal executive offices)
+(Zip Code)
+858
+-
+587-1121
+
+(Registrant’s telephone number, including area code)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.0001 par value
+
+QCOM
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+Item 1.01.
+Entry into a Material Definitive Agreement.
+Revolving Credit Facility
+On August 8, 2024, QUALCOMM Incorporated (the “Company”) entered into a Credit Agreement (the “Credit Agreement”), among the Company, the lenders party thereto, the letter of credit issuers party thereto and Bank of America, N.A., as administrative agent, swing line lender and a letter of credit issuer. The Credit Agreement replaces the Company’s existing Credit Agreement, dated as of December 8, 2020, among the Company, the lenders party thereto, the letter of credit issuers party thereto and Bank of America, N.A., as administrative agent, swing line lender and letter of credit issuer (the “Existing Credit Agreement”).
+The terms of the Credit Agreement provide for $4.0 billion in aggregate amount of commitments for senior unsecured revolving loans which will mature on August 8, 2029, unless otherwise extended in accordance with the terms of the Credit Agreement. The Credit Agreement provides that the Company may obtain, subject to the satisfaction of customary conditions, loans in U.S. Dollars or alternate currencies, including Euros, Pounds Sterling and Yen. Proceeds from any borrowings under the Credit Agreement may be used for working capital, capital expenditures and other general corporate purposes. The Credit Agreement is unsecured and is not guaranteed by any subsidiary of the Company.
+Loans under the Credit Agreement will bear interest, at the option of the Company, at either the Term SOFR Rate (determined in accordance with the Credit Agreement) plus an initial margin of 0.81% per annum or the Base Rate (determined in accordance with the Credit Agreement) plus an initial margin of 0.00% per annum. The Credit Agreement has a facility fee, which will initially accrue at a rate of 0.065% per annum, on the actual daily amount of the aggregate commitments of the lenders in respect to the Credit Agreement. The applicable margin over the Term SOFR Rate and the Base Rate, as well as the facility fee, will fluctuate based upon the long-term unsecured senior, non-credit enhanced debt ratings of the Company by Standard & Poor’s Financial Services LLC and Moody’s Investors Service, Inc.
+The Credit Agreement contains certain customary representations and warranties, affirmative and negative covenants and events of default. Negative covenants include, among others, certain limitations on the incurrence of liens by the Company and its subsidiaries and the incurrence of indebtedness by the Company’s subsidiaries. In addition, the Credit Agreement requires that the Company maintain a ratio of consolidated earnings before interest, taxes, depreciation and amortization to consolidated interest expense of not less than 3.00 to 1.00, as more fully described in the Credit Agreement. If any of the events of default occur and are not cured within applicable grace periods or waived, any unpaid amounts under the Credit Agreement may be declared immediately due and payable and the commitments may be terminated.
+At this time, the Company has not borrowed any funds under the Credit Agreement.
+The foregoing summary of the Credit Agreement does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Credit Agreement, which is attached hereto as Exhibit 10.1 and is incorporated herein by reference.
+Item 1.02.
+Termination of a Material Definitive Agreement.
+In connection with the entry into the Credit Agreement, the Company terminated all remaining commitments of the lenders under the Existing Credit Agreement, which were previously scheduled to expire on December 8, 2025. There were no outstanding borrowings under the Existing Credit Agreement at the time of such termination.
+Item 2.03.
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+The information set forth in Item 1.01 above with respect to the Credit Agreement is hereby incorporated by reference into this Item 2.03 insofar as it relates to the creation of a direct financial obligation of the Company.
+Item 9.01.
+Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit No.
+Exhibit
+10.1
+Credit Agreement among QUALCOMM Incorporated, the lenders party thereto, the letter of credit issuers party thereto and Bank of America, N.A., as
+a
+dministrative
+a
+gent,
+swing line lender and a letter of credit issuer,
+dated as of August
+8
+, 2024.
+104
+Cover Page Interactive Data File, formatted in Inline XBRL and included as Exhibit 101.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+QUALCOMM Incorporated
+Date:
+August 9, 2024
+By:
+/s/ Akash Palkhiwala
+
+Akash Palkhiwala
+
+Chief Financial Officer and Chief Operating Officer

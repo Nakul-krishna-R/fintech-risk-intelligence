@@ -1,0 +1,117 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+June 20, 2023
+
+VISA INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+Delaware
+
+001-33977
+
+26-0267673
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+Identification No.)
+
+P.O. Box 8999
+
+San Francisco,
+California
+
+94128-8999
+(Address of Principal Executive Offices)
+(Zip Code)
+Registrant’s Telephone Number, Including Area Code: (
+650
+)
+432-3200
+
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Class A Common Stock, par value $0.0001 per share
+V
+New York Stock Exchange
+1.500% Senior Notes due 2026
+V26
+New York Stock Exchange
+2.000% Senior Notes due 2029
+V29
+New York Stock Exchange
+2.375% Senior Notes due 2034
+V34
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.02
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On June 20, 2023, Visa Inc. (“Visa,” or the “Company”) announced that Chris Suh, 52, has been appointed to serve as Executive Vice President, Chief Financial Officer (“CFO”) of the Company, effective August 1, 2023. Mr. Suh will commence employment with the Company on July 10, 2023 as CFO Designate prior to assuming the CFO position on August 1, 2023. Mr. Suh will report directly to Ryan McInerney, Visa’s Chief Executive Officer, and be responsible for Visa’s financial strategies, planning, and reporting, in addition to all finance operations and investor relations.
+Mr. Suh joins Visa from Electronic Arts Inc., where he served as Executive Vice President and Chief Financial Officer since March 1, 2022. Prior to this position, Mr. Suh held various roles in finance at Microsoft Corporation since 1996, where he was most recently the Corporate Vice President and Chief Financial Officer of the company’s Cloud + AI group, a role he assumed in January 2018. Mr. Suh also serves on the board of directors of Cardlytics, Inc.
+The Company intends to enter into its standard form of indemnification agreement with Mr. Suh, which was included as Exhibit 10.1 to the Quarterly Report filed by the Company on January 31, 2020. There are no arrangements or understandings between Mr. Suh and any other persons pursuant to which he was selected as an officer, he has no family relationships with any of the Company’s directors or executive officers, and he has no direct or indirect material interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation S-K.
+Mr. Suh succeeds Vasant Prabhu, who is departing the Company on September 30, 2023. Upon Mr. Suh’s appointment as CFO on August 1, Mr. Prabhu will no longer be an executive officer of the Company. Mr. Prabhu’s departure was previously reported in the Current Report on Form 8-K filed by the Company on February 16, 2023.
+The press release issued by the Company announcing Mr. Suh’s appointment as the Company’s CFO is attached hereto as Exhibit 99.1.
+The Company has entered into a written offer letter with Mr. Suh, dated June 13, 2023 (the “Offer Letter”), outlining the terms of his employment. Pursuant to the terms of the Offer Letter, Mr. Suh will receive a base salary of $900,000. Mr. Suh also will be eligible to participate in the Visa Inc. Incentive Plan (“VIP”), which was included as Exhibit 10.1 to the Quarterly Report filed by the Company on July 28, 2022. Mr. Suh’s target bonus under the VIP will be one hundred seventy-five percent (175%) of his base salary with a maximum bonus opportunity of three hundred fifty percent (350%) of his base salary based on the Company’s and Mr. Suh’s performance and based on Mr. Suh’s salary at the end of the fiscal year, subject to the terms and conditions of the VIP. Any bonus for which Mr. Suh will be eligible under the VIP for fiscal year 2023 will be prorated to reflect the portion of the year he was eligible.
+Mr. Suh also will be eligible to participate in Visa’s long-term incentive plan. Pursuant to the terms of the Offer Letter, the Company will recommend that the Compensation Committee of the Company’s board of directors approve an initial long-term award of $9,000,000 to be granted in November 2023. Mr. Suh’s long-term incentive award value and participation in future years will be determined at the conclusion of each fiscal year based on an evaluation of his performance and the performance of the Company. Any equity awards will be subject to the terms and conditions of the applicable plan, including vesting requirements, as approved by the Compensation Committee of the Company’s board of directors.
+To compensate Mr. Suh for unvested equity and other incentives he will forfeit when he departs his current employer, and as an additional incentive, Mr. Suh will receive a one-time equity award with a value of $11,000,000, consisting of restricted stock units. The number of restricted stock units subject to the award will be determined based on the “fair value” of the restricted stock units on the date of grant, as determined by Visa under the applicable accounting standards, rounded to the nearest whole share. One-third of the restricted stock units subject to this one-time equity award will vest on each of the first, second, and third anniversaries of the date of grant, assuming Mr. Suh’s continued employment by Visa through each such date. This one-time equity award will be subject to the terms and conditions of the Visa Inc. 2007 Equity Incentive Compensation Plan and the individual award agreement corresponding to the award.
+In addition, to compensate Mr. Suh for forfeited bonus payments and other incentives from his current employer, the Company will provide Mr. Suh with a one-time cash award of $3,000,000, less applicable taxes and withholding, which will be paid to him as soon as practicable after Mr. Suh’s start date. $1,300,000 of this
+one-time cash award is in recognition of Mr. Suh’s obligation to reimburse a portion of the sign-on bonus he received from his current employer. This one-time cash award will be subject to the terms of the One-Time Cash Award Agreement between Mr. Suh and the Company, a copy of which is attached to the Offer Letter. The One-Time Cash Award Agreement provides that Mr. Suh will repay a portion of this one-time cash award to the Company if he terminates his employment other than for Good Reason (as defined in the agreement) or if his employment is terminated for Cause (as defined in the Company’s Executive Severance Plan) within 12 months of his start date with the Company. The amount required to be repaid will be equal to the product of (a) 12 minus the number of Mr. Suh’s months of employment with the Company and (b) the gross amount of the one-time cash award divided by 12. In addition to the one-time cash award, Mr. Suh may receive an additional amount, not to exceed $500,000, corresponding to any amount he is required to reimburse his current employer for relocation and related expenses.
+Mr. Suh also will be eligible to participate in the Visa Inc. Executive Severance Plan, which was included as Exhibit 10.8 to the Quarterly Report filed by the Company on January 28, 2022.
+The foregoing description of Mr. Suh’s compensation arrangements under the offer letter is qualified in its entirety by reference to the Offer Letter and One-Time Cash Award Agreement, which is filed herewith as Exhibit 99.2 and incorporated herein by reference.
+Item 9.01
+
+Financial Statements and Exhibits.
+(d) Exhibits
+
+Exhibit
+Number
+Description
+99.1
+Press Release issued by Visa Inc. dated June 20, 2023
+99.2
+Offer Letter and One-Time Cash Award Agreement, dated June 13, 2023, between Visa Inc. and Chris Suh
+104
+Cover Page Interactive Data File (formatted as Inline XBRL)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VISA INC.
+
+Date:
+June 20, 2023
+
+By:
+
+/s/ Kelly Mahon Tullier
+
+Kelly Mahon Tullier
+Vice Chair, Chief People and Corporate Affairs Officer, and Corporate Secretary

@@ -1,0 +1,213 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+Current Report
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+June 14, 2022
+CATERPILLAR INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+1-768
+37-0602744
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(I.R.S Employer Identification No.)
+510 Lake Cook Road,
+Suite 100,
+Deerfield,
+Illinois
+60015
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code:
+(224)
+
+551-4000
+Former name or former address, if changed since last report:
+N/A
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol (s)
+Name of each exchange which registered
+Common Stock ($1.00 par value)
+CAT
+The New York Stock Exchange
+8% Debentures due February 15, 2023
+CAT23
+The New York Stock Exchange
+5.3% Debentures due September 15, 2035
+CAT35
+The New York Stock Exchange
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+Indicate by check mark whether the registrant is an emerging growth company as defined by Rule 405 of the Securities Act of
+1933 (17 CFR §230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.03 Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+On June 8, 2022, the Board of Directors (the "Board") of Caterpillar Inc. (the "Company") approved and adopted amended and restated Bylaws (the "Amended and Restated Bylaws") which became effective immediately upon the Board's approval. The Amended and Restated Bylaws, among other things, identify the change of officers of the Company from vice presidents to senior vice presidents.
+The foregoing summary of the Amended and Restated Bylaws does not purport to be complete and is qualified in its entirety by reference to the Amended and Restated Bylaws. The Amended and Restated Bylaws and a copy marked to show changes are attached as Exhibits 3.1 and 3.2 respectively. Exhibit 3.1 is incorporated herein by reference.
+Item 5.07 Submission of Matters to a Vote of Security Holders
+On June 8, 2022, Caterpillar Inc. (the “Company”) held a virtual 2022 Annual Shareholders Meeting. Set forth below are the voting results for each of the matters submitted to a vote of the Company’s shareholders.
+Proposal 1 – Company Proposal - Election of Directors
+
+All nominees for election to the Company’s Board of Directors named in the Proxy Statement were elected, each to a one-year term, with the following vote:
+Director
+For
+Against
+Abstain
+Broker Non-Votes
+Kelly A. Ayotte
+362,107,837
+12,055,547
+945,594
+77,219,736
+David L. Calhoun
+352,076,923
+20,218,939
+2,813,116
+77,219,736
+Daniel M. Dickinson
+354,894,586
+19,180,433
+1,033,959
+77,219,736
+Gerald Johnson
+366,285,453
+7,770,922
+1,052,602
+77,219,736
+David W. MacLennan
+368,805,686
+5,236,615
+1,066,677
+77,219,736
+Debra L. Reed-Klages
+364,704,794
+9,476,011
+928,173
+77,219,736
+Edward B. Rust, Jr.
+357,129,614
+16,880,625
+1,098,739
+77,219,736
+Susan C. Schwab
+360,338,327
+13,812,393
+958,258
+77,219,736
+D. James Umpleby III
+347,539,618
+26,419,453
+1,149,907
+77,219,736
+Rayford Wilkins, Jr.
+366,386,023
+7,519,178
+1,203,777
+77,219,736
+Proposal 2 – Company Proposal - Ratification of Independent Registered Accounting Firm
+The proposal requesting ratification of the appointment of PricewaterhouseCoopers LLP as the Company’s independent registered public accounting firm for 2022 was approved with the following vote:
+For
+Against
+Abstain
+434,535,310
+16,574,255
+1,219,149
+Proposal 3 – Company Proposal - Advisory vote on executive compensation
+
+The proposal requesting that the shareholders of the Company approve executive compensation, on an advisory basis, was approved with the following vote:
+For
+Against
+Abstain
+Broker Non-Votes
+350.852.564
+21.909.207
+2.347.207
+77,219,736
+Proposal 4 – Shareholder Proposal – Report on Climate Policy
+The proposal requesting that the Board of Directors provide additional disclosure of Caterpillar's climate activity was approved based on the following vote:
+For
+Against
+Abstain
+Broker Non-Votes
+358,230,248
+12,977,688
+3,901,041
+77,219,736
+
+Proposal 5 – Shareholder Proposal – Lobbying Disclosure
+The proposal requesting the Board of Directors annually provide additional disclosure on its direct and indirect lobbying and grassroots policy and procedures, payments and decision-making processes was not approved based on the following vote:
+For
+Against
+Abstain
+Broker Non-Votes
+166,090,780
+206,076,686
+2,941,511
+77,219,736
+Proposal 6 – Shareholder Proposal – Report on Activities in Conflict-Affected Areas
+The proposal requesting that the Board of Directors report on business activities in conflict affected and high risk areas was not approved based on the following vote:
+For
+Against
+Abstain
+Broker Non-Votes
+38,908,763
+329,637,232
+6,562,983
+77,219,736
+Proposal 7 – Shareholder Proposal – Special Shareholder Meeting Improvement
+The proposal requesting that the Board of Directors amend the special shareholder meeting improvement was not approved based on the following vote:
+For
+Against
+Abstain
+Broker Non-Votes
+162,106,175
+210,111,389
+2,891,174
+77,219,736
+Item 7.01 Regulation FD Disclosure
+On June 8, 2022, the Board of Caterpillar Inc. (the "Company") declared a quarterly cash dividend of one dollar and twenty cents ($1.20) per share of Company common stock, payable on August 19, 2022 to shareholders of record at the close of business on July 20, 2022. The per share dividend of $1.20 is an increase of nine cents from the previous quarterly dividend of $1.11 per share. On the same date, the Company issued a press release announcing the dividend increase. A copy of the press release is attached hereto as Exhibit 99.1.
+The information in this Current Report on Form 8-K, including Exhibit 99.1 is being furnished in accordance with the provisions of General Instructions B.2 of Form 8-K.
+Item 9.01 Financial Statements and Exhibits
+
+(d)
+
+Exhibits.
+Exhibit
+Number
+Description
+3.1
+Bylaws of Caterpillar Inc
+. (as amended and restated June 8, 2022)
+3.2
+Marked Bylaws of Caterpillar Inc.
+99.1
+Caterpillar Inc. press release dated June 8, 2022
+104
+The cover page from this Current Report on Form 8-K, formatted in Inline XBRL.
+
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+CATERPILLAR INC.
+June 14, 2022
+By:
+/s/ Suzette M. Long
+Suzette M. Long
+Chief Legal Officer and General Counsel

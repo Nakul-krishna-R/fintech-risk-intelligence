@@ -1,0 +1,529 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of
+
+the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)
+May 26, 2023
+(
+May 23, 2023
+)
+
+Merck & Co., Inc.
+
+(Exact name of registrant as specified in its charter)
+
+New Jersey
+
+1-6571
+
+22-1918501
+
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(I.R.S Employer Identification No.)
+
+126 East Lincoln Avenue
+
+Rahway
+
+New Jersey
+
+07065
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(Registrant’s telephone number, including area code)
+(
+908
+)
+740-4000
+
+Not Applicable
+
+(Former name, former address and former fiscal year, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter)
+or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised
+financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock ($0.50 par value)
+
+MRK
+
+New York Stock Exchange
+
+0.500% Notes due 2024
+
+MRK 24
+
+New York Stock Exchange
+
+1.875% Notes due 2026
+
+MRK/26
+
+New York Stock Exchange
+
+2.500% Notes due 2034
+
+MRK/34
+
+New York Stock Exchange
+
+1.375% Notes due 2036
+
+MRK 36A
+
+New York Stock Exchange
+
+Item 5.07.
+
+Submission of Matters to a Vote of Security Holders.
+
+(a)
+
+The Annual Meeting of Shareholders of Merck & Co., Inc. (the "Company") was held on May 23, 2023.
+
+(b)
+
+Shareholders voted on the matters set forth below:
+
+1.
+
+The following nominees were elected to the Company’s Board of Directors to hold office until the Company’s next Annual Meeting of Shareholders and received the number of votes set forth opposite
+their names:
+
+Names
+
+Votes For
+
+Votes Against
+
+Abstentions
+
+Broker
+
+Non-Votes
+
+Percent of Votes
+
+Cast For
+
+Douglas M. Baker, Jr.
+
+1,831,441,722
+
+33,955,060
+
+4,441,078
+
+303,475,463
+
+98.17%
+
+Mary Ellen Coe
+
+1,831,352,905
+
+33,590,197
+
+4,894,758
+
+303,475,463
+
+98.19%
+
+Pamela J. Craig
+
+1,825,716,789
+
+39,919,623
+
+4,201,448
+
+303,475,463
+
+97.86%
+
+Robert M. Davis
+
+1,701,209,534
+
+157,428,174
+
+11,200,152
+
+303,475,463
+
+91.52%
+
+Thomas H. Glocer
+
+1,727,334,643
+
+137,793,210
+
+4,710,007
+
+303,475,463
+
+92.61%
+
+Risa J. Lavizzo-Mourey, M.D.
+
+1,817,190,279
+
+48,426,594
+
+4,220,987
+
+303,475,463
+
+97.40%
+
+Stephen L. Mayo, Ph.D.
+
+1,853,609,739
+
+11,176,418
+
+5,051,703
+
+303,475,463
+
+99.40%
+
+Paul B. Rothman, M.D.
+
+1,852,736,770
+
+12,058,989
+
+5,042,101
+
+303,475,463
+
+99.35%
+
+Patricia F. Russo
+
+1,606,388,270
+
+258,957,288
+
+4,492,302
+
+303,475,463
+
+86.11%
+
+Christine E. Seidman, M.D.
+
+1,852,721,080
+
+12,244,549
+
+4,872,231
+
+303,475,463
+
+99.34%
+
+Inge G. Thulin
+
+1,809,508,166
+
+55,312,366
+
+5,017,328
+
+303,475,463
+
+97.03%
+
+Kathy J. Warden
+
+1,823,144,498
+
+41,748,693
+
+4,944,669
+
+303,475,463
+
+97.76%
+
+Peter C. Wendell
+
+1,783,743,993
+
+81,345,153
+
+4,748,714
+
+303,475,463
+
+95.63%
+
+2.
+
+Non-binding advisory vote to approve the compensation of our named executive officers:
+
+1,697,425,819
+
+votes FOR
+
+161,718,633
+
+votes AGAINST
+
+or an affirmative vote of 91.30% of the total votes cast.
+
+10,693,408
+
+shares abstained from voting.
+
+303,475,463
+
+broker non votes.
+
+3.
+
+Non-binding advisory vote to approve the frequency of future votes to approve the compensation of our named executive officers:
+
+1,835,407,619
+
+votes ONE YEAR
+
+3,907,809
+
+votes TWO YEARS
+
+24,899,809
+
+votes THREE YEARS
+
+or an affirmative vote of 99.98% of the total votes cast.
+
+5,622,623
+
+shares abstained from voting.
+
+303,475,463
+
+broker non votes.
+
+4.
+
+Ratification of the appointment of the Company’s independent registered public accounting firm for 2023:
+
+2,043,709,187
+
+votes FOR
+
+124,208,470
+
+votes AGAINST
+
+or an affirmative vote of 94.27% of the total votes cast.
+
+5,395,666
+
+shares abstained from voting.
+
+5.
+
+Shareholder proposal regarding business operations in China:
+
+69,754,041
+
+votes FOR
+
+1,748,779,515
+
+votes AGAINST
+
+or an affirmative vote of 3.83% of the total votes cast.
+
+51,304,304
+
+shares abstained from voting.
+
+303,475,463
+
+broker non votes.
+
+6.
+
+Shareholder proposal regarding access to COVID-19 products:
+
+574,496,614
+
+votes FOR
+
+1,264,355,494
+
+votes AGAINST
+
+or an affirmative vote of 31.24% of the total votes cast.
+
+30,985,752
+
+shares abstained from voting.
+
+303,475,463
+
+broker non votes.
+
+7.
+
+Shareholder proposal regarding indirect political spending:
+
+134,569,780
+
+votes FOR
+
+1,706,198,205
+
+votes AGAINST
+
+or an affirmative vote of 7.31% of the total votes cast.
+
+29,069,875
+
+shares abstained from voting.
+
+303,475,463
+
+broker non votes.
+
+8.
+
+Shareholder proposal regarding patents and access:
+
+571,866,383
+
+votes FOR
+
+1,266,959,770
+
+votes AGAINST
+
+or an affirmative vote of 31.09% of the total votes cast.
+
+31,011,707
+
+shares abstained from voting.
+
+303,475,463
+
+broker non votes.
+
+9.
+
+Shareholder proposal regarding a congruency report of partnerships with globalist organizations:
+
+21,684,751
+
+votes FOR
+
+1,822,435,800
+
+votes AGAINST
+
+or an affirmative vote of 1.17% of the total votes cast.
+
+25,717,309
+
+shares abstained from voting.
+
+303,475,463
+
+broker non votes.
+
+10.
+
+Shareholder proposal regarding an independent board chairman:
+
+604,053,803
+
+votes FOR
+
+1,258,675,075
+
+votes AGAINST
+
+or an affirmative vote of 32.42% of the total votes cast.
+
+7,108,982
+
+shares abstained from voting.
+
+303,475,463
+
+broker non votes.
+
+A majority of the votes cast was required for all ten proposals to be approved.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+Merck & Co., Inc.
+
+Date: May 26, 2023
+
+By:
+
+/s/ Kelly E. W. Grez
+
+Kelly E. W. Grez
+
+Corporate Secretary

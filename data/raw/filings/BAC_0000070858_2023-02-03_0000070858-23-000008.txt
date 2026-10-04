@@ -1,0 +1,177 @@
+As filed with the Securities and Exchange Commission on February 3, 2023
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+February 3, 2023
+
+BANK OF AMERICA CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+1-6523
+
+56-0906609
+(State or Other Jurisdiction of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+100 North Tryon Street
+
+Charlotte
+,
+North Carolina
+
+28255
+
+(Address of principal executive offices)
+(
+704
+)
+386-5681
+
+(Registrant’s telephone number, including area code)
+Not Applicable
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.01 per share
+BAC
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of Floating Rate Non-Cumulative Preferred Stock, Series E
+BAC PrE
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 6.000% Non-Cumulative Preferred Stock, Series GG
+BAC PrB
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 5.875% Non-Cumulative Preferred Stock, Series HH
+BAC PrK
+New York Stock Exchange
+7.25% Non-Cumulative Perpetual Convertible Preferred Stock, Series L
+BAC PrL
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,200th interest in a share of
+
+BML PrG
+New York Stock Exchange
+Bank of America Corporation Floating Rate Non-Cumulative
+Preferred Stock, Series 1
+Depositary Shares, each representing a 1/1,200th interest in a share of
+
+BML PrH
+New York Stock Exchange
+Bank of America Corporation Floating Rate Non-Cumulative
+Preferred Stock, Series 2
+Depositary Shares, each representing a 1/1,200th interest in a share of
+
+BML PrJ
+New York Stock Exchange
+Bank of America Corporation Floating Rate Non-Cumulative
+Preferred Stock, Series 4
+Depositary Shares, each representing a 1/1,200th interest in a share of
+
+BML PrL
+New York Stock Exchange
+Bank of America Corporation Floating Rate Non-Cumulative
+Preferred Stock, Series 5
+Floating Rate Preferred Hybrid Income Term Securities of BAC Capital Trust XIII (and the guarantee related thereto)
+BAC/PF
+New York Stock Exchange
+5.63% Fixed to Floating Rate Preferred Hybrid Income Term Securities of BAC Capital Trust XIV (and the guarantee related thereto)
+BAC/PG
+New York Stock Exchange
+Income Capital Obligation Notes initially due December 15, 2066 of Bank of America Corporation
+MER PrK
+New York Stock Exchange
+Senior Medium-Term Notes, Series A, Step Up Callable Notes, due
+
+BAC/31B
+New York Stock Exchange
+November 28, 2031 of BofA Finance LLC (and the guarantee of the
+Registrant with respect thereto)
+Depositary Shares, each representing a 1/1,000th interest in a share of 5.375% Non-Cumulative Preferred Stock, Series KK
+BAC PrM
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 5.000% Non-Cumulative Preferred Stock, Series LL
+BAC PrN
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 4.375% Non-Cumulative Preferred Stock, Series NN
+BAC PrO
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 4.125% Non-Cumulative Preferred Stock, Series PP
+BAC PrP
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 4.250% Non-Cumulative Preferred Stock, Series QQ
+BAC PrQ
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 4.750% Non-Cumulative Preferred Stock, Series SS
+BAC PrS
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR 230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR 240.12b-2).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+ITEM 8.01.
+
+Other Events.
+
+Bank of America Corporation (“Bank of America” or the “Company”) today announced that its Board of Directors (the “Board”) has approved 2022 total compensation for Chair and Chief Executive Officer Brian T. Moynihan of $30,000,000, compared to 2021 total compensation of $32,000,000.
+In determining this compensation, the independent members of the Board evaluated many aspects of the Company’s performance in delivering Responsible Growth in 2022.
+The tenets of Responsible Growth encompass each aspect of Bank of America’s financial performance/shareholder return and its continued support of clients, communities and its employees. The Board acknowledged the Company’s continued success in 2022 and Mr. Moynihan’s leadership under this operating model particularly in this period of considerable economic uncertainty.
+Shareholders.
+The Company earned $27.5 billion in net income in 2022. Revenue growth of 7% from 2021 outpaced expense growth and created 400 bps of operating leverage. This was the third highest net income performance in the Company’s history. The Company returned $12 billion to shareholders in 2022 through dividends and common stock repurchases. The Company’s balance sheet remained a source of strength, with more than $273 billion in shareholders’ equity and liquidity levels of $881 billion at the end of 2022. The Company’s common stock price declined 26% in 2022, consistent with the KBW Bank Index, reflecting weakened investor sentiment given geopolitical tensions and recessionary fears.
+Employees.
+The Company continued to invest in being a great place to work in 2022. The Company raised the minimum hourly rate of pay for U.S. teammates to $22/hour continuing its commitment to increase that rate to $25/hour by 2025. Enhanced benefits offered by Bank of America included continued support for childcare reimbursement and back-up care programs, as well as elder care. The Company also further enhanced its mental health wellness programs and launched a new sabbatical program for employees celebrating certain career milestones, starting at 15 years of service, beginning in 2023. Additionally, the Company recently announced the sixth year of Sharing Success awards since 2017 with approximately 96% of employees receiving an award, the majority will receive shares of the Company’s common stock, further aligning interests with shareholders.
+Clients.
+The Company continued to support clients in 2022 with credit, capital and liquidity. The Company raised more than $700 billion of capital on behalf of clients, as well as increased new commercial commitments by more than $300 billion. This drove loan growth of more than $66 billion in 2022. Importantly, the Company experienced organic growth across its businesses. In 2022 the Company added more than one million net new consumer checking accounts with Consumer investment accounts growing to 3.5 million. The Company’s wealth management businesses added nearly 28,000 net new relationships in 2022 and added nearly 120,000 new bank accounts for investment clients in 2022. Additionally, Global Markets achieved its highest sales and trading revenue in a decade. The Company also continued to see strong client engagement across its digital platforms adding nearly three million active digital banking users in 2022, growing to 44 million.
+Communities
+.
+The Company continued to share success with the communities it serves. The Company provided more than $350 million in philanthropic investments to drive economic mobility, including $94 million for basic needs like hunger relief. The Company continued to deliver on its commitment to help diverse entrepreneurs thrive, ultimately driving economic opportunity and investment in its communities. The Company’s current $430+ million portfolio of more than 130 funds will ultimately invest in more than 2,000 minority- and women-led companies over the next five years. Additionally, over the course of 2022, employees gave nearly two million volunteer hours and directed more than $68 million in combined individual giving and the Company’s matching gifts, volunteer grants and other employee-directed giving programs.
+The Company was recognized in 2022 as the World’s Best Bank by
+Euromoney
+.
+Compensation Structure
+.
+The Board determined that Mr. Moynihan’s compensation structure continues to be composed of base salary, time-based restricted stock units (“RSUs”), and performance RSUs. Mr. Moynihan’s annual base salary remains $1.5 million. The aggregate value of his 2022 equity incentive awarded by the Board is $28.5 million. Consistent with prior years, there is no cash bonus. The incentive is comprised 30% of cash-settled RSUs that will vest over the next 12 months, 20% of stock-settled RSUs that will vest annually over the next four years, and 50% of performance RSUs that will be re-earned only if Bank of America’s future financial performance meets specific standards.
+The overall structure of Mr. Moynihan’s 2022 performance RSUs remains consistent with the structure over the prior 10 years, during which time shareholders voted to approve the Company’s executive compensation program through the annual advisory “Say on Pay” process with an average of 94.5% support. The performance RSUs awarded to Mr. Moynihan continue to use a
+“re-earn” approach, vesting only if the Company meets specific performance standards over a three-year period (from 2023 through 2025). Under this “re-earn” approach, future performance of the Company below the standards of the performance RSUs will decrease the amount ultimately paid; 100% is the maximum payout if standards are met. The three-year average return on assets and three-year average growth in adjusted tangible book value standards for the performance RSUs are unchanged from last year.
+Additionally, all of Mr. Moynihan’s 2022 equity incentive awards are subject to the Company’s stock ownership and retention requirements. Specifically, 50% of the net after-tax shares he receives from equity awards must be retained until one year after his retirement. These equity awards also are subject to the Company’s cancellation and clawback policies.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+BANK OF AMERICA CORPORATION
+By:
+/s/ Ross E. Jeffries, Jr.
+
+Ross E. Jeffries, Jr.
+
+Deputy General Counsel and
+Corporate Secretary
+Dated: February 3, 2023

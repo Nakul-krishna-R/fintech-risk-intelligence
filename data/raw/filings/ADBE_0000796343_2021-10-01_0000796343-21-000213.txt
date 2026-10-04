@@ -1,0 +1,93 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+_________________________
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (date of earliest event reported): October 1, 2021 (
+September 29, 2021
+)
+ADOBE INC.
+
+(Exact name of Registrant as specified in its charter)
+Delaware
+0-15175
+77-0019522
+(State or other jurisdiction of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+345 Park Avenue
+San Jose
+,
+California
+
+95110-2704
+(Address of principal executive offices and zip code)
+Registrant’s telephone number, including area code:
+(
+408
+)
+536-6000
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol
+Name of Each Exchange on Which Registered
+Common Stock, $0.0001 par value per share
+ADBE
+NASDAQ Global Select Market
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(c)
+On September 29, 2021, Dan Durn was appointed to the position of Executive Vice President and Chief Financial Officer of Adobe Inc. (“Adobe” or the “Company”), to be effective on or about October 18, 2021 (the “Effective Date”). Mr. Durn will succeed John Murphy, who announced his plans earlier this year to retire.
+Mr. Durn, age 54, has been Senior Vice President and Chief Financial Officer of Applied Materials, Inc., a provider of manufacturing equipment, services and software to the semiconductor and related industries, since August 2017. Previously, Mr. Durn was Executive Vice President and Chief Financial Officer of NXP Semiconductors N.V. (“NXP”), a semiconductor manufacturer, from December 2015 to August 2017. Mr. Durn served as Senior Vice President of Finance and Chief Financial Officer of Freescale Semiconductor, Inc. (“Freescale"), a semiconductor manufacturer, from June 2014 until its merger with NXP in December 2015. Prior to joining Freescale, Mr. Durn was Chief Financial Officer and Executive Vice President of Finance and Administration at GlobalFoundries, a semiconductor foundry, which he joined in December 2011. There has been no arrangement or understanding between Mr. Durn and any other person pursuant to which Mr. Durn was selected to his position at Adobe. Additionally, Mr. Durn is not a party to any transactions that would require disclosure under Item 404(a) of Regulation S-K.
+In his role, Mr. Durn will receive a base salary of $850,000 per year and will be eligible to receive a target bonus under the Company’s Executive Annual Incentive Plan equal to 100% of his annual base salary, which target bonus will be prorated for 2021. Mr. Durn is also eligible to receive a sign-on bonus of $6,200,000 payable in two equal installments, with one half payable in connection with his commencement of employment and the other half payable on the first anniversary of the Effective Date, subject to Mr. Durn’s continued employment with Adobe on each payment date. Each installment is subject to reimbursement if Mr. Durn’s employment terminates within twelve months of a payment, with the amount reimbursable reduced by 1/12 for each full month of employment from the Effective Date with respect to the first installment and reduced by 1/12 for each full month of employment following the first anniversary of the Effective Date for the second installment. Mr. Durn will also receive a grant of 46,039 restricted stock units (“RSUs”) on the Effective Date, which will vest quarterly over three years, subject to Mr. Durn’s continued employment. The RSUs will be issued under the Company’s 2019 Equity Incentive Plan, as amended (the “Plan”), and will be subject to the terms and conditions of the Plan. Mr. Durn will be eligible to participate in standard Company benefit programs available to similarly situated officers, including: health, vision, dental and disability coverage; executive health benefits; participation in the Company’s 401(k), non-qualified deferred compensation plan and 2020 Employee Stock Purchase Plan, as amended; and participation in Adobe’s charitable contribution matching program.
+A copy of our press release announcing the appointment of Mr. Durn as the Company’s Executive Vice President and Chief Financial Officer is attached as Exhibit 99.1 and incorporated herein by reference.
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits
+
+Incorporated by Reference
+Exhibit
+Number
+Exhibit Description
+Form
+Filing Date
+Exhibit Number
+SEC File No.
+Filed
+Herewith
+99.1
+Press release issued on October 1, 2021 entitled “Adobe Appoints Dan Durn Chief Financial Officer”
+X
+104
+Cover Page Interactive Data File (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document)
+2
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ADOBE INC.
+
+By:
+/s/ DANA RAO
+
+Dana Rao
+
+Executive Vice President, General Counsel and Corporate Secretary
+Date: October 1, 2021
+3

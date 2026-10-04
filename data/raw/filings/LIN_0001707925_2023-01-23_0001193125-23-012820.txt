@@ -1,0 +1,276 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+DATE OF REPORT (Date of earliest event reported):
+January 18, 2023
+
+Linde plc
+
+(Exact name of registrant as specified in its charter)
+
+Ireland
+
+001-38730
+
+98-1448883
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+10 Riverview Dr.
+
+Danbury
+,
+Connecticut
+
+United States
+
+06810
+
+Forge
+
+43 Church Street West
+Woking, Surrey
+
+GU21 6HT
+
+United Kingdom
+
+(Address of principal executive offices) (Zip Code)
+
++
+44
+
+1483
+
+242200
+
+(Registrant’s telephone numbers, including area code)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Ordinary shares (€0.001 nominal value per share)
+
+LIN
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ITEM
+
+5.07 Submission of Matters to a Vote of Security Holders
+
+A Court Meeting of Shareholders (“Court Meeting”) and an Extraordinary General Meeting of Shareholders (“EGM”) of Linde plc (“Linde”) were held on January 18, 2023, at which shareholders voted upon the items set forth below. The purpose of these meetings was for shareholders to vote upon proposed reorganization transactions that would result in the delisting of Linde’s ordinary shares from the Frankfurt Stock Exchange and being listed only on the New York Stock Exchange.
+
+The total number of shares outstanding and entitled to vote at the Court Meeting and the EGM was 492,532,997. The total number of shares that were present or represented by proxy at: (1) the Court Meeting was 382,537,202 which was approximately 77.65% of the shares outstanding and entitled to vote and which constituted a quorum; and (2) the EGM was 395,547,280, which was approximately 80.30% of the shares outstanding and entitled to vote and which constituted a quorum .
+
+The final voting results of the items submitted to a vote of the shareholders are set forth below.
+
+COURT MEETING
+
+Sole Proposal
+
+Shareholders approved by the votes set forth below, the Scheme of Arrangement under Irish law in its original form or with or subject to any modification(s), addition(s) or condition(s) approved or imposed by the Irish High Court.
+
+Shares Voted For
+
+Shares Voted Against
+
+Shares Abstained
+
+Broker Non-Votes
+
+358,219,545
+
+22,946,972
+
+1,370,685
+
+0
+
+(93.97% of votes cast)
+
+(6.0% of votes cast)
+
+Number of Shareholders of Record voting in person or by proxy:
+
+Number Voted For
+
+Number Voted Against
+
+Number Abstained
+
+Broker Non-Votes
+
+1,200
+
+48
+
+35
+
+N/A
+
+EXTRAORDINARY GENERAL MEETING
+
+Proposal 1
+
+Shareholders approved by the votes set forth below, the Scheme of Arrangement under Irish law in its original form or with or subject to any modification(s), addition(s) or condition(s) approved or imposed by the Irish High Court.
+
+Shares Voted For
+
+Shares Voted Against
+
+Shares Abstained
+
+Broker Non-Votes
+
+368,961,129
+
+25,244,009
+
+1,342,142
+
+0
+
+(93.59% of votes cast)
+
+(6.4% of votes cast)
+
+Proposal 2
+
+Shareholders approved by the votes set forth below, subject to the Scheme becoming effective, an amendment to the articles of association of Linde, which are part of the Linde Constitution, referred to as the “Articles,” in respect of certain mechanics to effect the Scheme.
+
+Shares Voted For
+
+Shares Voted Against
+
+Shares Abstained
+
+Broker Non-Votes
+
+368,963,658
+
+25,182,656
+
+1,400,966
+
+0
+
+(93.61% of votes cast)
+
+(6.37% of votes cast)
+
+Proposal 3
+
+Shareholders approved by the votes set forth below, the Common Draft Terms of Merger, whereupon and assuming the other conditions to the merger are satisfied, Linde would be merged with and into New Linde, with New Linde surviving the merger.
+
+Shares Voted For
+
+Shares Voted Against
+
+Shares Abstained
+
+Broker Non-Votes
+
+369,013,572
+
+25,181,172
+
+1,352,536
+
+0
+
+(93.61% of votes cast)
+
+(6.37% of votes cast)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+LINDE PLC
+
+By:
+
+/s/ Guillermo Bichara
+
+Name:
+
+Guillermo Bichara
+
+Title:
+
+Chief Legal Officer
+
+Date: January 23, 2023

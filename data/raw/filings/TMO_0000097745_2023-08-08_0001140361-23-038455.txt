@@ -1,0 +1,232 @@
+UNITED STATES SECURITIES AND
+EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+August 8, 2023
+
+THERMO FISHER SCIENTIFIC INC.
+
+(Exact name of Registrant as specified in its Charter)
+
+Delaware
+
+1-8002
+
+04-2209186
+
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(I.R.S. Employer Identification No.)
+
+168 Third Avenue
+
+Waltham
+,
+Massachusetts
+
+02451
+
+(Address of principal executive offices) (Zip Code)
+
+Registrant’s telephone number, including area code: (
+781
+)
+
+622-1000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (
+see
+General Instruction A.2. below):
+
+☐
+Written communications pursuant to Rule
+425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule
+14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant
+to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant
+to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, $1.00 par value
+
+TMO
+
+New York Stock Exchange
+
+0.750% Notes due 2024
+
+TMO 24A
+
+New York Stock Exchange
+
+0.125% Notes due 2025
+
+TMO 25B
+
+New York Stock Exchange
+
+2.000% Notes due 2025
+
+TMO 25
+
+New York Stock Exchange
+
+3.200% Notes due 2026
+
+TMO 26B
+
+New York Stock Exchange
+
+1.400% Notes due 2026
+
+TMO 26A
+
+New York Stock Exchange
+
+1.450% Notes due 2027
+
+TMO 27
+
+New York Stock Exchange
+
+1.750% Notes due 2027
+
+TMO 27B
+
+New York Stock Exchange
+
+0.500% Notes due 2028
+
+TMO 28A
+
+New York Stock Exchange
+
+1.375% Notes due 2028
+
+TMO 28
+
+New York Stock Exchange
+
+1.950% Notes due 2029
+
+TMO 29
+
+New York Stock Exchange
+
+0.875% Notes due 2031
+
+TMO 31
+
+New York Stock Exchange
+
+2.375% Notes due 2032
+
+TMO 32
+
+New York Stock Exchange
+
+3.650% Notes due 2034
+
+TMO 34
+
+New York Stock Exchange
+
+2.875% Notes due 2037
+
+TMO 37
+
+New York Stock Exchange
+
+1.500% Notes due 2039
+
+TMO 39
+
+New York Stock Exchange
+
+1.875% Notes due 2049
+
+TMO 49
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or
+Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+☐
+Emerging growth company
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 7.01 Regulation FD Disclosure.
+
+On August 8, 2023, Thermo Fisher Scientific Inc. (the “Company”) notified the holders of its (i) $500,000,000 aggregate principal amount of Floating Rate
+Senior Notes due 2023 (the “2023 Notes”) and (ii) $500,000,000 aggregate principal amount of Floating Rate Senior Notes due 2024 (the “2024 Notes” and, together with the 2023 Notes, the “Notes”) that it will redeem all of the Notes on August 18, 2023
+(the “Redemption Date”). The 2023 Notes will be redeemed at a redemption price equal to 100% of the principal amount of the 2023 Notes to be redeemed, plus accrued and unpaid interest on the 2023 Notes to be redeemed, if any, to, but excluding, the
+Redemption Date. The 2024 Notes will be redeemed at a redemption price equal to 100% of the principal amount of the 2024 Notes to be redeemed, plus accrued and unpaid interest on the 2024 Notes to be redeemed, if any, to, but excluding, the
+Redemption Date.
+
+On August 7, 2023, the Company priced $600,000,000 aggregate principal amount of 4.953% Senior Notes due 2026, $750,000,000 aggregate principal amount of
+4.977% Senior Notes due 2030, $1,000,000,000 aggregate principal amount of 5.086% Senior Notes due 2033 and $600,000,000 aggregate principal amount of 5.404% Senior Notes due 2043 in a public offering (the “Offering”). The Offering is subject to
+customary closing conditions and is expected to close on August 10, 2023.
+
+The Company intends to fund the redemption of the $1.0 billion aggregate principal amount of the Notes being redeemed using proceeds from the Offering.
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, including, but
+not limited to, the Company’s statements about its intended source of funds for the redemption of the Notes and the expected timing of the closing of the Offering. Important factors that could cause actual results to differ materially from those
+indicated by forward-looking statements include risks and uncertainties relating to: the COVID-19 pandemic; the need to develop new products and adapt to significant technological change; implementation of strategies for improving growth; general
+economic conditions and related uncertainties; dependence on customers’ capital spending policies and government funding policies; the effect of economic and political conditions and exchange rate fluctuations on international operations; use and
+protection of intellectual property; the effect of changes in governmental regulations; any natural disaster, public health crisis or other catastrophic event; and the effect of laws and regulations governing government contracts, as well as the
+possibility that expected benefits related to recent or pending acquisitions may not materialize as expected. Additional important factors that could cause actual results to differ materially from those indicated by such forward-looking statements
+are set forth in the Company’s most recent annual report on Form 10-K for the fiscal year ended December 31, 2022, subsequent quarterly reports on Form 10-Q and the other documents the Company files with the Securities and Exchange Commission (the
+“SEC”), which are on file with the SEC and available in the “Investors” section of the Company’s website under the heading “SEC Filings.” While the Company may elect to update forward-looking statements at some point in the future, the Company
+specifically disclaims any obligation to do so, even if its estimates change and, therefore, you should not rely on these forward-looking statements as representing the Company’s views as of any date subsequent to the date of this Current Report on
+Form 8-K.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+THERMO FISHER SCIENTIFIC INC.
+
+Date:
+
+August 8, 2023
+
+By:
+
+/s/ Michael A. Boxer
+
+Michael A. Boxer
+
+Senior Vice President and General Counsel

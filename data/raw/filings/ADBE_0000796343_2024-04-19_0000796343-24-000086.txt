@@ -1,0 +1,221 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+_________________________
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (date of earliest event reported): April 19, 2024 (
+April 17, 2024
+)
+ADOBE INC.
+
+(Exact name of registrant as specified in its charter)
+Delaware
+0-15175
+77-0019522
+(State or other jurisdiction of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+345 Park Avenue
+
+San Jose
+,
+California
+
+95110-2704
+
+(Address of principal executive offices and zip code)
+Registrant’s telephone number, including area code:
+(
+408
+)
+536-6000
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol
+Name of Each Exchange on Which Registered
+Common Stock, $0.0001 par value per share
+ADBE
+NASDAQ Global Select Market
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(e) Amendment and Restatement of 2019 Equity Incentive Plan
+On April 17, 2024, at the 2024 Annual Meeting of Stockholders (the "
+Annual Meeting
+") of Adobe Inc. (the "
+Company
+"), the Company’s stockholders approved the Adobe Inc. 2019 Equity Incentive Plan, as amended (the “
+2019 Plan
+”), to increase the available share reserve by 5 million shares as described in the Company’s Definitive Proxy Statement filed with the Securities and Exchange Commission on March 1, 2024 (“
+Proxy Statement
+”). The amended 2019 Plan previously had been approved, subject to stockholder approval, by the Company's Executive Compensation Committee of the Board of Directors.
+A summary of the 2019 Plan is set forth in our Proxy Statement. That summary and the foregoing description of the 2019 Plan are qualified in their entirety by reference to the text of the 2019 Plan, which is filed as Exhibit 10.1 hereto and incorporated herein by reference.
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+At the Annual Meeting, held on April 17, 2024, the Company’s stockholders approved proposals one through four and did not approve proposals five through six listed below. The final results for the votes regarding each proposal are set forth in the following tables. Each of these proposals is described in detail in the Company’s Proxy Statement.
+
+1. Elect twelve members of the Board of Directors, each to serve for a one-year term:
+
+Votes
+Votes
+
+Broker
+Name
+For
+Against
+Abstentions
+Non-Votes
+Cristiano Amon
+347,367,530
+3,396,166
+472,632
+41,212,582
+Amy Banse
+318,999,518
+31,780,527
+456,283
+41,212,582
+Brett Biggs
+348,478,059
+2,251,571
+506,698
+41,212,582
+Melanie Boulden
+342,825,267
+7,925,252
+485,809
+41,212,582
+Frank Calderoni
+331,877,429
+18,670,790
+688,109
+41,212,582
+Laura Desmond
+338,017,143
+12,759,348
+459,837
+41,212,582
+Shantanu Narayen
+323,396,504
+26,202,235
+1,637,589
+41,212,582
+Spencer Neumann
+347,687,557
+3,049,198
+499,573
+41,212,582
+Kathleen Oberg
+339,002,544
+11,767,492
+466,292
+41,212,582
+Dheeraj Pandey
+348,553,498
+2,203,643
+479,187
+41,212,582
+David Ricks
+341,654,881
+9,100,579
+480,868
+41,212,582
+Daniel Rosensweig
+335,136,045
+15,611,712
+488,571
+41,212,582
+2. Approve the 2019 Plan to increase the available share reserve by 5 million shares.
+Votes For
+Votes Against
+Abstentions
+Broker Non-Votes
+335,547,478
+15,057,959
+630,891
+41,212,582
+3. Ratify the appointment of KPMG LLP as our independent registered public accounting firm for our fiscal year ending on November 29, 2024.
+Votes For
+Votes Against
+Abstentions
+363,835,110
+27,982,914
+630,886
+4. Approve, on an advisory basis, the compensation of our named executive officers.
+Votes For
+Votes Against
+Abstentions
+Broker Non-Votes
+297,271,103
+53,038,028
+927,197
+41,212,582
+2
+5. Vote upon a stockholder proposal concerning a mandatory director resignation policy.
+Votes For
+Votes Against
+Abstentions
+Broker Non-Votes
+71,382,619
+277,939,473
+1,914,236
+41,212,582
+6. Vote upon a stockholder proposal concerning a report on hiring of persons with arrest or incarceration records.
+Votes For
+Votes Against
+Abstentions
+Broker Non-Votes
+47,817,273
+295,597,245
+7,821,810
+41,212,582
+Item 9.01 Financial Statements and Exhibits.
+
+(d)
+Exhibits
+Incorporated by Reference
+Exhibit Number
+Exhibit Description
+Form
+Filing Date
+Number
+SEC File No.
+Filed Herewith
+10.1
+2019 Equity Incentive Plan, as amended
+X
+104
+Cover Page Interactive Data File (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document)
+3
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ADOBE INC.
+Date: April 19, 2024
+By:
+/s/ Dana Rao
+Dana Rao
+Executive Vice President, General Counsel & Chief Trust Officer and Corporate Secretary
+4

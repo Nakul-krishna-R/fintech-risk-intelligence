@@ -1,0 +1,87 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+________________________
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of Report (date of earliest event reported)
+August 17, 2022
+Walmart Inc.
+(Exact name of registrant as specified in its charter)
+DE
+001-06991
+71-0415188
+(State or other jurisdiction of incorporation or organization)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+702 S.W. 8th Street
+
+Bentonville
+,
+AR
+
+72716-0215
+
+(Address of Principal Executive Offices) (Zip code)
+Registrant's telephone number, including area code
+(
+479
+)
+273-4000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.10 per share
+WMT
+NYSE
+2.550% Notes Due 2026
+WMT26
+NYSE
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 7.01. Regulation FD Disclosure.
+Earlier today, the U.S. District Court for the Northern District of Ohio issued its abatement ruling in a single, two county trial involving opioids in the multidistrict litigation. The order provided for injunctive and abatement relief to the two counties, with the abatement relief from the ruling on a joint and several liability basis being approximately $651 million in the aggregate to be paid over 15 years from all of the pharmacy defendants in the litigation (the “Abatement Amount”), including Walmart Inc. (the “Company”). The court also ordered the pharmacy defendants to pay immediately into an abatement fund approximately $87 million of the total Abatement Amount, reflecting the first two years of abatement. The Company plans to appeal the liability and abatement rulings in this litigation matter. The Company issued a Corporate Statement regarding the abatement ruling and this litigation matter. A copy of the Corporate Statement issued by the Company in response to the ruling is furnished as Exhibit 99.1 to this report.
+
+In accordance with General Instruction B.2 of Form 8-K, the information in this Current Report, including Exhibit 99.1, shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), or otherwise be subject to the liability of that section and shall not be incorporated by reference into any filing or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing or document.
+Item 9.01 Financial Statements and Exhibits.
+
+(d)
+Exhibits
+.
+99.1
+Corporate Statement dated August 17, 2022 issued by Walmart related to an abatement ruling in the Multidistrict Opioids Litigation in the U.S. District Court for the Northern District of Ohio.
+2
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated: August 17, 2022
+WALMART INC.
+By:
+/s/ Gordon Y. Allison
+Name:
+Gordon Y. Allison
+Title:
+Senior Vice President, Office of the Corporate Secretary, and Chief Counsel for Finance and Governance
+3

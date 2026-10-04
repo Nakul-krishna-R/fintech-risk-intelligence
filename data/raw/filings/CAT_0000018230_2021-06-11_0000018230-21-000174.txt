@@ -1,0 +1,205 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+Current Report
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+June 11, 2021
+CATERPILLAR INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+1-768
+37-0602744
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(I.R.S Employer Identification No.)
+510 Lake Cook Road,
+Suite 100,
+Deerfield,
+Illinois
+60015
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code:
+(224)
+
+551-4000
+Former name or former address, if changed since last report:
+N/A
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol (s)
+Name of each exchange which registered
+Common Stock ($1.00 par value)
+CAT
+The New York Stock Exchange
+8% Debentures due February 15, 2023
+CAT23
+The New York Stock Exchange
+5.3% Debentures due September 15, 2035
+CAT35
+The New York Stock Exchange
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+Indicate by check mark whether the registrant is an emerging growth company as defined by Rule 405 of the Securities Act of
+1933 (17 CFR §230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.07 Submission of Matters to a Vote of Security Holders
+On June 9, 2021, Caterpillar Inc. (the “Company”) held a virtual 2021 Annual Shareholders Meeting. Set forth below are the voting results for each of the matters submitted to a vote of the Company’s shareholders.
+Proposal 1 – Company Proposal - Election of Directors
+
+All nominees for election to the Company’s Board of Directors named in the Proxy Statement were elected, each to a one-year term, with the following vote:
+Director
+For
+Against
+Abstain
+Broker Non-Votes
+Kelly A. Ayotte
+351,232,725
+12,521,912
+1,061,872
+78,787,443
+David L. Calhoun
+343,895,658
+18,193,059
+2,727,792
+78,787,443
+Daniel M. Dickinson
+344,947,678
+18,793,409
+1,075,422
+78,787,443
+Gerald Johnson
+360,403,470
+3,285,634
+1,127,218
+78,787,443
+David W. MacLennan
+361,353,545
+2,308,045
+1,154,919
+78,787,443
+Debra L. Reed-Klages
+356,749,227
+7,106,528
+960,754
+78,787,443
+Edward B. Rust, Jr.
+348,465,765
+15,239,149
+1,111,596
+78,787,443
+Susan C. Schwab
+351,662,676
+12,211,731
+942,102
+78,787,443
+D. James Umpleby III
+339,906,035
+22,941,850
+1,968,624
+78,787,443
+Miles D. White
+303,951,277
+59,780,158
+1,085,074
+78,787,443
+Rayford Wilkins, Jr.
+358,368,230
+5,286,882
+1,161,397
+78,787,443
+Proposal 2 – Company Proposal - Ratification of Independent Registered Accounting Firm
+The proposal requesting ratification of the appointment of PricewaterhouseCoopers LLP as the Company’s independent registered public accounting firm for 2021 was approved with the following vote:
+For
+Against
+Abstain
+427,662,323
+14,798,261
+1,143,368
+Proposal 3 – Company Proposal - Advisory vote on executive compensation
+
+The proposal requesting that the shareholders of the Company approve executive compensation, on an advisory basis, was approved with the following vote:
+For
+Against
+Abstain
+Broker Non-Votes
+342,337,931
+19,903,448
+2,575,130
+78,787,443
+Proposal 4 – Shareholder Proposal – Report on Climate Policy
+The proposal requesting that the Board of Directors provide additional disclosure of Caterpillar's climate activity was not approved based on the following vote:
+For
+Against
+Abstain
+Broker Non-Votes
+173,059,923
+187,422,007
+4,334,579
+78,787,443
+
+Proposal 5 – Shareholder Proposal – Report on Diversity and Inclusion
+The proposal requesting the Board of Directors publish an annual report assessing the Company's diversity and inclusion was not approved based on the following vote:
+For
+Against
+Abstain
+Broker Non-Votes
+122,153,733
+238,371,549
+4,291,227
+78,787,443
+Proposal 6 – Shareholder Proposal – Transition to a Public Benefit Corporation
+The proposal requesting that the Board of Directors amend the Company's Certificate of Incorporation and become a public benefit corporation was not approved based on the following vote:
+For
+Against
+Abstain
+Broker Non-Votes
+10,645,284
+350,338,593
+3,832,632
+78,787,443
+Proposal 7 – Shareholder Proposal – Shareholder Action by Written Consent
+The proposal requesting that the Board of Directors amend the Company's governing documents to permit shareholder action by written consent was not approved based on the following vote:
+For
+Against
+Abstain
+Broker Non-Votes
+145,937,468
+216,533,274
+2,345,767
+78,787,443
+Item 9.01 Financial Statements and Exhibits
+
+(d)
+
+Exhibits.
+Exhibit
+Number
+Description
+104
+The cover page from this Current Report on Form 8-K, formatted in Inline XBRL.
+
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+CATERPILLAR INC.
+June 11, 2021
+By:
+/s/ Suzette M. Long
+Suzette M. Long
+Chief Legal Officer and General Counsel

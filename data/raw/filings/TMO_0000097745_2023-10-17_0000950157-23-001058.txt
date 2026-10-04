@@ -1,0 +1,265 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+October 17, 2023
+
+THERMO FISHER SCIENTIFIC INC.
+
+(Exact name of Registrant as specified in its Charter)
+
+Delaware
+
+001-08002
+
+04-2209186
+
+(State of incorporation)
+
+(Commission File Number)
+
+(I.R.S. Employer Identification Number)
+
+168 Third Avenue
+
+Waltham
+,
+Massachusetts
+
+02451
+
+(Address of principal executive offices) (Zip Code)
+
+Registrant’s telephone number, including area code: (
+781
+)
+622-1000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☒
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, $1.00 par value
+
+TMO
+
+New York Stock Exchange
+
+0.750% Notes due 2024
+
+TMO 24A
+
+New York Stock Exchange
+
+0.125% Notes due 2025
+
+TMO 25B
+
+New York Stock Exchange
+
+2.000% Notes due 2025
+
+TMO 25
+
+New York Stock Exchange
+
+1.400% Notes due 2026
+
+TMO 26A
+
+New York Stock Exchange
+
+3.200% Notes due 2026
+
+TMO 26B
+
+New York Stock Exchange
+
+1.450% Notes due 2027
+
+TMO 27
+
+New York Stock Exchange
+
+1.750% Notes due 2027
+
+TMO 27B
+
+New York Stock Exchange
+
+0.500% Notes due 2028
+
+TMO 28A
+
+New York Stock Exchange
+
+1.375% Notes due 2028
+
+TMO 28
+
+New York Stock Exchange
+
+1.950% Notes due 2029
+
+TMO 29
+
+New York Stock Exchange
+
+0.875% Notes due 2031
+
+TMO 31
+
+New York Stock Exchange
+
+2.375% Notes due 2032
+
+TMO 32
+
+New York Stock Exchange
+
+3.650% Notes due 2034
+
+TMO 34
+
+New York Stock Exchange
+
+2.875% Notes due 2037
+
+TMO 37
+
+New York Stock Exchange
+
+1.500% Notes due 2039
+
+TMO 39
+
+New York Stock Exchange
+
+1.875% Notes due 2049
+
+TMO 49
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 or (§230.405 of this chapter) Rule 12b-2 of
+the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+☐
+Emerging growth company
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised
+financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 8.01
+
+Other Events
+
+On October 17, 2023, Thermo Fisher Scientific Inc. (“Thermo Fisher”) and Olink Holding AB (publ) (“Olink”) issued a joint press release announcing the execution of a
+Purchase Agreement by and between Thermo Fisher and Olink, pursuant to which, upon the terms and subject to the conditions thereof, Thermo Fisher or a subsidiary of Thermo Fisher will commence a tender offer to purchase all of the outstanding common
+shares and American Depositary Shares of Olink. A copy of the joint press release is attached as Exhibit 99.1 hereto and is incorporated herein by reference.
+
+Item 9.01
+
+Financial Statements and Exhibits
+
+(d) Exhibits
+
+Exhibit
+
+No.
+
+Description of Exhibit
+
+99.1
+
+Press Release, dated October 17, 2023.
+
+104
+
+Cover Page Interactive Data File (embedded with the Inline XBRL document)
+
+Forward-Looking Statements
+
+This communication contains forward-looking statements that involve a number of risks and uncertainties. Words such as “believes,” “anticipates,” “plans,” “expects,”
+“seeks,” “estimates,” and similar expressions are intended to identify forward-looking statements, but other statements that are not historical facts may also be deemed to be forward-looking statements. Important factors that could cause actual
+results to differ materially from those indicated by forward-looking statements include risks and uncertainties relating to: the COVID-19 pandemic, the need to develop new products and adapt to significant technological change; implementation of
+strategies for improving growth; general economic conditions and related uncertainties; dependence on customers’ capital spending policies and government funding policies; the effect of economic and political conditions and exchange rate fluctuations
+on international operations; use and protection of intellectual property; the effect of changes in governmental regulations; any natural disaster, public health crisis or other catastrophic event; and the effect of laws and regulations governing
+government contracts, as well as the possibility that expected benefits related to recent or pending acquisitions, including the proposed acquisition, may not materialize as expected; the proposed acquisition not being timely completed, if completed
+at all; regulatory approvals required for the transaction not being timely obtained, if obtained at all, or being obtained subject to conditions; prior to the completion of the transaction, Olink’s business experiencing disruptions due to
+transaction-related uncertainty or other factors making it more difficult to maintain relationships with employees, customers, licensees, other business partners or governmental entities; difficulty retaining key employees; the outcome of any legal
+proceedings related to the proposed acquisition; and the parties being unable to successfully implement integration strategies or to achieve expected synergies and operating efficiencies within the expected time-frames or at all. Additional important
+factors that could cause actual results to differ materially from those indicated by such forward-looking statements are set forth in Thermo Fisher’s Annual Report on Form 10-K and subsequent quarterly reports on Form 10-Q, which are on file with the
+U.S. Securities and Exchange Commission (“SEC”) and available in the “Investors” section of Thermo Fisher’s website, ir.thermofisher.com, under the heading “SEC Filings”, and in any subsequent documents Thermo Fisher files or furnishes with the SEC,
+and in Olink’s Annual Report on Form 20-F and subsequent interim reports on Form 6-K, which are on file with the SEC and available in the “Investor Relations” section of Olink’s website, https://investors.olink.com/investor-relations, under the
+heading “SEC Filings”, and in any subsequent documents Olink files or furnishes with the SEC. While Thermo Fisher or Olink may elect to update forward-looking statements at some point in the future, Thermo Fisher and Olink specifically disclaim any
+obligation to do so, even if estimates change and, therefore, you should not rely on these forward-looking statements as representing either Thermo Fisher’s or Olink’s views as of any date subsequent to today.
+
+Additional Information and Where to Find It
+
+The tender offer referenced herein has not yet commenced. This communication is for informational purposes only and is neither an offer to purchase nor a solicitation of
+an offer to sell any shares of Olink or any other securities, nor is it a substitute for the tender offer materials that Thermo Fisher or its acquisition subsidiary will file with the SEC. The terms and conditions of the tender offer will be
+published in, and the offer to purchase ordinary shares of Olink will be made only pursuant to, the offer document and related offer materials prepared by Thermo Fisher and its acquisition subsidiary and filed with the SEC in a tender offer statement
+on Schedule TO at the time the tender offer is commenced. Olink intends to file a solicitation/recommendation statement on Schedule 14D-9 with the SEC with respect to the tender offer.
+
+THE TENDER OFFER MATERIALS (INCLUDING AN OFFER TO PURCHASE, A RELATED LETTER OF TRANSMITTAL AND CERTAIN OTHER TENDER OFFER DOCUMENTS) AND THE SOLICITATION/RECOMMENDATION
+STATEMENT ON SCHEDULE 14D-9, AS THEY MAY BE AMENDED FROM TIME TO TIME, WILL CONTAIN IMPORTANT INFORMATION. INVESTORS AND SHAREHOLDERS OF OLINK ARE URGED TO READ THESE DOCUMENTS CAREFULLY WHEN THEY BECOME AVAILABLE BECAUSE THEY, AND NOT THIS
+DOCUMENT, WILL GOVERN THE TERMS AND CONDITIONS OF THE TENDER OFFER, AND BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION THAT SUCH PERSONS SHOULD CONSIDER BEFORE MAKING ANY DECISION REGARDING TENDERING THEIR COMMON SHARES AND AMERICAN DEPOSITARY
+SHARES.
+
+The tender offer materials, including the offer to purchase and the related letter of transmittal and certain other tender offer documents, and the
+solicitation/recommendation statement (when they become available) and other documents filed with the SEC by Thermo Fisher or Olink, may be obtained free of charge at the SEC’s website at www.sec.gov or at Olink’s website at
+investors.olink.com/investor-relations or at Thermo Fisher’s website at www.thermofisher.com or by contacting Thermo Fisher’s investor relations department at 781-622-1111. In addition, Thermo Fisher’s tender offer statement and other documents it
+will file with the SEC will be available at https://ir.thermofisher.com/investors.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly
+authorized.
+
+THERMO FISHER SCIENTIFIC INC.
+
+Date:
+
+October 17, 2023
+
+By:
+
+/s/ Michael A. Boxer
+
+Michael A. Boxer
+
+Senior Vice President and General Counsel

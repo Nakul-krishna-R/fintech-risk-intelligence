@@ -1,0 +1,119 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported)
+February 26, 2024
+General Electric Co
+mpany
+(Exact name of registrant as specified in its charter)
+
+New York
+001-00035
+14-0689340
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+
+One Financial Center, Suite 3700,
+Boston,
+MA
+
+02111
+(Address of principal executive offices)
+
+(Zip Code)
+
+(Registrant’s telephone number, including area code)
+
+(
+617
+)
+443-3000
+
+_______________________________________________
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, par value $0.01 per share
+GE
+New York Stock Exchange
+0.875% Notes due 2025
+GE 25
+New York Stock Exchange
+1.875% Notes due 2027
+GE 27E
+New York Stock Exchange
+1.500% Notes due 2029
+GE 29
+New York Stock Exchange
+7 1/2% Guaranteed Subordinated Notes due 2035
+GE /35
+New York Stock Exchange
+2.125% Notes due 2037
+GE 37
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.04 Temporary Suspension of Trading Under Registrant’s Employee Benefit Plans.
+Under applicable Securities and Exchange Commission (“SEC”) rules, and in connection with General Electric Company’s (“GE”) previously announced plan for a spin-off (the “Spin-Off”) of its renewable energy, power and digital businesses, GE is filing this Form 8-K to report that participants in the GE Retirement Savings Plan (the “Plan”) are anticipated to be subject to a blackout period as described below.
+To effectuate the planned Spin-Off, GE anticipates making a pro rata distribution to GE shareholders of all of the outstanding shares of GE Vernova (as defined below) as of a date to be specified by GE’s board of directors, including with respect to any shares of GE common stock that are held for participants in the Plan who are invested in the GE common stock investment option under the Plan (the “GE Stock Fund”). The Spin-Off is expected to occur during the calendar week beginning with March 31, 2024.
+On February 26, 2024, the plan administrator notified GE of the anticipated need to institute a blackout period (the “Blackout Period”) that may be in excess of three consecutive business days in connection with the need to modify the Plan to create an investment fund under the Plan with respect to the shares of GE Vernova common stock received by the Plan in connection with the Spin-Off (the “GE Vernova Stock Fund”). The Blackout Period will apply with respect to the ability of Plan participants to make investment switches into or out of the GE Stock Fund and to take loans, withdrawals or distributions from the portion of their accounts invested in the GE Stock Fund.
+The Blackout Period is expected to begin during the calendar week beginning with March 31, 2024, and is expected to end during the calendar week beginning with April 7, 2024 (unless the plan administrator for the Plan determines otherwise, in which case GE’s directors and executive officers will be notified of the change as soon as reasonably practicable). Subject to the consummation of the Spin-Off, the Plan will be modified to provide for the GE Vernova Stock Fund in addition to the GE Stock Fund. GE mailed a notice dated February 27, 2024 to participants in the Plan informing them of the Blackout Period pursuant to the requirements applicable under the Employee Retirement Income Security Act of 1974, as amended.
+During the Blackout Period, subject to certain limited exemptions, GE’s directors and executive officers (within the meaning of Rule 100(c) and 100(h) of the SEC’s Regulation BTR), will be prohibited from directly or indirectly purchasing, selling, acquiring or transferring any GE equity securities (within the meaning of Rule 100(f) of Regulation BTR) with respect to shares of GE equity securities acquired in connection with their service or employment as a director or executive officer of GE. On February 27, 2024, GE sent a notice (the “Notice”) to its directors and executive officers informing them of the Blackout Period and certain trading prohibitions that they will be subject to during the Blackout Period, in accordance with the applicable requirements of the Securities Exchange Act of 1934, as amended. The Notice also informed GE’s directors and executive officers that the Blackout Period restrictions are separate from, and in addition to, any other restrictions on trading GE equity securities currently applicable to them. A copy of the Notice is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+It is possible that the plan administrator for the Plan will be able to complete the necessary modifications to the Plan in connection with the Spin-Off in three consecutive business days or fewer. GE’s directors and executive officers will be notified as soon as reasonably practicable if the Blackout Period restrictions described in the Notice are not applicable.
+During the Blackout Period and for a two-year period after the ending date of the Blackout Period, shareholders or other interested parties may obtain, without charge, the actual beginning and ending dates of the Blackout Period. Any inquiries regarding the Blackout Period may be directed to:
+General Electric Company One Financial Center, Suite 3700
+Boston, Massachusetts 02111
+Attention: Vice President, Chief Corporate, Securities & Finance Counsel Telephone Number: (617) 443-3000
+2
+ADDITIONAL INFORMATION AND WHERE TO FIND IT
+In connection with the Spin-Off, GE Vernova LLC (“GE Vernova”), a wholly-owned subsidiary of GE that will be converted into a corporation and renamed GE Vernova Inc. prior to consummation of the Spin-Off, has filed a registration statement on Form 10. This communication is not a substitute for any registration statement, prospectus or other documents GE and/or GE Vernova may file with the SEC in connection with the proposed transaction.
+INVESTORS AND SECURITY HOLDERS ARE URGED TO READ CAREFULLY AND IN THEIR ENTIRETY THESE DOCUMENTS WHEN THEY BECOME AVAILABLE, ANY AMENDMENTS OR SUPPLEMENTS TO THESE DOCUMENTS, AND OTHER DOCUMENTS FILED BY GE OR GE VERNOVA WITH THE SEC IN CONNECTION WITH THE PROPOSED SPIN-OFF, BECAUSE THESE DOCUMENTS WILL CONTAIN IMPORTANT INFORMATION.
+Investors and security holders will be able to obtain free copies of these materials and other documents filed with the SEC by GE and/or GE Vernova through the website maintained by the SEC at
+www.sec.gov.
+Investors and security holders will also be able to obtain free copies of the documents filed by GE and/or GE Vernova with the SEC from the respective companies by directing a written request to GE at General Electric Company, One Financial Center, Suite 3700, Boston, MA 02111 or by calling 617-443-3000 and/or GE Vernova at 58 Charles Street, Cambridge, MA 02141 or by calling (617) 674-7555.
+NO OFFER OR SOLICITATION
+This communication is for informational purposes only and not intended to and does not constitute an offer to subscribe for, buy or sell, the solicitation of an offer to subscribe for, buy or sell, or an invitation to subscribe for, buy or sell, any securities in any jurisdiction pursuant to or in connection with the proposed transaction or otherwise, nor shall there be any sale, issuance or transfer of securities in any jurisdiction in contravention of applicable law. No offer of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the Securities Act of 1933, as amended (the “Securities Act”), and otherwise in accordance with applicable law.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit
+Description
+99.1
+Notice to Directors and Executive Officers of GE dated February 27, 2024.
+104
+The cover page from this Current Report on Form 8-K, formatted in Inline XBRL.
+Forward-looking statements.
+This document contains “forward-looking statements” — that is, statements related to future, not past, events. These forward-looking statements often address GE’s expected future business and financial performance and financial condition, and often contain words such as “expect,” “anticipate,” “intend,” “plan,” “believe,” “seek,” “see,” “will,” “would,” “estimate,” “forecast,” “target,” “preliminary,” or “range.” Forward-looking statements by their nature address matters that are, to different degrees, uncertain, and are subject to risks, uncertainties and assumptions. For GE, particular areas where risks or uncertainties could cause GE’s actual results to be materially different than those expressed in GE’s forward-looking statements include: GE’s success in executing planned and potential transactions, including GE’s plan to pursue the Spin-Off, and sales or other dispositions of GE’s remaining equity interest in GE HealthCare, the timing for such transactions, the ability to satisfy any applicable pre-conditions, and the expected proceeds, consideration and benefits to GE; changes in macroeconomic and market conditions and market volatility, including risk of recession, inflation, supply chain constraints or disruptions, interest rates, the value of securities and other financial assets (including GE’s equity interest in GE HealthCare), oil, natural gas and other commodity prices and exchange rates, and the impact of such changes and volatility on GE’s business operations, financial results and financial position; and GE’s capital allocation plans, including the timing and amount of dividends, share repurchases, acquisitions, organic investments, and other priorities; and other factors that are described in the “Risk Factors” section of GE’s Annual Report on Form 10-K for the year ended December 31, 2023, as such description may be updated or amended in any future reports that GE files with the SEC. These or other uncertainties may cause GE’s actual future results to be materially different than those expressed in its forward-looking statements. GE does not undertake to update its forward-looking statements.
+3
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+General Electric Company
+(Registrant)
+Date: February 29, 2024
+/s/ Brandon Smith
+Brandon Smith
+Vice President, Chief Corporate, Securities & Finance Counsel
+4

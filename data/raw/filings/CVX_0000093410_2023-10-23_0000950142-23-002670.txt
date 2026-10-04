@@ -1,0 +1,369 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+
+October 22, 2023
+
+Chevron Corporation
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-00368
+
+94-0890210
+
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(I.R.S. Employer Identification No.)
+
+6001 Bollinger Canyon Road
+,
+San Ramon
+,
+CA
+
+94583
+
+(Address of Principal Executive Offices)
+
+(Zip Code)
+
+(
+925
+)
+842-1000
+
+Registrant’s telephone number, including area code
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligations of the registrant under any of the following provisions:
+
+☒
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol
+
+Name of each exchange on which registered
+
+Common stock, par value $.75 per share
+
+CVX
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging
+growth company
+☐
+
+If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any
+new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 1.01.
+Entry into a Material Definitive Agreement.
+
+On October 22, 2023,
+Chevron Corporation (“
+Chevron
+”) entered into an Agreement and Plan of Merger (the “
+Merger Agreement
+”)
+with Hess Corporation (“
+Hess
+”) and Yankee Merger Sub Inc., a direct, wholly-owned subsidiary of Chevron (“
+Merger
+Subsidiary
+”). The Merger Agreement provides that, among other things and subject to the terms and conditions of the Merger Agreement,
+Merger Subsidiary will be merged with and into Hess, with Hess surviving and continuing as the surviving corporation of the Merger and
+as a direct, wholly-owned subsidiary of Chevron (such transaction, the “
+Merger
+”).
+
+At the effective time of
+the Merger (the “
+Effective Time
+”), each outstanding share of common stock of Hess, par value $1.00 per share (the “
+Hess
+Common Stock
+”), will be converted into the right to receive 1.025 (the “
+Exchange Ratio
+”) shares of common
+stock of Chevron, par value $0.75 per share (“
+Chevron Common Stock
+”), plus cash in lieu of any fractional shares of
+Chevron Common Stock that otherwise would have been issued (the “
+Merger Consideration
+”).
+
+Pursuant to the Merger
+Agreement, at the Effective Time, (i) each then outstanding Hess stock option and restricted stock award and each then outstanding performance
+share unit (“
+PSU
+”) award granted on or after the date of the Merger Agreement will be converted into corresponding
+Chevron equity awards based on the Exchange Ratio, subject to the same terms and conditions applicable to such awards immediately prior
+to the Effective Time (except that any performance conditions applicable to such PSU award will be deemed to be achieved at the target
+level as of the Effective Time) and (ii) each then outstanding PSU award granted prior to the date of the Merger Agreement will be deemed
+to be earned at the maximum level and converted into a restricted cash award in an amount per PSU award equal to the average closing trading
+price of a share of Chevron Common Stock for the 20 business days ending on and including the second to last business day prior to the
+Effective Time multiplied by the Exchange Ratio, and in each case shall remain subject to the same terms and conditions as applied to
+such awards immediately prior to the Effective Time (other than the performance conditions).
+
+The board of directors
+of Hess has unanimously approved the Merger Agreement and resolved to recommend the adoption of the Merger Agreement by Hess
+stockholders, who will be asked to vote on the adoption of the Merger Agreement at a stockholders meeting. The board of directors of
+Chevron also unanimously approved the Merger Agreement.
+
+The completion of the Merger
+is subject to satisfaction or waiver of certain customary mutual closing conditions, including (1) the receipt of the required approval
+from Hess stockholders, (2) the expiration or termination of the waiting period under the Hart-Scott-Rodino Antitrust Improvements Act
+of 1976, as amended (the “
+HSR Act
+”), (3) the absence of any order or law prohibiting consummation of the Merger, (4)
+the effectiveness of the Registration Statement on Form S-4 to be filed by Chevron pursuant to which the shares of Chevron Common Stock
+to be issued in connection with the Merger will be registered with the U.S. Securities and Exchange Commission (the “
+SEC
+”),
+and (5) the authorization for listing on the New York Stock Exchange of the shares of Chevron Common Stock to be issued in connection
+with the Merger. The obligation of each party to consummate the Merger is also conditioned upon the other party having performed in all
+material respects its obligations under the Merger Agreement and the other party’s representations and warranties in the Merger
+Agreement being true and correct (subject to certain materiality qualifiers).
+
+The Merger Agreement contains
+customary representations and warranties of Chevron and Hess relating to their respective businesses, financial statements and public
+filings, in each case generally subject to customary materiality qualifiers. Additionally, the Merger Agreement provides for customary
+pre-closing covenants of Hess and Chevron, including a covenant of Hess relating to using all reasonable best efforts to conduct its business
+in the ordinary course, subject to certain exceptions, and covenants of each party to refrain from taking certain actions without the
+other party’s consent. Hess and Chevron also agreed to use their respective reasonable best efforts to cause the Merger to be consummated,
+to avoid or eliminate impediments under any antitrust laws or other applicable laws, and to obtain expiration or termination of the waiting
+period under the HSR Act, subject to certain exceptions.
+
+The Merger Agreement provides
+that, during the period from the date of the Merger Agreement until the Effective Time or the earlier termination of the Merger Agreement,
+Hess is subject to certain restrictions on its ability to solicit alternative acquisition proposals from third parties, provide non-public
+information to third parties and engage in negotiations with third parties regarding alternative acquisition proposals, subject to certain
+exceptions.
+
+The Merger Agreement contains
+termination rights for each of Hess and Chevron, including, among others, (1) if the consummation of the Merger does not occur on or before
+April 18, 2024 (the “
+End Date
+”); except that the End Date will automatically be successively extended to October 22,
+2024, April 22, 2025 and October 22, 2025 if all required applicable regulatory approvals have not been obtained by what would otherwise
+be the End Date but all other conditions to closing have been satisfied (other than those conditions that by their terms are to be satisfied
+at the closing, each of which is capable of being satisfied) or (to the extent permitted by law) waived; and (2) subject to certain conditions,
+if Hess desires to terminate the Merger Agreement to enter into a definitive agreement with respect to a Superior Proposal (as such term
+is defined in the Merger Agreement). Upon termination of the Merger Agreement under specified circumstances, including the termination
+by Chevron in the event of a change of recommendation by the board of directors of Hess or by Hess in order to enter into a definitive
+agreement with respect to a Superior Proposal, Hess would be required to pay Chevron a termination fee of $1,715,000,000.
+
+The foregoing description
+of the Merger Agreement and the transactions contemplated thereby in this Current Report on Form 8-K is only a summary and does not purport
+to be complete and is qualified in its entirety by reference to the full text of the Merger Agreement, a copy of which is filed as Exhibit
+2.1 hereto and incorporated by reference herein. The parties expect to file the registration statement on Form S-4 containing Chevron’s
+preliminary prospectus and Hess’s preliminary proxy statement as promptly as practicable.
+
+The Merger Agreement has
+been included to provide investors with information regarding its terms. It is not intended to provide any other factual information about
+Hess or Chevron. The representations, warranties and covenants contained in the Merger Agreement were made only for purposes of the Merger
+Agreement as of the specific dates therein, were solely for the benefit of the parties to the Merger Agreement, may be subject to limitations
+agreed upon by the contracting parties, including being qualified by confidential disclosures made for the purposes of allocating contractual
+risk between the parties to the Merger Agreement instead of establishing these matters as facts, and may be subject to standards of materiality
+applicable to the contracting parties that differ from those applicable to investors. Investors are not third-party beneficiaries under
+the Merger Agreement and should not rely on the representations, warranties and covenants or any descriptions thereof as characterizations
+of the actual state of facts or condition of the parties thereto or any of their respective subsidiaries or affiliates. Moreover, information
+concerning the subject matter of representations and warranties may change after the date of the Merger Agreement, which subsequent information
+may or may not be fully reflected in Hess’s or Chevron’s public disclosures.
+
+Item 8.01.
+Other Events.
+
+Voting and Support Agreement
+
+Concurrently with the
+execution and delivery of the Merger Agreement, Chevron entered into a Voting and Support Agreement (the “
+Voting
+Agreement
+”) with Hess and John B. Hess, whereby Mr. Hess has agreed to vote 29,222,682 shares of
+Hess Common Stock of which he has sole or shared record and/or beneficial ownership (approximately 9.5% of the outstanding Hess
+Common Stock) in favor of, among other things, the adoption of the Merger Agreement.
+
+The foregoing description
+is not complete and is qualified in its entirety by reference to the full text of the Voting Agreement, which is attached hereto as Exhibit
+99.1 and is incorporated herein by reference.
+
+FORWARD-LOOKING STATEMENTS
+
+This communication contains “forward-looking
+statements” within the meaning of the federal securities laws, including Section 27A of the Securities Act of 1933, as amended,
+and Section 21E of the Securities Exchange Act of 1934, as amended. You can identify these statements and other forward-looking statements
+in this document by words such as “expects,” “focus,” “intends,” “anticipates,” “plans,”
+“targets,” “poised,” “advances,” “drives,” “aims,” “forecasts,”
+“believes,” “approaches,” “seeks,” “schedules,” “estimates,” “positions,”
+“pursues,” “progress,” “may,” “can,” “could,” “should,” “will,”
+“budgets,” “outlook,” “trends,” “guidance,” “commits,” “on track,”
+“objectives,” “goals,” “projects,” “strategies,” “opportunities,” “potential,”
+“ambitions,” “aspires” and similar expressions, and variations or negatives of these words, but not all forward-looking
+statements include such words.
+
+Forward-looking statements by their nature
+address matters that are, to different degrees, uncertain, such as statements about the consummation of the potential transaction, including
+the expected time period to consummate the potential transaction, and the anticipated benefits (including synergies) of the potential
+transaction. All such forward-looking statements are based upon current plans, estimates, expectations and ambitions that are subject
+to risks, uncertainties and assumptions, many of which are beyond the control of Chevron and Hess, that could cause actual results to
+differ materially from those expressed in such forward-looking statements. Key factors that could cause actual results to differ materially
+include, but are not limited to the risk that regulatory approvals are not obtained or are obtained subject to conditions that are not
+anticipated by Chevron and Hess; potential delays in consummating the potential transaction, including as a result of regulatory approvals;
+Chevron’s ability to integrate Hess’ operations in a successful manner and in the expected time period; the possibility that
+any of the anticipated benefits and projected synergies of the potential transaction will not be realized or will not be realized within
+the expected time period; the occurrence of any event, change or other circumstance that could give rise to the termination of the merger
+agreement; risks that the anticipated tax treatment of the potential transaction is not obtained; unforeseen or unknown liabilities; customer,
+shareholder, regulatory and other stakeholder approvals and support; unexpected future capital expenditures; potential litigation relating
+to the potential transaction that could be instituted against Chevron and Hess or their respective directors; the possibility that the
+transaction may be more expensive to complete than anticipated, including as a result of unexpected factors or events; the effect of the
+announcement, pendency or completion of the potential transaction on the parties’ business relationships and business generally;
+risks that the potential transaction disrupts current plans and operations of Chevron or Hess and potential difficulties in Hess employee
+retention as a result of the transaction, as well as the risk of disruption of Chevron’s or Hess’ management and business
+disruption during the pendency of, or following, the potential transaction; the receipt of required Chevron Board of Directors’
+authorizations to implement capital allocation strategies, including future dividend payments; uncertainties as to whether the potential
+transaction will be consummated on the anticipated timing or at all, or if consummated, will achieve its anticipated economic benefits,
+including as a result of risks associated with third party contracts containing material consent, anti-assignment, transfer or other provisions
+that may be related to the potential transaction which are not waived or otherwise satisfactorily resolved; changes in commodity prices;
+negative effects of this announcement, and the pendency or completion of the proposed acquisition on the market price of Chevron’s
+or Hess’ common stock and/or operating results; rating agency actions and Chevron’s and Hess’ ability to access short-
+and long-term debt markets on a timely and affordable basis; various events that could disrupt operations, including severe weather, such
+as droughts, floods, avalanches and earthquakes, and cybersecurity attacks, as well as security threats and governmental response to them,
+and technological changes; labor disputes; changes in labor costs and labor difficulties; the effects of industry, market, economic, political
+or regulatory conditions outside of Chevron’s or Hess’ control; legislative, regulatory and economic developments targeting
+public companies in the oil and gas industry; and the risks described in Part I, Item 1A “Risk Factors” of (i) Chevron’s
+Annual Report on Form 10-K for the year ended December 31, 2022 and (ii) Hess’ Annual Report on Form 10-K for the year ended December
+31, 2022, and, in each case, in subsequent filings with the U.S. Securities and Exchange Commission (“SEC”). Other unpredictable
+or factors not discussed in this communication could also have material adverse effects on forward-looking statements. Neither Chevron
+nor Hess assumes an obligation to update any forward-looking statements, except as required by law. You are cautioned not to place undue
+reliance on any of these forward-looking statements as they are not guarantees of future performance or outcomes and that actual performance
+and outcomes. These forward-looking statements speak only as of the date hereof.
+
+CAUTIONARY NOTE TO INVESTORS
+
+This communication uses certain terms
+relating to resources other than proved reserves, such as unproved reserves or resources. Investors are urged to consider closely
+the oil and gas disclosures in Hess’ Annual Report on Form 10-K, File No. 1-1204, available from Hess Corporation, 1185 Avenue
+of the Americas, New York, New York 10036 c/o Corporate Secretary and on Hess’ website at www.hess.com. You can also obtain
+this form from the SEC on the EDGAR system.
+
+IMPORTANT INFORMATION FOR INVESTORS AND STOCKHOLDERS
+
+This communication does not constitute an offer to sell or the solicitation
+of an offer to buy any securities or a solicitation of any vote or approval, nor shall there be any sale of securities in any jurisdiction
+in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such
+jurisdiction. No offer of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the Securities
+Act. In connection with the potential transaction, Chevron expects to file a registration statement on Form S-4 with the SEC containing
+a preliminary prospectus of Chevron that also constitutes a preliminary proxy statement of Hess. After the registration statement is declared
+effective, Hess will mail a definitive proxy statement/prospectus to stockholders of Hess. This communication is not a substitute for
+the proxy statement/prospectus or registration statement or for any other document that Chevron or Hess may file with the SEC and send
+to Hess’ stockholders in connection with the potential transaction. INVESTORS AND SECURITY HOLDERS OF CHEVRON AND HESS ARE URGED
+TO READ THE PROXY STATEMENT/PROSPECTUS AND OTHER DOCUMENTS FILED WITH THE SEC CAREFULLY AND IN THEIR ENTIRETY WHEN THEY BECOME AVAILABLE
+BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION. Investors and security holders will be able to obtain free copies of the proxy statement/prospectus
+(when available) and other documents filed with the SEC by Chevron or Hess through the website maintained by the SEC at http://www.sec.gov.
+Copies of the documents filed with the SEC by Chevron will be available free of charge on Chevron’s website at http://www.chevron.com/investors.
+Copies of the documents filed with the SEC by Hess will be available free of charge on Hess’ website at http://www.hess.com/investors.
+
+Chevron and Hess and certain of their respective directors, certain
+of their respective executive officers and other members of management and employees may be considered participants in the solicitation
+of proxies with respect to the potential transaction under the rules of the SEC. Information about the directors and executive officers
+of Chevron is set forth in its Annual Report on Form 10-K for the year ended December 31, 2022, which was filed with the SEC on February
+23, 2023, and its proxy statement for its 2023 annual meeting of stockholders, which was filed with the SEC on April 12, 2023. Information
+about the directors and executive officers of Hess is set forth in its Annual Report on Form 10-K for the year ended December 31, 2022,
+which was filed with the SEC on February 24, 2023, and its proxy statement for its 2023 annual meeting of stockholders, which was filed
+with the SEC on April 6, 2023. These documents can be obtained free of charge from the sources indicated above. Additional information
+regarding the interests of such participants in the solicitation of proxies in respect of the potential transaction will be included in
+the registration statement and proxy statement/prospectus and other relevant materials to be filed with the SEC when they become available.
+
+Item 9.01
+Financial Statements and Exhibits.
+
+(d)
+Exhibits
+.
+
+Exhibit No.
+
+Description
+
+2.1
+
+Agreement and Plan of Merger, dated as of October 22, 2023, by and among Chevron Corporation, Yankee Merger Sub Inc., and Hess Corporation.*
+
+99.1
+
+Voting and Support Agreement, dated October 22, 2023, by and among Chevron Corporation, Hess Corporation, and John B. Hess.
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+*Annexes, schedules and/or exhibits have been
+omitted pursuant to Item 601(b)(2) of Regulation S-K. Chevron hereby agrees to furnish supplementally a copy of any omitted
+attachment to the SEC on a confidential basis upon request.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated: October 23, 2023
+
+CHEVRON CORPORATION
+
+By:
+
+/s/ Christine L. Cavallo
+
+Name:
+
+Christine L. Cavallo
+
+Title:
+
+Assistant Secretary

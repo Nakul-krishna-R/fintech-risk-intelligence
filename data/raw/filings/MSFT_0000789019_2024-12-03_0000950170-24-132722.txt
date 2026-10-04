@@ -1,0 +1,161 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(D)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported)
+December 3, 2024
+
+Microsoft Corporation
+
+Washington
+
+001-37845
+
+91-1144442
+
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+One Microsoft Way
+,
+Redmond
+,
+Washington
+
+98052-6399
+
+(
+425
+)
+882-8080
+
+www.microsoft.com/investor
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol
+
+Name of exchange on which registered
+
+Common stock, $0.00000625 par value per share
+
+MSFT
+
+Nasdaq
+
+3.125% Notes due 2028
+
+MSFT
+
+Nasdaq
+
+2.625% Notes due 2033
+
+MSFT
+
+Nasdaq
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company
+¨
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+
+Item 8.01.
+
+Other Events
+
+Microsoft Corporation (the “Company”) is filing this Current Report on Form 8-K to recast certain previously reported amounts to conform with segment reporting changes made to align our segments with how we manage our business, with respect to the financial information contained in our Annual Report on Form 10-K for the year ended June 30, 2024 (“2024 Form 10-K”).
+
+In August 2024, we announced changes to the composition of our segments, most notably bringing the commercial components of Microsoft 365 together in the Productivity and Business Processes segment. Beginning in fiscal year 2025, the information that our chief operating decision maker is regularly provided and reviews for purposes of allocating resources and assessing performance reflects these segment changes. We provided a brief description of the segment changes in a Form 8-K filed on August 21, 2024.
+
+The rules of the Securities and Exchange Commission require that when a registrant prepares, on or after the date a registrant reports an accounting change such as the segment changes noted above, a new registration, proxy, or information statement (or amends a previously filed registration, proxy, or information statement) that includes or incorporates by reference financial statements, the registrant must recast the prior period financial statements included or incorporated by reference in the registration, proxy, or information statement to reflect these types of changes. Accordingly, the Company is filing this Form 8-K to recast our consolidated financial statements for each of the three years in the period ended June 30, 2024, to reflect the changes in segment reporting as described above. The updates do not represent a restatement of previously issued financial statements. The recast information of Items contained in the 2024 Form 10-K is presented in Exhibit 99.1 to this Form 8-K, which is incorporated herein by reference.
+
+The information included in this Form 8-K is presented for informational purposes only in connection with the segment reporting changes described above and does not amend or restate our audited consolidated financial statements, which were included in our 2024 Form 10-K. This Form 8-K does not reflect events occurring after we filed our 2024 Form 10-K and does not modify or update the disclosures therein in any way, other than to illustrate the impact of the segment changes as described above. For developments subsequent to the filing of the 2024 Form 10-K, refer to our Quarterly Report on Form 10-Q for the quarter ended September 30, 2024. This Form 8-K should be read in conjunction with the 2024 Form 10-K and our Quarterly Report on Form 10-Q for the quarter ended September 30, 2024.
+
+Item 9.01.
+
+Financial Statements and Exhibits
+
+(d) Exhibits:
+
+23.1
+
+Consent Of Independent Registered Public Accounting Firm
+
+99.1
+
+Updates, where applicable, to Part I, Item 1. Business, Part II, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations, and Part II, Item 8. Financial Statements and Supplementary Data, from Microsoft’s Annual Report on Form 10-K for the year ended June 30, 2024, as filed with the Securities and Exchange Commission on July 30, 2024
+
+101.INS
+
+Inline XBRL Instance Document–the instance document does not appear in the Interactive Data File as its XBRL tags are embedded within the Inline XBRL document
+
+101.SCH
+
+Inline XBRL Taxonomy Extension Schema
+
+with Embedded Linkbase Documents
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+MICROSOFT CORPORATION
+
+Date: December 3, 2024
+
+/s/ A
+LICE
+
+L
+.
+J
+OLLA
+
+Alice L. Jolla
+
+Corporate Vice President and
+
+Chief Accounting Officer

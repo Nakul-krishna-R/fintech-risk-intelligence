@@ -1,0 +1,139 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (date of earliest event reported):
+December 20, 2022
+
+WELLS FARGO & COMPANY
+(Exact name of registrant as specified in its charter)
+Delaware
+
+001-02979
+
+No.
+41-0449260
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission File
+Number)
+
+(IRS Employer
+Identification No.)
+
+420 Montgomery Street
+,
+San Francisco
+,
+California
+
+94104
+
+(Address of principal executive offices) (Zip Code)
+Registrant's telephone number, including area code:
+1-
+866
+-
+249-3302
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol
+Name of Each Exchange
+on Which Registered
+Common Stock, par value $1-2/3
+WFC
+New York Stock
+Exchange
+(
+NYSE
+)
+7.5% Non-Cumulative Perpetual Convertible Class A Preferred Stock, Series L
+WFC.PRL
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of
+5.85% Fixed-to-Floating Rate Non-Cumulative Perpetual Class A Preferred Stock, Series Q
+WFC.PRQ
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of
+6.625% Fixed-to-Floating Rate Non-Cumulative Perpetual Class A Preferred Stock, Series R
+WFC.PRR
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Y
+WFC.PRY
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Z
+WFC.PRZ
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series AA
+WFC.PRA
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series CC
+WFC.PRC
+NYSE
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series DD
+WFC.PRD
+NYSE
+Guarantee of Medium-Term Notes, Series A, due October 30, 2028 of Wells Fargo Finance LLC
+WFC/28A
+NYSE
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act (17 CFR 230.405) or Rule 12b-2 of the Exchange Act (17 CFR 240.12b‑2).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+o
+Item 8.01. Other Events.
+On December 20, 2022, Wells Fargo & Company (the “Company”) issued a news release announcing it had reached a broad-reaching settlement with the Consumer Financial Protection Bureau (“CFPB”) resolving multiple matters, the majority of which have been outstanding for several years, related to automobile lending, consumer deposit accounts, and mortgage lending. As part of the settlement, the Company entered into a consent order (the “2022 Consent Order”) and agreed to pay a civil penalty of $1.7 billion. In addition, the CFPB modified its April 20, 2018 consent order (the “Modification to 2018 Consent Order”) to clarify how and when the April 20, 2018 consent order will terminate.
+The Company expects operating losses expense, which is included in its noninterest expense, will be approximately $3.5 billion (approximately $2.8 billion, net of tax) for the three months ending on December 31, 2022. This includes, among other things, the incremental costs of the CFPB civil penalty and approximately $350 million related to new customer redress specified in the 2022 Consent Order as well as amounts related to outstanding litigation matters and other customer remediation.
+
+The Company’s full fourth quarter financial results will be reported on January 13, 2023.
+Copies of the news release, 2022 Consent Order, and Modification to 2018 Consent Order are included as Exhibits 99.1, 99.2, and 99.3 to this report and are incorporated by reference into this Item 8.01.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits
+
+Exhibit No.
+Description
+Location
+99.1
+News Release dated December 20, 2022.
+Filed herewith.
+99.2
+2022 Consent Order dated December 20, 2022.
+Filed herewith.
+99.3
+Modification to 2018 Consent Order dated December 20, 2022.
+Filed herewith.
+104
+Cover Page Interactive Data File.
+Embedded within the Inline XBRL document.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated:
+December 20, 2022
+WELLS FARGO & COMPANY
+By:
+/s/ TANGELA RICHTER
+Tangela Richter
+Executive Vice President,
+Deputy General Counsel and Secretary

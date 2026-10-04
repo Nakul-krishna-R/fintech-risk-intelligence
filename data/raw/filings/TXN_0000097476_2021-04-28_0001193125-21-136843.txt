@@ -1,0 +1,322 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+DATE OF REPORT (DATE OF EARLIEST EVENT REPORTED):
+April 22, 2021
+
+TEXAS INSTRUMENTS INCORPORATED
+
+(Exact name of registrant as specified in charter)
+
+DELAWARE
+
+001-03761
+
+75-0289970
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+file number)
+
+(I.R.S. employer
+
+identification no.)
+
+12500 TI BOULEVARD
+
+DALLAS
+,
+TEXAS
+
+75243
+
+(Address of principal executive offices)
+
+Registrant’s telephone number, including area code:
+(214)
+
+479-3773
+
+Check the appropriate box below if the Form
+8-K
+is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $1.00
+
+TXN
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ITEM 5.07. Submission of Matters to a Vote of Security Holders.
+
+At the annual meeting of stockholders held on April 22, 2021, the stockholders elected the Board of Directors of Texas Instruments Incorporated and voted upon the proposals contained within our Proxy Statement dated March 9, 2021.
+
+The Board nominees were elected with the following vote:
+
+Nominee
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+Mark A. Blinn
+
+675,101,105
+
+73,674,071
+
+2,040,323
+
+70,174,112
+
+Todd M. Bluedorn
+
+741,856,453
+
+6,903,466
+
+2,055,580
+
+70,174,112
+
+Janet F. Clark
+
+746,306,722
+
+2,424,817
+
+2,083,960
+
+70,174,112
+
+Carrie S. Cox
+
+713,835,885
+
+34,328,520
+
+2,651,094
+
+70,174,112
+
+Martin S. Craighead
+
+739,140,836
+
+9,492,852
+
+2,181,811
+
+70,174,112
+
+Jean M. Hobby
+
+746,184,404
+
+2,506,038
+
+2,125,057
+
+70,174,112
+
+Michael Hsu
+
+698,233,976
+
+50,501,665
+
+2,079,858
+
+70,174,112
+
+Ronald Kirk
+
+733,897,515
+
+8,570,243
+
+8,347,741
+
+70,174,112
+
+Pamela H. Patsley
+
+695,240,208
+
+53,423,870
+
+2,151,421
+
+70,174,112
+
+Robert E. Sanchez
+
+742,196,246
+
+6,512,864
+
+2,106,389
+
+70,174,112
+
+Richard K. Templeton
+
+706,611,968
+
+39,429,623
+
+4,773,908
+
+70,174,112
+
+The stockholders voted on the following proposals and cast their votes as described below:
+
+Proposal
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+Board proposal regarding advisory approval of the company’s executive compensation
+
+658,865,942
+
+90,110,360
+
+1,839,197
+
+70,174,112
+
+Proposal
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+Board proposal to ratify the appointment of Ernst & Young LLP as the company’s independent registered public accounting firm for 2021
+
+777,010,341
+
+42,440,309
+
+1,538,961
+
+-0-
+
+Proposal
+
+For
+
+Against
+
+Abstentions
+
+Broker
+Non-Votes
+
+Stockholder proposal to permit shareholder action by written consent
+
+582,669,072
+
+164,741,415
+
+3,405,012
+
+70,174,112
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+TEXAS INSTRUMENTS INCORPORATED
+
+Date: April 28, 2021
+
+By:
+
+/s/ Cynthia Hoff Trochu
+
+Cynthia Hoff Trochu
+
+Senior Vice President, Secretary and General Counsel

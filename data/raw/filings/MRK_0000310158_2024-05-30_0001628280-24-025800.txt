@@ -1,0 +1,252 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+May 28, 2024
+Merck & Co., Inc.
+(Exact name of registrant as specified in its charter)
+New Jersey
+1-6571
+22-1918501
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+126 East Lincoln Avenue
+,
+Rahway
+,
+NJ
+
+07065
+
+(Address of principal executive offices)
+(Zip Code)
+(Registrant’s telephone number, including area code):
+(
+908
+)
+740-4000
+Not Applicable
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock ($0.50 par value)
+MRK
+New York Stock Exchange
+0.500% Notes due 2024
+MRK 24
+New York Stock Exchange
+1.875% Notes due 2026
+MRK/26
+New York Stock Exchange
+2.500% Notes due 2034
+MRK/34
+New York Stock Exchange
+1.375% Notes due 2036
+MRK 36A
+New York Stock Exchange
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+(a)
+The Annual Meeting of Shareholders of Merck & Co., Inc. (the “Company”) was held on May 28, 2024.
+(b)
+Shareholders voted on the matters set forth below:
+1.
+The following nominees were elected to the Company’s Board of Directors to hold office until the Company’s next Annual Meeting of Shareholders and received the number of votes set forth opposite their names:
+Names
+Votes For
+Votes Against
+Abstentions
+Broker
+Non-Votes
+Percent of Votes Cast For
+Douglas M. Baker, Jr.
+1,780,612,436
+39,899,019
+4,071,705
+305,087,191
+97.80%
+Mary Ellen Coe
+1,798,878,318
+21,947,903
+3,756,939
+305,087,191
+98.79%
+Pamela J. Craig
+1,777,084,984
+42,722,099
+4,776,077
+305,087,191
+97.65%
+Robert M. Davis
+1,662,745,710
+150,889,718
+10,947,732
+305,087,191
+91.68%
+Thomas H. Glocer
+1,673,205,807
+147,174,992
+4,202,361
+305,087,191
+91.91%
+Risa J. Lavizzo-Mourey, M.D.
+1,797,592,341
+23,192,283
+3,798,536
+305,087,191
+98.72%
+Stephen L. Mayo, Ph.D.
+1,811,401,459
+9,235,945
+3,945,756
+305,087,191
+99.49%
+Paul B. Rothman, M.D.
+1,808,539,622
+12,102,959
+3,940,579
+305,087,191
+99.33%
+Patricia F. Russo
+1,543,692,327
+277,031,980
+3,858,853
+305,087,191
+84.78%
+Christine E. Seidman, M.D.
+1,810,264,326
+10,583,488
+3,735,346
+305,087,191
+99.41%
+Inge G. Thulin
+1,768,541,265
+52,073,131
+3,968,764
+305,087,191
+97.13%
+Kathy J. Warden
+1,768,305,552
+52,461,642
+3,815,966
+305,087,191
+97.11%
+2.
+Non-binding advisory vote to approve the compensation of our named executive officers:
+1,696,772,487
+votes FOR
+117,948,443
+votes AGAINST
+or an affirmative vote of 93.50% of the total votes cast.
+9,862,230
+shares abstained from voting.
+305,087,191
+broker non votes.
+3.
+Ratification of the appointment of the Company’s independent registered public accounting firm for 2024:
+1,994,222,698
+votes FOR
+130,674,750
+votes AGAINST
+or an affirmative vote of 93.85% of the total votes cast.
+4,772,903
+shares abstained from voting.
+4.
+Shareholder proposal regarding a shareholder right to act by written consent:
+630,394,453
+votes FOR
+1,183,879,451
+votes AGAINST
+or an affirmative vote of 34.74% of the total votes cast.
+10,309,256
+shares abstained from voting.
+305,087,191
+broker non votes.
+5.
+Shareholder proposal regarding a government censorship transparency report:
+25,652,699
+votes FOR
+1,769,667,178
+votes AGAINST
+or an affirmative vote of 1.42% of the total votes cast.
+29,263,283
+shares abstained from voting.
+305,087,191
+broker non votes.
+6.
+Shareholder proposal regarding a report on respecting workforce civil liberties:
+36,532,781
+votes FOR
+1,764,002,836
+votes AGAINST
+or an affirmative vote of 2.02% of the total votes cast.
+24,047,543
+shares abstained from voting.
+305,087,191
+broker non votes.
+A majority of the votes cast was required for all six proposals to be approved.
+Item 8.01 Other Events.
+On May 30, 2024, MSD Netherlands Capital B.V., a private limited liability company (
+besloten vennootschap met beperkte aansprakelijkheid
+) incorporated and existing under the laws of the Netherlands, having its official seat in Haarlem, the Netherlands, and registered with the Trade Register of the Dutch Chamber of Commerce (
+Kamer van Koophandel
+) under number 93598734 (“MSD Netherlands”), a wholly-owned subsidiary of the Company, closed an underwritten public offering of €850,000,000 aggregate principal amount of 3.250% Notes due 2032 (the “2032 Notes”), €850,000,000 aggregate principal amount of 3.500% Notes due 2037 (the “2037 Notes”), €850,000,000
+aggregate principal amount of 3.700% Notes due 2044 (the “2044 Notes”) and €850,000,000 aggregate principal amount of 3.750% Notes due 2054 (the “2054 Notes” and, together with the 2032 Notes, the 2037 Notes and the 2044 Notes, collectively, the “Notes”) under the Company’s Registration Statement on Form S-3ASR (Registration No. 333-278066), originally filed with the Securities and Exchange Commission (the “Commission”) on March 19, 2024, as amended by Post-Effective Amendment No. 1, filed with the Commission on May 14, 2024. The Notes are fully and unconditionally guaranteed on an unsecured senior basis by the Company (the “Guarantee”).
+The Notes are being issued under an indenture dated as of May 30, 2024, among MSD Netherlands, the Company and U.S. Bank Trust National Association, as trustee, a copy of which is attached hereto as Exhibit 4.1 and is incorporated herein by reference. Copies of the officer’s certificate for each series of the Notes (including forms of each of the respective Notes attached thereto) pursuant to Section 301 of the indenture governing the Notes are attached hereto as Exhibits 4.2, 4.3, 4.4 and 4.5 and are incorporated herein by reference. The legal opinions related to these Notes and the Guarantee are attached hereto as Exhibits 5.1 and 5.2 and are incorporated herein by reference.
+Item 9.01 Financial Statements and Exhibits.
+(d)
+Exhibits
+Exhibit 4.1
+Indenture, dated as of May 30, 2024, among MSD Netherlands Capital B.V., Merck & Co., Inc. and U.S. Bank Trust National Association, as Trustee.
+Exhibit 4.2
+3.250% Notes due 2032 Officer’s Certificate of the Company dated May 30, 2024, including form of the 2032 Notes.
+Exhibit 4.3
+3.500% Notes due 2037 Officer’s Certificate of the Company dated May 30, 2024, including form of the 2037 Notes.
+Exhibit 4.4
+3.700% Notes due 2044 Officer’s Certificate of the Company dated May 30, 2024, including form of the 2044 Notes.
+Exhibit 4.5
+3.750% Notes due 2054 Officer’s Certificate of the Company dated May 30, 2024, including form of the 2054 Notes.
+Exhibit 5.1
+Opinion and Consent of Jennifer Zachary, Esq., Executive Vice President and General Counsel of the Company.
+Exhibit 5.2
+Opinion and Consent of Loyens
+&
+Loeff N.V.
+Exhibit 23.1
+Consent of Jennifer Zachary, Esq., Executive Vice President and General Counsel of the Company (contained in Exhibit 5.1 to this Current Report on Form 8-K).
+Exhibit 23.2
+Consent of Loyens & Loeff N.V. (contained in Exhibit 5.2 to this Current Report on Form 8-K).
+Exhibit 104
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Merck & Co., Inc.
+Date: May 30, 2024
+By:
+/s/ Kelly E. W. Grez
+Kelly E. W. Grez
+Corporate Secretary

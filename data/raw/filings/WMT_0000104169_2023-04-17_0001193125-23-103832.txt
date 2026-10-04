@@ -1,0 +1,298 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 or 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported):
+
+April 17, 2023 (
+April 12, 2023
+)
+
+Walmart Inc.
+
+(Exact name of registrant as specified in its charter)
+
+DE
+
+001-06991
+
+71-0415188
+
+(State or other Jurisdiction
+of Incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+Identification No.)
+
+702 S.W. 8th Street
+
+Bentonville
+,
+AR
+
+72716-0215
+
+(Address of principal executive offices) (Zip Code)
+
+Registrant’s telephone number, including area code:
+
+(479)
+
+273-4000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock, par value $0.10 per share
+
+WMT
+
+NYSE
+
+2.550% Notes Due 2026
+
+WMT26
+
+NYSE
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01.
+
+Other Events.
+
+Walmart Inc., a Delaware corporation (the “
+Company
+”), and Citigroup Global Markets Inc., HSBC Securities (USA) Inc., Mizuho Securities USA LLC, BNP Paribas Securities Corp., J.P. Morgan Securities LLC and Morgan Stanley & Co. LLC, acting for themselves and as representatives of the other several underwriters named in Schedule I to the Pricing Agreement (as defined below) (collectively, the “
+Underwriters
+”), have entered into a Pricing Agreement, dated April 12, 2023 (the “
+Pricing Agreement
+”), pursuant to which, subject to the satisfaction of the conditions set forth therein, the Company has agreed to sell to the Underwriters, and the Underwriters have agreed to purchase from the Company, $750,000,000 aggregate principal amount of the Company’s 4.000% Notes Due 2026 (the “
+2026 Notes
+”), $750,000,000 aggregate principal amount of the Company’s 3.900% Notes Due 2028 (the “
+2028 Notes
+”), $500,000,000 aggregate principal amount of the Company’s 4.000% Notes Due 2030 (the “
+2030 Notes
+”), $1,500,000,000 aggregate principal amount of the Company’s 4.100% Notes Due 2033 (the “
+2033 Notes
+”) and $1,500,000,000 aggregate principal amount of the Company’s 4.500% Notes Due 2053 (the “
+2053 Notes
+” and, collectively with the 2026 Notes, the 2028 Notes, the 2030 Notes and the 2033 Notes, the “
+Notes
+”). The Pricing Agreement incorporates by reference the terms and conditions of an Underwriting Agreement, dated April 12, 2023, between the Company and the Underwriters (the “
+Underwriting Agreement
+” and, together with the Pricing Agreement, the “
+Agreement
+”). The Company and the Underwriters expect to consummate the sale and purchase of the Notes pursuant to the Agreement on April 18, 2023.
+
+The 2026 Notes will be sold to the public at a price equal to 99.956% of the aggregate principal amount of the 2026 Notes. The net proceeds to the Company from the sale of the 2026 Notes, after the underwriting discount, but before transaction expenses allocable to the sale of the 2026 Notes, will be $747,795,000.
+
+The 2028 Notes will be sold to the public at a price equal to 99.816% of the aggregate principal amount of the 2028 Notes. The net proceeds to the Company from the sale of the 2028 Notes, after the underwriting discount, but before transaction expenses allocable to the sale of the 2028 Notes, will be $745,995,000.
+
+The 2030 Notes will be sold to the public at a price equal to 99.807% of the aggregate principal amount of the 2030 Notes. The net proceeds to the Company from the sale of the 2030 Notes, after the underwriting discount, but before transaction expenses allocable to the sale of the 2030 Notes, will be $497,035,000.
+
+The 2033 Notes will be sold to the public at a price equal to 100.000% of the aggregate principal amount of the 2033 Notes. The net proceeds to the Company from the sale of the 2033 Notes, after the underwriting discount, but before transaction expenses allocable to the sale of the 2033 Notes, will be $1,493,250,000.
+
+The 2053 Notes will be sold to the public at a price equal to 99.723% of the aggregate principal amount of the 2053 Notes. The net proceeds to the Company from the sale of the 2053 Notes, after the underwriting discount, but before transaction expenses allocable to the sale of the 2053 Notes, will be $1,484,595,000.
+
+The Notes will be sold to the public at an aggregate price of $4,993,170,000 before underwriting discounts and transaction expenses allocable to the sale of the Notes. The aggregate net proceeds to the Company from the sale of the Notes, after underwriting discounts, but before transaction expenses allocable to the sale of the Notes, will be $4,968,670,000.
+
+2
+
+The 2026 Notes will constitute part of the Company’s newly created series of 4.000% Notes Due 2026 (the “
+2026 Series
+”), the 2028 Notes will constitute part of the Company’s newly created series of 3.900% Notes Due 2028 (the “
+2028 Series
+”), the 2030 Notes will constitute part of the Company’s newly created series of 4.000% Notes Due 2030 (the “
+2030 Series
+”), the 2033 Notes will constitute part of the Company’s newly created series of 4.100% Notes Due 2033 (the “
+2033 Series
+”) and the 2053 Notes will constitute part of the Company’s newly created series of 4.500% Notes Due 2053 (the “
+2053 Series
+” and, collectively with the 2026 Series, the 2028 Series, the 2030 Series and the 2033 Series, the “
+New Series
+”). The Notes of each New Series will be senior, unsecured debt securities of the Company and will rank equally with each other and with all of the other senior, unsecured debt obligations of the Company.
+
+The New Series were created and established, and the terms and conditions of each New Series were established, by action of the Company and an authorized officer of the Company pursuant to, and in accordance with, the terms of the Indenture, dated as of July 19, 2005, as amended and supplemented (the “
+Indenture
+”), between the Company and The Bank of New York Mellon Trust Company, N.A., as successor trustee (the “
+Trustee
+”), and the Indenture and the related series terms certificates pursuant to the Indenture will govern the Notes of each New Series. The respective terms of the 2026 Notes, the 2028 Notes, the 2030 Notes, the 2033 Notes and the 2053 Notes are as set forth in the Indenture and in the forms of the Global Notes (referred to below) that will represent the Notes of the 2026 Series, the 2028 Series, the 2030 Series, the 2033 Series and the 2053 Series, respectively, to be sold pursuant to the Pricing Agreement.
+
+The material terms of the Notes are described in the Company’s prospectus supplement dated April 12, 2023, which relates to the offer and sale of the Notes (the “
+Prospectus Supplement
+”), and the Company’s prospectus dated December 4, 2020, which relates to the offer and sale from time to time of an indeterminate amount of the Company’s debt securities, including the Notes (the “
+Prospectus
+”). The Prospectus Supplement, together with the Prospectus, was filed by the Company with the Securities and Exchange Commission (the “
+Commission
+”) pursuant to Rule 424(b)(2) under the Securities Act of 1933, as amended (the “
+Securities Act
+”) on April 13, 2023, and given a filing date of April 14, 2023, in connection with the offer and sale of the Notes. A Final Term Sheet, dated April 12, 2023, relating to, and setting forth certain terms of, the Notes was filed with the Commission pursuant to Rule 433 under the Securities Act on April 12, 2023, and given a filing date of April 13, 2023.
+
+The Notes of each New Series will be initially issued and delivered in book-entry form only and will be represented by one or more global notes, which will be in definitive, fully registered form without interest coupons. The 2026 Notes will be represented by two global notes, one of which will be in the principal amount of $500,000,000 and one of which will be in the principal amount of $250,000,000 (the “
+2026 Global Notes
+”). The 2028 Notes will be represented by two global notes, one of which will be in the principal amount of $500,000,000 and one of which will be in the principal amount of $250,000,000 (the “
+2028 Global Notes
+”). The 2030 Notes will be represented by one global note in the principal amount of $500,000,000 (the “
+2030 Global Note
+”). The 2033 Notes will be represented by three global notes, each of which will be in the principal amount of $500,000,000 (the “
+2033 Global Notes
+”). The 2053 Notes will be represented by three global notes, each of which will be in the principal amount of $500,000,000 (the “
+2053 Global Notes
+” and, collectively with the 2026 Global Notes, the 2028 Global Notes, the 2030 Global Note and the 2033 Global Notes, the “
+Global Notes
+”). Each Global Note will be payable to Cede & Co., a New York corporation, as nominee of The Depository Trust Company. The Global Notes will be executed by the Company and authenticated by the Trustee in accordance with the Indenture.
+
+Filed as exhibits to this Current Report on Form
+8-K
+are: (i) the Pricing Agreement; (ii) the Underwriting Agreement; (iii) the Series Terms Certificate Pursuant to the Indenture Relating to 4.000% Notes Due 2026, which was executed in accordance with the Indenture and evidences the establishment of the terms and conditions of the 2026 Series in accordance with the Indenture; (iv) the Series Terms
+
+3
+
+Certificate pursuant to the Indenture relating to 3.900% Notes Due 2028, which was executed in accordance with the Indenture and evidences the establishment of the terms and conditions of the 2028 Series in accordance with the Indenture; (v) the Series Terms Certificate pursuant to the Indenture relating to 4.000% Notes Due 2030, which was executed in accordance with the Indenture and evidences the establishment of the terms and conditions of the 2030 Series in accordance with the Indenture; (vi) the Series Terms Certificate pursuant to the Indenture relating to 4.100% Notes Due 2033, which was executed in accordance with the Indenture and evidences the establishment of the terms and conditions of the 2033 Series in accordance with the Indenture; (vii) the Series Terms Certificate pursuant to the Indenture relating to 4.500% Notes Due 2053, which was executed in accordance with the Indenture and evidences the establishment of the terms and conditions of the 2053 Series in accordance with the Indenture; (viii) the form of 2026 Global Note; (ix) the form of 2028 Global Note; (x) the form of 2030 Global Note; (xi) the form of 2033 Global Note; (xii) the form of 2053 Global Note; and (xiii) the opinion of Hunton Andrews Kurth LLP, counsel to the Company, regarding the legality of the issuance and sale of the Notes. The descriptions of such exhibits in this Current Report on Form
+8-K
+are qualified in their entirety by reference to the full copies of such exhibits filed hereto, which are incorporated herein by reference.
+
+The Company is offering and selling the Notes under the Company’s Registration Statement on Form
+S-3ASR
+(File
+No. 333-251124)
+(the “
+Registration Statement
+”), which registration statement relates to the offer and sale on a delayed basis from time to time of an indeterminate amount of the Company’s debt securities. This Current Report on Form
+8-K
+is being filed in connection with the offer and sale of the Notes as described herein and to file with the Commission, in connection with the Registration Statement, the documents and instruments attached hereto as exhibits.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+The following documents are filed as exhibits to this Current Report on Form
+8-K:
+
+1.1
+
+Pricing Agreement, dated April 12, 2023, between the Company and the Underwriters party thereto, together with the Underwriting Agreement, dated April 12, 2023, between the Company and the Underwriters party thereto
+
+4.1
+
+Series Terms Certificate Pursuant to the Indenture Relating to 4.000% Notes Due 2026 of the Company
+
+4.2
+
+Series Terms Certificate Pursuant to the Indenture Relating to 3.900% Notes Due 2028 of the Company
+
+4.3
+
+Series Terms Certificate Pursuant to the Indenture Relating to 4.000% Notes Due 2030 of the Company
+
+4.4
+
+Series Terms Certificate Pursuant to the Indenture Relating to 4.100% Notes Due 2033 of the Company
+
+4.5
+
+Series Terms Certificate Pursuant to the Indenture Relating to 4.500% Notes Due 2053 of the Company
+
+4.6
+
+Form of Global Note to represent the 4.000% Notes Due 2026 of the Company
+
+4.7
+
+Form of Global Note to represent the 3.900% Notes Due 2028 of the Company
+
+4.8
+
+Form of Global Note to represent the 4.000% Notes Due 2030 of the Company
+
+4.9
+
+Form of Global Note to represent the 4.100% Notes Due 2033 of the Company
+
+4
+
+4.10
+
+Form of Global Note to represent the 4.500% Notes Due 2053 of the Company
+
+5.1
+
+Legality Opinion of Hunton Andrews Kurth LLP, counsel to the Company, dated April 17, 2023
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+5
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+Dated: April 17, 2023
+
+WALMART INC.
+
+By:
+
+/s/ Gordon Y. Allison
+
+Name:
+
+Gordon Y. Allison
+
+Title:
+
+Senior Vice President, Office of the
+
+Corporate Secretary, and Chief Counsel for Finance and Governance
+
+6

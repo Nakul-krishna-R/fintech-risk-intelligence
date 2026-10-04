@@ -1,0 +1,313 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)
+January 3, 2023
+
+General Electric Company
+
+(Exact name of registrant as specified in its charter)
+
+New York
+
+001-00035
+
+14-0689340
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+Identification No.)
+
+5 Necco Street
+,
+Boston
+,
+MA
+
+02210
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(Registrant’s telephone number, including area code)
+(617)
+
+443-3000
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common stock, par value $0.01 per share
+
+GE
+
+New York Stock Exchange
+
+1.250% Notes due 2023
+
+GE 23E
+
+New York Stock Exchange
+
+0.875% Notes due 2025
+
+GE 25
+
+New York Stock Exchange
+
+1.875% Notes due 2027
+
+GE 27E
+
+New York Stock Exchange
+
+1.500% Notes due 2029
+
+GE 29
+
+New York Stock Exchange
+
+7 1/2% Guaranteed Subordinated Notes due 2035
+
+GE /35
+
+New York Stock Exchange
+
+2.125% Notes due 2037
+
+GE 37
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934 (§
+240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act. ☐
+
+Introductory Note
+
+On January 3, 2023 (the “Distribution Date”) at 5:00 p.m. New York City time, General Electric Company (the “Company” or “GE”) completed the previously announced separation (the
+“Spin-Off”)
+of GE HealthCare Technologies Inc. (“GE HealthCare”) from the Company.
+
+The
+Spin-Off
+of GE HealthCare from GE was achieved through the Company’s
+pro-rata
+distribution of approximately 80.1% of the outstanding shares of GE HealthCare common stock to holders of record of GE common stock. Each holder of record of GE common stock received one share of GE HealthCare common stock for every three shares of GE common stock held on December 16, 2022, the record date for the distribution. In lieu of fractional shares of GE HealthCare, shareholders of GE will receive cash. On January 4, 2023, GE HealthCare’s common stock began trading on The Nasdaq Stock Market LLC under the ticker symbol “GEHC.”
+
+Item 1.01
+
+Entry into a Material Definitive Agreement
+
+In connection with the
+Spin-Off,
+the Company entered into several agreements with GE HealthCare on or prior to the Distribution Date that, among other things, provide a framework for the Company’s relationship with GE HealthCare after the
+Spin-Off,
+including the following agreements:
+
+•
+
+a Separation and Distribution Agreement;
+
+•
+
+a Transition Services Agreement;
+
+•
+
+a Tax Matters Agreement;
+
+•
+
+an Employee Matters Agreement;
+
+•
+
+a Trademark License Agreement;
+
+•
+
+a Real Estate Matters Agreement; and
+
+•
+
+a Stockholder and Registration Rights Agreement.
+
+Summaries of the material features of the Separation and Distribution Agreement, the Transition Services Agreement, the Tax Matters Agreement, the Employee Matters Agreement, the Trademark License Agreement, the Real Estate Matters Agreement and the Stockholder and Registration Rights Agreement can be found in the section titled “Certain Relationships and Related Person Transactions—Agreements with GE” in GE HealthCare’s Final Information Statement, which is attached as Exhibit 99.1 to GE HealthCare’s Current Report on Form
+8-K
+filed with the Securities and Exchange Commission (“SEC”) on December 8, 2022 (the “Information Statement”).
+
+The summaries of the Separation and Distribution Agreement and the Tax Matters Agreement are incorporated by reference into this Item 1.01 in their entirety. The summaries of the Separation and Distribution Agreement and the Tax Matters Agreement do not purport to be complete and are qualified in their entirety by reference to the full text of such agreements, which are filed as Exhibits 2.1 and 10.1, respectively, to this Current Report on Form
+8-K
+and are incorporated herein by reference.
+
+The summaries of the Transition Services Agreement, Employee Matters Agreement, Trademark License Agreement, Real Estate Matters Agreement, and Stockholder and Registration Rights Agreement do not purport to be complete and are qualified in their entirety by reference to the full text of the forms of such agreements, which are filed as Exhibits 10.1, 10.3, 10.4, 10.5, and 10.6, respectively, to the Information Statement.
+
+Item 2.01
+
+Completion of Acquisition or Disposition of Assets
+
+The
+Spin-Off
+was completed in accordance with the Separation and Distribution Agreement. The description of the
+Spin-Off
+included under the Introductory Note of this Current Report on Form
+8-K
+is incorporated into this Item 2.01 by reference.
+
+Item 8.01
+
+Other Events
+
+On January 4, 2023, GE issued a press release announcing the completion of the
+Spin-Off.
+A copy of that press release is attached as Exhibit 99.1 and incorporated by reference herein.
+
+(2)
+
+Item 9.01
+
+Financial Statements and Exhibits
+
+(b) Pro Forma Financial Information
+
+The pro forma financial information required by this item will be filed by amendment to this Current Report on Form
+8-K
+not later than four business days after the date of the earliest event reported herein.
+
+(d) Exhibits
+
+Exhibit
+
+Description
+
+2.1
+
+Separation and Distribution Agreement, dated November 7, 2022 by and between General Electric Company and GE HealthCare Technologies Inc. (f/k/a GE Healthcare Holding LLC), as amended.†
+
+10.1
+
+Tax Matters Agreement, dated as of January 2, 2023, by and between General Electric Company and GE HealthCare Technologies Inc. (f/k/a GE Healthcare Holding LLC).†
+
+99.1
+
+Press release, dated January 4, 2023, issued by General Electric Company regarding the
+Spin-Off
+completion.
+
+104
+
+The cover page from this Current Report on Form
+8-K,
+formatted in Inline XBRL.
+
+†
+
+Certain portions of this exhibit have been redacted pursuant to Item 601(b)(2)(ii) and Item 601(b)(10)(iv) of Regulation
+S-K,
+as applicable. The Company agrees to furnish supplementally an unredacted copy of the exhibit to the Securities and Exchange Commission upon its request.
+
+Forward-looking statements.
+
+This document contains “forward-looking statements”—that is, statements related to future, not past, events. These forward-looking statements often address GE’s expected future business and financial performance and financial condition, and often contain words such as “expect,” “anticipate,” “intend,” “plan,” “believe,” “seek,” “see,” “will,” “would,” “estimate,” “forecast,” “target,” “preliminary,” or “range.” Forward-looking statements by their nature address matters that are, to different degrees, uncertain, and are subject to risks, uncertainties and assumptions. For GE, particular areas where risks or uncertainties could cause GE’s actual results to be materially different than those expressed in GE’s forward-looking statements include: GE’s success in executing and completing asset dispositions or other transactions, including GE’s plans to pursue the
+spin-off
+of its portfolio of energy businesses that are planned to be combined as GE Vernova (Renewable Energy, Power, Digital and Energy Financial Services), and sales or other dispositions of GE’s equity interests in Baker Hughes Company, AerCap Holdings N.V. and GE HealthCare after the
+Spin-Off,
+the timing for such transactions, the ability to satisfy any applicable
+pre-conditions,
+and the expected proceeds, consideration and benefits to GE; changes in macroeconomic and market conditions and market volatility, including impacts related to the
+COVID-19
+pandemic, risk of recession, inflation, supply chain constraints or disruptions, rising interest rates, oil, natural gas and other commodity prices and exchange rates, and the impact of such changes and volatility on GE’s business operations, financial results and financial position; and GE’s
+de-leveraging
+and capital allocation plans, including with respect to actions to reduce its indebtedness, the capital structures of the three public companies that GE plans to form from its businesses, the timing and amount of dividends, share repurchases, organic investments, and other priorities; and other factors that are described in the “Risk Factors” section of GE’s Annual Report on
+Form 10-K
+for the year ended December 31, 2021 and its Quarterly Report on
+Form 10-Q
+for the quarter ended March 31, 2022, as such descriptions may be updated or amended in any future reports that GE files with the SEC. These or other uncertainties may cause GE’s actual future results to be materially different than those expressed in its forward-looking statements. GE does not undertake to update its forward-looking statements.
+
+(3)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+General Electric Company
+
+(Registrant)
+
+Date: January 4, 2023
+
+/s/ Brandon Smith
+
+Brandon Smith
+
+Vice President, Chief Corporate, Securities & Finance Counsel

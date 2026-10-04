@@ -1,0 +1,230 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+______________
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+June 3, 2021
+
+NVIDIA CORP
+ORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+0-23985
+94-3177549
+(State or other jurisdiction
+(Commission
+(IRS Employer
+of incorporation)
+File Number)
+Identification No.)
+
+2788 San Tomas Expressway
+,
+Santa Clara
+,
+CA
+
+95051
+
+(Address of principal executive offices) (Zip Code)
+Registrant’s telephone number, including area code:
+(
+408
+)
+486-2000
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.001 par value per share
+NVDA
+The Nasdaq Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging Growth Company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.03. Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+(a) Amendment to Certificate of Incorporation
+On June 3, 2021, at the 2021 Annual Meeting of Stockholders of NVIDIA Corporation, or the 2021 Annual Meeting, our stockholders approved an amendment to our Amended and Restated Certificate of Incorporation, or the Amendment, to increase the number of authorized shares of common stock from 2 billion to 4 billion. The Amendment, which was filed with the Secretary of State of the State of Delaware on June 4, 2021, is filed as Exhibit 3.1 to this Current Report on Form 8-K.
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+On June 3, 2021, at the 2021 Annual Meeting, the following proposals were adopted by the margin indicated. Proxies for the 2021 Annual Meeting were solicited pursuant to Section 14(a) of the Securities Exchange Act of 1934, as amended, and there was no solicitation in opposition of management’s solicitation.
+1. Stockholders approved the election of each of our thirteen (13) directors to serve for a one-year term until our 2022 Annual Meeting of Stockholders. The results of the voting were as follows:
+a. Robert K. Burgess
+Number of shares For
+420,596,553
+Number of shares Withheld
+1,779,414
+Number of shares Abstaining
+2,941,599
+Number of Broker Non-Votes
+70,546,857
+b. Tench Coxe
+Number of shares For
+410,255,042
+Number of shares Withheld
+9,706,472
+Number of shares Abstaining
+5,356,052
+Number of Broker Non-Votes
+70,546,857
+c. John O. Dabiri
+Number of shares For
+421,550,236
+Number of shares Withheld
+1,091,854
+Number of shares Abstaining
+2,675,476
+Number of Broker Non-Votes
+70,546,857
+d. Persis S. Drell
+Number of shares For
+420,006,508
+Number of shares Withheld
+1,878,898
+Number of shares Abstaining
+3,432,160
+Number of Broker Non-Votes
+70,546,857
+e. Jen-Hsun Huang
+Number of shares For
+419,866,452
+Number of shares Withheld
+2,416,779
+Number of shares Abstaining
+3,034,335
+Number of Broker Non-Votes
+70,546,857
+f. Dawn Hudson
+Number of shares For
+421,036,593
+Number of shares Withheld
+1,668,906
+Number of shares Abstaining
+2,612,067
+Number of Broker Non-Votes
+70,546,857
+g. Harvey C. Jones
+Number of shares For
+394,798,323
+Number of shares Withheld
+24,482,410
+Number of shares Abstaining
+6,036,833
+Number of Broker Non-Votes
+70,546,857
+h. Michael G. McCaffery
+Number of shares For
+421,031,980
+Number of shares Withheld
+1,606,723
+Number of shares Abstaining
+2,678,863
+Number of Broker Non-Votes
+70,546,857
+i. Stephen C. Neal
+Number of shares For
+417,133,291
+Number of shares Withheld
+4,867,874
+Number of shares Abstaining
+3,316,401
+Number of Broker Non-Votes
+70,546,857
+j. Mark L. Perry
+Number of shares For
+396,451,645
+Number of shares Withheld
+22,995,645
+Number of shares Abstaining
+5,870,276
+Number of Broker Non-Votes
+70,546,857
+k. A. Brooke Seawell
+Number of shares For
+403,897,070
+Number of shares Withheld
+16,021,659
+Number of shares Abstaining
+5,398,837
+Number of Broker Non-Votes
+70,546,857
+l. Aarti Shah
+Number of shares For
+421,918,802
+Number of shares Withheld
+752,205
+Number of shares Abstaining
+2,646,559
+Number of Broker Non-Votes
+70,546,857
+m. Mark A. Stevens
+Number of shares For
+403,821,782
+Number of shares Withheld
+15,449,272
+Number of shares Abstaining
+6,046,512
+Number of Broker Non-Votes
+70,546,857
+2. Stockholders approved, on an advisory basis, the compensation of our named executive officers as disclosed in our definitive proxy statement for the 2021 Annual Meeting filed with the Securities and Exchange Commission on April 23, 2021. The results of the voting were as follows:
+Number of shares For
+403,579,177
+Number of shares Against
+18,867,902
+Number of shares Abstaining
+2,870,487
+Number of Broker Non-Votes
+70,546,857
+3. Stockholders approved the ratification of the appointment of PricewaterhouseCoopers LLP as our independent registered accounting firm for our fiscal year ending January 30, 2022. The results of the voting were as follows:
+Number of shares For
+488,145,649
+Number of shares Against
+5,075,065
+Number of shares Abstaining
+2,643,709
+Number of Broker Non-Votes
+—
+4. Stockholders approved the Amendment. The results of the voting were as follows:
+Number of shares For
+473,734,960
+Number of shares Against
+19,186,243
+Number of shares Abstaining
+2,943,220
+Number of Broker Non-Votes
+—
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit Number
+Description
+3.1
+Amendment to Amended and Restated Certificate of Incorporation of NVIDIA Corporation.
+104
+The cover page of this Current Report on Form 8-K, formatted in inline XBRL (included as Exhibit 101).
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+NVIDIA Corporation
+Date: June 4, 2021
+By: /s/ Rebecca Peters
+Rebecca Peters
+Vice President, Deputy General Counsel and Assistant Secretary

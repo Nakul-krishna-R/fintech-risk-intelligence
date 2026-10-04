@@ -1,0 +1,202 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of Earliest Event Reported):
+February 28, 2024
+
+The Walt Disney Company
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-38842
+
+83-0940635
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+500 South Buena Vista Street
+
+Burbank
+,
+California
+
+91521
+
+(Address of Principal Executive Offices and Zip Code)
+
+(818)
+
+560-1000
+
+(Registrant’s telephone number, including area code)
+
+Not applicable
+
+(Former name or address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.01 par value
+
+DIS
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 2.06 Material Impairments.
+
+On February 28, 2024, Star India Private Limited (“Star India”), a subsidiary of The Walt Disney Company (the “Company”), Reliance Industries Limited (“RIL”) and Viacom 18 Media Private Limited (“Viacom18”), which is currently majority owned and controlled by RIL, entered into binding definitive agreements to form a joint venture (“JV”) that will combine the businesses of Viacom18 and Star India (the “Transaction”).
+
+In connection with the Transaction, the Company determined that Star India should be classified as
+“held-for-sale.”
+In the current quarter, the Company currently expects to record
+non-cash
+
+pre-tax
+impairment charges estimated to be between $1.8 billion to $2.4 billion, approximately half of which reflects a write-down of the net assets of Star India, in order to adjust them to fair value (less estimated transaction costs) pursuant to
+held-for-sale
+accounting, and approximately half of which reflects a write-down of goodwill at the entertainment linear networks reporting unit, reflecting the impact of removing Star India.
+
+Under
+held-for-sale
+accounting, the Company will continue to adjust the net book value of Star India to fair value (less estimated transaction costs) until the closing date of the Transaction. Thus, the Company may recognize incremental gains or losses each reporting period as a result of changes in the net book value and/or estimated fair value of Star India (e.g., due to operating results or foreign exchange rate changes, etc.) until the Transaction has closed.
+
+Item 7.01 Regulation FD Disclosure.
+
+On February 28, 2024, the Company, RIL and Viacom18 issued a joint press release announcing the Transaction, a copy of which is attached hereto as Exhibit 99.1 and is incorporated by reference herein.
+
+As part of the Transaction, the media operations of Viacom18 will be merged into Star India through a court-approved arrangement. In addition, RIL has agreed to invest at closing approximately $1.4 billion into the JV for its growth strategy. The Company may also contribute certain additional media assets to the JV, subject to regulatory and third-party approvals.
+
+At the closing of the Transaction, and following RIL’s investment, the JV will be controlled by RIL and approximately owned 16% by RIL, 47% by Viacom18 and 37% by the Company.
+
+Under the agreement, RIL will have five seats on the board of directors of the JV, the Company will have three directors and there will be two independent directors. The Transaction initially values the JV at approximately $8.5 billion on a post-money basis, excluding synergies.
+
+The Transaction is subject to customary closing conditions, including regulatory approvals in certain jurisdictions. The Company does not currently expect the Transaction to close in fiscal 2024, but currently expects the Transaction to close in the first half of fiscal 2025.
+
+The impairment charges described under Item 2.06 are expected to be excluded from diluted earnings per share excluding certain items (“Adjusted EPS”), and therefore are not expected to impact the Company’s previous guidance on fiscal 2024 Adjusted EPS.
+
+Item 9.01 Financial Statements and Exhibits
+
+(d) Exhibits
+
+Exhibit
+
+Number
+
+Description
+
+99.1
+
+Press Release, dated February 28, 2024, jointly issued by The Walt Disney Company, Reliance Industries Limited and Viacom 18 Media Private Limited
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+FORWARD-LOOKING STATEMENTS
+
+The terms “Company,” “we,” and “our” are used below to refer collectively to The Walt Disney Company and the subsidiaries through which its various businesses are actually conducted.
+
+Certain statements and information in this report may constitute “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, including statements regarding the Company’s expectations, beliefs, plans, financial prospects or outlook and guidance; accounting treatment and impacts of certain items; structure and consummation of the transactions and other statements that are not historical in nature. These statements are made on the basis of the Company’s views and assumptions regarding future events and business performance and plans as of the time the statements are made. The Company does not undertake any obligation to update these statements unless required by applicable laws or regulations, and you should not place undue reliance on forward-looking statements.
+
+Actual results may differ materially from those expressed or implied. Such differences may result from actions taken by the Company, including restructuring or strategic initiatives or other business decisions, as well as from developments beyond the Company’s control, including: the occurrence of subsequent events; deterioration in domestic or global economic conditions or failure of conditions to improve as anticipated; deterioration in or pressures from competitive conditions, including competition to create or acquire content; competition for talent and competition for advertising revenue; consumer preferences and acceptance of our content, offerings, pricing model and price increases, and corresponding subscriber additions and churn, and the market for advertising sales on our
+direct-to-consumer
+services and linear networks; health concerns and their impact on our businesses and productions; international, political or military developments; regulatory and legal developments, including failure to obtain necessary regulatory approvals; technological developments; labor markets and activities, including work stoppages; adverse weather conditions or natural disasters; and availability of content. Such developments may further affect entertainment, travel and leisure businesses generally and may, among other things, affect (or further affect, as applicable): our operations, business plans or profitability, including
+direct-to-consumer
+profitability; demand for our products and services; performance of the Company’s content; our ability to create or obtain desirable content at or under the value we assign the content; the advertising market for programming; income tax expense; and performance of some or all Company businesses either directly or through their impact on those who distribute our products.
+
+Additional factors are set forth in the Company’s Annual Report on Form
+10-K
+for the year ended September 30, 2023, including under the captions “Risk Factors,” “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” and “Business,” quarterly reports on Form
+10-Q,
+including under the captions “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” and subsequent filings with the Securities and Exchange Commission.
+
+Signatures
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+The Walt Disney Company
+
+By:
+
+/s/ Jolene E. Negre
+
+Jolene E. Negre
+
+Associate General Counsel and Secretary
+
+Dated: February 28, 2024

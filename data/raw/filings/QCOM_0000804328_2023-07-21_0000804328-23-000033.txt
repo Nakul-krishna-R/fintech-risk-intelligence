@@ -1,0 +1,98 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of
+The Securities Exchange Act of 1934
+July 18, 2023
+
+Date of Report (Date of earliest event reported)
+QUALCOMM Incorporated
+(Exact name of registrant as specified in its charter)
+Delaware
+
+(State or other jurisdiction of incorporation)
+000-19528
+95-3685934
+(Commission File Number)
+(IRS Employer Identification No.)
+5775 Morehouse Drive
+,
+San Diego
+,
+California
+92121
+(Address of principal executive offices)
+(Zip Code)
+858
+-
+587-1121
+
+(Registrant’s telephone number, including area code)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.0001 par value
+
+QCOM
+Nasdaq Stock Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+Item 5.03. Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+On July 18, 2023, the Board of Directors (the Board) of QUALCOMM Incorporated (the Company) approved the Amended and Restated Bylaws of the Company (the Amended and Restated Bylaws), which became effective the same day. Among other things, the Amended and Restated Bylaws:
+•
+Update the procedural mechanics and disclosure requirements relating to director nominations submitted by stockholders, particularly as a result of the effectiveness of Rule 14a-19 under the Securities Exchange Act of 1934, as amended (Rule 14a-19), the Securities and Exchange Commission rule regarding the use of “universal” proxy cards in contested director elections, by, among other things:
+◦
+requiring that any stockholder submitting a nomination provide certain representations regarding engaging in a solicitation with respect to such nomination and provide certain related documentation and confirmations pursuant to Rule 14a-19;
+◦
+requiring that any stockholder soliciting proxies in accordance with the representations of Rule 14a-19 notify the Company of any change in such intent within two business days;
+◦
+requiring stockholders to submit completed and signed questionnaires with respect to themselves and their nominees, promptly provide any additional information as the Company may reasonably request and notify the Company if any information provided ceases for any reason to be accurate or complete in any material respect;
+◦
+requiring that a stockholder indirectly or directly soliciting proxies from other stockholders use a proxy card color other than white; and
+◦
+clarifying how votes of stockholders are treated by the Company in the event proxies for disqualified or withdrawn nominees for the Board are received.
+•
+Clarify procedures regarding stockholder lists as a result of recent amendments to the Delaware General Corporation Law.
+
+Additional amendments were made to make clarifying or conforming language changes, in addition to technical or ministerial changes. The foregoing description of the Amended and Restated Bylaws is qualified in its entirety by reference to the full text of the Amended and Restated Bylaws, which are included as Exhibit 3.2 to this report and incorporated into this Current Report on Form 8-K.
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit No.
+Description
+3.2
+Amended and Restated Bylaws of QUALCOMM Incorporated (effective as of July 18, 2023).
+104
+Cover Page Interactive Data File, formatted in Inline XBRL and included as Exhibit 101.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+QUALCOMM Incorporated
+Date:
+July 21, 2023
+By:
+/s/ Ann Chaplin
+
+Ann Chaplin
+
+General Counsel and Corporate Secretary

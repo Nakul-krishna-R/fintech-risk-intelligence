@@ -1,0 +1,220 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+______________
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+June 22, 2023
+
+NVIDIA CORP
+ORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+0-23985
+94-3177549
+(State or other jurisdiction
+(Commission
+(IRS Employer
+of incorporation)
+File Number)
+Identification No.)
+2788 San Tomas Expressway
+,
+Santa Clara
+,
+CA
+
+95051
+
+(Address of principal executive offices) (Zip Code)
+Registrant’s telephone number, including area code:
+(
+408
+)
+486-2000
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.001 par value per share
+NVDA
+The Nasdaq Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging Growth Company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+On June 22, 2023, at the 2023 Annual Meeting of Stockholders of NVIDIA Corporation, or the 2023 Annual Meeting, the following proposals were adopted by the margin indicated. Proxies for the 2023 Annual Meeting were solicited pursuant to Section 14(a) of the Securities Exchange Act of 1934, as amended, and there was no solicitation in opposition of management’s solicitation.
+1. Stockholders approved the election of each of our thirteen (13) director nominees to hold office until the 2024 Annual Meeting of Stockholders of NVIDIA Corporation and until his or her successor is elected or appointed. The results of the voting were as follows:
+a. Robert K. Burgess
+Number of shares For
+1,625,854,250
+Number of shares Against
+55,516,966
+Number of shares Abstaining
+2,085,730
+Number of Broker Non-Votes
+286,066,136
+b. Tench Coxe
+Number of shares For
+1,541,282,586
+Number of shares Against
+140,103,871
+Number of shares Abstaining
+2,070,489
+Number of Broker Non-Votes
+286,066,136
+c. John O. Dabiri
+Number of shares For
+1,651,249,399
+Number of shares Against
+30,122,052
+Number of shares Abstaining
+2,085,495
+Number of Broker Non-Votes
+286,066,136
+d. Persis S. Drell
+Number of shares For
+1,623,178,165
+Number of shares Against
+58,242,340
+Number of shares Abstaining
+2,036,441
+Number of Broker Non-Votes
+286,066,136
+e. Jen-Hsun Huang
+Number of shares For
+1,647,312,653
+Number of shares Against
+32,866,873
+Number of shares Abstaining
+3,277,420
+Number of Broker Non-Votes
+286,066,136
+f. Dawn Hudson
+Number of shares For
+1,630,929,129
+Number of shares Against
+50,515,840
+Number of shares Abstaining
+2,011,977
+Number of Broker Non-Votes
+286,066,136
+g. Harvey C. Jones
+Number of shares For
+1,485,702,770
+Number of shares Against
+195,712,370
+Number of shares Abstaining
+2,041,806
+Number of Broker Non-Votes
+286,066,136
+h. Michael G. McCaffery
+Number of shares For
+1,666,592,304
+Number of shares Against
+14,686,036
+Number of shares Abstaining
+2,178,606
+Number of Broker Non-Votes
+286,066,136
+i. Stephen C. Neal
+Number of shares For
+1,500,500,287
+Number of shares Against
+180,807,940
+Number of shares Abstaining
+2,148,719
+Number of Broker Non-Votes
+286,066,136
+j. Mark L. Perry
+Number of shares For
+1,506,459,534
+Number of shares Against
+174,857,324
+Number of shares Abstaining
+2,140,088
+Number of Broker Non-Votes
+286,066,136
+k. A. Brooke Seawell
+Number of shares For
+1,527,924,819
+Number of shares Against
+152,477,701
+Number of shares Abstaining
+3,054,426
+Number of Broker Non-Votes
+286,066,136
+l. Aarti Shah
+Number of shares For
+1,676,241,988
+Number of shares Against
+5,161,064
+Number of shares Abstaining
+2,053,894
+Number of Broker Non-Votes
+286,066,136
+m. Mark A. Stevens
+Number of shares For
+1,562,037,938
+Number of shares Against
+119,338,471
+Number of shares Abstaining
+2,080,537
+Number of Broker Non-Votes
+286,066,136
+2. Stockholders approved, on an advisory basis, the compensation of our named executive officers as disclosed in our definitive proxy statement for the 2023 Annual Meeting filed with the Securities and Exchange Commission on May 8, 2023. The results of the voting were as follows:
+Number of shares For
+1,544,447,439
+Number of shares Against
+123,717,725
+Number of shares Abstaining
+15,291,782
+Number of Broker Non-Votes
+286,066,136
+3. Stockholders approved, on an advisory basis, the frequency of holding an advisory vote on the compensation of our named executive officers. The results of the voting were as follows:
+Number of shares for 1 Year
+1,664,241,344
+Number of shares for 2 Years
+2,062,943
+Number of shares for 3 Years
+14,923,601
+Number of shares Abstaining
+2,229,058
+Number of Broker Non-Votes
+286,066,136
+Based on the voting results, we have determined to provide for an annual advisory vote on the compensation of our named executive officers.
+4. Stockholders approved the ratification of the selection of PricewaterhouseCoopers LLP as our independent registered accounting firm for our fiscal year ending January 28, 2024. The results of the voting were as follows:
+Number of shares For
+1,938,914,100
+Number of shares Against
+28,443,041
+Number of shares Abstaining
+2,165,941
+Number of Broker Non-Votes
+—
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+NVIDIA Corporation
+Date: June 27, 2023
+By: /s/ Rebecca Peters
+Rebecca Peters
+Vice President, Deputy General Counsel and Assistant Secretary

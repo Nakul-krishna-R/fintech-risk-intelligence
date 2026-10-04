@@ -1,0 +1,108 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+—————————————
+FORM
+8-K
+
+—————————————
+Current Report
+Pursuant to Section 13 or 15(d) of
+The Securities Exchange Act of 1934
+Date of report (Date of earliest event reported):
+July 23, 2024
+
+—————————————
+UNITEDHEALTH GROUP INCORPORATED
+
+(Exact name of registrant as specified in its charter)
+—————————————
+Delaware
+1-10864
+41-1321939
+(State or other jurisdiction of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+UnitedHealth Group Center, 9900 Bren Road East,
+Minnetonka,
+Minnesota
+55343
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code: (
+952
+)
+936-1300
+
+N/A
+(Former name or former address, if changed since last report.)
+—————————————
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $.01 par value
+UNH
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+☐
+
+Emerging growth company
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 8.01. Other Events.
+On July 23, 2024, UnitedHealth Group Incorporated (the “Company”) agreed to sell its (i) Floating Rate Notes due July 15, 2026 in the aggregate principal amount of $500,000,000, (ii) 4.750% Notes due July 15, 2026 in the aggregate principal amount of $650,000,000, (iii) 4.800% Notes due January 15, 2030 in the aggregate principal amount of $1,250,000,000, (iv) 4.950% Notes due January 15, 2032 in the aggregate principal amount of $1,500,000,000, (v) 5.150% Notes due July 15, 2034 in the aggregate principal amount of $2,000,000,000, (vi) 5.500% Notes due July 15, 2044 in the aggregate principal amount of $1,500,000,000, (vii) 5.625% Notes due July 15, 2054 in the aggregate principal amount of $2,750,000,000 and (viii) 5.750% Notes due July 15, 2064 in the aggregate principal amount of $1,850,000,000 (collectively, the “Notes”), pursuant to the Underwriting Agreement, dated July 23, 2024 (the “Underwriting Agreement”), and the Pricing Agreement, dated July 23, 2024 (the “Pricing Agreement”), both among the Company and Wells Fargo Securities, LLC, Citigroup Global Markets Inc., J.P. Morgan Securities LLC, PNC Capital Markets LLC, RBC Capital Markets, LLC and U.S. Bancorp Investments, Inc., as representatives of the several underwriters listed in Schedule I to the Pricing Agreement.
+The Notes were issued on July 25, 2024 pursuant to the Indenture, dated as of February 4, 2008, between the Company and U.S. Bank Trust Company, National Association, as trustee (the “Indenture”), and the Officers’ Certificates and Company Orders, each dated July 25, 2024, relating to each series of the Notes, in each case, pursuant to Sections 201, 301 and 303 of the Indenture.
+The Notes have been registered under the Securities Act of 1933, as amended, pursuant to the Company’s automatic shelf registration statement on Form S-3, File No. 333-270279 (the “Registration Statement”). The Company is filing this Current Report on Form 8-K to file with the Securities and Exchange Commission certain documents related to the issuance of the Notes that will be incorporated by reference into the Registration Statement as exhibits thereto.
+The Underwriting Agreement is filed herewith as Exhibit 1.1. The Pricing Agreement is filed herewith as Exhibit 1.2. The Officers’ Certificates and Company Orders relating to the Notes, each including the applicable form of Note, are filed herewith as Exhibit 4.1, Exhibit 4.2, Exhibit 4.3, Exhibit 4.4, Exhibit 4.5, Exhibit 4.6, Exhibit 4.7 and Exhibit 4.8. The legal opinion with respect to the validity of the Notes is filed herewith as Exhibit 5.1.
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit
+Description
+1.1
+Underwriting Agreement, dated July 23, 2024, among the Company and Wells Fargo Securities, LLC, Citigroup Global Markets Inc., J.P. Morgan Securities LLC, PNC Capital Markets LLC, RBC Capital Markets, LLC and U.S. Bancorp Investments, Inc., as Representatives of the several Underwriters
+1.2
+Pricing Agreement, dated July 23, 2024, among the Company and Wells Fargo Securities, LLC, Citigroup Global Markets Inc., J.P. Morgan Securities LLC, PNC Capital Markets LLC, RBC Capital Markets, LLC and U.S. Bancorp Investments, Inc., as Representatives of the several Underwriters
+4.1
+Officers’ Certificate and Company Order, dated July 25, 2024, relating to the Floating Rate Notes due July 15, 2026, pursuant to Sections 201, 301 and 303 of the Indenture (including the form of Floating Rate Notes due July 15, 2026)
+4.2
+Officers’ Certificate and Company Order, dated July 25, 2024, relating to the 4.750% Notes due July 15, 2026, pursuant to Sections 201, 301 and 303 of the Indenture (including the form of 4.750% Notes due July 15, 2026)
+4.3
+Officers’ Certificate and Company Order, dated July 25, 2024, relating to the 4.800% Notes due January 15, 2030, pursuant to Sections 201, 301 and 303 of the Indenture (including the form of 4.800% Notes due January 15, 2030)
+4.4
+Officers’ Certificate and Company Order, dated July 25, 2024, relating to the 4.950% Notes due January 15, 2032, pursuant to Sections 201, 301 and 303 of the Indenture (including the form of 4.950% Notes due January 15, 2032)
+4.5
+Officers’ Certificate and Company Order, dated July 25, 2024, relating to the 5.150% Notes due July 15, 2034, pursuant to Sections 201, 301 and 303 of the Indenture (including the form of 5.150% Notes due July 15, 2034)
+4.6
+Officers’ Certificate and Company Order, dated July 25, 2024, relating to the 5.500% Notes due July 15, 2044, pursuant to Sections 201, 301 and 303 of the Indenture (including the form of 5.500% Notes due July 15, 2044)
+4.7
+Officers’ Certificate and Company Order, dated July 25, 2024, relating to the 5.625% Notes due July 15, 2054, pursuant to Sections 201, 301 and 303 of the Indenture (including the form of 5.625% Notes due July 15, 2054)
+4.8
+Officers’ Certificate and Company Order, dated July 25, 2024, relating to the 5.750% Notes due July 15, 2064, pursuant to Sections 201, 301 and 303 of the Indenture (including the form of 5.750% Notes due July 15, 2064)
+5.1
+Opinion of Hogan Lovells US LLP regarding the validity of the Notes
+23.1
+Consent of Hogan Lovells US LLP (included as part of Exhibit 5.1)
+104
+Cover Page Interactive Data File (formatted as Inline XBRL)
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Date: July 25, 2024
+UNITEDHEALTH GROUP INCORPORATED
+By:
+/s/ Kuai H. Leong
+Name: Kuai H. Leong
+Title: Senior Deputy General Counsel and Deputy Corporate Secretary

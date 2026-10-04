@@ -1,0 +1,261 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)
+
+August 4, 2022 (
+August 3, 2022
+)
+
+Amgen Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-37702
+
+95-3540776
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+Identification No.)
+
+One Amgen Center Drive
+
+Thousand Oaks
+
+California
+
+91320
+
+(Address of principal executive offices, including zip code)
+
+(805)
+
+447-1000
+
+(Registrant’s telephone number, including area code)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common stock, $0.0001 par value
+
+AMGN
+
+The Nasdaq Stock Market LLC
+
+2.000% Senior Notes due 2026
+
+AMGN26
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01.
+
+Entry into a Material Definitive Agreement.
+
+On August 3, 2022, Amgen Inc., a Delaware corporation (“
+Amgen
+”) entered into an Agreement and Plan of Merger (the “
+Merger Agreement
+”) among Amgen, Carnation Merger Sub, Inc., a Delaware corporation and a wholly owned subsidiary of Amgen (“
+Merger Sub
+”) and ChemoCentryx, Inc., a Delaware corporation (“
+ChemoCentryx
+”), pursuant to and subject to the terms and conditions of which Merger Sub will be merged with and into ChemoCentryx, with ChemoCentryx surviving the merger as a wholly owned subsidiary of Amgen (the “
+Merger
+”).
+
+Subject to the terms and conditions set forth in the Merger Agreement, at the effective time of the Merger (the “
+Effective Time
+”), each share of common stock, par value $0.001 per share, of ChemoCentryx (the “
+ChemoCentryx Common Stock
+” and such shares, collectively, the “
+Shares
+”) outstanding immediately prior to the Effective Time (other than any such Shares (i) held by ChemoCentryx as treasury stock or owned by Amgen or Merger Sub, (ii) held by any subsidiary of ChemoCentryx or Amgen (other than Merger Sub) or (iii) as to which appraisal rights have been properly exercised, and not withdrawn, in accordance with the Delaware General Corporation Law) will generally be converted into the right to receive $52.00 per Share in cash, without interest (the “
+Merger Consideration
+”).
+
+In addition, at the Effective Time, each equity award with respect to ChemoCentryx Common Stock (other than restricted stock unit awards granted to employees after the date of the Merger Agreement) will, to the extent unvested, vest in full and be cancelled and converted into the right to receive the Merger Consideration (less the applicable exercise price in the case of stock options). Restricted stock unit awards granted after the date of the Merger Agreement will generally be converted into an amount in cash equal to the Merger Consideration, which amount will vest and become payable at the same time the original restricted stock unit award otherwise would have vested and become payable, subject to continued service.
+
+Conditions to the Merger
+
+The consummation of the Merger is subject to certain customary closing conditions set forth in the Merger Agreement, including (i) adoption of the Merger Agreement and approval of the Merger by the affirmative vote of the holders of a majority of the outstanding Shares (the “
+ChemoCentryx Stockholder Approval
+”), (ii) the absence of any temporary restraining order, preliminary or permanent injunction or other order by any court of competent jurisdiction preventing the consummation of the Merger, or any applicable law or order by any governmental authority that prohibits or makes illegal the consummation of the Merger and (iii) the expiration or early termination of the waiting period (and any extension thereof) applicable to the consummation of the Merger under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended. Each party’s obligation to complete the Merger is also subject to certain additional conditions, including (i) subject to certain exceptions, the accuracy of the representations and warranties of the other party, (ii) in the case of Amgen’s obligation to complete the Merger, the absence of a Material Adverse Effect (as defined in the Merger Agreement) with respect to ChemoCentryx that is continuing and (iii) compliance and performance in all material respects by the other party of its covenants and agreements set forth in the Merger Agreement.
+
+Representations and Warranties; Covenants
+
+The Merger Agreement contains customary representations and warranties with respect to each party. The Merger Agreement also contains customary covenants, including, among others, covenants requiring ChemoCentryx to use commercially reasonable efforts to conduct its business in the ordinary course consistent with past practice during the period between execution of the Merger Agreement and the Effective Time.
+
+Under the Merger Agreement, each of Amgen and ChemoCentryx has agreed to use its respective reasonable best efforts to take all actions under antitrust laws or other applicable law to consummate and make effective the transactions contemplated by the Merger Agreement as soon as reasonably practicable. The parties have also agreed to use reasonable best efforts to promptly take all actions to obtain required regulatory approvals, subject to the limitation that Amgen is not obligated to take certain specified actions (x) with respect to any assets, categories of assets or portions of any business of Amgen or any of its subsidiaries or (y) with respect to assets, categories of assets or portions of any business of ChemoCentryx or its subsidiaries, if such action, individually or in the aggregate, would reasonably be expected to be material to ChemoCentryx and its subsidiaries, taken as a whole.
+
+The Merger Agreement also includes covenants requiring ChemoCentryx (i) not to solicit, or enter into discussions with third parties relating to, alternative acquisition proposals during the period between the execution of the Merger Agreement and the Effective Time, subject to certain exceptions, and (ii) to call and hold a special meeting of the ChemoCentryx stockholders to adopt the Merger Agreement and approve the Merger and, subject to certain exceptions, not to withdraw, qualify or modify in a manner adverse to Amgen the recommendation of the ChemoCentryx board of directors that the ChemoCentryx stockholders adopt the Merger Agreement and approve the Merger.
+
+Termination and Termination Fees
+
+The Merger Agreement may be terminated by Amgen and ChemoCentryx by mutual agreement in writing. In addition, either party may terminate the Merger Agreement if (a) there has been a breach of any representation, warranty, covenant or agreement made by the other party in the Merger Agreement such that an applicable closing condition would not be satisfied (subject to cure rights), (b) the Merger does not occur by May 3, 2023 (which date will automatically be extended by three months to August 3, 2023 if the only then-outstanding closing conditions relate to regulatory approval) (such date, as may be extended), (c) there is a final and
+non-appealable
+order, decree or ruling permanently restraining, enjoining or otherwise prohibiting the consummation of the Merger or a governmental authority that must grant a required regulatory approval has denied such approval and such denial has become final and
+non-appealable
+or (d) the ChemoCentryx Stockholder Approval has not been obtained at a duly convened meeting of ChemoCentryx’s stockholders held to consider the adoption of the Merger Agreement at which a vote on the Merger Agreement is taken. Prior to receipt of the ChemoCentryx Stockholder Approval, each party has additional termination rights specified in the Merger Agreement, including (x) the right of ChemoCentryx to terminate the Merger Agreement in order to enter into a definitive agreement providing for a Superior Proposal (as defined in the Merger Agreement), subject to compliance by ChemoCentryx with certain requirements in the Merger Agreement and payment of the termination fee described below, (y) the right of Amgen to terminate the Merger Agreement if the ChemoCentryx board of directors changes its recommendation in favor of the Merger and (z) the right of Amgen to terminate the Merger Agreement if there has been an intentional and material breach by ChemoCentryx of the
+non-solicitation
+provisions in the Merger Agreement.
+
+The Merger Agreement provides that ChemoCentryx must pay Amgen a termination fee equal to approximately $119 million if (i) ChemoCentryx terminates the Merger Agreement prior to receipt of the ChemoCentryx Stockholder Approval to enter into a definitive agreement providing for a Superior Proposal, (ii) Amgen terminates the Merger Agreement prior to receipt of the ChemoCentryx Stockholder Approval in the event that the ChemoCentryx board of directors changes its recommendation to its stockholders in favor of the Merger or there has been an intentional and material breach by ChemoCentryx of the
+non-solicitation
+provisions in the Merger Agreement, or (iii) if the Merger Agreement is terminated in certain circumstances following ChemoCentryx’s receipt of an acquisition proposal and, within twelve (12) months of such termination, an acquisition proposal is consummated or a definitive agreement is entered into with respect to an acquisition proposal.
+
+Additional Information
+
+The foregoing description of the Merger Agreement does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Merger Agreement, a copy of which is filed as Exhibit 2.1 hereto and is incorporated by reference herein.
+
+The Merger Agreement has been included to provide investors with information regarding its terms. It is not intended to provide any other factual information about Amgen, Merger Sub, ChemoCentryx or their respective subsidiaries or affiliates or to modify or supplement any factual disclosures about Amgen or ChemoCentryx included in their respective public reports filed with the Securities and Exchange Commission (“
+SEC
+”). The representations, warranties and covenants contained in the Merger Agreement were made only for purposes of the Merger Agreement and as of the specific dates therein, were solely for the benefit of the parties to the Merger Agreement, may be subject to limitations, qualifications or other particulars agreed upon by the contracting parties, including being qualified by confidential disclosures, and were made for the purposes of allocating contractual risk
+
+among the parties to the Merger Agreement instead of establishing these matters as facts, and may be subject to standards of materiality applicable to the contracting parties that differ from those applicable to investors. Investors are not third-party beneficiaries under the Merger Agreement and should not rely on the representations, warranties and covenants or any descriptions thereof as characterizations of the actual state of facts or condition of the parties thereto or any of their respective subsidiaries or affiliates. Moreover, information concerning the subject matter of representations and warranties may change after the date of the Merger Agreement, which subsequent information may or may not be fully reflected in public disclosures. The Merger Agreement should not be read alone, but should instead be read in conjunction with the other information regarding Amgen, Merger Sub and ChemoCentryx and the transactions contemplated by the Merger Agreement that will be contained in, incorporated by reference into or attached as an annex to the proxy statement that ChemoCentryx will file in connection with the transactions contemplated by the Merger Agreement as well as in the other filings that each of Amgen and ChemoCentryx will make with the SEC.
+
+Item 7.01.
+
+Regulation FD Disclosure.
+
+On August 4, 2022, Amgen and ChemoCentryx issued a joint press release announcing the entry into the Merger Agreement, a copy of which is attached as Exhibit 99.1 to this report and incorporated into this Item 7.01 by reference.
+
+The information contained in this Item 7.01 and Exhibit 99.1 shall not be deemed to be “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934 (the “
+Exchange Act
+”), or otherwise subject to the liabilities of such section, nor will such information be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as may be expressly set forth by specific reference in such filing.
+
+Item 9.01.
+
+Financial Statements and Exhibits
+
+(d) Exhibits.
+
+Exhibit
+No.
+
+Description of Exhibit
+
+2.1
+
+Agreement and Plan of Merger, dated as of August 3, 2022 among ChemoCentryx, Inc., Amgen Inc. and Carnation Merger Sub, Inc.*
+
+99.1
+
+Joint Press Release, dated as of August 4, 2022.
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+*
+
+Certain schedules and exhibits have been omitted pursuant to Item 601(a)(5) of Regulation
+S-K.
+The registrant agrees to furnish supplementally a copy of any omitted schedule or exhibit to the SEC upon its request.
+
+Forward-Looking Statements
+
+This communication contains forward-looking statements. These forward-looking statements generally include statements that are predictive in nature and depend on or refer to future events or conditions, and include words such as “expect,” “anticipate,” “outlook,” “could,” “target,” “project,” “intend,” “plan,” “believe,” “seek,” “estimate,” “should,” “may,” “assume” and “continue” as well as variations of such words and similar expressions. By their nature, forward-looking statements involve risks and uncertainty because they relate to events and depend on circumstances that will occur in the future, and there are many factors that could cause actual results and developments to differ materially from those expressed or implied by these forward-looking statements. Forward-looking statements include, among other things, statements about the potential benefits of the proposed acquisition of ChemoCentryx by Amgen (the “proposed transaction”); the prospective performance and outlook of ChemoCentryx’s business, performance and opportunities; any potential strategic benefits, synergies or opportunities expected as a result of the proposed transaction; the ability of the parties to complete the proposed transaction and the expected timing of completion of the proposed transaction; as well as any assumptions underlying any of the foregoing.
+
+These statements are not guarantees of future performance and they involve certain risks, uncertainties and assumptions that are difficult to predict. We caution you that actual outcomes and results may differ materially from what is expressed, implied or forecasted by our forward-looking statements. There can be no guarantee that the proposed transaction will be completed, or that it will be completed as currently proposed, or at any particular time. Neither can there be any guarantee that Amgen or ChemoCentryx will achieve any particular future financial results, or that Amgen will be able to realize any of the potential strategic benefits, synergies or opportunities as a result of the proposed acquisition. In particular, our expectations could be affected by, among other things: the risk that the proposed transaction may not be completed in a timely manner or at all; the possibility that competing offers or acquisition proposals for ChemoCentryx will be made; the possibility that required regulatory, stockholder or other approvals or other conditions to the consummation of proposed transaction may not be satisfied on a timely basis or at all (and the risk that such approvals may result in the imposition of conditions that could adversely affect Amgen or ChemoCentryx or the expected benefits of the proposed transaction); regulatory actions or delays or government regulation generally, including potential regulatory actions or delays relating to the completion of the potential transaction; the occurrence of any event, change or other circumstance that could give rise to the right of Amgen or ChemoCentryx to terminate the definitive merger agreement governing the terms and conditions of the proposed transaction; effects of the announcement, pendency or consummation of the proposed transaction on ChemoCentryx’s ability to retain and hire key personnel, its ability to maintain relationships with its customers, suppliers and others with whom it does business, its business generally or its stock price; risks related to the diversion of management’s attention from ongoing business operations and opportunities; the risk that stockholder litigation in connection with the proposed transaction may result in significant costs of defense, indemnification and liability; the potential that the strategic benefits, synergies or opportunities expected from the proposed transaction may not be realized or may take longer to realize than expected; the successful integration of ChemoCentryx into Amgen subsequent to the closing of the proposed transaction and the timing, difficulty and cost of such integration; the possibility that the proposed transaction may be more expensive to complete than anticipated, including as a result of unexpected factors or events; and other risks and factors referred to from time to time in Amgen’s and ChemoCentryx’s filings with the SEC, including Amgen’s Annual Report on Form
+10-K
+for the year ended December 31, 2021 and subsequent Quarterly Reports on Form
+10-Q
+and ChemoCentryx’s Annual Report on Form
+10-K
+for the year ended December 31, 2021 and subsequent Quarterly Reports on Form
+10-Q,
+including those related to the uncertainties inherent in the research and development of new and existing healthcare products, including clinical and regulatory developments and additional analysis of existing clinical data; our ability to obtain or maintain proprietary intellectual property protection; safety, quality or manufacturing issues or delays; changes in expected or existing competition; and domestic and global trends toward health care cost containment, including government, payor and general public pricing and reimbursement pressures. The effects of the
+COVID-19
+pandemic may give rise to risks that are currently unknown or amplify the risks associated with many of these factors. Amgen is providing the information in this communication as of this date and does not undertake any obligation to update any forward-looking statements as a result of new information, future events or otherwise.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+AMGEN INC.
+
+By:
+
+/s/ Jonathan P. Graham
+
+Name:
+
+Jonathan P. Graham
+
+Title:
+
+Executive Vice President, General Counsel and Secretary
+
+Date: August 4, 2022

@@ -1,0 +1,104 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+________________________
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of Report (date of earliest event reported)
+March 28, 2024
+Walmart Inc.
+(Exact name of registrant as specified in its charter)
+DE
+001-06991
+71-0415188
+(State or other jurisdiction of incorporation or organization)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+702 S.W. 8th Street
+
+Bentonville
+,
+AR
+
+72716-0215
+
+(Address of Principal Executive Offices) (Zip code)
+Registrant's telephone number, including area code
+(
+479
+)
+273-4000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.10 per share
+WMT
+New York Stock Exchange
+2.550% Notes due 2026
+WMT26
+New York Stock Exchange
+1.050% Notes due 2026
+WMT26A
+New York Stock Exchange
+1.500% Notes due 2028
+WMT28C
+New York Stock Exchange
+4.875% Notes due 2029
+WMT29B
+New York Stock Exchange
+5.750% Notes due 2030
+WMT30B
+New York Stock Exchange
+1.800% Notes due 2031
+WMT31A
+New York Stock Exchange
+5.625% Notes due 2034
+WMT34
+New York Stock Exchange
+5.250% Notes due 2035
+WMT35A
+New York Stock Exchange
+4.875% Notes due 2039
+WMT39
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 8.01. Other Events.
+On March 28, 2024, Walmart Inc. (the “Company”) was informed that Daniel J. Bartlett, Executive Vice President, Corporate Affairs, entered into a stock trading plan designed to comply with Rule 10b5-1 under the Securities Exchange Act of 1934, as amended (the “Plan”). Rule 10b5-1 permits officers and directors of public companies, who routinely become aware of material nonpublic information and therefore are unable to sell company securities until the information has been made public, to plan in advance for their liquidity or other needs by adopting, at a time when they are not in possession of material non-public information, a written plan providing for securities transactions to occur over specified future periods of time under specified conditions. Once an individual has entered into a Rule 10b5-1 trading plan, the individual has no discretion or control over whether or when transactions in Company securities will occur pursuant to the Plan.
+Under the terms of the Plan, Mr. Bartlett will sell $166,667 worth of the Company’s common stock on a specified date each month beginning in June 2024 through May 2026, subject to a minimum stock price threshold. In the event that a sale does not occur on a specified day during one or more of the months during the duration of the Plan due to the minimum stock price threshold having not been met, the dollar amount shall be carried over to the next specified sale date under the Plan on which the minimum stock price threshold is met. The maximum aggregate dollar amount of common stock that may be sold under the Plan is $4,000,000.
+Mr. Bartlett continues to be subject to the Company’s stock ownership guidelines, under which he is required to hold Company stock equal in value to at least five times his base salary. Upon the conclusion of each sale transaction under the Plan, Mr. Bartlett will continue to satisfy the requirements of the Company’s stock ownership guidelines.
+Any transactions under the Plan will be disclosed publicly through Form 144 and Form 4 filings with the Securities and Exchange Commission to the extent required by law.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated: March 28, 2024
+WALMART INC.
+By:
+/s/ Gordon Y. Allison
+Name:
+Gordon Y. Allison
+Title:
+Senior Vice President, Office of the Corporate Secretary, and Chief Counsel for Finance and Governance

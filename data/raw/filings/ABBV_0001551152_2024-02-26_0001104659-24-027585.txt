@@ -1,0 +1,273 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+
+February 22, 2024
+
+ABBVIE INC.
+
+(Exact name of registrant as specified in its
+charter)
+
+Delaware
+
+001-35565
+
+32-0375147
+
+(State of Incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+Identification Number)
+
+1 North Waukegan Road
+
+North Chicago
+,
+Illinois
+
+60064-6400
+
+(Address of principal
+executive offices, including zip code)
+
+(
+847
+)
+932-7900
+
+(Registrant’s telephone number, including
+area code)
+
+Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General
+Instruction A.2.below):
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the
+Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+¨
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+
+Securities registered
+pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, $0.01 Par Value
+
+ABBV
+
+New York Stock Exchange
+
+Chicago Stock Exchange
+
+1.375% Senior Notes due 2024
+
+ABBV24
+
+New York Stock Exchange
+
+1.250% Senior Notes due 2024
+
+ABBV24B
+
+New York Stock Exchange
+
+0.750% Senior Notes due 2027
+
+ABBV27
+
+New York Stock Exchange
+
+2.125% Senior Notes due 2028
+
+ABBV28
+
+New York Stock Exchange
+
+2.625% Senior Notes due 2028
+
+ABBV28B
+
+New York Stock Exchange
+
+2.125% Senior Notes due 2029
+
+ABBV29
+
+New York Stock Exchange
+
+1.250% Senior Notes due 2031
+
+ABBV31
+
+New York Stock Exchange
+
+Common Stock, $0.01 Par Value
+
+ABBV
+
+Item 8.01. Other Events.
+
+On February 22, 2024, AbbVie Inc. (“AbbVie”)
+entered into an underwriting agreement (the “Underwriting Agreement”) with Morgan Stanley & Co. LLC, J.P. Morgan Securities
+LLC, BofA Securities, Inc. and Citigroup Global Markets Inc., acting for themselves and as representatives of the several underwriters
+named therein (collectively, the “Underwriters”), pursuant to which AbbVie agreed to issue and sell to the Underwriters $15.0 billion
+aggregate principal amount of its senior notes, consisting of $2,250,000,000 in aggregate principal amount of its 4.800% senior notes
+due 2027 (the “2027 Notes”), $2,500,000,000 in aggregate principal amount of its 4.800% senior notes due 2029 (the “2029
+Notes”), $2,000,000,000 in aggregate principal amount of its 4.950% senior notes due 2031 (the “2031 Notes”), $3,000,000,000
+in aggregate principal amount of its 5.050% senior notes due 2034 (the “2034 Notes”), $750,000,000 in aggregate principal
+amount of its 5.350% senior notes due 2044 (the “2044 Notes”), $3,000,000,000 of its 5.400% senior notes due 2054 (the “2054
+Notes”) and $1,500,000,000 in aggregate principal amount of its 5.500% senior notes due 2064 (the “2064 Notes,” and
+together with the 2027 Notes, the 2029 Notes, the 2031 Notes, the 2034 Notes and the 2044 Notes and the 2054, the “Notes”)
+in a registered public offering.
+
+The Notes were registered under the Securities
+Act of 1933, as amended (the “Act”), pursuant to AbbVie’s registration statement on Form S-3ASR (File No. 333-262908)
+(the “Registration Statement”) dated as of February 22, 2022. On February 26, 2024, AbbVie filed with the Securities and Exchange
+Commission a prospectus supplement (the “Prospectus Supplement”), containing the final terms of the Notes pursuant to Rule
+424(b)(5) of the Act. The Notes were sold pursuant to the Underwriting Agreement and were issued pursuant to the Prospectus Supplement.
+The Notes are governed by an indenture, dated November 8, 2012 (the “Base Indenture”) between AbbVie and U.S. Bank Trust Company,
+National Association, as successor-in-interest to U.S. Bank National Association, as trustee (the “Trustee”), as supplemented
+by that certain Supplemental Indenture No. 10 (the “Supplemental Indenture”, and the Base Indenture as so supplemented,
+the “Indenture”), between AbbVie and the Trustee.
+
+Each series of Notes will mature on March 15 of
+the applicable year. The Notes are unsecured, unsubordinated obligations of AbbVie and will rank equally in right of payment with all
+of AbbVie’s existing and future unsecured, unsubordinated indebtedness, liabilities and other obligations.
+
+AbbVie expects to use the net proceeds received
+from the issuance of the Notes: (i) to prepay its $5.0 billion 364-day term loan, the proceeds of which were used to fund in part AbbVie’s
+acquisition of ImmunoGen, Inc., (ii) together with cash on hand, to fund AbbVie’s pending acquisition of Cerevel Therapeutics Holdings,
+Inc., (iii) to repay outstanding borrowings under AbbVie’s commercial paper program, (iv) to pay fees and expenses in respect of
+the foregoing, and (v) for general corporate purposes.
+
+Please refer to the Prospectus Supplement dated
+February 22, 2024 for additional information regarding the Notes offering and the terms and conditions of the Notes. The foregoing summary
+of the Notes does not purport to be complete and is qualified in its entirety by reference to the full text of (i) the Underwriting Agreement
+attached as Exhibit 1.1 hereto; (ii) the Base Indenture incorporated by reference as Exhibit 4.1; (iii) the Supplemental Indenture attached
+as Exhibit 4.2 hereto; and (iv) the forms of Notes attached hereto as Exhibits 4.3 through 4.9, inclusive.
+
+Many of the underwriters in respect of the Underwriting
+Agreement and/or their affiliates have in the past performed, and may in the future from time to time perform, investment banking, financial
+advisory, lending and/or commercial banking services, or other services for AbbVie and its subsidiaries, for which they have received,
+and may in the future receive, customary compensation and expense reimbursement.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d)
+Exhibits
+. The following exhibits are provided as part of
+this Form 8-K:
+
+1.1
+
+Underwriting Agreement, dated February 22, 2024, by and among AbbVie Inc., Morgan Stanley & Co. LLC, J.P. Morgan Securities LLC, BofA Securities, Inc. and Citigroup Global Markets Inc. (acting for themselves and as representatives of the several underwriters named therein)
+
+4.1
+
+Indenture, dated November 8, 2012, between AbbVie Inc. and U.S. Bank Trust Company, National Association, as trustee (incorporated by reference to Exhibit 4.1 of Amendment No. 5 to AbbVie’s Registration Statement on Form 10 filed November 16, 2012).
+
+4.2
+
+Supplemental Indenture No. 10, dated February 26, 2024, between AbbVie Inc. and U.S. Bank Trust Company, National Association, as trustee.
+
+4.3
+
+Form of 4.800% Note due 2027 (included in Exhibit 4.2 of this Current Report on Form 8-K)
+
+4.4
+
+Form of 4.800 Note due 2029 (included in Exhibit 4.2 of this Current Report on Form 8-K)
+
+4.5
+
+Form of 4.950% Note due 2031 (included in Exhibit 4.2 of this Current Report on Form 8-K)
+
+4.6
+
+Form of 5.050% Note due 2034 (included in Exhibit 4.2 of this Current Report on Form 8-K)
+
+4.7
+
+Form of 5.350% Note due 2044 (included in Exhibit 4.2 of this Current Report on Form 8-K)
+
+4.8
+
+Form of 5.400% Note due 2054 (included in Exhibit 4.2 of this Current Report on Form 8-K)
+
+4.9
+
+Form of 5.500% Note due 2064 (included in Exhibit 4.2 of this Current Report on Form 8-K)
+
+5.1
+
+Opinion of Wachtell, Lipton, Rosen & Katz, dated February 26, 2024, with respect to the Notes.
+
+23.1
+
+Consent of Wachtell, Lipton, Rosen & Katz (included in Exhibit 5.1 of this Current Report on Form 8-K)
+
+104
+
+Cover Page Interactive Data File--the cover page XBRL are embedded within the Inline XBRL document.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ABBVIE INC.
+
+Date: February 26, 2024
+
+By:
+
+/s/ Scott T. Reents
+
+Scott T. Reents
+
+Executive Vice President, Chief Financial Officer

@@ -1,0 +1,80 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+April 7, 2023
+
+Meta Platforms, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+001-35551
+20-1665019
+(State or Other Jurisdiction
+of Incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+1601 Willow Road
+,
+Menlo Park
+,
+California
+
+94025
+
+(Address of principal executive offices and Zip Code)
+(
+650
+)
+543-4800
+
+(Registrant’s telephone number, including area code)
+N/A
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A Common Stock, $0.000006 par value
+META
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+As previously disclosed by Meta Platforms, Inc. (the “Company”), on January 27, 2023, Susan J.S. Taylor notified the Company of her intent to resign as Chief Accounting Officer of the Company after a transition period. On April 7, 2023, the Board of Directors (the “Board”) of the Company appointed Aaron Anderson, age 50, to serve as Chief Accounting Officer of the Company, effective April 17, 2023, and to serve as principal accounting officer of the Company following a transition period ending no later than May 11, 2023. Ms. Taylor will continue to serve as the Company’s principal accounting officer for the transition period.
+Mr. Anderson previously served in various roles at PayPal Holdings, Inc., a digital payments company, including SVP, Global Treasurer from 2021 to 2022, Global Treasurer from 2020 to 2021, and Chief Accounting Officer from 2015 to 2020. Mr. Anderson holds an M.P.A. in Accounting and a B.S. and B.A. in Economics and Accounting from the University of Nebraska-Lincoln.
+There are no arrangements or understandings between Mr. Anderson and any other persons pursuant to which he was appointed as Chief Accounting Officer, and no family relationships among any of the Company’s directors or executive officers and Mr. Anderson. Mr. Anderson has no direct or indirect material interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation S-K.
+Mr. Anderson will receive an annual base salary of $575,000. Mr. Anderson will also participate in the Company’s annual Bonus Plan, under which he will have an individual bonus target of 75% of his annual base salary. In addition, Mr. Anderson will receive a grant of restricted stock units (“RSUs”) with an initial equity value of $4.5 million. The RSUs will vest quarterly over four years, beginning on August 15, 2023, subject to continued service through each vesting date.
+In addition, the Company intends to enter into its standard form of indemnification agreement with Mr. Anderson. A form of the indemnification agreement was previously filed by the Company as Exhibit 10.1 to the Company’s Current Report on Form 8-K (File No. 001-35551), as originally filed with the Securities and Exchange Commission on April 15, 2019.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+META PLATFORMS, INC.
+Date:
+April 10, 2023
+By:
+/s/ Katherine R. Kelly
+Name:
+Katherine R. Kelly
+Title:
+Vice President, Deputy General Counsel and Secretary

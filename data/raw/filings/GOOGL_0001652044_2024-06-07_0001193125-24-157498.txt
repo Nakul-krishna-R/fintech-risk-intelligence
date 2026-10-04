@@ -1,0 +1,206 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported)
+June 5, 2024
+
+ALPHABET INC.
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-37580
+
+61-1767919
+
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+
+1600 Amphitheatre Parkway
+Mountain View
+,
+CA
+
+94043
+(Address of principal executive offices, including zip code)
+(
+650
+)
+253-0000
+(Registrant’s telephone number, including area code)
+Not Applicable
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form
+8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule
+14a-12
+under the Exchange Act (17 CFR
+240.14a-12)
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+14d-2(b)
+under the Exchange Act (17 CFR
+240.14d-2(b))
+
+☐
+
+Pre-commencement
+communications pursuant to Rule
+13e-4(c)
+under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Class A Common Stock, $0.001 par value
+
+GOOGL
+
+Nasdaq Stock Market LLC
+(Nasdaq Global Select Market)
+
+Class C Capital Stock, $0.001 par value
+
+GOOG
+
+Nasdaq Stock Market LLC
+(Nasdaq Global Select Market)
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02.
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On June 5, 2024, Alphabet Inc. (“Alphabet”) announced the appointment of Anat Ashkenazi as the new Chief Financial Officer and Senior Vice President of Alphabet and Google LLC, effective July 31, 2024.
+The material terms of Anat’s compensation, as approved by the Leadership Development, Inclusion and Compensation Committee of Alphabet’s Board of Directors, are outlined below:
+
+•
+
+An annual base salary of $1,000,000.
+
+•
+
+An annual discretionary bonus opportunity up to 200% of base salary.
+
+•
+
+To compensate for her prior company’s forfeited compensation, Alphabet has agreed to (i) pay a
+one-time
+
+sign-on
+bonus of $9.9 million, and (ii) make a $13.1 million
+sign-on
+equity grant in the form of restricted stock units (GSUs) to be made on the first Wednesday of the calendar month following her start date (1/2 vesting in September 2024, 1/2 vesting in December 2024).
+
+•
+
+As part of her
+go-forward
+compensation, Alphabet has agreed to make the following equity grants in the form of GSUs and performance-based stock units (PSUs):
+
+•
+
+a $17.0 million GSU grant to be made on the first Wednesday of the calendar month following her start date (vesting quarterly in 2025)
+
+•
+
+a $6.0 million GSU grant to be made on the first Wednesday of the calendar month following her start date (vesting quarterly in 2026)
+
+•
+
+a $5.0 million PSU grant to be made on the first Wednesday of the calendar month following her start date for the performance period
+1-Jan-24
+through
+31-Dec-26
+(which will vest in accordance with the Form of Alphabet
+Non-CEO
+Performance Stock Unit Agreement, Exhibit 10.03 to Alphabet’s Form
+10-Q
+for the quarterly period ending on
+31-Mar-24)
+
+•
+
+Alphabet will assist her with relocation-related expenses pursuant to Alphabet’s guidelines with respect to the relocation of officers.
+
+A copy of the offer letter is attached hereto as Exhibit 10.1 to this Form
+8-K
+and is incorporated herein by reference. The above summary of the offer letter does not purport to be complete and is subject to and qualified in its entirety by reference to the attached offer letter.
+
+2
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+(d) Exhibits
+
+Exhibit
+No.
+
+Description
+
+10.1
+
+Offer Letter
+
+104
+
+Cover Page Interactive Data File (formatted as inline XBRL)
+
+3
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ALPHABET INC.
+
+June 7, 2024
+
+/s/ Kathryn W. Hall
+
+Kathryn W. Hall
+
+Assistant Secretary
+
+4

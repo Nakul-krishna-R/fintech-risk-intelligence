@@ -1,0 +1,170 @@
+UNITED STATES
+SECURITIES AND EXCHANGE
+
+COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+January 19, 2023
+COSTCO WHOLESALE CORPORATION
+(Exact name of registrant as specified in its charter)
+Washington
+0-20355
+91-1223280
+(State or other jurisdiction
+of incorporation)
+(Commission
+File No.)
+(I.R.S. Employer
+Identification No.)
+999 Lake Drive
+Issaquah
+,
+WA
+
+98027
+(Address of principal executive offices and zip code)
+Registrant’s telephone number, including area code:
+425
+-
+313-8100
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $.005 per share
+COST
+NASDAQ
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.07. Submission of Matters to a Vote of Security Holders
+On January 19, 2023, Costco Wholesale Corporation (the "Company") held its Annual Meeting of Shareholders. There were 443,864,342 shares of common stock entitled to be voted; 350,729,670 shares were voted in person or by proxy. Shareholders voted on the following matters:
+1.
+The election of each of the directors nominated by the Board of Directors to hold office until the 2024 Annual Meeting of Shareholders and until their successors are elected and qualified;
+2.
+The ratification of the selection of KPMG LLP as the Company's independent auditors for fiscal year 2023;
+3.
+The approval, on an advisory basis, of the compensation of the Company's executive officers for fiscal year 2022 as disclosed in the Company's definitive proxy statement on Schedule 14A for the Annual Meeting filed with the Securities and Exchange Commission on December 6, 2022;
+4.
+The approval, on an advisory basis, of the frequency of future advisory votes on executive compensation; and
+5.
+A shareholder proposal regarding a report on the risks of state policies restricting reproductive rights.
+All items except 5 were approved. The results of the votes are set forth below:
+Election of Directors
+Nominees
+For
+Against
+Abstain
+Broker Non-Votes
+Susan L. Decker
+264,621,277
+26,385,523
+387,138
+59,335,732
+Kenneth D. Denman
+274,661,110
+16,234,392
+498,436
+59,335,732
+Richard A. Galanti
+267,184,808
+23,796,509
+412,621
+59,335,732
+Hamilton E. James
+274,683,105
+15,957,152
+753,681
+59,335,732
+W. Craig Jelinek
+286,944,505
+4,042,374
+407,059
+59,335,732
+Sally Jewell
+289,126,577
+1,807,594
+459,767
+59,335,732
+Charles T. Munger
+252,856,010
+38,056,621
+481,307
+59,335,732
+Jeffrey S. Raikes
+236,119,403
+54,766,835
+507,700
+59,335,732
+John W. Stanton
+287,321,118
+3,637,774
+435,046
+59,335,732
+Ron M. Vachris
+281,133,040
+9,827,889
+433,009
+59,335,732
+Maggie Wilderotter
+268,076,245
+22,825,090
+492,603
+59,335,732
+Ratification of the Selection of Auditors:
+For
+Against
+Abstain
+336,868,716
+13,384,009
+476,945
+Advisory Vote on Executive Compensation:
+For
+Against
+Abstain
+Broker Non-Votes
+277,181,009
+13,280,793
+932,136
+59,335,732
+Advisory Vote on frequency of future advisory votes on Executive Compensation:
+1 Year
+2 Years
+3 Years
+Abstain
+286,446,070
+635,158
+3,549,363
+763,347
+On January 19, 2023, the Board of Directors of the Company determined that it will include annually in the proxy materials a shareholder vote on the compensation of executives until the next required shareholder vote on the frequency of shareholder votes on the compensation of executives.
+Shareholder proposal regarding a report on the risks of state policies restricting reproductive rights:
+For
+Against
+Abstain
+Broker Non-Votes
+37,147,295
+242,150,184
+12,096,459
+59,335,732
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized, on January 25, 2023.
+COSTCO WHOLESALE CORPORATION
+By:
+/s/ John Sullivan
+John Sullivan
+Executive Vice President, General Counsel and Secretary

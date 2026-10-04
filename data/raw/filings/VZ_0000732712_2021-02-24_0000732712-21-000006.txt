@@ -1,0 +1,165 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+_____________________________________________________________________________
+FORM
+8-K
+
+______________________________________________________________________________
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report:
+February 24, 2021
+
+(Date of earliest event reported)
+______________________________________________________________________________
+Verizon Communications Inc.
+
+(Exact name of registrant as specified in its charter)
+_______________________________________________________________________________
+
+Delaware
+1-8606
+23-2259884
+(State or other jurisdiction
+of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+1095 Avenue of the Americas
+10036
+New York,
+New York
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code: (
+212
+)
+395-1000
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol(s)
+Name of Each Exchange on Which Registered
+Common Stock, par value $0.10
+VZ
+New York Stock Exchange
+Common Stock, par value $0.10
+VZ
+The NASDAQ Global Select Market
+1.625% Notes due 2024
+VZ24B
+New York Stock Exchange
+4.073% Notes due 2024
+VZ24C
+New York Stock Exchange
+0.875% Notes due 2025
+VZ25
+New York Stock Exchange
+3.250% Notes due 2026
+VZ26
+New York Stock Exchange
+1.375% Notes due 2026
+VZ26B
+New York Stock Exchange
+0.875% Notes due 2027
+VZ27E
+New York Stock Exchange
+1.375% Notes due 2028
+VZ28
+New York Stock Exchange
+1.125% Notes due 2028
+VZ28A
+New York Stock Exchange
+1.875% Notes due 2029
+VZ29B
+New York Stock Exchange
+1.250% Notes due 2030
+VZ30
+New York Stock Exchange
+1.875% Notes due 2030
+VZ30A
+New York Stock Exchange
+2.625% Notes due 2031
+VZ31
+New York Stock Exchange
+2.500% Notes due 2031
+VZ31A
+New York Stock Exchange
+0.875% Notes due 2032
+VZ32
+New York Stock Exchange
+1.300% Notes due 2033
+VZ33B
+New York Stock Exchange
+4.750% Notes due 2034
+VZ34
+New York Stock Exchange
+3.125% Notes due 2035
+VZ35
+New York Stock Exchange
+3.375% Notes due 2036
+VZ36A
+New York Stock Exchange
+2.875% Notes due 2038
+VZ38B
+New York Stock Exchange
+1.875% Notes due 2038
+VZ38C
+New York Stock Exchange
+1.500% Notes due 2039
+VZ39C
+New York Stock Exchange
+3.500% Fixed Rate Notes due 2039
+VZ39D
+New York Stock Exchange
+1.850% Notes due 2040
+VZ40
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+☐
+Emerging growth company
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period or complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 1.01. Entry into a Material Definitive Agreement.
+Delayed Draw Term Loan Credit Agreement
+On February 24, 2021 (the “Effective Date”), Verizon entered into a $25.0 billion Delayed Draw Term Loan Credit Agreement (the “Credit Agreement”) with JPMorgan Chase Bank, N.A. (“JPMorgan”), as administrative agent, and Morgan Stanley Senior Funding, Inc. (“Morgan Stanley”), as syndication agent
+, which includes initial commitments of $12.5 billion from each of JPMorgan and Morgan Stanley
+. The Credit Agreement provides Verizon with the ability to borrow up to $25.0 billion for general corporate purposes, including any potential acquisition of spectrum. The loans under the Credit Agreement are available during the period (the “Availability Period”) beginning on the Effective Date and ending on the earlier of (i) May 28, 2021, and (ii) the receipt by JPMorgan and Morgan Stanley of written notice by Verizon of its election to terminate commitments pursuant to the Credit Agreement. The availability of the loans under the Credit Agreement, which have not yet been funded, is subject to the satisfaction (or waiver) of the conditions that certain representations of Verizon are accurate in all material respects and the absence of certain event of default. The loans under the Credit Agreement are to be made in a single borrowing on the funding date and will mature and be payable in full on the date that is 364 days after the funding date unless extended pursuant to the terms of the Credit Agreement. JPMorgan and Morgan Stanley may syndicate their commitments under the Credit Agreement, subject to the terms of the Credit Agreement.
+JPMorgan and Morgan Stanley and their affiliates have performed commercial banking, investment banking or advisory services for Verizon from time to time for which they have received customary fees and reimbursement of expenses. JPMorgan and Morgan Stanley and their affiliates may, from time to time, engage in transactions with and perform services for Verizon in the ordinary course of our business for which they may receive customary fees and reimbursement of expenses. In addition, JPMorgan and Morgan Stanley are lenders, and in some cases agents or managers for the lenders, under other debt facilities through which Verizon may obtain funding.
+Interest Rate and Fees
+The loans under the Credit Agreement will bear interest at a rate equal to, at the option of Verizon, (i) the base rate (defined as the greater of the rate last quoted by the Wall Street Journal as the “prime rate”, the federal funds rate plus 0.500%, and one-month LIBOR plus 1.000%, subject to a floor of 1.000%) or (ii) LIBOR, in each case plus a margin to be determined by reference to Verizon’s credit ratings and ranging from 0.000% to 0.125% in the case of base rate loans and 0.625% to 1.125% in the case of LIBOR loans. Additional margin of 0.125% is added to the loan on December 31, 2021.
+Verizon will pay a commitment fee on the daily actual unused commitment of each lender starting on the date that is 60 days after the Effective Date through the last day of the Availability Period. This fee accrues at a rate determined by reference to Verizon’s credit ratings and ranges from 0.070% to 0.125% per annum.
+Prepayments
+The Credit Agreement requires Verizon to reduce unused commitments and prepay the loans with 100% of the net cash proceeds received from issuances or sales of equity and incurrences of borrowed money indebtedness, subject to certain exceptions.
+Covenants and Events of Default
+The Credit Agreement contains certain negative covenants, including a negative pledge covenant, a merger or similar transaction covenant and an accounting changes covenant, and affirmative covenants and events of default that are customary for companies maintaining an investment grade credit rating. An event of default may result in the inability to borrow in certain circumstances or the acceleration of any outstanding loan under the Credit Agreement, as applicable.
+Item 8.01. Other Events.
+Wireless Spectrum
+In September 2020, Cellco Partnership, a wholly-owned subsidiary of Verizon, filed an application to participate in FCC Auction 107, which relates to mid-band wireless spectrum known as C- Band. The auction commenced on December 8, 2020. On February 24, 2021, the FCC issued a final public notice announcing the conclusion and results of the auction. In its final notice, the FCC announced that Cellco Partnership was the winning bidder with respect to approximately $45.5 billion of licenses. Down payments, in the amount of 20% of the cost of the spectrum licenses less the amount of the upfront payment made by bidders in October 2020, with respect to the auction are due on March 10, 2021, and final payments in the amount of 80% of the cost of the spectrum licenses are due on March 24, 2021. In accordance with the rules applicable to the auction, licensees also must pay their allocable shares of an estimated $13.1 billion in associated clearing and incentive costs at the times contemplated by the auction rules.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+Verizon Communications Inc.
+
+(Registrant)
+Date:
+February 24, 2021
+
+/s/ Anthony T. Skiadas
+
+Anthony T. Skiadas
+
+Senior Vice President and Controller

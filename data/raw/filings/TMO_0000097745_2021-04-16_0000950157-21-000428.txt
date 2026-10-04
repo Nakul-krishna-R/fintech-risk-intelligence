@@ -1,0 +1,336 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+April 15, 2021
+
+Thermo Fisher Scientific Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+1-8002
+
+04-2209186
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+168 Third Avenue
+
+Waltham
+,
+Massachusetts
+
+02451
+
+781
+-
+622-1000
+
+(Address, including zip code, and telephone number, including area code, of registrant’s principal executive offices)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $1.00 par value
+
+TMO
+
+New York Stock Exchange
+
+0.750% Notes due 2024
+
+TMO 24A
+
+New York Stock Exchange
+
+0.125% Notes due 2025
+
+TMO 25B
+
+New York Stock Exchange
+
+2.000% Notes due 2025
+
+TMO 25
+
+New York Stock Exchange
+
+1.400% Notes due 2026
+
+TMO 26A
+
+New York Stock Exchange
+
+1.450% Notes due 2027
+
+TMO 27
+
+New York Stock Exchange
+
+1.750% Notes due 2027
+
+TMO 27B
+
+New York Stock Exchange
+
+0.500% Notes due 2028
+
+TMO 28A
+
+New York Stock Exchange
+
+1.375% Notes due 2028
+
+TMO 28
+
+New York Stock Exchange
+
+1.950% Notes due 2029
+
+TMO 29
+
+New York Stock Exchange
+
+0.875% Notes due 2031
+
+TMO 31
+
+New York Stock Exchange
+
+2.375% Notes due 2032
+
+TMO 32
+
+New York Stock Exchange
+
+2.875% Notes due 2037
+
+TMO 37
+
+New York Stock Exchange
+
+1.500% Notes due 2039
+
+TMO 39
+
+New York Stock Exchange
+
+1.875% Notes due 2049
+
+TMO 49
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (
+§
+230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (
+§
+240.12b-2 of this chapter).
+
+Emerging Growth Company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised
+financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+ITEM 1.01 – ENTRY INTO A MATERIAL DEFINITIVE AGREEMENT
+
+Agreement and Plan of Merger with PPD, Inc.
+
+On April 15, 2021, Thermo Fisher Scientific Inc., a Delaware corporation (“Thermo Fisher”), entered into an Agreement and Plan of Merger (the “Merger Agreement”), with
+PPD, Inc., a Delaware corporation (“PPD”) and Powder Acquisition Corp., a Delaware corporation and a wholly owned subsidiary of Thermo Fisher (“Merger Sub”), pursuant to which, subject to the terms and conditions of the Merger Agreement, Merger Sub
+will merge with and into PPD, with PPD continuing as the surviving corporation (the “Surviving Corporation”) and a wholly owned subsidiary of Thermo Fisher (the “Merger”).
+
+The board of directors of Thermo Fisher approved the Merger Agreement and the transactions contemplated thereby. Following execution of the Merger Agreement on April 15,
+2021, the stockholders holding in aggregate approximately 60% of the issued and outstanding shares of PPD’s common stock duly executed and delivered to Thermo Fisher a written consent, adopting and approving the Merger Agreement and the transactions
+contemplated thereby, including the Merger (the “Written Consent”).
+
+Merger Consideration and Treatment of Equity Awards
+
+Subject to the terms and conditions of the Merger Agreement, at the effective time of the Merger (the “Effective Time”), (i) each issued and outstanding share of capital
+stock of Merger Sub will be converted into and become one validly issued, fully paid and nonassessable share of common stock, par value $0.001 per share of the Surviving Corporation, (ii) each issued and outstanding share of PPD’s common stock, par
+value $0.01 per share (“PPD Common Stock”), that is owned by PPD, Thermo Fisher or Merger Sub or any other direct or indirect wholly owned subsidiary of PPD or of Thermo Fisher, in each case immediately prior to the Effective Time, shall no longer be
+outstanding and shall automatically be canceled and retired and shall cease to exist, and no consideration shall be delivered or deliverable in exchange therefor and (iii) each issued and outstanding share of PPD Common Stock (other than shares
+described in clause (ii) and shares as to which dissenters’ rights have been exercised in accordance with Delaware law pursuant to the Merger Agreement) will be converted into the right to receive an amount in cash equal to $47.50, without interest
+and less any applicable withholding taxes (the “Merger Consideration”) and shall be automatically canceled and retired and shall cease to exist, and each holder of any such shares of PPD Common Stock shall cease to have any rights with respect
+thereto, except the right to receive the Merger Consideration in accordance with the Merger Agreement.
+
+Each vested PPD stock option (including any stock option that vests as a result of the Merger) will generally be canceled and converted into the right to receive the sum
+of (i) (A) the Merger Consideration less the applicable exercise price multiplied by (B) the number of shares subject to such stock option and (ii) any remaining option bonus payments in respect of PPD’s May 2019 recapitalization dividend
+attributable to each such stock option. Each PPD restricted stock unit (“RSU”) that is held by a non-employee director of PPD (whether vested or unvested) will be canceled and converted into the right to receive (i) the Merger Consideration
+multiplied by (ii) the number of shares subject to such RSU. Each unvested PPD stock option, each PPD RSU (other than any RSU held by a non-employee director of PPD) and each PPD performance-based restricted stock unit (“PSU”) will be canceled and
+converted, based on an exchange ratio that preserves the award’s value, into an equity award of Thermo Fisher with substantially the same terms and conditions, including treatment in connection with certain terminations of employment consistent with
+PPD’s applicable policy (except that any PSU will generally convert based on the greater of target and actual performance and will no longer be subject to performance-based vesting conditions).
+
+Conditions to the Merger
+
+Consummation of the Merger is subject to certain closing conditions, including (i) the approval by the holders of a majority of the issued and outstanding shares of PPD
+common stock (“Stockholder Approval”), which approval was effected after the execution of the Merger Agreement upon the execution and delivery of the Written Consent, (ii) the absence of any law, injunction or order prohibiting the Merger, (iii) the
+receipt of required regulatory clearances, including the expiration or termination of the applicable waiting period (and any extension thereof) under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended (the “HSR Act”) and approvals
+under certain other competition and foreign direct investment laws and (iv) twenty (20) business days having elapsed from the date on which PPD mails an information statement regarding the Merger to PPD’s stockholders.
+
+Termination
+
+The Merger Agreement contains certain termination rights for each of Thermo Fisher and PPD, including, among others, the right to terminate the Merger Agreement (i) by
+mutual written consent of Thermo Fisher, Merger Sub and PPD and (ii) by Thermo Fisher or PPD if the Merger has not been consummated on or before the Outside Date (as such term is defined in, and as may be extended pursuant to the terms of, the Merger
+Agreement).
+
+Certain Other Terms
+
+The Merger Agreement contains customary representation and warranties of Thermo Fisher and PPD. Between the date of execution of the Merger Agreement and the Effective
+Time, PPD has agreed to conduct its business in the ordinary course of business in all material respects consistent with past practice and to comply with certain customary operating covenants.
+
+During the period from the date of the Merger Agreement until the Effective Time, PPD has agreed not to solicit, initiate or knowingly encourage or facilitate
+alternative acquisition proposals from third parties and/or to provide non-public information to third parties in response to any inquiries regarding, or the submission of any proposal or offer that constitutes, or would reasonably be expected to
+lead to, any Company Takeover Proposal (as defined in the Merger Agreement), subject to certain exceptions.
+
+In addition, each of Thermo Fisher and PPD has agreed to use its reasonable best efforts to cause the Merger to be consummated, including to obtain consents and
+authorizations with respect to the HSR Act any other applicable regulatory laws, subject to the limitations set forth in the Merger Agreement.
+
+The foregoing description of the Merger Agreement is only a summary of certain material provisions thereof, does not purport to be complete and is qualified in its
+entirety by reference to the full text of the Merger Agreement, which is attached hereto as Exhibit 2.1 and is incorporated herein by reference.
+
+The Merger Agreement has been included to provide investors with information regarding its terms. It is not intended to provide any other factual information about
+Thermo Fisher, Merger Sub or PPD. The representations, warranties and covenants contained in the Merger Agreement were made only for purposes of the Merger Agreement as of the specific dates therein, are solely for the benefit of the parties to the
+Merger Agreement, may be subject to limitations agreed upon by the contracting parties, including being qualified by confidential disclosures made for the purposes of allocating contractual risk between the parties to the Merger Agreement instead of
+establishing these matters as facts, and may be subject to standards of materiality applicable to the contracting parties that differ from those applicable to investors. Investors should not rely on the representations, warranties and covenants or
+any descriptions thereof as characterizations of the actual state of facts or condition of the parties thereto or any of their respective subsidiaries or affiliates. Moreover, information concerning the subject matter of representations and
+warranties may change after the date of the Merger Agreement, which subsequent information may or may not be fully reflected in Thermo Fisher’s or PPD’s public disclosures.
+
+Financing of the Merger
+
+Thermo Fisher intends to finance the Merger with a combination of cash and debt financing, which could include senior unsecured bridge loans. In connection with entering
+into the Merger Agreement, Thermo Fisher has entered into a commitment letter (the “Commitment Letter”), dated as of April 15, 2021, with Morgan Stanley Senior Funding, Inc. and Barclays Bank PLC (collectively, the “Commitment Parties”), pursuant to
+which, subject to the terms and conditions set forth therein, the Commitment Parties have committed to provide a 364-day senior unsecured bridge term loan facility in an aggregate principal amount of up to $9.5 billion (the “Bridge Facility”), to
+fund a portion of the consideration for the Merger. The funding of the Bridge Facility provided for in the Commitment Letter is contingent on the satisfaction of customary conditions, including (i) the execution and delivery of definitive
+documentation with respect to the Bridge Facility in accordance with the terms set forth in the Commitment Letter, and (ii) the consummation of the Merger in accordance with the Merger Agreement.
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+This communication contains forward-looking statements that involve a number of risks and uncertainties. Words such as “believes,” “anticipates,” “plans,” “expects,”
+“seeks,” “estimates,” and similar expressions are intended to identify forward-looking statements, but other statements that are not historical facts may also be deemed to be forward-looking statements. Important factors that could cause actual
+results to differ materially from those indicated by forward-looking statements include risks and uncertainties relating to: the duration and severity of the COVID-19 pandemic; the need to develop new products and adapt to significant technological
+change; implementation of strategies for improving growth; general economic conditions and related uncertainties; dependence on customers’ capital spending policies and government funding policies; the effect of economic and political conditions
+and exchange rate fluctuations on international operations; use and protection of intellectual property; the effect of changes in governmental regulations; and the effect of laws and regulations governing government contracts, as well as the
+possibility that expected benefits related to recent or pending acquisitions, including the proposed acquisition, may not materialize as expected; the proposed acquisition not being timely completed, if completed at all; regulatory approvals
+required for the transaction not being timely obtained, if obtained at all, or being obtained subject to conditions; prior to the completion of the transaction, PPD’s business experiencing disruptions due to transaction-related uncertainty or other
+factors making it more difficult to maintain relationships with employees, customers, other business partners or governmental entities; difficulty retaining key employees; the outcome of any legal proceedings related to the proposed acquisition;
+and the parties being unable to successfully implement integration strategies or to achieve expected synergies and operating efficiencies within the expected time-frames or at all. Additional important factors that could cause actual results to
+differ materially from those indicated by such forward-looking statements are set forth in Thermo Fisher’s Annual Report on Form 10-K for the year ended December 31, 2020, which is on file with the U.S. Securities and Exchange Commission (“SEC”)
+and available in the “Investors” section of Thermo Fisher’s website, ir.thermofisher.com, under the heading “SEC Filings,” and in any subsequent Quarterly Reports on Form 10-Q and other documents Thermo Fisher files with the SEC, and in PPD’s
+Annual Report on Form 10-K for the year ended December 31, 2020, which is on file with the SEC and available in the “Investors” section of PPD’s website, , under the link “Financial Information” and then under the link “SEC Filings” or by
+contacting PPD’s Investor Relations Department by (a) mail at PPD, Inc., Attention: Investor Relations, 929 North Front Street, Wilmington, North Carolina 28401, (b) telephone at (910) 251-0081, or (c) e-mail at investors@ppd.com, and its
+subsequent Quarterly Reports on Form 10-Q and in other documents PPD files with the SEC. While Thermo Fisher or PPD may elect to update forward-looking statements at some point in the future, Thermo Fisher and PPD specifically disclaim any
+obligation to do so, even if estimates change and, therefore, you should not rely on these forward-looking statements as representing either Thermo Fisher’s or PPD’s views as of any date subsequent to today.
+
+ITEM 9.01 – FINANCIAL STATEMENTS AND EXHIBITS
+
+(d) Exhibits
+
+Exhibit No.
+
+Description
+
+2.1*
+
+Agreement and Plan of Merger, dated as of April 15, 2021, by and among Thermo Fisher Scientific Inc., Powder Acquisition
+Corp. and PPD, Inc.
+
+104
+
+Cover Page Interactive Data File - the cover page XBRL tags are embedded within the Inline XBRL document.
+
+*
+Schedules omitted pursuant to Item 601(b)(2) of Regulation S-K. Thermo Fisher agrees to
+furnish supplementally a copy of any omitted schedule or exhibit to the Securities and Exchange Commission upon request
+.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+THERMO FISHER SCIENTIFIC INC.
+
+Date: April 16, 2021
+
+By:
+
+/s/ Michael A. Boxer
+
+Name: Michael A. Boxer
+
+Title: Senior Vice President and General Counsel
+
+EXHIBIT INDEX
+
+Exhibit No.
+
+Description
+
+2.1*
+
+Agreement and Plan of Merger, dated as of April 15, 2021, by and among Thermo Fisher Scientific Inc., Powder Acquisition Corp. and PPD, Inc.
+
+104
+
+Cover Page Interactive Data File - the cover page XBRL tags are embedded within the Inline XBRL document.
+
+*Schedules omitted pursuant to Item 601(b)(2) of Regulation S-K. Thermo Fisher agrees to furnish supplementally a copy of any omitted schedule or exhibit
+to the Securities and Exchange Commission upon request.

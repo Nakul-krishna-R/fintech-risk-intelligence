@@ -1,0 +1,110 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of
+The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported)
+February 2, 2021
+
+Amgen Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-37702
+
+95-3540776
+(State or other jurisdiction
+of incorporation)
+
+(Commission
+File Number)
+
+(IRS Employer
+Identification No.)
+One Amgen Center Drive
+
+Thousand Oaks
+California
+91320-1799
+(Address of principal executive offices)
+
+(Zip Code)
+Registrant’s telephone number, including area code
+(
+805
+)
+447-1000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communication pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communication pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, $0.0001 par value
+AMGN
+The Nasdaq Stock Market LLC
+1.250% Senior Notes Due 2022
+AMGN22
+The Nasdaq Stock Market LLC
+2.000% Senior Notes Due 2026
+AMGN26
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2). Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 2.02 Results of Operations and Financial Condition.
+On February 2, 2021, Amgen Inc. (the Company) issued a press release announcing its unaudited results of operations for the three months and year ended December 31, 2020, and its unaudited financial position as of December 31, 2020. The full text of the press release is furnished as Exhibit 99.1 hereto.
+In its press release the Company included certain non-U.S. Generally Accepted Accounting Principles (GAAP) financial measures as defined in Regulation G promulgated by the Securities and Exchange Commission. The non-GAAP financial measures included in the press release are non-GAAP earnings per share, non-GAAP operating income, non-GAAP operating margin, non-GAAP tax rate, non-GAAP net income, non-GAAP operating expenses and sub-components of non-GAAP operating expenses such as non-GAAP cost of sales, non-GAAP research and development (R&D) expenses and non-GAAP selling, general and administrative expenses. Reconciliations for such non-GAAP financial measures to the most directly comparable GAAP financial measures are included in the press release. The Company also included Free Cash Flow (FCF), which is computed by subtracting capital expenditures from operating cash flow, each as determined in accordance with GAAP.
+The Company believes that this presentation of non-GAAP financial measures provides useful supplementary information to and facilitates additional analysis by investors. The Company uses certain non-GAAP financial measures to enhance an investor’s overall understanding of the financial performance and prospects for the future of the Company’s ongoing business activities by facilitating comparisons of results of ongoing business operations among current, past and future periods. The Company believes that FCF provides a further measure of the Company’s liquidity.
+The following is a summary of the costs and other items excluded from the most directly comparable GAAP financial measures to calculate non-GAAP financial measures:
+•
+Acquisition-related expenses: Acquisition-related charges are primarily associated with intangible assets acquired in connection with business acquisitions. Such charges include amortization of developed-product-technology rights, licensing rights, R&D technology rights, and marketing-related rights, as well as impairments of in-process R&D assets. The Company incurs charges related to these intangibles, and those charges are included in the Company’s Consolidated Financial Statements. Charges for purchased intangible assets are significantly impacted by the timing and magnitude of the Company’s acquisitions and potential product approvals as they relate to in-process R&D projects acquired. Accordingly, these charges may vary in amount from period to period. The Company excludes these charges for purposes of calculating the non-GAAP financial measures presented to facilitate a more meaningful evaluation of the Company’s current operating performance and comparisons to past operating performance. The Company believes that excluding the noncash charges related to those intangible assets acquired in business acquisitions treats those assets as if the Company had developed them internally in the past and, thus, provides a supplemental measure of profitability in which the Company’s acquired intellectual property is treated in a comparable manner to its internally-developed-intellectual property.
+•
+Net charges pursuant to the Company’s restructuring initiative: Restructuring costs are primarily related to facilities charges, including accelerated depreciation, and severance and benefits for employees terminated pursuant to the transformation and process improvement efforts. Restructuring costs are inconsistent in amount and are significantly impacted by the timing and nature of these events. Therefore, although the Company may incur these types of expenses in the future, it believes that eliminating these charges for purposes of calculating the non-GAAP financial measures provides a supplemental evaluation of the Company’s current operating performance and facilitates comparisons to past operating performance.
+•
+Other items: The Company adjusts GAAP financial results for certain income and expenses (or gains and losses). These adjustments include certain items from investment transactions, including amortization and impairments from the basis difference that arises from certain equity method investments. Effective January 1, 2021, the Company will begin to adjust GAAP financial results for certain gains and losses on our investments in equity securities that are recorded to interest and other income. Further, the Company also adjusts GAAP financial results for certain items associated with judgments and/or settlements for legal proceedings discussed in our filings. The Company excludes these items for the purpose of calculating the non-GAAP financial measures presented because the Company believes these items are outside the ordinary course of business. The Company believes eliminating these items provides a supplemental evaluation of the Company’s current operating performance and facilitates comparisons to past operating performance.
+•
+The tax effect of the adjustments between GAAP and non-GAAP results take into account the tax treatment and related tax rate(s) that apply to each adjustment in the applicable tax jurisdiction(s). Generally, this results in a tax impact at the U.S. marginal tax rate for certain adjustments, including the majority of amortization of intangible assets, whereas the tax impact of other adjustments, including restructuring expense, depends on whether the amounts are deductible in the respective tax jurisdictions and the applicable tax rate(s) in those jurisdictions.
+The press release also contains a discussion of the additional purposes for which the Company’s management uses these non-GAAP financial measures, including, beginning January 1, 2021, we began to exclude the gains and losses on our investments in equity securities from our non-GAAP measures that are recorded to interest and other income. This exclusion will not apply to our share of the earnings and losses of our strategic investments in corporations accounted for under the equity method of accounting, such as our investment in BeiGene. The Company will be excluding gains and losses from equity investments for the purpose of calculating the non-GAAP financial measures presented because the Company believes the results of such gains and losses are not representative of our normal business operations. We are making this change beginning in 2021 because, as we have increased our investments in these companies, we recognized that the resulting variability can impede comparability between periods of our financial performance for our ongoing business operations.
+This information and the information contained in the press release shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section. The information in Item 2.02 of this Current Report is not incorporated by reference into any filings of the Company made under the Securities Act of 1933, as amended, whether made before or after the date of this Current Report, regardless of any general incorporation language in the filing unless specifically stated so therein.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits.
+
+99.1
+Press Release dated February 2, 2021
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+AMGEN INC.
+
+Date: February 2, 2021
+By:
+
+/s/ Peter H. Griffith
+
+Name:
+
+Peter H. Griffith
+
+Title:
+
+Executive Vice President and Chief Financial Officer

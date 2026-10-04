@@ -1,0 +1,216 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+May 11, 2023
+
+INTEL CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+000-06217
+94-1672743
+(State or other jurisdiction
+(Commission
+(IRS Employer
+of incorporation)
+File Number)
+Identification No.)
+
+2200 Mission College Boulevard,
+
+Santa Clara,
+
+California
+95054-1549
+(Address of principal executive offices)
+(Zip Code)
+Registrant's telephone number, including area code:
+(408)
+
+765-8080
+
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, $0.001 par value
+INTC
+Nasdaq Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+Item 5.02
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(e) Amendment and Restatement of 2006 Equity Incentive Plan
+The Board of Directors (the "Board") of Intel Corporation (the "Company") previously approved, subject to stockholder approval, an amendment and restatement of the Company's 2006 Equity Incentive Plan (the “EIP”). As described below under Item 5.07, the Company's stockholders approved the amended and restated EIP at the 2023 Annual Stockholders’ Meeting held on May 11, 2023 (the “Annual Meeting”). The amended and restated EIP became effective upon stockholder approval and, among other changes, extended the term of the plan for an additional one year and increased by 150 million the number of shares available under the EIP, as described under Proposal 4 of the Company's definitive proxy statement filed on Schedule 14A with the Securities and Exchange Commission on March 31, 2023 (the "Proxy Statement"), which description is incorporated herein by reference.
+The foregoing description of the amended and restated EIP is qualified in its entirety by reference to the text of the amended and restated EIP, which is set forth in Appendix C to Proxy Statement.
+Item 5.07
+
+Submission of Matters to a Vote of Security Holders.
+At the Annual Meeting, a total of 3,237,246,055 shares of the Company's common stock were present or represented by proxy, representing 77.6% of the 4,171,072,249 shares outstanding as of the close of business on March 17, 2023, the record date for the determination of stockholders entitled to vote at the Annual Meeting.
+The following are the voting results on the seven proposals considered and voted upon at the Annual Meeting, all of which were described in the Proxy Statement.
+Proposal 1. Election of Directors -
+All Directors Re-Elected
+Nominee
+For
+Against
+Abstain
+Broker Non-Votes
+Patrick P. Gelsinger
+2,635,339,000
+26,427,495
+11,344,245
+564,135,315
+James J. Goetz
+2,595,208,241
+65,508,751
+12,393,748
+564,135,315
+Andrea J. Goldsmith
+2,624,462,892
+36,952,466
+11,695,382
+564,135,315
+Alyssa H. Henry
+2,590,053,417
+58,672,096
+24,385,227
+564,135,315
+Omar Ishrak
+2,594,868,386
+66,045,635
+12,196,719
+564,135,315
+Risa Lavizzo-Mourey
+2,568,740,617
+92,241,275
+12,128,848
+564,135,315
+Tsu-Jae King Liu
+2,616,314,829
+44,754,656
+12,041,255
+564,135,315
+Barbara G. Novick
+2,620,938,473
+40,117,589
+12,054,678
+564,135,315
+Gregory D. Smith
+2,617,024,877
+43,706,831
+12,379,032
+564,135,315
+Lip-Bu Tan
+2,635,136,206
+25,847,000
+12,127,534
+564,135,315
+Dion J. Weisler
+2,575,409,150
+85,363,275
+12,338,315
+564,135,315
+Frank D. Yeary
+2,568,433,229
+92,818,441
+11,859,070
+564,135,315
+Proposal 2. Ratification of Selection of Independent Registered Public Accounting Firm -
+Approved
+
+For
+Against
+Abstain
+Broker Non-Votes
+3,054,581,918
+170,811,154
+11,852,983
+—
+Proposal 3. Advisory Vote to Approve Compensation of Named Executive Officers -
+Approved
+For
+Against
+Abstain
+Broker Non-Votes
+2,438,830,627
+215,384,345
+18,895,768
+564,135,315
+Proposal 4. Approval of Amendment and Restatement of the 2006 Equity Incentive Plan -
+Approved
+For
+Against
+Abstain
+Broker Non-Votes
+2,039,333,784
+616,560,653
+17,216,303
+564,135,315
+Proposal 5. Advisory Vote on the Frequency of Holding Future Advisory Votes on Compensation of Named Executive Officers -
+1 Year Approved
+1 Year
+2 Years
+3 Years
+Abstain
+Broker Non-Votes
+2,598,055,247
+8,327,910
+54,345,912
+12,381,671
+564,135,315
+Additional Disclosure Regarding Frequency of Stockholder Advisory Vote on Executive Compensation
+Based on the voting result at the Annual Meeting, the Board has determined to provide for a stockholder advisory vote on executive compensation on an annual basis.
+Proposal 6. Stockholder Proposal Requesting an Executive Stock Retention Period Policy and Reporting -
+Not Approved
+For
+Against
+Abstain
+Broker Non-Votes
+698,982,897
+1,933,593,553
+40,534,290
+564,135,315
+Proposal 7. Stockholder Proposal Requesting Commission and Publication of a Third Party Review of Intel’s China Business ESG Congruence -
+Not Approved
+For
+Against
+Abstain
+Broker Non-Votes
+115,115,642
+2,516,980,767
+41,014,331
+564,135,315
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+INTEL CORPORATION
+(Registrant)
+Date:
+May 16, 2023
+By:
+/s/ April Miller Boise
+April Miller Boise
+Executive Vice President and Chief Legal Officer

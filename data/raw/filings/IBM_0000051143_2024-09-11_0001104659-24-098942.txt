@@ -1,0 +1,338 @@
+Title of each class
+
+Capital stock, par value $.20 per share
+
+Trading
+symbol
+
+IBM
+
+Common Stock
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+WASHINGTON,
+D.C. 20549
+
+FORM
+
+8-K
+
+CURRENT
+REPORT PURSUANT TO SECTION 13 OR 15 (d)
+
+OF
+THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report:
+September 11, 2024
+
+(Date of earliest
+event reported)
+
+INTERNATIONAL
+BUSINESS MACHINES CORPORATION
+
+(Exact name of registrant
+as specified in its charter)
+
+New York
+
+1-2360
+
+13-0871985
+
+(State of Incorporation)
+
+(Commission File Number)
+
+(IRS employer Identification No.)
+
+One New Orchard Road
+
+Armonk
+,
+
+New York
+
+10504
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+914
+-
+499-1900
+
+(Registrant’s telephone number)
+
+Check the appropriate box
+below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following
+provisions:
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered
+pursuant to Section 12(b) of the Act:
+
+Title
+of each class
+
+Trading
+symbol(s)
+
+Name
+of each exchange
+on which registered
+
+Capital stock, par value $.20 per share
+
+IBM
+
+New York Stock Exchange
+
+NYSE
+Chicago
+
+2.875% Notes due 2025
+
+IBM 25A
+
+New York Stock Exchange
+
+0.950% Notes due 2025
+
+IBM 25B
+
+New York Stock Exchange
+
+0.875% Notes due 2025
+
+IBM 25C
+
+New York Stock Exchange
+
+0.300% Notes due 2026
+
+IBM 26B
+
+New York Stock Exchange
+
+1.250% Notes due 2027
+
+IBM 27B
+
+New York Stock Exchange
+
+3.375% Notes due 2027
+
+IBM 27F
+
+New York Stock Exchange
+
+0.300% Notes due 2028
+
+IBM 28B
+
+New York Stock Exchange
+
+1.750% Notes due 2028
+
+IBM 28A
+
+New York Stock Exchange
+
+1.500% Notes due 2029
+
+IBM 29
+
+New York Stock Exchange
+
+0.875% Notes due 2030
+
+IBM 30A
+
+New York Stock Exchange
+
+1.750% Notes due 2031
+
+IBM 31
+
+New York Stock Exchange
+
+3.625% Notes due 2031
+
+IBM 31B
+
+New York Stock Exchange
+
+0.650% Notes due 2032
+
+IBM 32A
+
+New York Stock Exchange
+
+1.250% Notes due 2034
+
+IBM 34
+
+New York Stock Exchange
+
+3.750% Notes due 2035
+
+IBM 35
+
+New York Stock Exchange
+
+4.875% Notes due 2038
+
+IBM 38
+
+New York Stock Exchange
+
+1.200% Notes due 2040
+
+IBM 40
+
+New York Stock Exchange
+
+4.000% Notes due 2043
+
+IBM 43
+
+New York Stock Exchange
+
+7.00% Debentures due 2025
+
+IBM 25
+
+New York Stock Exchange
+
+6.22% Debentures due 2027
+
+IBM 27
+
+New York Stock Exchange
+
+6.50% Debentures due 2028
+
+IBM 28
+
+New York Stock Exchange
+
+5.875% Debentures due 2032
+
+IBM 32D
+
+New York Stock Exchange
+
+7.00% Debentures due 2045
+
+IBM 45
+
+New York Stock Exchange
+
+7.125% Debentures due 2096
+
+IBM 96
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+
+¨
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any
+new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+
+Item 8.01. Other Events.
+
+On September 5, 2024, International
+Business Machines Corporation (“IBM” or the “Company”) and State Street Global Advisors Trust Company, as
+independent fiduciary of the IBM Personal Pension Plan (the “Plan”), entered into a commitment agreement with The
+Prudential Insurance Company of America (“Prudential”) under which the Plan will purchase a nonparticipating single
+premium group annuity contract that will transfer to Prudential approximately $6 billion of the Plan’s defined benefit pension
+obligations related to certain pension benefits that began to be paid prior to 2016.
+
+The purchase of the group annuity contract
+closed on September 11, 2024. The contract covers approximately 32,000 Plan participants and beneficiaries (the
+“Transferred Participants”). Under the group annuity contract, Prudential has made an irrevocable commitment, and will
+be solely responsible, to pay the pension benefits of each Transferred Participant that are due on and after January 1, 2025.
+The transaction will result in no changes to the amount of benefits payable to the Transferred Participants.
+
+The purchase of the group annuity contract was
+funded directly by assets of the Plan and required no cash contribution from the Company. As a result of the transaction, the Company
+expects to recognize a one-time non-cash pre-tax pension settlement charge of approximately $2.7 billion ($2.0 billion net of tax) in
+the third quarter of 2024. The actual charge will depend on finalization of the actuarial and other assumptions. The pre-tax charge was
+not included in the GAAP forward-looking information released on July 24, 2024. This charge will not impact the Company’s third
+quarter or full year 2024 operating (non-GAAP) profit or free cash flow.
+
+Forward-Looking Statements
+
+Certain statements contained in this Form 8-K
+may constitute “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995 (“Reform
+Act”). Forward-looking statements are based on the company’s current assumptions regarding future business and financial performance.
+These statements by their nature address matters that are uncertain to different degrees. The company may also make forward-looking statements
+in other reports filed with the Securities and Exchange Commission (SEC), in materials delivered to stockholders and in press releases.
+In addition, the company’s representatives may from time to time make oral forward-looking statements. Forward-looking statements
+provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to
+any historical or current fact. Words such as “anticipates,” “believes,” “expects,” “estimates,”
+“intends,” “plans,” “projects,” and similar expressions, may identify such forward-looking statements.
+Any forward-looking statement in this Form 8-K speaks only as of the date on which it is made. Except as required by law, the company
+assumes no obligation to update or revise any forward-looking statements.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit No.
+
+Description of Exhibit
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL Document)
+
+2
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+Date: September 11, 2024
+
+By:
+
+/s/ Jane P. Edwards
+
+Jane P. Edwards
+
+Vice President, Assistant General Counsel and Secretary
+
+3

@@ -1,0 +1,87 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+________________________
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of Report (date of earliest event reported)
+August 16, 2023 (
+August 14, 2023
+)
+Walmart Inc.
+(Exact name of registrant as specified in its charter)
+DE
+001-06991
+71-0415188
+(State or other jurisdiction of incorporation or organization)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+702 S.W. 8th Street
+
+Bentonville
+,
+AR
+
+72716-0215
+
+(Address of Principal Executive Offices) (Zip code)
+Registrant's telephone number, including area code
+(
+479
+)
+273-4000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.10 per share
+WMT
+NYSE
+2.550% Notes Due 2026
+WMT26
+NYSE
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On August 14, 2023, Judith McKenna, age 57, the Company’s Executive Vice President, President and Chief Executive Officer, Walmart International, notified Walmart Inc. (the “Company”) of her intent to retire from the Company, effective as of the close of business January 31, 2024 (the “Retirement Date”). Beginning on September 11, 2023, Ms. McKenna will transition out of the role of Executive Vice President, President and Chief Executive Officer, Walmart International, and will serve as an Executive Vice President of the Company in a transitional role reporting to the Company’s President and Chief Executive Officer through the Retirement Date, at which time her employment with the Company will end. Ms. McKenna has served as Executive Vice President, President and Chief Executive Officer, Walmart International since February 2018. Previously, Ms. McKenna served in a variety of roles since joining the Company in 1996, including Executive Vice President and Chief Operating Officer of Walmart U.S., Executive Vice President and Chief Development Officer of Walmart U.S., Executive Vice President, Strategy and International Development for Walmart International, and Chief Operating Officer of Asda Group Limited, the Company’s former subsidiary in the United Kingdom.
+In connection with her notice of intent to retire, on August 16, 2023, the Company and Ms. McKenna entered into a Retirement Agreement (the “Agreement”). Subject to compliance with the terms and conditions of the Agreement, Ms. McKenna will receive payments totaling $2,300,000 to be paid over a two-year period following the Retirement Date. In addition, the Company will accelerate the vesting of 6,143 restricted shares of the Company’s common stock, par value $0.10, held by Ms. McKenna as of the Retirement Date. Ms. McKenna will forfeit all remaining unvested equity awards. The Agreement also prohibits Ms. McKenna, for a period of two years following the Retirement Date, from competing with the Company, and from soliciting certain of the Company’s associates for employment for a period of six months following the Retirement Date.
+On August 14, 2023, Kathryn McLay, age 49, was appointed Executive Vice President, President and Chief Executive Officer, Walmart International, effective September 11, 2023. Ms. McLay will continue to report to the Company’s President and Chief Executive Officer. Since November 2019, Ms. McLay has served as Executive Vice President, President and Chief Executive Officer, Sam’s Club. From February 2019 to November 2019, Ms. McLay served as Executive Vice President, Neighborhood Markets, Walmart U.S. Ms. McLay joined the Company in April 2015 as Vice President, U.S. Finance and Strategy, and was promoted to Senior Vice President, U.S. Supply Chain in December 2015, a role in which she served until February 2019. Prior to joining the Company, Ms. McLay served for 14 years in a variety of strategic, finance, and supply chain roles at Woolworths Limited, a prominent Australian retailer.
+The Company previously entered into a post-termination agreement and covenant not to compete with Ms. McLay dated December 24, 2015 (the “McLay Non-Compete Agreement”). The McLay Non-Compete Agreement is substantially similar to the form of post termination agreement and covenant not to compete that is attached as Exhibit 10(g) to the Company’s Form 10-K filed on March 28, 2019. The McLay Non-Compete Agreement prohibits Ms. McLay, for a period of two years following termination of employment with the Company for any reason, from participating in a business that competes with the Company and from soliciting certain of the Company’s associates for employment. The McLay Non-Compete Agreement also provides that, if Ms. McLay’s employment is terminated by the Company for any reason other than for a violation of the Company’s policies, the Company will continue to pay her base salary for two years following termination of employment.
+On August 15, 2023, the Compensation and Management Development Committee (the “CMDC”) of the Company’s Board of Directors approved certain changes to Ms. McLay’s compensation in her new role. Ms. McLay’s annualized base salary will remain $1,000,000 for the remainder of the fiscal year ending January 31, 2024 (“fiscal 2024). Ms. McLay’s target annual cash incentive opportunity under the Company’s Management Incentive Plan (the “MIP”) is based on performance criteria established by the CMDC. Ms. McLay’s target cash incentive payment under the MIP will remain 180% of her base salary, with a maximum possible payout of 225% of her base salary. Ms. McLay will continue to be eligible to receive an annual equity award, generally consisting of a combination of performance-based restricted stock units and restricted stock, with a value of approximately $10,000,000. The Company generally grants annual equity awards to executive officers in January of each year.
+On August 14, 2023, Christopher Nicholas, age 46, was appointed Executive Vice President, President and Chief Executive Officer, Sam’s Club, effective September 11, 2023. Mr. Nicholas will report to the Company’s President and Chief Executive Officer. Since October 2021, Mr. Nicholas has served as Executive Vice President and Chief Operating Officer, Walmart U.S. From February 2021 to October 2021, Mr. Nicholas served as Executive Vice President and Chief Financial Officer of Walmart U.S., and from January 2020 to February 2021 as Executive Vice President and Chief Financial Officer of Walmart International. Mr. Nicholas joined the Company in August 2018 as Senior Vice President and Deputy Chief Financial Officer, Walmart International, a role he held until January 2020. Prior to joining the Company, Mr. Nicholas served in a variety of roles at Coles Group, a prominent Australian retailer, from November 2014 to July 2018, most recently as Chief Financial Officer. Previously, Mr. Nicholas also served as Group Finance Director of Dansk Supermaked Group, a Danish-based retailer,
+from June 2013 to October 2014, and in a variety of finance roles for Tesco PLC, a U.K.-based retailer, from 2001 through 2014.
+The Company previously entered into a post-termination agreement and covenant not to compete with Mr. Nicholas dated May 20, 2018 (the “Nicholas Non-Compete Agreement”). The Nicholas Non-Compete Agreement is substantially similar to the form of post termination agreement and covenant not to compete that is attached as Exhibit 10(g) to the Company’s Form 10-K filed on March 28, 2019. The Nicholas Non-Compete Agreement prohibits Mr. Nicholas, for a period of two years following termination of employment with the Company for any reason, from participating in a business that competes with the Company and from soliciting certain of the Company’s associates for employment. The Nicholas Non-Compete Agreement also provides that, if Mr. Nicholas’s employment is terminated by the Company for any reason other than for a violation of the Company’s policies, the Company will continue to pay his base salary for two years following termination of employment.
+On August 15, 2023, the CMDC approved certain changes to Mr. Nicholas’ compensation in his new role. Specifically, effective September 11, 2023, Mr. Nicholas’ annualized base salary will be $850,000. Mr. Nicholas will continue to be eligible for an annual cash incentive payment under the MIP, based on performance criteria established by the CMDC. Mr. Nicholas target cash incentive payment under the MIP will be 180% of his base salary, with a maximum possible payout of 225% of his base salary. Mr. Nicholas will continue to be eligible to receive an annual equity award, generally consisting of a combination of performance-based restricted stock units and restricted stock, with a value of approximately $7,000,000. The Company generally grants annual equity awards to executive officers in January of each year.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated: August 16, 2023
+WALMART INC.
+By:
+/s/ Gordon Y. Allison
+Name:
+Gordon Y. Allison
+Title:
+Senior Vice President, Office of the Corporate Secretary, and Chief Counsel for Finance and Governance

@@ -1,0 +1,198 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of
+The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+June 30, 2021
+
+Philip Morris International Inc.
+
+(Exact name of registrant as specified in its charter)
+Virginia
+1-33708
+13-3435103
+(State or other jurisdiction
+of incorporation)
+(Commission File Number)
+(I.R.S. Employer
+Identification No.)
+120 Park Avenue
+New York
+New York
+10017-5592
+(Address of principal executive offices)
+(Zip Code)
+Registrant's telephone number, including area code: (
+917
+)
+663-2000
+
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, no par value
+PM
+New York Stock Exchange
+2.900% Notes due 2021
+PM21A
+New York Stock Exchange
+2.625% Notes due 2022
+PM22A
+New York Stock Exchange
+2.375% Notes due 2022
+PM22B
+New York Stock Exchange
+2.500% Notes due 2022
+PM22
+New York Stock Exchange
+2.500% Notes due 2022
+PM22C
+New York Stock Exchange
+2.625% Notes due 2023
+PM23
+New York Stock Exchange
+2.125% Notes due 2023
+PM23B
+New York Stock Exchange
+3.600% Notes due 2023
+PM23A
+New York Stock Exchange
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+2.875% Notes due 2024
+PM24
+New York Stock Exchange
+2.875% Notes due 2024
+PM24C
+New York Stock Exchange
+0.625% Notes due 2024
+PM24B
+New York Stock Exchange
+3.250% Notes due 2024
+PM24A
+New York Stock Exchange
+2.750% Notes due 2025
+PM25
+New York Stock Exchange
+3.375% Notes due 2025
+PM25A
+New York Stock Exchange
+2.750% Notes due 2026
+PM26A
+New York Stock Exchange
+2.875% Notes due 2026
+PM26
+New York Stock Exchange
+0.125% Notes due 2026
+PM26B
+New York Stock Exchange
+3.125% Notes due 2027
+PM27
+New York Stock Exchange
+3.125% Notes due 2028
+PM28
+New York Stock Exchange
+2.875% Notes due 2029
+PM29
+New York Stock Exchange
+3.375% Notes due 2029
+PM29A
+New York Stock Exchange
+0.800% Notes due 2031
+PM31
+New York Stock Exchange
+3.125% Notes due 2033
+PM33
+New York Stock Exchange
+2.000% Notes due 2036
+PM36
+New York Stock Exchange
+1.875% Notes due 2037
+PM37A
+New York Stock Exchange
+6.375% Notes due 2038
+PM38
+New York Stock Exchange
+1.450% Notes due 2039
+PM39
+New York Stock Exchange
+4.375% Notes due 2041
+PM41
+New York Stock Exchange
+4.500% Notes due 2042
+PM42
+New York Stock Exchange
+3.875% Notes due 2042
+PM42A
+New York Stock Exchange
+4.125% Notes due 2043
+PM43
+New York Stock Exchange
+4.875% Notes due 2043
+PM43A
+New York Stock Exchange
+4.250% Notes due 2044
+PM44
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+Item 1.01.
+Entry into a Material Definitive Agreement.
+On June 30, 2021, PMI Global Services, Inc., a Delaware corporation, a wholly owned subsidiary of Philip Morris International Inc., a Virginia corporation (the “Buyer” or the “Company”), and Claudio Topco B.V., a private limited liability company organized under Dutch law (“Claudio Topco”), and Bagger-Sorensen & Co. A/S, a limited liability company organized under Danish law(“Bagger-Sorensen”, with Claudio Topco and Bagger-Sorensen together being the “Majority Sellers,” and the “Buyer” and the “Majority Sellers,” together being the “Parties,” and each individually being, a “Party”), entered into a Share Sale and Purchase Agreement (the “Purchase Agreement”). Pursuant to the terms of the Purchase Agreement, following the satisfaction or waiver of certain conditions, the Buyer will acquire from the Majority Sellers and, as a consequence of a drag-along process, from certain minority sellers, all of the issued and outstanding shares (the “Shares”) of Claudio Holdco A/S, an ultimate holding company of Fertin Pharma A/S and its subsidiaries, a developer and manufacturer of pharmaceuticals and nutraceutical products based on oral and intra-oral delivery systems (“Fertin”). The Buyer will pay an enterprise value for Fertin of DKK 5,121,500,000 (approximately USD 820 million)
+1
+, adjusted for consolidated net interest bearing debt and normalized working capital as of the locked box date of March 31, 2021 (the “Locked Box Date”). The Base Purchase Price will accrue an interest of 2.5 % p.a. from (and excluding) the Locked Box Date through and including the closing date of the Transaction.
+The consummation of the Transaction is subject to the satisfaction of certain customary closing conditions, including the receipt of antitrust and other governmental approvals. The Purchase Agreement provides that the closing will, to extent such closing conditions have been satisfied, occur on or around October 6, 2021. The Buyer has agreed to use all efforts to take or cause to be taken actions necessary to obtain the antitrust approvals required to consummate the Transaction.
+The Purchase Agreement contains representations, warranties and other covenants made by the Buyer and the Sellers that are customary for transactions of this nature. In addition, the Purchase Agreement includes certain restrictions on Bagger-Sorensen, its affiliates and related parties from conducting certain business activities that compete with Fertin for two years following the closing of the Transaction, subject to certain exceptions as described in the Purchase Agreement. In addition, the Majority Sellers and any of Bagger-Sorensen’s affiliates and/or related parties are subject to a non-solicitation provision with respect to certain key employees for a period of three years following the closing of the Transaction, with the non-solicitation provision being reduced to six months for those key employees that are considered salaried under Danish law.
+The Purchase Agreement contains customary indemnification obligations of Sellers in favor of Buyer, including obligations for Sellers to indemnify Buyer for losses related to breaches of representations and warranties. The Buyer has agreed to make any and all claims against Sellers for a breach of the Sellers’ warranties exclusively under a warranty and indemnity insurance policy except in case of a Seller’s fraud or willful misconduct or if a breach of a Seller’s fundamental warranties is not covered by the warranty and indemnity insurance policy.
+Each Seller’s obligation to indemnify Buyer is several and not joint. Furthermore, should a Seller be liable to indemnify Buyer, each such Seller will indemnify Buyer according to each such Seller’s pro rata ownership of the Shares. If there is any claim for fraud or willful misconduct by a Seller, only the Seller that has committed such breach of the Purchase Agreement shall be severally liable.
+The Purchase Agreement may be terminated prior to the consummation of the Transaction by the mutual written consent of the Parties and in certain other circumstances, including if closing has not occurred on or prior to December 30, 2021, subject to extension of up to six months if the required antitrust and governmental approvals have not yet been obtained.
+The foregoing description of the Purchase Agreement is qualified in its entirety by reference to the Purchase Agreement, a copy of which is filed herewith as Exhibit 2.1 and is incorporated herein by reference. It is not intended to provide any other factual information about the Company, Buyer, the Seller, Fertin, their respective businesses, or the actual conduct of their respective businesses during the period prior to the consummation of the Transaction. The Purchase Agreement contains representations and warranties that are the product of negotiations among the Parties thereto and the Parties made to, and solely for the benefit of, each other as of specified dates. The assertions embodied in those representations and warranties are subject to qualifications and limitations agreed to by the respective Parties and are also qualified in important part by confidential disclosures delivered by the respective Parties to the Purchase Agreement. The representations and warranties may have been made for the purpose of allocating contractual risk between the Parties to the agreements instead of establishing these matters as facts, and may be subject to standards of materiality applicable to the contracting parties that differ from those applicable to investors.
+____________
+1
+Using the average conversion rate on 29 June, 2021 of DKK 1.00 = USD
+Item 7.01.
+Regulation FD Disclosure.
+On July 1, 2021, the Company issued a press release announcing that it has entered into an agreement to acquire Fertin Pharma A/S, which press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and incorporated by reference herein.
+Item 9.01.
+Financial Statements and Exhibits.
+(d)
+Exhibits.
+2.1
+Share Sale and Purchase Agreement by and among Claudio Topco B.V., Bagger-Sorenson & Co. A/S and PMI Global Services, Inc., dated June 30, 2021 (portions of this Exhibit 2.1 have been omitted)
+.
+99.1
+Philip Morris International Inc. Press Release, dated July 1, 2021.
+104
+Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document and contained in Exhibit 101).
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+PHILIP MORRIS INTERNATIONAL INC.
+By:
+/s/ DARLENE QUASHIE HENRY
+Name:
+Darlene Quashie Henry
+Title:
+Vice President, Associate General Counsel & Corporate Secretary
+DATE: July 7, 2021

@@ -1,0 +1,169 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+April 5, 2021
+
+Broadcom Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+Delaware
+001-38449
+35-2617337
+(State or other jurisdiction of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+1320 Ridder Park Drive,
+San Jose,
+California
+95131-2313
+(Address of principal executive offices including zip code)
+(408)
+433-8000
+( Registrant’s telephone number, including area code)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol(s)
+Name of Each Exchange on Which Registered
+Common Stock, $0.001 par value
+AVGO
+The NASDAQ Global Select Market
+8.00% Mandatory Convertible Preferred Stock, Series A, $0.001 par value
+AVGOP
+The NASDAQ Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+Item 5.02
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers
+.
+(e)
+As described in Item 5.07 below, at the 2021 Annual Meeting of Stockholders of Broadcom Inc. ("Broadcom") held on April 5, 2021 (the "2021 Annual Meeting"), Broadcom stockholders approved the amendment and restatement of Broadcom's 2012 Stock Incentive Plan (the "Amended 2012 Plan"). The Board of Directors of Broadcom had previously approved the Amended 2012 Plan on February 5, 2021, subject to stockholder approval. All executive officers of Broadcom are eligible to participate in the Amended 2012 Plan.
+As previously disclosed in the Current Report on Form 8-K filed by Broadcom on December 10, 2020 (the "December 2020 Form 8-K"), each of Mr. Hock E. Tan (Broadcom's President and Chief Executive Officer), Dr. Charlie B. Kawwas (Broadcom's Chief Operating Officer), and Mr. Thomas H. Krause, Jr. (Broadcom's President, Infrastructure Software Group) was awarded long-term equity incentive awards (collectively, the “Contingent Equity Awards”), contingent upon the approval of the Amended 2012 Plan at the 2021 Annual Meeting. As a result of the approval of the Amended 2012 Plan, the Contingent Equity Awards have been awarded to Messrs. Tan and Krause and Dr. Kawwas, the terms of which were disclosed in the December 2020 Form 8-K and our Definitive Proxy Statement on Schedule 14A filed on February 19, 2021 and are incorporated herein by reference.
+Item 5.07
+Submission of Matters to a Vote of Security Holders.
+The holders of Broadcom's shares of common stock voted on the following matters at the 2021 Annual Meeting:
+(1)
+To elect nine director nominees named in the Proxy Statement for the next year;
+(2)
+To ratify the appointment of PricewaterhouseCoopers LLP to serve as Broadcom's independent registered public accounting firm for the fiscal year ending October 31, 2021;
+(3)
+To approve an amendment and restatement of Broadcom's 2012 Stock Incentive Plan; and
+(4)
+To hold an advisory vote to approve the compensation of Broadcom's named executive officers.
+For each of these proposals a quorum was present. Each of the director nominees was elected and each of proposals 2, 3 and 4 was approved by Broadcom's common stockholders.
+The votes cast in connection with such matters were as follows:
+(1)
+Election of director nominees:
+Name
+For
+Against
+Abstain
+Broker Non-Votes
+Diane M. Bryant
+328,884,236
+1,385,351
+1,292,965
+29,242,923
+Gayla J. Delly
+328,827,065
+1,445,907
+1,289,580
+29,242,923
+Raul J. Fernandez
+327,261,119
+2,853,055
+1,448,378
+29,242,923
+Eddy W. Hartenstein
+300,470,932
+29,795,056
+1,296,564
+29,242,923
+Check Kian Low
+328,629,201
+1,632,745
+1,300,606
+29,242,923
+Justine F. Page
+328,866,300
+1,410,646
+1,285,606
+29,242,923
+Henry Samueli
+327,232,150
+3,074,273
+1,256,129
+29,242,923
+Hock E. Tan
+329,797,992
+520,587
+1,243,973
+29,242,923
+Harry L. You
+327,965,821
+2,317,112
+1,279,619
+29,242,923
+(2) Ratify the appointment of PricewaterhouseCoopers LLP:
+For
+Against
+Abstain
+Broker Non-Votes
+357,456,502
+1,979,068
+1,369,905
+0
+(3) Approve an amendment and restatement of Broadcom's 2012 Stock Incentive Plan:
+For
+Against
+Abstain
+Broker Non-Votes
+251,298,200
+78,916,062
+1,348,290
+29,242,923
+(4) Advisory vote to approve the compensation of Broadcom's named executive officers:
+For
+Against
+Abstain
+Broker Non-Votes
+315,765,407
+14,110,449
+1,686,696
+29,242,923
+Item 9.01 Financial Statements and Exhibits.
+Exhibit No.
+Description
+104
+Cover Page Interactive Data File (formatted as Inline XBRL).
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Date:
+April 5, 2021
+
+Broadcom Inc.
+By:
+/s/ Kirsten Spears
+Name:
+Kirsten Spears
+Title:
+Chief Financial Officer

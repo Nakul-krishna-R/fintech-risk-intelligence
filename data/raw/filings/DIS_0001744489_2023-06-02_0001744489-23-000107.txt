@@ -1,0 +1,85 @@
+________________________________________________________________________
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+May 26, 2023
+The Walt Disney Company
+(Exact name of registrant as specified in its charter)
+Delaware
+001-38842
+83-0940635
+(State or other jurisdiction
+(Commission File Number)
+(IRS Employer
+of incorporation)
+Identification No.)
+
+500 South Buena Vista Street
+
+Burbank
+,
+California
+
+91521
+
+(Address of Principal Executive Offices and Zip Code)
+(
+818
+)
+560-1000
+
+(Registrant’s telephone number, including area code)
+Not applicable
+
+(Former name or address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.01 par value
+DIS
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+________________________________________________________________________
+Item 2.06 Material Impairments.
+As previously announced, The Walt Disney Company (together with the subsidiaries through which its various businesses are actually conducted, the “Company”) is in the process of reviewing content, primarily on its direct-to-consumer (“DTC”) services, for alignment with a strategic change in approach to content curation and as a result is removing certain content from its platforms. On May 26, 2023, the Company removed certain produced content from its DTC services. As a result, the Company will record a $1.5 billion impairment charge in its fiscal third quarter financial statements to adjust the carrying value of these content assets to fair value. The Company is continuing its review and currently anticipates additional produced content will be removed from its DTC and other platforms, largely during the remainder of its third fiscal quarter. As a result, the Company currently estimates it may incur further impairment charges of up to approximately $0.4 billion related to produced content. The Company does not expect any material cash expenditures in connection with the impairment charges related to produced content. In addition, the Company may terminate certain license agreements for the right to use content on its platforms, which would result in the removal of licensed content from its platforms and lead to impairment and/or contract termination charges as well as cash payments. The Company currently expects that any such charges and payments related to licensed content would be meaningfully less than the impairment charges related to produced content.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+Exhibit
+Number
+Description
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+The Walt Disney Company
+By:
+
+/s/ Brent A. Woodford
+
+Brent A. Woodford
+
+Executive Vice President, Controllership, Financial Planning and Tax
+Dated: June 2, 2023

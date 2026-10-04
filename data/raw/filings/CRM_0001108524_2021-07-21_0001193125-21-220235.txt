@@ -1,0 +1,245 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+July 21, 2021
+
+Date of Report (date of earliest event reported)
+
+salesforce.com, inc.
+
+(Exact name of Registrant as specified in its charter)
+
+Delaware
+
+001-32224
+
+94-3320693
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+Salesforce Tower
+
+415 Mission Street
+,
+3rd Fl
+
+San Francisco
+,
+CA
+
+94105
+
+(Address of principal executive offices)
+
+Registrant’s telephone number, including area code:
+(415)
+
+901-7000
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Exchange Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange
+on which registered
+
+Common Stock, par value $0.001 per share
+
+CRM
+
+New York Stock Exchange, Inc.
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+The information provided in Item 2.03 below is incorporated by reference herein.
+
+Item 2.01. Completion of Acquisition or Disposition of Assets.
+
+On July 21, 2021 (the “
+Closing Date
+”) the Company completed the acquisition of Slack Technologies, Inc. (“
+Slack
+”), pursuant to that certain Agreement and Plan of Merger, dated as of December 1, 2020 (the “
+Merger Agreement
+”), by and among salesforce.com, inc. (the “
+Company
+”), Skyline Strategies I Inc., a Delaware corporation and wholly owned subsidiary of the Company (“
+Merger Sub I
+”), Skyline Strategies II LLC, a Delaware limited liability company and wholly owned subsidiary of the Company (“
+Merger Sub II
+”), and Slack. On the Closing Date, pursuant to the Merger Agreement, and upon the terms and subject to the conditions therein, Merger Sub I merged with and into Slack (the “
+First Merger
+”), with Slack surviving the First Merger and continuing as a wholly owned subsidiary of the Company. Immediately following the First Merger, Slack merged (such second merger together with the First Merger, the “
+Mergers
+”) with and into Merger Sub II, with Merger Sub II continuing as a wholly owned subsidiary of the Company
+.
+At the effective time of the Second Merger, Merger Sub II was renamed Slack Technologies, LLC.
+
+Pursuant to the Merger Agreement, at the effective time of the First Merger (the “
+First Effective Time
+”), each share of Class A common stock, par value 0.0001 per share, of Slack and each share of Slack Class B common stock, par value 0.0001 per share, of Slack (collectively, the “
+Slack Shares
+”) issued and outstanding immediately prior to the First Effective Time (other than Slack Shares owned directly or indirectly by the Company, Slack or any of their respective subsidiaries immediately prior to the First Effective Time or Slack Shares covered by Slack restricted share awards) was automatically converted into the right to receive 0.0776 shares of common stock, par value 0.001, of the Company (the “
+Company Shares
+”) and $26.79 in cash, without interest and subject to applicable withholding taxes (the “
+Merger Consideration
+”).
+
+The foregoing descriptions of the Mergers and the Merger Agreement in this Item 2.01 do not purport to be complete and are qualified in their entirety by reference to the Merger Agreement, a copy of which was filed as Exhibit 2.1 to Salesforce’s Current Report on
+Form 8-K, filed
+with the Securities and Exchange Commission on December 1, 2020, and is incorporated herein by reference.
+
+Item 2.03. Creation of a Direct Financial Obligation or an Obligation under an
+Off-Balance
+Sheet Arrangement of a Registrant.
+
+In connection with the completion of the Mergers, on the Closing Date, the Company, Slack, Merger Sub II and U.S. Bank National Association, as trustee (the “
+Trustee
+”) entered into that certain Second Supplemental Indenture (the “
+Second Supplemental Indenture
+”) to the Indenture, dated as of April 9, 2020 (the “
+Base Indenture
+” and, together with that certain First Supplemental Indenture, dated as of February 10, 2021 (the “
+First Supplemental Indenture
+”), and the Second Supplemental Indenture, the “
+Indenture
+”), by and between Slack and the Trustee, relating to Slack’s $862.5 million in aggregate principal amount of 3.25% Convertible Senior Notes due 2025 (the “
+Convertible Notes
+”), pursuant to which Merger Sub II assumed Slack’s rights and obligations with respect to the Convertible Notes.
+
+As a result of the Mergers, and pursuant to the Second Supplemental Indenture, the Convertible Notes are no longer convertible into Slack Shares. Instead, subject to the terms and conditions of the Indenture, the Convertible Notes will be convertible into cash and Company Shares in proportion to the Merger Consideration payable pursuant to the Merger Agreement, pursuant to the “Reference Property” provisions in the Indenture. This Current Report on Form
+8-K
+does not constitute an offer or solicitation with respect to any securities.
+
+The foregoing descriptions of the Base Indenture, the First Supplemental Indenture and the Second Supplemental Indenture do not purport to be complete and are qualified in their entirety by reference to the Base Indenture, the First Supplemental Indenture and the Second Supplemental Indenture, copies of which are attached as Exhibits 4.1, 4.2 and 4.3 hereto, respectively, and incorporated by reference herein.
+
+Item 7.01. Regulation FD Disclosure.
+
+On July 21, 2021, the Company issued a press release announcing the closing of the Mergers, a copy of which is attached as Exhibit 99.1 and is incorporated in this Item 7.01 by reference.
+
+2
+
+The information in this Item 7.01 is furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “
+Exchange Act
+”), or otherwise subject to the liabilities of that Section. Such information shall not be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+
+Item 9.01 Financial Statements and Exhibits
+
+(d) Exhibits
+
+Exhibit
+Number
+
+Description
+
+2.1
+
+Agreement and Plan of Merger, dated as of December 1, 2020, by and among Slack Technologies, Inc., salesforce.com, inc., Skyline Strategies I Inc. and Skyline Strategies II LLC (incorporated by reference to Exhibit 2.1 to Salesforce’s Current Report on Form
+8-K
+filed on December 1, 2020)*
+
+4.1
+
+Indenture, dated April 9, 2020, between Slack Technologies, Inc. and U.S. Bank National Association, as trustee (incorporated by reference to Exhibit 4.1 to Slack Technologies, Inc.’s Form
+8-K
+filed on April 9, 2020)
+
+4.2
+
+First Supplemental Indenture, dated as of February 10, 2021, between Slack Technologies, Inc. and U.S. Bank National Association, as trustee (incorporated by reference to Exhibit 4.1 to Slack Technologies, Inc.’s Form
+8-K
+filed on February 11, 2021)
+
+4.3
+
+Second Supplemental Indenture, dated July 21, 2021, among Slack Technologies, Inc., Salesforce.com, Inc., Skyline Strategies II LLC and U.S. Bank National Association, as trustee
+
+99.1
+
+Press Release, dated July 21, 2021
+
+104
+
+The cover page of this Current Report on Form
+8-K,
+formatted in inline XBRL (included as Exhibit 101)
+
+*
+
+Certain exhibits and schedules have been omitted pursuant to Item 601(b)(2) of Regulation
+S-K,
+and Slack agrees to furnish supplementally to the SEC a copy of any omitted exhibits or schedules upon request; provided that the Company may request confidential treatment pursuant to Rule
+24b-2
+of the Exchange Act.
+
+3
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+salesforce.com, inc.
+
+Date: July 21, 2021
+
+By:
+
+/s/ Amy Weaver
+
+Amy Weaver
+
+President and Chief Financial Officer

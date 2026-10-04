@@ -1,0 +1,319 @@
+As filed with the Securities and Exchange Commission on Apr
+il 22, 2021
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+Apr
+il 20,
+2021
+
+BANK OF AMERICA CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+1-6523
+
+56-0906609
+(State or Other Jurisdiction of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+100 North Tryon Street
+
+Charlotte
+,
+North Carolina
+
+28255
+
+(Address of principal executive offices)
+(
+704
+)
+386-5681
+
+(Registrant’s telephone number, including area code)
+Not Applicable
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.01 per share
+BAC
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of Floating Rate Non-Cumulative Preferred Stock, Series E
+BAC PrE
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 6.000% Non-Cumulative Preferred Stock, Series EE
+BAC PrA
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 6.000% Non-Cumulative Preferred Stock, Series GG
+BAC PrB
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 5.875% Non-Cumulative Preferred Stock, Series HH
+BAC PrK
+New York Stock Exchange
+7.25% Non-Cumulative Perpetual Convertible Preferred Stock, Series L
+BAC PrL
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,200th interest in a share of
+
+BML PrG
+New York Stock Exchange
+Bank of America Corporation Floating Rate Non-Cumulative
+Preferred Stock, Series 1
+Depositary Shares, each representing a 1/1,200th interest in a share of
+
+BML PrH
+New York Stock Exchange
+Bank of America Corporation Floating Rate Non-Cumulative
+Preferred Stock, Series 2
+Depositary Shares, each representing a 1/1,200th interest in a share of
+
+BML PrJ
+New York Stock Exchange
+Bank of America Corporation Floating Rate Non-Cumulative
+Preferred Stock, Series 4
+Depositary Shares, each representing a 1/1,200th interest in a share of
+
+BML PrL
+New York Stock Exchange
+Bank of America Corporation Floating Rate Non-Cumulative
+Preferred Stock, Series 5
+Floating Rate Preferred Hybrid Income Term Securities of BAC Capital Trust XIII (and the guarantee related thereto)
+BAC/PF
+New York Stock Exchange
+5.63% Fixed to Floating Rate Preferred Hybrid Income Term Securities of BAC Capital Trust XIV (and the guarantee related thereto)
+BAC/PG
+New York Stock Exchange
+Income Capital Obligation Notes initially due December 15, 2066 of Bank of America Corporation
+MER PrK
+New York Stock Exchange
+Senior Medium-Term Notes, Series A, Step Up Callable Notes, due
+
+BAC/31B
+New York Stock Exchange
+November 28, 2031 of BofA Finance LLC (and the guarantee of the
+Registrant with respect thereto)
+Depositary Shares, each representing a 1/1,000th interest in a share of 5.375% Non-Cumulative Preferred Stock, Series KK
+BAC PrM
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 5.000% Non-Cumulative Preferred Stock, Series LL
+BAC PrN
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 4.375% Non-Cumulative Preferred Stock, Series NN
+BAC PrO
+New York Stock Exchange
+Depositary Shares, each representing a 1/1,000th interest in a share of 4.125% Non-Cumulative Preferred Stock, Series PP
+BAC PrP
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR 230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR 240.12b-2).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(e) On April 20, 2021, Bank of America Corporation (the “Corporation”) held its 2021 Annual Meeting of Shareholders (the “Annual Meeting”). At the Annual Meeting, the Corporation’s shareholders approved the amendment and restatement of the Bank of America Corporation Key Employee Equity Plan (“Plan”) to, among other things, (i) change the Plan name to the “Bank of America Corporation Equity Plan,” (ii) increase the number of shares of the Corporation’s common stock available for awards under the Plan by 115 million, (iii) update Plan provisions to reflect changes to Section 162(m) of the Internal Revenue Code of 1986 and (iv) extend the expiration date of the Plan from April 23, 2029 to April 19, 2031. The Plan’s terms are otherwise substantially unchanged.
+A description of the material terms and conditions of the Plan, as amended and restated, appears on pages 76-82 of the Corporation’s definitive proxy statement for the Annual Meeting filed with the Securities and Exchange Commission on March 8, 2021. That description, a copy of which is filed as Exhibit 99.1 hereto and is incorporated into this Item 5.02(e) by reference, does not purport to be complete, and is qualified in its entirety by reference to the full text of the amended and restated Plan attached as Exhibit 10.1 to this report and incorporated into this Item 5.02(e) by reference.
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+(a) On April 20, 2021, the Corporation held its Annual Meeting.
+(b) The Corporation’s shareholders elected all of the nominees for director; approved the advisory vote on executive compensation; ratified the appointment of PricewaterhouseCoopers LLP as the Corporation’s independent registered public accounting firm for 2021; and approved the amendment and restatement of the Plan. The Corporation’s shareholders did not approve the shareholder proposals listed below. With respect to all matters subject to a vote, holders of the Corporation’s common stock, Series B Preferred Stock, and Series 1, 2, 4, and 5 Preferred Stock voted together as a class.
+1. Electing directors:
+
+For
+
+Against
+
+Abstain
+
+Broker
+Non-Votes
+Sharon L. Allen
+6,237,185,059
+105,014,265
+23,096,557
+935,366,157
+Susan S. Bies
+6,203,830,438
+138,016,216
+23,449,227
+935,366,157
+Frank P. Bramble, Sr.
+6,194,200,922
+146,330,237
+24,764,722
+935,366,157
+Pierre J.P. de Weck
+6,256,279,145
+83,763,989
+25,252,747
+935,366,157
+Arnold W. Donald
+6,256,053,984
+84,472,722
+24,769,175
+935,366,157
+Linda P. Hudson
+6,256,520,566
+84,044,654
+24,730,661
+935,366,157
+Monica C. Lozano
+6,075,943,941
+264,618,738
+24,733,202
+935,366,157
+Thomas J. May
+6,088,955,092
+249,675,971
+26,664,818
+935,366,157
+Brian T. Moynihan
+5,998,084,696
+321,372,615
+45,838,570
+935,366,157
+Lionel L. Nowell III
+6,263,666,719
+75,866,252
+25,762,910
+935,366,157
+Denise L. Ramos
+6,257,044,323
+83,338,131
+24,913,427
+935,366,157
+Clayton S. Rose
+6,257,400,764
+82,560,017
+25,335,100
+935,366,157
+Michael D. White
+6,258,615,171
+81,338,478
+25,342,232
+935,366,157
+Thomas D. Woods
+6,284,145,150
+56,076,697
+25,074,034
+935,366,157
+R. David Yost
+6,252,155,506
+88,267,093
+24,873,282
+935,366,157
+Maria T. Zuber
+5,929,255,655
+412,121,759
+23,918,466
+935,366,157
+2. Approving the Corporation's executive compensation (an advisory, non-binding “Say on Pay” resolution):
+
+For
+5,975,909,983
+Against
+354,115,123
+Abstain
+35,270,773
+Broker Non-Votes
+935,366,157
+3. Ratifying the appointment of the Corporation's independent registered public accounting firm for 2021:
+For
+7,016,241,531
+Against
+259,220,933
+Abstain
+25,199,574
+4. Amending and restating the Bank of America Corporation Key Employee Equity Plan:
+For
+6,148,474,577
+Against
+187,014,368
+Abstain
+29,806,935
+Broker Non-Votes
+935,366,157
+5. Shareholder proposal - requesting amendments to the Corporation's proxy access bylaw:
+For
+1,577,264,713
+Against
+4,702,119,507
+Abstain
+85,911,660
+Broker Non-Votes
+935,366,157
+6. Shareholder proposal - requesting amendments to allow shareholders to act by written consent:
+For
+1,664,540,144
+Against
+4,617,254,328
+Abstain
+83,501,408
+Broker Non-Votes
+935,366,157
+7. Shareholder proposal - requesting a change in organizational form:
+For
+162,722,221
+Against
+6,109,080,583
+Abstain
+93,493,076
+Broker Non-Votes
+935,366,157
+8. Shareholder proposal - requesting a racial equity audit:
+For
+1,660,823,179
+Against
+4,603,693,949
+Abstain
+100,778,751
+Broker Non-Votes
+935,366,157
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibits 10.1 and 99.1 are filed herewith.
+EXHIBIT NO.
+
+DESCRIPTION OF EXHIBIT
+10.1
+Bank of America Corporation Equity Plan
+99.1
+
+Description of Bank of America Corporation Equity Plan
+104
+Cover Page Interactive Data File (embedded in the cover page formatted in Inline XBRL)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+BANK OF AMERICA CORPORATION
+By:
+/s/ Ross E. Jeffries, Jr.
+Ross E. Jeffries, Jr.
+Deputy General Counsel and Corporate Secretary
+Dated: April 22, 2021

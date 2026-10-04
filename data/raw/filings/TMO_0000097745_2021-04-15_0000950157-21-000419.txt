@@ -1,0 +1,270 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+April 15, 2021
+
+Thermo Fisher Scientific Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-08002
+
+04-2209186
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+168 Third Avenue
+
+Waltham
+,
+Massachusetts
+
+02451
+
+781
+-
+622-1000
+
+(Address, including zip code, and telephone number, including area code, of registrant’s principal executive offices)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $1.00 par value
+
+TMO
+
+New York Stock Exchange
+
+2.150% Notes due 2022
+
+TMO 22A
+
+New York Stock Exchange
+
+0.750% Notes due 2024
+
+TMO 24A
+
+New York Stock Exchange
+
+0.125% Notes due 2025
+
+TMO 25B
+
+New York Stock Exchange
+
+2.000% Notes due 2025
+
+TMO 25
+
+New York Stock Exchange
+
+1.400% Notes due 2026
+
+TMO 26A
+
+New York Stock Exchange
+
+1.450% Notes due 2027
+
+TMO 27
+
+New York Stock Exchange
+
+1.750% Notes due 2027
+
+TMO 27B
+
+New York Stock Exchange
+
+0.500% Notes due 2028
+
+TMO 28A
+
+New York Stock Exchange
+
+1.375% Notes due 2028
+
+TMO 28
+
+New York Stock Exchange
+
+1.950% Notes due 2029
+
+TMO 29
+
+New York Stock Exchange
+
+0.875% Notes due 2031
+
+TMO 31
+
+New York Stock Exchange
+
+2.375% Notes due 2032
+
+TMO 32
+
+New York Stock Exchange
+
+2.875% Notes due 2037
+
+TMO 37
+
+New York Stock Exchange
+
+1.500% Notes due 2039
+
+TMO 39
+
+New York Stock Exchange
+
+1.875% Notes due 2049
+
+TMO 49
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (
+§
+230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (
+§
+240.12b-2 of this chapter).
+
+Emerging Growth Company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised
+financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01.
+
+Other Events
+
+On April 15, 2021, Thermo Fisher Scientific Inc. (“Thermo Fisher”) and PPD, Inc. (“Powder”) issued a joint press release announcing the execution of an Agreement and
+Plan of Merger by and among Thermo Fisher, Powder and Powder Acquisition Corp., a wholly owned subsidiary of Thermo Fisher (“Merger Sub”), pursuant to which, upon the terms and subject to the conditions thereof, Merger Sub will merge with and into
+Powder, with Powder continuing as the surviving corporation and a wholly owned subsidiary of Thermo Fisher. A copy of the joint press release is attached as Exhibit 99.1 hereto and is incorporated herein by reference.
+
+Forward-Looking Statements
+
+This communication contains forward-looking statements that involve a number of risks and uncertainties. Words such as “believes,” “anticipates,” “plans,” “expects,”
+“seeks,” “estimates,” and similar expressions are intended to identify forward-looking statements, but other statements that are not historical facts may also be deemed to be forward-looking statements. Important factors that could cause actual
+results to differ materially from those indicated by forward-looking statements include risks and uncertainties relating to: the duration and severity of the COVID-19 pandemic; the need to develop new products and adapt to significant technological
+change; implementation of strategies for improving growth; general economic conditions and related uncertainties; dependence on customers’ capital spending policies and government funding policies; the effect of economic and political conditions and
+exchange rate fluctuations on international operations; use and protection of intellectual property; the effect of changes in governmental regulations; and the effect of laws and regulations governing government contracts, as well as the possibility
+that expected benefits related to recent or pending acquisitions, including the proposed acquisition, may not materialize as expected; the proposed acquisition not being timely completed, if completed at all; regulatory approvals required for the
+transaction not being timely obtained, if obtained at all, or being obtained subject to conditions; prior to the completion of the transaction, Powder’s business experiencing disruptions due to transaction-related uncertainty or other factors making
+it more difficult to maintain relationships with employees, customers, other business partners or governmental entities; difficulty retaining key employees; the outcome of any legal proceedings related to the proposed acquisition; and the parties
+being unable to successfully implement integration strategies or to achieve expected synergies and operating efficiencies within the expected time-frames or at all. Additional important factors that could cause actual results to differ materially
+from those indicated by such forward-looking statements are set forth in Thermo Fisher’s Annual Report on Form 10-K for the year ended December 31, 2020, which is on file with the U.S. Securities and Exchange Commission (“SEC”) and available in the
+“Investors” section of Thermo Fisher’s website, ir.thermofisher.com, under the heading “SEC Filings,” and in any subsequent Quarterly Reports on Form 10-Q and other documents Thermo Fisher files with the SEC, and in Powder’s Annual Report on Form
+10-K for the year ended December 31, 2020, which is on file with the SEC and available in the “Investors” section of Powder’s website, investors.ppd.com, under the heading “SEC Filings,” and its subsequent Quarterly Reports on Form 10-Q and in other
+documents Powder files with the SEC. While Thermo Fisher or Powder may elect to update forward-looking statements at some point in the future, Thermo Fisher and Powder specifically disclaim any obligation to do so, even if estimates change and,
+therefore, you should not rely on these forward-looking statements as representing either Thermo Fisher’s or Powder’s views as of any date subsequent to today.
+
+Item 9.01
+
+Financial Statements and Exhibits
+
+(d) Exhibits
+
+Exhibit No.
+
+Description
+
+99.1
+
+Joint Press Release of Thermo Fisher Scientific
+Inc. and PPD, Inc., dated April 15, 2021.
+
+104
+
+Cover Page Interactive Data File - the cover page XBRL tags are embedded within the Inline XBRL document.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+THERMO FISHER SCIENTIFIC INC.
+
+Date: April 15, 2021
+
+By:
+
+/s/ Michael A. Boxer
+
+Name:
+
+Michael A. Boxer
+
+Title:
+
+Senior Vice President and General Counsel
+
+EXHIBIT INDEX
+
+Exhibit No.
+
+Description
+
+99.1
+
+Joint Press Release of Thermo Fisher Scientific Inc. and PPD, Inc., dated April 15, 2021.

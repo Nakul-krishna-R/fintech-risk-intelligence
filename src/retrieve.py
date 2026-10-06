@@ -68,15 +68,23 @@ def get_similar_filings(
     chunk_id: str,
     top_k: int = 5,
     exclude_same_company: bool = False,
+    n_candidates: int = 50,
 ) -> dict:
     """Summarize the nearest neighbours of `chunk_id`, excluding its own filing.
 
+    Pulls `n_candidates` nearest neighbours, drops the ones the leakage filters
+    reject, then keeps the top `top_k` survivors. Over-fetching matters because 8-K
+    language is highly company-specific: a chunk's closest matches are usually other
+    filings by the same issuer, so a candidate pool of only `top_k` leaves nothing
+    behind once same-company neighbours are removed.
+
     Args:
         chunk_id: id of the chunk to look up (must exist in the collection).
-        top_k: how many nearest neighbours to consider before filtering.
+        top_k: how many surviving neighbours to summarize.
         exclude_same_company: if True, drop every neighbour from the same company
             rather than only those from the same company *and* filing date. Stricter
             leakage guard for company-level modelling.
+        n_candidates: size of the candidate pool fetched before filtering.
 
     Returns:
         dict with:
@@ -102,10 +110,12 @@ def get_similar_filings(
     model = get_model()
     query_vector = model.encode([source_text], normalize_embeddings=True)[0]
 
-    # +1 because the chunk itself is always its own closest match.
+    # Fetch a pool well beyond top_k so the filters below have something to keep.
+    # +1 covers the chunk itself, which is always its own closest match.
+    pool_size = min(max(n_candidates, top_k + 1), collection.count())
     result = collection.query(
         query_embeddings=[query_vector.tolist()],
-        n_results=top_k + 1,
+        n_results=pool_size,
         include=["metadatas"],
     )
     neighbour_ids = result["ids"][0]

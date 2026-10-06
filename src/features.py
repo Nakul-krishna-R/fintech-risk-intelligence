@@ -6,22 +6,29 @@ Three stages:
    (keyed on accession number, parsed out of chunk_id).
 2. Call retrieve.get_similar_filings on each filing's first chunk to attach
    neighbourhood features from the embedding index.
-3. Pull daily prices from yfinance and label the outcome: stock_drop == 1 when the
-   stock fell more than 10% within 90 days of the filing date.
+3. Pull daily prices (issuers plus the SPY benchmark) from yfinance and label the
+   outcome: stock_drop == 1 when the stock underperformed SPY by more than 5% over
+   the 5 trading days after the filing date.
 
 Output: data/features/feature_matrix.csv
 
+Measuring the move relative to SPY strips out market beta, which otherwise dominates
+a single stock's return and makes the label mostly a proxy for "was it a bad week for
+equities" rather than for anything the filing said.
+
 The outcome definition is switchable:
-    --drop-method trough   (default) 1 if the lowest close in the window is >10%
-                           below the baseline, i.e. the drop happened at any point
-    --drop-method return   1 if the close at the end of the window is >10% below
-                           the baseline, i.e. a point-to-point 90-day return
+    --drop-method excess   (default) stock return minus SPY return over the window
+    --drop-method return   raw stock return over the window
+    --drop-method trough   stock return to the lowest close in the window
+    --window-days N        forward window in TRADING days (default 5)
+    --drop-threshold X     flag when the measure falls below X (default -0.05)
 
 Baseline is the close on the first trading day on or after the filing date.
+The earlier 90-day absolute definition is still reachable as:
+    --drop-method return --window-days 63 --drop-threshold -0.10
 
 Usage:
     python src/features.py
-    python src/features.py --drop-method return
     python src/features.py --limit 50          # quick test run
 """
 
@@ -38,8 +45,7 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-DROP_THRESHOLD = -0.10
-WINDOW_DAYS = 90
+BENCHMARK_TICKER = "SPY"
 
 OUT_FIELDS = [
     # identity
@@ -51,8 +57,8 @@ OUT_FIELDS = [
     "similar_count", "avg_severity_neighbours",
     "dominant_risk_category_neighbours", "negative_sentiment_ratio_neighbours",
     # outcome and the prices behind it
-    "baseline_price", "min_price_90d", "max_drawdown_90d", "fwd_return_90d",
-    "stock_drop",
+    "baseline_price", "end_price", "stock_return", "benchmark_return",
+    "excess_return", "stock_drop",
 ]
 
 
@@ -177,14 +183,34 @@ def fetch_prices(tickers: list[str], start: str, end: str, delay: float) -> dict
     return prices
 
 
-def label_outcomes(filings: list[dict], prices: dict, drop_method: str) -> None:
-    """Compute the 90-day price outcome and stock_drop flag, in place."""
-    print(f"\nLabelling outcomes (method={drop_method}, threshold={DROP_THRESHOLD:.0%})...")
+def label_outcomes(
+    filings: list[dict],
+    prices: dict,
+    drop_method: str,
+    window_days: int,
+    threshold: float,
+) -> None:
+    """Compute the forward price outcome and stock_drop flag, in place.
+
+    `window_days` counts *trading* days, not calendar days: a 5-calendar-day window
+    would cover three trading days or five depending on where the weekend falls.
+
+    Methods:
+        excess  stock return minus benchmark return over the window (market-relative)
+        return  raw stock return over the window
+        trough  stock return to the lowest close in the window
+    """
+    print(f"\nLabelling outcomes (method={drop_method}, window={window_days} trading days, "
+          f"threshold={threshold:.0%})...")
+    benchmark = prices.get(BENCHMARK_TICKER)
+    if drop_method == "excess" and benchmark is None:
+        sys.exit(f"method 'excess' needs {BENCHMARK_TICKER} prices but none were downloaded")
+
     missing = 0
 
     for filing in filings:
-        for field in ("baseline_price", "min_price_90d", "max_drawdown_90d",
-                      "fwd_return_90d", "stock_drop"):
+        for field in ("baseline_price", "end_price", "stock_return",
+                      "benchmark_return", "excess_return", "stock_drop"):
             filing[field] = None
 
         closes = prices.get(filing["ticker"])
@@ -194,7 +220,7 @@ def label_outcomes(filings: list[dict], prices: dict, drop_method: str) -> None:
 
         filed = datetime.strptime(filing["filing_date"], "%Y-%m-%d")
 
-        # Baseline: first trading day on or after the filing date.
+        # Baseline: close on the first trading day on or after the filing date.
         on_or_after = closes[closes.index >= filed]
         if on_or_after.empty:
             missing += 1
@@ -202,22 +228,40 @@ def label_outcomes(filings: list[dict], prices: dict, drop_method: str) -> None:
         baseline_date = on_or_after.index[0]
         baseline = float(on_or_after.iloc[0])
 
-        window = closes[(closes.index > baseline_date) & (closes.index <= filed + timedelta(days=WINDOW_DAYS))]
-        if window.empty:
+        window = closes[closes.index > baseline_date].head(window_days)
+        if len(window) < window_days:
+            # Not enough trading days left in the data to score this filing.
             missing += 1
             continue
 
-        min_price = float(window.min())
-        drawdown = (min_price - baseline) / baseline
-        fwd_return = (float(window.iloc[-1]) - baseline) / baseline
+        end_price = float(window.min()) if drop_method == "trough" else float(window.iloc[-1])
+        stock_return = (end_price - baseline) / baseline
 
-        measure = drawdown if drop_method == "trough" else fwd_return
+        benchmark_return = None
+        if benchmark is not None:
+            bench_base = benchmark[benchmark.index >= baseline_date]
+            bench_window = benchmark[benchmark.index > baseline_date].head(window_days)
+            if not bench_base.empty and len(bench_window) == window_days:
+                b0 = float(bench_base.iloc[0])
+                b1 = float(bench_window.min()) if drop_method == "trough" else float(bench_window.iloc[-1])
+                benchmark_return = (b1 - b0) / b0
+
+        if benchmark_return is None:
+            if drop_method == "excess":
+                missing += 1
+                continue
+            excess_return = None
+        else:
+            excess_return = stock_return - benchmark_return
+
+        measure = excess_return if drop_method == "excess" else stock_return
 
         filing["baseline_price"] = round(baseline, 4)
-        filing["min_price_90d"] = round(min_price, 4)
-        filing["max_drawdown_90d"] = round(drawdown, 6)
-        filing["fwd_return_90d"] = round(fwd_return, 6)
-        filing["stock_drop"] = int(measure < DROP_THRESHOLD)
+        filing["end_price"] = round(end_price, 4)
+        filing["stock_return"] = round(stock_return, 6)
+        filing["benchmark_return"] = round(benchmark_return, 6) if benchmark_return is not None else None
+        filing["excess_return"] = round(excess_return, 6) if excess_return is not None else None
+        filing["stock_drop"] = int(measure < threshold)
 
     if missing:
         print(f"  {missing} filing(s) had no usable price window; stock_drop left blank")
@@ -236,13 +280,17 @@ def build(args: argparse.Namespace) -> int:
 
     add_retrieval_features(filings, args.exclude_same_company, args.n_candidates)
 
-    # Pad the price window so the last filing still has 90 days of history ahead.
+    # Pad the window generously so the last filing still has enough trading days
+    # ahead of it (trading days are ~0.7 of calendar days, plus holidays).
     dates = [f["filing_date"] for f in filings]
+    pad = int(args.window_days * 2) + 14
     start = (datetime.strptime(min(dates), "%Y-%m-%d") - timedelta(days=7)).strftime("%Y-%m-%d")
-    end = (datetime.strptime(max(dates), "%Y-%m-%d") + timedelta(days=WINDOW_DAYS + 14)).strftime("%Y-%m-%d")
+    end = (datetime.strptime(max(dates), "%Y-%m-%d") + timedelta(days=pad)).strftime("%Y-%m-%d")
 
-    prices = fetch_prices(sorted({f["ticker"] for f in filings}), start, end, args.delay)
-    label_outcomes(filings, prices, args.drop_method)
+    # The benchmark rides along with the issuer tickers so it shares one download pass.
+    tickers = sorted({f["ticker"] for f in filings} | {BENCHMARK_TICKER})
+    prices = fetch_prices(tickers, start, end, args.delay)
+    label_outcomes(filings, prices, args.drop_method, args.window_days, args.drop_threshold)
 
     with out_path.open("w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=OUT_FIELDS, extrasaction="ignore")
@@ -271,9 +319,21 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     )
     parser.add_argument(
         "--drop-method",
-        default="trough",
-        choices=["trough", "return"],
-        help="how to measure the 90-day drop (default: trough)",
+        default="excess",
+        choices=["excess", "return", "trough"],
+        help="how to measure the drop (default: excess, i.e. stock return minus SPY)",
+    )
+    parser.add_argument(
+        "--window-days",
+        type=int,
+        default=5,
+        help="forward window in TRADING days (default: 5)",
+    )
+    parser.add_argument(
+        "--drop-threshold",
+        type=float,
+        default=-0.05,
+        help="stock_drop = 1 when the measure falls below this (default: -0.05)",
     )
     parser.add_argument(
         "--exclude-same-company",

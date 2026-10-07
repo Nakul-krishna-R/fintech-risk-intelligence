@@ -1,6 +1,6 @@
 # Fintech Risk Intelligence
 
-An end-to-end pipeline that pulls 8-K filings from SEC EDGAR, extracts structured risk signals with a locally-hosted LLM, builds a semantic retrieval layer over 4,910 filing chunks, and tests whether any of it predicts short-horizon market underperformance — with an out-of-time holdout and an honest negative result.
+An end-to-end pipeline that pulls 8-K filings from SEC EDGAR, extracts structured risk signals with a locally-hosted LLM, builds a semantic retrieval layer over 4,910 filing chunks, and tests whether any of it predicts short-horizon market underperformance, with an out-of-time holdout and an honest negative result.
 
 ---
 
